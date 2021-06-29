@@ -1,0 +1,82 @@
+{
+  "affinityElems": [
+    "alm",
+    "ail",
+    "rec",
+    "sup"
+  ],
+  "ailments": [
+    "Charm",
+    "Mute",
+    "Panic",
+    "Poison",
+    "Sleep",
+    "Illusion"
+  ],
+  "baseStats": [
+    "HP",
+    "MP",
+    "St",
+    "Vi",
+    "Ma",
+    "Ag",
+    "Lu"
+  ],
+  "dlcDemons": [],
+  "races": [
+    "Herald",
+    "Megami",
+    "Avian",
+    "Divine",
+    "Flight",
+    "Yoma",
+    "Vile",
+    "Raptor",
+    "Deity",
+    "Avatar",
+    "Genma",
+    "Fairy",
+    "Beast",
+    "Jirae",
+    "Snake",
+    "Wilder",
+    "Jaki",
+    "Wargod",
+    "Lady",
+    "Dragon",
+    "Kishin",
+    "Fallen",
+    "Brute",
+    "Femme",
+    "Night",
+    "Tyrant",
+    "Drake",
+    "Haunt",
+    "Foul",
+    "Fiend",
+    "Amatsu",
+    "Kunitsu",
+    "Element"
+  ],
+  "resistCodes": {
+    "w": 1125,
+    "-": 100,
+    "s": 50,
+    "n": 0,
+    "r": -100,
+    "d": -1100
+  },
+  "resistElems": [
+    "phy",
+    "fir",
+    "ice",
+    "ele",
+    "for",
+    "lig",
+    "dar"
+  ],
+  "skillElems": [
+    "oth",
+    "pas"
+  ]
+}

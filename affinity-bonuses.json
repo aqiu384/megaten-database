@@ -1,0 +1,27 @@
+{
+  "elements": {
+    "phy": "phys",
+    "fir": "magic",
+    "ice": "magic",
+    "ele": "magic",
+    "for": "magic",
+    "lig": "insta",
+    "dar": "insta",
+    "alm": "magic",
+    "ail": "insta",
+    "rec": "insta",
+    "sup": "insta"
+  },
+  "costs": {
+    "phys": [8.33, 12.5, 16.67, 20.83, 25],
+    "magic": [5, 10, 15, 20, 25],
+    "insta": [10, 15, 20, 25, 30],
+    "support": [12.5, 25]
+  },
+  "upgrades": {
+    "phys": [0, 0, 0, 0, 0],
+    "magic": [0, 0, 0, 0, 0],
+    "insta": [0, 0, 0, 0, 0],
+    "support": [0, 0]
+  }
+}

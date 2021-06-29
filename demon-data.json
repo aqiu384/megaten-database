@@ -1,0 +1,546 @@
+{
+  "Aeros": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 10,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Agathion": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 10,
+    "race": "Yoma",
+    "resists": "--wn--w",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Angel": {
+    "affinities": [0, 0, 0, 0, -3, 3, -4, 0, 0, 2, 2],
+    "lvl": 10,
+    "race": "Divine",
+    "resists": "----wnw",
+    "skills": {
+      "Blessing": 11,
+      "Hama": 12,
+      "Patra": 6,
+      "Recarm": 15
+    },
+    "stats": [59, 103, 6, 8, 16, 12, 12]
+  },
+  "Anubis": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 41,
+    "race": "Avatar",
+    "resists": "-------",
+    "skills": {},
+    "stats": [184, 240, 0, 0, 0, 0, 0]
+  },
+  "Anzu": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 48,
+    "race": "Raptor",
+    "resists": "---nw--",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Apsaras": {
+    "affinities": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 16,
+    "race": "Yoma",
+    "resists": "-------",
+    "skills": {
+      "Mabufu": 13
+    },
+    "stats": [76, 0, 0, 0, 0, 0, 0]
+  },
+  "Aquans": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 15,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Arioch": {
+    "affinities": [2, 0, 5, 0, 0, 0, 0, 0, 2, 0, 0],
+    "lvl": 75,
+    "race": "Tyrant",
+    "resists": "-------",
+    "skills": {
+      "Bufubarion": 37,
+      "Hades Blast": 52,
+      "Hell Thrust": 39,
+      "Makajamaon": 21,
+      "Masukunda": 30
+    },
+    "stats": [474, 324, 0, 0, 0, 0, 0]
+  },
+  "Azumi": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 11,
+    "race": "Brute",
+    "resists": "---w---",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Berith": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 24,
+    "race": "Fallen",
+    "resists": "-sw---s",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Cait Sith": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 7,
+    "race": "Beast",
+    "resists": "---sw--",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Camael": {
+    "affinities": [3, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0],
+    "lvl": 69,
+    "race": "Herald",
+    "resists": "-------",
+    "skills": {
+      "Agibarion": 50,
+      "Diarahan": 27,
+      "Hades Blast": 50
+    },
+    "stats": [407, 0, 0, 0, 0, 0, 0]
+  },
+  "Cerberus": {
+    "affinities": [3, 4, -5, 0, 0, 0, 0, 0, 0, 0, 0],
+    "ailments": "-s----",
+    "lvl": 64,
+    "race": "Beast",
+    "resists": "-rw----",
+    "skills": {
+      "Enduring Soul": 0,
+      "Fire Breath": 20,
+      "Madness Nails": 30,
+      "Muscle Punch": 33,
+      "Rend Asunder": 21,
+      "Resist Phys": 0
+    },
+    "stats": [450, 223, 53, 59, 28, 43, 30]
+  },
+  "Cu Chulainn": {
+    "affinities": [4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0],
+    "lvl": 52,
+    "race": "Genma",
+    "resists": "-------",
+    "skills": {
+      "Fatal Sword": 20,
+      "Mazanma": 24,
+      "Zandyne": 28
+    },
+    "stats": [293, 201, 0, 0, 0, 0, 0]
+  },
+  "Daemon": {
+    "affinities": [2, 2, 0, 0, 0, -4, 2, 0, 0, 0, 0],
+    "lvl": 7,
+    "race": "Brute",
+    "resists": "-s-w-wn",
+    "skills": {
+      "Agi": 8,
+      "Hellish Slash": 4,
+      "Mudo": 13,
+      "Tarukaja": 8
+    },
+    "stats": [59, 0, 0, 0, 0, 0, 0]
+  },
+  "Decarabia": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 55,
+    "race": "Fallen",
+    "resists": "-----wn",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Eligor": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 37,
+    "race": "Fallen",
+    "resists": "-n-w--s",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Erthys": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 5,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Fafnir": {
+    "affinities": [4, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0],
+    "lvl": 60,
+    "race": "Drake",
+    "resists": "-------",
+    "skills": {
+      "Mortal Jihad": 24,
+      "Poison Breath": 21,
+      "Steel Needle": 20
+    },
+    "stats": [370, 220, 0, 0, 0, 0, 0]
+  },
+  "Finn McCool": {
+    "affinities": [5, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 71,
+    "race": "Genma",
+    "resists": "-------",
+    "skills": {
+      "Agibarion": 40,
+      "Bufubarion": 42,
+      "Hades Blast": 45,
+      "Mac an Luin": 37
+    },
+    "stats": [437, 325, 0, 0, 0, 0, 0]
+  },
+  "Flaemis": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 20,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Forneus": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 31,
+    "race": "Fallen",
+    "resists": "-------",
+    "skills": {},
+    "stats": [141, 170, 0, 0, 0, 0, 0]
+  },
+  "Gnome": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 25,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Hecatoncheires": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 55,
+    "race": "Jaki",
+    "resists": "----w-n",
+    "skills": {},
+    "stats": [365, 190, 0, 0, 0, 0, 0]
+  },
+  "Ho-oh": {
+    "affinities": [0, 4, 0, 0, 2, 0, 0, 0, 0, 3, 0],
+    "lvl": 22,
+    "race": "Avian",
+    "resists": "-------",
+    "skills": {
+      "Agilao": 16,
+      "Media": 22,
+      "Patra": 6,
+      "Rakunda": 8,
+      "Sukukaja": 8,
+      "Wind Breath": 21
+    },
+    "stats": [128, 117, 0, 0, 0, 0, 0]
+  },
+  "Inugami": {
+    "affinities": [0, 3, 0, 0, 0, 0, 0, 0, 1, 1, 0],
+    "lvl": 24,
+    "race": "Beast",
+    "resists": "-------",
+    "skills": {
+      "Dia": 6,
+      "Fire Breath": 21,
+      "Pulinpa": 9,
+      "Zionga": 20
+    },
+    "stats": [114, 134, 0, 0, 0, 0, 0]
+  },
+  "Jack Frost": {
+    "affinities": [0, -5, 4, 0, 0, 2, 0, 0, 0, 0, 0],
+    "ailments": "w-----",
+    "lvl": 25,
+    "race": "Fairy",
+    "resists": "-wd----",
+    "skills": {
+      "Ice Block": 40,
+      "Ice Breath": 20,
+      "Jack Bufula": 16,
+      "Mahama": 21,
+      "Resist Light": 0
+    },
+    "stats": [119, 153, 14, 15, 29, 21, 21]
+  },
+  "Jack-o'-Lantern": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 20,
+    "race": "Fairy",
+    "resists": "-------",
+    "skills": {},
+    "stats": [90, 135, 0, 0, 0, 0, 0]
+  },
+  "Kikuri-Hime": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 26,
+    "race": "Lady",
+    "resists": "-------",
+    "skills": {},
+    "stats": [113, 171, 0, 0, 0, 0, 0]
+  },
+  "Kodama": {
+    "affinities": [0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0],
+    "lvl": 6,
+    "race": "Jirae",
+    "resists": "-ww-s--",
+    "skills": {
+      "Dia": 6,
+      "Dormina": 9,
+      "Zan": 8
+    },
+    "stats": [46, 65, 5, 8, 9, 8, 9]
+  },
+  "Kumbhanda": {
+    "affinities": [3, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0],
+    "lvl": 41,
+    "race": "Haunt",
+    "resists": "-------",
+    "skills": {
+      "Blight": 16,
+      "Critical Wave": 21,
+      "Fatal Sword": 21,
+      "Mudoon": 21,
+      "Spirit Drain": 5
+    },
+    "stats": [208, 168, 0, 0, 0, 0, 0]
+  },
+  "Lakshmi": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 70,
+    "race": "Megami",
+    "resists": "-------",
+    "skills": {},
+    "stats": [363, 0, 0, 0, 0, 0, 0]
+  },
+  "Mandrake": {
+    "affinities": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
+    "ailments": "-----w",
+    "lvl": 6,
+    "race": "Yoma",
+    "resists": "-w-s---",
+    "skills": {
+      "Zio": 9
+    },
+    "stats": [49, 75, 6, 7, 9, 11, 9]
+  },
+  "Melchizedek": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 60,
+    "race": "Herald",
+    "resists": "-------",
+    "skills": {},
+    "stats": [314, 281, 0, 0, 0, 0, 0]
+  },
+  "Mermaid": {
+    "affinities": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 2],
+    "lvl": 12,
+    "race": "Femme",
+    "resists": "-wnw---",
+    "skills": {
+      "Rakukaja": 6,
+      "Stormcaller Song": 15
+    },
+    "stats": [72, 122, 0, 0, 0, 0, 0]
+  },
+  "Mokoi": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 22,
+    "race": "Night",
+    "resists": "-------",
+    "skills": {},
+    "stats": [116, 104, 0, 0, 0, 0, 0]
+  },
+  "Moloch": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 51,
+    "race": "Tyrant",
+    "resists": "-------",
+    "skills": {},
+    "stats": [297, 212, 0, 0, 0, 0, 0]
+  },
+  "Naga": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 28,
+    "race": "Snake",
+    "resists": "-------",
+    "skills": {},
+    "stats": [160, 112, 0, 0, 0, 0, 0]
+  },
+  "Neko Shogun": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3],
+    "lvl": 8,
+    "race": "Wargod",
+    "resists": "-------",
+    "skills": {
+      "Dia": 6,
+      "Fang Breaker": 15,
+      "Sukunda": 6
+    },
+    "stats": [69, 81, 0, 0, 0, 0, 0]
+  },
+  "Onmoraki": {
+    "affinities": [0, 2, -3, 0, 0, 0, 1, 0, 0, 0, 0],
+    "ailments": "-----w",
+    "lvl": 4,
+    "race": "Raptor",
+    "resists": "-sw-w--",
+    "skills": {
+      "Agi": 8,
+      "Mudo": 13,
+      "Pulinpa": 10
+    },
+    "stats": [42, 59, 5, 8, 8, 7, 6]
+  },
+  "Ose": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 44,
+    "race": "Fallen",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Ouyamatsumi": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 48,
+    "race": "Kunitsu",
+    "resists": "-w-s---",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Pixie": {
+    "affinities": [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1],
+    "ailments": "--w---",
+    "lvl": 2,
+    "race": "Fairy",
+    "resists": "----s-w",
+    "skills": {
+      "Dia": 6,
+      "Patra": 6,
+      "Rakukaja": 6,
+      "Zan": 9
+    },
+    "stats": [32, 82, 0, 0, 0, 0, 0]
+  },
+  "Preta": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 3,
+    "race": "Haunt",
+    "resists": "-w--wws",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Raja Naga": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 40,
+    "race": "Snake",
+    "resists": "-wsdw--",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Salamander": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 40,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Sarasvati": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 47,
+    "race": "Megami",
+    "resists": "-------",
+    "skills": {},
+    "stats": [208, 254, 0, 0, 0, 0, 0]
+  },
+  "Seth": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 67,
+    "race": "Drake",
+    "resists": "-------",
+    "skills": {},
+    "stats": [409, 284, 0, 0, 0, 0, 0]
+  },
+  "Slime": {
+    "affinities": [1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0],
+    "ailments": "---s--",
+    "lvl": 1,
+    "race": "Foul",
+    "resists": "-wwwww-",
+    "skills": {
+      "Dustma": 8,
+      "Lunge": 4,
+      "Poisma": 8
+    },
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Sylph": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 30,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Tsuchigumo": {
+    "affinities": [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 13,
+    "race": "Jirae",
+    "resists": "--ws---",
+    "skills": {
+      "Mazio": 13
+    },
+    "stats": [101, 83, 0, 0, 0, 0, 0]
+  },
+  "Turdak": {
+    "affinities": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 11,
+    "race": "Jaki",
+    "resists": "-------",
+    "skills": {
+      "Dream Needle": 8,
+      "Gram Slice": 8,
+      "Sukunda": 8
+    },
+    "stats": [80, 70, 0, 0, 0, 0, 0]
+  },
+  "Undine": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 35,
+    "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Yaksini": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 38,
+    "race": "Femme",
+    "resists": "-------",
+    "skills": {},
+    "stats": [213, 138, 0, 0, 0, 0, 0]
+  },
+  "Zhen": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 14,
+    "race": "Raptor",
+    "resists": "-w----s",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  }
+}
