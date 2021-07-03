@@ -38,7 +38,7 @@
     "target": "All allies"
   },
   "Blight": {
-    "cost": 1019,
+    "cost": 1020,
     "effect": "Light dmg, Poison",
     "element": "phy",
     "target": "All foes"
@@ -67,6 +67,12 @@
     "element": "ice",
     "target": "1 foe"
   },
+  "Catastrophe": {
+    "cost": 1075,
+    "effect": "Severe dmg",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Critical Wave": {
     "cost": 1025,
     "effect": "Light dmg, High crit, Low hit",
@@ -92,7 +98,7 @@
     "target": "1 ally"
   },
   "Diarahan": {
-    "cost": 1032,
+    "cost": 1030,
     "effect": "Fully recover HP ",
     "element": "rec",
     "target": "1 ally"
@@ -225,7 +231,7 @@
     "target": "1 foe"
   },
   "Hellish Slash": {
-    "cost": 1006,
+    "cost": 1005,
     "effect": "Light dmg, 4 hits, Low hit",
     "element": "phy",
     "rank": 99,
@@ -312,7 +318,7 @@
     "target": "All foes"
   },
   "Mahamabarion": {
-    "cost": 1075,
+    "cost": 1080,
     "effect": "Severe dmg, Low chance of instakill when weak to light",
     "element": "lig",
     "target": "All foes"
@@ -335,6 +341,12 @@
     "element": "ail",
     "target": "All foes"
   },
+  "Makarakarn": {
+    "cost": 1050,
+    "effect": "Repel next magic attack",
+    "element": "sup",
+    "target": "All allies"
+  },
   "Mamudo": {
     "cost": 1025,
     "effect": "Light dmg, Low chance of instakill when weak to dark",
@@ -342,7 +354,7 @@
     "target": "All foes"
   },
   "Mamudobarion": {
-    "cost": 1075,
+    "cost": 1080,
     "effect": "Severe dmg, Low chance of instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
@@ -467,6 +479,12 @@
     "element": "ele",
     "target": "All foes"
   },
+  "Me Patra": {
+    "cost": 1030,
+    "effect": "Cure mental ailments",
+    "element": "rec",
+    "target": "All allies"
+  },
   "Media": {
     "cost": 1028,
     "effect": "Slightly recover HP",
@@ -474,6 +492,7 @@
     "target": "All allies"
   },
   "Mediarahan": {
+    "cost": 1140,
     "effect": "Fully recover HP ",
     "element": "rec",
     "target": "All allies"
@@ -531,6 +550,12 @@
     "element": "phy",
     "target": "1 foe"
   },
+  "Panic Needle": {
+    "cost": 1015,
+    "effect": "Light dmg, Panic",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Patra": {
     "cost": 1008,
     "effect": "Cure mental ailments",
@@ -544,7 +569,7 @@
     "target": "1 foe"
   },
   "Poison Breath": {
-    "cost": 1026,
+    "cost": 1025,
     "effect": "Poison",
     "element": "ail",
     "target": "All foes"
@@ -573,7 +598,7 @@
     "target": "Multi foes"
   },
   "Recarm": {
-    "cost": 1018,
+    "cost": 1017,
     "effect": "Revive with half HP",
     "element": "rec",
     "target": "1 ally"
@@ -683,8 +708,20 @@
     "element": "ail",
     "target": "All foes"
   },
+  "Tetrakarn": {
+    "cost": 1050,
+    "effect": "Repel next phys attack",
+    "element": "sup",
+    "target": "All allies"
+  },
+  "Will of Carnage": {
+    "cost": 1050,
+    "effect": "Charge + Pierce",
+    "element": "sup",
+    "target": ""
+  },
   "Wind Breath": {
-    "cost": 1023,
+    "cost": 1025,
     "effect": "Light dmg, 2-5 hits",
     "element": "for",
     "target": "Multi foes"

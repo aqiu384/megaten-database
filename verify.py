@@ -17,6 +17,8 @@ with open('comp-config.json') as jsonfile:
 RACES = compConfig['races']
 bonuses = {}
 
+COST_MODS = {}
+
 for elem, btype in rawBonuses['elements'].items():
     bonuses[elem] = rawBonuses['costs'][btype]
 
@@ -30,23 +32,29 @@ for dname, entry in demons.items():
 
         selem = skills[sname]['element']
 
-        if selem in ['pas']:
+        if selem == 'pas':
             continue
 
-        scost = skills[sname]['cost'] - 1000
         smod = entry['affinities'][ELEMS[selem]]
+        scost = skills[sname]['cost'] - 1000
 
-        if smod > 0:
-            sbonus = scost * bonuses[selem][smod - 1] / 100
-            sbonus = scost - round(sbonus + 0.01)
-        else:
-            sbonus = scost
+        if smod == 0:
+            continue
 
-        if scost <= 10 and smod > 0:
-            if selem in ['rec', 'sup']:
-                sbonus = scost - 2
-            else:
-                sbonus = scost - min(smod, 2)
+        pcost = math.floor((100 - bonuses[selem][smod - 1]) / 100 * scost)
 
-        if ncost != sbonus:
-            print(dname, sname, ncost, sbonus)
+        if pcost != ncost:
+            print(sname, scost, smod, pcost, ncost)
+
+        if selem in ['rec', 'sup'] or 'cost' not in skills[sname]:
+            continue
+
+        if scost not in COST_MODS:
+            COST_MODS[scost] = [0] * 8
+        if COST_MODS[scost][smod - 1] == 0:
+            COST_MODS[scost][smod - 1] = ncost
+        if COST_MODS[scost][smod - 1] != ncost:
+            print(sname, scost, smod, ncost)
+
+for bcost in sorted(COST_MODS):
+    print(str(bcost) + '\t' + '\t'.join(str(x) for x in COST_MODS[bcost]))

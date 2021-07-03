@@ -1,27 +1,23 @@
 {
   "elements": {
-    "phy": "phys",
-    "fir": "magic",
-    "ice": "magic",
-    "ele": "magic",
-    "for": "magic",
-    "lig": "insta",
-    "dar": "insta",
-    "alm": "magic",
-    "ail": "insta",
-    "rec": "insta",
-    "sup": "insta"
+    "phy": "attack",
+    "fir": "attack",
+    "ice": "attack",
+    "ele": "attack",
+    "for": "attack",
+    "lig": "attack",
+    "dar": "attack",
+    "alm": "attack",
+    "ail": "attack",
+    "rec": "support",
+    "sup": "support"
   },
   "costs": {
-    "phys": [8.33, 12.5, 16.67, 20.83, 25],
-    "magic": [5, 10, 15, 20, 25],
-    "insta": [10, 15, 20, 25, 30],
-    "support": [12.5, 25]
+    "attack": [10, 13, 16, 20, 25, 29],
+    "support": [10, 10, 20, 30]
   },
   "upgrades": {
-    "phys": [0, 0, 0, 0, 0],
-    "magic": [0, 0, 0, 0, 0],
-    "insta": [0, 0, 0, 0, 0],
-    "support": [0, 0]
+    "attack": [0, 0, 0, 0, 0, 0],
+    "support": [0, 0, 0, 0]
   }
 }

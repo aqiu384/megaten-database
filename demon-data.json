@@ -80,7 +80,7 @@
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 11,
     "race": "Brute",
-    "resists": "---w---",
+    "resists": "--sw---",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
@@ -89,6 +89,14 @@
     "lvl": 24,
     "race": "Fallen",
     "resists": "-sw---s",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Black Ooze": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 33,
+    "race": "Foul",
+    "resists": "sw---w-",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
@@ -101,16 +109,19 @@
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Camael": {
-    "affinities": [3, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0],
+    "affinities": [3, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0],
     "lvl": 69,
     "race": "Herald",
     "resists": "-------",
     "skills": {
       "Agibarion": 50,
+      "Dekaja": 40,
       "Diarahan": 27,
-      "Hades Blast": 50
+      "Hades Blast": 50,
+      "Mahamabarion": 69,
+      "Megidolaon": 120
     },
-    "stats": [407, 0, 0, 0, 0, 0, 0]
+    "stats": [407, 286, 0, 0, 0, 0, 0]
   },
   "Cerberus": {
     "affinities": [3, 4, -5, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -181,7 +192,7 @@
     "affinities": [4, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0],
     "lvl": 60,
     "race": "Drake",
-    "resists": "-------",
+    "resists": "s-ww---",
     "skills": {
       "Mortal Jihad": 24,
       "Poison Breath": 21,
@@ -217,6 +228,18 @@
     "resists": "-------",
     "skills": {},
     "stats": [141, 170, 0, 0, 0, 0, 0]
+  },
+  "Futsunushi": {
+    "affinities": [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4],
+    "lvl": 69,
+    "race": "Wargod",
+    "resists": "s-----w",
+    "skills": {
+      "Catastrophe": 53,
+      "Matarukaja": 21,
+      "Will of Carnage": 35
+    },
+    "stats": [424, 0, 0, 0, 0, 0, 0]
   },
   "Gnome": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -327,6 +350,17 @@
     "skills": {},
     "stats": [363, 0, 0, 0, 0, 0, 0]
   },
+  "Lilim": {
+    "affinities": [0, 0, 0, 3, 0, 0, 0, 0, 2, 0, 0],
+    "lvl": 32,
+    "race": "Night",
+    "resists": "-------",
+    "skills": {
+      "Marin Karin": 8,
+      "Mazionga": 25
+    },
+    "stats": [138, 172, 0, 0, 0, 0, 0]
+  },
   "Mandrake": {
     "affinities": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
     "ailments": "-----w",
@@ -373,6 +407,19 @@
     "skills": {},
     "stats": [297, 212, 0, 0, 0, 0, 0]
   },
+  "Mothman": {
+    "affinities": [0, 0, 0, 1, 0, 0, 0, 0, 4, 0, 0],
+    "lvl": 29,
+    "race": "Wilder",
+    "resists": "---nw--",
+    "skills": {
+      "Me Patra": 30,
+      "Panic Needle": 15,
+      "Pulinpa": 8,
+      "Zionga": 18
+    },
+    "stats": [139, 153, 0, 0, 0, 0, 0]
+  },
   "Naga": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 28,
@@ -408,14 +455,16 @@
   },
   "Ose": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "ailments": "w-----",
     "lvl": 44,
     "race": "Fallen",
-    "resists": "-------",
+    "resists": "-wn---n",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Ouyamatsumi": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "ailments": "-----w",
     "lvl": 48,
     "race": "Kunitsu",
     "resists": "-w-s---",
@@ -488,6 +537,19 @@
       "Poisma": 8
     },
     "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Sraosha": {
+    "affinities": [0, 0, 0, 0, 0, 5, 0, 2, 0, 3, 0],
+    "lvl": 77,
+    "race": "Herald",
+    "resists": "-------",
+    "skills": {
+      "Mahamabarion": 60,
+      "Makarakarn": 50,
+      "Mediarahan": 112,
+      "Megidolaon": 104
+    },
+    "stats": [378, 407, 0, 0, 0, 0, 0]
   },
   "Sylph": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],

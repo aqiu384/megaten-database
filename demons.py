@@ -40,6 +40,21 @@ def parseEnemies(demons):
                 'skills': {}
             }
 
+            aresists = ['-'] * len(AILMENTS)
+            hasails = False
+
+            for apair in parts[12].split(', '):
+                if apair == '':
+                    continue
+                atype, alvl = apair.split(': ')
+                aresists[AILMENTS.index(atype)] = RESIST_LVLS[alvl]
+                hasails = True
+
+            aresists = ''.join(aresists)
+
+            if hasails:
+                demons[dname]['ailments'] = aresists
+
             demons[dname].update(entry)
 
     return demons
@@ -146,6 +161,7 @@ def parseSkills(skills):
         for line in tsvfile:
             parts = line.split('\t')
             parts[-1] = parts[-1].strip()
+            parts = parts[1:]
             elem, sname, cost, target, effect, unique = parts
             cost = int(cost or '0')
 
