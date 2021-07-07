@@ -1,4 +1,4 @@
-{
+const SMT5_AFFINITY_BONUSES = {
   "elements": {
     "phy": "attack",
     "fir": "attack",
@@ -14,7 +14,7 @@
   },
   "costs": {
     "attack": [10, 13, 16, 20, 25, 29],
-    "support": [10, 10, 20, 30]
+    "support": [10, 21, 25, 30]
   },
   "upgrades": {
     "attack": [0, 0, 0, 0, 0, 0],

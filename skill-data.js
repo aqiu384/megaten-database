@@ -1,4 +1,4 @@
-{
+const SMT5_SKILL_DATA = {
   "Agi": {
     "cost": 1010,
     "effect": "Light dmg",
@@ -23,6 +23,12 @@
     "element": "fir",
     "target": "1 foe"
   },
+  "Akasha Arts": {
+    "cost": 1050,
+    "effect": "Heavy dmg, Higher dmg when crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Aramasa": {
     "cost": 1010,
     "effect": "Light dmg",
@@ -31,7 +37,7 @@
     "target": "1 foe"
   },
   "Blessing": {
-    "cost": 1013,
+    "cost": 1015,
     "effect": "Slightly recover HP",
     "element": "rec",
     "rank": 99,
@@ -98,7 +104,7 @@
     "target": "1 ally"
   },
   "Diarahan": {
-    "cost": 1030,
+    "cost": 1035,
     "effect": "Fully recover HP ",
     "element": "rec",
     "target": "1 ally"
@@ -188,11 +194,23 @@
     "rank": 99,
     "target": "Multi foes"
   },
+  "Floral Gust": {
+    "cost": 1060,
+    "effect": "Medium dmg, 2-5 hits",
+    "element": "for",
+    "target": "Multi foes"
+  },
   "Force Block": {
     "cost": 1040,
     "effect": "Nullifies next force attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Glacial Blast": {
+    "cost": 1060,
+    "effect": "Medium dmg, 2-5 hits",
+    "element": "ice",
+    "target": "Multi foes"
   },
   "Gram Slice": {
     "cost": 1010,
@@ -222,6 +240,12 @@
     "cost": 1025,
     "effect": "Medium dmg, Low chance of instakill when weak to light",
     "element": "lig",
+    "target": "1 foe"
+  },
+  "Hard Hit": {
+    "cost": 1015,
+    "effect": "Medium dmg, Higher dmg when crit",
+    "element": "phy",
     "target": "1 foe"
   },
   "Hell Thrust": {
@@ -281,7 +305,7 @@
     "target": "All foes"
   },
   "Mabufubarion": {
-    "cost": 1065,
+    "cost": 1075,
     "effect": "Severe dmg",
     "element": "ice",
     "target": "All foes"
@@ -300,7 +324,7 @@
   },
   "Mac an Luin": {
     "cost": 1050,
-    "effect": "Severe dmg",
+    "effect": "Severe dmg, Higher dmg when crit",
     "element": "phy",
     "rank": 99,
     "target": "1 foe"
@@ -331,13 +355,13 @@
   },
   "Makajam": {
     "cost": 1010,
-    "effect": "Bind",
+    "effect": "Mute",
     "element": "ail",
     "target": "1 foe"
   },
   "Makajamaon": {
     "cost": 1025,
-    "effect": "Bind",
+    "effect": "Mute",
     "element": "ail",
     "target": "All foes"
   },
@@ -345,7 +369,7 @@
     "cost": 1050,
     "effect": "Repel next magic attack",
     "element": "sup",
-    "target": "All allies"
+    "target": "1 ally"
   },
   "Mamudo": {
     "cost": 1025,
@@ -372,7 +396,7 @@
     "target": "All foes"
   },
   "Maragibarion": {
-    "cost": 1065,
+    "cost": 1075,
     "effect": "Severe dmg",
     "element": "fir",
     "target": "All foes"
@@ -438,7 +462,7 @@
     "target": "All foes"
   },
   "Mazanbarion": {
-    "cost": 1065,
+    "cost": 1075,
     "effect": "Severe dmg",
     "element": "for",
     "target": "All foes"
@@ -462,7 +486,7 @@
     "target": "All foes"
   },
   "Maziobarion": {
-    "cost": 1065,
+    "cost": 1075,
     "effect": "Severe dmg",
     "element": "ele",
     "target": "All foes"
@@ -486,13 +510,13 @@
     "target": "All allies"
   },
   "Media": {
-    "cost": 1028,
+    "cost": 1030,
     "effect": "Slightly recover HP",
     "element": "rec",
     "target": "All allies"
   },
   "Mediarahan": {
-    "cost": 1140,
+    "cost": 1150,
     "effect": "Fully recover HP ",
     "element": "rec",
     "target": "All allies"
@@ -503,13 +527,13 @@
     "target": "All allies"
   },
   "Megido": {
-    "cost": 1060,
+    "cost": 1040,
     "effect": "Medium dmg",
     "element": "alm",
     "target": "All foes"
   },
   "Megidola": {
-    "cost": 1090,
+    "cost": 1080,
     "effect": "Heavy dmg",
     "element": "alm",
     "target": "All foes"
@@ -580,6 +604,12 @@
     "element": "ail",
     "target": "1 foe"
   },
+  "Ragnarok": {
+    "cost": 1060,
+    "effect": "Medium dmg, 2-5 hits",
+    "element": "fir",
+    "target": "Multi foes"
+  },
   "Rakukaja": {
     "cost": 1008,
     "effect": "Raise defense 1 level for 3 turns",
@@ -598,7 +628,7 @@
     "target": "Multi foes"
   },
   "Recarm": {
-    "cost": 1017,
+    "cost": 1020,
     "effect": "Revive with half HP",
     "element": "rec",
     "target": "1 ally"
@@ -712,7 +742,7 @@
     "cost": 1050,
     "effect": "Repel next phys attack",
     "element": "sup",
-    "target": "All allies"
+    "target": "1 ally"
   },
   "Will of Carnage": {
     "cost": 1050,

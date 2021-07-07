@@ -1,4 +1,4 @@
-{
+const SMT5_DEMON_DATA = {
   "Aeros": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 10,
@@ -241,6 +241,31 @@
     },
     "stats": [424, 0, 0, 0, 0, 0, 0]
   },
+  "Genbu": {
+    "affinities": [2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 2],
+    "lvl": 24,
+    "race": "Dragon",
+    "resists": "-------",
+    "skills": {
+      "Bufula": 15,
+      "Hard Hit": 13,
+      "Ice Breath": 18,
+      "Rakukaja": 6
+    },
+    "stats": [158, 90, 0, 0, 0, 0, 0]
+  },
+  "Girimehkala": {
+    "affinities": [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2],
+    "lvl": 66,
+    "race": "Vile",
+    "resists": "-------",
+    "skills": {
+      "Hades Blast": 48,
+      "Hell Thrust": 36,
+      "Marakunda": 23
+    },
+    "stats": [381, 0, 0, 0, 0, 0, 0]
+  },
   "Gnome": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 25,
@@ -332,7 +357,7 @@
     "affinities": [3, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0],
     "lvl": 41,
     "race": "Haunt",
-    "resists": "-------",
+    "resists": "---wn-s",
     "skills": {
       "Blight": 16,
       "Critical Wave": 21,
@@ -453,6 +478,18 @@
     },
     "stats": [42, 59, 5, 8, 8, 7, 6]
   },
+  "Orobas": {
+    "affinities": [0, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0],
+    "lvl": 49,
+    "race": "Beast",
+    "resists": "-------",
+    "skills": {
+      "Agidyne": 29,
+      "Megido": 40,
+      "Mudoon": 21
+    },
+    "stats": [213, 0, 0, 0, 0, 0, 0]
+  },
   "Ose": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "ailments": "w-----",
@@ -549,7 +586,7 @@
       "Mediarahan": 112,
       "Megidolaon": 104
     },
-    "stats": [378, 407, 0, 0, 0, 0, 0]
+    "stats": [399, 407, 0, 0, 0, 0, 0]
   },
   "Sylph": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -588,6 +625,18 @@
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Uriel": {
+    "affinities": [2, 5, 0, 2, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 82,
+    "race": "Herald",
+    "resists": "-------",
+    "skills": {
+      "Akasha Arts": 43,
+      "Maziobarion": 65,
+      "Ragnarok": 45
+    },
+    "stats": [516, 371, 0, 0, 0, 0, 0]
   },
   "Yaksini": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],

@@ -5,12 +5,15 @@ import math
 ELEMS = ['phy', 'fir', 'ice', 'ele', 'for', 'lig', 'dar', 'alm', 'ail', 'rec', 'sup']
 ELEMS = { x: i for i, x in enumerate(ELEMS) }
 
-with open('demon-data.json') as jsonfile:
-    demons = json.load(jsonfile)
-with open('skill-data.json') as jsonfile:
-    skills = json.load(jsonfile)
-with open('affinity-bonuses.json') as jsonfile:
-    rawBonuses = json.load(jsonfile)
+with open('demon-data.js') as jsonfile:
+    demons = jsonfile.read()[len('const SMT5_DEMON_DATA = '):]
+    demons = json.loads(demons)
+with open('skill-data.js') as jsonfile:
+    skills = jsonfile.read()[len('const SMT5_SKILL_DATA = '):]
+    skills = json.loads(skills)
+with open('affinity-bonuses.js') as jsonfile:
+    rawBonuses = jsonfile.read()[len('const SMT5_AFFINITY_BONUSES = '):]
+    rawBonuses = json.loads(rawBonuses)
 with open('comp-config.json') as jsonfile:
     compConfig = json.load(jsonfile)
 
@@ -42,6 +45,9 @@ for dname, entry in demons.items():
             continue
 
         pcost = math.floor((100 - bonuses[selem][smod - 1]) / 100 * scost)
+
+        if scost == 8:
+            pcost = 6
 
         if pcost != ncost:
             print(sname, scost, smod, pcost, ncost)
