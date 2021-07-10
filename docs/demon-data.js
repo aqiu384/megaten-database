@@ -62,6 +62,26 @@ const SMT5_DEMON_DATA = {
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
+  "Arahabaki": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3],
+    "lvl": 62,
+    "race": "Kunitsu",
+    "resists": "-------",
+    "skills": {
+      "Megidola": 58,
+      "Mudoon": 25,
+      "Tetrakarn": 37
+    },
+    "stats": [290, 0, 0, 0, 0, 0, 0]
+  },
+  "Archangel": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 18,
+    "race": "Divine",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
   "Arioch": {
     "affinities": [2, 0, 5, 0, 0, 0, 0, 0, 2, 0, 0],
     "lvl": 75,
@@ -264,7 +284,7 @@ const SMT5_DEMON_DATA = {
       "Hell Thrust": 36,
       "Marakunda": 23
     },
-    "stats": [381, 0, 0, 0, 0, 0, 0]
+    "stats": [381, 245, 0, 0, 0, 0, 0]
   },
   "Gnome": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -297,6 +317,21 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [128, 117, 0, 0, 0, 0, 0]
   },
+  "Horus": {
+    "affinities": [0, 0, 0, 0, 0, 3, 0, 2, 0, 2, 2],
+    "lvl": 42,
+    "race": "Deity",
+    "resists": "-s-swrw",
+    "skills": {
+      "Diarama": 11,
+      "Hakuryu Strike": 25,
+      "Mahamaon": 33,
+      "Matarukaja": 23,
+      "Megidola": 60,
+      "Mind Stremma": 31
+    },
+    "stats": [194, 0, 0, 0, 0, 0, 0]
+  },
   "Inugami": {
     "affinities": [0, 3, 0, 0, 0, 0, 0, 0, 1, 1, 0],
     "lvl": 24,
@@ -326,12 +361,26 @@ const SMT5_DEMON_DATA = {
     "stats": [119, 153, 14, 15, 29, 21, 21]
   },
   "Jack-o'-Lantern": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 5, -5, 0, 0, -1, 0, 0, 0, 0, 1],
+    "ailments": "--w---",
     "lvl": 20,
     "race": "Fairy",
-    "resists": "-------",
+    "resists": "-nw----",
+    "skills": {
+      "Agilao": 15,
+      "Life Bonus": 0,
+      "Maragi": 11,
+      "Tarunda": 6
+    },
+    "stats": [90, 135, 11, 12, 23, 19, 18]
+  },
+  "Kaiwan": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 45,
+    "race": "Night",
+    "resists": "-----wn",
     "skills": {},
-    "stats": [90, 135, 0, 0, 0, 0, 0]
+    "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Kikuri-Hime": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -488,7 +537,7 @@ const SMT5_DEMON_DATA = {
       "Megido": 40,
       "Mudoon": 21
     },
-    "stats": [213, 0, 0, 0, 0, 0, 0]
+    "stats": [213, 264, 0, 0, 0, 0, 0]
   },
   "Ose": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -537,6 +586,18 @@ const SMT5_DEMON_DATA = {
     "resists": "-wsdw--",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Rangda": {
+    "affinities": [3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0],
+    "lvl": 70,
+    "race": "Femme",
+    "resists": "-------",
+    "skills": {
+      "Nihil Claw": 30,
+      "Steel Needle": 21,
+      "Wind Breath": 21
+    },
+    "stats": [334, 348, 0, 0, 0, 0, 0]
   },
   "Salamander": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],

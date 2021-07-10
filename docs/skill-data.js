@@ -110,6 +110,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 ally"
   },
   "Diarama": {
+    "cost": 1015,
     "effect": "Moderately recover HP",
     "element": "rec",
     "target": "1 ally"
@@ -152,7 +153,7 @@ const SMT5_SKILL_DATA = {
   },
   "Elec Block": {
     "cost": 1040,
-    "effect": "Nullifies next elec attack",
+    "effect": "Nullify next elec attack",
     "element": "sup",
     "target": "All allies"
   },
@@ -178,7 +179,7 @@ const SMT5_SKILL_DATA = {
   },
   "Fire Block": {
     "cost": 1040,
-    "effect": "Nullifies next fire attack",
+    "effect": "Nullify next fire attack",
     "element": "sup",
     "target": "All allies"
   },
@@ -202,7 +203,7 @@ const SMT5_SKILL_DATA = {
   },
   "Force Block": {
     "cost": 1040,
-    "effect": "Nullifies next force attack",
+    "effect": "Nullify next force attack",
     "element": "sup",
     "target": "All allies"
   },
@@ -224,21 +225,27 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "All foes"
   },
+  "Hakuryu Strike": {
+    "cost": 1030,
+    "effect": "Medium phys-based dmg, Chance of instakill when weak to light",
+    "element": "lig",
+    "target": "1 foe"
+  },
   "Hama": {
     "cost": 1015,
-    "effect": "Light dmg, Low chance of instakill when weak to light",
+    "effect": "Light dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
   },
   "Hamabarion": {
     "cost": 1060,
-    "effect": "Severe dmg, Low chance of instakill when weak to light",
+    "effect": "Severe dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
   },
   "Hamaon": {
     "cost": 1025,
-    "effect": "Medium dmg, Low chance of instakill when weak to light",
+    "effect": "Heavy dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
   },
@@ -263,7 +270,7 @@ const SMT5_SKILL_DATA = {
   },
   "Ice Block": {
     "cost": 1040,
-    "effect": "Nullifies next ice attack",
+    "effect": "Nullify next ice attack",
     "element": "sup",
     "target": "All allies"
   },
@@ -279,6 +286,10 @@ const SMT5_SKILL_DATA = {
     "element": "ice",
     "rank": 99,
     "target": "1 foe"
+  },
+  "Life Bonus": {
+    "effect": "Max HP +10%",
+    "element": "pas"
   },
   "Life Drain": {
     "cost": 1005,
@@ -331,25 +342,25 @@ const SMT5_SKILL_DATA = {
   },
   "Madness Nails": {
     "cost": 1036,
-    "effect": "Medium dmg, 1-3 hits",
+    "effect": "Medium dmg",
     "element": "phy",
-    "target": "Multi foes"
+    "target": "All foes"
   },
   "Mahama": {
     "cost": 1025,
-    "effect": "Light dmg, Low chance of instakill when weak to light",
+    "effect": "Light dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "All foes"
   },
   "Mahamabarion": {
     "cost": 1080,
-    "effect": "Severe dmg, Low chance of instakill when weak to light",
+    "effect": "Severe dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "All foes"
   },
   "Mahamaon": {
     "cost": 1040,
-    "effect": "Medium dmg, Low chance of instakill when weak to light",
+    "effect": "Heavy dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "All foes"
   },
@@ -373,19 +384,19 @@ const SMT5_SKILL_DATA = {
   },
   "Mamudo": {
     "cost": 1025,
-    "effect": "Light dmg, Low chance of instakill when weak to dark",
+    "effect": "Light dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
   },
   "Mamudobarion": {
     "cost": 1080,
-    "effect": "Severe dmg, Low chance of instakill when weak to dark",
+    "effect": "Severe dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
   },
   "Mamudoon": {
     "cost": 1040,
-    "effect": "Medium dmg, Low chance of instakill when weak to dark",
+    "effect": "Heavy dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
   },
@@ -533,7 +544,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Megidola": {
-    "cost": 1080,
+    "cost": 1070,
     "effect": "Heavy dmg",
     "element": "alm",
     "target": "All foes"
@@ -544,6 +555,12 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "All foes"
   },
+  "Mind Stremma": {
+    "cost": 1040,
+    "effect": "Raise dmg of next magic attack",
+    "element": "sup",
+    "target": "1 ally"
+  },
   "Mortal Jihad": {
     "cost": 1030,
     "effect": "Heavy dmg",
@@ -552,25 +569,31 @@ const SMT5_SKILL_DATA = {
   },
   "Mudo": {
     "cost": 1015,
-    "effect": "Light dmg, Low chance of instakill when weak to dark",
+    "effect": "Light dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
   },
   "Mudobarion": {
     "cost": 1060,
-    "effect": "Severe dmg, Low chance of instakill when weak to dark",
+    "effect": "Severe dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
   },
   "Mudoon": {
     "cost": 1025,
-    "effect": "Medium dmg, Low chance of instakill when weak to dark",
+    "effect": "Heavy dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
   },
   "Muscle Punch": {
     "cost": 1040,
     "effect": "",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Nihil Claw": {
+    "cost": 1036,
+    "effect": "Heavy dmg, 2-3 hits",
     "element": "phy",
     "target": "1 foe"
   },
@@ -597,6 +620,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Poison",
     "element": "ail",
     "target": "All foes"
+  },
+  "Power Stremma": {
+    "cost": 1040,
+    "effect": "Raise dmg of next phys attack",
+    "element": "sup",
+    "target": "1 ally"
   },
   "Pulinpa": {
     "cost": 1010,
@@ -746,7 +775,7 @@ const SMT5_SKILL_DATA = {
   },
   "Will of Carnage": {
     "cost": 1050,
-    "effect": "Charge + Pierce",
+    "effect": "Raise dmg of next attack with pierce",
     "element": "sup",
     "target": ""
   },
