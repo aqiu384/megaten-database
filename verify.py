@@ -46,8 +46,8 @@ for dname, entry in demons.items():
 
         pcost = math.floor((100 - bonuses[selem][smod - 1]) / 100 * scost)
 
-        if scost == 8:
-            pcost = 6
+        # if scost == 8:
+        #     pcost = 6
 
         if pcost != ncost:
             print(sname, scost, smod, pcost, ncost)

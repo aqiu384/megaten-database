@@ -73,6 +73,10 @@ const SMT5_SKILL_DATA = {
     "element": "ice",
     "target": "1 foe"
   },
+  "Carnage Fang": {
+    "effect": "",
+    "element": "phy"
+  },
   "Catastrophe": {
     "cost": 1075,
     "effect": "Severe dmg",
@@ -116,16 +120,20 @@ const SMT5_SKILL_DATA = {
     "target": "1 ally"
   },
   "Die For Me!": {
-    "effect": "Severe dmg",
+    "effect": "",
     "element": "dar",
     "rank": 99,
     "target": "All foes"
   },
+  "Divine Arrowfall": {
+    "effect": "",
+    "element": "alm",
+    "rank": 99
+  },
   "Divine Punishment": {
     "effect": "Tarunda",
     "element": "dar",
-    "rank": 99,
-    "target": ""
+    "rank": 99
   },
   "Dormina": {
     "cost": 1010,
@@ -138,6 +146,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, Sleep",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Dream Vortex": {
+    "cost": 1035,
+    "effect": "Sleep",
+    "element": "ail",
+    "target": "All foes"
   },
   "Dustma": {
     "cost": 1010,
@@ -164,6 +178,12 @@ const SMT5_SKILL_DATA = {
   "Enduring Soul": {
     "effect": "Survive fatal attack with full HP once per battle",
     "element": "pas"
+  },
+  "Fairy Banquet": {
+    "cost": 2001,
+    "effect": "Max Tarukaja + Rakukaja + Sukukaja",
+    "element": "spe",
+    "target": "All allies"
   },
   "Fang Breaker": {
     "cost": 1015,
@@ -287,6 +307,12 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "1 foe"
   },
+  "King Bufula": {
+    "effect": "Medium dmg, Rakunda",
+    "element": "ice",
+    "rank": 99,
+    "target": "All foes"
+  },
   "Life Bonus": {
     "effect": "Max HP +10%",
     "element": "pas"
@@ -322,7 +348,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Mabufudyne": {
-    "cost": 1045,
+    "cost": 1050,
     "effect": "Heavy dmg",
     "element": "ice",
     "target": "All foes"
@@ -413,7 +439,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Maragidyne": {
-    "cost": 1045,
+    "cost": 1050,
     "effect": "Heavy dmg",
     "element": "fir",
     "target": "All foes"
@@ -479,7 +505,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Mazandyne": {
-    "cost": 1045,
+    "cost": 1050,
     "effect": "Heavy dmg",
     "element": "for",
     "target": "All foes"
@@ -503,7 +529,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Maziodyne": {
-    "cost": 1045,
+    "cost": 1050,
     "effect": "Heavy dmg",
     "element": "ele",
     "target": "All foes"
@@ -533,6 +559,7 @@ const SMT5_SKILL_DATA = {
     "target": "All allies"
   },
   "Mediarama": {
+    "cost": 1060,
     "effect": "Moderately recover HP",
     "element": "rec",
     "target": "All allies"
@@ -561,6 +588,12 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "1 ally"
   },
+  "Mist Rush": {
+    "cost": 1035,
+    "effect": "Medium dmg, 2-4 hits, Illusion",
+    "element": "phy",
+    "target": "Multi foes"
+  },
   "Mortal Jihad": {
     "cost": 1030,
     "effect": "Heavy dmg",
@@ -585,6 +618,11 @@ const SMT5_SKILL_DATA = {
     "element": "dar",
     "target": "1 foe"
   },
+  "Murakumo": {
+    "effect": "",
+    "element": "alm",
+    "rank": 99
+  },
   "Muscle Punch": {
     "cost": 1040,
     "effect": "",
@@ -596,6 +634,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Heavy dmg, 2-3 hits",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Omagatoki Critical": {
+    "cost": 2001,
+    "effect": "All phys and magic attacks will crit for 1 turn",
+    "element": "spe",
+    "target": "All allies"
   },
   "Panic Needle": {
     "cost": 1015,
@@ -719,6 +763,12 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "1 foe"
   },
+  "Squash": {
+    "cost": 1020,
+    "effect": "Light dmg",
+    "element": "phy",
+    "target": "All foes"
+  },
   "Steel Needle": {
     "cost": 1025,
     "effect": "Medium dmg, 1-4 hits, High crit",
@@ -746,8 +796,7 @@ const SMT5_SKILL_DATA = {
   },
   "Sun's Radiance": {
     "effect": "",
-    "element": "rec",
-    "target": ""
+    "element": "rec"
   },
   "Tarukaja": {
     "cost": 1008,
@@ -773,11 +822,16 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "1 ally"
   },
+  "Toxic Breath": {
+    "effect": "",
+    "element": "dar",
+    "rank": 99,
+    "target": "All foes"
+  },
   "Will of Carnage": {
     "cost": 1050,
     "effect": "Raise dmg of next attack with pierce",
-    "element": "sup",
-    "target": ""
+    "element": "sup"
   },
   "Wind Breath": {
     "cost": 1025,

@@ -72,7 +72,7 @@ const SMT5_DEMON_DATA = {
       "Mudoon": 25,
       "Tetrakarn": 37
     },
-    "stats": [290, 0, 0, 0, 0, 0, 0]
+    "stats": [290, 317, 0, 0, 0, 0, 0]
   },
   "Archangel": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -428,7 +428,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [0, 0, 0, 3, 0, 0, 0, 0, 2, 0, 0],
     "lvl": 32,
     "race": "Night",
-    "resists": "-------",
+    "resists": "--wn---",
     "skills": {
       "Marin Karin": 8,
       "Mazionga": 25
@@ -474,11 +474,15 @@ const SMT5_DEMON_DATA = {
     "stats": [116, 104, 0, 0, 0, 0, 0]
   },
   "Moloch": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 51,
     "race": "Tyrant",
     "resists": "-------",
-    "skills": {},
+    "skills": {
+      "Agidyne": 28,
+      "Masukunda": 30,
+      "Squash": 17
+    },
     "stats": [297, 212, 0, 0, 0, 0, 0]
   },
   "Mothman": {
@@ -514,6 +518,18 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [69, 81, 0, 0, 0, 0, 0]
   },
+  "Ongyo-Ki": {
+    "affinities": [5, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0],
+    "lvl": 78,
+    "race": "Brute",
+    "resists": "-------",
+    "skills": {
+      "Dream Vortex": 28,
+      "Megidolaon": 100,
+      "Mist Rush": 26
+    },
+    "stats": [549, 297, 0, 0, 0, 0, 0]
+  },
   "Onmoraki": {
     "affinities": [0, 2, -3, 0, 0, 0, 1, 0, 0, 0, 0],
     "ailments": "-----w",
@@ -530,8 +546,8 @@ const SMT5_DEMON_DATA = {
   "Orobas": {
     "affinities": [0, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0],
     "lvl": 49,
-    "race": "Beast",
-    "resists": "-------",
+    "race": "Fallen",
+    "resists": "-sw---s",
     "skills": {
       "Agidyne": 29,
       "Megido": 40,
@@ -656,6 +672,18 @@ const SMT5_DEMON_DATA = {
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Throne": {
+    "affinities": [0, 4, 0, 0, 0, 4, 0, 0, 0, 1, 0],
+    "lvl": 64,
+    "race": "Divine",
+    "resists": "-------",
+    "skills": {
+      "Mahamaon": 32,
+      "Maragidyne": 40,
+      "Mediarama": 50
+    },
+    "stats": [327, 313, 0, 0, 0, 0, 0]
   },
   "Tsuchigumo": {
     "affinities": [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0],

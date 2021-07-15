@@ -170,7 +170,7 @@ def parseSkills(skills):
                 'effect': effect
             }
 
-            if elem != 'pas':
+            if target != '':
                 entry['target'] = target
             if cost != 0:
                 entry['cost'] = 1000 + cost
@@ -188,6 +188,8 @@ demonData = parseStats(demonData)
 
 skillData = {}
 skillData = parseSkills(skillData)
+
+print(len(demonData))
 
 for entry in demonData.values():
     entry['stats'] = '[' + ', '.join(str(x) for x in entry['stats']) + ']'
