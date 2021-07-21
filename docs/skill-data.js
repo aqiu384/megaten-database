@@ -36,6 +36,18 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "1 foe"
   },
+  "Big Bang": {
+    "cost": 2001,
+    "effect": "Severe level-dependent dmg",
+    "element": "alm",
+    "target": "All foes"
+  },
+  "Black Dragon Strike": {
+    "cost": 1030,
+    "effect": "Medium phys-based dmg, Chance of instakill when weak to dark",
+    "element": "dar",
+    "target": "1 foe"
+  },
   "Blessing": {
     "cost": 1015,
     "effect": "Slightly recover HP",
@@ -48,6 +60,11 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, Poison",
     "element": "phy",
     "target": "All foes"
+  },
+  "Bloodsuck": {
+    "effect": "",
+    "element": "alm",
+    "rank": 99
   },
   "Bufu": {
     "cost": 1010,
@@ -75,7 +92,9 @@ const SMT5_SKILL_DATA = {
   },
   "Carnage Fang": {
     "effect": "",
-    "element": "phy"
+    "element": "phy",
+    "rank": 99,
+    "target": "1 foe"
   },
   "Catastrophe": {
     "cost": 1075,
@@ -83,10 +102,32 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Charge": {
+    "cost": 1010,
+    "effect": "Raise dmg of next phys attack",
+    "element": "sup"
+  },
+  "Concentrate": {
+    "cost": 1010,
+    "effect": "Raise dmg of next magic attack",
+    "element": "sup"
+  },
   "Critical Wave": {
     "cost": 1025,
-    "effect": "Light dmg, High crit, Low hit",
+    "effect": "Light dmg, High crit",
     "element": "phy",
+    "target": "All foes"
+  },
+  "Deadly Wind": {
+    "cost": 1065,
+    "effect": "Colossal dmg",
+    "element": "for",
+    "target": "1 foe"
+  },
+  "Debilitate": {
+    "cost": 1150,
+    "effect": "Tarunda + Rakunda + Sukunda",
+    "element": "sup",
     "target": "All foes"
   },
   "Dekaja": {
@@ -139,6 +180,12 @@ const SMT5_SKILL_DATA = {
     "cost": 1010,
     "effect": "Sleep",
     "element": "ail",
+    "target": "1 foe"
+  },
+  "Dragonfly Kick": {
+    "cost": 1025,
+    "effect": "Light dmg, Higher dmg when crit",
+    "element": "phy",
     "target": "1 foe"
   },
   "Dream Needle": {
@@ -215,6 +262,12 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "Multi foes"
   },
+  "Flame Dragon Strike": {
+    "cost": 1025,
+    "effect": "Medium phys-based dmg",
+    "element": "fir",
+    "target": "1 foe"
+  },
   "Floral Gust": {
     "cost": 1060,
     "effect": "Medium dmg, 2-5 hits",
@@ -226,6 +279,18 @@ const SMT5_SKILL_DATA = {
     "effect": "Nullify next force attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Freikugel": {
+    "cost": 2001,
+    "effect": "Severe level-dependent dmg",
+    "element": "alm",
+    "target": "1 foe"
+  },
+  "Frost Dragon Strike": {
+    "cost": 1025,
+    "effect": "Medium phys-based dmg",
+    "element": "ice",
+    "target": "1 foe"
   },
   "Glacial Blast": {
     "cost": 1060,
@@ -244,12 +309,6 @@ const SMT5_SKILL_DATA = {
     "effect": "Heavy dmg",
     "element": "phy",
     "target": "All foes"
-  },
-  "Hakuryu Strike": {
-    "cost": 1030,
-    "effect": "Medium phys-based dmg, Chance of instakill when weak to light",
-    "element": "lig",
-    "target": "1 foe"
   },
   "Hama": {
     "cost": 1015,
@@ -271,7 +330,7 @@ const SMT5_SKILL_DATA = {
   },
   "Hard Hit": {
     "cost": 1015,
-    "effect": "Medium dmg, Higher dmg when crit",
+    "effect": "Light dmg, Higher dmg when crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -286,6 +345,19 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, 4 hits, Low hit",
     "element": "phy",
     "rank": 99,
+    "target": "1 foe"
+  },
+  "Hellish Spurt": {
+    "cost": 1025,
+    "effect": "Medium dmg",
+    "element": "ice",
+    "rank": 99,
+    "target": "All foes"
+  },
+  "Ice Age": {
+    "cost": 1065,
+    "effect": "Colossal dmg",
+    "element": "ice",
     "target": "1 foe"
   },
   "Ice Block": {
@@ -334,6 +406,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Luster Candy": {
+    "cost": 1150,
+    "effect": "Tarukaja + Rakukaja + Sukukaja",
+    "element": "sup",
+    "target": "All allies"
   },
   "Mabufu": {
     "cost": 1015,
@@ -641,6 +719,12 @@ const SMT5_SKILL_DATA = {
     "element": "spe",
     "target": "All allies"
   },
+  "Omagatoki Luck": {
+    "cost": 2001,
+    "effect": "",
+    "element": "spe",
+    "target": "All allies"
+  },
   "Panic Needle": {
     "cost": 1015,
     "effect": "Light dmg, Panic",
@@ -670,6 +754,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Raise dmg of next phys attack",
     "element": "sup",
     "target": "1 ally"
+  },
+  "Prayer": {
+    "cost": 2001,
+    "effect": "Fully recover HP ",
+    "element": "rec",
+    "target": "Full stock"
   },
   "Pulinpa": {
     "cost": 1010,
@@ -796,7 +886,8 @@ const SMT5_SKILL_DATA = {
   },
   "Sun's Radiance": {
     "effect": "",
-    "element": "rec"
+    "element": "rec",
+    "rank": 99
   },
   "Tarukaja": {
     "cost": 1008,
@@ -822,11 +913,41 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "1 ally"
   },
+  "Thunder Gods": {
+    "cost": 1065,
+    "effect": "Colossal dmg",
+    "element": "ele",
+    "target": "1 foe"
+  },
+  "Titanomachia": {
+    "cost": 1060,
+    "effect": "Medium dmg, High crit",
+    "element": "phy",
+    "target": "All foes"
+  },
   "Toxic Breath": {
     "effect": "",
     "element": "dar",
     "rank": 99,
     "target": "All foes"
+  },
+  "Trisagion": {
+    "cost": 1065,
+    "effect": "Colossal dmg",
+    "element": "fir",
+    "target": "1 foe"
+  },
+  "Volt Dragon Strike": {
+    "cost": 1025,
+    "effect": "Medium phys-based dmg",
+    "element": "ele",
+    "target": "1 foe"
+  },
+  "White Dragon Strike": {
+    "cost": 1030,
+    "effect": "Medium phys-based dmg, Chance of instakill when weak to light",
+    "element": "lig",
+    "target": "1 foe"
   },
   "Will of Carnage": {
     "cost": 1050,
@@ -838,6 +959,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, 2-5 hits",
     "element": "for",
     "target": "Multi foes"
+  },
+  "Wind Dragon Strike": {
+    "cost": 1025,
+    "effect": "Medium phys-based dmg",
+    "element": "for",
+    "target": "1 foe"
   },
   "Wrath Tempest": {
     "effect": "Medium dmg",

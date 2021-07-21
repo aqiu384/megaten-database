@@ -9,12 +9,13 @@ const SMT5_AFFINITY_BONUSES = {
     "dar": "attack",
     "alm": "attack",
     "ail": "attack",
-    "rec": "support",
+    "rec": "recovery",
     "sup": "support"
   },
   "costs": {
     "attack": [10, 13, 16, 20, 25, 29],
-    "support": [16, 21, 25, 30]
+    "recovery": [16, 20.5, 25, 30],
+    "support": [15, 20.5, 25, 30]
   },
   "upgrades": {
     "attack": [0, 0, 0, 0, 0, 0],
