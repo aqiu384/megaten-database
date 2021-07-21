@@ -35,8 +35,8 @@ const SMT5_DEMON_DATA = {
     "race": "Divine",
     "resists": "----wnw",
     "skills": {
-      "Blessing": 11,
       "Hama": 12,
+      "Humble Blessing": 11,
       "Patra": 6,
       "Recarm": 15
     },
@@ -89,12 +89,17 @@ const SMT5_DEMON_DATA = {
     "stats": [290, 317, 0, 0, 0, 0, 0]
   },
   "Archangel": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [1, 1, 0, 0, 0, 3, -5, 0, 0, 0, 0],
     "lvl": 18,
     "race": "Divine",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0, 0, 0]
+    "resists": "---w-nw",
+    "skills": {
+      "Critical Slash": 9,
+      "Hama": 12,
+      "Heat Wave": 13,
+      "Tarunda": 8
+    },
+    "stats": [102, 114, 15, 14, 16, 18, 16]
   },
   "Arioch": {
     "affinities": [2, 0, 5, 0, 0, 0, 0, 0, 2, 0, 0],
@@ -117,6 +122,14 @@ const SMT5_DEMON_DATA = {
     "resists": "--sw---",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Basilisk": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 31,
+    "race": "Drake",
+    "resists": "-------",
+    "skills": {},
+    "stats": [190, 114, 0, 0, 0, 0, 0]
   },
   "Berith": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -183,7 +196,7 @@ const SMT5_DEMON_DATA = {
       "Critical Wave": 20,
       "Fatal Sword": 20,
       "Mazanma": 24,
-      "Wind Dragon Strike": 20,
+      "Wind Dracostrike": 20,
       "Zandyne": 28
     },
     "stats": [293, 201, 0, 0, 0, 0, 0]
@@ -274,6 +287,14 @@ const SMT5_DEMON_DATA = {
     "skills": {},
     "stats": [141, 170, 0, 0, 0, 0, 0]
   },
+  "Fortuna": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 15,
+    "race": "Megami",
+    "resists": "-------",
+    "skills": {},
+    "stats": [86, 114, 0, 0, 0, 0, 0]
+  },
   "Futsunushi": {
     "affinities": [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4],
     "lvl": 69,
@@ -314,7 +335,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2],
     "lvl": 66,
     "race": "Vile",
-    "resists": "-------",
+    "resists": "----w--",
     "skills": {
       "Hades Blast": 48,
       "Hell Thrust": 36,
@@ -364,7 +385,7 @@ const SMT5_DEMON_DATA = {
       "Matarukaja": 23,
       "Megidola": 60,
       "Mind Stremma": 31,
-      "White Dragon Strike": 25
+      "White Dracostrike": 25
     },
     "stats": [194, 203, 0, 0, 0, 0, 0]
   },
@@ -459,7 +480,7 @@ const SMT5_DEMON_DATA = {
     "resists": "-------",
     "skills": {
       "Dragonfly Kick": 22,
-      "Wind Dragon Strike": 20
+      "Wind Dracostrike": 20
     },
     "stats": [179, 186, 0, 0, 0, 0, 0]
   },
@@ -470,6 +491,14 @@ const SMT5_DEMON_DATA = {
     "resists": "-------",
     "skills": {},
     "stats": [363, 0, 0, 0, 0, 0, 0]
+  },
+  "Lamia": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 36,
+    "race": "Femme",
+    "resists": "-------",
+    "skills": {},
+    "stats": [156, 188, 0, 0, 0, 0, 0]
   },
   "Lilim": {
     "affinities": [0, 0, 0, 3, 0, 0, 0, 0, 2, 0, 0],
@@ -693,6 +722,21 @@ const SMT5_DEMON_DATA = {
     "skills": {},
     "stats": [208, 254, 0, 0, 0, 0, 0]
   },
+  "Scathach": {
+    "affinities": [1, 0, 0, 0, 3, 0, 0, 0, 2, 0, 0],
+    "lvl": 55,
+    "race": "Megami",
+    "resists": "---wns-",
+    "skills": {
+      "Floral Gust": 50,
+      "Makajamaon": 21,
+      "Mist Rush": 31,
+      "Power Stremma": 40,
+      "Will of Carnage": 50,
+      "Wind Dracostrike": 21
+    },
+    "stats": [307, 0, 0, 0, 0, 0, 0]
+  },
   "Seth": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 67,
@@ -751,7 +795,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [0, 4, 0, 0, 0, 4, 0, 0, 0, 1, 0],
     "lvl": 64,
     "race": "Divine",
-    "resists": "--w----",
+    "resists": "--w---w",
     "skills": {
       "Mahamaon": 32,
       "Maragidyne": 40,

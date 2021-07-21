@@ -42,29 +42,17 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "All foes"
   },
-  "Black Dragon Strike": {
+  "Black Dracostrike": {
     "cost": 1030,
     "effect": "Medium phys-based dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
-  },
-  "Blessing": {
-    "cost": 1015,
-    "effect": "Slightly recover HP",
-    "element": "rec",
-    "rank": 99,
-    "target": "All allies"
   },
   "Blight": {
     "cost": 1020,
     "effect": "Light dmg, Poison",
     "element": "phy",
     "target": "All foes"
-  },
-  "Bloodsuck": {
-    "effect": "",
-    "element": "alm",
-    "rank": 99
   },
   "Bufu": {
     "cost": 1010,
@@ -111,6 +99,12 @@ const SMT5_SKILL_DATA = {
     "cost": 1010,
     "effect": "Raise dmg of next magic attack",
     "element": "sup"
+  },
+  "Critical Slash": {
+    "cost": 1010,
+    "effect": "Light dmg, High crit",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Critical Wave": {
     "cost": 1025,
@@ -226,6 +220,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Survive fatal attack with full HP once per battle",
     "element": "pas"
   },
+  "Eternal Prayer": {
+    "cost": 2001,
+    "effect": "Salvation + Samarecarm",
+    "element": "rec",
+    "target": "Full stock"
+  },
   "Fairy Banquet": {
     "cost": 2001,
     "effect": "Max Tarukaja + Rakukaja + Sukukaja",
@@ -256,17 +256,17 @@ const SMT5_SKILL_DATA = {
     "element": "fir",
     "target": "Multi foes"
   },
+  "Fire Dracostrike": {
+    "cost": 1025,
+    "effect": "Medium phys-based dmg",
+    "element": "fir",
+    "target": "1 foe"
+  },
   "Fire of Sinai": {
     "effect": "Severe dmg",
     "element": "alm",
     "rank": 99,
     "target": "Multi foes"
-  },
-  "Flame Dragon Strike": {
-    "cost": 1025,
-    "effect": "Medium phys-based dmg",
-    "element": "fir",
-    "target": "1 foe"
   },
   "Floral Gust": {
     "cost": 1060,
@@ -284,12 +284,6 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
     "element": "alm",
-    "target": "1 foe"
-  },
-  "Frost Dragon Strike": {
-    "cost": 1025,
-    "effect": "Medium phys-based dmg",
-    "element": "ice",
     "target": "1 foe"
   },
   "Glacial Blast": {
@@ -334,6 +328,12 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Heat Wave": {
+    "cost": 1015,
+    "effect": "Light dmg",
+    "element": "phy",
+    "target": "All foes"
+  },
   "Hell Thrust": {
     "cost": 1045,
     "effect": "Heavy dmg",
@@ -354,6 +354,13 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
+  "Humble Blessing": {
+    "cost": 1015,
+    "effect": "Slightly recover HP",
+    "element": "rec",
+    "rank": 99,
+    "target": "All allies"
+  },
   "Ice Age": {
     "cost": 1065,
     "effect": "Colossal dmg",
@@ -371,6 +378,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, 2-5 hits",
     "element": "ice",
     "target": "Multi foes"
+  },
+  "Ice Dracostrike": {
+    "cost": 1025,
+    "effect": "Medium phys-based dmg",
+    "element": "ice",
+    "target": "1 foe"
   },
   "Jack Bufula": {
     "cost": 1020,
@@ -755,12 +768,6 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "1 ally"
   },
-  "Prayer": {
-    "cost": 2001,
-    "effect": "Fully recover HP ",
-    "element": "rec",
-    "target": "Full stock"
-  },
   "Pulinpa": {
     "cost": 1010,
     "effect": "Panic",
@@ -834,6 +841,11 @@ const SMT5_SKILL_DATA = {
     "effect": "Revive with full HP",
     "element": "rec",
     "target": "1 ally"
+  },
+  "Sanguine Drain": {
+    "effect": "",
+    "element": "alm",
+    "rank": 99
   },
   "Sexy Dance": {
     "cost": 1025,
@@ -937,13 +949,13 @@ const SMT5_SKILL_DATA = {
     "element": "fir",
     "target": "1 foe"
   },
-  "Volt Dragon Strike": {
+  "Volt Dracostrike": {
     "cost": 1025,
     "effect": "Medium phys-based dmg",
     "element": "ele",
     "target": "1 foe"
   },
-  "White Dragon Strike": {
+  "White Dracostrike": {
     "cost": 1030,
     "effect": "Medium phys-based dmg, Chance of instakill when weak to light",
     "element": "lig",
@@ -960,7 +972,7 @@ const SMT5_SKILL_DATA = {
     "element": "for",
     "target": "Multi foes"
   },
-  "Wind Dragon Strike": {
+  "Wind Dracostrike": {
     "cost": 1025,
     "effect": "Medium phys-based dmg",
     "element": "for",
