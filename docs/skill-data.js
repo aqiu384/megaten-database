@@ -36,6 +36,12 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "1 foe"
   },
+  "Berserker God": {
+    "cost": 1015,
+    "effect": "Light dmg, High crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Big Bang": {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
@@ -79,7 +85,8 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Carnage Fang": {
-    "effect": "",
+    "cost": 1020,
+    "effect": "Heavy dmg, Higher dmg when crit",
     "element": "phy",
     "rank": 99,
     "target": "1 foe"
@@ -117,6 +124,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Colossal dmg",
     "element": "for",
     "target": "1 foe"
+  },
+  "Deathbound": {
+    "cost": 1035,
+    "effect": "Medium dmg",
+    "element": "phy",
+    "target": "All foes"
   },
   "Debilitate": {
     "cost": 1150,
@@ -178,7 +191,7 @@ const SMT5_SKILL_DATA = {
   },
   "Dragonfly Kick": {
     "cost": 1025,
-    "effect": "Light dmg, Higher dmg when crit",
+    "effect": "Light dmg, Guaranteed crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -200,12 +213,6 @@ const SMT5_SKILL_DATA = {
     "element": "ail",
     "target": "1 foe"
   },
-  "Dustmaon": {
-    "cost": 1025,
-    "effect": "Illusion",
-    "element": "ail",
-    "target": "All foes"
-  },
   "Elec Block": {
     "cost": 1040,
     "effect": "Nullify next elec attack",
@@ -225,6 +232,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Salvation + Samarecarm",
     "element": "rec",
     "target": "Full stock"
+  },
+  "Eyes On Me!": {
+    "cost": 1005,
+    "effect": "Greatly raise chance of being targeted + Sukukaja x2",
+    "element": "sup",
+    "rank": 99
   },
   "Fairy Banquet": {
     "cost": 2001,
@@ -273,6 +286,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Medium dmg, 2-5 hits",
     "element": "for",
     "target": "Multi foes"
+  },
+  "Foggner": {
+    "cost": 1025,
+    "effect": "Illusion",
+    "element": "ail",
+    "target": "All foes"
   },
   "Force Block": {
     "cost": 1040,
@@ -336,7 +355,7 @@ const SMT5_SKILL_DATA = {
   },
   "Hell Thrust": {
     "cost": 1045,
-    "effect": "Heavy dmg",
+    "effect": "Heavy dmg, Pierce",
     "element": "phy",
     "target": "1 foe"
   },
@@ -655,6 +674,12 @@ const SMT5_SKILL_DATA = {
     "element": "rec",
     "target": "All allies"
   },
+  "Megaton Press": {
+    "cost": 1050,
+    "effect": "Heavy dmg, Low hit",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Megido": {
     "cost": 1040,
     "effect": "Medium dmg",
@@ -716,7 +741,7 @@ const SMT5_SKILL_DATA = {
   },
   "Muscle Punch": {
     "cost": 1040,
-    "effect": "",
+    "effect": "Medium to Severe dmg, Dmg scales with remaining HP",
     "element": "phy",
     "target": "1 foe"
   },
@@ -738,6 +763,18 @@ const SMT5_SKILL_DATA = {
     "element": "spe",
     "target": "All allies"
   },
+  "Omagatoki Pierce": {
+    "cost": 2001,
+    "effect": "All phys and magic attacks will pierce for 1 turn",
+    "element": "spe",
+    "target": "All allies"
+  },
+  "Omagatoki Sanko": {
+    "cost": 2001,
+    "effect": "",
+    "element": "spe",
+    "target": "All allies"
+  },
   "Panic Needle": {
     "cost": 1015,
     "effect": "Light dmg, Panic",
@@ -749,6 +786,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Cure mental ailments",
     "element": "rec",
     "target": "1 ally"
+  },
+  "Phys Block": {
+    "cost": 1070,
+    "effect": "Nullify next phys attack",
+    "element": "sup",
+    "target": "All allies"
   },
   "Poisma": {
     "cost": 1010,
@@ -897,9 +940,11 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Sun's Radiance": {
-    "effect": "",
+    "cost": 1012,
+    "effect": "Moderately recover HP and cure ailments",
     "element": "rec",
-    "rank": 99
+    "rank": 99,
+    "target": "1 ally"
   },
   "Tarukaja": {
     "cost": 1008,
@@ -983,6 +1028,12 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "rank": 99,
     "target": "1 foe"
+  },
+  "Yabusame Shot": {
+    "cost": 1050,
+    "effect": "Light dmg, Pierce, Guaranteed crit",
+    "element": "phy",
+    "target": "All foes"
   },
   "Zan": {
     "cost": 1010,
