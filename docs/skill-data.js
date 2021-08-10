@@ -29,6 +29,11 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Amrita": {
+    "effect": "Cure ailments",
+    "element": "rec",
+    "target": "1 ally"
+  },
   "Aramasa": {
     "cost": 1010,
     "effect": "Light dmg",
@@ -56,9 +61,9 @@ const SMT5_SKILL_DATA = {
   },
   "Blight": {
     "cost": 1020,
-    "effect": "Light dmg, Poison",
+    "effect": "Light dmg, 2-4 hits, Poison",
     "element": "phy",
-    "target": "All foes"
+    "target": "Multi foes"
   },
   "Bufu": {
     "cost": 1010,
@@ -119,6 +124,18 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "All foes"
   },
+  "Dark Block": {
+    "cost": 1040,
+    "effect": "Nullify next dark attack",
+    "element": "sup",
+    "target": "All allies"
+  },
+  "Dark Sword": {
+    "cost": 1025,
+    "effect": "",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Deadly Wind": {
     "cost": 1065,
     "effect": "Colossal dmg",
@@ -149,9 +166,21 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "All allies"
   },
+  "Devour": {
+    "cost": 1005,
+    "effect": "Light dmg, Higher dmg when crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Dia": {
     "cost": 1008,
     "effect": "Slightly recover HP",
+    "element": "rec",
+    "target": "1 ally"
+  },
+  "Diamrita": {
+    "cost": 1030,
+    "effect": "Diarama + Amrita",
     "element": "rec",
     "target": "1 ally"
   },
@@ -217,6 +246,13 @@ const SMT5_SKILL_DATA = {
     "cost": 1040,
     "effect": "Nullify next elec attack",
     "element": "sup",
+    "target": "All allies"
+  },
+  "Eleusinian Harvest": {
+    "cost": 1150,
+    "effect": "Mediarahan + Max HP +30% temporarily",
+    "element": "rec",
+    "rank": 99,
     "target": "All allies"
   },
   "Endure": {
@@ -299,7 +335,14 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "All allies"
   },
-  "Freikugel": {
+  "Foxfire Rain": {
+    "cost": 1030,
+    "effect": "Medium dmg",
+    "element": "fir",
+    "rank": 99,
+    "target": "All foes"
+  },
+  "Freikugel EX": {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
     "element": "alm",
@@ -330,7 +373,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Hamabarion": {
-    "cost": 1060,
+    "cost": 1055,
     "effect": "Severe dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
@@ -343,7 +386,7 @@ const SMT5_SKILL_DATA = {
   },
   "Hard Hit": {
     "cost": 1015,
-    "effect": "Light dmg, Higher dmg when crit",
+    "effect": "Medium dmg, Higher dmg when crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -423,9 +466,15 @@ const SMT5_SKILL_DATA = {
   },
   "Life Drain": {
     "cost": 1005,
-    "effect": "Weak dmg, Absorbs HP",
+    "effect": "Light dmg, Absorbs HP",
     "element": "alm",
     "target": "1 foe"
+  },
+  "Light Block": {
+    "cost": 1040,
+    "effect": "Nullify next light attack",
+    "element": "sup",
+    "target": "All allies"
   },
   "Lullaby": {
     "cost": 1025,
@@ -609,7 +658,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Mazanbarion": {
-    "cost": 1075,
+    "cost": 1074,
     "effect": "Severe dmg",
     "element": "for",
     "target": "All foes"
@@ -723,7 +772,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Mudobarion": {
-    "cost": 1060,
+    "cost": 1055,
     "effect": "Severe dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
@@ -886,9 +935,11 @@ const SMT5_SKILL_DATA = {
     "target": "1 ally"
   },
   "Sanguine Drain": {
-    "effect": "",
+    "cost": 1015,
+    "effect": "Light dmg, Absorbs HP, Tarunda",
     "element": "alm",
-    "rank": 99
+    "rank": 99,
+    "target": "1 foe"
   },
   "Sexy Dance": {
     "cost": 1025,
@@ -904,7 +955,7 @@ const SMT5_SKILL_DATA = {
   },
   "Spirit Drain": {
     "cost": 1005,
-    "effect": "Weak dmg, Absorbs MP",
+    "effect": "Light dmg, Absorbs MP",
     "element": "alm",
     "target": "1 foe"
   },
@@ -993,6 +1044,19 @@ const SMT5_SKILL_DATA = {
     "effect": "Colossal dmg",
     "element": "fir",
     "target": "1 foe"
+  },
+  "Venom Chaser": {
+    "cost": 1015,
+    "effect": "Light dmg, Higher dmg against Poison",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Vigilant Cheer": {
+    "cost": 1050,
+    "effect": "Rakukaja + Sukukaja",
+    "element": "sup",
+    "rank": 99,
+    "target": "All allies"
   },
   "Volt Dracostrike": {
     "cost": 1025,

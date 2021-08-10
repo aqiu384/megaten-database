@@ -17,17 +17,17 @@ const SMT5_DEMON_DATA = {
   },
   "Anahita": {
     "affinities": [0, 0, 4, 0, 0, 0, 0, 0, 0, 2, 1],
-    "lvl": 52,
+    "lvl": 39,
     "race": "Megami",
     "resists": "-------",
     "skills": {
       "Diarama": 11,
       "Hellish Spurt": 20,
-      "Marakukaja": 25,
-      "Me Patra": 23,
-      "Mind Stremma": 34
+      "Matarunda": 25,
+      "Mind Stremma": 34,
+      "Rakunda": 6
     },
-    "stats": [254, 0, 0, 0, 0, 0, 0]
+    "stats": [185, 0, 0, 0, 0, 0, 0]
   },
   "Angel": {
     "affinities": [0, 0, 0, 0, -3, 3, -4, 0, 0, 2, 2],
@@ -124,11 +124,16 @@ const SMT5_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Basilisk": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 0, 2, 0, 0, 0, 0, 0, 5, 0, 0],
     "lvl": 31,
     "race": "Drake",
     "resists": "-------",
-    "skills": {},
+    "skills": {
+      "Ice Dracostrike": 21,
+      "Matarukaja": 30,
+      "Poison Breath": 18,
+      "Venom Chaser": 15
+    },
     "stats": [190, 114, 0, 0, 0, 0, 0]
   },
   "Berith": {
@@ -148,12 +153,17 @@ const SMT5_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Cait Sith": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1],
     "lvl": 7,
     "race": "Beast",
     "resists": "---sw--",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0, 0, 0]
+    "skills": {
+      "Dia": 6,
+      "Sukukaja": 6,
+      "Sukunda": 6,
+      "Zio": 9
+    },
+    "stats": [54, 70, 0, 0, 0, 0, 0]
   },
   "Camael": {
     "affinities": [3, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0],
@@ -185,6 +195,20 @@ const SMT5_DEMON_DATA = {
       "Resist Phys": 0
     },
     "stats": [450, 223, 53, 59, 28, 43, 30]
+  },
+  "Chironnupu": {
+    "affinities": [0, 3, 1, 0, 0, 2, 0, 0, 0, 0, 4],
+    "lvl": 27,
+    "race": "Holy",
+    "resists": "-------",
+    "skills": {
+      "Foxfire Rain": 25,
+      "Hama": 13,
+      "Light Block": 28,
+      "Mabufu": 13,
+      "Vigilant Cheer": 35
+    },
+    "stats": [124, 185, 0, 0, 0, 0, 0]
   },
   "Cu Chulainn": {
     "affinities": [4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 2],
@@ -230,13 +254,31 @@ const SMT5_DEMON_DATA = {
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
+  "Demeter": {
+    "affinities": [0, 0, 0, 0, 3, 1, 0, 0, 0, 4, 0],
+    "lvl": 76,
+    "race": "Megami",
+    "resists": "-------",
+    "skills": {
+      "Diamrita": 21,
+      "Eleusinian Harvest": 105,
+      "Hamabarion": 49,
+      "Mazanbarion": 62
+    },
+    "stats": [377, 450, 0, 0, 0, 0, 0]
+  },
   "Eligor": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 37,
     "race": "Fallen",
     "resists": "-n-w--s",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0, 0, 0]
+    "skills": {
+      "Blight": 16,
+      "Dark Sword": 21,
+      "Fire Dracostrike": 21,
+      "Maragion": 26
+    },
+    "stats": [214, 0, 0, 0, 0, 0, 0]
   },
   "Erthys": {
     "affinities": [0, 0, 0, 3, 0, 0, 0, 0, 1, 0, 0],
@@ -423,7 +465,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [0, 3, 0, 0, 0, 0, 0, 0, 1, 1, 0],
     "lvl": 24,
     "race": "Beast",
-    "resists": "-------",
+    "resists": "-nw--ws",
     "skills": {
       "Dia": 6,
       "Fire Breath": 21,
@@ -572,13 +614,27 @@ const SMT5_DEMON_DATA = {
     "race": "Vile",
     "resists": "-dw---n",
     "skills": {
-      "Debilitate": 119,
+      "Akasha Arts": 42,
       "Dekunda": 31,
       "Hades Blast": 50,
       "Mediarahan": 112,
+      "Ragnarok": 45,
       "Trisagion": 48
     },
     "stats": [524, 389, 64, 61, 69, 42, 38]
+  },
+  "Manananggal": {
+    "affinities": [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 2],
+    "lvl": 25,
+    "race": "Femme",
+    "resists": "-----wn",
+    "skills": {
+      "Sanguine Drain": 15,
+      "Venom Chaser": 15,
+      "Zanma": 17,
+      "Zionga": 20
+    },
+    "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Mandrake": {
     "affinities": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
@@ -592,11 +648,17 @@ const SMT5_DEMON_DATA = {
     "stats": [49, 75, 6, 7, 9, 11, 9]
   },
   "Melchizedek": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 2],
     "lvl": 60,
     "race": "Herald",
     "resists": "-------",
-    "skills": {},
+    "skills": {
+      "Deathbound": 30,
+      "Mahamaon": 30,
+      "Matarukaja": 23,
+      "Mortal Jihad": 26,
+      "White Dracostrike": 22
+    },
     "stats": [314, 281, 0, 0, 0, 0, 0]
   },
   "Mermaid": {
@@ -704,7 +766,7 @@ const SMT5_DEMON_DATA = {
   "Orobas": {
     "affinities": [0, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0],
     "lvl": 49,
-    "race": "Fallen",
+    "race": "Beast",
     "resists": "-sw---s",
     "skills": {
       "Agidyne": 29,
@@ -823,6 +885,18 @@ const SMT5_DEMON_DATA = {
     "resists": "-------",
     "skills": {},
     "stats": [409, 284, 0, 0, 0, 0, 0]
+  },
+  "Shiisaa": {
+    "affinities": [1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 2],
+    "lvl": 19,
+    "race": "Holy",
+    "resists": "-------",
+    "skills": {
+      "Devour": 4,
+      "Mazio": 12,
+      "Rakunda": 6
+    },
+    "stats": [91, 117, 0, 0, 0, 0, 0]
   },
   "Silky": {
     "affinities": [0, 0, 3, 0, 0, 0, 0, 0, 0, 2, 1],
