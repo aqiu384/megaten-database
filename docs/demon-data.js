@@ -15,6 +15,19 @@ const SMT5_DEMON_DATA = {
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
+  "Alilat": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 4, 0, 3, 3],
+    "lvl": 81,
+    "race": "Lady",
+    "resists": "-----ss",
+    "skills": {
+      "Mediarahan": 112,
+      "Megidolaon": 97,
+      "Mind Stremma": 30,
+      "Power Stremma": 30
+    },
+    "stats": [410, 418, 0, 0, 0, 0, 0]
+  },
   "Anahita": {
     "affinities": [0, 0, 4, 0, 0, 0, 0, 0, 0, 2, 1],
     "lvl": 39,
@@ -358,7 +371,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0],
     "lvl": 63,
     "race": "Brute",
-    "resists": "-------",
+    "resists": "---wn--",
     "skills": {
       "Titanomachia": 52,
       "Zandyne": 26
@@ -960,7 +973,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [4, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 66,
     "race": "Kishin",
-    "resists": "-------",
+    "resists": "-s-dws-",
     "skills": {
       "Hell Thrust": 36,
       "Maziodyne": 40,
