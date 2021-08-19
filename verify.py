@@ -43,6 +43,8 @@ for dname, entry in demons.items():
 
         if smod == 0:
             continue
+        if scost == 1001:
+            continue
 
         pcost = math.floor((100 - bonuses[selem][smod - 1]) / 100 * scost)
 

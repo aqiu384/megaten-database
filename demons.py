@@ -156,7 +156,7 @@ def parseStats(demons):
 
     return demons
 
-def parseSkills(skills):
+def parseSkills(demons, skills):
     with open('smtv-data - skills.tsv') as tsvfile:
         for line in tsvfile:
             parts = line.split('\t')
@@ -176,10 +176,16 @@ def parseSkills(skills):
                 entry['cost'] = 1000 + cost
             if unique.strip():
                 entry['rank'] = 99
+            if cost == 1001:
+                drace = unique.split(': ')[1].split(' (')[0]
+
+                for dentry in demons.values():
+                    if dentry['race'] == drace:
+                        dentry['skills'][sname] = 1001
 
             skills[sname] = entry
 
-    return skills
+    return demons, skills
 
 demonData = {}
 demonData = parseEnemies(demonData)
@@ -187,7 +193,7 @@ demonData = parseDemons(demonData)
 demonData = parseStats(demonData)
 
 skillData = {}
-skillData = parseSkills(skillData)
+demonData, skillData = parseSkills(demonData, skillData)
 
 print(len(demonData))
 

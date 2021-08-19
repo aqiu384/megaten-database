@@ -1,4 +1,10 @@
 const SMT5_SKILL_DATA = {
+  "301,600,000 Lights": {
+    "cost": 2001,
+    "effect": "",
+    "element": "rec",
+    "rank": 99
+  },
   "Agi": {
     "cost": 1010,
     "effect": "Light dmg",
@@ -29,14 +35,9 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
-  "Amrita": {
-    "effect": "Cure ailments",
-    "element": "rec",
-    "target": "1 ally"
-  },
   "Aramasa": {
     "cost": 1010,
-    "effect": "Light dmg",
+    "effect": "Light dmg, 8 hits",
     "element": "phy",
     "rank": 99,
     "target": "1 foe"
@@ -51,6 +52,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
     "element": "alm",
+    "rank": 99,
     "target": "All foes"
   },
   "Black Dracostrike": {
@@ -110,6 +112,11 @@ const SMT5_SKILL_DATA = {
   "Concentrate": {
     "cost": 1010,
     "effect": "Raise dmg of next magic attack",
+    "element": "sup"
+  },
+  "Critical Eye": {
+    "cost": 1025,
+    "effect": "Guaranteed crit for next phys attack",
     "element": "sup"
   },
   "Critical Slash": {
@@ -180,7 +187,7 @@ const SMT5_SKILL_DATA = {
   },
   "Diamrita": {
     "cost": 1030,
-    "effect": "Diarama + Amrita",
+    "effect": "Cure ailments",
     "element": "rec",
     "target": "1 ally"
   },
@@ -263,10 +270,17 @@ const SMT5_SKILL_DATA = {
     "effect": "Survive fatal attack with full HP once per battle",
     "element": "pas"
   },
+  "Eternal Blizzard": {
+    "effect": "",
+    "element": "ice",
+    "rank": 99,
+    "target": "All foes"
+  },
   "Eternal Prayer": {
     "cost": 2001,
     "effect": "Salvation + Samarecarm",
     "element": "rec",
+    "rank": 99,
     "target": "Full stock"
   },
   "Eyes On Me!": {
@@ -278,7 +292,8 @@ const SMT5_SKILL_DATA = {
   "Fairy Banquet": {
     "cost": 2001,
     "effect": "Max Tarukaja + Rakukaja + Sukukaja",
-    "element": "spe",
+    "element": "sup",
+    "rank": 99,
     "target": "All allies"
   },
   "Fang Breaker": {
@@ -342,10 +357,17 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
+  "Freikugel": {
+    "cost": 1060,
+    "effect": "Severe phys-based dmg, High crit",
+    "element": "alm",
+    "target": "1 foe"
+  },
   "Freikugel EX": {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
     "element": "alm",
+    "rank": 99,
     "target": "1 foe"
   },
   "Glacial Blast": {
@@ -423,6 +445,17 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All allies"
   },
+  "Hygeian Cup": {
+    "cost": 1020,
+    "effect": "",
+    "element": "sup"
+  },
+  "Hysterical Slap": {
+    "cost": 1020,
+    "effect": "Light dmg, 2 hits, Higher dmg against Charm",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Ice Age": {
     "cost": 1065,
     "effect": "Colossal dmg",
@@ -460,6 +493,10 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
+  "Life Aid": {
+    "effect": "Moderately restore HP after battle",
+    "element": "pas"
+  },
   "Life Bonus": {
     "effect": "Max HP +10%",
     "element": "pas"
@@ -470,11 +507,33 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "1 foe"
   },
+  "Life Gain": {
+    "effect": "Max HP +20%",
+    "element": "pas"
+  },
+  "Life Surge": {
+    "effect": "Max HP +30%",
+    "element": "pas"
+  },
   "Light Block": {
     "cost": 1040,
     "effect": "Nullify next light attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Light Life Aid": {
+    "effect": "Slightly restore HP after battle",
+    "element": "pas"
+  },
+  "Light Mana Aid": {
+    "effect": "Slightly restore MP after battle",
+    "element": "pas"
+  },
+  "Liquid Poison": {
+    "cost": 1015,
+    "effect": "",
+    "element": "ail",
+    "rank": 99
   },
   "Lullaby": {
     "cost": 1025,
@@ -584,6 +643,22 @@ const SMT5_SKILL_DATA = {
     "effect": "Heavy dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
+  },
+  "Mana Aid": {
+    "effect": "Moderately restore MP after battle",
+    "element": "pas"
+  },
+  "Mana Bonus": {
+    "effect": "Max HP +10%",
+    "element": "pas"
+  },
+  "Mana Gain": {
+    "effect": "Max HP +20%",
+    "element": "pas"
+  },
+  "Mana Surge": {
+    "effect": "Max HP +30%",
+    "element": "pas"
   },
   "Maragi": {
     "cost": 1015,
@@ -753,6 +828,12 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "1 ally"
   },
+  "Miracle Water": {
+    "cost": 1020,
+    "effect": "",
+    "element": "rec",
+    "rank": 99
+  },
   "Mist Rush": {
     "cost": 1035,
     "effect": "Medium dmg, 2-4 hits, Illusion",
@@ -794,6 +875,12 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Narukami": {
+    "effect": "",
+    "element": "ele",
+    "rank": 99,
+    "target": "1 foe"
+  },
   "Nihil Claw": {
     "cost": 1036,
     "effect": "Heavy dmg, 2-3 hits",
@@ -803,25 +890,36 @@ const SMT5_SKILL_DATA = {
   "Omagatoki Critical": {
     "cost": 2001,
     "effect": "All phys and magic attacks will crit for 1 turn",
-    "element": "spe",
+    "element": "sup",
+    "rank": 99,
     "target": "All allies"
   },
   "Omagatoki Luck": {
     "cost": 2001,
     "effect": "",
-    "element": "spe",
+    "element": "sup",
+    "rank": 99,
     "target": "All allies"
   },
   "Omagatoki Pierce": {
     "cost": 2001,
     "effect": "All phys and magic attacks will pierce for 1 turn",
-    "element": "spe",
+    "element": "sup",
+    "rank": 99,
     "target": "All allies"
   },
   "Omagatoki Sanko": {
     "cost": 2001,
     "effect": "",
-    "element": "spe",
+    "element": "sup",
+    "rank": 99,
+    "target": "All allies"
+  },
+  "Omagatoki Zero Set": {
+    "cost": 2001,
+    "effect": "All skill costs reduced to 0 for 1 turn",
+    "element": "sup",
+    "rank": 99,
     "target": "All allies"
   },
   "Panic Needle": {
@@ -832,7 +930,7 @@ const SMT5_SKILL_DATA = {
   },
   "Patra": {
     "cost": 1008,
-    "effect": "Cure mental ailments",
+    "effect": "Cure ailments",
     "element": "rec",
     "target": "1 ally"
   },
@@ -841,6 +939,18 @@ const SMT5_SKILL_DATA = {
     "effect": "Nullify next phys attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Piercing Hit": {
+    "cost": 1015,
+    "effect": "Medium dmg, Pierce",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Pocket Sand": {
+    "cost": 1015,
+    "effect": "Light dmg, Illusion",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Poisma": {
     "cost": 1010,
@@ -866,6 +976,18 @@ const SMT5_SKILL_DATA = {
     "element": "ail",
     "target": "1 foe"
   },
+  "Purple Smoke": {
+    "cost": 1025,
+    "effect": "Light dmg, 3 hits, Higher dmg against Panic",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Raging Tempest": {
+    "effect": "",
+    "element": "for",
+    "rank": 99,
+    "target": "1 foe"
+  },
   "Ragnarok": {
     "cost": 1060,
     "effect": "Medium dmg, 2-5 hits",
@@ -885,7 +1007,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Rampage": {
-    "effect": "Medium dmg",
+    "effect": "Light dmg",
     "element": "phy",
     "target": "Multi foes"
   },
@@ -894,6 +1016,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Revive with half HP",
     "element": "rec",
     "target": "1 ally"
+  },
+  "Regain": {
+    "effect": "",
+    "element": "pas"
   },
   "Rend Asunder": {
     "cost": 1025,
@@ -929,6 +1055,18 @@ const SMT5_SKILL_DATA = {
     "effect": "Halves phys dmg",
     "element": "pas"
   },
+  "Sacrifice of Clay": {
+    "effect": "",
+    "element": "for",
+    "rank": 99,
+    "target": "All foes"
+  },
+  "Sakanagi": {
+    "cost": 1020,
+    "effect": "",
+    "element": "alm",
+    "rank": 99
+  },
   "Samarecarm": {
     "effect": "Revive with full HP",
     "element": "rec",
@@ -952,6 +1090,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, 2-5 hits",
     "element": "ele",
     "target": "Multi foes"
+  },
+  "Souffle D'eclair": {
+    "effect": "",
+    "element": "ele",
+    "rank": 99,
+    "target": "1 foe"
   },
   "Spirit Drain": {
     "cost": 1005,
@@ -1021,6 +1165,12 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "1 ally"
   },
+  "Thalassic Calamity": {
+    "effect": "",
+    "element": "ice",
+    "rank": 99,
+    "target": "Multi foes"
+  },
   "Thunder Gods": {
     "cost": 1065,
     "effect": "Colossal dmg",
@@ -1050,6 +1200,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, Higher dmg against Poison",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Victory Cry": {
+    "effect": "Fully restro HP and MP after battle",
+    "element": "pas"
   },
   "Vigilant Cheer": {
     "cost": 1050,
