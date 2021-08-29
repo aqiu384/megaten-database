@@ -42,6 +42,12 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "1 foe"
   },
+  "Axel Claw": {
+    "cost": 1024,
+    "effect": "Medium dmg, 2-4 hits",
+    "element": "phy",
+    "target": "Multi foes"
+  },
   "Berserker God": {
     "cost": 1015,
     "effect": "Light dmg, High crit",
@@ -131,6 +137,12 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "All foes"
   },
+  "Damascus Claw": {
+    "cost": 1024,
+    "effect": "Medium dmg, 2-3 hits",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Dark Block": {
     "cost": 1040,
     "effect": "Nullify next dark attack",
@@ -145,7 +157,7 @@ const SMT5_SKILL_DATA = {
   },
   "Deadly Wind": {
     "cost": 1065,
-    "effect": "Colossal dmg",
+    "effect": "Heavy dmg, Pierce",
     "element": "for",
     "target": "1 foe"
   },
@@ -239,7 +251,7 @@ const SMT5_SKILL_DATA = {
   },
   "Dream Vortex": {
     "cost": 1035,
-    "effect": "Sleep",
+    "effect": "Sleep, Illusion",
     "element": "ail",
     "target": "All foes"
   },
@@ -458,7 +470,7 @@ const SMT5_SKILL_DATA = {
   },
   "Ice Age": {
     "cost": 1065,
-    "effect": "Colossal dmg",
+    "effect": "Heavy dmg, Pierce",
     "element": "ice",
     "target": "1 foe"
   },
@@ -492,6 +504,12 @@ const SMT5_SKILL_DATA = {
     "element": "ice",
     "rank": 99,
     "target": "All foes"
+  },
+  "Leg Breaker": {
+    "cost": 1015,
+    "effect": "Light dmg, Sukunda",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Life Aid": {
     "effect": "Moderately restore HP after battle",
@@ -915,6 +933,13 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All allies"
   },
+  "Omagatoki Snipe": {
+    "cost": 2001,
+    "effect": "All skills will hit for 1 turn",
+    "element": "sup",
+    "rank": 99,
+    "target": "All allies"
+  },
   "Omagatoki Zero Set": {
     "cost": 2001,
     "effect": "All skill costs reduced to 0 for 1 turn",
@@ -943,12 +968,6 @@ const SMT5_SKILL_DATA = {
   "Piercing Hit": {
     "cost": 1015,
     "effect": "Medium dmg, Pierce",
-    "element": "phy",
-    "target": "1 foe"
-  },
-  "Pocket Sand": {
-    "cost": 1015,
-    "effect": "Light dmg, Illusion",
     "element": "phy",
     "target": "1 foe"
   },
@@ -1068,6 +1087,7 @@ const SMT5_SKILL_DATA = {
     "rank": 99
   },
   "Samarecarm": {
+    "cost": 1060,
     "effect": "Revive with full HP",
     "element": "rec",
     "target": "1 ally"
@@ -1084,6 +1104,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Charm",
     "element": "ail",
     "target": "All foes"
+  },
+  "Shell Breaker": {
+    "cost": 1015,
+    "effect": "Light dmg, Rakunda",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Shock": {
     "cost": 1025,
@@ -1173,7 +1199,7 @@ const SMT5_SKILL_DATA = {
   },
   "Thunder Gods": {
     "cost": 1065,
-    "effect": "Colossal dmg",
+    "effect": "Heavy dmg, Pierce",
     "element": "ele",
     "target": "1 foe"
   },
@@ -1191,7 +1217,7 @@ const SMT5_SKILL_DATA = {
   },
   "Trisagion": {
     "cost": 1065,
-    "effect": "Colossal dmg",
+    "effect": "Heavy dmg, Pierce",
     "element": "fir",
     "target": "1 foe"
   },

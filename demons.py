@@ -177,11 +177,12 @@ def parseSkills(demons, skills):
             if unique.strip():
                 entry['rank'] = 99
             if cost == 1001:
-                drace = unique.split(': ')[1].split(' (')[0]
+                draces = unique.split(': ')[1].split(' (')[0].split(', ')
 
-                for dentry in demons.values():
-                    if dentry['race'] == drace:
-                        dentry['skills'][sname] = 1001
+                for drace in draces:
+                    for dentry in demons.values():
+                        if dentry['race'] == drace:
+                            dentry['skills'][sname] = 1001
 
             skills[sname] = entry
 
