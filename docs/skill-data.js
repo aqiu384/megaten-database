@@ -388,6 +388,13 @@ const SMT5_SKILL_DATA = {
     "element": "ice",
     "target": "Multi foes"
   },
+  "Godly Shield": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 99,
+    "target": "All allies"
+  },
   "Gram Slice": {
     "cost": 1010,
     "effect": "Light dmg, High crit",
@@ -491,6 +498,11 @@ const SMT5_SKILL_DATA = {
     "effect": "Medium phys-based dmg",
     "element": "ice",
     "target": "1 foe"
+  },
+  "Impaler's Animus": {
+    "cost": 1050,
+    "effect": "Raise dmg of next attack with pierce",
+    "element": "sup"
   },
   "Jack Bufula": {
     "cost": 1020,
@@ -751,7 +763,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Mazanbarion": {
-    "cost": 1074,
+    "cost": 1075,
     "effect": "Severe dmg",
     "element": "for",
     "target": "All foes"
@@ -905,6 +917,13 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Omagatoki Aptitude": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 99,
+    "target": "All allies"
+  },
   "Omagatoki Critical": {
     "cost": 2001,
     "effect": "All phys and magic attacks will crit for 1 turn",
@@ -983,6 +1002,13 @@ const SMT5_SKILL_DATA = {
     "element": "ail",
     "target": "All foes"
   },
+  "Poison Spray": {
+    "cost": 2001,
+    "effect": "",
+    "element": "ail",
+    "rank": 99,
+    "target": "All foes"
+  },
   "Power Stremma": {
     "cost": 1040,
     "effect": "Raise dmg of next phys attack",
@@ -1001,8 +1027,30 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Raging Blizzard": {
+    "cost": 1040,
+    "effect": "Severe dmg",
+    "element": "ice",
+    "rank": 99,
+    "target": "1 foe"
+  },
+  "Raging Hellfire": {
+    "cost": 1040,
+    "effect": "Severe dmg",
+    "element": "fir",
+    "rank": 99,
+    "target": "1 foe"
+  },
+  "Raging Lightning": {
+    "cost": 1040,
+    "effect": "Severe dmg",
+    "element": "ele",
+    "rank": 99,
+    "target": "1 foe"
+  },
   "Raging Tempest": {
-    "effect": "",
+    "cost": 1040,
+    "effect": "Severe dmg",
     "element": "for",
     "rank": 99,
     "target": "1 foe"
@@ -1118,7 +1166,8 @@ const SMT5_SKILL_DATA = {
     "target": "Multi foes"
   },
   "Souffle D'eclair": {
-    "effect": "",
+    "cost": 1055,
+    "effect": "Severe dmg",
     "element": "ele",
     "rank": 99,
     "target": "1 foe"
@@ -1249,11 +1298,6 @@ const SMT5_SKILL_DATA = {
     "effect": "Medium phys-based dmg, Chance of instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
-  },
-  "Will of Carnage": {
-    "cost": 1050,
-    "effect": "Raise dmg of next attack with pierce",
-    "element": "sup"
   },
   "Wind Breath": {
     "cost": 1025,
