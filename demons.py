@@ -177,6 +177,7 @@ def parseSkills(demons, skills):
             if unique.strip():
                 entry['rank'] = 99
             if cost == 1001:
+                entry['rank'] = 50
                 draces = unique.split(': ')[1].split(' (')[0].split(', ')
 
                 for drace in draces:

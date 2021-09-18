@@ -3,7 +3,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "",
     "element": "rec",
-    "rank": 99
+    "rank": 50
   },
   "Agi": {
     "cost": 1010,
@@ -35,6 +35,13 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Ancient Mother's Love": {
+    "cost": 1200,
+    "effect": "Mediarama + Me Patra + Dekunda",
+    "element": "rec",
+    "rank": 99,
+    "target": "All allies"
+  },
   "Aramasa": {
     "cost": 1010,
     "effect": "Light dmg, 8 hits",
@@ -58,7 +65,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
     "element": "alm",
-    "rank": 99,
+    "rank": 50,
     "target": "All foes"
   },
   "Black Dracostrike": {
@@ -114,6 +121,13 @@ const SMT5_SKILL_DATA = {
     "cost": 1010,
     "effect": "Raise dmg of next phys attack",
     "element": "sup"
+  },
+  "Coma Wave": {
+    "cost": 2001,
+    "effect": "",
+    "element": "phy",
+    "rank": 50,
+    "target": "All foes"
   },
   "Concentrate": {
     "cost": 1010,
@@ -292,7 +306,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "Salvation + Samarecarm",
     "element": "rec",
-    "rank": 99,
+    "rank": 50,
     "target": "Full stock"
   },
   "Eyes On Me!": {
@@ -305,7 +319,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "Max Tarukaja + Rakukaja + Sukukaja",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Fang Breaker": {
@@ -379,7 +393,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
     "element": "alm",
-    "rank": 99,
+    "rank": 50,
     "target": "1 foe"
   },
   "Glacial Blast": {
@@ -392,7 +406,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Gram Slice": {
@@ -532,7 +546,7 @@ const SMT5_SKILL_DATA = {
     "element": "pas"
   },
   "Life Drain": {
-    "cost": 1005,
+    "cost": 1010,
     "effect": "Light dmg, Absorbs HP",
     "element": "alm",
     "target": "1 foe"
@@ -806,7 +820,7 @@ const SMT5_SKILL_DATA = {
   },
   "Me Patra": {
     "cost": 1030,
-    "effect": "Cure mental ailments",
+    "effect": "Cure ailments",
     "element": "rec",
     "target": "All allies"
   },
@@ -832,7 +846,7 @@ const SMT5_SKILL_DATA = {
     "cost": 1050,
     "effect": "Heavy dmg, Low hit",
     "element": "phy",
-    "target": "1 foe"
+    "target": "All foes"
   },
   "Megido": {
     "cost": 1040,
@@ -921,49 +935,49 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Omagatoki Critical": {
     "cost": 2001,
     "effect": "All phys and magic attacks will crit for 1 turn",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Omagatoki Luck": {
     "cost": 2001,
     "effect": "",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Omagatoki Pierce": {
     "cost": 2001,
     "effect": "All phys and magic attacks will pierce for 1 turn",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Omagatoki Sanko": {
     "cost": 2001,
     "effect": "",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Omagatoki Snipe": {
     "cost": 2001,
     "effect": "All skills will hit for 1 turn",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Omagatoki Zero Set": {
     "cost": 2001,
     "effect": "All skill costs reduced to 0 for 1 turn",
     "element": "sup",
-    "rank": 99,
+    "rank": 50,
     "target": "All allies"
   },
   "Panic Needle": {
@@ -1006,7 +1020,7 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "",
     "element": "ail",
-    "rank": 99,
+    "rank": 50,
     "target": "All foes"
   },
   "Power Stremma": {
@@ -1211,7 +1225,7 @@ const SMT5_SKILL_DATA = {
   },
   "Sun's Radiance": {
     "cost": 1012,
-    "effect": "Moderately recover HP and cure ailments",
+    "effect": "Diarama + Patra",
     "element": "rec",
     "rank": 99,
     "target": "1 ally"
@@ -1263,6 +1277,12 @@ const SMT5_SKILL_DATA = {
     "element": "dar",
     "rank": 99,
     "target": "All foes"
+  },
+  "Toxic Sting": {
+    "cost": 1010,
+    "effect": "Light dmg, Poison",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Trisagion": {
     "cost": 1065,
