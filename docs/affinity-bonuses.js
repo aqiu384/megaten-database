@@ -13,7 +13,7 @@ const SMT5_AFFINITY_BONUSES = {
     "sup": "support"
   },
   "costs": {
-    "attack": [10, 13, 16, 19, 25, 28.5],
+    "attack": [10, 13, 16, 19, 25, 28],
     "recovery": [16, 20.5, 25, 30, 41],
     "support": [15, 20.5, 25, 30, 41]
   },

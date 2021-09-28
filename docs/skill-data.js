@@ -80,6 +80,18 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
+  "Bouncing Claw": {
+    "cost": 1012,
+    "effect": "Light dmg, 1-3 hits",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Brave Blade": {
+    "cost": 1045,
+    "effect": "Heavy dmg, Higher dmg when crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Bufu": {
     "cost": 1010,
     "effect": "Light dmg",
@@ -230,6 +242,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 ally"
   },
   "Die For Me!": {
+    "cost": 1050,
     "effect": "",
     "element": "dar",
     "rank": 99,
@@ -297,6 +310,7 @@ const SMT5_SKILL_DATA = {
     "element": "pas"
   },
   "Eternal Blizzard": {
+    "cost": 1050,
     "effect": "",
     "element": "ice",
     "rank": 99,
@@ -311,7 +325,7 @@ const SMT5_SKILL_DATA = {
   },
   "Eyes On Me!": {
     "cost": 1005,
-    "effect": "Greatly raise chance of being targeted + Sukukaja x2",
+    "effect": "Raise chance of being targeted + Sukukaja x2",
     "element": "sup",
     "rank": 99
   },
@@ -445,6 +459,11 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Heat Haze Shot": {
+    "effect": "",
+    "element": "fir",
+    "rank": 99
+  },
   "Heat Wave": {
     "cost": 1015,
     "effect": "Light dmg",
@@ -456,6 +475,11 @@ const SMT5_SKILL_DATA = {
     "effect": "Heavy dmg, Pierce",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Hellish Brand": {
+    "effect": "",
+    "element": "fir",
+    "rank": 99
   },
   "Hellish Slash": {
     "cost": 1005,
@@ -525,6 +549,16 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "1 foe"
   },
+  "Karnak": {
+    "effect": "",
+    "element": "phy",
+    "rank": 99
+  },
+  "Keraunos": {
+    "effect": "",
+    "element": "ele",
+    "rank": 99
+  },
   "King Bufula": {
     "effect": "Medium dmg, Rakunda",
     "element": "ice",
@@ -572,12 +606,6 @@ const SMT5_SKILL_DATA = {
   "Light Mana Aid": {
     "effect": "Slightly restore MP after battle",
     "element": "pas"
-  },
-  "Liquid Poison": {
-    "cost": 1015,
-    "effect": "",
-    "element": "ail",
-    "rank": 99
   },
   "Lullaby": {
     "cost": 1025,
@@ -866,6 +894,12 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "All foes"
   },
+  "Mighty Sword": {
+    "cost": 1025,
+    "effect": "Medium dmg, 2-4 hits, Illusion",
+    "element": "phy",
+    "target": "Multi foes"
+  },
   "Mind Stremma": {
     "cost": 1040,
     "effect": "Raise dmg of next magic attack",
@@ -920,9 +954,9 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Narukami": {
-    "effect": "",
+    "cost": 1065,
+    "effect": "Heavy dmg, Pierce",
     "element": "ele",
-    "rank": 99,
     "target": "1 foe"
   },
   "Nihil Claw": {
@@ -1088,9 +1122,10 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Rampage": {
-    "effect": "Light dmg",
+    "cost": 1020,
+    "effect": "Medium dmg, Low hit",
     "element": "phy",
-    "target": "Multi foes"
+    "target": "All foes"
   },
   "Recarm": {
     "cost": 1020,
@@ -1135,6 +1170,16 @@ const SMT5_SKILL_DATA = {
   "Resist Phys": {
     "effect": "Halves phys dmg",
     "element": "pas"
+  },
+  "Roar": {
+    "cost": 1030,
+    "effect": "Raise chance of being targeted + Rakukaja",
+    "element": "sup"
+  },
+  "Roaring Thunder": {
+    "effect": "",
+    "element": "ele",
+    "rank": 99
   },
   "Sacrifice of Clay": {
     "effect": "",
@@ -1192,12 +1237,6 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "1 foe"
   },
-  "Squash": {
-    "cost": 1020,
-    "effect": "Light dmg",
-    "element": "phy",
-    "target": "All foes"
-  },
   "Steel Needle": {
     "cost": 1025,
     "effect": "Medium dmg, 1-4 hits, High crit",
@@ -1242,6 +1281,11 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "1 foe"
   },
+  "Taunt": {
+    "cost": 1010,
+    "effect": "Raise chance of being targeted",
+    "element": "sup"
+  },
   "Tentarafoo": {
     "cost": 1025,
     "effect": "Panic",
@@ -1260,11 +1304,11 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "Multi foes"
   },
-  "Thunder Gods": {
-    "cost": 1065,
-    "effect": "Heavy dmg, Pierce",
+  "Thunder Reign": {
+    "cost": 1060,
+    "effect": "Medium dmg, 2-5 hits",
     "element": "ele",
-    "target": "1 foe"
+    "target": "All foes"
   },
   "Titanomachia": {
     "cost": 1060,
@@ -1277,6 +1321,12 @@ const SMT5_SKILL_DATA = {
     "element": "dar",
     "rank": 99,
     "target": "All foes"
+  },
+  "Toxic Fluid": {
+    "cost": 1015,
+    "effect": "Poisma + Rakunda",
+    "element": "ail",
+    "target": "1 foe"
   },
   "Toxic Sting": {
     "cost": 1010,
@@ -1312,6 +1362,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Medium phys-based dmg",
     "element": "ele",
     "target": "1 foe"
+  },
+  "Watchful": {
+    "effect": "Doubles experience gained in stock",
+    "element": "pas"
   },
   "White Dracostrike": {
     "cost": 1030,
