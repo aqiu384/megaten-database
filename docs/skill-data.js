@@ -3,7 +3,8 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "",
     "element": "rec",
-    "rank": 50
+    "rank": 50,
+    "target": "All allies"
   },
   "Agi": {
     "cost": 1010,
@@ -177,7 +178,7 @@ const SMT5_SKILL_DATA = {
   },
   "Dark Sword": {
     "cost": 1025,
-    "effect": "",
+    "effect": "Medium dmg, 2 hits, Mute",
     "element": "phy",
     "target": "1 foe"
   },
@@ -459,10 +460,18 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Headshot": {
+    "cost": 1020,
+    "effect": "Medium dmg, Low hit",
+    "element": "phy",
+    "target": "Multi foes"
+  },
   "Heat Haze Shot": {
-    "effect": "",
+    "cost": 1015,
+    "effect": "Medium dmg, Illusion",
     "element": "fir",
-    "rank": 99
+    "rank": 99,
+    "target": "1 foe"
   },
   "Heat Wave": {
     "cost": 1015,
@@ -477,9 +486,11 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Hellish Brand": {
+    "cost": 1050,
     "effect": "",
     "element": "fir",
-    "rank": 99
+    "rank": 99,
+    "target": "All foes"
   },
   "Hellish Slash": {
     "cost": 1005,
@@ -504,7 +515,7 @@ const SMT5_SKILL_DATA = {
   },
   "Hygeian Cup": {
     "cost": 1020,
-    "effect": "",
+    "effect": "Raise healing of next recovery spell",
     "element": "sup"
   },
   "Hysterical Slap": {
@@ -721,15 +732,15 @@ const SMT5_SKILL_DATA = {
     "element": "pas"
   },
   "Mana Bonus": {
-    "effect": "Max HP +10%",
+    "effect": "Max MP +10%",
     "element": "pas"
   },
   "Mana Gain": {
-    "effect": "Max HP +20%",
+    "effect": "Max MP +20%",
     "element": "pas"
   },
   "Mana Surge": {
-    "effect": "Max HP +30%",
+    "effect": "Max MP +30%",
     "element": "pas"
   },
   "Maragi": {
@@ -972,6 +983,13 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
+  "Omagatoki Assault": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
   "Omagatoki Critical": {
     "cost": 2001,
     "effect": "All phys and magic attacks will crit for 1 turn",
@@ -1003,6 +1021,13 @@ const SMT5_SKILL_DATA = {
   "Omagatoki Snipe": {
     "cost": 2001,
     "effect": "All skills will hit for 1 turn",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
+  "Omagatoki Strength": {
+    "cost": 2001,
+    "effect": "",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -1109,6 +1134,13 @@ const SMT5_SKILL_DATA = {
     "element": "fir",
     "target": "Multi foes"
   },
+  "Rakshasan Feast": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
   "Rakukaja": {
     "cost": 1008,
     "effect": "Raise defense 1 level for 3 turns",
@@ -1122,10 +1154,10 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Rampage": {
-    "cost": 1020,
-    "effect": "Medium dmg, Low hit",
+    "cost": 1035,
+    "effect": "Medium dmg, 2-5 hits, Low hit",
     "element": "phy",
-    "target": "All foes"
+    "target": "Multi foes"
   },
   "Recarm": {
     "cost": 1020,
@@ -1136,6 +1168,13 @@ const SMT5_SKILL_DATA = {
   "Regain": {
     "effect": "",
     "element": "pas"
+  },
+  "Rejuvenating Water": {
+    "cost": 2001,
+    "effect": "",
+    "element": "rec",
+    "rank": 50,
+    "target": "All allies"
   },
   "Rend Asunder": {
     "cost": 1025,
@@ -1206,6 +1245,12 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "1 foe"
   },
+  "Scratch Dance": {
+    "cost": 1012,
+    "effect": "Light dmg, 1-3 hits",
+    "element": "phy",
+    "target": "Multi foes"
+  },
   "Sexy Dance": {
     "cost": 1025,
     "effect": "Charm",
@@ -1230,6 +1275,12 @@ const SMT5_SKILL_DATA = {
     "element": "ele",
     "rank": 99,
     "target": "1 foe"
+  },
+  "Soul Drain": {
+    "cost": 2001,
+    "effect": "",
+    "element": "alm",
+    "rank": 50
   },
   "Spirit Drain": {
     "cost": 1005,
