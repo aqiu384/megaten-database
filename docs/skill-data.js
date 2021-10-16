@@ -125,7 +125,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Catastrophe": {
-    "cost": 1075,
+    "cost": 1074,
     "effect": "Severe dmg",
     "element": "phy",
     "target": "1 foe"
@@ -146,6 +146,10 @@ const SMT5_SKILL_DATA = {
     "cost": 1010,
     "effect": "Raise dmg of next magic attack",
     "element": "sup"
+  },
+  "Counter": {
+    "effect": "Counter phys attack with light dmg",
+    "element": "phy"
   },
   "Critical Eye": {
     "cost": 1025,
@@ -206,6 +210,12 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "All foes"
   },
+  "Dekajaon": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50
+  },
   "Dekunda": {
     "cost": 1040,
     "effect": "Remove -kunda effects",
@@ -255,7 +265,7 @@ const SMT5_SKILL_DATA = {
     "rank": 99
   },
   "Divine Punishment": {
-    "effect": "Tarunda",
+    "effect": "Counter phys attack with light dmg, Tarunda",
     "element": "dar",
     "rank": 99
   },
@@ -310,12 +320,18 @@ const SMT5_SKILL_DATA = {
     "effect": "Survive fatal attack with full HP once per battle",
     "element": "pas"
   },
+  "Energy Drain": {
+    "cost": 1015,
+    "effect": "Light dmg, Absorbs HP and MP",
+    "element": "alm",
+    "target": "1 foe"
+  },
   "Eternal Blizzard": {
     "cost": 1050,
-    "effect": "",
+    "effect": "Light dmg, 3-6 hits",
     "element": "ice",
     "rank": 99,
-    "target": "All foes"
+    "target": "Multi foes"
   },
   "Eternal Prayer": {
     "cost": 2001,
@@ -552,6 +568,20 @@ const SMT5_SKILL_DATA = {
     "cost": 1050,
     "effect": "Raise dmg of next attack with pierce",
     "element": "sup"
+  },
+  "Impaler's Animuses": {
+    "cost": 2001,
+    "effect": "Raise dmg of next attack with pierce",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
+  "Impaler's Spirit": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
   },
   "Jack Bufula": {
     "cost": 1020,
@@ -997,6 +1027,13 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
+  "Omagatoki Gathering": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
   "Omagatoki Luck": {
     "cost": 2001,
     "effect": "",
@@ -1057,6 +1094,12 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "All allies"
   },
+  "Pierce Armor": {
+    "cost": 1015,
+    "effect": "Light dmg, Rakunda",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Piercing Hit": {
     "cost": 1015,
     "effect": "Medium dmg, Pierce",
@@ -1106,6 +1149,13 @@ const SMT5_SKILL_DATA = {
     "element": "ice",
     "rank": 99,
     "target": "1 foe"
+  },
+  "Raging Force": {
+    "cost": 1060,
+    "effect": "Medium dmg, Mute",
+    "element": "alm",
+    "rank": 99,
+    "target": "All foes"
   },
   "Raging Hellfire": {
     "cost": 1040,
@@ -1178,7 +1228,7 @@ const SMT5_SKILL_DATA = {
   },
   "Rend Asunder": {
     "cost": 1025,
-    "effect": "",
+    "effect": "Medium dmg, Higher dmg when crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -1221,7 +1271,7 @@ const SMT5_SKILL_DATA = {
     "rank": 99
   },
   "Sacrifice of Clay": {
-    "effect": "",
+    "effect": "Medium dmg, Tarunda + Rakunda",
     "element": "for",
     "rank": 99,
     "target": "All foes"
@@ -1257,12 +1307,6 @@ const SMT5_SKILL_DATA = {
     "element": "ail",
     "target": "All foes"
   },
-  "Shell Breaker": {
-    "cost": 1015,
-    "effect": "Light dmg, Rakunda",
-    "element": "phy",
-    "target": "1 foe"
-  },
   "Shock": {
     "cost": 1025,
     "effect": "Light dmg, 2-5 hits",
@@ -1290,7 +1334,7 @@ const SMT5_SKILL_DATA = {
   },
   "Steel Needle": {
     "cost": 1025,
-    "effect": "Medium dmg, 1-4 hits, High crit",
+    "effect": "Heavy dmg, 1-4 hits, High crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -1336,6 +1380,13 @@ const SMT5_SKILL_DATA = {
     "cost": 1010,
     "effect": "Raise chance of being targeted",
     "element": "sup"
+  },
+  "Tenma Crush": {
+    "cost": 1070,
+    "effect": "Medium dmg, Rakunda",
+    "element": "phy",
+    "rank": 99,
+    "target": "All foes"
   },
   "Tentarafoo": {
     "cost": 1025,

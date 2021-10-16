@@ -16,7 +16,7 @@ RESIST_LVLS = {
 }
 
 def parseEnemies(demons):
-    with open('smtv-data - raw-enemies.tsv') as tsvfile:
+    with open('smtv-data - enemies.tsv') as tsvfile:
         for line in tsvfile:
             parts = line.split('\t')
             parts[-1] = parts[-1].strip()
@@ -60,7 +60,7 @@ def parseEnemies(demons):
     return demons
 
 def parseDemons(demons):
-    with open('smtv-data - raw-demons.tsv') as tsvfile:
+    with open('smtv-data - demons.tsv') as tsvfile:
         for line in tsvfile:
             parts = line.split('\t')
             parts[-1] = parts[-1].strip()
@@ -102,7 +102,7 @@ def parseDemons(demons):
     return demons
 
 def parseStats(demons):
-    with open('smtv-data - raw-stats.tsv') as tsvfile:
+    with open('smtv-data - stats.tsv') as tsvfile:
         for line in tsvfile:
             parts = line.split('\t')
             parts[-1] = parts[-1].strip()

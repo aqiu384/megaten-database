@@ -1,4 +1,18 @@
 const SMT5_DEMON_DATA = {
+  "Abaddon": {
+    "affinities": [4, 2, 0, 0, 0, 0, 0, 3, 0, 0, 0],
+    "lvl": 72,
+    "race": "Tyrant",
+    "resists": "-------",
+    "skills": {
+      "Agidyne": 30,
+      "Foggner": 21,
+      "Megaton Press": 40,
+      "Omagatoki Assault": 1001,
+      "Rend Asunder": 20
+    },
+    "stats": [479, 280, 0, 0, 0, 0, 0]
+  },
   "Adramelech": {
     "affinities": [0, 6, 0, 0, 0, 0, 2, 0, 0, 0, 0],
     "lvl": 71,
@@ -211,6 +225,7 @@ const SMT5_DEMON_DATA = {
     "race": "Kunitsu",
     "resists": "-------",
     "skills": {
+      "Dekajaon": 1001,
       "Megidola": 58,
       "Mudoon": 25,
       "Tetrakarn": 37
@@ -256,6 +271,7 @@ const SMT5_DEMON_DATA = {
       "Critical Eye": 25,
       "Freikugel": 50,
       "Hades Blast": 50,
+      "Impaler's Animuses": 1001,
       "Megidolaon": 100,
       "Muscle Punch": 33
     },
@@ -270,6 +286,7 @@ const SMT5_DEMON_DATA = {
       "Fatal Sword": 20,
       "Mamudoon": 34,
       "Marakukaja": 30,
+      "Omagatoki Gathering": 1001,
       "White Dracostrike": 26
     },
     "stats": [328, 201, 0, 0, 0, 0, 0]
@@ -326,6 +343,7 @@ const SMT5_DEMON_DATA = {
       "Deadly Wind": 56,
       "Makarakarn": 50,
       "Maziobarion": 56,
+      "Omagatoki Gathering": 1001,
       "Tentarafoo": 20
     },
     "stats": [578, 0, 0, 0, 0, 0, 0]
@@ -352,16 +370,33 @@ const SMT5_DEMON_DATA = {
     "resists": "-----wn",
     "skills": {
       "Dark Block": 40,
+      "Impaler's Spirit": 1001,
       "Maragion": 27,
       "Mudoon": 21
     },
     "stats": [142, 180, 0, 0, 0, 0, 0]
   },
+  "Barong": {
+    "affinities": [3, 0, 0, 4, 0, 0, 0, 0, 0, 0, 1],
+    "lvl": 60,
+    "race": "Avatar",
+    "resists": "---nwnw",
+    "skills": {
+      "Damascus Claw": 20,
+      "Marakukaja": 25,
+      "Maziodyne": 40,
+      "Omagatoki Snipe": 1001,
+      "Power Stremma": 34,
+      "Tetrakarn": 42,
+      "Volt Dracostrike": 20
+    },
+    "stats": [346, 233, 0, 0, 0, 0, 0]
+  },
   "Basilisk": {
     "affinities": [0, 0, 2, 0, 0, 0, 0, 0, 5, 0, 0],
     "lvl": 31,
     "race": "Drake",
-    "resists": "-------",
+    "resists": "-ssw---",
     "skills": {
       "Big Bang": 1001,
       "Ice Dracostrike": 21,
@@ -371,6 +406,20 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [190, 114, 0, 0, 0, 0, 0]
   },
+  "Belphegor": {
+    "affinities": [0, 0, 4, 0, 0, 0, 4, 0, 0, 0, 1],
+    "lvl": 44,
+    "race": "Tyrant",
+    "resists": "-------",
+    "skills": {
+      "Concentrate": 8,
+      "Mabufula": 24,
+      "Marakukaja": 25,
+      "Mudoon": 20,
+      "Omagatoki Assault": 1001
+    },
+    "stats": [225, 190, 0, 0, 0, 0, 0]
+  },
   "Berith": {
     "affinities": [2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 24,
@@ -379,7 +428,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Maragi": 13,
       "Omagatoki Strength": 1001,
-      "Shell Breaker": 13
+      "Pierce Armor": 13
     },
     "stats": [144, 101, 0, 0, 0, 0, 0]
   },
@@ -412,21 +461,31 @@ const SMT5_DEMON_DATA = {
     "stats": [344, 262, 0, 0, 0, 0, 0]
   },
   "Black Frost": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 0, 3, 0, 0, 0, 4, 0, 0, 0, 0],
     "lvl": 44,
     "race": "Night",
-    "resists": "-------",
+    "resists": "-sn--wr",
     "skills": {
+      "Black Dracostrike": 24,
+      "Charge": 10,
+      "Ice Dracostrike": 21,
+      "Mabufula": 25,
+      "Matarunda": 30,
       "Soul Drain": 1001
     },
-    "stats": [0, 0, 0, 0, 0, 0, 0]
+    "stats": [255, 204, 0, 0, 0, 0, 0]
   },
   "Black Ooze": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [2, 0, 0, 0, 0, 0, 0, 2, 6, 0, 0],
     "lvl": 33,
     "race": "Foul",
     "resists": "sw---w-",
-    "skills": {},
+    "skills": {
+      "Life Drain": 8,
+      "Omagatoki Aptitude": 1001,
+      "Toxic Fluid": 10,
+      "Venom Chaser": 13
+    },
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Bugs": {
@@ -497,6 +556,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Black Dracostrike": 25,
       "Blight": 20,
+      "Impaler's Animuses": 1001,
       "Mamudo": 21,
       "Toxic Fluid": 12
     },
@@ -650,6 +710,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Agilao": 17,
       "Hard Hit": 13,
+      "Impaler's Animuses": 1001,
       "Maragion": 26,
       "Sexy Dance": 21
     },
@@ -801,7 +862,7 @@ const SMT5_DEMON_DATA = {
     "race": "Wargod",
     "resists": "s-----w",
     "skills": {
-      "Catastrophe": 54,
+      "Catastrophe": 53,
       "Freikugel EX": 1001,
       "Impaler's Animus": 35,
       "Matarukaja": 21
@@ -870,6 +931,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Hades Blast": 48,
       "Hell Thrust": 36,
+      "Impaler's Spirit": 1001,
       "Marakunda": 23
     },
     "stats": [381, 245, 0, 0, 0, 0, 0]
@@ -945,7 +1007,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1],
     "lvl": 18,
     "race": "Fairy",
-    "resists": "-------",
+    "resists": "--w-s--",
     "skills": {
       "Concentrate": 8,
       "Fairy Banquet": 1001,
@@ -967,6 +1029,7 @@ const SMT5_DEMON_DATA = {
       "Matarukaja": 23,
       "Megidola": 60,
       "Mind Stremma": 31,
+      "Omagatoki Gathering": 1001,
       "White Dracostrike": 25
     },
     "stats": [194, 203, 0, 0, 0, 0, 0]
@@ -1027,13 +1090,17 @@ const SMT5_DEMON_DATA = {
     "stats": [114, 134, 0, 0, 0, 0, 0]
   },
   "Ippon-Datara": {
-    "affinities": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2],
     "ailments": "---w--",
     "lvl": 17,
     "race": "Brute",
     "resists": "-s---w-",
     "skills": {
-      "Heat Wave": 13
+      "Counter": 0,
+      "Hard Hit": 13,
+      "Pierce Armor": 13,
+      "Tarukaja": 6,
+      "Taunt": 7
     },
     "stats": [120, 79, 17, 20, 12, 9, 5]
   },
@@ -1084,6 +1151,21 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [90, 135, 11, 12, 23, 19, 18]
   },
+  "Jatayu": {
+    "affinities": [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 3],
+    "lvl": 39,
+    "race": "Avian",
+    "resists": "---wd-w",
+    "skills": {
+      "Axel Claw": 24,
+      "Critical Eye": 18,
+      "Force Block": 30,
+      "Masukukaja": 22,
+      "Mazanma": 24,
+      "Poison Spray": 1001
+    },
+    "stats": [198, 176, 0, 0, 0, 0, 0]
+  },
   "Jikokuten": {
     "affinities": [4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3],
     "lvl": 51,
@@ -1100,14 +1182,16 @@ const SMT5_DEMON_DATA = {
     "stats": [312, 212, 0, 0, 0, 0, 0]
   },
   "Kaiwan": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0],
     "lvl": 45,
     "race": "Night",
     "resists": "-----wn",
     "skills": {
+      "Makajamaon": 22,
+      "Mamudoon": 33,
       "Soul Drain": 1001
     },
-    "stats": [0, 0, 0, 0, 0, 0, 0]
+    "stats": [209, 216, 0, 0, 0, 0, 0]
   },
   "Kali": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -1134,14 +1218,20 @@ const SMT5_DEMON_DATA = {
     "stats": [136, 0, 0, 0, 0, 0, 0]
   },
   "Kikuri-Hime": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    "lvl": 24,
+    "affinities": [0, 0, 0, 0, 2, 0, 0, 0, 0, 3, 2],
+    "lvl": 25,
     "race": "Lady",
     "resists": "-------",
     "skills": {
-      "Rejuvenating Water": 1001
+      "Mazan": 13,
+      "Media": 22,
+      "Recarm": 15,
+      "Rejuvenating Water": 1001,
+      "Tarukaja": 6,
+      "Tarunda": 6,
+      "Zanma": 17
     },
-    "stats": [105, 165, 0, 0, 0, 0, 0]
+    "stats": [109, 168, 0, 0, 0, 0, 0]
   },
   "Kin-Ki": {
     "affinities": [4, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0],
@@ -1154,6 +1244,16 @@ const SMT5_DEMON_DATA = {
       "Shock": 21
     },
     "stats": [323, 0, 0, 0, 0, 0, 0]
+  },
+  "King Frost": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 30,
+    "race": "Tyrant",
+    "resists": "-------",
+    "skills": {
+      "Omagatoki Assault": 1001
+    },
+    "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Kodama": {
     "affinities": [0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0],
@@ -1188,7 +1288,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 3],
     "lvl": 26,
     "race": "Jirae",
-    "resists": "-------",
+    "resists": "--n-wsw",
     "skills": {
       "Bufula": 16,
       "Ice Breath": 20,
@@ -1233,6 +1333,7 @@ const SMT5_DEMON_DATA = {
     "resists": "-------",
     "skills": {
       "Dekaja": 34,
+      "Dekajaon": 1001,
       "Mahamaon": 33,
       "Mediarama": 42
     },
@@ -1279,12 +1380,27 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [156, 188, 0, 0, 0, 0, 0]
   },
+  "Leanan Sidhe": {
+    "affinities": [0, 0, 0, 0, 0, 0, 3, 0, 3, 2, 0],
+    "lvl": 17,
+    "race": "Femme",
+    "resists": "-------",
+    "skills": {
+      "Mamudo": 21,
+      "Marin Karin": 8,
+      "Media": 23,
+      "Omagatoki Zero Set": 1001
+    },
+    "stats": [82, 115, 0, 0, 0, 0, 0]
+  },
   "Legion": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     "lvl": 19,
     "race": "Foul",
     "resists": "---w-wn",
-    "skills": {},
+    "skills": {
+      "Omagatoki Aptitude": 1001
+    },
     "stats": [100, 93, 15, 18, 16, 14, 15]
   },
   "Lilim": {
@@ -1360,6 +1476,7 @@ const SMT5_DEMON_DATA = {
       "Akasha Arts": 42,
       "Dekunda": 31,
       "Hades Blast": 50,
+      "Impaler's Spirit": 1001,
       "Mediarahan": 112,
       "Ragnarok": 45,
       "Trisagion": 48
@@ -1444,7 +1561,9 @@ const SMT5_DEMON_DATA = {
     "lvl": 42,
     "race": "Vile",
     "resists": "-----w-",
-    "skills": {},
+    "skills": {
+      "Impaler's Spirit": 1001
+    },
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Mitra": {
@@ -1456,7 +1575,8 @@ const SMT5_DEMON_DATA = {
       "Diarahan": 26,
       "Hamaon": 21,
       "Mamudoon": 33,
-      "Megidolaon": 104
+      "Megidolaon": 104,
+      "Omagatoki Gathering": 1001
     },
     "stats": [339, 0, 0, 0, 0, 0, 0]
   },
@@ -1484,11 +1604,17 @@ const SMT5_DEMON_DATA = {
     "stats": [297, 212, 0, 0, 0, 0, 0]
   },
   "Mot": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 0, 0, 0, 4, 0, 4, 4, 0, 0, 0],
     "lvl": 63,
     "race": "Fury",
     "resists": "-------",
-    "skills": {},
+    "skills": {
+      "Energy Drain": 12,
+      "Impaler's Animuses": 1001,
+      "Mamudoon": 32,
+      "Megidolaon": 97,
+      "Wind Breath": 20
+    },
     "stats": [306, 338, 0, 0, 0, 0, 0]
   },
   "Mothman": {
@@ -1606,6 +1732,16 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [262, 224, 0, 0, 0, 0, 0]
   },
+  "Okuninushi": {
+    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "lvl": 56,
+    "race": "Kunitsu",
+    "resists": "-------",
+    "skills": {
+      "Dekajaon": 1001
+    },
+    "stats": [326, 240, 0, 0, 0, 0, 0]
+  },
   "Ongyo-Ki": {
     "affinities": [5, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0],
     "lvl": 78,
@@ -1701,7 +1837,9 @@ const SMT5_DEMON_DATA = {
     "lvl": 48,
     "race": "Kunitsu",
     "resists": "-wss---",
-    "skills": {},
+    "skills": {
+      "Dekajaon": 1001
+    },
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Parvati": {
@@ -1717,6 +1855,19 @@ const SMT5_DEMON_DATA = {
       "Media": 21
     },
     "stats": [151, 204, 0, 0, 0, 0, 0]
+  },
+  "Pazuzu": {
+    "affinities": [0, 0, 0, 0, 3, 1, 0, 0, 4, 0, 0],
+    "lvl": 52,
+    "race": "Vile",
+    "resists": "-------",
+    "skills": {
+      "Impaler's Spirit": 1001,
+      "Mamudoon": 36,
+      "Tentarafoo": 20,
+      "Zandyne": 29
+    },
+    "stats": [273, 241, 0, 0, 0, 0, 0]
   },
   "Pisaca": {
     "affinities": [0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0],
@@ -1898,12 +2049,16 @@ const SMT5_DEMON_DATA = {
     "stats": [55, 81, 0, 0, 0, 0, 0]
   },
   "Sarasvati": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 0, 3, 0, 0, 0, 0, 0, 2, 0, 2],
     "lvl": 47,
     "race": "Megami",
     "resists": "-------",
     "skills": {
-      "Eternal Prayer": 1001
+      "Bufudyne": 29,
+      "Eternal Prayer": 1001,
+      "Lullaby": 21,
+      "Marakunda": 23,
+      "Power Stremma": 31
     },
     "stats": [208, 254, 0, 0, 0, 0, 0]
   },
@@ -1921,7 +2076,21 @@ const SMT5_DEMON_DATA = {
       "Power Stremma": 40,
       "Wind Dracostrike": 21
     },
-    "stats": [307, 0, 0, 0, 0, 0, 0]
+    "stats": [307, 238, 0, 0, 0, 0, 0]
+  },
+  "Setanta": {
+    "affinities": [3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2],
+    "lvl": 35,
+    "race": "Fairy",
+    "resists": "-------",
+    "skills": {
+      "Deathbound": 29,
+      "Fairy Banquet": 1001,
+      "Fatal Sword": 21,
+      "Matarukaja": 23,
+      "Mazanma": 27
+    },
+    "stats": [193, 163, 0, 0, 0, 0, 0]
   },
   "Seth": {
     "affinities": [3, 0, 0, 3, 3, 0, 0, 0, 2, 0, 0],
@@ -2002,6 +2171,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Dustma": 8,
       "Lunge": 4,
+      "Omagatoki Aptitude": 1001,
       "Poisma": 8
     },
     "stats": [41, 40, 5, 6, 4, 3, 4]
@@ -2052,14 +2222,19 @@ const SMT5_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Sukuna-Hikona": {
-    "affinities": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [2, 0, 4, 0, 4, 0, 0, 0, 0, 0, 3],
     "lvl": 37,
     "race": "Kunitsu",
     "resists": "-------",
     "skills": {
-      "Eternal Blizzard": 40
+      "Dekajaon": 1001,
+      "Eternal Blizzard": 40,
+      "Fatal Sword": 21,
+      "Marakunda": 22,
+      "Matarukaja": 22,
+      "Mazanma": 24
     },
-    "stats": [0, 0, 0, 0, 0, 0, 0]
+    "stats": [206, 169, 0, 0, 0, 0, 0]
   },
   "Sylph": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -2079,6 +2254,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Berserker God": 13,
       "Charge": 10,
+      "Dekajaon": 1001,
       "Diarama": 15,
       "Masukunda": 30,
       "Shock": 21,
@@ -2099,6 +2275,20 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [399, 272, 0, 0, 0, 0, 0]
   },
+  "Thoth": {
+    "affinities": [0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 3],
+    "lvl": 33,
+    "race": "Deity",
+    "resists": "-------",
+    "skills": {
+      "Concentrate": 7,
+      "Hamaon": 21,
+      "Matarunda": 22,
+      "Megido": 36,
+      "Omagatoki Gathering": 1001
+    },
+    "stats": [144, 241, 0, 0, 0, 0, 0]
+  },
   "Throne": {
     "affinities": [0, 4, 0, 0, 0, 4, 0, 0, 0, 1, 0],
     "lvl": 64,
@@ -2114,7 +2304,7 @@ const SMT5_DEMON_DATA = {
   },
   "Thunderbird": {
     "affinities": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 2],
-    "lvl": 43,
+    "lvl": 40,
     "race": "Avian",
     "resists": "---nw--",
     "skills": {
@@ -2125,7 +2315,7 @@ const SMT5_DEMON_DATA = {
       "Poison Spray": 1001,
       "Zionga": 15
     },
-    "stats": [216, 188, 0, 0, 0, 0, 0]
+    "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Titania": {
     "affinities": [0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 1],
@@ -2199,7 +2389,8 @@ const SMT5_DEMON_DATA = {
       "Mahamabarion": 64,
       "Mamudobarion": 57,
       "Mediarahan": 112,
-      "Mudobarion": 39
+      "Mudobarion": 39,
+      "Omagatoki Gathering": 1001
     },
     "stats": [452, 523, 0, 0, 0, 0, 0]
   },
@@ -2247,6 +2438,20 @@ const SMT5_DEMON_DATA = {
       "Ziodyne": 30
     },
     "stats": [255, 212, 0, 0, 0, 0, 0]
+  },
+  "Zaou-Gongen": {
+    "affinities": [5, 4, 0, 0, 0, 0, 0, 3, 0, 0, 0],
+    "lvl": 72,
+    "race": "Fury",
+    "resists": "-------",
+    "skills": {
+      "Impaler's Animuses": 1001,
+      "Maragidyne": 40,
+      "Megidolaon": 100,
+      "Raging Force": 50,
+      "Tenma Crush": 52
+    },
+    "stats": [444, 325, 0, 0, 0, 0, 0]
   },
   "Zhen": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
