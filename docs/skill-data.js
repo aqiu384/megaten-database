@@ -50,6 +50,12 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "1 foe"
   },
+  "Astral Saintstrike": {
+    "effect": "",
+    "element": "phy",
+    "rank": 99,
+    "target": "All foes"
+  },
   "Axel Claw": {
     "cost": 1024,
     "effect": "Medium dmg, 2-4 hits",
@@ -90,6 +96,12 @@ const SMT5_SKILL_DATA = {
   "Brave Blade": {
     "cost": 1045,
     "effect": "Heavy dmg, Higher dmg when crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Buchikamashi": {
+    "cost": 1015,
+    "effect": "Light to Heavy dmg, Dmg scales with current HP",
     "element": "phy",
     "target": "1 foe"
   },
@@ -151,6 +163,13 @@ const SMT5_SKILL_DATA = {
     "effect": "Counter phys attack with light dmg",
     "element": "phy"
   },
+  "Critical Auras": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
   "Critical Eye": {
     "cost": 1025,
     "effect": "Guaranteed crit for next phys attack",
@@ -192,6 +211,12 @@ const SMT5_SKILL_DATA = {
     "element": "for",
     "target": "1 foe"
   },
+  "Death Lust": {
+    "effect": "Heavy dmg, Charm",
+    "element": "alm",
+    "rank": 99,
+    "target": "All foes"
+  },
   "Deathbound": {
     "cost": 1035,
     "effect": "Medium dmg",
@@ -214,7 +239,8 @@ const SMT5_SKILL_DATA = {
     "cost": 2001,
     "effect": "",
     "element": "sup",
-    "rank": 50
+    "rank": 50,
+    "target": "All foes"
   },
   "Dekunda": {
     "cost": 1040,
@@ -253,7 +279,6 @@ const SMT5_SKILL_DATA = {
     "target": "1 ally"
   },
   "Die For Me!": {
-    "cost": 1050,
     "effect": "",
     "element": "dar",
     "rank": 99,
@@ -342,7 +367,7 @@ const SMT5_SKILL_DATA = {
   },
   "Eyes On Me!": {
     "cost": 1005,
-    "effect": "Raise chance of being targeted + Sukukaja x2",
+    "effect": "Taunt + Sukukaja x2",
     "element": "sup",
     "rank": 99
   },
@@ -427,6 +452,11 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "1 foe"
   },
+  "Frolic": {
+    "effect": "Charm, Tarunda x2 + Rakunda x2",
+    "element": "ail",
+    "target": "All foes"
+  },
   "Glacial Blast": {
     "cost": 1060,
     "effect": "Medium dmg, 2-5 hits",
@@ -502,7 +532,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Hellish Brand": {
-    "cost": 1050,
+    "cost": 1070,
     "effect": "",
     "element": "fir",
     "rank": 99,
@@ -702,6 +732,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Medium dmg",
     "element": "phy",
     "target": "All foes"
+  },
+  "Madness Needle": {
+    "cost": 1010,
+    "effect": "Light dmg, Panic",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Mahama": {
     "cost": 1025,
@@ -988,12 +1024,6 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "rank": 99
   },
-  "Muscle Punch": {
-    "cost": 1040,
-    "effect": "Medium to Severe dmg, Dmg scales with remaining HP",
-    "element": "phy",
-    "target": "1 foe"
-  },
   "Narukami": {
     "cost": 1065,
     "effect": "Heavy dmg, Pierce",
@@ -1076,12 +1106,6 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
-  "Panic Needle": {
-    "cost": 1015,
-    "effect": "Light dmg, Panic",
-    "element": "phy",
-    "target": "1 foe"
-  },
   "Patra": {
     "cost": 1008,
     "effect": "Cure ailments",
@@ -1124,6 +1148,12 @@ const SMT5_SKILL_DATA = {
     "element": "ail",
     "rank": 50,
     "target": "All foes"
+  },
+  "Power Punch": {
+    "cost": 1040,
+    "effect": "Medium to Severe dmg, Dmg scales with current HP",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Power Stremma": {
     "cost": 1040,
@@ -1262,7 +1292,7 @@ const SMT5_SKILL_DATA = {
   },
   "Roar": {
     "cost": 1030,
-    "effect": "Raise chance of being targeted + Rakukaja",
+    "effect": "Taunt + Rakukaja",
     "element": "sup"
   },
   "Roaring Thunder": {
@@ -1465,6 +1495,12 @@ const SMT5_SKILL_DATA = {
     "element": "ele",
     "target": "1 foe"
   },
+  "Walpurgisnacht": {
+    "effect": "",
+    "element": "dar",
+    "rank": 99,
+    "target": "All foes"
+  },
   "Watchful": {
     "effect": "Doubles experience gained in stock",
     "element": "pas"
@@ -1473,6 +1509,12 @@ const SMT5_SKILL_DATA = {
     "cost": 1030,
     "effect": "Medium phys-based dmg, Chance of instakill when weak to light",
     "element": "lig",
+    "target": "1 foe"
+  },
+  "Wild Shot": {
+    "cost": 1015,
+    "effect": "Light dmg, 1-4 hits, High crit",
+    "element": "phy",
     "target": "1 foe"
   },
   "Wind Breath": {
