@@ -455,6 +455,7 @@ const SMT5_SKILL_DATA = {
   "Frolic": {
     "effect": "Charm, Tarunda x2 + Rakunda x2",
     "element": "ail",
+    "rank": 99,
     "target": "All foes"
   },
   "Glacial Blast": {
