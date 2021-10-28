@@ -35,7 +35,7 @@ for dname, entry in demons.items():
 
         selem = skills[sname]['element']
 
-        if 'cost' not in skills[sname]:
+        if 'cost' not in skills[sname] or selem == 'oth':
             continue
 
         smod = entry['affinities'][ELEMS[selem]]

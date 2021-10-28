@@ -68,6 +68,12 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Bestial Bite": {
+    "cost": 1005,
+    "effect": "Light dmg, Higher dmg when crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Big Bang": {
     "cost": 2001,
     "effect": "Severe level-dependent dmg",
@@ -248,12 +254,6 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "All allies"
   },
-  "Devour": {
-    "cost": 1005,
-    "effect": "Light dmg, Higher dmg when crit",
-    "element": "phy",
-    "target": "1 foe"
-  },
   "Dia": {
     "cost": 1008,
     "effect": "Slightly recover HP",
@@ -323,6 +323,11 @@ const SMT5_SKILL_DATA = {
     "effect": "Illusion",
     "element": "ail",
     "target": "1 foe"
+  },
+  "Eat Whole": {
+    "cost": 1020,
+    "effect": "",
+    "element": "phy"
   },
   "Elec Block": {
     "cost": 1040,
@@ -471,11 +476,22 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
+  "Golden Apple": {
+    "effect": "Mediarama + Luster Candy",
+    "element": "rec",
+    "rank": 99,
+    "target": "All Allies"
+  },
   "Gram Slice": {
     "cost": 1010,
     "effect": "Light dmg, High crit",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Gungnir": {
+    "effect": "",
+    "element": "phy",
+    "rank": 99
   },
   "Hades Blast": {
     "cost": 1060,
@@ -504,6 +520,19 @@ const SMT5_SKILL_DATA = {
   "Hard Hit": {
     "cost": 1015,
     "effect": "Medium dmg, Higher dmg when crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
+  "Hassou Tobi": {
+    "cost": 1060,
+    "effect": "Light dmg, 8 hits, Guaranteed crit",
+    "element": "phy",
+    "rank": 99,
+    "target": "Multi foes"
+  },
+  "Haze Flash": {
+    "cost": 1050,
+    "effect": "Severe dmg, Low hit, High crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -632,6 +661,7 @@ const SMT5_SKILL_DATA = {
     "rank": 99
   },
   "King Bufula": {
+    "cost": 1035,
     "effect": "Medium dmg, Rakunda",
     "element": "ice",
     "rank": 99,
@@ -647,22 +677,14 @@ const SMT5_SKILL_DATA = {
     "effect": "Moderately restore HP after battle",
     "element": "pas"
   },
-  "Life Bonus": {
-    "effect": "Max HP +10%",
-    "element": "pas"
-  },
   "Life Drain": {
     "cost": 1010,
     "effect": "Light dmg, Absorbs HP",
     "element": "alm",
     "target": "1 foe"
   },
-  "Life Gain": {
-    "effect": "Max HP +20%",
-    "element": "pas"
-  },
-  "Life Surge": {
-    "effect": "Max HP +30%",
+  "Life Pulse": {
+    "effect": "",
     "element": "pas"
   },
   "Light Block": {
@@ -798,16 +820,8 @@ const SMT5_SKILL_DATA = {
     "effect": "Moderately restore MP after battle",
     "element": "pas"
   },
-  "Mana Bonus": {
-    "effect": "Max MP +10%",
-    "element": "pas"
-  },
-  "Mana Gain": {
-    "effect": "Max MP +20%",
-    "element": "pas"
-  },
-  "Mana Surge": {
-    "effect": "Max MP +30%",
+  "Mana Pulse": {
+    "effect": "",
     "element": "pas"
   },
   "Maragi": {
@@ -1246,10 +1260,6 @@ const SMT5_SKILL_DATA = {
     "element": "rec",
     "target": "1 ally"
   },
-  "Regain": {
-    "effect": "",
-    "element": "pas"
-  },
   "Rejuvenating Water": {
     "cost": 2001,
     "effect": "",
@@ -1328,7 +1338,7 @@ const SMT5_SKILL_DATA = {
   },
   "Scratch Dance": {
     "cost": 1012,
-    "effect": "Light dmg, 1-3 hits",
+    "effect": "Light dmg, 2-4 hits",
     "element": "phy",
     "target": "Multi foes"
   },
@@ -1467,6 +1477,11 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Trafuri": {
+    "cost": 1006,
+    "effect": "Guaranteed escape from normal battle",
+    "element": "oth"
+  },
   "Trisagion": {
     "cost": 1065,
     "effect": "Heavy dmg, Pierce",
@@ -1480,7 +1495,7 @@ const SMT5_SKILL_DATA = {
     "target": "1 foe"
   },
   "Victory Cry": {
-    "effect": "Fully restro HP and MP after battle",
+    "effect": "Fully restore HP and MP after battle",
     "element": "pas"
   },
   "Vigilant Cheer": {
