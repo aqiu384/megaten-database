@@ -202,10 +202,10 @@ print(len(demonData))
 for entry in demonData.values():
     entry['stats'] = '[' + ', '.join(str(x) for x in entry['stats']) + ']'
     entry['affinities'] = '[' + ', '.join(str(x) for x in entry['affinities']) + ']'
-with open('data/demon-data.json', 'w+') as jsonfile:
+with open('docs/demon-data.js', 'w+') as jsonfile:
     demonData = json.dumps(demonData, indent=2, sort_keys=True)
-    demonData = demonData.replace('"[', '[').replace(']"', ']')
+    demonData = 'const SMT5_DEMON_DATA = ' + demonData.replace('"[', '[').replace(']"', ']')
     jsonfile.write(demonData)
-with open('data/skill-data.json', 'w+') as jsonfile:
-    skillData = json.dumps(skillData, indent=2, sort_keys=True)
+with open('docs/skill-data.js', 'w+') as jsonfile:
+    skillData = 'const SMT5_SKILL_DATA = ' + json.dumps(skillData, indent=2, sort_keys=True)
     jsonfile.write(skillData)

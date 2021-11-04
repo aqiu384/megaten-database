@@ -5,14 +5,14 @@ import math
 ELEMS = ['phy', 'fir', 'ice', 'ele', 'for', 'lig', 'dar', 'alm', 'ail', 'rec', 'sup']
 ELEMS = { x: i for i, x in enumerate(ELEMS) }
 
-with open('data/demon-data.json') as jsonfile:
-    demons = jsonfile.read()
+with open('docs/demon-data.js') as jsonfile:
+    demons = jsonfile.read()[len('const SMT5_DEMON_DATA = '):]
     demons = json.loads(demons)
-with open('data/skill-data.json') as jsonfile:
-    skills = jsonfile.read()
+with open('docs/skill-data.js') as jsonfile:
+    skills = jsonfile.read()[len('const SMT5_SKILL_DATA = '):]
     skills = json.loads(skills)
-with open('data/affinity-bonuses.json') as jsonfile:
-    rawBonuses = jsonfile.read()
+with open('docs/affinity-bonuses.js') as jsonfile:
+    rawBonuses = jsonfile.read()[len('const SMT5_AFFINITY_BONUSES = '):]
     rawBonuses = json.loads(rawBonuses)
 with open('comp-config.json') as jsonfile:
     compConfig = json.load(jsonfile)
