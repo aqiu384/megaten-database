@@ -1,4 +1,4 @@
-const SMT5_DEMON_DATA = {
+{
   "Abaddon": {
     "affinities": [4, 2, 0, 0, 0, 0, 0, 0, 3, 0, 0],
     "lvl": 72,

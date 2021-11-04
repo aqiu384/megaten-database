@@ -1,4 +1,4 @@
-const SMT5_SKILL_DATA = {
+{
   "301,600,000 Lights": {
     "cost": 2001,
     "effect": "",

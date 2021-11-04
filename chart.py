@@ -6,7 +6,7 @@ TABLE = []
 
 with open('smtv-data - chart.tsv') as tsvfile:
     for i, line in enumerate(tsvfile):
-        parts = line.split('\t')[1:]
+        parts = line.replace('X', '').split('\t')[1:]
         parts[-1] = parts[-1].strip()
         parts = [x or '0' for x in parts]
 
@@ -35,13 +35,13 @@ for r in range(len(TABLE) - 4):
     ETABLE.append(row)
 
 OTEXT = json.dumps({ 'races': NRACES, 'table': NTABLE }, indent=2, sort_keys=True)
-OTEXT = 'const SMT5_FUSION_CHART = ' + OTEXT.replace('"[', '[').replace(']"', ']').replace('|', '"').replace('0', '-')
+OTEXT = OTEXT.replace('"[', '[').replace(']"', ']').replace('|', '"').replace('0', '-')
 
-with open('docs/fusion-chart.js', 'w+') as jsonfile:
+with open('data/fusion-chart.json', 'w+') as jsonfile:
     jsonfile.write(OTEXT)
 
 OTEXT = json.dumps({ 'elems': RACES[-4:], 'races': RACES[:-4], 'table': ETABLE }, indent=2, sort_keys=True)
-OTEXT = 'const SMT5_ELEMENT_CHART = ' + OTEXT.replace('"[', '[').replace(']"', ']')
+OTEXT = OTEXT.replace('"[', '[').replace(']"', ']')
 
-with open('docs/element-chart.js', 'w+') as jsonfile:
+with open('data/element-chart.json', 'w+') as jsonfile:
     jsonfile.write(OTEXT)
