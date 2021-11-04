@@ -6,7 +6,7 @@ TABLE = []
 
 with open('smtv-data - chart.tsv') as tsvfile:
     for i, line in enumerate(tsvfile):
-        parts = line.split('\t')[1:]
+        parts = line.replace('X', '').split('\t')[1:]
         parts[-1] = parts[-1].strip()
         parts = [x or '0' for x in parts]
 
