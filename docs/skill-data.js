@@ -93,6 +93,10 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
+  "Bloody Glee": {
+    "effect": "Increases crit rate",
+    "element": "pas"
+  },
   "Bouncing Claw": {
     "cost": 1012,
     "effect": "Light dmg, 1-3 hits",
@@ -204,6 +208,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Nullify next dark attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Dark Pleroma": {
+    "effect": "Dark dmg x1.25",
+    "element": "pas"
   },
   "Dark Sword": {
     "cost": 1025,
@@ -335,6 +343,10 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "All allies"
   },
+  "Elec Pleroma": {
+    "effect": "Elec dmg x1.25",
+    "element": "pas"
+  },
   "Eleusinian Harvest": {
     "cost": 1150,
     "effect": "Fully recover HP 30% past max",
@@ -395,10 +407,6 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
-  "Fierce Counter": {
-    "effect": "",
-    "element": "pas"
-  },
   "Fire Block": {
     "cost": 1040,
     "effect": "Nullify next fire attack",
@@ -416,6 +424,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Medium phys-based dmg",
     "element": "fir",
     "target": "1 foe"
+  },
+  "Fire Pleroma": {
+    "effect": "Fire dmg x1.25",
+    "element": "pas"
   },
   "Fire of Sinai": {
     "effect": "Severe dmg",
@@ -440,6 +452,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Nullify next force attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Force Pleroma": {
+    "effect": "Force dmg x1.25",
+    "element": "pas"
   },
   "Foxfire Rain": {
     "cost": 1030,
@@ -560,6 +576,10 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
+  "Heal Pleroma": {
+    "effect": "HP recovery x1.25",
+    "element": "pas"
+  },
   "Heat Haze Shot": {
     "cost": 1015,
     "effect": "Medium dmg, Illusion",
@@ -586,6 +606,10 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
+  "Hellish Mask": {
+    "effect": "Increases ailment resistance",
+    "element": "pas"
+  },
   "Hellish Slash": {
     "cost": 1005,
     "effect": "Light dmg, 4 hits, Low hit",
@@ -599,6 +623,38 @@ const SMT5_SKILL_DATA = {
     "element": "ice",
     "rank": 99,
     "target": "All foes"
+  },
+  "High Dark Pleroma": {
+    "effect": "Dark dmg x1.5",
+    "element": "pas"
+  },
+  "High Elec Pleroma": {
+    "effect": "Elec dmg x1.5",
+    "element": "pas"
+  },
+  "High Fire Pleroma": {
+    "effect": "Fire dmg x1.5",
+    "element": "pas"
+  },
+  "High Force Pleroma": {
+    "effect": "Force dmg x1.5",
+    "element": "pas"
+  },
+  "High Heal Pleroma": {
+    "effect": "HP recovery x1.5",
+    "element": "pas"
+  },
+  "High Ice Pleroma": {
+    "effect": "Ice dmg x1.5",
+    "element": "pas"
+  },
+  "High Light Pleroma": {
+    "effect": "Light dmg x1.5",
+    "element": "pas"
+  },
+  "High Phys Pleroma": {
+    "effect": "Phys dmg x1.5",
+    "element": "pas"
   },
   "Humble Blessing": {
     "cost": 1015,
@@ -642,6 +698,10 @@ const SMT5_SKILL_DATA = {
     "element": "ice",
     "target": "1 foe"
   },
+  "Ice Pleroma": {
+    "effect": "Ice dmg x1.25",
+    "element": "pas"
+  },
   "Impaler's Animus": {
     "cost": 1050,
     "effect": "Raise dmg of next attack with pierce",
@@ -649,7 +709,7 @@ const SMT5_SKILL_DATA = {
   },
   "Impaler's Animuses": {
     "cost": 2001,
-    "effect": "Raise dmg of next attack with pierce",
+    "effect": "",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -691,10 +751,6 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
-  "Life Aid": {
-    "effect": "Moderately restore HP after battle",
-    "element": "pas"
-  },
   "Life Drain": {
     "cost": 1010,
     "effect": "Light dmg, Absorbs HP",
@@ -707,12 +763,8 @@ const SMT5_SKILL_DATA = {
     "element": "sup",
     "target": "All allies"
   },
-  "Light Life Aid": {
-    "effect": "Slightly restore HP after battle",
-    "element": "pas"
-  },
-  "Light Mana Aid": {
-    "effect": "Slightly restore MP after battle",
+  "Light Pleroma": {
+    "effect": "Light dmg x1.25",
     "element": "pas"
   },
   "Lullaby": {
@@ -829,10 +881,6 @@ const SMT5_SKILL_DATA = {
     "effect": "Heavy dmg, Chance of instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
-  },
-  "Mana Aid": {
-    "effect": "Moderately restore MP after battle",
-    "element": "pas"
   },
   "Mana Pulse": {
     "effect": "",
@@ -1072,6 +1120,13 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Omagatoki Adversity": {
+    "cost": 2001,
+    "effect": "All attacks and recovery scaled by lost HP for 1 turn",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
   "Omagatoki Aptitude": {
     "cost": 2001,
     "effect": "",
@@ -1123,7 +1178,7 @@ const SMT5_SKILL_DATA = {
   },
   "Omagatoki Snipe": {
     "cost": 2001,
-    "effect": "All skills will hit for 1 turn",
+    "effect": "",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -1137,7 +1192,7 @@ const SMT5_SKILL_DATA = {
   },
   "Omagatoki Zero Set": {
     "cost": 2001,
-    "effect": "All skill costs reduced to 0 for 1 turn",
+    "effect": "",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -1153,6 +1208,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Nullify next phys attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Phys Pleroma": {
+    "effect": "Phys dmg x1.25",
+    "element": "pas"
   },
   "Pierce Armor": {
     "cost": 1015,
@@ -1325,6 +1384,10 @@ const SMT5_SKILL_DATA = {
   "Restore": {
     "effect": "",
     "element": "pas"
+  },
+  "Retaliate": {
+    "effect": "Counter phys attack with medium dmg",
+    "element": "phy"
   },
   "Roar": {
     "cost": 1030,
@@ -1524,10 +1587,6 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, Higher dmg against Poison",
     "element": "phy",
     "target": "1 foe"
-  },
-  "Victory Cry": {
-    "effect": "Fully restore HP and MP after battle",
-    "element": "pas"
   },
   "Vigilant Cheer": {
     "cost": 1050,
