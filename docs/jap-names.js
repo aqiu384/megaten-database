@@ -261,5 +261,11 @@ const SMT5_JAP_NAMES = {
   "体": "Vi",
   "魔": "Ma",
   "速": "Ag",
-  "運": "Lu"
+  "運": "Lu",
+  "敵単体": "1 foe",
+  "敵数体": "Multi foes",
+  "敵全体": "All foes",
+  "味方単体": "1 ally",
+  "味方全体": "All allies",
+  "自身": "Self"
 }
