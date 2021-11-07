@@ -1937,11 +1937,14 @@ const SMT5_DEMON_DATA = {
     "stats": [175, 187, 0, 0, 0, 0, 0]
   },
   "Nebiros": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "affinities": [0, 0, 0, 0, 0, 0, 4, 2, 0, 0, 0],
     "lvl": 67,
     "race": "Fallen",
     "resists": "-------",
     "skills": {
+      "Energy Drain": 13,
+      "Mamudoon": 32,
+      "Megidola": 60,
       "Omagatoki Strength": 1001
     },
     "stats": [300, 365, 0, 0, 0, 0, 0]

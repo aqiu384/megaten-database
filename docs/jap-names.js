@@ -1,4 +1,5 @@
 const SMT5_JAP_NAMES = {
+  "真・女神転生V": "Shin Megami Tensei V",
   "だいそうじょう": "Daisoujou",
   "アイトワラス": "Aitvaras",
   "アガシオン": "Agathion",
