@@ -180,6 +180,7 @@ const SMT5_JAP_NAMES = {
   "マタドール": "Matador",
   "マダ": "Mada",
   "マナナンガル": "Manananggal",
+  "マーラ": "Mara",
   "マリア": "Maria",
   "マンドレイク": "Mandrake",
   "マーメイド": "Mermaid",
@@ -248,5 +249,16 @@ const SMT5_JAP_NAMES = {
   "外道": "Foul",
   "精霊": "Element",
   "魔人": "Fiend",
-  "御魂": "Mitama"
+  "御魂": "Mitama",
+  "魅了": "Charm",
+  "封技": "Mute",
+  "混乱": "Panic",
+  "毒": "Poison",
+  "睡眠": "Sleep",
+  "幻惑": "Illusion",
+  "力": "St",
+  "体": "Vi",
+  "魔": "Ma",
+  "速": "Ag",
+  "運": "Lu"
 }

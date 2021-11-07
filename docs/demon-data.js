@@ -65,14 +65,17 @@ const SMT5_DEMON_DATA = {
     "stats": [84, 112, 12, 12, 16, 16, 17]
   },
   "Alice": {
-    "affinities": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0],
+    "affinities": [0, 0, 0, 0, 0, 0, 5, 0, 3, 0, 0],
     "lvl": 40,
     "race": "Fiend",
     "resists": "-------",
     "skills": {
-      "Die For Me!": 0
+      "Die For Me!": 26,
+      "Lullaby": 21,
+      "Mudoon": 18,
+      "Spirit Drain": 5
     },
-    "stats": [0, 0, 0, 0, 0, 0, 0]
+    "stats": [189, 255, 0, 0, 0, 0, 0]
   },
   "Alilat": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 4, 0, 3, 3],
@@ -915,7 +918,7 @@ const SMT5_DEMON_DATA = {
     "affinities": [0, 0, 4, 0, 0, 0, 2, 0, 0, 0, 2],
     "lvl": 31,
     "race": "Fallen",
-    "resists": "---w---",
+    "resists": "--dw-wn",
     "skills": {
       "Mabufula": 24,
       "Marakunda": 23,
@@ -1704,6 +1707,21 @@ const SMT5_DEMON_DATA = {
       "Zio": 9
     },
     "stats": [49, 75, 6, 7, 9, 11, 9]
+  },
+  "Mara": {
+    "affinities": [5, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0],
+    "lvl": 69,
+    "race": "Tyrant",
+    "resists": "-------",
+    "skills": {
+      "Charge": 10,
+      "Dream Vortex": 29,
+      "Hell Thrust": 33,
+      "Megaton Press": 37,
+      "Omagatoki Assault": 1001,
+      "Toxic Fluid": 12
+    },
+    "stats": [600, 244, 0, 0, 0, 0, 0]
   },
   "Maria": {
     "affinities": [0, 0, 0, 0, 4, 4, 0, 0, 0, 4, 2],

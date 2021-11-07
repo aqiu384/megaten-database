@@ -14,6 +14,9 @@ with open('docs/skill-data.js') as jsonfile:
 with open('docs/affinity-bonuses.js') as jsonfile:
     rawBonuses = jsonfile.read()[len('const SMT5_AFFINITY_BONUSES = '):]
     rawBonuses = json.loads(rawBonuses)
+with open('docs/jap-names.js') as jsonfile:
+    japNames = jsonfile.read()[len('const SMT5_JAP_NAMES = '):]
+    japNames = { y: x for x, y in json.loads(japNames).items() }
 with open('comp-config.json') as jsonfile:
     compConfig = json.load(jsonfile)
 
@@ -26,7 +29,7 @@ for elem, btype in rawBonuses['elements'].items():
     bonuses[elem] = rawBonuses['costs'][btype]
 
 for dname, entry in demons.items():
-    if entry['race'] not in RACES:
+    if entry['race'] not in japNames or dname not in japNames:
         print(dname, entry['race'])
 
     for sname, ncost in entry['skills'].items():

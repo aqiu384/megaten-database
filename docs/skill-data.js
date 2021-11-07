@@ -287,10 +287,11 @@ const SMT5_SKILL_DATA = {
     "target": "1 ally"
   },
   "Die For Me!": {
-    "effect": "",
+    "cost": 1035,
+    "effect": "Medium dmg, 2-5 hits",
     "element": "dar",
     "rank": 99,
-    "target": "All foes"
+    "target": "Multi foes"
   },
   "Divine Arrowfall": {
     "effect": "",
