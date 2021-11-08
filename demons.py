@@ -156,14 +156,18 @@ def parseStats(demons):
 
     return demons
 
-def parseSkills(demons, skills):
+def parseSkills(demons, skills, japNames):
     with open('smtv-data - skills.tsv') as tsvfile:
         for line in tsvfile:
             parts = line.split('\t')
             parts[-1] = parts[-1].strip()
             parts = parts[1:]
-            elem, sname, cost, target, effect, unique = parts
+            elem, jname, sname, cost, target, effect, unique = parts
+            jname = jname.strip()
             cost = int(cost or '0')
+
+            if jname:
+                japNames[jname] = sname
 
             entry = {
                 'element': elem,
@@ -187,15 +191,19 @@ def parseSkills(demons, skills):
 
             skills[sname] = entry
 
-    return demons, skills
+    return demons, skills, japNames
 
 demonData = {}
 demonData = parseEnemies(demonData)
 demonData = parseDemons(demonData)
 demonData = parseStats(demonData)
 
+with open('docs/jap-names.js') as jsonfile:
+    japData = jsonfile.read()[len('const SMT5_JAP_NAMES = '):]
+    japData = json.loads(japData)
+
 skillData = {}
-demonData, skillData = parseSkills(demonData, skillData)
+demonData, skillData, japData = parseSkills(demonData, skillData, japData)
 
 print(len(demonData))
 
@@ -208,4 +216,7 @@ with open('docs/demon-data.js', 'w+') as jsonfile:
     jsonfile.write(demonData)
 with open('docs/skill-data.js', 'w+') as jsonfile:
     skillData = 'const SMT5_SKILL_DATA = ' + json.dumps(skillData, indent=2, sort_keys=True)
+    jsonfile.write(skillData)
+with open('docs/jap-names.js', 'w+') as jsonfile:
+    skillData = 'const SMT5_JAP_NAMES = ' + json.dumps(japData, indent=2, sort_keys=True, ensure_ascii=False)
     jsonfile.write(skillData)

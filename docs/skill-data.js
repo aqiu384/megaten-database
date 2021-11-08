@@ -83,7 +83,7 @@ const SMT5_SKILL_DATA = {
   },
   "Black Dracostrike": {
     "cost": 1030,
-    "effect": "Medium phys-based dmg, Chance of instakill when weak to dark",
+    "effect": "Medium phys-based dmg, Chance to instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
   },
@@ -173,13 +173,6 @@ const SMT5_SKILL_DATA = {
     "effect": "Counter phys attack with light dmg",
     "element": "phy"
   },
-  "Critical Auras": {
-    "cost": 2001,
-    "effect": "",
-    "element": "sup",
-    "rank": 50,
-    "target": "All allies"
-  },
   "Critical Eye": {
     "cost": 1025,
     "effect": "Guaranteed crit for next phys attack",
@@ -187,7 +180,7 @@ const SMT5_SKILL_DATA = {
   },
   "Critical Slash": {
     "cost": 1010,
-    "effect": "Light dmg, High crit",
+    "effect": "Light dmg, Low hit, Always crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -270,7 +263,7 @@ const SMT5_SKILL_DATA = {
   },
   "Diamrita": {
     "cost": 1030,
-    "effect": "Cure ailments",
+    "effect": "",
     "element": "rec",
     "target": "1 ally"
   },
@@ -288,7 +281,7 @@ const SMT5_SKILL_DATA = {
   },
   "Die For Me!": {
     "cost": 1035,
-    "effect": "Medium dmg, 2-5 hits",
+    "effect": "Medium dmg, 2-5 hits, Chance to instakill when weak to dark",
     "element": "dar",
     "rank": 99,
     "target": "Multi foes"
@@ -311,7 +304,7 @@ const SMT5_SKILL_DATA = {
   },
   "Dragonfly Kick": {
     "cost": 1025,
-    "effect": "Light dmg, Guaranteed crit",
+    "effect": "Light dmg, Always crit",
     "element": "phy",
     "target": "1 foe"
   },
@@ -381,7 +374,21 @@ const SMT5_SKILL_DATA = {
     "effect": "Salvation + Samarecarm",
     "element": "rec",
     "rank": 50,
-    "target": "Full stock"
+    "target": "All allies"
+  },
+  "Extend Critical": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
+  "Extend Pierce": {
+    "cost": 2001,
+    "effect": "",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
   },
   "Eyes On Me!": {
     "cost": 1005,
@@ -391,7 +398,7 @@ const SMT5_SKILL_DATA = {
   },
   "Fairy Banquet": {
     "cost": 2001,
-    "effect": "Max Tarukaja + Rakukaja + Sukukaja",
+    "effect": "Max out buffs",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -508,7 +515,7 @@ const SMT5_SKILL_DATA = {
     "effect": "Mediarama + Luster Candy",
     "element": "rec",
     "rank": 99,
-    "target": "All Allies"
+    "target": "All allies"
   },
   "Gram Slice": {
     "cost": 1010,
@@ -529,19 +536,19 @@ const SMT5_SKILL_DATA = {
   },
   "Hama": {
     "cost": 1015,
-    "effect": "Light dmg, Chance of instakill when weak to light",
+    "effect": "Light dmg, Chance to instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
   },
   "Hamabarion": {
     "cost": 1055,
-    "effect": "Severe dmg, Chance of instakill when weak to light",
+    "effect": "Severe dmg, Chance to instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
   },
   "Hamaon": {
     "cost": 1025,
-    "effect": "Heavy dmg, Chance of instakill when weak to light",
+    "effect": "Heavy dmg, Chance to instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
   },
@@ -560,7 +567,7 @@ const SMT5_SKILL_DATA = {
   },
   "Hassou Tobi": {
     "cost": 1060,
-    "effect": "Light dmg, 8 hits, Guaranteed crit",
+    "effect": "Light dmg, 8 hits, Always crit",
     "element": "phy",
     "rank": 99,
     "target": "Multi foes"
@@ -575,7 +582,7 @@ const SMT5_SKILL_DATA = {
     "cost": 1020,
     "effect": "Medium dmg, Low hit",
     "element": "phy",
-    "target": "Multi foes"
+    "target": "All foes"
   },
   "Heal Pleroma": {
     "effect": "HP recovery x1.25",
@@ -705,17 +712,10 @@ const SMT5_SKILL_DATA = {
   },
   "Impaler's Animus": {
     "cost": 1050,
-    "effect": "Raise dmg of next attack with pierce",
+    "effect": "Raise dmg of next phys or magic attack with pierce",
     "element": "sup"
   },
-  "Impaler's Animuses": {
-    "cost": 2001,
-    "effect": "",
-    "element": "sup",
-    "rank": 50,
-    "target": "All allies"
-  },
-  "Impaler's Spirit": {
+  "Impaler's Divinity": {
     "cost": 2001,
     "effect": "",
     "element": "sup",
@@ -757,6 +757,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, Absorbs HP",
     "element": "alm",
     "target": "1 foe"
+  },
+  "Life Pulse": {
+    "effect": "",
+    "element": "pas"
   },
   "Light Block": {
     "cost": 1040,
@@ -831,19 +835,19 @@ const SMT5_SKILL_DATA = {
   },
   "Mahama": {
     "cost": 1025,
-    "effect": "Light dmg, Chance of instakill when weak to light",
+    "effect": "Light dmg, Chance to instakill when weak to light",
     "element": "lig",
     "target": "All foes"
   },
   "Mahamabarion": {
     "cost": 1080,
-    "effect": "Severe dmg, Chance of instakill when weak to light",
+    "effect": "Severe dmg, Chance to instakill when weak to light",
     "element": "lig",
     "target": "All foes"
   },
   "Mahamaon": {
     "cost": 1040,
-    "effect": "Heavy dmg, Chance of instakill when weak to light",
+    "effect": "Heavy dmg, Chance to instakill when weak to light",
     "element": "lig",
     "target": "All foes"
   },
@@ -867,19 +871,19 @@ const SMT5_SKILL_DATA = {
   },
   "Mamudo": {
     "cost": 1025,
-    "effect": "Light dmg, Chance of instakill when weak to dark",
+    "effect": "Light dmg, Chance to instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
   },
   "Mamudobarion": {
     "cost": 1080,
-    "effect": "Severe dmg, Chance of instakill when weak to dark",
+    "effect": "Severe dmg, Chance to instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
   },
   "Mamudoon": {
     "cost": 1040,
-    "effect": "Heavy dmg, Chance of instakill when weak to dark",
+    "effect": "Heavy dmg, Chance to instakill when weak to dark",
     "element": "dar",
     "target": "All foes"
   },
@@ -1088,19 +1092,19 @@ const SMT5_SKILL_DATA = {
   },
   "Mudo": {
     "cost": 1015,
-    "effect": "Light dmg, Chance of instakill when weak to dark",
+    "effect": "Light dmg, Chance to instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
   },
   "Mudobarion": {
     "cost": 1055,
-    "effect": "Severe dmg, Chance of instakill when weak to dark",
+    "effect": "Severe dmg, Chance to instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
   },
   "Mudoon": {
     "cost": 1025,
-    "effect": "Heavy dmg, Chance of instakill when weak to dark",
+    "effect": "Heavy dmg, Chance to instakill when weak to dark",
     "element": "dar",
     "target": "1 foe"
   },
@@ -1170,7 +1174,7 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
-  "Omagatoki Sanko": {
+  "Omagatoki Request": {
     "cost": 2001,
     "effect": "",
     "element": "sup",
@@ -1191,7 +1195,7 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
-  "Omagatoki Zero Set": {
+  "Omagatoki Zero": {
     "cost": 2001,
     "effect": "",
     "element": "sup",
@@ -1312,7 +1316,7 @@ const SMT5_SKILL_DATA = {
   },
   "Rakshasan Feast": {
     "cost": 2001,
-    "effect": "",
+    "effect": "Max out debuffs",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -1340,6 +1344,10 @@ const SMT5_SKILL_DATA = {
     "effect": "Revive with half HP",
     "element": "rec",
     "target": "1 ally"
+  },
+  "Regain": {
+    "effect": "",
+    "element": "pas"
   },
   "Rejuvenating Water": {
     "cost": 2001,
@@ -1614,7 +1622,7 @@ const SMT5_SKILL_DATA = {
   },
   "White Dracostrike": {
     "cost": 1030,
-    "effect": "Medium phys-based dmg, Chance of instakill when weak to light",
+    "effect": "Medium phys-based dmg, Chance to instakill when weak to light",
     "element": "lig",
     "target": "1 foe"
   },
@@ -1644,7 +1652,7 @@ const SMT5_SKILL_DATA = {
   },
   "Yabusame Shot": {
     "cost": 1050,
-    "effect": "Light dmg, Pierce, Guaranteed crit",
+    "effect": "Light dmg, Pierce, Always crit",
     "element": "phy",
     "target": "All foes"
   },

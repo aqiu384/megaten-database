@@ -307,9 +307,9 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Agibarion": 37,
       "Critical Eye": 25,
+      "Extend Pierce": 1001,
       "Freikugel": 50,
       "Hades Blast": 50,
-      "Impaler's Animuses": 1001,
       "Megidolaon": 100,
       "Power Punch": 33
     },
@@ -339,7 +339,7 @@ const SMT5_DEMON_DATA = {
       "Hamaon": 21,
       "Mabufudyne": 40,
       "Masukunda": 30,
-      "Omagatoki Zero Set": 1001,
+      "Omagatoki Zero": 1001,
       "Sexy Dance": 22
     },
     "stats": [312, 328, 0, 0, 0, 0, 0]
@@ -367,7 +367,7 @@ const SMT5_DEMON_DATA = {
     "resists": "--sw---",
     "skills": {
       "Bufu": 8,
-      "Critical Auras": 1001,
+      "Extend Critical": 1001,
       "Mabufu": 13,
       "Scratch Dance": 12
     },
@@ -409,7 +409,7 @@ const SMT5_DEMON_DATA = {
     "resists": "-----wn",
     "skills": {
       "Dark Block": 40,
-      "Impaler's Spirit": 1001,
+      "Impaler's Divinity": 1001,
       "Maragion": 27,
       "Mudoon": 21
     },
@@ -603,7 +603,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Black Dracostrike": 25,
       "Blight": 20,
-      "Impaler's Animuses": 1001,
+      "Extend Pierce": 1001,
       "Mamudo": 21,
       "Toxic Fluid": 12
     },
@@ -674,7 +674,7 @@ const SMT5_DEMON_DATA = {
       "Lullaby": 22,
       "Makarakarn": 39,
       "Mediarama": 45,
-      "Omagatoki Zero Set": 1001
+      "Omagatoki Zero": 1001
     },
     "stats": [278, 265, 0, 0, 0, 0, 0]
   },
@@ -717,7 +717,7 @@ const SMT5_DEMON_DATA = {
     "resists": "-s-w-wn",
     "skills": {
       "Agi": 8,
-      "Critical Auras": 1001,
+      "Extend Critical": 1001,
       "Hellish Slash": 4,
       "Mudo": 13,
       "Tarukaja": 8
@@ -740,7 +740,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Fatal Sword": 21,
       "Maragion": 25,
-      "Omagatoki Zero Set": 1001,
+      "Omagatoki Zero": 1001,
       "Poison Breath": 22
     },
     "stats": [266, 169, 0, 0, 0, 0, 0]
@@ -794,7 +794,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Agilao": 17,
       "Dragonfly Kick": 21,
-      "Impaler's Animuses": 1001,
+      "Extend Pierce": 1001,
       "Sexy Dance": 21
     },
     "stats": [225, 182, 33, 30, 31, 32, 30]
@@ -961,7 +961,7 @@ const SMT5_DEMON_DATA = {
     "race": "Brute",
     "resists": "---wn--",
     "skills": {
-      "Critical Auras": 1001,
+      "Extend Critical": 1001,
       "Titanomachia": 52,
       "Zandyne": 26
     },
@@ -1018,7 +1018,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Hades Blast": 48,
       "Hell Thrust": 36,
-      "Impaler's Spirit": 1001,
+      "Impaler's Divinity": 1001,
       "Marakunda": 23
     },
     "stats": [381, 245, 0, 0, 0, 0, 0]
@@ -1130,7 +1130,7 @@ const SMT5_DEMON_DATA = {
       "Maragi": 13,
       "Matarunda": 25,
       "Media": 25,
-      "Omagatoki Sanko": 1001,
+      "Omagatoki Request": 1001,
       "Restore": 0
     },
     "stats": [133, 168, 0, 0, 0, 0, 0]
@@ -1213,7 +1213,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Buchikamashi": 13,
       "Counter": 0,
-      "Critical Auras": 1001,
+      "Extend Critical": 1001,
       "Heat Wave": 13,
       "Tarukaja": 6,
       "Taunt": 7
@@ -1319,7 +1319,7 @@ const SMT5_DEMON_DATA = {
       "Haze Flash": 40,
       "Hell Thrust": 36,
       "Mist Rush": 28,
-      "Omagatoki Zero Set": 1001
+      "Omagatoki Zero": 1001
     },
     "stats": [481, 288, 0, 0, 0, 0, 0]
   },
@@ -1332,7 +1332,7 @@ const SMT5_DEMON_DATA = {
       "Bufula": 17,
       "Harvest Dance": 22,
       "Mabufu": 13,
-      "Omagatoki Sanko": 1001,
+      "Omagatoki Request": 1001,
       "Patra": 6
     },
     "stats": [102, 0, 0, 0, 0, 0, 0]
@@ -1375,8 +1375,8 @@ const SMT5_DEMON_DATA = {
     "resists": "-------",
     "skills": {
       "Berserker God": 12,
-      "Critical Auras": 1001,
       "Deathbound": 28,
+      "Extend Critical": 1001,
       "Shock": 21
     },
     "stats": [323, 170, 0, 0, 0, 0, 0]
@@ -1404,7 +1404,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Dia": 6,
       "Dormina": 9,
-      "Omagatoki Sanko": 1001,
+      "Omagatoki Request": 1001,
       "Zan": 8
     },
     "stats": [46, 65, 5, 8, 9, 8, 9]
@@ -1434,7 +1434,7 @@ const SMT5_DEMON_DATA = {
       "Bufula": 16,
       "Ice Breath": 20,
       "Mabufu": 12,
-      "Omagatoki Sanko": 1001,
+      "Omagatoki Request": 1001,
       "Rakukaja": 6,
       "Tarukaja": 6
     },
@@ -1514,7 +1514,7 @@ const SMT5_DEMON_DATA = {
       "Masukukaja": 21,
       "Matarukaja": 21,
       "Mind Stremma": 28,
-      "Omagatoki Zero Set": 1001
+      "Omagatoki Zero": 1001
     },
     "stats": [334, 256, 0, 0, 0, 0, 0]
   },
@@ -1540,7 +1540,7 @@ const SMT5_DEMON_DATA = {
       "Life Drain": 10,
       "Makajam": 8,
       "Marin Karin": 8,
-      "Omagatoki Zero Set": 1001,
+      "Omagatoki Zero": 1001,
       "Zionga": 16
     },
     "stats": [156, 188, 0, 0, 0, 0, 0]
@@ -1554,7 +1554,7 @@ const SMT5_DEMON_DATA = {
       "Mamudo": 21,
       "Marin Karin": 8,
       "Media": 23,
-      "Omagatoki Zero Set": 1001
+      "Omagatoki Zero": 1001
     },
     "stats": [82, 115, 0, 0, 0, 0, 0]
   },
@@ -1658,7 +1658,7 @@ const SMT5_DEMON_DATA = {
       "Akasha Arts": 42,
       "Debilitate": 119,
       "Hades Blast": 50,
-      "Impaler's Spirit": 1001,
+      "Impaler's Divinity": 1001,
       "Mediarahan": 112,
       "Ragnarok": 45,
       "Trisagion": 48
@@ -1689,7 +1689,7 @@ const SMT5_DEMON_DATA = {
       "Concentrate": 10,
       "Hygeian Cup": 20,
       "Mamudo": 21,
-      "Omagatoki Zero Set": 1001,
+      "Omagatoki Zero": 1001,
       "Sanguine Drain": 15,
       "Toxic Fluid": 13,
       "Zanma": 17
@@ -1781,7 +1781,7 @@ const SMT5_DEMON_DATA = {
     "resists": "-wnw---",
     "skills": {
       "Dia": 8,
-      "Omagatoki Zero Set": 1001,
+      "Omagatoki Zero": 1001,
       "Rakukaja": 6,
       "Stormcaller Song": 15,
       "Tarukaja": 6
@@ -1795,7 +1795,7 @@ const SMT5_DEMON_DATA = {
     "resists": "---nwwn",
     "skills": {
       "Buchikamashi": 15,
-      "Impaler's Spirit": 1001,
+      "Impaler's Divinity": 1001,
       "Matarunda": 25,
       "Mudoon": 21,
       "Shock": 21
@@ -1864,7 +1864,7 @@ const SMT5_DEMON_DATA = {
     "resists": "-------",
     "skills": {
       "Energy Drain": 12,
-      "Impaler's Animuses": 1001,
+      "Extend Pierce": 1001,
       "Mamudoon": 32,
       "Megidolaon": 97,
       "Wind Breath": 20
@@ -1929,7 +1929,7 @@ const SMT5_DEMON_DATA = {
     "race": "Jirae",
     "resists": "-w--n--",
     "skills": {
-      "Omagatoki Sanko": 1001,
+      "Omagatoki Request": 1001,
       "Sexy Dance": 21,
       "Tentarafoo": 21,
       "Wind Breath": 20
@@ -2063,8 +2063,8 @@ const SMT5_DEMON_DATA = {
     "race": "Brute",
     "resists": "-------",
     "skills": {
-      "Critical Auras": 1001,
       "Dream Vortex": 28,
+      "Extend Critical": 1001,
       "Megidolaon": 100,
       "Mist Rush": 26
     },
@@ -2078,7 +2078,7 @@ const SMT5_DEMON_DATA = {
     "resists": "s--w-w-",
     "skills": {
       "Charge": 10,
-      "Critical Auras": 1001,
+      "Extend Critical": 1001,
       "Hard Hit": 12,
       "Headshot": 16
     },
@@ -2191,7 +2191,7 @@ const SMT5_DEMON_DATA = {
     "race": "Vile",
     "resists": "--w-s-n",
     "skills": {
-      "Impaler's Spirit": 1001,
+      "Impaler's Divinity": 1001,
       "Mamudoon": 36,
       "Tentarafoo": 20,
       "Zandyne": 29
@@ -2357,7 +2357,7 @@ const SMT5_DEMON_DATA = {
     "resists": "r--w---",
     "skills": {
       "Nihil Claw": 30,
-      "Omagatoki Zero Set": 1001,
+      "Omagatoki Zero": 1001,
       "Steel Needle": 21,
       "Wind Breath": 21
     },
@@ -2499,7 +2499,7 @@ const SMT5_DEMON_DATA = {
     "race": "Brute",
     "resists": "-------",
     "skills": {
-      "Critical Auras": 1001,
+      "Extend Critical": 1001,
       "Hama": 13,
       "Mahama": 21,
       "Makajam": 9,
@@ -2600,7 +2600,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Makajam": 8,
       "Mazan": 12,
-      "Omagatoki Sanko": 1001,
+      "Omagatoki Request": 1001,
       "Zan": 8
     },
     "stats": [83, 98, 0, 0, 0, 0, 0]
@@ -2611,8 +2611,8 @@ const SMT5_DEMON_DATA = {
     "race": "Brute",
     "resists": "-w-----",
     "skills": {
-      "Critical Auras": 1001,
       "Deathbound": 30,
+      "Extend Critical": 1001,
       "Fang Breaker": 13,
       "Ice Dracostrike": 20,
       "Mabufudyne": 40,
@@ -2739,7 +2739,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Bouncing Claw": 10,
       "Mazio": 13,
-      "Omagatoki Sanko": 1001,
+      "Omagatoki Request": 1001,
       "Tarukaja": 6
     },
     "stats": [101, 83, 14, 16, 12, 9, 10]
@@ -2825,7 +2825,7 @@ const SMT5_DEMON_DATA = {
     "race": "Femme",
     "resists": "---wn--",
     "skills": {
-      "Omagatoki Zero Set": 1001,
+      "Omagatoki Zero": 1001,
       "Poisma": 10,
       "Sukunda": 8,
       "Venom Chaser": 13,
@@ -2881,7 +2881,7 @@ const SMT5_DEMON_DATA = {
     "race": "Fury",
     "resists": "-------",
     "skills": {
-      "Impaler's Animuses": 1001,
+      "Extend Pierce": 1001,
       "Maragidyne": 40,
       "Megidolaon": 100,
       "Raging Force": 50,
