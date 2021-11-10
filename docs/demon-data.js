@@ -238,14 +238,6 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [72, 109, 0, 0, 0, 0, 0]
   },
-  "Ara Mitama": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    "lvl": 10,
-    "race": "Mitama",
-    "resists": "n-n----",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0, 0, 0]
-  },
   "Arahabaki": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3],
     "lvl": 62,
@@ -306,7 +298,7 @@ const SMT5_DEMON_DATA = {
     "resists": "-rw--ns",
     "skills": {
       "Agibarion": 37,
-      "Critical Eye": 25,
+      "Critical Aura": 25,
       "Extend Pierce": 1001,
       "Freikugel": 50,
       "Hades Blast": 50,
@@ -444,6 +436,20 @@ const SMT5_DEMON_DATA = {
       "Venom Chaser": 15
     },
     "stats": [190, 114, 0, 0, 0, 0, 0]
+  },
+  "Beelzebub": {
+    "affinities": [0, 0, 0, 4, 0, 0, 6, 0, 0, 0, 2],
+    "lvl": 95,
+    "race": "Tyrant",
+    "resists": "-------",
+    "skills": {
+      "Death Flies": 86,
+      "Debilitate": 119,
+      "Mudobarion": 39,
+      "Omagatoki Assault": 1001,
+      "Thunder Reign": 48
+    },
+    "stats": [570, 517, 0, 0, 0, 0, 0]
   },
   "Belphegor": {
     "affinities": [0, 0, 4, 0, 0, 0, 4, 0, 0, 0, 1],
@@ -1072,7 +1078,7 @@ const SMT5_DEMON_DATA = {
     "race": "Jaki",
     "resists": "----w-n",
     "skills": {
-      "Critical Eye": 21,
+      "Critical Aura": 21,
       "Mortal Jihad": 24,
       "Rakshasan Feast": 1001,
       "Rampage": 28,
@@ -1273,7 +1279,7 @@ const SMT5_DEMON_DATA = {
     "resists": "---wd-w",
     "skills": {
       "Axel Claw": 24,
-      "Critical Eye": 18,
+      "Critical Aura": 18,
       "Force Block": 30,
       "Masukukaja": 22,
       "Mazanma": 24,
@@ -1496,14 +1502,6 @@ const SMT5_DEMON_DATA = {
     },
     "stats": [218, 259, 0, 0, 0, 0, 0]
   },
-  "Kusi Mitama": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    "lvl": 10,
-    "race": "Mitama",
-    "resists": "-n-wn--",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0, 0, 0]
-  },
   "Lachesis": {
     "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 4],
     "lvl": 58,
@@ -1642,7 +1640,7 @@ const SMT5_DEMON_DATA = {
     "skills": {
       "Black Dracostrike": 27,
       "Blight": 18,
-      "Critical Eye": 25,
+      "Critical Aura": 25,
       "Poison Breath": 18,
       "Rakshasan Feast": 1001,
       "Venom Chaser": 13
@@ -1978,14 +1976,6 @@ const SMT5_DEMON_DATA = {
       "Zanma": 17
     },
     "stats": [158, 0, 0, 0, 0, 0, 0]
-  },
-  "Nigi Mitama": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    "lvl": 10,
-    "race": "Mitama",
-    "resists": "---ww--",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Norn": {
     "affinities": [0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 3],
@@ -2383,14 +2373,6 @@ const SMT5_DEMON_DATA = {
     "lvl": 55,
     "race": "Fiend",
     "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0, 0, 0]
-  },
-  "Saki Mitama": {
-    "affinities": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    "lvl": 10,
-    "race": "Mitama",
-    "resists": "-w-nw--",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
   },

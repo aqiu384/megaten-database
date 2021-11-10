@@ -3,5 +3,6 @@ const SMT5_SPECIAL_RECIPES = {
   "High Pixie": ["Pixie", "Angel"],
   "Black Frost": ["King Frost", "Baphomet", "Loa"],
   "Huang Long": ["Xuanwu", "Zhuque", "Baihu", "Qing Long"],
-  "Idun": ["Ame-no-Uzume", "Hua Po", "Parvati"]
+  "Idun": ["Ame-no-Uzume", "Hua Po", "Parvati"],
+  "Beelzebub": ["Baal", "Abaddon"]
 }

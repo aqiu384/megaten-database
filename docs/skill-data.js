@@ -173,7 +173,7 @@ const SMT5_SKILL_DATA = {
     "effect": "Counter phys attack with light dmg",
     "element": "phy"
   },
-  "Critical Eye": {
+  "Critical Aura": {
     "cost": 1025,
     "effect": "Guaranteed crit for next phys attack",
     "element": "sup"
@@ -208,7 +208,7 @@ const SMT5_SKILL_DATA = {
   },
   "Dark Sword": {
     "cost": 1025,
-    "effect": "Medium dmg, 2 hits, Mute",
+    "effect": "Medium dmg, 2 hits, Seal",
     "element": "phy",
     "target": "1 foe"
   },
@@ -217,6 +217,12 @@ const SMT5_SKILL_DATA = {
     "effect": "Heavy dmg, Pierce",
     "element": "for",
     "target": "1 foe"
+  },
+  "Death Flies": {
+    "cost": 1120,
+    "effect": "Severe dmg, Chance to instakill when weak to dark",
+    "element": "dar",
+    "target": "All foes"
   },
   "Death Lust": {
     "effect": "Heavy dmg, Charm",
@@ -316,13 +322,13 @@ const SMT5_SKILL_DATA = {
   },
   "Dream Vortex": {
     "cost": 1035,
-    "effect": "Sleep, Illusion",
+    "effect": "Sleep, Mirage",
     "element": "ail",
     "target": "All foes"
   },
   "Dustma": {
     "cost": 1010,
-    "effect": "Illusion",
+    "effect": "Mirage",
     "element": "ail",
     "target": "1 foe"
   },
@@ -451,7 +457,7 @@ const SMT5_SKILL_DATA = {
   },
   "Foggner": {
     "cost": 1025,
-    "effect": "Illusion",
+    "effect": "Mirage",
     "element": "ail",
     "target": "All foes"
   },
@@ -590,7 +596,7 @@ const SMT5_SKILL_DATA = {
   },
   "Heat Haze Shot": {
     "cost": 1015,
-    "effect": "Medium dmg, Illusion",
+    "effect": "Medium dmg, Mirage",
     "element": "fir",
     "rank": 99,
     "target": "1 foe"
@@ -853,13 +859,13 @@ const SMT5_SKILL_DATA = {
   },
   "Makajam": {
     "cost": 1010,
-    "effect": "Mute",
+    "effect": "Seal",
     "element": "ail",
     "target": "1 foe"
   },
   "Makajamaon": {
     "cost": 1025,
-    "effect": "Mute",
+    "effect": "Seal",
     "element": "ail",
     "target": "All foes"
   },
@@ -1080,7 +1086,7 @@ const SMT5_SKILL_DATA = {
   },
   "Mist Rush": {
     "cost": 1035,
-    "effect": "Medium dmg, 2-4 hits, Illusion",
+    "effect": "Medium dmg, 2-4 hits, Mirage",
     "element": "phy",
     "target": "Multi foes"
   },
@@ -1282,7 +1288,7 @@ const SMT5_SKILL_DATA = {
   },
   "Raging Force": {
     "cost": 1060,
-    "effect": "Medium dmg, Mute",
+    "effect": "Medium dmg, Seal",
     "element": "alm",
     "rank": 99,
     "target": "All foes"
