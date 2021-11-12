@@ -6,9 +6,9 @@ TABLE = []
 
 with open('smtv-data - chart.tsv') as tsvfile:
     for i, line in enumerate(tsvfile):
-        parts = line.replace('X', '').split('\t')[1:]
+        parts = line.split('\t')[1:]
         parts[-1] = parts[-1].strip()
-        parts = [x or '0' for x in parts]
+        parts = [x for x in parts]
 
         if i == 0:
             RACES = parts
@@ -16,10 +16,31 @@ with open('smtv-data - chart.tsv') as tsvfile:
 
         TABLE.append(parts)
 
+with open('smtv-data - combos.tsv') as tsvfile:
+    for line in tsvfile:
+        race1, race2, raceR = line.split('\t')
+        raceR = raceR.strip()
+
+        r = RACES.index(race1)
+        c = RACES.index(race2)
+        res = RACES.index(raceR)
+
+        rcrace = TABLE[r][c]
+        crrace = TABLE[c][r]
+
+        if rcrace == '' and crrace == '':
+            TABLE[r][c] = raceR
+            TABLE[c][r] = raceR
+        elif rcrace != raceR or crrace != raceR:
+            print(race1, race2, raceR, rcrace, crrace)
+
 for r in range(len(TABLE)):
     for c in range(len(TABLE)):
         if TABLE[r][c] != TABLE[c][r]:
             print(RACES[r], RACES[c], TABLE[r][c])
+        if TABLE[r][c] == '' or TABLE[r][c] == 'XXXX':
+            TABLE[r][c] = '-'
+            TABLE[c][r] = '-'
 
 NRACES = [''.join(('|' + x + '|,        ')[:10] for x in RACES[:-4]).strip()[1:-2]]
 NTABLE = []
