@@ -75,7 +75,7 @@ def parseDemons(demons):
                 if sname == '':
                     continue
                 slvl = parts[i + 1]
-                skills[sname] = int(slvl)
+                skills[sname] = 0
 
             if dname not in demons:
                 demons[dname] = {
@@ -106,7 +106,7 @@ def parseStats(demons):
         for line in tsvfile:
             parts = line.split('\t')
             parts[-1] = parts[-1].strip()
-            race, lvl, dname = parts[1:4]
+            race, lvl, dname = parts[:3]
             lvl = int(lvl)
             stats = [int(x) for x in parts[4:11]]
             resists = ''.join(x or '-' for x in parts[11:18])
@@ -115,7 +115,7 @@ def parseStats(demons):
             hasails = False
 
             for apair in parts[18].split(', '):
-                if apair == '':
+                if apair == '-':
                     continue
                 atype, alvl = apair.split(': ')
                 aresists[AILMENTS.index(atype)] = RESIST_LVLS[alvl]
@@ -123,15 +123,22 @@ def parseStats(demons):
 
             aresists = ''.join(aresists)
 
-            affins = [int(x or '0') for x in parts[19:30]]
+            affins = [int(x if x != '-' else '0') for x in parts[19:30]]
             skills = {}
 
-            for i in range(30, len(parts), 2):
+            for i in range(30, 38, 2):
                 sname = parts[i]
                 if sname == '':
                     continue
                 slvl = parts[i + 1]
-                skills[sname] = int(slvl)
+                skills[sname] = 0
+
+            for i in range(38, len(parts), 2):
+                sname = parts[i]
+                if sname == '':
+                    continue
+                slvl = parts[i + 1]
+                skills[sname] = lvl + int((i - 38) / 2) + 1
 
             if dname not in demons:
                 demons[dname] = {
@@ -187,7 +194,7 @@ def parseSkills(demons, skills, japNames):
                 for drace in draces:
                     for dentry in demons.values():
                         if dentry['race'] == drace:
-                            dentry['skills'][sname] = 1001
+                            dentry['skills'][sname] = 5277
 
             skills[sname] = entry
 

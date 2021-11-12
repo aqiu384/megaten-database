@@ -1,10 +1,20 @@
 const SMT5_SKILL_DATA = {
-  "301,600,000 Lights": {
+  "Abyssal Mask": {
+    "effect": "Greatly increases ailment and instakill resistance",
+    "element": "pas"
+  },
+  "Accursed Poison": {
     "cost": 2001,
-    "effect": "",
-    "element": "rec",
+    "effect": "Random ailment + Debilitate",
+    "element": "ail",
     "rank": 50,
-    "target": "All allies"
+    "target": "All foes"
+  },
+  "Acrobat Kick": {
+    "cost": 1025,
+    "effect": "Light dmg, Always crit",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Agi": {
     "cost": 1010,
@@ -62,6 +72,16 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
+  "Beast Eye": {
+    "effect": "Increases accuracy",
+    "element": "pas"
+  },
+  "Beatdown": {
+    "cost": 1015,
+    "effect": "Light to Heavy dmg, Dmg scales with current HP",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Berserker God": {
     "cost": 1015,
     "effect": "Light dmg, High crit",
@@ -93,8 +113,18 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
+  "Blinding Strike": {
+    "cost": 1015,
+    "effect": "Light dmg, Sukunda",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Bloody Glee": {
     "effect": "Increases crit rate",
+    "element": "pas"
+  },
+  "Boon Boost": {
+    "effect": "Extends buffs and debuffs cast by one turn",
     "element": "pas"
   },
   "Bouncing Claw": {
@@ -103,15 +133,14 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Bowl of Hygieia": {
+    "cost": 1020,
+    "effect": "Raise healing of next recovery spell past max",
+    "element": "sup"
+  },
   "Brave Blade": {
     "cost": 1045,
     "effect": "Heavy dmg, Higher dmg when crit",
-    "element": "phy",
-    "target": "1 foe"
-  },
-  "Buchikamashi": {
-    "cost": 1015,
-    "effect": "Light to Heavy dmg, Dmg scales with current HP",
     "element": "phy",
     "target": "1 foe"
   },
@@ -152,17 +181,17 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
+  "Cautious Cheer": {
+    "cost": 1050,
+    "effect": "Rakukaja + Sukukaja",
+    "element": "sup",
+    "rank": 99,
+    "target": "All allies"
+  },
   "Charge": {
     "cost": 1010,
     "effect": "Raise dmg of next phys attack",
     "element": "sup"
-  },
-  "Coma Wave": {
-    "cost": 2001,
-    "effect": "",
-    "element": "phy",
-    "rank": 50,
-    "target": "All foes"
   },
   "Concentrate": {
     "cost": 1010,
@@ -175,7 +204,7 @@ const SMT5_SKILL_DATA = {
   },
   "Critical Aura": {
     "cost": 1025,
-    "effect": "Guaranteed crit for next phys attack",
+    "effect": "Guaranteed crit for next phys-based attack",
     "element": "sup"
   },
   "Critical Slash": {
@@ -189,6 +218,16 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, High crit",
     "element": "phy",
     "target": "All foes"
+  },
+  "Crusher Onslaught": {
+    "cost": 1020,
+    "effect": "Medium dmg, Low hit",
+    "element": "phy",
+    "target": "All foes"
+  },
+  "Curse Siphon": {
+    "effect": "Low MP recovery when inflicting ailments",
+    "element": "pas"
   },
   "Damascus Claw": {
     "cost": 1024,
@@ -222,6 +261,7 @@ const SMT5_SKILL_DATA = {
     "cost": 1120,
     "effect": "Severe dmg, Chance to instakill when weak to dark",
     "element": "dar",
+    "rank": 99,
     "target": "All foes"
   },
   "Death Lust": {
@@ -302,15 +342,31 @@ const SMT5_SKILL_DATA = {
     "element": "dar",
     "rank": 99
   },
+  "Donum Gladi": {
+    "cost": 1040,
+    "effect": "Raise dmg of next phys attack",
+    "element": "sup",
+    "target": "1 ally"
+  },
+  "Donum Magici": {
+    "cost": 1040,
+    "effect": "Raise dmg of next magic attack",
+    "element": "sup",
+    "target": "1 ally"
+  },
   "Dormina": {
     "cost": 1010,
     "effect": "Sleep",
     "element": "ail",
     "target": "1 foe"
   },
-  "Dragonfly Kick": {
-    "cost": 1025,
-    "effect": "Light dmg, Always crit",
+  "Dragon Eye": {
+    "effect": "Greatly increases accuracy",
+    "element": "pas"
+  },
+  "Dream Fist": {
+    "cost": 1020,
+    "effect": "Light dmg, Higher dmg against Sleep",
     "element": "phy",
     "target": "1 foe"
   },
@@ -326,7 +382,7 @@ const SMT5_SKILL_DATA = {
     "element": "ail",
     "target": "All foes"
   },
-  "Dustma": {
+  "Dustoma": {
     "cost": 1010,
     "effect": "Mirage",
     "element": "ail",
@@ -334,8 +390,9 @@ const SMT5_SKILL_DATA = {
   },
   "Eat Whole": {
     "cost": 1020,
-    "effect": "",
-    "element": "phy"
+    "effect": "Medium dmg, Absorbs HP",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Elec Block": {
     "cost": 1040,
@@ -368,6 +425,11 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "1 foe"
   },
+  "Estoma": {
+    "cost": 1035,
+    "effect": "Prevent encounters until the next new moon",
+    "element": "sup"
+  },
   "Eternal Blizzard": {
     "cost": 1050,
     "effect": "Light dmg, 3-6 hits",
@@ -382,14 +444,14 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
-  "Extend Critical": {
+  "Expand Critical Aura": {
     "cost": 2001,
-    "effect": "",
+    "effect": "Guaranteed crit for next phys-based attack",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
   },
-  "Extend Pierce": {
+  "Expand Pierce": {
     "cost": 2001,
     "effect": "",
     "element": "sup",
@@ -420,6 +482,16 @@ const SMT5_SKILL_DATA = {
     "effect": "Medium dmg, High crit",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Fierce Roar": {
+    "cost": 1030,
+    "effect": "Taunt + Rakukaja",
+    "element": "sup"
+  },
+  "Fierce Roaring Thunder": {
+    "effect": "",
+    "element": "ele",
+    "rank": 99
   },
   "Fire Block": {
     "cost": 1040,
@@ -455,7 +527,7 @@ const SMT5_SKILL_DATA = {
     "element": "for",
     "target": "Multi foes"
   },
-  "Foggner": {
+  "Fogna": {
     "cost": 1025,
     "effect": "Mirage",
     "element": "ail",
@@ -470,13 +542,6 @@ const SMT5_SKILL_DATA = {
   "Force Pleroma": {
     "effect": "Force dmg x1.25",
     "element": "pas"
-  },
-  "Foxfire Rain": {
-    "cost": 1030,
-    "effect": "Medium dmg",
-    "element": "fir",
-    "rank": 99,
-    "target": "All foes"
   },
   "Freikugel": {
     "cost": 1060,
@@ -500,6 +565,13 @@ const SMT5_SKILL_DATA = {
   "Frolic": {
     "effect": "Charm, Tarunda x2 + Rakunda x2",
     "element": "ail",
+    "rank": 99,
+    "target": "All foes"
+  },
+  "Ghastfire Rain": {
+    "cost": 1030,
+    "effect": "Medium dmg",
+    "element": "fir",
     "rank": 99,
     "target": "All foes"
   },
@@ -528,6 +600,18 @@ const SMT5_SKILL_DATA = {
     "effect": "Light dmg, High crit",
     "element": "phy",
     "target": "1 foe"
+  },
+  "Great Curse Siphon": {
+    "effect": "MP recovery when inflicting ailments",
+    "element": "pas"
+  },
+  "Great Life Spring": {
+    "effect": "Greatly increases max HP",
+    "element": "pas"
+  },
+  "Great Mana Spring": {
+    "effect": "Greatly increases max MP",
+    "element": "pas"
   },
   "Gungnir": {
     "effect": "",
@@ -558,12 +642,6 @@ const SMT5_SKILL_DATA = {
     "element": "lig",
     "target": "1 foe"
   },
-  "Hard Hit": {
-    "cost": 1015,
-    "effect": "Medium dmg, Higher dmg when crit",
-    "element": "phy",
-    "target": "1 foe"
-  },
   "Harvest Dance": {
     "cost": 1030,
     "effect": "Slightly recover HP + Rakukaja x2",
@@ -584,28 +662,21 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
-  "Headshot": {
-    "cost": 1020,
-    "effect": "Medium dmg, Low hit",
-    "element": "phy",
-    "target": "All foes"
-  },
   "Heal Pleroma": {
     "effect": "HP recovery x1.25",
     "element": "pas"
-  },
-  "Heat Haze Shot": {
-    "cost": 1015,
-    "effect": "Medium dmg, Mirage",
-    "element": "fir",
-    "rank": 99,
-    "target": "1 foe"
   },
   "Heat Wave": {
     "cost": 1015,
     "effect": "Light dmg",
     "element": "phy",
     "target": "All foes"
+  },
+  "Heavy Blow": {
+    "cost": 1015,
+    "effect": "Medium dmg, Higher dmg when crit",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Hell Thrust": {
     "cost": 1045,
@@ -621,7 +692,7 @@ const SMT5_SKILL_DATA = {
     "target": "All foes"
   },
   "Hellish Mask": {
-    "effect": "Increases ailment resistance",
+    "effect": "Increases ailment and instakill resistance",
     "element": "pas"
   },
   "Hellish Slash": {
@@ -638,36 +709,8 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
-  "High Dark Pleroma": {
-    "effect": "Dark dmg x1.5",
-    "element": "pas"
-  },
-  "High Elec Pleroma": {
-    "effect": "Elec dmg x1.5",
-    "element": "pas"
-  },
-  "High Fire Pleroma": {
-    "effect": "Fire dmg x1.5",
-    "element": "pas"
-  },
-  "High Force Pleroma": {
-    "effect": "Force dmg x1.5",
-    "element": "pas"
-  },
-  "High Heal Pleroma": {
-    "effect": "HP recovery x1.5",
-    "element": "pas"
-  },
-  "High Ice Pleroma": {
-    "effect": "Ice dmg x1.5",
-    "element": "pas"
-  },
-  "High Light Pleroma": {
-    "effect": "Light dmg x1.5",
-    "element": "pas"
-  },
-  "High Phys Pleroma": {
-    "effect": "Phys dmg x1.5",
+  "High Restore": {
+    "effect": "Recover 20 MP when striking enemy weakness",
     "element": "pas"
   },
   "Humble Blessing": {
@@ -676,11 +719,6 @@ const SMT5_SKILL_DATA = {
     "element": "rec",
     "rank": 99,
     "target": "All allies"
-  },
-  "Hygeian Cup": {
-    "cost": 1020,
-    "effect": "Raise healing of next recovery spell past max",
-    "element": "sup"
   },
   "Hysterical Slap": {
     "cost": 1020,
@@ -718,15 +756,19 @@ const SMT5_SKILL_DATA = {
   },
   "Impaler's Animus": {
     "cost": 1050,
-    "effect": "Raise dmg of next phys or magic attack with pierce",
+    "effect": "Raise dmg of next attack with pierce",
     "element": "sup"
   },
-  "Impaler's Divinity": {
+  "Impaler's Glory": {
     "cost": 2001,
-    "effect": "",
+    "effect": "Raise dmg of next attack with pierce",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
+  },
+  "Inspiring Leader": {
+    "effect": "Increases exp gained when lvl lower than protag",
+    "element": "pas"
   },
   "Jack Bufula": {
     "cost": 1020,
@@ -752,11 +794,9 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
-  "Leg Breaker": {
-    "cost": 1015,
-    "effect": "Light dmg, Sukunda",
-    "element": "phy",
-    "target": "1 foe"
+  "Life Aid": {
+    "effect": "Recover HP after battle",
+    "element": "pas"
   },
   "Life Drain": {
     "cost": 1010,
@@ -764,8 +804,8 @@ const SMT5_SKILL_DATA = {
     "element": "alm",
     "target": "1 foe"
   },
-  "Life Pulse": {
-    "effect": "",
+  "Life Spring": {
+    "effect": "Increase max HP",
     "element": "pas"
   },
   "Light Block": {
@@ -773,6 +813,14 @@ const SMT5_SKILL_DATA = {
     "effect": "Nullify next light attack",
     "element": "sup",
     "target": "All allies"
+  },
+  "Light Life Aid": {
+    "effect": "Recover a little HP after battle",
+    "element": "pas"
+  },
+  "Light Mana Aid": {
+    "effect": "Recover a little MP after battle",
+    "element": "pas"
   },
   "Light Pleroma": {
     "effect": "Light dmg x1.25",
@@ -857,7 +905,7 @@ const SMT5_SKILL_DATA = {
     "element": "lig",
     "target": "All foes"
   },
-  "Makajam": {
+  "Makajama": {
     "cost": 1010,
     "effect": "Seal",
     "element": "ail",
@@ -893,8 +941,12 @@ const SMT5_SKILL_DATA = {
     "element": "dar",
     "target": "All foes"
   },
-  "Mana Pulse": {
-    "effect": "",
+  "Mana Aid": {
+    "effect": "Recover MP after battle",
+    "element": "pas"
+  },
+  "Mana Spring": {
+    "effect": "Increase max MP",
     "element": "pas"
   },
   "Maragi": {
@@ -1072,17 +1124,18 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
-  "Mind Stremma": {
-    "cost": 1040,
-    "effect": "Raise dmg of next magic attack",
-    "element": "sup",
-    "target": "1 ally"
-  },
   "Miracle Water": {
     "cost": 1020,
     "effect": "",
     "element": "rec",
     "rank": 99
+  },
+  "Mirage Shot": {
+    "cost": 1015,
+    "effect": "Medium dmg, Mirage",
+    "element": "fir",
+    "rank": 99,
+    "target": "1 foe"
   },
   "Mist Rush": {
     "cost": 1035,
@@ -1125,22 +1178,49 @@ const SMT5_SKILL_DATA = {
     "element": "ele",
     "target": "1 foe"
   },
+  "Needle Spray": {
+    "cost": 1015,
+    "effect": "Light dmg, 1-4 hits, High crit",
+    "element": "phy",
+    "target": "1 foe"
+  },
   "Nihil Claw": {
     "cost": 1036,
     "effect": "Heavy dmg, 2-3 hits",
     "element": "phy",
     "target": "1 foe"
   },
+  "Null Dark": {
+    "effect": "Nullifies dark dmg",
+    "element": "pas"
+  },
+  "Null Elec": {
+    "effect": "Nullifies elec dmg",
+    "element": "pas"
+  },
+  "Null Fire": {
+    "effect": "Nullifies fire dmg",
+    "element": "pas"
+  },
+  "Null Force": {
+    "effect": "Nullifies force dmg",
+    "element": "pas"
+  },
+  "Null Ice": {
+    "effect": "Nullifies ice dmg",
+    "element": "pas"
+  },
+  "Null Light": {
+    "effect": "Nullifies light dmg",
+    "element": "pas"
+  },
+  "Null Phys": {
+    "effect": "Nullifies phys dmg",
+    "element": "pas"
+  },
   "Omagatoki Adversity": {
     "cost": 2001,
     "effect": "All attacks and recovery scaled by lost HP for 1 turn",
-    "element": "sup",
-    "rank": 50,
-    "target": "All allies"
-  },
-  "Omagatoki Aptitude": {
-    "cost": 2001,
-    "effect": "",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -1154,7 +1234,21 @@ const SMT5_SKILL_DATA = {
   },
   "Omagatoki Critical": {
     "cost": 2001,
-    "effect": "All phys and magic attacks will crit for 1 turn",
+    "effect": "All attacks will crit for 1 turn",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
+  "Omagatoki Doubler": {
+    "cost": 2001,
+    "effect": "Doubles the effect of buffs and debuffs cast during same turn",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
+  "Omagatoki Free": {
+    "cost": 2001,
+    "effect": "All attacks will cost 1 MP for 1 turn",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -1166,44 +1260,37 @@ const SMT5_SKILL_DATA = {
     "rank": 50,
     "target": "All allies"
   },
+  "Omagatoki Hit": {
+    "cost": 2001,
+    "effect": "Greatly raises accuracy and ailment hit for 1 turn",
+    "element": "sup",
+    "rank": 50,
+    "target": "All allies"
+  },
   "Omagatoki Luck": {
     "cost": 2001,
-    "effect": "",
+    "effect": "Greatly increases exp and money if battle ends in same turn",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
   },
   "Omagatoki Pierce": {
     "cost": 2001,
-    "effect": "All phys and magic attacks will pierce for 1 turn",
+    "effect": "All attacks will pierce for 1 turn",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
   },
-  "Omagatoki Request": {
+  "Omagatoki Potential": {
     "cost": 2001,
-    "effect": "",
+    "effect": "Maxes out skill potentials for 1 turn",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
   },
-  "Omagatoki Snipe": {
+  "Omagatoki Sincerity": {
     "cost": 2001,
-    "effect": "",
-    "element": "sup",
-    "rank": 50,
-    "target": "All allies"
-  },
-  "Omagatoki Strength": {
-    "cost": 2001,
-    "effect": "",
-    "element": "sup",
-    "rank": 50,
-    "target": "All allies"
-  },
-  "Omagatoki Zero": {
-    "cost": 2001,
-    "effect": "",
+    "effect": "Forgives 2 failures during negotiation for 1 turn",
     "element": "sup",
     "rank": 50,
     "target": "All allies"
@@ -1230,30 +1317,19 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
-  "Piercing Hit": {
-    "cost": 1015,
-    "effect": "Medium dmg, Pierce",
-    "element": "phy",
-    "target": "1 foe"
-  },
   "Poisma": {
     "cost": 1010,
     "effect": "Poison",
     "element": "ail",
     "target": "1 foe"
   },
-  "Poison Breath": {
-    "cost": 1025,
-    "effect": "Poison",
-    "element": "ail",
-    "target": "All foes"
+  "Poison Adept": {
+    "effect": "Increases effects of Poison",
+    "element": "pas"
   },
-  "Poison Spray": {
-    "cost": 2001,
-    "effect": "",
-    "element": "ail",
-    "rank": 50,
-    "target": "All foes"
+  "Poison Master": {
+    "effect": "Greatly increases effects of Poison",
+    "element": "pas"
   },
   "Power Punch": {
     "cost": 1040,
@@ -1261,16 +1337,16 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "1 foe"
   },
-  "Power Stremma": {
-    "cost": 1040,
-    "effect": "Raise dmg of next phys attack",
-    "element": "sup",
-    "target": "1 ally"
-  },
   "Pulinpa": {
     "cost": 1010,
     "effect": "Panic",
     "element": "ail",
+    "target": "1 foe"
+  },
+  "Puncture Punch": {
+    "cost": 1015,
+    "effect": "Medium dmg, Pierce",
+    "element": "phy",
     "target": "1 foe"
   },
   "Purple Smoke": {
@@ -1320,13 +1396,6 @@ const SMT5_SKILL_DATA = {
     "element": "fir",
     "target": "Multi foes"
   },
-  "Rakshasan Feast": {
-    "cost": 2001,
-    "effect": "Max out debuffs",
-    "element": "sup",
-    "rank": 50,
-    "target": "All allies"
-  },
   "Rakukaja": {
     "cost": 1008,
     "effect": "Raise defense 1 level for 3 turns",
@@ -1345,15 +1414,18 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
+  "Rasetsu Feast": {
+    "cost": 2001,
+    "effect": "Max out debuffs",
+    "element": "sup",
+    "rank": 50,
+    "target": "All foes"
+  },
   "Recarm": {
     "cost": 1020,
     "effect": "Revive with half HP",
     "element": "rec",
     "target": "1 ally"
-  },
-  "Regain": {
-    "effect": "",
-    "element": "pas"
   },
   "Rejuvenating Water": {
     "cost": 2001,
@@ -1397,22 +1469,12 @@ const SMT5_SKILL_DATA = {
     "element": "pas"
   },
   "Restore": {
-    "effect": "",
+    "effect": "Recover 10 MP when striking enemy weakness",
     "element": "pas"
   },
   "Retaliate": {
     "effect": "Counter phys attack with medium dmg",
     "element": "phy"
-  },
-  "Roar": {
-    "cost": 1030,
-    "effect": "Taunt + Rakukaja",
-    "element": "sup"
-  },
-  "Roaring Thunder": {
-    "effect": "",
-    "element": "ele",
-    "rank": 99
   },
   "Ruinous Silt": {
     "effect": "",
@@ -1425,6 +1487,10 @@ const SMT5_SKILL_DATA = {
     "element": "for",
     "rank": 99,
     "target": "All foes"
+  },
+  "Safeguard": {
+    "effect": "",
+    "element": "pas"
   },
   "Sakanagi": {
     "cost": 1020,
@@ -1451,13 +1517,20 @@ const SMT5_SKILL_DATA = {
     "element": "phy",
     "target": "Multi foes"
   },
+  "Sea of Stars": {
+    "cost": 2001,
+    "effect": "Moderate MP recovery",
+    "element": "rec",
+    "rank": 50,
+    "target": "All allies"
+  },
   "Sexy Dance": {
     "cost": 1025,
     "effect": "Charm",
     "element": "ail",
     "target": "All foes"
   },
-  "Shock": {
+  "Shockbound": {
     "cost": 1025,
     "effect": "Light dmg, 2-5 hits",
     "element": "ele",
@@ -1472,9 +1545,10 @@ const SMT5_SKILL_DATA = {
   },
   "Soul Drain": {
     "cost": 2001,
-    "effect": "",
+    "effect": "Heavy level-dependent dmg, Absorbs HP and MP",
     "element": "alm",
-    "rank": 50
+    "rank": 50,
+    "target": "1 foe"
   },
   "Spirit Drain": {
     "cost": 1005,
@@ -1486,6 +1560,12 @@ const SMT5_SKILL_DATA = {
     "cost": 1025,
     "effect": "Heavy dmg, 1-4 hits, High crit",
     "element": "phy",
+    "target": "1 foe"
+  },
+  "Storm Dracostrike": {
+    "cost": 1025,
+    "effect": "Medium phys-based dmg",
+    "element": "ele",
     "target": "1 foe"
   },
   "Stormcaller Song": {
@@ -1574,7 +1654,13 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
-  "Toxic Fluid": {
+  "Toxic Cloud": {
+    "cost": 1025,
+    "effect": "Poison",
+    "element": "ail",
+    "target": "All foes"
+  },
+  "Toxic Spray": {
     "cost": 1015,
     "effect": "Poisma + Rakunda",
     "element": "ail",
@@ -1597,23 +1683,17 @@ const SMT5_SKILL_DATA = {
     "element": "fir",
     "target": "1 foe"
   },
+  "Twilight Wave": {
+    "cost": 2001,
+    "effect": "Heavy dmg, Sleep",
+    "element": "phy",
+    "rank": 50,
+    "target": "All foes"
+  },
   "Venom Chaser": {
     "cost": 1015,
     "effect": "Light dmg, Higher dmg against Poison",
     "element": "phy",
-    "target": "1 foe"
-  },
-  "Vigilant Cheer": {
-    "cost": 1050,
-    "effect": "Rakukaja + Sukukaja",
-    "element": "sup",
-    "rank": 99,
-    "target": "All allies"
-  },
-  "Volt Dracostrike": {
-    "cost": 1025,
-    "effect": "Medium phys-based dmg",
-    "element": "ele",
     "target": "1 foe"
   },
   "Walpurgisnacht": {
@@ -1622,20 +1702,10 @@ const SMT5_SKILL_DATA = {
     "rank": 99,
     "target": "All foes"
   },
-  "Watchful": {
-    "effect": "Doubles experience gained in stock",
-    "element": "pas"
-  },
   "White Dracostrike": {
     "cost": 1030,
     "effect": "Medium phys-based dmg, Chance to instakill when weak to light",
     "element": "lig",
-    "target": "1 foe"
-  },
-  "Wild Shot": {
-    "cost": 1015,
-    "effect": "Light dmg, 1-4 hits, High crit",
-    "element": "phy",
     "target": "1 foe"
   },
   "Wind Breath": {
