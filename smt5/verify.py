@@ -5,16 +5,16 @@ import math
 ELEMS = ['phy', 'fir', 'ice', 'ele', 'for', 'lig', 'dar', 'alm', 'ail', 'rec', 'sup']
 ELEMS = { x: i for i, x in enumerate(ELEMS) }
 
-with open('docs/demon-data.js') as jsonfile:
+with open('../docs/smt5/demon-data.js') as jsonfile:
     demons = jsonfile.read()[len('const SMT5_DEMON_DATA = '):]
     demons = json.loads(demons)
-with open('docs/skill-data.js') as jsonfile:
+with open('../docs/smt5/skill-data.js') as jsonfile:
     skills = jsonfile.read()[len('const SMT5_SKILL_DATA = '):]
     skills = json.loads(skills)
-with open('docs/affinity-bonuses.js') as jsonfile:
+with open('../docs/smt5/affinity-bonuses.js') as jsonfile:
     rawBonuses = jsonfile.read()[len('const SMT5_AFFINITY_BONUSES = '):]
     rawBonuses = json.loads(rawBonuses)
-with open('docs/jap-names.js') as jsonfile:
+with open('../docs/smt5/jap-names.js') as jsonfile:
     japNames = jsonfile.read()[len('const SMT5_JAP_NAMES = '):]
     japNames = { y: x for x, y in json.loads(japNames).items() }
 with open('comp-config.json') as jsonfile:

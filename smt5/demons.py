@@ -205,7 +205,7 @@ demonData = parseEnemies(demonData)
 demonData = parseDemons(demonData)
 demonData = parseStats(demonData)
 
-with open('docs/jap-names.js') as jsonfile:
+with open('../docs/smt5/jap-names.js') as jsonfile:
     japData = jsonfile.read()[len('const SMT5_JAP_NAMES = '):]
     japData = json.loads(japData)
 
@@ -217,13 +217,13 @@ print(len(demonData))
 for entry in demonData.values():
     entry['stats'] = '[' + ', '.join(str(x) for x in entry['stats']) + ']'
     entry['affinities'] = '[' + ', '.join(str(x) for x in entry['affinities']) + ']'
-with open('docs/demon-data.js', 'w+') as jsonfile:
+with open('../docs/smt5/demon-data.js', 'w+') as jsonfile:
     demonData = json.dumps(demonData, indent=2, sort_keys=True)
     demonData = 'const SMT5_DEMON_DATA = ' + demonData.replace('"[', '[').replace(']"', ']')
     jsonfile.write(demonData)
-with open('docs/skill-data.js', 'w+') as jsonfile:
+with open('../docs/smt5/skill-data.js', 'w+') as jsonfile:
     skillData = 'const SMT5_SKILL_DATA = ' + json.dumps(skillData, indent=2, sort_keys=True)
     jsonfile.write(skillData)
-with open('docs/jap-names.js', 'w+') as jsonfile:
+with open('../docs/smt5/jap-names.js', 'w+') as jsonfile:
     skillData = 'const SMT5_JAP_NAMES = ' + json.dumps(japData, indent=2, sort_keys=True, ensure_ascii=False)
     jsonfile.write(skillData)
