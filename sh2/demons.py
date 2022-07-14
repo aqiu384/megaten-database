@@ -88,7 +88,7 @@ for entry in demonData.values():
     entry['stats'] = '[' + ', '.join(str(x) for x in entry['stats']) + ']'
 with open('../docs/sh2/demon-data.js', 'w+') as jsonfile:
     demonData = json.dumps(demonData, indent=2, sort_keys=True)
-    demonData = 'const SH2_DEMON_DATA = ' + demonData.replace('"[', '[').replace(']"', ']').replace('[]', '{}').replace('"skills": [', '"skills" {').replace('    ],', '    },').replace('"|', '"').replace('|:', '":').replace('|"', '')
+    demonData = 'const SH2_DEMON_DATA = ' + demonData.replace('"[', '[').replace(']"', ']').replace('[]', '{}').replace('"skills": [', '"skills": {').replace('    ],', '    },').replace('"|', '"').replace('|:', '":').replace('|"', '')
     jsonfile.write(demonData)
 with open('../docs/sh2/skill-data.js', 'w+') as jsonfile:
     skillData = 'const SH2_SKILL_DATA = ' + json.dumps(skillData, indent=2, sort_keys=True)

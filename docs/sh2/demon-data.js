@@ -3,7 +3,7 @@ const SH2_DEMON_DATA = {
     "lvl": 16.0,
     "race": "Fairy",
     "resists": "---ss-s",
-    "skills" {
+    "skills": {
       "Bufula": 0,
       "Mazio": 0,
       "Soul Hack": 17,
@@ -29,7 +29,7 @@ const SH2_DEMON_DATA = {
     "lvl": 23.0,
     "race": "Fallen",
     "resists": "-w--wr-",
-    "skills" {
+    "skills": {
       "Zanma": 0,
       "Paral Eyes": 0,
       "Mazan": 24,
@@ -42,7 +42,7 @@ const SH2_DEMON_DATA = {
     "lvl": 13.0,
     "race": "Divine",
     "resists": "----ws-",
-    "skills" {
+    "skills": {
       "Dia": 0,
       "Patra": 0,
       "Media": 14
@@ -101,6 +101,13 @@ const SH2_DEMON_DATA = {
   "B-Hawaii Frost": {
     "lvl": 16.0,
     "race": "Element",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "Baal": {
+    "lvl": 75.2,
+    "race": "Deity",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0, 0, 0]
@@ -179,7 +186,7 @@ const SH2_DEMON_DATA = {
     "lvl": 6.1,
     "race": "Holy",
     "resists": "--wsw-n",
-    "skills" {
+    "skills": {
       "Needle Shot": 0,
       "Zan": 0,
       "Rurudo": 7,
@@ -191,7 +198,7 @@ const SH2_DEMON_DATA = {
     "lvl": 55.1,
     "race": "Genma",
     "resists": "nn--wrw",
-    "skills" {
+    "skills": {
       "Myriad Arrows": 0,
       "Corkscrew": 0,
       "Zandyne": 56,
@@ -238,7 +245,7 @@ const SH2_DEMON_DATA = {
     "lvl": 2.0,
     "race": "Beast",
     "resists": "--wwws-",
-    "skills" {
+    "skills": {
       "Eat Whole": 0,
       "Zan": 0,
       "Dodge Fire": 3
@@ -333,7 +340,7 @@ const SH2_DEMON_DATA = {
     "lvl": 8.1,
     "race": "Beast",
     "resists": "--wssw-",
-    "skills" {
+    "skills": {
       "Zio": 0,
       "Dia": 0,
       "Trafuri": 9,
@@ -352,7 +359,7 @@ const SH2_DEMON_DATA = {
     "lvl": 39.1,
     "race": "Rumor",
     "resists": "-ws--r-",
-    "skills" {
+    "skills": {
       "Poison Sabbath": 0,
       "Fire Breath": 0,
       "Charge": 40,
@@ -365,7 +372,7 @@ const SH2_DEMON_DATA = {
     "lvl": 21.0,
     "race": "Beast",
     "resists": "--s--ws",
-    "skills" {
+    "skills": {
       "Maragi": 0,
       "Agilao": 0,
       "Poisma": 22,
@@ -384,7 +391,7 @@ const SH2_DEMON_DATA = {
     "lvl": 13.0,
     "race": "Fairy",
     "resists": "--wd---",
-    "skills" {
+    "skills": {
       "Bufu": 0,
       "Rurudo": 0,
       "Mabufu": 14
@@ -395,7 +402,7 @@ const SH2_DEMON_DATA = {
     "lvl": 20.0,
     "race": "Fairy",
     "resists": "--dw---",
-    "skills" {
+    "skills": {
       "Maragi": 0,
       "Agilao": 0,
       "Media": 21,
@@ -421,7 +428,7 @@ const SH2_DEMON_DATA = {
     "lvl": 28.1,
     "race": "Jirae",
     "resists": "--w--d-",
-    "skills" {
+    "skills": {
       "Zanma": 0,
       "Wind Breath": 0,
       "Sukukaja": 29,
@@ -440,7 +447,7 @@ const SH2_DEMON_DATA = {
     "lvl": 10.0,
     "race": "Jirae",
     "resists": "--w-s-w",
-    "skills" {
+    "skills": {
       "Zio": 0,
       "Zan": 0,
       "Dodge Elec": 11
@@ -458,7 +465,7 @@ const SH2_DEMON_DATA = {
     "lvl": 62.1,
     "race": "Night",
     "resists": "s-wd--w",
-    "skills" {
+    "skills": {
       "Life Leech": 0,
       "Mabufudyne": 0,
       "Drain Impulse": 63,
@@ -492,7 +499,7 @@ const SH2_DEMON_DATA = {
     "lvl": 22.0,
     "race": "Femme",
     "resists": "--wr---",
-    "skills" {
+    "skills": {
       "Bufula": 0,
       "Mabufu": 0,
       "Poison Breath": 23,
@@ -511,7 +518,7 @@ const SH2_DEMON_DATA = {
     "lvl": 28.1,
     "race": "Night",
     "resists": "---wn-s",
-    "skills" {
+    "skills": {
       "Life Drain": 0,
       "Dormina": 0,
       "Zionga": 29,
@@ -545,7 +552,7 @@ const SH2_DEMON_DATA = {
     "lvl": 15.0,
     "race": "Avatar",
     "resists": "--nw--w",
-    "skills" {
+    "skills": {
       "Double Fangs": 0,
       "Fang Breaker": 0,
       "Rurudo": 16
@@ -563,7 +570,7 @@ const SH2_DEMON_DATA = {
     "lvl": 9.0,
     "race": "Element",
     "resists": "--wd-n-",
-    "skills" {
+    "skills": {
       "Patra": 0,
       "Zan": 10
     },
@@ -573,7 +580,7 @@ const SH2_DEMON_DATA = {
     "lvl": 10.0,
     "race": "Femme",
     "resists": "w--s-ss",
-    "skills" {
+    "skills": {
       "Bufu": 0,
       "Dormina": 0,
       "Dodge Elec": 11
@@ -612,7 +619,7 @@ const SH2_DEMON_DATA = {
     "lvl": 9.1,
     "race": "Night",
     "resists": "----nww",
-    "skills" {
+    "skills": {
       "Tarunda": 0,
       "Poisma": 0,
       "Agi": 10,
@@ -638,7 +645,7 @@ const SH2_DEMON_DATA = {
     "lvl": 28.1,
     "race": "Raptor",
     "resists": "sw--d--",
-    "skills" {
+    "skills": {
       "Bufula": 0,
       "Mabufu": 0,
       "Me Patra": 29
@@ -649,7 +656,7 @@ const SH2_DEMON_DATA = {
     "lvl": 38.0,
     "race": "Genma",
     "resists": "s-sw-sn",
-    "skills" {
+    "skills": {
       "Thunder Kick": 0,
       "Corkscrew": 0,
       "Attack Master": 39
@@ -695,7 +702,7 @@ const SH2_DEMON_DATA = {
     "lvl": 8.1,
     "race": "Raptor",
     "resists": "--nw--w",
-    "skills" {
+    "skills": {
       "Agi": 0,
       "Tarukaja": 0,
       "Dodge Force": 9
@@ -713,7 +720,7 @@ const SH2_DEMON_DATA = {
     "lvl": 46.0,
     "race": "Beast",
     "resists": "ssdw---",
-    "skills" {
+    "skills": {
       "Agidyne": 0,
       "War Cry": 0,
       "Stack Bonus": 47
@@ -738,7 +745,7 @@ const SH2_DEMON_DATA = {
     "lvl": 5.1,
     "race": "Fairy",
     "resists": "-w--sw-",
-    "skills" {
+    "skills": {
       "Zio": 0,
       "Dia": 0,
       "Dodge Gun": 6
@@ -749,7 +756,7 @@ const SH2_DEMON_DATA = {
     "lvl": 6.1,
     "race": "Rumor",
     "resists": "-sw-w--",
-    "skills" {
+    "skills": {
       "Bufu": 0,
       "Needle Shot": 0,
       "Sukunda": 7
@@ -830,7 +837,7 @@ const SH2_DEMON_DATA = {
     "lvl": 45.1,
     "race": "Megami",
     "resists": "--wns--",
-    "skills" {
+    "skills": {
       "Fuge Raid": 0,
       "Mazanma": 0,
       "Diarama": 46,
@@ -872,7 +879,7 @@ const SH2_DEMON_DATA = {
     "lvl": 26.1,
     "race": "Element",
     "resists": "--wdn--",
-    "skills" {
+    "skills": {
       "Heatwave": 0,
       "Null Sleep": 0,
       "Strike a Pose": 27
@@ -883,7 +890,7 @@ const SH2_DEMON_DATA = {
     "lvl": 46.1,
     "race": "Night",
     "resists": "--sdw-s",
-    "skills" {
+    "skills": {
       "Agilao": 0,
       "Mabufula": 0,
       "High Pressure": 47,
@@ -923,7 +930,7 @@ const SH2_DEMON_DATA = {
     "lvl": 24.1,
     "race": "Deity",
     "resists": "--s-nw-",
-    "skills" {
+    "skills": {
       "Zionga": 0,
       "Elec Wall": 0,
       "Bufula": 25
@@ -955,7 +962,7 @@ const SH2_DEMON_DATA = {
     "lvl": 4.0,
     "race": "Jirae",
     "resists": "-s-w-w-",
-    "skills" {
+    "skills": {
       "Needle Shot": 0,
       "Poisma": 0,
       "Rakunda": 5,
@@ -974,7 +981,7 @@ const SH2_DEMON_DATA = {
     "lvl": 42.0,
     "race": "Holy",
     "resists": "--wnssn",
-    "skills" {
+    "skills": {
       "Ziodyne": 0,
       "Numbing Strike": 0,
       "Meat Bullet": 43,
@@ -995,7 +1002,7 @@ const SH2_DEMON_DATA = {
     "lvl": 39.0,
     "race": "Snake",
     "resists": "----d-w",
-    "skills" {
+    "skills": {
       "Megido": 0,
       "Maragion": 0,
       "Dekunda": 40
@@ -1034,12 +1041,19 @@ const SH2_DEMON_DATA = {
     "lvl": 39.0,
     "race": "Hero",
     "resists": "n-s-nw-",
-    "skills" {
+    "skills": {
       "Bamboo Slice": 0,
       "Zionga": 0,
       "Shooting Sabbath": 40
     },
     "stats": [0, 0, 24, 9, 14, 22, 5]
+  },
+  "Yurlungur": {
+    "lvl": 50.2,
+    "race": "Snake",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0, 0, 0]
   },
   "Zeus": {
     "lvl": 80.2,
@@ -1066,7 +1080,7 @@ const SH2_DEMON_DATA = {
     "lvl": 45.1,
     "race": "Avian",
     "resists": "-wdw--n",
-    "skills" {
+    "skills": {
       "Agidyne": 0,
       "Fire Breath": 0,
       "Attack Master": 46,
