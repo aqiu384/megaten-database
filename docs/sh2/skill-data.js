@@ -60,7 +60,7 @@ const SH2_SKILL_DATA = {
     "target": "1 foe"
   },
   "Charge": {
-    "cost": 1016,
+    "cost": 1011,
     "effect": "",
     "element": "sup"
   },
@@ -70,7 +70,7 @@ const SH2_SKILL_DATA = {
     "element": "ice"
   },
   "Concentrate": {
-    "cost": 1016,
+    "cost": 1011,
     "effect": "",
     "element": "sup"
   },
@@ -224,10 +224,22 @@ const SH2_SKILL_DATA = {
     "effect": "",
     "element": "ice"
   },
+  "Great Blessing": {
+    "cost": 1040,
+    "effect": "",
+    "element": "rec",
+    "rank": 99
+  },
   "Heatwave": {
     "cost": 1015,
     "effect": "",
     "element": "phy"
+  },
+  "Hellish Spurt": {
+    "cost": 1019,
+    "effect": "",
+    "element": "ice",
+    "rank": 99
   },
   "High Pressure": {
     "cost": 1022,
@@ -292,6 +304,15 @@ const SH2_SKILL_DATA = {
     "effect": "Seal",
     "element": "dar"
   },
+  "Makarakarn": {
+    "cost": 1060,
+    "effect": "",
+    "element": "sup"
+  },
+  "Mana Aid": {
+    "effect": "",
+    "element": "pas"
+  },
   "Maragi": {
     "cost": 1015,
     "effect": "Light dmg",
@@ -348,7 +369,12 @@ const SH2_SKILL_DATA = {
   },
   "Me Patra": {
     "cost": 1015,
-    "effect": "",
+    "effect": "Cure Sleep, Seal, Daze, Mark",
+    "element": "rec"
+  },
+  "Me Rurudo": {
+    "cost": 1015,
+    "effect": "Cure Poison, Paralysis, Flinch, Bomb",
     "element": "rec"
   },
   "Meat Bullet": {
@@ -367,11 +393,17 @@ const SH2_SKILL_DATA = {
     "element": "rec"
   },
   "Mediarama": {
-    "cost": 1035,
+    "cost": 1034,
     "effect": "",
     "element": "rec"
   },
-  "Megido": {
+  "Megiddo Ark": {
+    "cost": 1096,
+    "effect": "",
+    "element": "alm",
+    "rank": 99
+  },
+  "Megidola": {
     "cost": 1040,
     "effect": "",
     "element": "alm"
@@ -450,9 +482,14 @@ const SH2_SKILL_DATA = {
     "effect": "Lower defense",
     "element": "sup"
   },
-  "Recarm": {
-    "cost": 1022,
+  "Rampage": {
+    "cost": 1016,
     "effect": "",
+    "element": "phy"
+  },
+  "Recarm": {
+    "cost": 1020,
+    "effect": "Revive with half HP",
     "element": "rec"
   },
   "Riot Gun": {
@@ -467,7 +504,6 @@ const SH2_SKILL_DATA = {
     "target": "1 ally"
   },
   "Samarecarm": {
-    "cost": 1022,
     "effect": "",
     "element": "rec"
   },
@@ -486,8 +522,9 @@ const SH2_SKILL_DATA = {
   },
   "Soul Hack": {
     "cost": 1017,
-    "effect": "",
-    "element": "rec"
+    "effect": "Revive with half HP",
+    "element": "rec",
+    "rank": 99
   },
   "Speed Master": {
     "effect": "",
@@ -523,6 +560,11 @@ const SH2_SKILL_DATA = {
     "effect": "Lower attack",
     "element": "sup"
   },
+  "Tetrakarn": {
+    "cost": 1060,
+    "effect": "",
+    "element": "sup"
+  },
   "Thunder Kick": {
     "cost": 1038,
     "effect": "",
@@ -533,9 +575,15 @@ const SH2_SKILL_DATA = {
     "effect": "Guaranteed escape from battle",
     "element": "spe"
   },
+  "Violent Flame": {
+    "cost": 1049,
+    "effect": "",
+    "element": "fir",
+    "rank": 99
+  },
   "War Cry": {
     "cost": 1038,
-    "effect": "Tarukaja + Rakukaja",
+    "effect": "",
     "element": "sup"
   },
   "Wind Breath": {

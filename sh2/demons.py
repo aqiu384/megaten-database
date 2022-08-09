@@ -22,18 +22,18 @@ def parseDemons(demons, skillData):
             parts[-1] = parts[-1].strip()
             race, dname, lvl = parts[1:4]
             lvl = float(lvl)
-            stats = [int(x or '0') for x in parts[5:12]]
+            stats = [int(x or '0') for x in parts[5:10]]
             resists = ['-'] * 7
             skills = []
 
-            for i, rlvl in enumerate(parts[12:19]):
+            for i, rlvl in enumerate(parts[10:17]):
                 if rlvl in RESIST_LVLS:
                     resists[i] = rlvl
 
             if race not in RACES:
                 print(race)
 
-            for i, sname in enumerate(parts[19:]):
+            for i, sname in enumerate(parts[17:]):
                 if sname:
                     if sname not in skillData:
                         print(sname)
