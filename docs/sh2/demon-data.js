@@ -75,7 +75,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Apsaras": {
-    "lvl": 10.2,
+    "lvl": 31.0,
     "race": "Yoma",
     "resists": "-------",
     "skills": {},
@@ -89,18 +89,26 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Arahabaki": {
-    "lvl": 38.1,
+    "lvl": 37.1,
     "race": "Deity",
-    "resists": "-------",
-    "skills": {},
+    "resists": "-nwwrw-",
+    "skills": {
+      "Mazionga": 0,
+      "Tetrakarn": 0,
+      "Acid Breath": 38
+    },
     "stats": [0, 0, 0, 0, 0]
   },
   "Archangel": {
     "lvl": 24.0,
     "race": "Divine",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "--ss--w",
+    "skills": {
+      "Corkscrew": 0,
+      "Diarama": 0,
+      "Attack Master": 25
+    },
+    "stats": [10, 8, 12, 8, 9]
   },
   "Ardha": {
     "lvl": 70.2,
@@ -117,7 +125,7 @@ const SH2_DEMON_DATA = {
       "Megidola": 0,
       "Makarakarn": 0,
       "Great Blessing": 43,
-      "Me Rurudo": 44
+      "Me Lourdes": 44
     },
     "stats": [12, 20, 18, 13, 15]
   },
@@ -157,10 +165,12 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Baphomet": {
-    "lvl": 42.1,
+    "lvl": 38.0,
     "race": "Vile",
     "resists": "s-rw--n",
-    "skills": {},
+    "skills": {
+      "Fire Breath": 39
+    },
     "stats": [0, 0, 0, 0, 0]
   },
   "Barong": {
@@ -217,20 +227,20 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Chimera": {
-    "lvl": 60.2,
+    "lvl": 32.0,
     "race": "Holy",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Cironnup": {
-    "lvl": 6.1,
+    "lvl": 6.0,
     "race": "Holy",
     "resists": "--wsw-n",
     "skills": {
       "Needle Shot": 0,
       "Zan": 0,
-      "Rurudo": 7,
+      "Lourdes": 7,
       "Dodge Elec": 8
     },
     "stats": [6, 3, 3, 7, 3]
@@ -255,9 +265,9 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Dakini": {
-    "lvl": 50.2,
+    "lvl": 41.0,
     "race": "Femme",
-    "resists": "-------",
+    "resists": "--nws-w",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
@@ -329,7 +339,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Fortuna": {
-    "lvl": 10.2,
+    "lvl": 17.0,
     "race": "Megami",
     "resists": "-------",
     "skills": {},
@@ -364,7 +374,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Gremlin": {
-    "lvl": 9.1,
+    "lvl": 8.0,
     "race": "Jaki",
     "resists": "-------",
     "skills": {},
@@ -378,7 +388,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Halphas": {
-    "lvl": 14.1,
+    "lvl": 14.0,
     "race": "Fallen",
     "resists": "-------",
     "skills": {},
@@ -411,16 +421,23 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Hell Biker": {
-    "lvl": 39.1,
+    "lvl": 37.0,
     "race": "Rumor",
     "resists": "-ws--r-",
     "skills": {
       "Poison Sabbath": 0,
       "Fire Breath": 0,
-      "Charge": 40,
-      "Numbing Strike": 41,
-      "Meat Bullet": 42
+      "Charge": 38,
+      "Numbing Strike": 39,
+      "Meat Bullet": 40
     },
+    "stats": [0, 0, 0, 0, 0]
+  },
+  "Huang Long": {
+    "lvl": 90.2,
+    "race": "Dragon",
+    "resists": "-------",
+    "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Inanna": {
@@ -435,15 +452,13 @@ const SH2_DEMON_DATA = {
     "race": "Beast",
     "resists": "--s--ws",
     "skills": {
-      "Maragi": 0,
       "Agilao": 0,
-      "Poisma": 22,
-      "Blight": 23
+      "Double Fangs": 22
     },
-    "stats": [0, 0, 0, 0, 0]
+    "stats": [12, 8, 8, 10, 6]
   },
   "Ippon-Datara": {
-    "lvl": 10.2,
+    "lvl": 29.0,
     "race": "Jaki",
     "resists": "-------",
     "skills": {},
@@ -462,7 +477,7 @@ const SH2_DEMON_DATA = {
     "resists": "--wd---",
     "skills": {
       "Bufu": 0,
-      "Rurudo": 0,
+      "Lourdes": 0,
       "Mabufu": 14
     },
     "stats": [7, 9, 4, 7, 4]
@@ -496,19 +511,21 @@ const SH2_DEMON_DATA = {
   "Kinmamon": {
     "lvl": 34.0,
     "race": "Megami",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "--nw--s",
+    "skills": {
+      "Mediarama": 35
+    },
+    "stats": [9, 21, 12, 15, 11]
   },
   "Kodama": {
-    "lvl": 28.1,
+    "lvl": 25.0,
     "race": "Jirae",
     "resists": "--w--d-",
     "skills": {
       "Zanma": 0,
       "Wind Breath": 0,
-      "Sukukaja": 29,
-      "Life Drain": 30
+      "Sukukaja": 26,
+      "Life Drain": 27
     },
     "stats": [0, 0, 0, 0, 0]
   },
@@ -525,10 +542,10 @@ const SH2_DEMON_DATA = {
     "resists": "--w-s-w",
     "skills": {
       "Zio": 0,
-      "Zan": 0,
-      "Dodge Elec": 11
+      "Trafuri": 0,
+      "Dodge Phys": 12
     },
-    "stats": [0, 0, 0, 0, 0]
+    "stats": [7, 5, 5, 6, 3]
   },
   "Kresnik": {
     "lvl": 70.2,
@@ -586,25 +603,32 @@ const SH2_DEMON_DATA = {
   "Lemon Frost": {
     "lvl": 21.0,
     "race": "Element",
-    "resists": "-------",
+    "resists": "--wdn--",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Lilim": {
-    "lvl": 28.1,
+    "lvl": 26.0,
     "race": "Night",
     "resists": "---wn-s",
     "skills": {
       "Life Drain": 0,
       "Dormina": 0,
-      "Zionga": 29,
-      "Mazio": 30,
-      "Sleep Sabbath": 31
+      "Zionga": 27,
+      "Mazio": 28,
+      "Sleep Sabbath": 29
     },
     "stats": [11, 15, 9, 13, 12]
   },
+  "Lilith": {
+    "lvl": 80.2,
+    "race": "Night",
+    "resists": "-------",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0]
+  },
   "Loa": {
-    "lvl": 30.2,
+    "lvl": 18.0,
     "race": "Jaki",
     "resists": "-------",
     "skills": {},
@@ -631,20 +655,20 @@ const SH2_DEMON_DATA = {
     "skills": {
       "Double Fangs": 0,
       "Fang Breaker": 0,
-      "Rurudo": 16
+      "Lourdes": 16
     },
     "stats": [7, 6, 7, 9, 5]
   },
   "Mara": {
-    "lvl": 69.2,
+    "lvl": 62.0,
     "race": "Tyrant",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Masakado": {
-    "lvl": 90.2,
-    "race": "Fury",
+    "lvl": 62.0,
+    "race": "Hero",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
@@ -661,8 +685,9 @@ const SH2_DEMON_DATA = {
     "race": "Element",
     "resists": "--wd-n-",
     "skills": {
-      "Patra": 0,
-      "Zan": 10
+      "Zan": 0,
+      "Dia": 0,
+      "Patra": 10
     },
     "stats": [4, 6, 4, 5, 7]
   },
@@ -684,8 +709,8 @@ const SH2_DEMON_DATA = {
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
-  "Milky Frost": {
-    "lvl": 31.1,
+  "Milk-kin Frost": {
+    "lvl": 31.0,
     "race": "Element",
     "resists": "-------",
     "skills": {},
@@ -699,21 +724,23 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Mithras": {
-    "lvl": 36.1,
+    "lvl": 32.0,
     "race": "Tyrant",
-    "resists": "-------",
-    "skills": {},
+    "resists": "---n-ws",
+    "skills": {
+      "Sabbath Erosion": 34
+    },
     "stats": [0, 0, 0, 0, 0]
   },
   "Mokoi": {
-    "lvl": 9.1,
+    "lvl": 7.0,
     "race": "Night",
     "resists": "----nww",
     "skills": {
       "Tarunda": 0,
       "Poisma": 0,
-      "Agi": 10,
-      "Dodge Gun": 11
+      "Agi": 8,
+      "Dodge Gunfire": 9
     },
     "stats": [0, 0, 0, 0, 0]
   },
@@ -725,14 +752,14 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Mothman": {
-    "lvl": 36.1,
+    "lvl": 33.0,
     "race": "Wilder",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Muu Shuwuu": {
-    "lvl": 28.1,
+    "lvl": 28.0,
     "race": "Raptor",
     "resists": "sw--d--",
     "skills": {
@@ -742,7 +769,7 @@ const SH2_DEMON_DATA = {
     },
     "stats": [11, 14, 5, 12, 10]
   },
-  "Nata Taishi": {
+  "Nazha Taizi": {
     "lvl": 38.0,
     "race": "Genma",
     "resists": "s-sw-sn",
@@ -756,23 +783,28 @@ const SH2_DEMON_DATA = {
   "Nekomata": {
     "lvl": 36.0,
     "race": "Beast",
-    "resists": "-------",
-    "skills": {},
+    "resists": "----wd-",
+    "skills": {
+      "Wraith's Fang": 37
+    },
     "stats": [0, 0, 0, 0, 0]
   },
   "Nemissa": {
-    "lvl": 20.2,
+    "lvl": 60.0,
     "race": "Cyber",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Nigi Mitama": {
-    "lvl": 15.2,
+    "lvl": 38.0,
     "race": "Mitama",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "---sw--",
+    "skills": {
+      "Rakukaja": 0,
+      "Me Lourdes": 39
+    },
+    "stats": [10, 18, 11, 15, 14]
   },
   "Norn": {
     "lvl": 50.2,
@@ -823,9 +855,11 @@ const SH2_DEMON_DATA = {
   "Orobas": {
     "lvl": 36.0,
     "race": "Fallen",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "-sswsnw",
+    "skills": {
+      "Dekaja": 37
+    },
+    "stats": [12, 19, 6, 17, 12]
   },
   "Orthrus": {
     "lvl": 46.0,
@@ -860,24 +894,24 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Pixie": {
-    "lvl": 5.1,
+    "lvl": 1.0,
     "race": "Fairy",
     "resists": "-w--sw-",
     "skills": {
       "Zio": 0,
       "Dia": 0,
-      "Dodge Gun": 6
+      "Dodge Gunfire": 2
     },
     "stats": [0, 0, 0, 0, 0]
   },
   "Poltergeist": {
-    "lvl": 6.1,
+    "lvl": 1.0,
     "race": "Rumor",
     "resists": "-sw-w--",
     "skills": {
       "Bufu": 0,
       "Needle Shot": 0,
-      "Sukunda": 7
+      "Sukunda": 2
     },
     "stats": [0, 0, 0, 0, 0]
   },
@@ -896,18 +930,20 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Qing Long": {
-    "lvl": 14.1,
+    "lvl": 14.0,
     "race": "Dragon",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Quetzalcoatl": {
-    "lvl": 40.1,
+    "lvl": 34.0,
     "race": "Dragon",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "r--ssww",
+    "skills": {
+      "Elec Break": 35
+    },
+    "stats": [12, 17, 17, 9, 9]
   },
   "Rakshasa": {
     "lvl": 20.2,
@@ -978,11 +1014,15 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Setanta": {
-    "lvl": 30.2,
+    "lvl": 30.0,
     "race": "Fairy",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "ss--wrw",
+    "skills": {
+      "Zanma": 0,
+      "Atom Slicer": 0,
+      "Last-Ditch Effort": 31
+    },
+    "stats": [19, 7, 11, 12, 6]
   },
   "Seth": {
     "lvl": 60.2,
@@ -992,7 +1032,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Shiisaa": {
-    "lvl": 10.2,
+    "lvl": 22.0,
     "race": "Holy",
     "resists": "-------",
     "skills": {},
@@ -1027,7 +1067,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Strawberry Frost": {
-    "lvl": 26.1,
+    "lvl": 26.0,
     "race": "Element",
     "resists": "--wdn--",
     "skills": {
@@ -1049,8 +1089,15 @@ const SH2_DEMON_DATA = {
     },
     "stats": [10, 21, 10, 13, 24]
   },
+  "Sudama": {
+    "lvl": 42.0,
+    "race": "Jirae",
+    "resists": "-sw-wn-",
+    "skills": {},
+    "stats": [0, 0, 0, 0, 0]
+  },
   "Sukuna-Hikona": {
-    "lvl": 26.1,
+    "lvl": 22.0,
     "race": "Kishin",
     "resists": "-------",
     "skills": {},
@@ -1078,13 +1125,13 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Thoth": {
-    "lvl": 24.1,
+    "lvl": 23.0,
     "race": "Deity",
     "resists": "--s-nw-",
     "skills": {
       "Zionga": 0,
-      "Elec Wall": 0,
-      "Bufula": 25
+      "Volt Wall": 0,
+      "Bufula": 24
     },
     "stats": [7, 13, 8, 11, 10]
   },
@@ -1119,17 +1166,17 @@ const SH2_DEMON_DATA = {
       "Rakunda": 5,
       "Dodge Ice": 6
     },
-    "stats": [0, 0, 0, 0, 0]
+    "stats": [6, 2, 3, 3, 2]
   },
   "Turbo Granny": {
-    "lvl": 20.2,
+    "lvl": 24.0,
     "race": "Rumor",
     "resists": "-------",
     "skills": {},
     "stats": [0, 0, 0, 0, 0]
   },
   "Tzitzimitl": {
-    "lvl": 80.2,
+    "lvl": 24.0,
     "race": "Tyrant",
     "resists": "-------",
     "skills": {},
@@ -1157,10 +1204,12 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Vasuki": {
-    "lvl": 80.2,
+    "lvl": 37.0,
     "race": "Drake",
-    "resists": "-------",
-    "skills": {},
+    "resists": "---d-w-",
+    "skills": {
+      "Needle Shot": 38
+    },
     "stats": [0, 0, 0, 0, 0]
   },
   "Vouivre": {
@@ -1186,7 +1235,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 20, 23, 9, 13]
   },
   "Xuanwu": {
-    "lvl": 29.1,
+    "lvl": 29.0,
     "race": "Avatar",
     "resists": "sswssw-",
     "skills": {},
@@ -1200,7 +1249,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Yatagarasu": {
-    "lvl": 27.1,
+    "lvl": 27.0,
     "race": "Avian",
     "resists": "-------",
     "skills": {},

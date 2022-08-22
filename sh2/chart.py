@@ -3,7 +3,7 @@ import json
 
 RACES = []
 TABLE = []
-ELEMS = ['Melon', 'B-Hawaii', 'Lemon', 'Strawberry', 'Milky']
+ELEMS = ['Melon', 'B-Hawaii', 'Lemon', 'Strawberry', 'Milk-kin']
 
 with open('sh2-data - chart.tsv') as tsvfile:
     for i, line in enumerate(tsvfile):

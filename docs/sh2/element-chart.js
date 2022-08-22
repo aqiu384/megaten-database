@@ -4,7 +4,7 @@ const SH2_ELEMENT_CHART = {
     "B-Hawaii Frost",
     "Lemon Frost",
     "Strawberry Frost",
-    "Milky Frost"
+    "Milk-kin Frost"
   ],
   "races": [
     "Herald",
@@ -30,14 +30,11 @@ const SH2_ELEMENT_CHART = {
     "Dragon",
     "Kishin",
     "Femme",
-    "Brute",
     "Fallen",
     "Night",
     "Snake",
     "Tyrant",
     "Drake",
-    "Haunt",
-    "Foul",
     "Rumor"
   ],
   "table": [
@@ -55,7 +52,7 @@ const SH2_ELEMENT_CHART = {
     [ 0,  0,  0,  0,  0],
     [ 1,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0],
-    [ 0,  0,  0,  0,  0],
+    [ 0, -1,  0,  0,  0],
     [ 0,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0],
     [-1,  0,  0,  0,  0],
@@ -63,10 +60,7 @@ const SH2_ELEMENT_CHART = {
     [ 0,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0],
-    [ 0,  0,  0,  0,  0],
-    [ 0,  0,  0,  0,  0],
-    [ 0,  0,  0,  0,  0],
-    [ 0,  0,  0,  0,  0],
+    [ 0, -1,  0,  0,  0],
     [ 0,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0],
     [ 0,  0,  0,  0,  0],

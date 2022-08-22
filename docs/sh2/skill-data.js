@@ -1,4 +1,9 @@
 const SH2_SKILL_DATA = {
+  "Acid Breath": {
+    "cost": 1038,
+    "effect": "",
+    "element": "sup"
+  },
   "Agi": {
     "cost": 1006,
     "effect": "Light dmg",
@@ -21,6 +26,12 @@ const SH2_SKILL_DATA = {
     "cost": 1015,
     "effect": "",
     "element": "rec"
+  },
+  "Atom Slicer": {
+    "cost": 1030,
+    "effect": "Medium dmg",
+    "element": "phy",
+    "target": "All foes"
   },
   "Attack Master": {
     "effect": "",
@@ -79,10 +90,11 @@ const SH2_SKILL_DATA = {
     "effect": "",
     "element": "phy"
   },
-  "Corpse Fang": {
-    "cost": 1020,
-    "effect": "",
-    "element": "phy"
+  "Defense Kuzushi": {
+    "cost": 1012,
+    "effect": "Light dmg, Rakunda",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Defense Master": {
     "effect": "",
@@ -139,7 +151,7 @@ const SH2_SKILL_DATA = {
     "effect": "",
     "element": "pas"
   },
-  "Dodge Gun": {
+  "Dodge Gunfire": {
     "effect": "",
     "element": "pas"
   },
@@ -179,15 +191,11 @@ const SH2_SKILL_DATA = {
     "effect": "",
     "element": "sup"
   },
-  "Elec Wall": {
-    "cost": 1015,
-    "effect": "",
-    "element": "sup"
-  },
   "Fang Breaker": {
     "cost": 1012,
-    "effect": "",
-    "element": "phy"
+    "effect": "Light dmg, Tarunda",
+    "element": "phy",
+    "target": "1 foe"
   },
   "Fire Break": {
     "cost": 1015,
@@ -266,6 +274,10 @@ const SH2_SKILL_DATA = {
     "effect": "",
     "element": "fir"
   },
+  "Last-Ditch Effort": {
+    "effect": "",
+    "element": "pas"
+  },
   "Life Drain": {
     "cost": 1008,
     "effect": "",
@@ -275,6 +287,12 @@ const SH2_SKILL_DATA = {
     "cost": 1028,
     "effect": "",
     "element": "alm"
+  },
+  "Lourdes": {
+    "cost": 1006,
+    "effect": "Cure Poison, Paralysis, Flinch, Bomb",
+    "element": "rec",
+    "target": "1 ally"
   },
   "Love Sabbath": {
     "effect": "",
@@ -367,14 +385,14 @@ const SH2_SKILL_DATA = {
     "element": "ele",
     "target": "All foes"
   },
-  "Me Patra": {
-    "cost": 1015,
-    "effect": "Cure Sleep, Seal, Daze, Mark",
-    "element": "rec"
-  },
-  "Me Rurudo": {
+  "Me Lourdes": {
     "cost": 1015,
     "effect": "Cure Poison, Paralysis, Flinch, Bomb",
+    "element": "rec"
+  },
+  "Me Patra": {
+    "cost": 1015,
+    "effect": "Cure Sleep, Seal, Daze, Target",
     "element": "rec"
   },
   "Meat Bullet": {
@@ -415,8 +433,9 @@ const SH2_SKILL_DATA = {
   },
   "Needle Shot": {
     "cost": 1007,
-    "effect": "",
-    "element": "gun"
+    "effect": "Medium dmg",
+    "element": "gun",
+    "target": "1 foe"
   },
   "Null Curse": {
     "effect": "",
@@ -454,7 +473,7 @@ const SH2_SKILL_DATA = {
   },
   "Patra": {
     "cost": 1006,
-    "effect": "Cure Sleep, Seal, Daze, Mark",
+    "effect": "Cure Sleep, Seal, Daze, Target",
     "element": "rec",
     "target": "1 ally"
   },
@@ -492,16 +511,22 @@ const SH2_SKILL_DATA = {
     "effect": "Revive with half HP",
     "element": "rec"
   },
+  "Resist Mind": {
+    "effect": "Resist Sleep, Seal, Daze, Target",
+    "element": "pas"
+  },
+  "Resist Nerve": {
+    "effect": "Resist Poison, Paralysis, Flinch, Bomb",
+    "element": "pas"
+  },
   "Riot Gun": {
     "cost": 1054,
     "effect": "",
     "element": "gun"
   },
-  "Rurudo": {
-    "cost": 1006,
-    "effect": "Cure Poison, Paralysis, Flinch, Bomb",
-    "element": "rec",
-    "target": "1 ally"
+  "Sabbath Erosion": {
+    "effect": "",
+    "element": "sab"
   },
   "Samarecarm": {
     "effect": "",
@@ -581,6 +606,11 @@ const SH2_SKILL_DATA = {
     "element": "fir",
     "rank": 99
   },
+  "Volt Wall": {
+    "cost": 1015,
+    "effect": "",
+    "element": "sup"
+  },
   "War Cry": {
     "cost": 1038,
     "effect": "",
@@ -590,6 +620,11 @@ const SH2_SKILL_DATA = {
     "cost": 1014,
     "effect": "",
     "element": "for"
+  },
+  "Wraith's Fang": {
+    "cost": 1020,
+    "effect": "",
+    "element": "phy"
   },
   "Zan": {
     "cost": 1006,
