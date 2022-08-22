@@ -3,7 +3,7 @@ import json
 
 RACES = []
 TABLE = []
-ELEMS = ['Melon', 'B-Hawaii', 'Lemon', 'Strawberry', 'Milk-kin']
+ELEMS = ['Melon Frost', 'B-Hawaii Frost', 'Lemon Frost', 'Strawberry Frost', 'Milk-kin Frost']
 
 with open('sh2-data - chart.tsv') as tsvfile:
     for i, line in enumerate(tsvfile):
@@ -43,7 +43,7 @@ OTEXT = 'const SH2_FUSION_CHART = ' + OTEXT.replace('"[', '[').replace(']"', ']'
 
 with open('../docs/sh2/fusion-chart.js', 'w+') as jsonfile:
     for elem in ELEMS:
-        OTEXT = OTEXT.replace(elem, elem + ' Frost')
+        OTEXT = OTEXT.replace(elem[:5], elem)
     jsonfile.write(OTEXT)
 
 OTEXT = json.dumps({ 'elems': RACES[-5:], 'races': RACES[:-5], 'table': ETABLE }, indent=2, sort_keys=True)
@@ -51,5 +51,5 @@ OTEXT = 'const SH2_ELEMENT_CHART = ' + OTEXT.replace('"[', '[').replace(']"', ']
 
 with open('../docs/sh2/element-chart.js', 'w+') as jsonfile:
     for elem in ELEMS:
-        OTEXT = OTEXT.replace(elem, elem + ' Frost')
+        OTEXT = OTEXT.replace(elem[:5], elem)
     jsonfile.write(OTEXT)
