@@ -21,7 +21,7 @@ def parseDemons(demons, skillData):
             parts = line.split('\t')
             parts[-1] = parts[-1].strip()
             race, dname, lvl = parts[1:4]
-            lvl = float(lvl)
+            lvl = int(lvl)
             stats = [int(x or '0') for x in parts[5:10]]
             resists = ['-'] * 7
             skills = []
