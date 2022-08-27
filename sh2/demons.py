@@ -33,7 +33,9 @@ def parseDemons(demons, skillData):
             if race not in RACES:
                 print(race)
 
-            for i, sname in enumerate(parts[17:]):
+            price = int(parts[17])
+
+            for i, sname in enumerate(parts[18:]):
                 if sname:
                     if sname not in skillData:
                         print(sname)
@@ -45,6 +47,7 @@ def parseDemons(demons, skillData):
             demons[dname] = {
                 'race': race,
                 'lvl': lvl,
+                'price': price,
                 'stats': stats,
                 'resists': ''.join(resists),
                 'skills': skills
