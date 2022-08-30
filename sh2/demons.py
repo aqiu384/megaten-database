@@ -55,6 +55,17 @@ def parseDemons(demons, skillData):
 
     return demons
 
+def parseInherits(demons):
+    with open('sh2-data - inherits.tsv') as tsvfile:
+        for line in tsvfile:
+            parts = line.split('\t')
+            parts[-1] = parts[-1].strip()
+            race, dname, lvl = parts[:3]
+            inherits = ''.join(parts[3:]).replace('O', 'o')
+            demons[dname]['inherits'] = inherits
+
+    return demons
+
 def parseSkills(skills):
     with open('sh2-data - skills.tsv') as tsvfile:
         for line in tsvfile:
@@ -84,6 +95,7 @@ skillData = parseSkills(skillData)
 
 demonData = {}
 demonData = parseDemons(demonData, skillData)
+demonData = parseInherits(demonData)
 
 print(len(demonData))
 

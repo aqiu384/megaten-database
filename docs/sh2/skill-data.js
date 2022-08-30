@@ -765,6 +765,10 @@ const SH2_SKILL_DATA = {
     "element": "sup",
     "target": "1 ally"
   },
+  "Qigong": {
+    "effect": "Very slightly restores MP every action",
+    "element": "pas"
+  },
   "Rakukaja": {
     "cost": 1016,
     "effect": "Raise defense for 3 turns",
@@ -869,6 +873,10 @@ const SH2_SKILL_DATA = {
   },
   "Sabbath Mirror": {
     "effect": "Repel phys attacks for 1 turn",
+    "element": "sab"
+  },
+  "Sabbath Rally": {
+    "effect": "Tarukaja + Sukukaja",
     "element": "sab"
   },
   "Sabbath Raze": {

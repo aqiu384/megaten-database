@@ -22,7 +22,7 @@ const SH2_FUSION_CHART = {
     ["Holy",   "Kishin", "Yoma",   "Fairy",  "Yoma",   "Dragon", "Dragon", "Drake",  "Lady",   "Yoma",   "Jaki",   "Femme",  "Kishin", "Lady",   "Deity",  "Megami", "B-Hawaii Frost"],
     ["Yoma",   "Holy",   "Jirae",  "Wilder", "Vile",   "Divine", "Yoma",   "Avian",  "Snake",  "Beast",  "Wilder", "Divine", "Lady",   "Divine", "Vile",   "Megami", "Kishin", "Lemon Frost"],
     ["Dragon", "Vile",   "Divine", "Jirae",  "Dragon", "Raptor", "Fairy",  "Vile",   "Kishin", "Lady",   "Jaki",   "Avian",  "Deity",  "Megami", "Kishin", "Deity",  "Vile",   "Lady",   "B-Hawaii Frost"],
-    ["Wilder", "Genma",  "Jaki",   "Fallen", "Divine", "Drake",  "Night",  "Drake",  "Jaki",   "Femme",  "Beast",  "Avatar", "Vile",   "Megami", "Holy",   "Avatar", "Lady",   "Tyrant", "Vile",   "-"],
+    ["Wilder", "Genma",  "Jaki",   "Fallen", "Divine", "Drake",  "Night",  "Drake",  "Jaki",   "Femme",  "Beast",  "Avatar", "Vile",   "Megami", "Holy",   "Avatar", "Lady",   "Tyrant", "Vile",   "Milk-kin Frost"],
     ["Snake",  "Rumor",  "Jirae",  "Fallen", "Snake",  "Night",  "Wilder", "Fairy",  "Lady",   "Genma",  "Femme",  "Jaki",   "Drake",  "Holy",   "Deity",  "Raptor", "Tyrant", "Lady",   "Snake",  "Rumor",  "Melon Frost"],
     ["Avian",  "Jirae",  "Yoma",   "Rumor",  "Fallen", "Jaki",   "Fairy",  "Femme",  "Deity",  "Fallen", "Femme",  "Avian",  "Raptor", "Fairy",  "Femme",  "Rumor",  "Tyrant", "Lady",   "Fairy",  "Tyrant", "Rumor",  "Strawberry Frost"],
     ["Beast",  "Jaki",   "Beast",  "Drake",  "Dragon", "Drake",  "Genma",  "Raptor", "Wilder", "Snake",  "Jaki",   "Genma",  "Holy",   "Megami", "Drake",  "Beast",  "Dragon", "Avian",  "Kishin", "Megami", "Lady",   "Yoma",   "Melon Frost"],
@@ -30,7 +30,7 @@ const SH2_FUSION_CHART = {
     ["Femme",  "Fairy",  "Dragon", "Avian",  "Divine", "Dragon", "Femme",  "Fallen", "Lady",   "Vile",   "Avatar", "Night",  "Rumor",  "Avatar", "Deity",  "Wilder", "Lady",   "Avatar", "Avatar", "Deity",  "Tyrant", "Night",  "Vile",   "Lady",   "Lemon Frost"],
     ["Divine", "Genma",  "Wilder", "Fairy",  "Avian",  "Yoma",   "Beast",  "Raptor", "Fallen", "Rumor",  "Jaki",   "Dragon", "Lady",   "Divine", "Kishin", "Megami", "Kishin", "Divine", "Vile",   "Deity",  "Dragon", "Kishin", "Vile",   "Tyrant", "Deity",  "Strawberry Frost"],
     ["Jirae",  "Snake",  "Beast",  "Jaki",   "Avian",  "Drake",  "Fairy",  "Divine", "Megami", "Fairy",  "Jirae",  "Snake",  "Vile",   "Megami", "Deity",  "Megami", "Vile",   "Tyrant", "Vile",   "Divine", "Megami", "Megami", "Fallen", "Kishin", "Tyrant", "Tyrant", "Milk-kin Frost"],
-    ["-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-"],
-    ["-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-",      "-"]
+    ["Divine", "Dragon", "Snake",  "Rumor",  "Megami", "Snake",  "Jaki",   "Raptor", "Lady",   "Jirae",  "Yoma",   "Drake",  "Kishin", "Deity",  "Avian",  "Avatar", "Drake",  "Divine", "Kishin", "Vile",   "Tyrant", "Deity",  "Vile",   "Vile",   "Divine", "Lady",   "Megami", "-"],
+    ["Rumor",  "Divine", "Avian",  "Jaki",   "Night",  "Drake",  "Jaki",   "Fallen", "Lady",   "Night",  "Jirae",  "Drake",  "Vile",   "Raptor", "Deity",  "Raptor", "Tyrant", "Night",  "Tyrant", "Fallen", "Drake",  "Deity",  "Vile",   "Tyrant", "Lady",   "Deity",  "Femme",  "Rumor",  "-"]
   ]
 }

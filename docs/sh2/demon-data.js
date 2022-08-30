@@ -1,5 +1,6 @@
 const SH2_DEMON_DATA = {
   "Ai-ho": {
+    "inherits": "ooooooooooo",
     "lvl": 16,
     "price": 37999,
     "race": "Fairy",
@@ -13,6 +14,7 @@ const SH2_DEMON_DATA = {
     "stats": [6, 9, 6, 8, 8]
   },
   "Amon": {
+    "inherits": "ooo-oooo-o-",
     "lvl": 89,
     "price": 848837,
     "race": "Tyrant",
@@ -27,6 +29,7 @@ const SH2_DEMON_DATA = {
     "stats": [18, 50, 24, 35, 24]
   },
   "Anahita": {
+    "inherits": "ooooooooooo",
     "lvl": 28,
     "price": 98999,
     "race": "Megami",
@@ -39,6 +42,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 15, 14, 11, 10]
   },
   "Ananta": {
+    "inherits": "oo-o--o-oo-",
     "lvl": 64,
     "price": 483839,
     "race": "Dragon",
@@ -53,6 +57,7 @@ const SH2_DEMON_DATA = {
     "stats": [28, 14, 32, 14, 22]
   },
   "Andras": {
+    "inherits": "--o-o-o--o-",
     "lvl": 23,
     "price": 71208,
     "race": "Fallen",
@@ -67,6 +72,7 @@ const SH2_DEMON_DATA = {
     "stats": [6, 11, 8, 11, 10]
   },
   "Angel": {
+    "inherits": "-oo-o--ooo-",
     "lvl": 13,
     "price": 25740,
     "race": "Divine",
@@ -81,6 +87,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 8, 6, 7, 3]
   },
   "Anubis": {
+    "inherits": "-oo--ooo-o-",
     "lvl": 56,
     "price": 344736,
     "race": "Avatar",
@@ -95,6 +102,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 31, 15, 22, 16]
   },
   "Anzu": {
+    "inherits": "oo--oo-oooo",
     "lvl": 60,
     "price": 408000,
     "race": "Raptor",
@@ -109,6 +117,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 23, 13, 29, 18]
   },
   "Apsaras": {
+    "inherits": "-o-oo-oooo-",
     "lvl": 31,
     "price": 113832,
     "race": "Yoma",
@@ -123,14 +132,20 @@ const SH2_DEMON_DATA = {
     "stats": [9, 13, 9, 16, 11]
   },
   "Ara Mitama": {
+    "inherits": "ooo------oo",
     "lvl": 33,
-    "price": 0,
+    "price": 209303,
     "race": "Mitama",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "--s--w-",
+    "skills": {
+      "Tarukaja": 0,
+      "Retaliate": 34,
+      "Prideful Boast": 35
+    },
+    "stats": [17, 8, 12, 9, 13]
   },
   "Arahabaki": {
+    "inherits": "--oo-o-o-o-",
     "lvl": 37,
     "price": 173992,
     "race": "Deity",
@@ -145,6 +160,7 @@ const SH2_DEMON_DATA = {
     "stats": [9, 22, 12, 18, 11]
   },
   "Archangel": {
+    "inherits": "oo-o---ooo-",
     "lvl": 24,
     "price": 76032,
     "race": "Divine",
@@ -159,6 +175,7 @@ const SH2_DEMON_DATA = {
     "stats": [10, 8, 12, 8, 9]
   },
   "Ardha": {
+    "inherits": "ooooooooooo",
     "lvl": 86,
     "price": 957999,
     "race": "Deity",
@@ -167,6 +184,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Armaiti": {
+    "inherits": "ooooooooooo",
     "lvl": 43,
     "price": 216999,
     "race": "Herald",
@@ -180,14 +198,22 @@ const SH2_DEMON_DATA = {
     "stats": [12, 20, 18, 13, 15]
   },
   "Asura": {
+    "inherits": "ooo--ooooo-",
     "lvl": 61,
     "price": 468999,
     "race": "Fury",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "ssdwn-w",
+    "skills": {
+      "Roar": 0,
+      "Myriad Strikes": 0,
+      "Six-Realm Strike": 62,
+      "High Pressure": 63,
+      "Victory Cry": 64
+    },
+    "stats": [35, 20, 21, 15, 14]
   },
   "B-Hawaii Frost": {
+    "inherits": "oo-o---oooo",
     "lvl": 16,
     "price": 89120,
     "race": "Element",
@@ -200,6 +226,7 @@ const SH2_DEMON_DATA = {
     "stats": [6, 9, 7, 8, 7]
   },
   "Baal": {
+    "inherits": "--o-oo-oo--",
     "lvl": 59,
     "price": 393854,
     "race": "Deity",
@@ -214,6 +241,7 @@ const SH2_DEMON_DATA = {
     "stats": [13, 30, 21, 19, 17]
   },
   "Baihu": {
+    "inherits": "o--o-ooooo-",
     "lvl": 50,
     "price": 306250,
     "race": "Holy",
@@ -228,6 +256,7 @@ const SH2_DEMON_DATA = {
     "stats": [29, 18, 16, 15, 8]
   },
   "Baphomet": {
+    "inherits": "--o-o-oooo-",
     "lvl": 38,
     "price": 178524,
     "race": "Vile",
@@ -242,6 +271,7 @@ const SH2_DEMON_DATA = {
     "stats": [10, 24, 11, 16, 12]
   },
   "Barong": {
+    "inherits": "o-o-oooooo-",
     "lvl": 68,
     "price": 523600,
     "race": "Avatar",
@@ -256,6 +286,7 @@ const SH2_DEMON_DATA = {
     "stats": [23, 23, 15, 31, 21]
   },
   "Basilisk": {
+    "inherits": "oo---oo--o-",
     "lvl": 28,
     "price": 98784,
     "race": "Drake",
@@ -270,6 +301,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 11, 9, 12, 14]
   },
   "Bicorn": {
+    "inherits": "ooo---o--o-",
     "lvl": 9,
     "price": 15660,
     "race": "Wilder",
@@ -283,14 +315,22 @@ const SH2_DEMON_DATA = {
     "stats": [8, 3, 6, 5, 4]
   },
   "Black Frost": {
+    "inherits": "oooo--ooooo",
     "lvl": 65,
     "price": 537999,
     "race": "Jaki",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "ssrd---",
+    "skills": {
+      "Debilitate": 0,
+      "Mabufudyne": 0,
+      "Glacial Blast": 66,
+      "Deathbound": 67,
+      "Sabbath Rally": 68
+    },
+    "stats": [28, 28, 22, 18, 18]
   },
   "Bugs": {
+    "inherits": "oo-o--o--o-",
     "lvl": 19,
     "price": 50017,
     "race": "Wilder",
@@ -304,6 +344,7 @@ const SH2_DEMON_DATA = {
     "stats": [11, 5, 9, 8, 7]
   },
   "Cerberus": {
+    "inherits": "ooo--o---oo",
     "lvl": 57,
     "price": 449872,
     "race": "Beast",
@@ -318,14 +359,22 @@ const SH2_DEMON_DATA = {
     "stats": [34, 13, 19, 14, 18]
   },
   "Chernobog": {
+    "inherits": "oo-oo-oo-o-",
     "lvl": 44,
     "price": 232999,
     "race": "Reaper",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "ss--w--",
+    "skills": {
+      "Bamboo Slice": 0,
+      "Acid Breath": 0,
+      "Retaliate": 45,
+      "Life Gain": 46,
+      "Null Ice": 47
+    },
+    "stats": [25, 10, 18, 11, 12]
   },
   "Chimera": {
+    "inherits": "ooo--o---o-",
     "lvl": 32,
     "price": 133120,
     "race": "Holy",
@@ -340,6 +389,7 @@ const SH2_DEMON_DATA = {
     "stats": [18, 10, 12, 11, 9]
   },
   "Cironnup": {
+    "inherits": "-o-oo--ooo-",
     "lvl": 6,
     "price": 9360,
     "race": "Holy",
@@ -353,6 +403,7 @@ const SH2_DEMON_DATA = {
     "stats": [6, 3, 3, 6, 3]
   },
   "Cu Chulainn": {
+    "inherits": "oo-oo---ooo",
     "lvl": 52,
     "price": 327600,
     "race": "Genma",
@@ -367,6 +418,7 @@ const SH2_DEMON_DATA = {
     "stats": [28, 18, 17, 17, 10]
   },
   "Cybele": {
+    "inherits": "o-o---ooooo",
     "lvl": 45,
     "price": 248625,
     "race": "Lady",
@@ -381,6 +433,7 @@ const SH2_DEMON_DATA = {
     "stats": [9, 26, 18, 13, 14]
   },
   "Dakini": {
+    "inherits": "o-o--oo--o-",
     "lvl": 41,
     "price": 212585,
     "race": "Femme",
@@ -395,6 +448,7 @@ const SH2_DEMON_DATA = {
     "stats": [17, 23, 10, 11, 12]
   },
   "Decarabia": {
+    "inherits": "o-o---ooooo",
     "lvl": 54,
     "price": 337662,
     "race": "Fallen",
@@ -409,6 +463,7 @@ const SH2_DEMON_DATA = {
     "stats": [15, 34, 7, 22, 15]
   },
   "Dionysus": {
+    "inherits": "o-o--ooo-o-",
     "lvl": 31,
     "price": 122527,
     "race": "Fury",
@@ -423,6 +478,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 10, 10, 9, 11]
   },
   "Dominion": {
+    "inherits": "-o-o-o-ooo-",
     "lvl": 52,
     "price": 327600,
     "race": "Divine",
@@ -437,6 +493,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 20, 15, 20, 15]
   },
   "Doppelganger": {
+    "inherits": "o----oooooo",
     "lvl": 49,
     "price": 277242,
     "race": "Rumor",
@@ -451,6 +508,7 @@ const SH2_DEMON_DATA = {
     "stats": [22, 24, 15, 14, 10]
   },
   "Dormarth": {
+    "inherits": "o---o-o-oo-",
     "lvl": 2,
     "price": 2420,
     "race": "Beast",
@@ -463,6 +521,7 @@ const SH2_DEMON_DATA = {
     "stats": [4, 3, 3, 3, 3]
   },
   "Fafnir": {
+    "inherits": "ooo-o-o--o-",
     "lvl": 51,
     "price": 271575,
     "race": "Drake",
@@ -477,6 +536,7 @@ const SH2_DEMON_DATA = {
     "stats": [23, 19, 24, 11, 10]
   },
   "Feng Huang": {
+    "inherits": "-oo----ooo-",
     "lvl": 17,
     "price": 40885,
     "race": "Avian",
@@ -491,6 +551,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 11, 4, 8, 7]
   },
   "Fenrir": {
+    "inherits": "o---o-oooo-",
     "lvl": 63,
     "price": 522900,
     "race": "Wilder",
@@ -505,6 +566,7 @@ const SH2_DEMON_DATA = {
     "stats": [36, 14, 21, 15, 20]
   },
   "Flauros": {
+    "inherits": "o-o---o-oo-",
     "lvl": 67,
     "price": 641190,
     "race": "Fallen",
@@ -519,6 +581,7 @@ const SH2_DEMON_DATA = {
     "stats": [30, 32, 13, 26, 12]
   },
   "Fortuna": {
+    "inherits": "---oo--ooo-",
     "lvl": 17,
     "price": 37740,
     "race": "Megami",
@@ -532,6 +595,7 @@ const SH2_DEMON_DATA = {
     "stats": [3, 14, 8, 8, 7]
   },
   "Futsunushi": {
+    "inherits": "oo-o-oo--o-",
     "lvl": 35,
     "price": 153999,
     "race": "Kishin",
@@ -546,6 +610,7 @@ const SH2_DEMON_DATA = {
     "stats": [16, 15, 11, 12, 12]
   },
   "Ganesha": {
+    "inherits": "oo-oo--ooo-",
     "lvl": 62,
     "price": 495690,
     "race": "Yoma",
@@ -560,6 +625,7 @@ const SH2_DEMON_DATA = {
     "stats": [21, 20, 14, 34, 16]
   },
   "Garuda": {
+    "inherits": "ooooooooooo",
     "lvl": 80,
     "price": 777999,
     "race": "Avian",
@@ -568,6 +634,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Girimehkala": {
+    "inherits": "o-o-o-o--o-",
     "lvl": 60,
     "price": 420000,
     "race": "Jaki",
@@ -582,6 +649,7 @@ const SH2_DEMON_DATA = {
     "stats": [25, 31, 23, 14, 9]
   },
   "Gremlin": {
+    "inherits": "o--o--o-oo-",
     "lvl": 8,
     "price": 12320,
     "race": "Jaki",
@@ -594,14 +662,22 @@ const SH2_DEMON_DATA = {
     "stats": [3, 6, 4, 7, 4]
   },
   "Gurulu": {
+    "inherits": "oo-oo-o--o-",
     "lvl": 47,
     "price": 314999,
     "race": "Raptor",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "s-wssnw",
+    "skills": {
+      "Zandyne": 0,
+      "Mazanma": 0,
+      "High Pressure": 48,
+      "Null Phys": 49,
+      "Life Aid": 50
+    },
+    "stats": [20, 15, 11, 22, 15]
   },
   "Halphas": {
+    "inherits": "o---o--o-o-",
     "lvl": 14,
     "price": 30940,
     "race": "Fallen",
@@ -616,6 +692,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 8, 6, 6, 4]
   },
   "Hanuman": {
+    "inherits": "oo-o-o--ooo",
     "lvl": 82,
     "price": 920040,
     "race": "Genma",
@@ -630,6 +707,7 @@ const SH2_DEMON_DATA = {
     "stats": [27, 26, 18, 36, 24]
   },
   "Hare of Inaba": {
+    "inherits": "oo-ooo--oo-",
     "lvl": 5,
     "price": 6875,
     "race": "Beast",
@@ -643,6 +721,7 @@ const SH2_DEMON_DATA = {
     "stats": [4, 2, 3, 6, 5]
   },
   "Hariti": {
+    "inherits": "-o---ooooo-",
     "lvl": 27,
     "price": 91368,
     "race": "Lady",
@@ -657,6 +736,7 @@ const SH2_DEMON_DATA = {
     "stats": [10, 13, 10, 10, 9]
   },
   "Hell Biker": {
+    "inherits": "ooo---o--oo",
     "lvl": 37,
     "price": 163447,
     "race": "Rumor",
@@ -671,6 +751,7 @@ const SH2_DEMON_DATA = {
     "stats": [23, 9, 13, 10, 12]
   },
   "Huang Long": {
+    "inherits": "-ooooo-ooo-",
     "lvl": 88,
     "price": 902880,
     "race": "Dragon",
@@ -685,6 +766,7 @@ const SH2_DEMON_DATA = {
     "stats": [32, 35, 40, 19, 24]
   },
   "Inanna": {
+    "inherits": "ooo-o-oooo-",
     "lvl": 83,
     "price": 777959,
     "race": "Lady",
@@ -699,6 +781,7 @@ const SH2_DEMON_DATA = {
     "stats": [17, 45, 22, 31, 21]
   },
   "Incubus": {
+    "inherits": "-----ooo-o-",
     "lvl": 35,
     "price": 127050,
     "race": "Night",
@@ -713,6 +796,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 14, 10, 13, 19]
   },
   "Inugami": {
+    "inherits": "o-o--oo--o-",
     "lvl": 21,
     "price": 47355,
     "race": "Beast",
@@ -727,6 +811,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 8, 8, 10, 6]
   },
   "Ippon-Datara": {
+    "inherits": "o-o---o-oo-",
     "lvl": 29,
     "price": 100891,
     "race": "Jaki",
@@ -741,6 +826,7 @@ const SH2_DEMON_DATA = {
     "stats": [15, 8, 13, 11, 8]
   },
   "Ishtar": {
+    "inherits": "oo--ooo-oo-",
     "lvl": 56,
     "price": 376656,
     "race": "Megami",
@@ -755,6 +841,7 @@ const SH2_DEMON_DATA = {
     "stats": [19, 27, 28, 13, 10]
   },
   "Jack Frost": {
+    "inherits": "oo-o-o-oooo",
     "lvl": 13,
     "price": 25740,
     "race": "Fairy",
@@ -768,6 +855,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 9, 4, 7, 4]
   },
   "Jack-o'-Lantern": {
+    "inherits": "-oo---o-oo-",
     "lvl": 20,
     "price": 56800,
     "race": "Fairy",
@@ -781,6 +869,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 12, 4, 9, 6]
   },
   "Kali": {
+    "inherits": "o-o---oooo-",
     "lvl": 78,
     "price": 764400,
     "race": "Femme",
@@ -795,6 +884,7 @@ const SH2_DEMON_DATA = {
     "stats": [43, 17, 26, 18, 25]
   },
   "King Frost": {
+    "inherits": "oo-o-o-ooo-",
     "lvl": 60,
     "price": 468000,
     "race": "Tyrant",
@@ -809,6 +899,7 @@ const SH2_DEMON_DATA = {
     "stats": [13, 30, 20, 23, 17]
   },
   "Kinmamon": {
+    "inherits": "--o-oo-ooo-",
     "lvl": 34,
     "price": 136782,
     "race": "Megami",
@@ -823,6 +914,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 20, 12, 14, 11]
   },
   "Kodama": {
+    "inherits": "oo-oo-oooo-",
     "lvl": 25,
     "price": 81000,
     "race": "Jirae",
@@ -837,6 +929,7 @@ const SH2_DEMON_DATA = {
     "stats": [9, 9, 9, 13, 10]
   },
   "Koppa Tengu": {
+    "inherits": "-o--oooooo-",
     "lvl": 17,
     "price": 37740,
     "race": "Yoma",
@@ -850,6 +943,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 10, 6, 9, 5]
   },
   "Koropokkur": {
+    "inherits": "oo--oo-ooo-",
     "lvl": 10,
     "price": 18000,
     "race": "Jirae",
@@ -863,6 +957,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 5, 5, 6, 3]
   },
   "Kresnik": {
+    "inherits": "oooo----oo-",
     "lvl": 58,
     "price": 395850,
     "race": "Genma",
@@ -877,6 +972,7 @@ const SH2_DEMON_DATA = {
     "stats": [33, 13, 20, 14, 19]
   },
   "Kudlak": {
+    "inherits": "oo-o--oooo-",
     "lvl": 59,
     "price": 419490,
     "race": "Night",
@@ -891,6 +987,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 33, 16, 23, 16]
   },
   "Kurama Tengu": {
+    "inherits": "oo-oo---oo-",
     "lvl": 21,
     "price": 61131,
     "race": "Genma",
@@ -905,14 +1002,20 @@ const SH2_DEMON_DATA = {
     "stats": [9, 9, 9, 9, 8]
   },
   "Kusi Mitama": {
+    "inherits": "-o--o--oooo",
     "lvl": 41,
-    "price": 0,
+    "price": 326114,
     "race": "Mitama",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "--w--s-",
+    "skills": {
+      "Qigong": 0,
+      "Amrita": 42,
+      "Null Dread": 43
+    },
+    "stats": [9, 19, 12, 17, 18]
   },
   "Lamia": {
+    "inherits": "-o-o-ooooo-",
     "lvl": 30,
     "price": 105000,
     "race": "Femme",
@@ -927,6 +1030,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 14, 7, 11, 16]
   },
   "Leanan Sidhe": {
+    "inherits": "---o-ooooo-",
     "lvl": 22,
     "price": 75768,
     "race": "Femme",
@@ -941,6 +1045,7 @@ const SH2_DEMON_DATA = {
     "stats": [9, 13, 5, 9, 9]
   },
   "Lemon Frost": {
+    "inherits": "oo-o-o-oooo",
     "lvl": 21,
     "price": 123320,
     "race": "Element",
@@ -953,6 +1058,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 7, 11, 8, 7]
   },
   "Lilim": {
+    "inherits": "--o--oooooo",
     "lvl": 26,
     "price": 81926,
     "race": "Night",
@@ -967,6 +1073,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 13, 8, 11, 11]
   },
   "Lilith": {
+    "inherits": "-oooo-ooooo",
     "lvl": 93,
     "price": 956319,
     "race": "Night",
@@ -981,6 +1088,7 @@ const SH2_DEMON_DATA = {
     "stats": [22, 50, 20, 39, 22]
   },
   "Loa": {
+    "inherits": "--oo--oo-o-",
     "lvl": 18,
     "price": 44460,
     "race": "Jaki",
@@ -994,6 +1102,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 9, 7, 9, 7]
   },
   "Loki": {
+    "inherits": "---ooooo-o-",
     "lvl": 54,
     "price": 419580,
     "race": "Tyrant",
@@ -1008,6 +1117,7 @@ const SH2_DEMON_DATA = {
     "stats": [14, 30, 15, 21, 15]
   },
   "Mad Gasser": {
+    "inherits": "ooo--oo--o-",
     "lvl": 12,
     "price": 23040,
     "race": "Rumor",
@@ -1021,6 +1131,7 @@ const SH2_DEMON_DATA = {
     "stats": [5, 6, 6, 6, 7]
   },
   "Makami": {
+    "inherits": "ooo-o---oo-",
     "lvl": 15,
     "price": 28875,
     "race": "Avatar",
@@ -1035,6 +1146,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 6, 7, 9, 5]
   },
   "Mara": {
+    "inherits": "ooooooooooo",
     "lvl": 62,
     "price": 457999,
     "race": "Tyrant",
@@ -1043,6 +1155,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Masakado": {
+    "inherits": "ooooooooooo",
     "lvl": 62,
     "price": 457999,
     "race": "Hero",
@@ -1051,6 +1164,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Melchizedek": {
+    "inherits": "o-ooo--ooo-",
     "lvl": 27,
     "price": 92002,
     "race": "Herald",
@@ -1065,6 +1179,7 @@ const SH2_DEMON_DATA = {
     "stats": [14, 10, 11, 11, 6]
   },
   "Melon Frost": {
+    "inherits": "oo-oo--oooo",
     "lvl": 9,
     "price": 48710,
     "race": "Element",
@@ -1077,6 +1192,7 @@ const SH2_DEMON_DATA = {
     "stats": [4, 6, 4, 5, 7]
   },
   "Mermaid": {
+    "inherits": "---o--oooo-",
     "lvl": 10,
     "price": 20550,
     "race": "Femme",
@@ -1090,14 +1206,22 @@ const SH2_DEMON_DATA = {
     "stats": [3, 6, 5, 4, 8]
   },
   "Metatron": {
+    "inherits": "-ooo-ooooo-",
     "lvl": 91,
     "price": 956999,
     "race": "Herald",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "s-snnw-",
+    "skills": {
+      "Megidolaon": 0,
+      "Maziodyne": 0,
+      "Luster Candy": 92,
+      "Debilitate": 93,
+      "Victory Cry": 94
+    },
+    "stats": [19, 52, 24, 34, 23]
   },
   "Milk-kin Frost": {
+    "inherits": "oo-o--ooooo",
     "lvl": 31,
     "price": 255530,
     "race": "Element",
@@ -1110,6 +1234,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 14, 9, 13, 11]
   },
   "Mishaguji": {
+    "inherits": "ooo--ooo-o-",
     "lvl": 19,
     "price": 48165,
     "race": "Vile",
@@ -1123,6 +1248,7 @@ const SH2_DEMON_DATA = {
     "stats": [11, 8, 8, 9, 6]
   },
   "Mithras": {
+    "inherits": "oo-o--ooooo",
     "lvl": 32,
     "price": 123967,
     "race": "Tyrant",
@@ -1136,6 +1262,7 @@ const SH2_DEMON_DATA = {
     "stats": [9, 20, 9, 13, 11]
   },
   "Mokoi": {
+    "inherits": "ooo--oo-oo-",
     "lvl": 7,
     "price": 11340,
     "race": "Night",
@@ -1149,6 +1276,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 2, 6, 5, 3]
   },
   "Mot": {
+    "inherits": "ooooooooooo",
     "lvl": 76,
     "price": 712999,
     "race": "Reaper",
@@ -1157,6 +1285,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Mothman": {
+    "inherits": "----ooooooo",
     "lvl": 33,
     "price": 124179,
     "race": "Wilder",
@@ -1171,6 +1300,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 11, 9, 17, 10]
   },
   "Muu Shuwuu": {
+    "inherits": "-o-o-o--oo-",
     "lvl": 28,
     "price": 95424,
     "race": "Raptor",
@@ -1185,6 +1315,7 @@ const SH2_DEMON_DATA = {
     "stats": [11, 14, 7, 12, 10]
   },
   "Nekomata": {
+    "inherits": "oo--o---ooo",
     "lvl": 36,
     "price": 161280,
     "race": "Beast",
@@ -1199,6 +1330,7 @@ const SH2_DEMON_DATA = {
     "stats": [15, 12, 9, 18, 10]
   },
   "Nemissa": {
+    "inherits": "ooooooooooo",
     "lvl": 60,
     "price": 468999,
     "race": "Cyber",
@@ -1207,6 +1339,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Nezha Taizi": {
+    "inherits": "ooo-----oo-",
     "lvl": 38,
     "price": 167504,
     "race": "Genma",
@@ -1221,17 +1354,20 @@ const SH2_DEMON_DATA = {
     "stats": [23, 9, 14, 10, 13]
   },
   "Nigi Mitama": {
+    "inherits": "o--o--ooooo",
     "lvl": 38,
-    "price": 0,
+    "price": 253347,
     "race": "Mitama",
     "resists": "---sw--",
     "skills": {
       "Rakukaja": 0,
-      "Me Lourdes": 39
+      "Me Lourdes": 39,
+      "Null Seal": 40
     },
     "stats": [10, 18, 11, 15, 14]
   },
   "Norn": {
+    "inherits": "---ooo-ooo-",
     "lvl": 86,
     "price": 957180,
     "race": "Megami",
@@ -1246,6 +1382,7 @@ const SH2_DEMON_DATA = {
     "stats": [18, 49, 23, 32, 22]
   },
   "Nozuchi": {
+    "inherits": "oo---oo--o-",
     "lvl": 19,
     "price": 51870,
     "race": "Snake",
@@ -1260,6 +1397,7 @@ const SH2_DEMON_DATA = {
     "stats": [10, 6, 10, 6, 8]
   },
   "Nue": {
+    "inherits": "oo-o-oo--o-",
     "lvl": 47,
     "price": 314900,
     "race": "Wilder",
@@ -1274,6 +1412,7 @@ const SH2_DEMON_DATA = {
     "stats": [28, 20, 10, 16, 8]
   },
   "Oberon": {
+    "inherits": "o---ooooooo",
     "lvl": 74,
     "price": 765160,
     "race": "Fairy",
@@ -1288,6 +1427,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 34, 20, 28, 26]
   },
   "Okuninushi": {
+    "inherits": "o--oo--oooo",
     "lvl": 90,
     "price": 792000,
     "race": "Kishin",
@@ -1302,6 +1442,7 @@ const SH2_DEMON_DATA = {
     "stats": [38, 19, 43, 22, 30]
   },
   "Onmoraki": {
+    "inherits": "ooo---o--o-",
     "lvl": 5,
     "price": 6875,
     "race": "Raptor",
@@ -1314,6 +1455,7 @@ const SH2_DEMON_DATA = {
     "stats": [4, 5, 4, 5, 2]
   },
   "Orobas": {
+    "inherits": "o-o-o-oooo-",
     "lvl": 36,
     "price": 156240,
     "race": "Fallen",
@@ -1328,6 +1470,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 19, 6, 17, 12]
   },
   "Orthrus": {
+    "inherits": "ooo-o-oo-oo",
     "lvl": 46,
     "price": 258060,
     "race": "Beast",
@@ -1342,6 +1485,7 @@ const SH2_DEMON_DATA = {
     "stats": [25, 18, 16, 12, 10]
   },
   "Oyamatsumi": {
+    "inherits": "oooo----oo-",
     "lvl": 48,
     "price": 277440,
     "race": "Kishin",
@@ -1356,6 +1500,7 @@ const SH2_DEMON_DATA = {
     "stats": [25, 11, 29, 11, 10]
   },
   "Parvati": {
+    "inherits": "-ooo--ooooo",
     "lvl": 74,
     "price": 678210,
     "race": "Megami",
@@ -1369,6 +1514,7 @@ const SH2_DEMON_DATA = {
     "stats": [16, 38, 26, 30, 21]
   },
   "Pazuzu": {
+    "inherits": "--o-o-oooo-",
     "lvl": 53,
     "price": 309520,
     "race": "Vile",
@@ -1383,6 +1529,7 @@ const SH2_DEMON_DATA = {
     "stats": [11, 30, 15, 21, 15]
   },
   "Pixie": {
+    "inherits": "-oo--o-ooo-",
     "lvl": 1,
     "price": 1155,
     "race": "Fairy",
@@ -1395,6 +1542,7 @@ const SH2_DEMON_DATA = {
     "stats": [2, 3, 2, 3, 5]
   },
   "Poltergeist": {
+    "inherits": "-o-o--o-oo-",
     "lvl": 1,
     "price": 1155,
     "race": "Rumor",
@@ -1407,6 +1555,7 @@ const SH2_DEMON_DATA = {
     "stats": [2, 4, 2, 3, 4]
   },
   "Power": {
+    "inherits": "ooo-o--ooo-",
     "lvl": 43,
     "price": 216720,
     "race": "Divine",
@@ -1421,6 +1570,7 @@ const SH2_DEMON_DATA = {
     "stats": [22, 20, 13, 11, 10]
   },
   "Principality": {
+    "inherits": "-oo-o--ooo-",
     "lvl": 32,
     "price": 124799,
     "race": "Divine",
@@ -1435,6 +1585,7 @@ const SH2_DEMON_DATA = {
     "stats": [14, 11, 10, 15, 10]
   },
   "Qing Long": {
+    "inherits": "-o-o-oo-oo-",
     "lvl": 14,
     "price": 33796,
     "race": "Dragon",
@@ -1448,6 +1599,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 6, 9, 6, 5]
   },
   "Quetzalcoatl": {
+    "inherits": "oo-o-o-ooo-",
     "lvl": 34,
     "price": 134946,
     "race": "Dragon",
@@ -1462,6 +1614,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 16, 17, 8, 9]
   },
   "Rakshasa": {
+    "inherits": "oo----o--oo",
     "lvl": 45,
     "price": 248625,
     "race": "Jaki",
@@ -1476,6 +1629,7 @@ const SH2_DEMON_DATA = {
     "stats": [27, 10, 15, 12, 14]
   },
   "Rangda": {
+    "inherits": "ooo-o-o-ooo",
     "lvl": 62,
     "price": 457560,
     "race": "Femme",
@@ -1490,22 +1644,35 @@ const SH2_DEMON_DATA = {
     "stats": [15, 32, 17, 24, 17]
   },
   "Saki Mitama": {
+    "inherits": "oo---oo-o-o",
     "lvl": 46,
-    "price": 0,
+    "price": 333884,
     "race": "Mitama",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "---ws--",
+    "skills": {
+      "Sukukaja": 0,
+      "Stagehand's Stealth": 47,
+      "Life Drainage": 48
+    },
+    "stats": [10, 26, 13, 18, 14]
   },
   "Sandalphon": {
+    "inherits": "-oooo--oooo",
     "lvl": 50,
     "price": 306999,
     "race": "Herald",
-    "resists": "-------",
-    "skills": {},
-    "stats": [0, 0, 0, 0, 0]
+    "resists": "-ws--ns",
+    "skills": {
+      "Maragidyne": 0,
+      "Mazandyne": 0,
+      "Bloodlust": 51,
+      "Mediarahan": 52,
+      "Sabbath Rally": 53
+    },
+    "stats": [10, 28, 17, 20, 14]
   },
   "Sandman": {
+    "inherits": "oo--o-o--o-",
     "lvl": 16,
     "price": 38880,
     "race": "Night",
@@ -1520,6 +1687,7 @@ const SH2_DEMON_DATA = {
     "stats": [6, 8, 7, 8, 8]
   },
   "Satan": {
+    "inherits": "ooooooooooo",
     "lvl": 90,
     "price": 956999,
     "race": "Tyrant",
@@ -1532,6 +1700,7 @@ const SH2_DEMON_DATA = {
     "stats": [23, 48, 26, 34, 22]
   },
   "Saturnus": {
+    "inherits": "ooo--ooo-oo",
     "lvl": 70,
     "price": 551250,
     "race": "Vile",
@@ -1546,6 +1715,7 @@ const SH2_DEMON_DATA = {
     "stats": [26, 36, 20, 20, 10]
   },
   "Scathach": {
+    "inherits": "-o-ooo-ooo-",
     "lvl": 44,
     "price": 232320,
     "race": "Megami",
@@ -1560,6 +1730,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 24, 11, 14, 10]
   },
   "Setanta": {
+    "inherits": "oo--o----o-",
     "lvl": 30,
     "price": 123750,
     "race": "Fairy",
@@ -1574,6 +1745,7 @@ const SH2_DEMON_DATA = {
     "stats": [19, 7, 11, 12, 6]
   },
   "Seth": {
+    "inherits": "oo--oooo-oo",
     "lvl": 95,
     "price": 1065187,
     "race": "Vile",
@@ -1588,6 +1760,7 @@ const SH2_DEMON_DATA = {
     "stats": [52, 20, 31, 21, 30]
   },
   "Shiisaa": {
+    "inherits": "oo---oo-o-o",
     "lvl": 22,
     "price": 65604,
     "race": "Holy",
@@ -1602,6 +1775,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 10, 9, 9, 5]
   },
   "Shiva": {
+    "inherits": "ooo--ooooo-",
     "lvl": 85,
     "price": 780937,
     "race": "Fury",
@@ -1616,6 +1790,7 @@ const SH2_DEMON_DATA = {
     "stats": [46, 48, 10, 28, 10]
   },
   "Silky": {
+    "inherits": "---oo---oo-",
     "lvl": 40,
     "price": 198000,
     "race": "Fairy",
@@ -1630,6 +1805,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 23, 10, 16, 14]
   },
   "Skadi": {
+    "inherits": "-o-o--ooooo",
     "lvl": 64,
     "price": 537600,
     "race": "Lady",
@@ -1644,6 +1820,7 @@ const SH2_DEMON_DATA = {
     "stats": [21, 25, 14, 29, 19]
   },
   "Sraosha": {
+    "inherits": "ooooooooooo",
     "lvl": 71,
     "price": 600999,
     "race": "Herald",
@@ -1652,6 +1829,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Strawberry Frost": {
+    "inherits": "oooo---oooo",
     "lvl": 26,
     "price": 163520,
     "race": "Element",
@@ -1664,6 +1842,7 @@ const SH2_DEMON_DATA = {
     "stats": [14, 7, 11, 11, 8]
   },
   "Succubus": {
+    "inherits": "--oo--oooo-",
     "lvl": 44,
     "price": 232320,
     "race": "Night",
@@ -1678,6 +1857,7 @@ const SH2_DEMON_DATA = {
     "stats": [10, 20, 10, 12, 24]
   },
   "Sudama": {
+    "inherits": "-o--ooo-oo-",
     "lvl": 42,
     "price": 214830,
     "race": "Jirae",
@@ -1692,6 +1872,7 @@ const SH2_DEMON_DATA = {
     "stats": [17, 14, 10, 20, 14]
   },
   "Sukuna-Hikona": {
+    "inherits": "oo-oo--oooo",
     "lvl": 22,
     "price": 66528,
     "race": "Kishin",
@@ -1706,6 +1887,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 11, 8, 12, 10]
   },
   "Surt": {
+    "inherits": "o-o-oo-ooo-",
     "lvl": 45,
     "price": 241312,
     "race": "Tyrant",
@@ -1720,6 +1902,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 25, 20, 7, 8]
   },
   "Take-Minakata": {
+    "inherits": "oooo-o--oo-",
     "lvl": 14,
     "price": 30940,
     "race": "Kishin",
@@ -1734,6 +1917,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 8, 10, 6, 3]
   },
   "Thor": {
+    "inherits": "o-o--ooooo-",
     "lvl": 64,
     "price": 537600,
     "race": "Kishin",
@@ -1748,6 +1932,7 @@ const SH2_DEMON_DATA = {
     "stats": [29, 21, 26, 17, 20]
   },
   "Thoth": {
+    "inherits": "--oo-o-o-o-",
     "lvl": 23,
     "price": 71208,
     "race": "Deity",
@@ -1762,6 +1947,7 @@ const SH2_DEMON_DATA = {
     "stats": [7, 13, 8, 11, 10]
   },
   "Throne": {
+    "inherits": "ooo--o-ooo-",
     "lvl": 63,
     "price": 457537,
     "race": "Divine",
@@ -1776,6 +1962,7 @@ const SH2_DEMON_DATA = {
     "stats": [23, 33, 17, 21, 12]
   },
   "Thunderbird": {
+    "inherits": "oo-o-o-ooo-",
     "lvl": 53,
     "price": 415917,
     "race": "Avian",
@@ -1790,6 +1977,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 27, 13, 33, 11]
   },
   "Titania": {
+    "inherits": "---oo-o-oo-",
     "lvl": 54,
     "price": 419580,
     "race": "Fairy",
@@ -1804,6 +1992,7 @@ const SH2_DEMON_DATA = {
     "stats": [21, 30, 11, 16, 15]
   },
   "Tsuchigumo": {
+    "inherits": "oo---oo--o-",
     "lvl": 4,
     "price": 5760,
     "race": "Jirae",
@@ -1817,6 +2006,7 @@ const SH2_DEMON_DATA = {
     "stats": [6, 2, 3, 3, 2]
   },
   "Turbo Granny": {
+    "inherits": "oo--o-o--o-",
     "lvl": 24,
     "price": 77616,
     "race": "Rumor",
@@ -1830,6 +2020,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 6, 7, 15, 11]
   },
   "Tzitzimitl": {
+    "inherits": "ooooooooooo",
     "lvl": 24,
     "price": 77999,
     "race": "Tyrant",
@@ -1838,6 +2029,7 @@ const SH2_DEMON_DATA = {
     "stats": [0, 0, 0, 0, 0]
   },
   "Unicorn": {
+    "inherits": "oo-o-o-ooo-",
     "lvl": 42,
     "price": 221340,
     "race": "Holy",
@@ -1852,6 +2044,7 @@ const SH2_DEMON_DATA = {
     "stats": [12, 21, 12, 17, 13]
   },
   "Valkyrie": {
+    "inherits": "oo--o---oo-",
     "lvl": 48,
     "price": 277440,
     "race": "Yoma",
@@ -1866,6 +2059,7 @@ const SH2_DEMON_DATA = {
     "stats": [28, 11, 12, 17, 16]
   },
   "Vasuki": {
+    "inherits": "-o-o--oo-o-",
     "lvl": 37,
     "price": 163447,
     "race": "Drake",
@@ -1880,6 +2074,7 @@ const SH2_DEMON_DATA = {
     "stats": [18, 18, 9, 15, 10]
   },
   "Vouivre": {
+    "inherits": "o-o-oo-ooo-",
     "lvl": 39,
     "price": 177177,
     "race": "Snake",
@@ -1894,6 +2089,7 @@ const SH2_DEMON_DATA = {
     "stats": [10, 23, 11, 16, 11]
   },
   "Vritra": {
+    "inherits": "o--o-o--oo-",
     "lvl": 49,
     "price": 338100,
     "race": "Dragon",
@@ -1908,6 +2104,7 @@ const SH2_DEMON_DATA = {
     "stats": [20, 20, 23, 9, 13]
   },
   "Xuanwu": {
+    "inherits": "-o-oo---oo-",
     "lvl": 29,
     "price": 104443,
     "race": "Avatar",
@@ -1922,6 +2119,7 @@ const SH2_DEMON_DATA = {
     "stats": [14, 7, 14, 9, 11]
   },
   "Yamata-no-Orochi": {
+    "inherits": "ooo---o--o-",
     "lvl": 55,
     "price": 350625,
     "race": "Snake",
@@ -1936,6 +2134,7 @@ const SH2_DEMON_DATA = {
     "stats": [29, 12, 35, 14, 5]
   },
   "Yatagarasu": {
+    "inherits": "o-o-o--oooo",
     "lvl": 27,
     "price": 91368,
     "race": "Avian",
@@ -1950,17 +2149,22 @@ const SH2_DEMON_DATA = {
     "stats": [11, 14, 6, 14, 7]
   },
   "Yoshitsune": {
+    "inherits": "o-o--o---oo",
     "lvl": 39,
     "price": 177999,
     "race": "Hero",
     "resists": "n-s-nw-",
     "skills": {
       "Bamboo Slice": 0,
-      "Zionga": 0
+      "Zionga": 0,
+      "Sabbath Striker": 40,
+      "Charge": 41,
+      "Qigong": 42
     },
     "stats": [24, 9, 14, 22, 5]
   },
   "Yurlungur": {
+    "inherits": "o-oo-ooooo-",
     "lvl": 85,
     "price": 780937,
     "race": "Snake",
@@ -1975,6 +2179,7 @@ const SH2_DEMON_DATA = {
     "stats": [47, 18, 32, 19, 25]
   },
   "Zaou-Gongen": {
+    "inherits": "ooooooooooo",
     "lvl": 46,
     "price": 258999,
     "race": "Fury",
@@ -1988,6 +2193,7 @@ const SH2_DEMON_DATA = {
     "stats": [14, 26, 12, 20, 11]
   },
   "Zeus": {
+    "inherits": "---ooooooo-",
     "lvl": 75,
     "price": 712500,
     "race": "Deity",
@@ -2002,6 +2208,7 @@ const SH2_DEMON_DATA = {
     "stats": [15, 41, 25, 28, 19]
   },
   "Zhen": {
+    "inherits": "o---o-oo-oo",
     "lvl": 16,
     "price": 37440,
     "race": "Raptor",
@@ -2016,6 +2223,7 @@ const SH2_DEMON_DATA = {
     "stats": [5, 8, 6, 11, 7]
   },
   "Zhu Tun She": {
+    "inherits": "oo-o---o-o-",
     "lvl": 11,
     "price": 18755,
     "race": "Drake",
@@ -2029,6 +2237,7 @@ const SH2_DEMON_DATA = {
     "stats": [8, 3, 8, 6, 4]
   },
   "Zhuque": {
+    "inherits": "--o--o-ooo-",
     "lvl": 44,
     "price": 225280,
     "race": "Avian",
