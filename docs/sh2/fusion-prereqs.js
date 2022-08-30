@@ -12,5 +12,5 @@ const SH2_FUSION_PREREQS = {
   "Kusi Mitama": "Clear \"Retrieve Orb Crystaloid Gamma\"",
   "Dionysus": "Defeat in Saizo's Soul Matrix 1F",
   "Chernobog": "Defeat in Saizo's Soul Matrix 3F",
-  "Black Frost": "Clear \"Night of the Living Snowman"",
+  "Black Frost": "Clear \"Night of the Living Snowman\"",
 }
