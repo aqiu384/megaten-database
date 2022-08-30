@@ -14,7 +14,7 @@ const SH2_SPECIAL_RECIPES = {
   "Saki Mitama": ["B-Hawaii Frost x Milk-kin Frost", "Lemon Frost x Strawberry Frost"],
   "Kusi Mitama": ["B-Hawaii Frost x Strawberry Frost", "Melon Frost x Lemon Frost"],
   "Nigi Mitama": ["Melon Frost x Milk-kin Frost", "B-Hawaii Frost x Melon Frost"],
-  "Ara Mitama": ["Strawberry Frost x Milk-kin Frost", "Lemon Frost x Milk-kin Frost", "B-Hawaii Frost x Lemon Frost" "Melon Frost x Strawberry Frost"],
+  "Ara Mitama": ["Strawberry Frost x Milk-kin Frost", "Lemon Frost x Milk-kin Frost", "B-Hawaii Frost x Lemon Frost", "Melon Frost x Strawberry Frost"],
 
   "Ai-ho": ["Jack Frost", "Cironnup"]
 }
