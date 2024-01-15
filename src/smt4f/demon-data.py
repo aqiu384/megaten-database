@@ -8,14 +8,23 @@ END_OFFSET = 5*LINE_LEN
 OLD_AILMENTS = ['Bind', 'Charm', 'Daze', 'Mute', 'Panic', 'Poison', 'Sick', 'Sleep']
 
 RESIST_LVLS = {
-    20: 's',
-    16: 'd',
-    12: 'r',
-    9: 'w',
-    8: 'w',
-    4: 'n',
-    1: '-',
-    0: '-'
+    0: '-',
+    1: 'n',
+    2: 'w',
+    3: 'r',
+    4: 'd',
+    5: 's'
+}
+
+RESIST_MODS = {
+    'd': 100,
+    'r': 100,
+    'n': 100,
+    's': 50,
+    '-': 100,
+    'w': 125,
+    'W': 200,
+    'X': 300
 }
 
 AILMENTS = [
@@ -34,7 +43,7 @@ AILMENTS = [
     'ELEM_021'
 ]
 
-AILMENT_ORDER = [1 + 2*AILMENTS.index(x) for x in OLD_AILMENTS]
+AILMENT_ORDER = [AILMENTS.index(x) for x in OLD_AILMENTS]
 
 with open('data/demon-data.json') as jsonfile:
     OLD_DEMONS = json.load(jsonfile)
@@ -51,10 +60,17 @@ def printif_notequal(dname, field, lhs, rhs):
     if str(lhs) != str(rhs):
         print(dname, field, lhs, rhs)
 
+def list_to_string(l):
+    return '[' + ', '.join(str(x) for x in l) + ']'
+
 def save_ordered_demons(demons, fname):
     for entry in demons.values():
-        entry['stats'] = '[' + ', '.join(str(x) for x in entry['stats']) + ']'
-        entry['affinities'] = '[' + ', '.join(str(x) for x in entry['affinities']) + ']'
+        if 'resmods' in entry:
+            entry['resmods'] = list_to_string(entry['resmods'])
+        if 'ailmods' in entry:
+            entry['ailmods'] = list_to_string(entry['ailmods'])
+        entry['stats'] = list_to_string(entry['stats'])
+        entry['affinities'] = list_to_string(entry['affinities'])
         nskills = sorted(entry['skills'].items(), key=lambda x: x[1])
         nskills = '{||      ' + ',||      '.join(f'|{x[0]}|: {x[1]}' for x in nskills) + '||    }'
         entry['skills'] = nskills
@@ -81,8 +97,8 @@ for d_id, line_start in enumerate(range(START_OFFSET, len(NEW_DEMONS) - END_OFFS
     stats = struct.unpack('<5H', line[0x1E:0x28])
     innate = struct.unpack('<8H', line[0x40:0x50])
     learned = struct.unpack('<16H', line[0x50:0x70])
-    full_resists = struct.unpack('<16B', line[0x70:0x80])
-    full_ailments = struct.unpack('<26B', line[0x80:0x9A])
+    full_resists = struct.unpack('<8H', line[0x70:0x80])
+    full_ailments = struct.unpack('<13H', line[0x80:0x9A])
     full_affinities = struct.unpack('<16b', line[0xA2:0xB2])
 
     printif_notequal(dname, 'd_id', d_id, new_d_id)
@@ -90,13 +106,32 @@ for d_id, line_start in enumerate(range(START_OFFSET, len(NEW_DEMONS) - END_OFFS
     printif_notequal(dname, 'lvl', demon['lvl'], dlvl)
     printif_notequal(dname, 'stats', demon['stats'][2:], list(stats))
 
-    resists = ''.join(RESIST_LVLS[x] for x in full_resists[1::2])
-    ailments = ''.join(RESIST_LVLS[full_ailments[x]] for x in AILMENT_ORDER)
+    resists = ''.join(RESIST_LVLS[x >> 10] for x in full_resists)
+    ailments = ''.join(RESIST_LVLS[full_ailments[x] >> 10] for x in AILMENT_ORDER)
     affinities = list(full_affinities[:8]) + [full_affinities[x] for x in (8, 12, 10, 14)]
+    res_mods = [x & 0x3FF for x in full_resists]
+    ail_mods = [full_ailments[x] & 0x3FF for x in AILMENT_ORDER]
 
-    printif_notequal(dname, 'resists', demon['resists'], resists)
-    printif_notequal(dname, 'ailments', demon.get('ailments', '--------'), ailments)
+    old_resists = demon['resists']
+    old_ailments = demon.get('ailments', '--------')
+    old_res_mods = demon.get('resmods', [0]*8).copy()
+    old_ail_mods = demon.get('ailmods', [0]*8).copy()
+
+    for i, res_mod in enumerate(old_res_mods):
+        if res_mod == 0:
+            old_res_mods[i] = RESIST_MODS[old_resists[i]]
+    for i, ail_mod in enumerate(old_ail_mods):
+        if ail_mod == 0:
+            old_ail_mods[i] = RESIST_MODS[old_ailments[i]]
+
+    old_resists = old_resists.replace('W', 'w').replace('X', 'w')
+    old_ailments = old_ailments.replace('W', 'w').replace('X', 'w')
+
+    printif_notequal(dname, 'resists', old_resists, resists)
+    printif_notequal(dname, 'ailments', old_ailments, ailments)
     printif_notequal(dname, 'affinities', demon['affinities'], affinities)
+    printif_notequal(dname, 'res_mods', old_res_mods, res_mods)
+    printif_notequal(dname, 'ail_mods', old_ail_mods, ail_mods)
 
     skills = demon['skills']
 
@@ -119,4 +154,4 @@ for d_id, line_start in enumerate(range(START_OFFSET, len(NEW_DEMONS) - END_OFFS
         else:
             skills[sname] = slvl
 
-save_ordered_demons(OLD_DEMONS, 'new-demon-data.json')
+save_ordered_demons(OLD_DEMONS, 'demon-data.json')
