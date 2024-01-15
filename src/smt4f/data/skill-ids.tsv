@@ -24,7 +24,7 @@ Mazionga
 Maziodyne
 Shock
 Thunder Reign
-SKILL_027
+Singularity Hellfire
 Zan
 Zanma
 Zandyne
@@ -88,7 +88,7 @@ Salvation
 Patra
 Me Patra
 Posumudi
-SKILL_091
+Royal Curse
 Amrita
 Recarm
 Samarecarm
@@ -114,7 +114,7 @@ Fog Breath
 Acid Breath
 Taunt
 Critical Eye
-SKILL_117
+Grave Judgment
 Tetrakarn
 Makarakarn
 Tetraja
@@ -123,7 +123,7 @@ Concentrate
 Blood Ritual
 Sabbatma
 Invitation
-SKILL_126
+Judgment Strike
 Bad Company
 SKILL_128
 SKILL_129
@@ -131,20 +131,20 @@ SKILL_130
 SKILL_131
 Smile Charge
 Magaon
-SKILL_134
-SKILL_135
-SKILL_136
+Heavenly Punishment
+Irrational Glimmer
+Evil-crushing Flash
 Trafuri
 Doping
-SKILL_139
+Revelation
 Estoma
 SKILL_141
 SKILL_142
 SKILL_143
 SKILL_144
-SKILL_145
-SKILL_146
-SKILL_147
+Forfeit
+Nightmare
+Bind
 Eternal Rest
 Frenzied Chomp
 Eat Whole
@@ -174,7 +174,7 @@ Mist Rush
 Tetanus Cut
 Dark Sword
 Blight
-SKILL_177
+Singularity Hail
 Binding Claw
 Poison Claw
 Iron Judgement
@@ -250,29 +250,29 @@ SKILL_249
 King Bufula
 SKILL_251
 SKILL_252
-SKILL_253
-SKILL_254
-SKILL_255
-SKILL_256
-SKILL_257
-SKILL_258
-SKILL_259
-SKILL_260
-SKILL_261
-SKILL_262
+Adaptive Tactics
+Alluring Banter
+Dazzle Ray
+Growing Hate
+Fear Darkness
+Zenki's Axe
+Goki's Water Wall
+Peacock Incantation
+Peacock Incantation
+Dark Photon
 Blank Bullet
-SKILL_264
+Black Body Radiation
 Evil Shine
 SKILL_266
 SKILL_267
 Chariot
 SKILL_269
 SKILL_270
-SKILL_271
-SKILL_272
-SKILL_273
-SKILL_274
-SKILL_275
+Singularity Lightning
+Singularity Vortex
+Energy Compression
+Execute Code
+Crack Code
 Combat Tara
 SKILL_277
 SKILL_278
@@ -298,33 +298,33 @@ SKILL_297
 SKILL_298
 SKILL_299
 SKILL_300
-SKILL_301
+Singularity Brand
 SKILL_302
 Tetrabreak
-SKILL_304
-SKILL_305
+Reboot Code
+Singularity Wave
 SKILL_306
-SKILL_307
+Calamity Code
 SKILL_308
 Makarabreak
-SKILL_310
-SKILL_311
+Convergence
+Black Hole
 SKILL_312
-SKILL_313
-SKILL_314
-SKILL_315
-SKILL_316
+Lightspeed Slash
+Crescent Slice
+Morale Boost
+Gideon Bullet
 SKILL_317
 SKILL_318
 SKILL_319
-SKILL_320
+Sonic Shot
 SKILL_321
 Snake's Fangs
-SKILL_323
-SKILL_324
-SKILL_325
-SKILL_326
-SKILL_327
+Warrior's Spirit
+Freikugel
+Magma Axis
+Gaea Rage
+Deadly Fury
 SKILL_328
 SKILL_329
 SKILL_330
@@ -353,9 +353,9 @@ True Zandyne
 Magic Torrent
 Vengeful Thunder
 SKILL_355
-SKILL_356
-SKILL_357
-SKILL_358
+Wave Function
+Pair Production
+Particle Annihilation
 SKILL_359
 Rending Claws
 Severe Judgement
@@ -476,8 +476,8 @@ Attack Knowhow
 Repel Light
 Light Life Aid
 Light Mana Aid
-SKILL_479
-SKILL_480
+Light Pierce
+Dark Pierce
 Drain Light
 Hellish Mask
 Hard Worker
