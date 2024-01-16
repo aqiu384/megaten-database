@@ -2,10 +2,11 @@
 import struct
 import json
 
-LINE_LEN = 0xB4
-START_OFFSET = 0x96 + 3*LINE_LEN
-END_OFFSET = 5*LINE_LEN
-OLD_AILMENTS = ['Bind', 'Charm', 'Daze', 'Mute', 'Panic', 'Poison', 'Sick', 'Sleep']
+LINE_LEN = 0x94
+START_OFFSET = 0x00 + 0*LINE_LEN
+END_OFFSET = 0*LINE_LEN
+OLD_RESISTS = ['phy', 'gun', 'fir', 'ice', 'ele', 'for', 'lig', 'dar']
+OLD_AILMENTS = ['Bind', 'Panic', 'Poison', 'Sick', 'Sleep']
 
 RESIST_LVLS = {
     0: '-',
@@ -35,12 +36,7 @@ AILMENTS = [
     'Panic',
     'Sleep',
     'Bind',
-    'Sick',
-    'ELEM_017',
-    'Charm',
-    'Daze',
-    'Mute',
-    'ELEM_021'
+    'Sick'
 ]
 
 AILMENT_ORDER = [AILMENTS.index(x) for x in OLD_AILMENTS]
@@ -90,14 +86,13 @@ for d_id, line_start in enumerate(range(START_OFFSET, len(NEW_DEMONS) - END_OFFS
     SEEN_DEMONS[dname] = True
 
     new_d_id = struct.unpack('<1H', line[0x00:0x02])[0]
-    race_id = struct.unpack('<1L', line[0x02:0x06])[0]
-    dlvl = struct.unpack('<1H', line[0x06:0x08])[0]
-    stats = struct.unpack('<5H', line[0x1E:0x28])
-    innate = struct.unpack('<8H', line[0x40:0x50])
-    learned = struct.unpack('<16H', line[0x50:0x70])
-    full_resists = struct.unpack('<8H', line[0x70:0x80])
-    full_ailments = struct.unpack('<13H', line[0x80:0x9A])
-    full_affinities = struct.unpack('<16b', line[0xA2:0xB2])
+    race_id = struct.unpack('<1B', line[0x02:0x03])[0]
+    dlvl = struct.unpack('<1B', line[0x03:0x04])[0]
+    stats = struct.unpack('<5H', line[0x1A:0x24])
+    innate = struct.unpack('<8H', line[0x3C:0x4C])
+    learned = struct.unpack('<16H', line[0x4C:0x6C])
+    full_resists = struct.unpack('<8H', line[0x6C:0x7C])
+    full_ailments = struct.unpack('<8H', line[0x7C:0x8C])
 
     printif_notequal(dname, 'd_id', d_id, new_d_id)
     printif_notequal(dname, 'race', demon['race'], RACE_IDS[race_id])
@@ -106,14 +101,13 @@ for d_id, line_start in enumerate(range(START_OFFSET, len(NEW_DEMONS) - END_OFFS
 
     resists = ''.join(RESIST_LVLS[x >> 10] for x in full_resists)
     ailments = ''.join(RESIST_LVLS[full_ailments[x] >> 10] for x in AILMENT_ORDER)
-    affinities = list(full_affinities[:8]) + [full_affinities[x] for x in (8, 12, 10, 14)]
     res_mods = [x & 0x3FF for x in full_resists]
     ail_mods = [full_ailments[x] & 0x3FF for x in AILMENT_ORDER]
 
     old_resists = demon['resists']
-    old_ailments = demon.get('ailments', '--------')
-    old_res_mods = demon.get('resmods', [0]*8).copy()
-    old_ail_mods = demon.get('ailmods', [0]*8).copy()
+    old_ailments = demon.get('ailments', '-'*len(OLD_AILMENTS))
+    old_res_mods = demon.get('resmods', [0]*len(OLD_RESISTS)).copy()
+    old_ail_mods = demon.get('ailmods', [0]*len(OLD_AILMENTS)).copy()
 
     for i, res_mod in enumerate(old_res_mods):
         if res_mod == 0:
@@ -127,7 +121,6 @@ for d_id, line_start in enumerate(range(START_OFFSET, len(NEW_DEMONS) - END_OFFS
 
     printif_notequal(dname, 'resists', old_resists, resists)
     printif_notequal(dname, 'ailments', old_ailments, ailments)
-    printif_notequal(dname, 'affinities', demon['affinities'], affinities)
     printif_notequal(dname, 'res_mods', old_res_mods, res_mods)
     printif_notequal(dname, 'ail_mods', old_ail_mods, ail_mods)
 
