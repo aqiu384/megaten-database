@@ -1,0 +1,255 @@
+item_001	Slightly restores an ally's HP.
+item_002	Moderately restores an ally's HP.
+item_003	Fully restores an ally's HP.
+item_004	Slightly restores an ally's SP.
+item_005	Moderately restores an ally's SP.
+item_006	Fully restores an ally's SP.
+item_007	Fully restores party's HP and SP.
+item_008	Neutralizes Poison (1 ally).
+item_009	Revives an ally, restoring 50% of HP.
+item_00A	Revives an ally, fully restoring HP.
+item_00B	Dispels Panic, Fear, and Distress (party).
+item_00C	Battle: restores ally's HP (Med). Side effect.
+item_00D	Battle: restores ally's HP (Med). Side effect.
+item_00E	Battle: restores ally's HP (Med). Side effect.
+item_00F	Drink at your own risk!
+item_010	Moderately restores party's HP.
+item_011	Cures all ailments except Down and Dizzy.
+item_012	Used to fuse a Persona into a 2h sword.
+item_013	Dispels Rage (1 ally).
+item_014	Dispels Charm (1 ally).
+item_015	ID_015 ID_015
+item_016	Casts Hamaon on 1 enemy.
+item_017	Casts Mudoon on 1 enemy.
+item_018	Briefly raises entire party's strength.
+item_019	Briefly raises entire party's agility.
+item_01A	Briefly raises entire party's defense.
+item_01B	Massive Fire damage to 1 enemy.
+item_01C	Massive Wind damage to 1 enemy.
+item_01D	Massive Ice damage to 1 enemy.
+item_01E	Massive Elec damage to 1 enemy.
+item_01F	ID_01F ID_01F
+item_020	Dispels Panic, Fear, and Distress (1 ally).
+item_021	Enables escape from a dungeon.
+item_022	Fully restores party's HP.
+item_023	Barrier that reflects magic 1x (party).
+item_024	Barrier that reflects phys atk 1x (party).
+item_025	Nullifies stat bonuses (all foes).
+item_026	Nullifies stat penalties (party).
+item_027	Protects self from a Hama/Mudo skill.
+item_028	Miraculously restores party upon your death.
+item_029	Deals medium Fire damage to 1 foe.
+item_02A	Deals light Fire damage to all foes.
+item_02B	Deals medium Ice damage/Freezes 1 foe.
+item_02C	Deals light Ice damage /Freezes all foes.
+item_02D	Deals medium Wind damage to 1 foe.
+item_02E	Deals light Wind damage to all foes.
+item_02F	Deals medium Elec damage/Shocks 1 foe.
+item_030	Deals light Elec dmg/ Shocks all foes.
+item_031	Deals medium Almighty damage to all foes.
+item_032	Guaranteed escape from most battles.
+item_033	???
+item_034	Persona: Luck +1, Strength +1.
+item_035	Persona: Luck +1, Strength +2.
+item_036	Persona: Luck +2, Strength +3.
+item_037	Persona: Luck +2, Strength +4.
+item_038	Persona: Luck +1, Endurance +1.
+item_039	Persona: Luck +1, Endurance +2.
+item_03A	Persona: Luck +2, Endurance +3.
+item_03B	Persona: Luck +2, Endurance +4.
+item_03C	Persona: Luck +1, Magic +1.
+item_03D	Persona: Luck +1, Magic +2.
+item_03E	Persona: Luck +2, Magic +3.
+item_03F	Persona: Luck +2, Magic +4.
+item_040	Persona: Luck +1, Agility +1.
+item_041	Persona: Luck +1, Agility +2.
+item_042	Persona: Luck +2, Agility +3.
+item_043	Persona: Luck +2, Agility +4.
+item_044	???
+item_045	Used to fuse a Persona into a sword.
+item_046	Used to fuse a Persona into a fist weapon.
+item_047	Used to fuse a Persona into a spear.
+item_048	Used to fuse a Persona into a bow.
+item_049	Used to fuse a Persona into an axe.
+item_04A	Used to fuse a Persona into a knife.
+item_04B	Used to fuse a Persona into a gun.
+item_04C	Used to fuse a Persona into a naginata.
+item_04D	Used to fuse a Persona into a 1h sword.
+item_04E	ID_04E ID_04E
+item_04F	ID_04F ID_04F
+item_050	Beautiful rose bundle. Might please someone.
+item_051	Graceful potted tree. Might please someone.
+item_052	Little care required. Might please someone.
+item_053	Elegant vase. Might please someone.
+item_054	Expensive perfume. Might please someone.
+item_055	Designer wallet. Might please someone.
+item_056	Designer watch. Might please someone.
+item_057	Designer handbag. Might please someone.
+item_058	Cute stuffed animal. Might please someone.
+item_059	Her hair really grows! Might please someone.
+item_05A	See a colorful world! Might please someone.
+item_05B	Almost looks real! Might please someone.
+item_05C	Adorable character. Might please someone.
+item_05D	Fancy leather sheath. Might please someone.
+item_05E	Came with your fortune. Might please someone.
+item_05F	Piggy bank of a deity. Might please someone.
+Amethyst	A shiny, purple gemstone.
+Aquamarine	A transparent, turquoise gemstone.
+Emerald	A sparkling, green gemstone.
+Onyx	Black gemstone. It's Greek for "claw."
+Opal	White gemstone that reflects many colors.
+Garnet	Deep violet gemstone.
+Sapphire	Deep blue gemstone.
+Diamond		Beautiful, colorless gemstone.
+Turquoise	A bluish-green, opaque gemstone.
+Topaz	Pale brown gemstone.
+Pearl	Shiny, white gemstone.
+Ruby	Deep red gemstone.
+item_06C	Something other than octopus is inside.
+item_06D	Made of mystery meat.
+item_06E	Expensive, but tastes just like Hagakure's.
+item_06F	Homestyle dish at an affordable price.
+item_070	Salty soda. Popular, but an acquired taste.
+item_071	The most caffeinated drink available.
+item_072	Popular tea often auctioned online.
+item_073	Soda whose slogan is "Kist my full moon!"
+item_074	Beverage imported from Jamaica.
+item_075	Tea that tastes great, despite its name.
+item_076	Keeps you going for 24 hours straight.
+item_077	Comes in 12 different varieties.
+item_078	Soft drink coveted by old-school gamers.
+item_079	Famous coffee, mixed with cough syrup.
+item_07A	Extensively purified tap water.
+item_07B	Soda that simply reeks.
+item_07C	A disturbingly yellow soft drink.
+item_07D	Blended fruit juice. It's huge!
+item_07E	Vegetable juice that will rev your engine.
+item_07F	Sports drink with tons of supplements added.
+item_080	Hard shell obtained from a Grave Beetle.
+item_081	Lantern obtained from a Phantom Mage.
+item_082	The sauce smells delicious.
+item_083	German pastry with apple inside.
+item_084	A filling sandwich. Perfect for lunch!
+item_085	Bread with a faint melon fragrance.
+item_086	It's only shaped like a crab.
+item_087	Deep-fried bread.
+item_088	Delicious coffee-flavored jelly.
+item_089	Rich and moist.
+item_08A	Supposedly, it's edible.
+item_08B	Authentic non-alcoholic champagne.
+item_08C	Yuko's homemade remedy.
+item_08D	A cute keychain that Chihiro made.
+item_08E	???
+item_08F	???
+Wealth Coin	Dusty old coin. It might be valuable.
+Treasure Coin	Dusty old coin. It might be valuable.
+Supreme Coin	Dusty old coin. It might be valuable.
+Opulent Coin	Dusty old coin. It might be valuable.
+Luxury Coin	Dusty old coin. It might be valuable.
+Glorious Coin	Dusty old coin. It might be valuable.
+item_096	Deals high Almighty damage to all foes.
+item_097	Juice filled with tiny chunks of fish cakes.
+item_098	Hoity-toity cat food for fine felines.
+item_099	Shiny and red. It might be valuable.
+item_09A	Shiny and white. It might be valuable.
+item_09B	Shiny and black. It might be valuable.
+item_09C	???
+item_09D	???
+item_09E	Dropped by the Wealth Hand.
+item_09F	Dropped by the Treasure Hand.
+item_0A0	Dropped by the Supreme Hand.
+item_0A1	Dropped by the Opulent Hand.
+item_0A2	Dropped by the Luxury Hand.
+item_0A3	Creepy plastic model of the human body.
+item_0A4	Recording of some really funky music.
+item_0A5	Non-alcoholic, but sophisticated.
+item_0A6	Game piece you got at the mahjong place.
+item_0A7	Sushi that the old lady gave you.
+item_0A8	Dropped by the Glorious Hand.
+item_0A9	Figurine dropped by the Bronze Dice.
+item_0AA	A Lustful Snake's black scale.
+item_0AB	Fragment from a Creation Relic.
+item_0AC	Gear obtained from a Wild Drive.
+item_0AD	Strand of silver hair from a Shouting Tiara.
+item_0AE	A Champion Knight's black reins.
+item_0AF	Hand mirror dropped by an Elegant Mother.
+item_0B0	Handguard dropped by a Hakurou Musha.
+item_0B1	Golden ring dropped by a Wondrous Magus.
+item_0B2	Armor plate dropped by a Scarlet Turret.
+item_0B3	Pink feather of a Devoted Cupid.
+item_0B4	Stone tablet dropped by a Ruinous Idol.
+item_0B5	Grains from inside Perpetual Sand.
+item_0B6	A Daring Gigas's multicolored hair.
+item_0B7	Old button obtained from The Reaper.
+item_0B8	Black stone fragment. It might be valuable.
+item_0B9	Shiny black crystal. It might be valuable.
+item_0BA	Golden mask. It might be valuable.
+item_0BB	Colorful cloth. It might be valuable.
+item_0BC	Large insect horn. It might be valuable.
+item_0BD	Odd-shaped beard. It might be valuable.
+item_0BE	Big tank wheel. It might be valuable.
+item_0BF	Abnormally hard rock. It might be valuable.
+item_0C0	A cracked heart. It might be valuable.
+item_0C1	Very small sculpture. It might be valuable.
+item_0C2	Japanese treat with red bean paste inside.
+item_0C3	Thinly sliced turnip that's been pickled.
+item_0C4	Spiky candies.
+item_0C5	Rice cracker associated with Shinsen-gumi.
+item_0C6	Smells so bad, your appetite disappears.
+item_0C7	Tastes so good, you may overindulge.
+item_0C8	100% veggies.
+item_0C9	Keeps your skin young, but may cause acne.
+item_0CA	Warning: don't consume before a competition.
+item_0CB	Jelly made from tree sap.
+item_0CC	Clears your mind and enhances your memory.
+item_0CD	Works as a disinfectant. It might be valuable.
+item_0CE	Prescription lenses. It might be valuable.
+item_0CF	Shiny baby's toy. It might be valuable.
+item_0D0	For rich allergy victims. It might be valuable.
+item_0D1	Beautiful yet weightless. It might be valuable.
+item_0D2	Mighty steel right arm. It might be valuable.
+item_0D3	A wheel that came off. It might be valuable.
+item_0D4	Beautiful facial hair. It might be valuable.
+item_0D5	Oversized onyx organ. It might be valuable.
+item_0D6	Mysterious burning lump. It might be valuable.
+item_0D7	Mysterious sparking lump. It might be valuable.
+item_0D8	Mysterious freezing lump. It might be valuable.
+item_0D9	A floating throne. It might be valuable.
+item_0DA	Cup with eternal flame. It might be valuable.
+item_0DB	Large, solid red choker. It might be valuable.
+item_0DC	Armor with flaming inlay. It might be valuable.
+item_0DD	Creepy child's ride. It might be valuable.
+item_0DE	An omniscient eye. It might be valuable.
+item_0DF	Knocks down all foes (med odds).
+item_0E0	Deals massive Fire damage to all foes.
+item_0E1	Inflicts random ailments on all foes.
+item_0E2	Invulnerability for 1 turn (party).
+item_0E3	Invulnerability for 1 turn (1 ally), but...
+item_0E4	Unpredictable effect.
+item_0E5	Deals ultimate damage to all foes.
+item_0E6	Restores 50% HP/ Agility up (party).
+item_0E7	Deals heavy Slashing damage to all foes.
+item_0E8	Restores party's HP, but sometimes...
+item_0E9	Charms all foes (high odds).
+item_0EA	Deals medium Ice dmg/ Freezes all foes.
+item_0EB	Combines all -kaja skills on 1 ally.
+item_0EC	Deals heavy Strike damage to all foes.
+item_0ED	Deals heavy Elec dmg/ Shocks all foes.
+item_0EE	Deals severe Almighty damage to all foes.
+item_0EF	Knocks down all foes +Dekaja (med odds).
+item_0F0	Halves all foes' HP via Light magic.
+Malachite	A deep green gem, said to bring harmony.
+item_0F2	Cures an ally's fatigue.
+item_0F3	0x0F3
+item_0F4	0x0F4
+item_0F5	Slightly restores SP. Infinite use.
+item_0F6	Moderately restores HP. Infinite use.
+item_0F7	Made at cooking club. Might make a good gift.
+item_0F8	Made at cooking club. Might make a good gift.
+item_0F9	Made at cooking club. Might make a good gift.
+item_0FA	Made at cooking club. Might make a good gift.
+item_0FB	Made at fashion club. Might make a good gift.
+item_0FC	Knit with fluffy yarn. Might make a good gift.
+item_0FD	A pastel-colored bag. Might make a good gift.
+item_0FE	Knit with hard work. Might make a good gift.
+item_0FF	0x0FF
