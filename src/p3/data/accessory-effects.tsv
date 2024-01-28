@@ -1,0 +1,255 @@
+accessory_001	Strength increases by 1.
+accessory_002	Strength increases by 5.
+accessory_003	Strength increases by 10.
+accessory_004	Strength increases by 4.
+accessory_005	Magic increases by 1.
+accessory_006	Magic increases by 5.
+accessory_007	Magic increases by 10.
+accessory_008	Magic increases by 4.
+accessory_009	Endurance increases by 1.
+accessory_00A	Endurance increases by 5.
+accessory_00B	Endurance increases by 10.
+accessory_00C	Endurance increases by 4.
+accessory_00D	Agility increases by 1.
+accessory_00E	Agility increases by 5.
+accessory_00F	Agility increases by 10.
+accessory_010	Agility increases by 4.
+accessory_011	Luck increases by 1.
+accessory_012	Luck increases by 5.
+accessory_013	Luck increases by 10.
+accessory_014	Luck increases by 4.
+accessory_015	???
+accessory_016	Nullifies Slash damage.
+accessory_017	???
+accessory_018	???
+accessory_019	???
+accessory_01A	Nullifies Strike damage.
+accessory_01B	???
+accessory_01C	???
+accessory_01D	???
+accessory_01E	Nullifies Pierce damage.
+accessory_01F	???
+accessory_020	???
+accessory_021	???
+accessory_022	Nullifies Fire damage.
+accessory_023	???
+accessory_024	???
+accessory_025	???
+accessory_026	Nullifies Ice damage.
+accessory_027	???
+accessory_028	???
+accessory_029	???
+accessory_02A	Nullifies Electricity damage.
+accessory_02B	???
+accessory_02C	???
+accessory_02D	???
+accessory_02E	Nullifies Wind damage.
+accessory_02F	???
+accessory_030	???
+accessory_031	Resistance against Light.
+accessory_032	Nullifies Light.
+accessory_033	???
+accessory_034	Resistance against Darkness.
+accessory_035	Nullifies Darkness.
+accessory_036	???
+accessory_037	Prevents you from becoming Charmed.
+accessory_038	Prevents you from becoming Distressed.
+accessory_039	Prevents you from becoming Panicked.
+accessory_03A	Prevents you from becoming Frightened.
+accessory_03B	Prevents you from becoming Enraged.
+accessory_03C	Prevents you from being Frozen.
+accessory_03D	Prevents you from being Shocked.
+accessory_03E	Prevents you from being Poisoned.
+accessory_03F	Protects you from ailments.
+accessory_040	Nullifies all attacks except Almighty.
+accessory_041	Increases dodge against Slash attacks.
+accessory_042	Higher chance of dodge against Slash attacks.
+accessory_043	Increases chance of dodge against Strikes.
+accessory_044	Higher chance of dodge against Strikes.
+accessory_045	Increases chance of dodge against Piercing.
+accessory_046	Higher chance of dodge against Piercing.
+accessory_047	Increases dodge against Fire attacks.
+accessory_048	Higher chance of dodge against Fire attacks.
+accessory_049	Increases dodge against Ice attacks.
+accessory_04A	Higher chance of dodge against Ice attacks.
+accessory_04B	Increases dodge against Wind attacks.
+accessory_04C	Higher chance of dodge against Wind attacks.
+accessory_04D	Increases dodge against Electricity.
+accessory_04E	Higher chance of dodge against Electricity.
+accessory_04F	Increases Evade against Physical attacks.
+accessory_050	Increases Evade vs Magic attacks (except almighty).
+accessory_051	Increases Fire damage.
+accessory_052	Increases Fire damage by a large amount.
+accessory_053	Increases Ice damage.
+accessory_054	Increases Ice damage by a large amount.
+accessory_055	Increases Electricity damage.
+accessory_056	Increases Electricity dmg by a large amount.
+accessory_057	Increases Wind damage.
+accessory_058	Increases Wind damage by a large amount.
+accessory_059	Increases chance of escape.
+accessory_05A	Low revival chance for Light-induced death.
+accessory_05B	Low revival chance for death from Darkness.
+accessory_05C	accessory_305C
+accessory_05D	accessory_05D
+accessory_05E	accessory_05E
+accessory_05F	Increases damage of normal attacks during Rage.
+accessory_060	Low chance to counter physical attacks.
+accessory_061	Medium chance to counter attacks.
+accessory_062	High chance to counter physical attacks.
+accessory_063	Restores a tiny bit of HP every turn.
+accessory_064	Restores a little bit of HP every turn.
+accessory_065	Restores a bit of HP every turn.
+accessory_066	Restores a tiny bit of SP every turn.
+accessory_067	Restores a little bit of SP every turn.
+accessory_068	Restores a bit of SP every turn.
+accessory_069	accessory_069
+accessory_06A	accessory_06A
+accessory_06B	accessory_06B
+accessory_06C	accessory_06C
+accessory_06D	Gain Tarukaja at beginning of battle.
+accessory_06E	Gain Rakukaja at beginning of battle.
+accessory_06F	Gain Sukukaja at beginning of battle.
+accessory_070	Lowers enemy's rate of surprise attack.
+accessory_071	Lowers chance of sustaining crit hit.
+accessory_072	Increases chance of dealing critical hits.
+accessory_073	Increases chance of dodging by a lot.
+accessory_074	Lowers damage received but cannot dodge.
+accessory_075	Halves cost of SP when using magical skills.
+accessory_076	Halves cost of HP when using physical skills.
+accessory_077	accessory_077
+accessory_078	accessory_078
+accessory_079	???
+accessory_07A	Increases healing by a large amount.
+accessory_07B	Grants 1 HP when HP reaches 0. 1 time.
+accessory_07C	Grants full HP when HP reaches 0. 1 time.
+accessory_07D	???
+accessory_07E	???
+accessory_07F	accessory_07F
+accessory_080	Portable music player.
+accessory_081	Simple necklace.
+accessory_082	Heart-shaped choker.
+accessory_083	Thin leather gloves.
+accessory_084	Big red ribbon.
+accessory_085	Made from angel wings.
+accessory_086	Jewel-encrusted nails.
+accessory_087	Athletic wristband.
+accessory_088	Simple knit cap.
+accessory_089	Simply designed silver ring.
+accessory_08A	???
+accessory_08B	Made out of very expensive materials.
+accessory_08C	accessory_08C
+accessory_08D	accessory_08D
+accessory_08E	accessory_08E
+accessory_08F	???
+accessory_090	Increases max HP by 10%.
+accessory_091	Increases max HP by 20%.
+accessory_092	Increases max HP by 30%.
+accessory_093	Increase max SP by 10%.
+accessory_094	Increase max SP by 20%.
+accessory_095	Increase max SP by 30%.
+accessory_096	A hip, red-colored music player.
+accessory_097	Prevents Dizziness.
+accessory_098	Restores SP each turn in battle.
+accessory_099	Endurance increases by 1.
+accessory_09A	Strength increases by 1.
+accessory_09B	Luck increases by 1.
+accessory_09C	0x09C
+accessory_09D	0x09D
+accessory_09E	0x09E
+accessory_09F	0x09F
+accessory_0A0	0x0A0
+accessory_0A1	0x0A1
+accessory_0A2	0x0A2
+accessory_0A3	0x0A3
+accessory_0A4	0x0A4
+accessory_0A5	0x0A5
+accessory_0A6	0x0A6
+accessory_0A7	0x0A7
+accessory_0A8	0x0A8
+accessory_0A9	0x0A9
+accessory_0AA	0x0AA
+accessory_0AB	0x0AB
+accessory_0AC	0x0AC
+accessory_0AD	0x0AD
+accessory_0AE	0x0AE
+accessory_0AF	0x0AF
+accessory_0B0	0x0B0
+accessory_0B1	0x0B1
+accessory_0B2	0x0B2
+accessory_0B3	0x0B3
+accessory_0B4	0x0B4
+accessory_0B5	0x0B5
+accessory_0B6	0x0B6
+accessory_0B7	0x0B7
+accessory_0B8	0x0B8
+accessory_0B9	0x0B9
+accessory_0BA	0x0BA
+accessory_0BB	0x0BB
+accessory_0BC	0x0BC
+accessory_0BD	0x0BD
+accessory_0BE	0x0BE
+accessory_0BF	0x0BF
+accessory_0C0	0x0C0
+accessory_0C1	0x0C1
+accessory_0C2	0x0C2
+accessory_0C3	0x0C3
+accessory_0C4	0x0C4
+accessory_0C5	0x0C5
+accessory_0C6	0x0C6
+accessory_0C7	0x0C7
+accessory_0C8	0x0C8
+accessory_0C9	0x0C9
+accessory_0CA	0x0CA
+accessory_0CB	0x0CB
+accessory_0CC	0x0CC
+accessory_0CD	0x0CD
+accessory_0CE	0x0CE
+accessory_0CF	0x0CF
+accessory_0D0	0x0D0
+accessory_0D1	0x0D1
+accessory_0D2	0x0D2
+accessory_0D3	0x0D3
+accessory_0D4	0x0D4
+accessory_0D5	0x0D5
+accessory_0D6	0x0D6
+accessory_0D7	0x0D7
+accessory_0D8	0x0D8
+accessory_0D9	0x0D9
+accessory_0DA	0x0DA
+accessory_0DB	0x0DB
+accessory_0DC	0x0DC
+accessory_0DD	0x0DD
+accessory_0DE	0x0DE
+accessory_0DF	0x0DF
+accessory_0E0	0x0E0
+accessory_0E1	0x0E1
+accessory_0E2	0x0E2
+accessory_0E3	0x0E3
+accessory_0E4	0x0E4
+accessory_0E5	0x0E5
+accessory_0E6	0x0E6
+accessory_0E7	0x0E7
+accessory_0E8	0x0E8
+accessory_0E9	0x0E9
+accessory_0EA	0x0EA
+accessory_0EB	0x0EB
+accessory_0EC	0x0EC
+accessory_0ED	0x0ED
+accessory_0EE	0x0EE
+accessory_0EF	0x0EF
+accessory_0F0	0x0F0
+accessory_0F1	0x0F1
+accessory_0F2	0x0F2
+accessory_0F3	0x0F3
+accessory_0F4	0x0F4
+accessory_0F5	0x0F5
+accessory_0F6	0x0F6
+accessory_0F7	0x0F7
+accessory_0F8	0x0F8
+accessory_0F9	0x0F9
+accessory_0FA	0x0FA
+accessory_0FB	0x0FB
+accessory_0FC	0x0FC
+accessory_0FD	0x0FD
+accessory_0FE	0x0FE
+accessory_0FF	0x0FF 

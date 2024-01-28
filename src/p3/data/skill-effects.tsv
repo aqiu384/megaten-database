@@ -1,0 +1,623 @@
+Agi	Deals light Fire damage to 1 foe.
+Agilao	Deals medium Fire damage to 1 foe.
+Agidyne	Deals heavy Fire damage to 1 foe.
+Maragi	Deals light Fire damage to all foes.
+Maragion	Deals medium Fire damage to all foes.
+Maragidyne	Deals heavy Fire damage to all foes.
+Maralagidyne	Deals severe Fire damage to all foes.
+0x008	008
+Ragnarok	Deals severe Fire damage to 1 foe.
+Garu	Deals light Wind damage to 1 foe.
+Garula	Deals medium Wind damage to 1 foe.
+Garudyne	Deals heavy Wind damage to 1 foe.
+Magaru	Deals light Wind damage to all foes.
+Magarula	Deals medium Wind damage to all foes.
+Magarudyne	Deals heavy Wind damage to all foes.
+0x010	010
+0x011	011
+Panta Rhei	Deals severe Wind damage to 1 foe.
+Bufu	Deals light Ice damage /Freezes 1 foe.
+Bufula	Deals medium Ice damage /Freezes 1 foe.
+Bufudyne	Deals heavy Ice damage /Freezes 1 foe.
+Mabufu	Deals light Ice damage /Freezes all foes.
+Mabufula	Deals medium Ice dmg /Freezes all foes.
+Mabufudyne	Deals heavy Ice damage /Freezes all foes.
+0x019	019
+0x01A	01A
+Niflheim	Deals severe Ice dmg /Freezes 1 foe.
+Zio	Deals light Elec damage/Shocks 1 foe.
+Zionga	Deals medium Elec damage/Shocks 1 foe.
+Ziodyne	Deals heavy Elec damage/Shocks 1 foe.
+Mazio	Deals light Elec dmg/ Shocks all foes.
+Mazionga	Deals medium Elec dmg/Shocks all foes.
+Maziodyne	Deals heavy Elec dmg/ Shocks all foes.
+0x022	022
+0x023	023
+Thunder Reign	Deals severe Elec damage/Shocks 1 foe.
+Megido	Deals medium Almighty damage to all foes.
+Megidola	Deals heavy Almighty damage to all foes.
+Megidolaon	Deals severe Almighty damage to all foes.
+Last Resort	Deals Almighty dmg (50% of HP) to all, but...
+0x029	029
+0x02A	02A
+Black Viper	Deals massive Almighty damage to 1 foe.
+Morning Star	Deals massive Almighty damage to all foes.
+Hama	Light: chance of instant kill, 1 foe.
+Mahama	Light: chance of instant kill, all foes.
+Hamaon	Light: instant kill, 1 foe (high odds).
+Mahamaon	Light: instant kill, all foes (high odds).
+0x031	031
+Samsara	Light: instant kill, all foes (very high).
+Mudo	Darkness: chance of instant kill, 1 foe.
+Mamudo	Darkness: chance of instant kill, all foes.
+Mudoon	Darkness: instant kill, 1 foe (high odds).
+Mamudoon	Darkness: instant kill, all foes (high odds).
+0x037	037
+Die for Me!	Darkness: instant kill, all foes (very high).
+Marin Karin	Charms 1 foe.
+Sexy Dance	Charms all foes.
+Bewilder	Distresses 1 foe.
+Eerie Sound	Distresses all foes.
+Pulinpa	Makes 1 foe Panic.
+Tentarafoo	Makes all foes Panic.
+Evil Touch	Instills Fear in 1 foe.
+Evil Smile	Instills Fear in all foes.
+Ghastly Wail	Instantly kills 1 foe who is fearful.
+Provoke	Enrages 1 foe.
+Infuriate	Enrages all foes.
+Poisma	Poisons 1 foe.
+Poison Mist	Poisons all foes.
+Virus Breath	Deals dmg (25% of HP) /Poisons all foes.
+0x047	047
+0x048	048
+Foul Breath	Ailment susceptibility up, 1 foe (temp).
+Stagnant Air	Ailment susceptibility up, all (temp).
+Life Drain	Drains foe's HP.
+Spirit Drain	Drains foe's SP.
+0x04D	04D
+0x04E	04E
+0x04F	04F
+Maragidyne	050
+Magarudyne	051
+Mabufudyne	052
+Maziodyne	053
+Megidolaon	054
+Mahamaon	055
+Mamudoon	056
+Sexy Dance	057
+Eerie Sound	058
+Tentarafoo	059
+Evil Smile	05A
+Poison Mist	05B
+Holy Arrow	05C
+Life Drain	05D
+Spirit Drain	05E
+0x05F	05F
+Death	060
+Yell	061
+Yell	062
+Death	063
+Death	064
+Death	065
+Moonless Gown	066
+Moonless Gown	067
+Summon	068
+Slash Attack	069
+Pierce Attack	06A
+Strike Attack	06B
+Yell	06C
+Pierce Attack	06D
+Fire Attack	06E
+Almighty Attack	06F
+Bash	Deals light Strike damage to 1 foe.
+Assault Dive	Deals light Strike damage to 1 foe.
+Kill Rush	Medium Strike dmg to 1 foe (multi-hit).
+Swift Strike	Light Strike dmg to all foes (multi-hit).
+Sonic Punch	Deals light Strike damage to 1 foe.
+Heat Wave	Deals medium Strike damage to all foes.
+Gigantic Fist	Deals heavy Strike damage to 1 foe.
+Akasha Arts	Deals heavy Strike damage to all foes.
+God's Hand	Deals severe Strike damage to 1 foe.
+Cleave	Deals light Slash damage to 1 foe.
+Fatal End	Deals medium Slash damage to 1 foe.
+Getsu-ei	Deals med Slash dmg to 1 foe. Full moon bonus.
+Zan-ei	Deals med Slash dmg to 1 foe. New moon bonus.
+Mighty Swing	Deals medium Slash damage to 1 foe.
+Double Fangs	Deals light Pierce damage to 1 foe 2x.
+Blade of Fury	Medium Slash damage to all foes.
+Deathbound	Deals heavy Slash damage to all foes.
+Tempest Slash	Heavy Slash dmg to 1 foe (multi-hit).
+Heaven's Blade	Deals heavy Slash damage to 1 foe.
+Pralaya	Deals severe Pierce dmg/Frightens all foes.
+Power Slash	Deals light Slash damage to 1 foe.
+Gale Slash	Deals medium Slash damage to all foes.
+Brave Blade	Deals heavy Slash damage to 1 foe.
+Herculean Strike	Deals medium Slash damage to all foes.
+Vicious Strike	Deals heavy Strike damage to all foes.
+Single Shot	Deals light Pierce damage to 1 foe.
+Twin Shot	Deals medium Pierce damage to 1 foe 2x.
+Holy Arrow	Deals light Pierce damage/Charms 1 foe.
+Torrent Shot	Light Pierce damage to 1 foe (multi-hit).
+Arrow Rain	Deals medium Pierce damage to all foes 2x.
+Myriad Arrows	Medium Pierce dmg to all foes (multi-hit).
+Primal Force	Deals severe Pierce damage to 1 foe.
+Vorpal Blade	Heavy Slash dmg to all foes. "Great" bonus.
+Weary Thrust	Heavy Strike damage to 1 foe. "Tired" bonus.
+Cruel Attack	Med Pierce dmg, 1 foe. Knocked Down bonus.
+Vile Assault	Hvy Pierce dmg, 1 foe. Knocked Down bonus.
+Poison Arrow	Deals heavy Pierce dmg to 1 foe. Inflicts poison.
+Weary Thrust	Deals heavy Strike damage to 1 foe.
+Vorpal Blade	Deals heavy Slash damage to all foes.
+Junpei Co-Op	097
+Yukari Co-Op	098
+Akihiko Co-Op	099
+Mitsuru Co-Op	09A
+Aigis Co-Op	09B
+Ken Co-Op	09C
+Shinjiro Co-Op	09D
+Koromaru Co-Op	09E
+0x09F	09F
++charm(low)	0A0
++charm(med)	0A1
++charm(high)	0A2
++distress(low)	0A3
++distress(med)	0A4
++distress(high)	0A5
++panic(low)	0A6
++panic(med)	0A7
++panic(high)	0A8
++fear(low)	0A9
++fear(med)	0AA
++fear(high)	0AB
++rage(low)	0AC
++rage(med)	0AD
++rage(high)	0AE
++poison(low)	0AF
+0x0B0	0B0
+0x0B1	0B1
+0x0B2	0B2
+0x0B3	0B3
+0x0B4	0B4
+0x0B5	0B5
+0x0B6	0B6
+0x0B7	0B7
+0x0B8	0B8
+0x0B9	0B9
+0x0BA	0BA
+0x0BB	0BB
+0x0BC	0BC
+0x0BD	0BD
+0x0BE	0BE
+0x0BF	0BF
+Dia	Slightly restores 1 ally's HP.
+Diarama	Moderately restores 1 ally's HP.
+Diarahan	Fully restores 1 ally's HP.
+Media	Slightly restores party's HP.
+Mediarama	Moderately restores party's HP.
+Mediarahan	Fully restores party's HP.
+Salvation	Fully restores party's HP. Cures ailments.
+Patra	Dispels Panic, Fear, and Distress (1 ally).
+Me Patra	Dispels Panic, Fear, and Distress (party).
+Re Patra	Assists 1 ally who's been Knocked Down.
+Posumudi	Neutralizes Poison (1 ally).
+Amrita	Cures all ailments (party).
+Recarm	Revives an ally, restoring 50% of HP.
+Samarecarm	Revives an ally, fully restoring HP.
+Tarunda	Decreases 1 foe's Attack.
+Matarunda	Decreases all foes' Attack.
+Sukunda	Decreases 1 foe's Hit/Evasion rate.
+Masukunda	Decreases all foes' Hit/Evasion rate.
+Rakunda	Decreases 1 foe's Defense.
+Marakunda	Decreases all foes' Defense.
+Dekunda	Nullifies stat penalties on party.
+0x0D5	0D5
+Tarukaja	Increases 1 ally's Attack.
+Matarukaja	Increases party's Attack.
+Sukukaja	Increases 1 ally's Hit/Evasion rate.
+Masukukaja	Increases party's Hit/Evasion rate.
+Rakukaja	Increases 1 ally's Defense.
+Marakukaja	Increases party's Defense.
+Power Charge	Doubles physical damage dealt next turn.
+Mind Charge	Doubles magic damage dealt next turn.
+0x0DE	0DE
+Dekaja	Nullifies stat bonuses on all foes.
+Tetrakarn	Barrier that reflects phys dmg 1x per ally.
+Makarakarn	Barrier that reflects magic dmg 1x per ally.
+Rebellion	Increases Critical Rate (all).
+Revolution	Greatly increases Critical Rate (all).
+0x0E4	E4
+Fire Break	Reduces 1 foe's Fire resistance to average.
+Ice Break	Reduces 1 foe's Ice resistance to average.
+Wind Break	Reduces 1 foe's Wind resistance to average.
+Elec Break	Reduces 1 foe's Elec resistance to average.
+Traesto	Enables escape from a dungeon.
+Trafuri	Enables escape from most battles.
+Healing Wave	Hey! How'd you get this!?
+Recarmdra	User's HP becomes 1; allies' HP restored.
+Charmdi	Dispels Charm (1 ally).
+Enradi	Dispels Rage (1 ally).
+Junpei Co-Op	0EF
+Yukari Co-Op	0F0
+Akihiko Co-Op	0F1
+Mitsuru Co-Op	0F2
+Aigis Co-Op	0F3
+Ken Co-Op	0F4
+Shinjiro Co-Op	0F5
+Koromaru Co-Op	0F6
+Aigis Co-Op	0F7
+Aigis Co-Op	0F8
+Aigis Co-Op	0F9
+Aigis Co-Op	0FA
+0x0FB	0FB
+0x0FC	0FC
+0x0FD	0FD
+0x0FE	0FE
+0x0FF	0FF
+Summer Dream	100
+Summer Dream	101
+Summer Dream	102
+Summer Dream	103
+Summer Dream	104
+Summer Dream	105
+Summer Dream	106
+Summer Dream	107
+Summer Dream	108
+Summer Dream	109
+Summer Dream	10A
+Summer Dream	10B
+Summer Dream	10C
+Summer Dream	10D
+Summer Dream	10E
+Summer Dream	10F
+Jack Brothers	Knocks Down all foes (med odds).
+Ardhanari	Deals massive Fire damage to all foes.
+Trickster	Inflicts random ailments on all foes.
+Infinity	Invulnerability for 1 turn (party).
+Valhalla	Invulnerability for 1 turn (1 ally), but...
+Summer Dream	Unpredictable effect.
+Armageddon	Deals ultimate damage to all foes.
+Cadenza	Restores 50% HP/ Evasion up (party).
+Scarlet Havoc	Deals heavy Slash damage to all foes.
+Frolic	Restores party's HP, but sometimes...
+Dreamfest	Charms all foes (high odds).
+King and I	Deals medium Ice dmg/ Freezes all foes.
+Best Friends	Combines all -kaja skills on 1 ally.
+Shadow Hound	Deals heavy Strike damage to all foes.
+Thunder Call	Deals heavy Elec dmg/ Shocks all foes.
+Last Judge	Deals severe Almighty damage to all foes.
+Raktapaksha	Knocks Down all foes +Dekaja (med odds).
+Justice	Halves all foes' HP via Light magic.
+Trickster	122
+0x123	123
+0x124	124
+Primal Darkness	125
+Dark Embrace	126
+Primal Darkness	127
+Primal Darkness	128
+Heartbreaker	129
+Pierce Attack	12A
+Pierce Attack	12B
+Giga Spark	12C
+Sacrifice	12D
+0x12E	12E
+0x12F	12F
+Pierce Attack	130
+Fire Attack	131
+Summon	132
+Summon	133
+Armed&Ready	134
+Sacrifice	135
+Arcana Shift	136
+Arcana Shift	137
+Arcana Shift	138
+Arcana Shift	139
+Arcana Shift	13A
+Arcana Shift	13B
+Arcana Shift	13C
+Arcana Shift	13D
+Arcana Shift	13E
+Night Queen	13F
+All-Out 2	140
+All-Out 3	141
+All-Out 4	142
+Plume of Dusk	143
+Analyze	Displays enemy information.
+Oracle	Unpredictable effect.
+Full Analysis	Displays detailed enemy information.
+Oracle	147
+Oracle	148
+Oracle	149
+Oracle	14A
+Oracle	14B
+All-Out 2L	14C
+All-Out 3L	14D
+All-Out 4L	14E
+Support Scan	Views any changes in an enemy's status.
+Third Eye	Increases information displayed in the target.
+Mind DJ	151
+DJ Queen	152
+Escape Route	Instantly return to Tartarus's entrance.
+Healing Wave	Recover some HP when moving to the next floor.
+Summon	155
+Orgia Mode	156
+Great Seal	Unleashes the power within you to seal Nyx.
+Great Seal	Unleashes the power within you to seal Nyx.
+0x159	159
+Ice Attack	15A
+Wind Attack	15B
+Elec Attack	15C
+Fire Attack	15D
+Pierce Attack	15E
+Strike Attack	15F
+Summon	160
+Summon	161
+Summon	162
+Prophecy of Ruin	163
+Heartbreaker	164
+Unite	165
+Separate	166
+Pierce Attack	167
+Pierce Attack	168
+Samarecarm	169
+Samarecarm	16A
+Charge	16B
+Giga Spark	16C
+Wheel of Fortune	16D
+Wheel of Fortune	16E
+Wheel of Fortune	16F
+Paradigm Shift	170
+Wheel of Fortune	171
+Wheel of Fortune	172
+E Attack Up	173
+P Attack Up	174
+E Attack Down	175
+P Attack Down	176
+E Defense Up	177
+P Defense Up	178
+E Defense Down	179
+P Defense Down	17A
+E Panic	17B
+P Panic	17C
+E Rage	17D
+P Rage	17E
+E Distress	17F
+P Distress	180
+E Fear	181
+P Fear	182
+E Damage Low	183
+P Damage Low	184
+E Damage Mid	185
+P Damage Mid	186
+E Damage High	187
+P Damage High	188
+E Heal	189
+P Heal	18A
+Almighty Attack	18B
+Arcana Shift	18C
+Arcana Shift	18D
+Arcana Shift	18E
+Arcana Shift	18F
+Band Aid	190
+Medicine	191
+Bead	192
+Snuff Soul	193
+Chewing Soul	194
+Precious Egg	195
+Soma	196
+0x197	197
+0x198	198
+0x199	199
+0x19A	19A
+Muscle Drink	19B
+Odd Morsel	19C
+Rancid Gravy	19D
+Powerful Drug	19E
+Cold Medicine	19F
+Energy Drink	1A0
+0x1A1	1A1
+0x1A2	1A2
+0x1A3	1A3
+0x1A4	1A4
+0x1A5	1A5
+0x1A6	1A6
+0x1A7	1A7
+0x1A8	1A8
+0x1A9	1A9
+0x1AA	1AA
+0x1AB	1AB
+0x1AC	1AC
+0x1AD	1AD
+0x1AE	1AE
+0x1AF	1AF
+0x1B0	1B0
+0x1B1	1B1
+0x1B2	1B2
+0x1B3	1B3
+0x1B4	1B4
+0x1B5	1B5
+Homunculus	1B6
+Plume of Dusk	1B7
+0x1B8	1B8
+0x1B9	1B9
+0x1BA	1BA
+0x1BB	1BB
+0x1BC	1BC
+0x1BD	1BD
+0x1BE	1BE
+0x1BF	1BF
+0x1C0	1C0
+0x1C1	1C1
+0x1C2	1C2
+0x1C3	1C3
+0x1C4	1C4
+0x1C5	1C5
+0x1C6	1C6
+0x1C7	1C7
+0x1C8	1C8
+0x1C9	1C9
+0x1CA	1CA
+0x1CB	1CB
+0x1CC	1CC
+0x1CD	1CD
+0x1CE	1CE
+0x1CF	1CF
+Resist Slash	Reduces damage from Slash attacks.
+Null Slash	Nullifies damage from Slash attacks.
+Repel Slash	Reflects damage from Slash attacks.
+Absorb Slash	Drains damage from Slash attacks.
+Resist Strike	Reduces damage from Strike attacks.
+Null Strike	Nullifies damage from Strike attacks.
+Repel Strike	Reflects damage from Strike attacks.
+Absorb Strike	Drains damage from Strike attacks.
+Resist Pierce	Reduces damage from Pierce attacks.
+Null Pierce	Nullifies damage from Pierce attacks.
+Repel Pierce	Reflects damage from Pierce attacks.
+Absorb Pierce	Drains damage from Pierce attacks.
+Resist Fire	Reduces damage from Fire attacks.
+Null Fire	Nullifies damage from Fire attacks.
+Repel Fire	Reflects damage from Fire attacks.
+Absorb Fire	Drains damage from Fire attacks.
+Resist Ice	Reduces damage from Ice attacks.
+Null Ice	Nullifies damage from Ice attacks.
+Repel Ice	Reflects damage from Ice attacks.
+Absorb Ice	Drains damage from Ice attacks.
+Resist Elec	Reduces damage from Elec attacks.
+Null Elec	Nullifies damage from Elec attacks.
+Repel Elec	Reflects damage from Elec attacks.
+Absorb Elec	Drains damage from Elec attacks.
+Resist Wind	Reduces damage from Wind attacks.
+Null Wind	Nullifies damage from Wind attacks.
+Repel Wind	Reflects damage from Wind attacks.
+Absorb Wind	Drains damage from Wind attacks.
+Resist Light	Halves chance of death via a Light attack.
+Null Light	Nullifies Light attacks.
+Repel Light	Reflects Light attacks.
+Resist Dark	Halves chance of death via a Darkness attack.
+Null Dark	Nullifies Darkness attacks.
+Repel Dark	Reflects Darkness attacks.
+Null Charm	Protects user from being Charmed.
+Null Distress	Protects user from Distress.
+Null Panic	Protects user from Panic.
+Null Fear	Protects user from Fear.
+Null Rage	Protects user from becoming Enraged.
+Null Freeze	Protects user from being Frozen.
+Null Shock	Protects user from being Shocked.
+Null Poison	Protects user from Poison.
+Unshaken Will	Protects user from mental ailments.
+Masakados	Nullifies all attacks except Almighty ones.
+Dodge Slash	Evasion rate up vs Slash attacks.
+Evade Slash	Evasion rate way up vs Slash attacks.
+Dodge Strike	Evasion rate up vs Strike attacks.
+Evade Strike	Evasion rate way up vs Strike attacks.
+Dodge Pierce	Evasion rate up vs Pierce attacks.
+Evade Pierce	Evasion rate way up vs Pierce attacks.
+Dodge Fire	Evasion rate up vs Fire attacks.
+Evade Fire	Evasion rate way up vs Fire attacks.
+Dodge Ice	Evasion rate up vs Ice attacks.
+Evade Ice	Evasion rate way up vs Ice attacks.
+Dodge Wind	Evasion rate up vs Wind attacks.
+Evade Wind	Evasion rate way up vs Wind attacks.
+Dodge Elec	Evasion rate up vs Elec attacks.
+Evade Elec	Evasion rate way up vs Elec attacks.
+Stamina Up 1	20A
+Stamina Up 2	20B
+Stamina Up 3	20C
+0x20D	20D
+Premonition	Increases Evade against Physical attacks.
+Angelic Grace	Increases Evade against magical attacks.
+Fire Boost	Strengthens Fire attacks.
+Fire Amp	Greatly strengthens Fire attacks.
+Ice Boost	Strengthens Ice attacks.
+Ice Amp	Greatly strengthens Ice attacks.
+Elec Boost	Strengthens Elec attacks.
+Elec Amp	Greatly strengthens Elec attacks.
+Wind Boost	Strengthens Wind attacks.
+Wind Amp	Greatly strengthens Wind attacks.
+Fast Retreat	Increases chance of escape.
+HP Up 1	Increases max HP by 10%.
+HP Up 2	Increases max HP by 20%.
+HP Up 3	Increases max HP by 30%.
+SP Up 1	Increases max SP by 10%.
+SP Up 2	Increases max SP by 20%.
+SP Up 3	Increases max SP by 30%.
+Raging Tiger	Increases attack power while Enraged.
+Counter	Counter physical attacks (low odds).
+Counterstrike	Counter physical attacks (med odds).
+High Counter	Counter physical attacks (high odds).
+Regenerate 1	Restores HP slightly each turn in battle.
+Regenerate 2	Restores a little HP each turn in battle.
+Regenerate 3	Restores some HP each turn in battle.
+Invigorate 1	Restores SP slightly each turn in battle.
+Invigorate 2	Restores a little SP each turn in battle.
+Invigorate 3	Restores some SP each turn in battle.
+Growth 1	Persona gains 1/4 EXP while inactive.
+Growth 2	Persona gains 1/2 EXP while inactive.
+Growth 3	Persona gains EXP while inactive.
+0x22C	22C
+Auto-Tarukaja	Automatic Tarukaja at the start of battle.
+Auto-Rakukaja	Automatic Rakukaja at the start of battle.
+Auto-Sukukaja	Automatic Sukukaja at the start of battle.
+Alertness	Lowers odds of being taken by surprise.
+Sharp Student	Lowers odds of sustaining crit dmg.
+Apt Pupil	Increases user's Critical Rate.
+Ali Dance	???
+Firm Stance	???
+Spell Master	Halves SP cost for magic skills.
+Arms Master	Halves HP cost for physical skills.
+HP Up	???
+SP Up	???
+0x239	???
+Divine Grace	Greatly strengthens restorative magic.
+Endure	Restores 1 HP upon death 1x per battle.
+Enduring Soul	Restores all HP upon death 1x per battle.
+Heavy Master	Increases damage dealt by a heavy weapon.
+Magic Skill Up	Increases magic damage.
+Phys Skill Up	Increases physical damage.
+0x240	???
+0x240	???
+0x240	???
+0x243	???
+Rosary	Low odds of revival vs Light magic.
+Prayer Beads	Low odds of revival vs Darkness magic.
+Spear Master	Increases damage dealt by a spear.
+Bow Master	Increases damage dealt by a bow and arrow.
+1hSwd Master	Increases damage dealt by a 1-handed sword.
+2hSwd Master	Increases damage dealt by a 2-handed sword.
+Fist Master	Increases damage dealt by a fist weapon.
+Survive Light	Low odds of revival vs Light magic.
+Survive Dark	Low odds of revival vs Darkness magic.
+Auto-Maraku	Automatic Marakukaja at start of battle.
+Auto-Mataru	Automatic Matarukaja at start of battle.
+Auto-Masuku	Automatic Masukukaja at start of battle.
+Charm Boost	Increases odds of Charming a foe.
+Poison Boost	Increases odds of Poisoning a foe.
+Distress Boost	Increases odds of Distressing a foe.
+Panic Boost	Increases odds of instilling Panic.
+Fear Boost	Increases odds of instilling Fear.
+Rage Boost	Increases odds of Enraging a foe.
+Ailment Boost	Increases odds of inflicting ailments.
+Hama Boost	Increases success rate of Light magic.
+Mudo Boost	Increases success rate of Darkness magic.
+Endure Light	Automatic revival vs Light magic.
+Endure Dark	Automatic revival vs Darkness magic.
+Weapons Master	Increases normal attack damage using weapons.
+0x25C	25C
+Cool Breeze	Slightly restores HP and SP after battle.
+Victory Cry	Fully restores HP and SP after battle.
+Spring of Life	Moderately restores HP each turn in battle.
+Spring of Life	Moderately restores HP each turn in battle.
+Infinite Endure	261
+Fast-Heal	262
+Insta-Heal	263
+Resist Charm	264
+Resist Distress	265
+Resist Panic	266
+Resist Fear	267
+Resist Rage	268
+Resist Freeze	269
+Resist Shock	26A
+Resist Poison	26B
+HP Up High	Increases max HP by 50%.
+SP Up High	26D
+High Endure	26E
+Blank	26F 

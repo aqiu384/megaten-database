@@ -1,0 +1,188 @@
+addeffect_001	+1 Strength
+addeffect_002	+2 Strength
+addeffect_003	+3 Strength
+addeffect_004	+4 Strength
+addeffect_005	+5 Strength
+addeffect_006	+1 Endurance
+addeffect_007	+2 Endurance
+addeffect_008	+3 Endurance
+addeffect_009	+4 Endurance
+addeffect_010	+5 Endurance
+addeffect_011	+1 Magic
+addeffect_012	+2 Magic
+addeffect_013	+3 Magic
+addeffect_014	+4 Magic
+addeffect_015	+5 Magic
+addeffect_016	+1 Agility
+addeffect_017	+2 Agility
+addeffect_018	+3 Agility
+addeffect_019	+4 Agility
+addeffect_020	+5 Agility
+addeffect_021	+1 Luck
+addeffect_022	+2 Luck
+addeffect_023	+3 Luck
+addeffect_024	+4 Luck
+addeffect_025	+5 Luck
+addeffect_026	+10 HP
+addeffect_027	+20 HP
+addeffect_028	+30 HP
+addeffect_029	+40 HP
+addeffect_030	+50 HP
+addeffect_031	+10 SP
+addeffect_032	+20 SP
+addeffect_033	+30 SP
+addeffect_034	+40 SP
+addeffect_035	+50 SP
+addeffect_036	+Effective vs Magician
+addeffect_037	+Effective vs Priestess
+addeffect_038	+Effective vs Empress
+addeffect_039	+Effective vs Emperor
+addeffect_040	+Effective vs Priestess
+addeffect_041	+Effective vs Lovers
+addeffect_042	+Effective vs Chariot
+addeffect_043	+Effective vs Justice
+addeffect_044	+Effective vs Hermit
+addeffect_045	+Effective vs Fortune
+addeffect_046	+Effective vs Strength
+addeffect_047	+Effective vs Hanged
+addeffect_048	+Effective vs Death
+addeffect_049	+Charm (low odds)
+addeffect_050	+Charm (med odds)
+addeffect_051	+Charm (high odds)
+addeffect_052	+Distress (low odds)
+addeffect_053	+Distress (med odds)
+addeffect_054	+Distress (high odds)
+addeffect_055	+Panic (low odds)
+addeffect_056	+Panic (med odds)
+addeffect_057	+Panic (high odds)
+addeffect_058	+Fear (low odds)
+addeffect_059	+Fear (med odds)
+addeffect_060	+Fear (high odds)
+addeffect_061	+Rage (low odds)
+addeffect_062	+Rage (med odds)
+addeffect_063	+Rage (high odds)
+addeffect_064	+Poison (low odds)
+addeffect_065	+Poison (med odds)
+addeffect_066	+Poison (high odds)
+addeffect_067	+Crit rate up (low)
+addeffect_068	+Crit rate up (med)
+addeffect_069	+Crit rate up (high)
+addeffect_070	???
+addeffect_071	???
+addeffect_072	???
+addeffect_073	+Resist Strike (low)
+addeffect_074	+Resist Strike (med)
+addeffect_075	+Resist Strike (high)
+addeffect_076	+Resist Slash (low)
+addeffect_077	+Resist Slash (med)
+addeffect_078	+Resist Slash (high)
+addeffect_079	+Resist Pierce (low)
+addeffect_080	+Resist Pierce (med)
+addeffect_081	+Resist Pierce (high)
+addeffect_082	+Resist Phys (low)
+addeffect_083	+Resist Phys (med)
+addeffect_084	+Resist Phys (high)
+addeffect_085	+Resist Fire (low)
+addeffect_086	+Resist Fire (med)
+addeffect_087	+Resist Fire (high)
+addeffect_088	+Resist Ice (low)
+addeffect_089	+Resist Ice (med)
+addeffect_090	+Resist Ice (high)
+addeffect_091	+Resist Wind (low)
+addeffect_092	+Resist Wind (med)
+addeffect_093	+Resist Wind (high)
+addeffect_094	+Resist Elec (low)
+addeffect_095	+Resist Elec (med)
+addeffect_096	+Resist Elec (high)
+addeffect_097	+Resist Magic (low)
+addeffect_098	+Resist Magic (med)
+addeffect_099	+Resist Magic (high)
+addeffect_100	+Reduce Stumble (low)
+addeffect_101	+Reduce Stumble (med)
+addeffect_102	+Reduce Stumble (high)
+addeffect_103	+Evade Strike (low)
+addeffect_104	+Evade Strike (med)
+addeffect_105	+Evade Strike (high)
+addeffect_106	+Evade Slash (low)
+addeffect_107	+Evade Slash (med)
+addeffect_108	+Evade Slash (high)
+addeffect_109	+Evade Pierce (low)
+addeffect_110	+Evade Pierce (med)
+addeffect_111	+Evade Pierce (high)
+addeffect_112	+Evade Phys (low)
+addeffect_113	+Evade Phys (med)
+addeffect_114	+Evade Phys (high)
+addeffect_115	+Evade Fire (low)
+addeffect_116	+Evade Fire (med)
+addeffect_117	+Evade Fire (high)
+addeffect_118	+Evade Ice (low)
+addeffect_119	+Evade Ice (med)
+addeffect_120	+Evade Ice (high)
+addeffect_121	+Evade Wind (low)
+addeffect_122	+Evade Wind (med)
+addeffect_123	+Evade Wind (high)
+addeffect_124	+Evade Elec (low)
+addeffect_125	+Evade Elec (med)
+addeffect_126	+Evade Elec (high)
+addeffect_127	+Evade Magic (low)
+addeffect_128	+Evade Magic (med)
+addeffect_129	+Evade Magic (high)
+addeffect_130	+unknown effect
+addeffect_131	+10 Strength
+addeffect_132	+10 Endurance
+addeffect_133	+10 Magic
+addeffect_134	+10 Agility
+addeffect_135	+10 Luck
+addeffect_136	+1 to all stats
+addeffect_137	+2 to all stats
+addeffect_138	+3 to all stats
+addeffect_139	+4 to all stats
+addeffect_140	+5 to all stats
+addeffect_141	+10 to all stats
+addeffect_142	+100 HP
+addeffect_143	+100 SP
+addeffect_144	+Effective vs Magician
+addeffect_145	+Deadly vs Magician
+addeffect_146	+Effective vs Priestess
+addeffect_147	+Deadly vs Priestess
+addeffect_148	+Effective vs Empress
+addeffect_149	+Deadly vs Empress
+addeffect_150	+Effective vs Emperor
+addeffect_151	+Deadly vs Emperor
+addeffect_152	+Effective vs Priestess
+addeffect_153	+Deadly vs Priestess
+addeffect_154	+Effective vs Lovers
+addeffect_155	+Deadly vs Lovers
+addeffect_156	+Effective vs Chariot
+addeffect_157	+Deadly vs Chariot
+addeffect_158	+Effective vs Justice
+addeffect_159	+Deadly vs Justice
+addeffect_160	+Effective vs Hermit
+addeffect_161	+Deadly vs Hermit
+addeffect_162	+Effective vs Fortune
+addeffect_163	+Deadly vs Fortune
+addeffect_164	+Effective vs Strength
+addeffect_165	+Deadly vs Strength
+addeffect_166	+Effective vs Hanged
+addeffect_167	+Deadly vs Hanged Man
+addeffect_168	+Effective vs Death
+addeffect_169	+Deadly vs Death
+addeffect_170	+All ailments (low)
+addeffect_171	+All ailments (med)
+addeffect_172	+All ailments (high)
+addeffect_173	Strengthens Fire attacks
+addeffect_174	Strengthens Ice attacks
+addeffect_175	Strengthens Elec attacks
+addeffect_176	Strengthens Wind attacks
+addeffect_177	Counter phys (low odds)
+addeffect_178	Counter phys (med odds)
+addeffect_179	Counter phys (high odds)
+addeffect_180	+Auto-Tarukaja
+addeffect_181	+Auto-Rakukaja
+addeffect_182	+Auto-Sukukaja
+addeffect_183	+Charm Resist
+addeffect_184	+Distress Resist
+addeffect_185	+Panic Resist
+addeffect_186	+Fear Resist
+addeffect_187	+Rage Resist
+addeffect_188	+Poison Resist 
