@@ -10,6 +10,9 @@
   "demonResists": { "begin": "0x00", "count": "0x100", "length": "0x20" },
   "demonStats": { "begin": "0x00", "count": "0x100", "length": "0xE" },
   "demonSkills": { "begin": "0x00", "count": "0x100", "length": "0x46" },
+  "demonIds": "p3f-demon-ids.tsv",
+  "enemyIds": "p3-enemy-ids.tsv",
+  "skillEffects": "skill-effects.tsv",
   "itemsBegin": "0xFA0",
   "resistLvls": {
     "0": "-",

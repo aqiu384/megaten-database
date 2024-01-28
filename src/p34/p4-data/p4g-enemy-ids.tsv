@@ -169,7 +169,7 @@ Valuing Nyogo	1
 Silent Nyogo	1
 Desirous Maya	0
 Submissive Basalt	0
-Rainy Sister 2	2
+Rainy Sister 2	0
 blank	0
 Black Raven	1
 Vicious Raven	1
@@ -190,7 +190,7 @@ Reformed Okina	1
 Moon Okina	1
 Imprudent Maya	0
 Accidental Basalt	0
-Rainy Brother 2	2
+Rainy Brother 2	0
 blank	0
 Bronze Dice	1
 Iron Dice	1
@@ -210,7 +210,7 @@ Happy Gene	1
 Next Gene	1
 Bigoted Maya	0
 Convicted Basalt	0
-Rainy Sister 1	2
+Rainy Sister 1	0
 blank	0
 Justice Sword	1
 Conviction Sword	1
@@ -230,7 +230,7 @@ Solemn Machine	1
 Heartless Machine	1
 Devious Maya	0
 Oppressive Basalt	0
-Rainy Brother 1	2
+Rainy Brother 1	0
 blank	0
 Minotaur IV	1
 Minotaur III	1
@@ -301,22 +301,22 @@ Supreme Hand	1
 Opulent Hand	1
 Luxury Hand	1
 Glorious Hand	1
-Contrarian King	0
-Intolerant Officer	0
-Momentary Child	0
-Escapist Soldier	0
-Extreme Vessel	0
-Lost Okina	0
-Avenger Knight	2
-Daring Gigas	2
-Amorous Snake	2
-Killing Hand	2
-Dominating Machine	2
-World Balance	2
-Chaos Fuzz	2
-Envious Giant	0
-Neo Minotaur	2
-Sleeping Table	2
+Contrarian King B	2
+Intolerant Officer B	2
+Momentary Child B	2
+Escapist Soldier B	2
+Extreme Vessel B	2
+Lost Okina B	2
+Avenger Knight B	2
+Daring Gigas B	2
+Amorous Snake B	2
+Killing Hand B	2
+Dominating Machine B	2
+World Balance B	2
+Chaos Fuzz B	2
+Envious Giant B	2
+Neo Minotaur B	2
+Sleeping Table B	2
 blank	0
 blank	0
 blank	0
@@ -342,7 +342,7 @@ Emaciated Garcy	1
 Execution Sword	1
 Cursed Woman's Pot	1
 Stupendous Relic	1
-Gorgeous King	0
+Gorgeous King	2
 Spectral Raven	1
 Praying Nyogo	1
 Superstitious Okina	1
@@ -353,7 +353,7 @@ Snowfall Musha	1
 Calm Machine	1
 Clear Sky Musha	1
 Indignant Machine	1
-Heaven's Giant	0
+Heaven's Giant	2
 blank	0
 blank	0
 blank	0

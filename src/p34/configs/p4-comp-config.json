@@ -1,0 +1,43 @@
+{
+  "demonData": ["p4-demon-data.json"],
+  "enemyData": ["p4-enemy-data.json"],
+  "gameAilments": ["Panic", "Poison", "Fear", "Rage", "Dizzy", "Exhaustion", "Enervation", "Mute"],
+  "toolAilments": ["Panic", "Poison", "Fear", "Rage", "Dizzy", "Exhaustion", "Enervation", "Mute"],
+  "gameResists": ["phy", "fir", "ice", "ele", "win", "alm", "lig", "dar"],
+  "toolResists": ["phy", "fir", "ice", "ele", "win", "lig", "dar", "alm"],
+  "enemyStats": { "begin": "0x00", "count": "0x150", "length": "0x3C" },
+  "enemyResists": { "begin": "0x00", "count": "0x150", "length": "0x20" },
+  "demonResists": { "begin": "0x00", "count": "0x100", "length": "0x20" },
+  "demonStats": { "begin": "0x00", "count": "0x100", "length": "0xE" },
+  "demonSkills": { "begin": "0x00", "count": "0x100", "length": "0x46" },
+  "demonIds": "p4-demon-ids.tsv",
+  "enemyIds": "p4-enemy-ids.tsv",
+  "skillEffects": "p4-skill-effects.tsv",
+  "itemsBegin": "0x0",
+  "resistLvls": {
+    "0": "-",
+    "1": "n",
+    "2": "r",
+    "4": "d",
+    "8": "w",
+    "16": "s",
+    "32": "N"
+  },
+  "resistMods": {
+    "d": 0,
+    "r": 0,
+    "n": 0,
+    "N": 0,
+    "s": 0,
+    "S": 50,
+    "T": 5,
+    "-": 100,
+    "2": 200,
+    "3": 300,
+    "4": 400,
+    "5": 500,
+    "9": 1275,
+    "w": 0,
+    "Z": 1275
+  }
+}

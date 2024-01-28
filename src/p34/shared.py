@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 import struct
 import json
+import re
+
+NEUTRALS = r"[ST23459]"
+WEAKS = r"[Z]"
 
 def printif_notequal(dname, field, lhs, rhs):
     if str(lhs) != str(rhs):
@@ -13,7 +17,10 @@ def save_ordered_demons(demons, fname):
                 entry[stat_set] = '[' + ', '.join(str(x) for x in entry[stat_set]) + ']'
         for stat_set in ['skills']:
             if stat_set in entry and isinstance(entry[stat_set], list):
-                entry[stat_set] = '[|' + '|, |'.join(x for x in entry[stat_set]) + '|]'
+                if len(entry[stat_set]) == 0:
+                    entry[stat_set] = '[]'
+                else:
+                    entry[stat_set] = '[|' + '|, |'.join(x for x in entry[stat_set]) + '|]'
         if 'skills' in entry and not isinstance(entry['skills'], str):
             nskills = sorted(entry['skills'].items(), key=lambda x: x[1])
             nskills = '{||      ' + ',||      '.join(f'|{x[0]}|: {x[1]}' for x in nskills) + '||    }'
@@ -90,8 +97,8 @@ def check_resists(game_data, tool_data, demon_ids, stat_config, comp_config):
             if ail_mod == 0:
                 old_ail_mods[i] = resist_mods[old_ailments[i]]
 
-        old_resists = old_resists.replace('S', '-').replace('T', '-')
-        old_ailments = old_ailments.replace('S', '-').replace('T', '-')
+        old_resists = re.sub(WEAKS, 'w', re.sub(NEUTRALS, '-', old_resists))
+        old_ailments = re.sub(WEAKS, 'w', re.sub(NEUTRALS, '-', old_ailments))
 
         printif_notequal(dname, 'resists', old_resists, resists)
         printif_notequal(dname, 'ailments', old_ailments, ailments)

@@ -495,7 +495,7 @@ Repel Light
 Resist Dark
 Null Dark
 Repel Dark
-Null Panic
+Null Confuse
 Null Exhaust
 Null Mute
 Null Fear
@@ -563,7 +563,7 @@ Survive Dark
 Auto-Maraku
 Auto-Mataru
 Auto-Masuku
-Panic Boost
+Confuse Boost
 Poison Boost
 Exhaust Boost
 Silence Boost
@@ -579,7 +579,7 @@ Endure Dark
 Cool Breeze
 Victory Cry
 Resist Poison
-Resist Panic
+Resist Confuse
 Resist Fear
 Resist Exhaust
 Resist Enervate

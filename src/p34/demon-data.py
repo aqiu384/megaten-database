@@ -3,7 +3,8 @@ import struct
 import json
 from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
 
-GAME_PREFIX = 'p3'
+GAME_PREFIX = 'p4'
+GAME_TYPE = GAME_PREFIX[:2]
 COMP_CONFIG = load_comp_config(f"configs/{GAME_PREFIX}-comp-config.json")
 TOOL_DEMONS = {}
 
@@ -15,17 +16,15 @@ with open(f"dumps/{GAME_PREFIX}-demon-data.bin", 'rb') as binfile:
 with open(f"dumps/{GAME_PREFIX}-enemy-data.bin", 'rb') as binfile:
     GAME_ENEMIES = binfile.read()
 
-with open(f"data/{GAME_PREFIX}-demon-ids.tsv") as tsvfile:
-    DEMON_IDS = ['BLANK\t0'] + [x.strip() for x in tsvfile]
-with open('data/skill-effects.tsv') as tsvfile:
-    SKILL_IDS = ['BLANK'] + [x.split('\t')[0] for x in tsvfile]
-with open('data/race-ids.tsv') as tsvfile:
-    RACE_IDS = ['BLANK'] + [x.strip() for x in tsvfile]
-with open('data/inherit-ids.tsv') as tsvfile:
-    INHERIT_IDS = ['BLANK'] + [x.strip() for x in tsvfile]
-with open('data/skillcard-effects.tsv') as tsvfile:
-    SKILLCARD_IDS = ['BLANK'] + [x.split('\t')[0] for x in tsvfile]
+datasets = []
 
+with open(f"{GAME_TYPE}-data/{COMP_CONFIG['demonIds']}") as tsvfile:
+    DEMON_IDS = ['BLANK\t0'] + [x.strip() for x in tsvfile]
+for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv', 'inherit-ids.tsv', 'skillcard-effects.tsv']:
+    with open(f"{GAME_TYPE}-data/{fname}") as tsvfile:
+        datasets.append(['BLANK'] + [x.strip().split('\t')[0] for x in tsvfile])
+
+SKILL_IDS, RACE_IDS, INHERIT_IDS, SKILLCARD_IDS = datasets
 SEEN_DEMONS = { x: False for x in TOOL_DEMONS }
 
 if GAME_PREFIX == 'p3a':
@@ -97,11 +96,12 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
             slvl -= 0x100
             slvl = (i + 2) / 20 if slvl == 0 else slvl + demon['lvl']
 
+        seen_skills.append(sname)
+
         if sname not in skills or skills[sname] != slvl:
             print(dname, sname, slvl, skills)
         else:
             skills[sname] = slvl
-            seen_skills.append(sname)
 
     printif_notequal(dname, 'skills', sorted(x for x, y in skills.items() if y < 1000), sorted(seen_skills))
 
