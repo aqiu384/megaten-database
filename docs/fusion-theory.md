@@ -1,7 +1,7 @@
 # Megami Tensei Fusion Tools - Fusion Theory
 ## Navigation
 * [All Fusion Tools](https://aqiu384.github.io/megaten-fusion-tool/home)
-* [How to Use](./how-to-use.md)
+* [How to Use](./how-to-use)
 * [Report Issue](https://github.com/aqiu384/megaten-fusion-tool/issues)
 
 ## Basic Fusion Rules
