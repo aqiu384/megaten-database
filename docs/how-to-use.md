@@ -4,7 +4,7 @@
 * [How to Use](./how-to-use)
 * [Report Issue](https://github.com/aqiu384/megaten-fusion-tool/issues)
 
-## <a name="save-offline"></a>Save Offline
+## Save Offline
 ### iOS
 1. Navigate to the [Megami Tensei Fusion Tools homepage](https://aqiu384.github.io/megaten-fusion-tool/home)
 2. Add page to Home Screen: Safari > Action (Share) > Add to Home Screen > Add
@@ -14,35 +14,35 @@
 6. Reopen the page from the Home Screen and ensure each downloaded game is still accessible
 7. Reenable Wi-Fi and repeat steps 4-6 if game does not load offline
 
-## <a name="smt1"></a>[Shin Megami Tensei](https://aqiu384.github.io/megaten-fusion-tool/smt1)
+## Shin Megami Tensei
 ### Data Sources
 * http://ifs.nog.cc/fool-est.hp.infoseek.co.jp/shin_dds/index.html
 * https://kaerukyo.net/dds_database/skill.php?title=3
 
-## <a name="smt2"></a>[Shin Megami Tensei II](https://aqiu384.github.io/megaten-fusion-tool/smt2)
+## Shin Megami Tensei II
 ### Data Sources
 * http://ifs.nog.cc/fool-est.hp.infoseek.co.jp/shin_dds2/index.html
 * https://kaerukyo.net/dds_database/skill.php?title=4
 
-## <a name="smtif"></a>[Shin Megami Tensei If...](https://aqiu384.github.io/megaten-fusion-tool/smtif)
+## Shin Megami Tensei If...
 ### Data Sources
 * http://ifs.nog.cc/fool-est.hp.infoseek.co.jp/shin_if/index.html
 * https://kaerukyo.net/dds_database/skill.php?title=5
 
-## <a name="smt9"></a>[Shin Megami Tensei NINE](https://aqiu384.github.io/megaten-fusion-tool/smt9)
+## Shin Megami Tensei NINE
 ### Data Sources
 * http://ifs.nog.cc/fool-est.hp.infoseek.co.jp/shin_nine/index.html
 * https://kaerukyo.net/dds_database/skill.php?title=17
 * http://softtank.web.fc2.com/nine_index.html
 * http://ゆめのしま.jp/nine.html
 
-## <a name="smtim"></a>[Shin Megami Tensei IMAGINE](https://aqiu384.github.io/megaten-fusion-tool/smtim)
+## Shin Megami Tensei IMAGINE
 ### Data Sources
 * https://wikiwiki.jp/imagine/
 * http://megatenonline.wiki.fc2.com/wiki/
 * http://megaten.sesshou.com
 
-## <a name="smt3"></a>[Shin Megami Tensei III: Nocturne](https://aqiu384.github.io/megaten-fusion-tool/smt3)
+## Shin Megami Tensei III: Nocturne
 ### Data Sources
 * *Shin Megami Tensei III: Nocturne Maniax Ally Demon Compendium* (ISBN-13: 9784797326789)
 * *Shin Megami Tensei III: Nocturne HD Remaster Official Perfect Guide* (ISBN-13: 9784047335141)
@@ -50,13 +50,13 @@
 * https://pathshower.wordpress.com/smt/nocturne/
 * http://ifs.nog.cc/fool-est.hp.infoseek.co.jp/shin_dds3/
 
-## <a name="smtsj"></a>[Shin Megami Tensei: Strange Journey](https://aqiu384.github.io/megaten-fusion-tool/smtsj)
+## Shin Megami Tensei: Strange Journey
 ### Cheap Password Demons
 * Passwords allow you to summon demons with stats and levels less than their default, decreasing their price and providing cheap fusion ingredients
 * Some higher-end demons like Alilat with their stats capped will overflow the max price and come out to around a couple thousand
 * Can also summon boss-exclusive demons with their corresponding passwords
 
-### [Shin Megami Tensei: Strange Journey Redux](https://aqiu384.github.io/megaten-fusion-tool/smtdsj)
+### Shin Megami Tensei: Strange Journey Redux
 * Womb of Grief added
 * New endings added for all routes
 * Password price overflow and boss-exclusives fixed
@@ -66,7 +66,7 @@
 * https://docs.google.com/spreadsheets/d/1R0Uq9YAW0yVwwHk020y6dLYR-EIsLOlIId05JFZpJcM
 * https://github.com/yuggrdrasill/megaten-sj-pw-generator
 
-## <a name="smt4"></a>[Shin Megami Tensei IV](https://aqiu384.github.io/megaten-fusion-tool/smt4)
+## Shin Megami Tensei IV
 ### Data Sources
 * https://erikku.github.io/smt4tool/
 * https://gamefaqs.gamespot.com/3ds/672441-shin-megami-tensei-iv/faqs/67766
@@ -79,7 +79,7 @@
   * D will inherit all of its innate skills
   * D will pick the highest ranked from ABC's skill pool for the rest
 
-## <a name="smt4f"></a>[Shin Megami Tensei IV Apocalypse](https://aqiu384.github.io/megaten-fusion-tool/smt4f)
+## Shin Megami Tensei IV Apocalypse
 * Zealot made fusion accident exclusive
 * Unique skills added to fusion accident inheritance pool
 
@@ -110,7 +110,7 @@
 
 ### Unique Skills Fusion Accident Exploit
 
-## <a name="smt5"></a>[Shin Megami Tensei V](https://aqiu384.github.io/megaten-fusion-tool/smt5)
+## Shin Megami Tensei V
 ### Data Sources
 * *Shin Megami Tensei V Official Perfect Guide* (ISBN-13: 9784047335806)
 * https://hyperwiki.jp/smt5/
@@ -254,52 +254,52 @@
 * Haunt: Clear "A Preta Predicament"
 * Foul: Talk to Slime NPC in Hamamatsucho
 
-## <a name="dsum"></a>[Shin Megami Tensei: Devil Summoner](https://aqiu384.github.io/megaten-fusion-tool/dsum)
+## Shin Megami Tensei: Devil Summoner
 ### Data Sources
 * https://gamefaqs.gamespot.com/psp/929271-shin-megami-tensei-devil-summoner/faqs/70850
 * http://onpleruler.web.fc2.com/megami/pspds.htm
 * http://www.geocities.co.jp/Hollywood-Miyuki/1871/dds/
 
-## <a name="dssh"></a>[Devil Summoner: Soul Hackers](https://aqiu384.github.io/megaten-fusion-tool/dssh)
+## Devil Summoner: Soul Hackers
 ### Data Sources
 * http://bmky.net/data/sh/system/unite/hero.html
 * http://ifs.nog.cc/fool-est.hp.infoseek.co.jp/ds/sh/index.html
 
-## <a name="krch"></a>[Raidou Kuzunoha vs. The Soulless Army](https://aqiu384.github.io/megaten-fusion-tool/krch)
+## Raidou Kuzunoha vs. The Soulless Army
 ### Data Sources
 * https://kaerukyo.net/dds_database/devil.php?title=22
 
-## <a name="krao"></a>[Raidou Kuzunoha vs. King Abaddon](https://aqiu384.github.io/megaten-fusion-tool/krao)
+## Raidou Kuzunoha vs. King Abaddon
 ### Data Sources
 * https://www31.atwiki.jp/abaddon/pages/37.html
 
-## <a name="sh2"></a>[Soul Hackers 2](https://aqiu384.github.io/megaten-fusion-tool/sh2)
+## Soul Hackers 2
 ### Data Sources
 * *Soul Hackers 2 The Complete Guide* (ISBN-13: 9784047336254)
 * https://kamigame.jp/soul-hackers2/index.html
 
-## <a name="p1"></a>[Megami Ibunroku Persona](https://aqiu384.github.io/megaten-fusion-tool/p1)
+## Megami Ibunroku Persona
 ### Data Sources
 * http://persona1.wikidot.com
 * http://p1psp.gkwiki2.com/
 * http://www.se-inst.com/html32/lib/pers_ms_dl.html
 
-## <a name="p2t"></a>[Persona 2: Innocent Sin](https://aqiu384.github.io/megaten-fusion-tool/p2t)
+## Persona 2: Innocent Sin
 
-## <a name="p2b"></a>[Persona 2: Eternal Punishment](https://aqiu384.github.io/megaten-fusion-tool/p2b)
+## Persona 2: Eternal Punishment
 ### Data Sources
 * https://tartarus.rpgclassics.com/persona2ep/
 
-## <a name="p3"></a>[Persona 3](https://aqiu384.github.io/megaten-fusion-tool/p3)
-### [Persona 3 FES](https://aqiu384.github.io/megaten-fusion-tool/p3fes)
+## Persona 3
+### Persona 3 FES
 * Aeon Social Link added
 * Orpheus Telos added
 
-### [Persona 3 FES: The Answer](https://aqiu384.github.io/megaten-fusion-tool/p3aeg)
+### Persona 3 FES: The Answer
 * No compendium available
 * 4+ spreads removed, can create through normal and triple fusion instead
 
-### [Persona 3 Portable](https://aqiu384.github.io/megaten-fusion-tool/p3p)
+### Persona 3 Portable
 * Skill cards added
 
 ### Data Sources
@@ -315,8 +315,8 @@
 * Rank ends in 0.5: Skill can mutate upon level up
 * (Fs): Fusion Spell
 
-## <a name="p4"></a>[Persona 4](https://aqiu384.github.io/megaten-fusion-tool/p4)
-### [Persona 4 Golden](https://aqiu384.github.io/megaten-fusion-tool/p4g)
+## Persona 4
+### Persona 4 Golden
 * Aeon and Jester Social Links added
 * Skill cards added
 
@@ -335,8 +335,8 @@
 * (Sy): Learned at Social Link Lv. 11
 * (B?): Learned during Bike Event ?
 
-## <a name="p5"></a>[Persona 5](https://aqiu384.github.io/megaten-fusion-tool/p5)
-### [Persona 5 Royal](https://aqiu384.github.io/megaten-fusion-tool/p5r)
+## Persona 5
+### Persona 5 Royal
 * Faith and Councillor Confidants added
 * Fusion Alarm added
 * Persona Traits added
@@ -359,7 +359,7 @@
 * (Fa): Itemize during Fusion Alarm
 * (Tk): Negotiate during Hold Up
 
-## <a name="p5s"></a>[Persona 5 Strikers](https://aqiu384.github.io/megaten-fusion-tool/p5s)
+## Persona 5 Strikers
 ### Data Sources
 * https://altema.jp/persona5s/
 * https://gamewith.jp/p5s/
@@ -370,7 +370,7 @@
 * (C2): Combo Input #2 □□□△
 * (C3): Combo Input #3 □□□□□△△
 
-## <a name="pq"></a>[Persona Q: Shadow of the Labyrinth](https://aqiu384.github.io/megaten-fusion-tool/pq)
+## Persona Q: Shadow of the Labyrinth
 ### Data Sources
 * *Persona Q: Shadow of the Labyrinth Official Perfect Guide* (ISBN-13: 9784047298224)
 * https://wikiwiki.jp/personaqr/
@@ -380,17 +380,17 @@
 * Unlike Strange Journey passwords, QR codes are valid even with unique skills
 * Party member unique skills are still invalid
 
-## <a name="pq2"></a>[Persona Q2: New Cinema Labyrinth](https://aqiu384.github.io/megaten-fusion-tool/pq2)
+## Persona Q2: New Cinema Labyrinth
 ### Data Sources
 * https://bozumemo.blogspot.com/p/pq2.html
 * https://wiki.denfaminicogamer.jp/pq2/
 * https://wikiwiki.jp/pq2/
 
-## <a name="mjn1"></a>[Majin Tensei](https://aqiu384.github.io/megaten-fusion-tool/mjn1)
+## Majin Tensei
 ### Data Sources
 * http://ifs.nog.cc/fool-est.hp.infoseek.co.jp/majin/majin1/index.html
 
-## <a name="mjn2"></a>[Majin Tensei II: Spiral Nemesis](https://aqiu384.github.io/megaten-fusion-tool/mjn2)
+## Majin Tensei II: Spiral Nemesis
 ### Data Sources
 * http://www.demitree.jp/コンテンツ/魔神転生２/
 * http://www.cam.hi-ho.ne.jp/oni2/oni1/Majin2/remix.htm
@@ -398,7 +398,7 @@
 * http://oliva.m78.com/majin2.html
 * http://bmky.net/data/m2/
 
-## <a name="ds1"></a>[Devil Survivor](https://aqiu384.github.io/megaten-fusion-tool/ds1)
+## Devil Survivor
 ### Maxing All Demon Stats
 * Like most games, there is a cap on how many bonus stats a demon can receive from Mitama fusion
 * This can be bypassed with the following chain
@@ -407,7 +407,7 @@
 * This Penalty Mitama will raise one stat and lower another, resulting in a net-zero change towards the bonus stat cap
 * By raising two stats on a demon to 40 and lowering the other two stats below 0, the latter will underflow and loop back around to 40
 
-### [Devil Survivor Overclocked](https://aqiu384.github.io/megaten-fusion-tool/dso)
+### Devil Survivor Overclocked
 * 8th Day added for 3 routes
 * Compendium added
 
@@ -418,10 +418,10 @@
 ### Skill List
 * (A?): Comes with ?-star Auction
 
-## <a name="ds2"></a>[Devil Survivor 2](https://aqiu384.github.io/megaten-fusion-tool/ds2)
+## Devil Survivor 2
 * Max demon stat underflow fixed
 
-### [Devil Survivor 2 Record Breaker](https://aqiu384.github.io/megaten-fusion-tool/ds2br)
+### Devil Survivor 2 Record Breaker
 * Triangulum Campaign added
 
 ### Data Sources
@@ -432,7 +432,7 @@
 * (A?): Comes with ?-star Auction
 * (Ar): Comes with Rare Auction
 
-## <a name="dx2"></a>[Shin Megami Tensei: Liberation Dx2](https://aqiu384.github.io/megaten-fusion-tool/dx2)
+## Shin Megami Tensei: Liberation Dx2
 ### Data Sources
 * https://altema.jp/megaten/
 * https://d2-megaten-l.sega.com/en/
