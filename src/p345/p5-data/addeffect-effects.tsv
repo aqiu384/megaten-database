@@ -1,0 +1,201 @@
+addeffect_001	+10 HP
+addeffect_002	+20 HP
+addeffect_003	+30 HP
+addeffect_004	+40 HP
+addeffect_005	+50 HP
+addeffect_006	+100 HP
+addeffect_007	+10 SP
+addeffect_008	+20 SP
+addeffect_009	+30 SP
+addeffect_010	+40 SP
+addeffect_011	+50 SP
+addeffect_012	+100 SP
+addeffect_013	Low Burn
+addeffect_014	Med Burn
+addeffect_015	High Burn
+addeffect_016	Low Freeze
+addeffect_017	Med Freeze
+addeffect_018	High Freeze
+addeffect_019	Low Shock
+addeffect_020	Med Shock
+addeffect_021	High Shock
+addeffect_022	Low Dizzy
+addeffect_023	Med Dizzy
+addeffect_024	High Dizzy
+addeffect_025	Low Confuse
+addeffect_026	Med Confuse
+addeffect_027	High Confuse
+addeffect_028	Low Fear
+addeffect_029	Med Fear
+addeffect_030	High Fear
+addeffect_031	Low Forget
+addeffect_032	Med Forget
+addeffect_033	High Forget
+addeffect_034	Low Brainwash
+addeffect_035	Med Brainwash
+addeffect_036	High Brainwash
+addeffect_037	Low Sleep
+addeffect_038	Med Sleep
+addeffect_039	High Sleep
+addeffect_040	Low Rage
+addeffect_041	Med Rage
+addeffect_042	High Rage
+addeffect_043	Low Despair
+addeffect_044	Med Despair
+addeffect_045	High Despair
+addeffect_046	+Random Ailment (low)
+addeffect_047	+Random Ailment (med)
+addeffect_048	+Random Ailment (high)
+addeffect_049	+Critical Rate up (low)
+addeffect_050	+Critical Rate up (med)
+addeffect_051	+Critical Rate up (high)
+addeffect_052	+Fire attacks
+addeffect_053	+Ice attacks
+addeffect_054	+Elec attacks
+addeffect_055	+Wind attacks
+addeffect_056	+Nuke attacks
+addeffect_057	+Psy attacks
+addeffect_058	+Bless attacks
+addeffect_059	+Curse attacks
+addeffect_060	+Repel Physical (low)
+addeffect_061	+Repel Physical (med)
+addeffect_062	+Repel Physical (high)
+addeffect_063	+Resist Burn
+addeffect_064	+Resist Freeze
+addeffect_065	+Resist Shock
+addeffect_066	+Resist Dizzy
+addeffect_067	+Resist Confuse
+addeffect_068	+Resist Fear
+addeffect_069	+Resist Forget
+addeffect_070	+Resist Hunger
+addeffect_071	+Resist Sleep
+addeffect_072	+Resist Rage
+addeffect_073	+Resist Despair
+addeffect_074	+Resist Mouse
+addeffect_075	+Resist Brainwash
+addeffect_076	+Auto-Tarukaja
+addeffect_077	+Auto-Rakukaja
+addeffect_078	+Auto-Sukukaja
+addeffect_079	+Reduce Physical dmg (low)
+addeffect_080	+Reduce Physical dmg (med)
+addeffect_081	+Reduce Physical dmg (high)
+addeffect_082	+Reduce Fire dmg (low)
+addeffect_083	+Reduce Fire dmg (med)
+addeffect_084	+Reduce Fire dmg (high)
+addeffect_085	+Reduce Ice dmg (low)
+addeffect_086	+Reduce Ice dmg (med)
+addeffect_087	+Reduce Ice dmg (high)
+addeffect_088	+Reduce Elec dmg (low)
+addeffect_089	+Reduce Elec dmg (med)
+addeffect_090	+Reduce Elec dmg (high)
+addeffect_091	+Reduce Wind dmg (low)
+addeffect_092	+Reduce Wind dmg (med)
+addeffect_093	+Reduce Wind dmg (high)
+addeffect_094	+Reduce Nuke dmg (low)
+addeffect_095	+Reduce Nuke dmg (med)
+addeffect_096	+Reduce Nuke dmg (high)
+addeffect_097	+Reduce Psy dmg (low)
+addeffect_098	+Reduce Psy dmg (med)
+addeffect_099	+Reduce Psy dmg (high)
+addeffect_100	+Reduce Bless dmg (low)
+addeffect_101	+Reduce Bless dmg (med)
+addeffect_102	+Reduce Bless dmg (high)
+addeffect_103	+Reduce Curse dmg (low)
+addeffect_104	+Reduce Curse dmg (med)
+addeffect_105	+Reduce Curse dmg (high)
+addeffect_106	+Reduce Magic dmg (low)
+addeffect_107	+Reduce Magic dmg (med)
+addeffect_108	+Reduce Magic dmg (high)
+addeffect_109	+Evade Physical (low)
+addeffect_110	+Evade Physical (med)
+addeffect_111	+Evade Physical (high)
+addeffect_112	+Evade Fire (low)
+addeffect_113	+Evade Fire (med)
+addeffect_114	+Evade Fire (high)
+addeffect_115	+Evade Ice (low)
+addeffect_116	+Evade Ice (med)
+addeffect_117	+Evade Ice (high)
+addeffect_118	+Evade Elec (low)
+addeffect_119	+Evade Elec (med)
+addeffect_120	+Evade Elec (high)
+addeffect_121	+Evade Wind (low)
+addeffect_122	+Evade Wind (med)
+addeffect_123	+Evade Wind (high)
+addeffect_124	+Evade Nuke (low)
+addeffect_125	+Evade Nuke (med)
+addeffect_126	+Evade Nuke (high)
+addeffect_127	+Evade Psy (low)
+addeffect_128	+Evade Psy (med)
+addeffect_129	+Evade Psy (high)
+addeffect_130	+Evade Bless (low)
+addeffect_131	+Evade Bless (med)
+addeffect_132	+Evade Bless (high)
+addeffect_133	+Evade Curse (low)
+addeffect_134	+Evade Curse (med)
+addeffect_135	+Evade Curse (high)
+addeffect_136	+Evade Magic (low)
+addeffect_137	+Evade Magic (med)
+addeffect_138	+Evade Magic (high)
+addeffect_139	+50% EXP
+addeffect_140	+Fire attacks
+addeffect_141	+Ice attacks
+addeffect_142	+Wind attacks
+addeffect_143	+Elec attacks
+addeffect_144	+Resist Fire
+addeffect_145	+Resist Ice
+addeffect_146	+Resist Wind
+addeffect_147	+Resist Elec
+addeffect_148	+Nuke attacks
+addeffect_149	+Psy attacks
+addeffect_150	+Bless attacks
+addeffect_151	+Curse attacks
+addeffect_152	+Resist Nuke
+addeffect_153	+Resist Psy
+addeffect_154	+Resist Bless
+addeffect_155	+Resist Curse
+addeffect_156	+Attack when enraged
+addeffect_157	Lowers enemy line of sight
+addeffect_158	Raises enemy alert time
+addeffect_159	Lowers enemy alert time
+addeffect_160	+1 Clip
+addeffect_161	+2 Clips
+addeffect_162	+3 Clips
+addeffect_163	+Null Burn
+addeffect_164	+Null Freeze
+addeffect_165	+Null Shock
+addeffect_166	+Null Dizzy
+addeffect_167	+Null Confuse
+addeffect_168	+Null Fear
+addeffect_169	+Null Forget
+addeffect_170	+Null Hunger
+addeffect_171	+Null Sleep
+addeffect_172	+Null Rage
+addeffect_173	+Null Despair
+addeffect_174	+Null Mouse
+addeffect_175	+Null Brainwash
+addeffect_176	Regenerate 1
+addeffect_177	Regenerate 2
+addeffect_178	Regenerate 3
+addeffect_179	Invigorate 1
+addeffect_180	Invigorate 2
+addeffect_181	Invigorate 3
+addeffect_182	Prevents insta-kill from Bless
+addeffect_183	Prevents Curse insta-kills
+addeffect_184	Lowers enemy Accuracy
+addeffect_185	Null all except Almighty
+addeffect_186	Halves damage, no evasion
+addeffect_187	BLANK
+addeffect_188	BLANK
+addeffect_189	BLANK
+addeffect_190	BLANK
+addeffect_191	BLANK
+addeffect_192	+EXP from battles
+addeffect_193	+Money from battles (1x)
+addeffect_194	+Reduce being targeted
+addeffect_195	+Null Bless/Curse
+addeffect_196	+3 to all stats, +20 SP
+addeffect_197	All-Out Attack power up (1x)
+addeffect_198	+1 bullet upon victory
+addeffect_199	+Crit rate/+Evade Magic
+addeffect_200	Lower skill cost 25%
+addeffect_201	+Reduce status ailment 50%

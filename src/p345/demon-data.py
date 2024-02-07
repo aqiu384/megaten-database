@@ -3,10 +3,11 @@ import struct
 import json
 from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
 
-GAME_PREFIX = 'p4'
+GAME_PREFIX = 'p5r'
 GAME_TYPE = GAME_PREFIX[:2]
 COMP_CONFIG = load_comp_config(f"configs/{GAME_PREFIX}-comp-config.json")
 TOOL_DEMONS = {}
+TRAITS = []
 
 for fname in COMP_CONFIG['demonData']:
     with open(f"configs/{fname}") as jsonfile:
@@ -35,6 +36,10 @@ if GAME_PREFIX == 'p3a':
 
     with open('configs/p3a-demon-data.json') as jsonfile:
         TOOL_DEMONS.update(json.load(jsonfile))
+
+if GAME_PREFIX == 'p5r':
+    with open(f"{GAME_TYPE}-data/trait-effects.tsv") as tsvfile:
+        TRAITS = ['BLANK'] + [x.strip().split('\t')[0] for x in tsvfile]
 
 check_resists(GAME_ENEMIES, TOOL_DEMONS, DEMON_IDS, COMP_CONFIG['demonResists'], COMP_CONFIG)
 
@@ -71,7 +76,13 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
     SEEN_DEMONS[dname] = True
 
     growths = struct.unpack('<5B', line[0x00:0x05])
-    learned = struct.unpack('<32H', line[0x06:0x46])
+
+    if GAME_PREFIX == 'p5r':
+        trait = struct.unpack('<1B', line[0x08:0x09])[0]
+        printif_notequal(dname, 'trait', TRAITS[trait], demon['trait'])
+        learned = struct.unpack('<30H', line[0x0A:0x46])
+    else:
+        learned = struct.unpack('<32H', line[0x06:0x46])
 
     skills = demon['skills']
     seen_skills = []

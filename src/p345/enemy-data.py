@@ -3,7 +3,7 @@ import struct
 import json
 from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
 
-GAME_PREFIX = 'p4'
+GAME_PREFIX = 'p5r'
 GAME_TYPE = GAME_PREFIX[:2]
 COMP_CONFIG = load_comp_config(f"configs/{GAME_PREFIX}-comp-config.json")
 TOOL_DEMONS = {}
@@ -36,12 +36,20 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
     demon = TOOL_DEMONS[dname]
     SEEN_DEMONS[dname] = True
 
-    race_id = struct.unpack('<1B', line[0x02:0x03])[0]
-    dlvl = struct.unpack('<1B', line[0x03:0x04])[0]
-    stats = struct.unpack('<2H5B', line[0x04:0x0D])
-    innate = struct.unpack('<8H', line[0x0E:0x1E])
-    exp, yen = struct.unpack('<2H', line[0x1E:0x22])
-    drops = struct.unpack('<8H', line[0x22:0x32])
+    if GAME_PREFIX == 'p5r':
+        race_id = struct.unpack('<1H', line[0x04:0x06])[0]
+        dlvl = struct.unpack('<1H', line[0x06:0x08])[0]
+        stats = struct.unpack('<2I5B', line[0x08:0x15])
+        innate = struct.unpack('<8H', line[0x16:0x26])
+        exp, yen = struct.unpack('<2H', line[0x26:0x2A])
+        drops = []
+    else:
+        race_id = struct.unpack('<1B', line[0x02:0x03])[0]
+        dlvl = struct.unpack('<1B', line[0x03:0x04])[0]
+        stats = struct.unpack('<2H5B', line[0x04:0x0D])
+        innate = struct.unpack('<8H', line[0x0E:0x1E])
+        exp, yen = struct.unpack('<2H', line[0x1E:0x22])
+        drops = struct.unpack('<8H', line[0x22:0x32])
 
     if GAME_TYPE == 'p3':
         temp = exp
@@ -77,6 +85,9 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
         if iname not in old_drops:
             print(dname, 'drop', iname, old_drops)
 
+if GAME_PREFIX == 'p5r':
+    with open(f"dumps/{GAME_PREFIX}-enemy-resists.bin", 'rb') as binfile:
+        GAME_ENEMIES = binfile.read()
 check_resists(GAME_ENEMIES, TOOL_DEMONS, DEMON_IDS, COMP_CONFIG['enemyResists'], COMP_CONFIG)
 
 for dname, seen in SEEN_DEMONS.items():

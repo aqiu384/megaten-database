@@ -1,17 +1,21 @@
 {
   "demonData": ["p3-demon-data.json", "p3f-demon-data.json"],
-  "enemyData": ["p3a-enemy-data.json"],
+  "enemyData": ["p3-enemy-data.json"],
   "gameAilments": ["Charm", "Poison", "Distress", "Panic", "Fear", "Rage"],
   "toolAilments": ["Charm", "Poison", "Distress", "Panic", "Fear", "Rage"],
   "gameResists": ["sla", "str", "pie", "fir", "ice", "ele", "win", "alm", "lig", "dar"],
   "toolResists": ["sla", "str", "pie", "fir", "ice", "ele", "win", "lig", "dar", "alm"],
+  "dataBlocks": [
+    ["enemyStats", "enemyResists", "demonResists"],
+    ["demonStats", "demonSkills"]
+  ],
   "enemyStats": { "begin": "0x00", "count": "0x150", "length": "0x3E" },
   "enemyResists": { "begin": "0x00", "count": "0x150", "length": "0x20" },
   "demonResists": { "begin": "0x00", "count": "0x100", "length": "0x20" },
   "demonStats": { "begin": "0x00", "count": "0x100", "length": "0xE" },
   "demonSkills": { "begin": "0x00", "count": "0x100", "length": "0x46" },
-  "demonIds": "p3a-demon-ids.tsv",
-  "enemyIds": "p3a-enemy-ids.tsv",
+  "demonIds": "p3f-demon-ids.tsv",
+  "enemyIds": "p3-enemy-ids.tsv",
   "skillEffects": "skill-effects.tsv",
   "itemsBegin": "0xFA0",
   "resistLvls": {

@@ -3,7 +3,8 @@ import struct
 import json
 import re
 
-NEUTRALS = r"[ST23459]"
+# NEUTRALS = r"[ST23459]"
+NEUTRALS = r"[T23459]"
 WEAKS = r"[Z]"
 
 def printif_notequal(dname, field, lhs, rhs):
@@ -15,7 +16,7 @@ def save_ordered_demons(demons, fname):
         for stat_set in ['resmods', 'ailmods', 'stats']:
             if stat_set in entry:
                 entry[stat_set] = '[' + ', '.join(str(x) for x in entry[stat_set]) + ']'
-        for stat_set in ['skills']:
+        for stat_set in ['skills', 'drops']:
             if stat_set in entry and isinstance(entry[stat_set], list):
                 if len(entry[stat_set]) == 0:
                     entry[stat_set] = '[]'
@@ -41,7 +42,7 @@ def load_comp_config(fname):
         v = comp_config[hex_valued]
         comp_config[hex_valued] = int(v, 16) if '0x' in v else int(v)
 
-    for config_set in [['enemyStats', 'enemyResists', 'demonResists'], ['demonStats', 'demonSkills']]:
+    for config_set in comp_config['dataBlocks']:
         offset = 0
 
         for cname in config_set:

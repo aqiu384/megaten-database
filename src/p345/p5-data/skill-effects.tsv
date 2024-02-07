@@ -1,0 +1,1049 @@
+BLANK	BLANK
+BLANK	BLANK
+BLANK	BLANK
+BLANK	BLANK
+BLANK	BLANK
+BLANK	BLANK
+BLANK	BLANK
+BLANK	BLANK
+BLANK	BLANK
+Agi	Light Fire dmg to one foe. Chance of inflicting Burn.
+Agilao	Medium Fire dmg to one foe. Chance of inflicting Burn.
+Agidyne	Heavy Fire dmg to one foe. Chance of inflicting Burn.
+Maragi	Light Fire dmg to all foes. Chance of inflicting Burn.
+Maragion	Medium Fire dmg to all foes. Chance of inflicting Burn.
+Maragidyne	Heavy Fire dmg to all foes. Chance of inflicting Burn.
+Agi	BLANK
+Maragi	BLANK
+Fire Ball	BLANK
+Raging Flames	BLANK
+Bufu	Light Ice dmg to one foe. Chance of inflicting Freeze.
+Bufula	Medium Ice dmg to one foe. Chance of inflicting Freeze.
+Bufudyne	Heavy Ice dmg to one foe. Chance of inflicting Freeze.
+Mabufu	Light Ice dmg to all foes. Chance of inflicting Freeze.
+Mabufula	Medium Ice dmg to all foes. Chance of inflicting Freeze.
+Mabufudyne	Heavy Ice dmg to all foes. Chance of inflicting Freeze.
+Bufu	BLANK
+Mabufu	BLANK
+Snow Ball	BLANK
+Megidolaon	BLANK
+Garu	Light Wind dmg to one foe.
+Garula	Medium Wind dmg to one foe.
+Garudyne	Heavy Wind dmg to one foe.
+Magaru	Light Wind dmg to all foes.
+Magarula	Medium Wind dmg to all foes.
+Magarudyne	Heavy Wind dmg to all foes.
+Garu	BLANK
+Gale Ball	BLANK
+Bless Ball	BLANK
+Curse Ball	BLANK
+Zio	Light Elec dmg to one foe. Chance of inflicting Shock.
+Zionga	Medium Elec dmg to one foe. Chance of inflicting Shock.
+Ziodyne	Heavy Elec dmg to one foe. Chance of inflicting Shock.
+Mazio	Light Elec dmg to all foes. Chance of inflicting Shock.
+Mazionga	Medium Elec dmg to all foes. Chance of inflicting Shock.
+Maziodyne	Heavy Elec dmg to all foes. Chance of inflicting Shock.
+Zio	BLANK
+Mazio	BLANK
+Volt Ball	BLANK
+Make it Rain	BLANK
+Hama	Low chance of Bless insta-kill to one foe.
+Hamaon	Medium chance of Bless insta-kill to one foe.
+Mahama	Low chance of Bless insta-kill to all foes.
+Mahamaon	Medium chance of Bless insta-kill to all foes.
+Kouha	Light Bless dmg to one foe.
+Kouga	Medium Bless dmg to one foe.
+Kougaon	Heavy Bless dmg to one foe.
+Makouha	Light Bless dmg to all foes.
+Makouga	Medium Bless dmg to all foes.
+Makougaon	Heavy Bless dmg to all foes.
+Mudo	Low chance of Curse insta-kill to one foe.
+Mudoon	Medium chance of Curse insta-kill to one foe.
+Mamudo	Low chance of Curse insta-kill to all foes.
+Mamudoon	Medium chance of Curse insta-kill to all foes.
+Eiha	Light Curse dmg to one foe.
+Eiga	Medium Curse dmg to one foe.
+Eigaon	Heavy Curse dmg to one foe.
+Maeiha	Light Curse dmg to all foes.
+Maeiga	Medium Curse dmg to all foes.
+Maeigaon	Heavy Curse dmg to all foes.
+Megido	Medium Almighty dmg to all foes.
+Megidola	Heavy Almighty dmg to all foes.
+Megidolaon	Severe Almighty dmg to all foes.
+Frei	Light Nuke dmg to one foe.
+Freila	Medium Nuke dmg to one foe.
+Freidyne	Heavy Nuke dmg to one foe.
+Mafrei	Light Nuke dmg to all foes.
+Mafreila	Medium Nuke dmg to all foes.
+Mafreidyne	Heavy Nuke dmg to all foes.
+Nuke Ball	BLANK
+Dazzler	High chance of Dizzy to one foe.
+Nocturnal Flash	Medium chance of Dizzy to all foes.
+Pulinpa	High chance of Confuse to one foe.
+Tentarafoo	Medium chance of Confuse to all foes.
+Evil Touch	High chance of Fear to one foe.
+Evil Smile	Medium chance of Fear to all foes.
+Makajam	High chance of Forget to one foe.
+Makajamaon	Medium chance of Forget to all foes.
+Famine's Breath	High chance of Hunger to one foe.
+Famine's Scream	Medium chance of Hunger to all foes.
+Dormina	High chance of Sleep to one foe.
+Lullaby	Medium chance of Sleep to all foes.
+Taunt	High chance of Rage to one foe.
+Wage War	Medium chance of Rage to all foes.
+Ominous Words	High chance of Despair to one foe.
+Abysmal Surge	Medium chance of Despair to all foes.
+Marin Karin	High chance of Brainwash to one foe.
+Brain Jack	Medium chance of Brainwash to all foes.
+Trapped Rat	High chance of Mouse to one foe.
+Psy Ball	BLANK
+Self-destruct	Medium Almighty dmg to all.
+Self-destruct	Medium Almighty dmg to all.
+Self-destruct	Heavy Almighty dmg to all.
+Life Drain	Drains HP from one foe.
+Spirit Drain	Drains SP from one foe.
+Life Leech	Drains high amount of HP from one foe.
+Spirit Leech	Drains high amount of SP from one foe.
+Spirit Drain	BLANK
+NOT USED	BLANK
+BLANK	BLANK
+Foul Breath	Increases chance of inflicting ailments to one foe.
+Stagnant Air	Increases chance of inflicting ailments to all.
+Reverse Rub	High chance of Rage to one foe.
+Ghastly Wail	Insta-kills foes inflicted with Fear.
+NOT USED	BLANK
+Drain	BLANK
+Megidola	BLANK
+Launch	BLANK
+Special Fireworks	BLANK
+Drift	BLANK
+Inferno	Severe Fire dmg to one foe. Chance of inflicting Burn.
+Blazing Hell	Severe Fire dmg to all foes. Chance of inflicting Burn.
+Low Burn	BLANK
+Med Burn	BLANK
+High Burn	BLANK
+Low Freeze	BLANK
+Med Freeze	BLANK
+High Freeze	BLANK
+Low Shock	BLANK
+Med Shock	BLANK
+Diamond Dust	Severe Ice dmg to one foe. Chance of inflicting Freeze.
+Ice Age	Severe Ice dmg to all foes. Chance of inflicting Freeze.
+High Shock	BLANK
+Low Dizzy	BLANK
+Med Dizzy	BLANK
+High Dizzy	BLANK
+Low Confuse	BLANK
+Med Confuse	BLANK
+High Confuse	BLANK
+Low Fear	BLANK
+Panta Rhei	Severe Wind dmg to one foe.
+Vacuum Wave	Severe Wind dmg to all foes.
+Med Fear	BLANK
+High Fear	BLANK
+Low Forget	BLANK
+Med Forget	BLANK
+High Forget	BLANK
+Low Brainwash	BLANK
+Med Brainwash	BLANK
+High Brainwash	BLANK
+Thunder Reign	Severe Elec dmg to one foe. Chance of inflicting Shock.
+Wild Thunder	Severe Elec dmg to all foes. Chance of inflicting Shock.
+Low Sleep	BLANK
+Med Sleep	BLANK
+High Sleep	BLANK
+Low Rage	BLANK
+Med Rage	BLANK
+High Rage	BLANK
+Low Despair	BLANK
+Med Despair	BLANK
+Divine Judgement	Bless attack that reduces HP of one foe by 50%.
+Samsara	High chance of Bless insta-kill to all foes.
+High Despair	BLANK
+Low All Ail	BLANK
+Med All Ail	BLANK
+High All Ail	BLANK
+Adam Skill 1	BLANK
+Revitalize Soul	BLANK
+Grand Palm	BLANK
+Full Force	BLANK
+Demonic Decree	Curse attack that reduces HP of one foe by 50%.
+Die For Me!	High chance of Curse insta-kill to all foes.
+Support Plus 3	Activates Masukunda, Marakunda, and Matarunda.
+Support Plus 2	Activates Masukunda and Marakunda.
+Support Plus 1	Activates Masukunda.
+Support Rate Up	Increases activation of Moral Support.
+Atomic Flare	Severe Nuke dmg to one foe.
+Cosmic Flare	Severe Nuke dmg to all foes.
+Mindfulness	BLANK
+Wakefulness	BLANK
+Black Viper	Severe Almighty dmg to one foe.
+Morning Star	Severe Almighty dmg to all foes.
+Abyssal Eye	Severe Almighty dmg to all foes.
+Champion's Cup	Restores med amount of HP and increases Attack for one ally for 3 turns.
+Bleeding Dry Brush	Forms a barrier that can absorb one attack (except Almighty).
+Vault Guardian	Increases Defense for all allies for 3 turns.
+Wings of Wisdom	Cures all non-special ailments for all allies.
+President's Insight	Next magical attack deals over double the damage for one ally.
+Gambler's Foresight	Increases Agility for all allies for 3 turns.
+Tyrant's Will	Next physical attack  deals over double the  damage for one ally.
+Psi	Light Psy dmg to one foe.
+Psio	Medium Psy dmg to one foe.
+Psiodyne	Heavy Psy dmg to one foe.
+Mapsi	Light Psy dmg to all foes.
+Mapsio	Medium Psy dmg to all foes.
+Mapsiodyne	Heavy Psy dmg to all foes.
+Attack Position	BLANK
+Psycho Force	Severe Psy dmg to one foe.
+Psycho Blast	Severe Psy dmg to all foes.
+Universal Power	BLANK
+Lunge	Light Phys dmg to one foe.
+Assault Dive	Heavy Phys dmg to one foe.
+Megaton Raid	Severe Phys dmg to one foe.
+God's Hand	Colossal Phys dmg to one foe.
+Lunge	BLANK
+Lucky Punch	Miniscule Phys dmg to one foe with high chance of Critical.
+Miracle Punch	Medium Phys dmg to one foe with high chance of Critical.
+Kill Rush	Light Phys dmg to one foe 1-3 times.
+Gattling Blows	Light Phys dmg to one foe 3-4 times.
+Piercing Strike	BLANK
+Cleave	Light Phys dmg to one foe.
+Giant Slice	Medium Phys dmg to one foe. Powers up after a Baton Pass.
+Brave Blade	Colossal Phys dmg to one foe.
+Sword Dance	Colossal Phys dmg to one foe with high chance of Critical.
+Holy Benevolence	Revives all fallen allies to full HP.
+Hassou Tobi	Light Phys dmg to all foes 8 times.
+Ayamur	Medium Phys dmg to one foe 3 times with high Accuracy.
+Death Scythe	Severe Phys dmg to one foe. Medium chance of Fear.
+UNUSED	BLANK
+NOT USED	BLANK
+Cornered Fang	Medium Phys dmg to one foe. Powers up when surrounded.
+Rising Slash	Heavy Phys dmg to one foe. Powers up after a Baton Pass.
+Deadly Fury	Severe Phys dmg to one foe. Powers up after a Baton Pass.
+Nuclear Crush	BLANK
+Snap	Medium Gun dmg to one foe.
+Triple Down	Light Gun dmg to all foes 3 times.
+One-shot Kill	Severe Gun dmg to one foe with high chance of Critical.
+Riot Gun	Severe Gun dmg to all foes.
+Double Shot	Light Gun dmg to one foe 2 times.
+Origin Light	BLANK
+Vajra Blast	Medium Phys dmg to all foes.
+Vorpal Blade	Severe Phys dmg to all foes.
+NOT USED	BLANK
+NOT USED	BLANK
+NOT USED	BLANK
+Vicious Strike	Medium Phys dmg to all foes.
+Heat Wave	Heavy Phys dmg to all foes.
+Gigantomachia	Colossal Phys dmg to all foes.
+Swirling Psychokinesis	BLANK
+Tyrant's Purge	BLANK
+Mass Ball	BLANK
+Rampage	Light Phys dmg to all foes 1-3 times.
+Swift Strike	Miniscule Phys dmg to all foes 2-4 times.
+Deathbound	Medium Phys dmg to all foes 1-2 times.
+Agneyastra	Medium Phys dmg to all foes 1-3 times.
+NOT USED	BLANK
+Regeneration	BLANK
+Rising Slash	Enemy-only Skill
+Deadly Fury	Enemy-only Skill
+Tyrant's Judgement	BLANK
+Double Fangs	Light Phys dmg to one foe 2 times.
+Power Slash	Medium Phys dmg to one foe.
+Shapeless Guard	BLANK
+Tempest Slash	Miniscule Phys dmg to one foe 3-5 times.
+Myriad Slashes	Medium Phys dmg to one foe 2-3 times.
+Amplify Force	BLANK
+Amplify Magic	BLANK
+Raining Seeds	BLANK
+Energy Stream	BLANK
+Flow	BLANK
+Sledgehammer	Medium Phys dmg to one foe. Medium chance of Dizzy.
+Skull Cracker	Medium Phys dmg to one foe. Medium chance of Confuse.
+Terror Claw	Light Phys dmg to one foe. Medium chance of Fear.
+Headbutt	Medium Phys dmg to one foe. Medium chance of Forget.
+Stomach Blow	Heavy Phys dmg to one foe. Medium chance of Hunger.
+Dream Needle	Light Gun dmg to one foe. Medium chance of Sleep.
+Hysterical Slap	Medium Phys dmg to one foe. Medium chance of Rage.
+Negative Pile	Heavy Phys dmg to one foe. Medium chance of Despair.
+Brain Shake	Medium Phys dmg to one foe. Medium chance of Brainwash.
+Attack	BLANK
+Flash Bomb	Medium Phys dmg to all foes. Low chance of Dizzy.
+Mind Slice	Medium Phys dmg to all foes. Low chance of Confuse.
+Bloodbath	Heavy Phys dmg to all foes. Low chance of Fear.
+Memory Blow	Light Phys dmg to all foes. Low chance of Forget.
+Insatiable Strike	Heavy Phys dmg to all foes. Low chance of Hunger.
+Dormin Rush	Medium Phys dmg to all foes. Low chance of Sleep.
+Oni Kagura	Medium Phys dmg to all foes. Low chance of Rage.
+Bad Beat	Medium Phys dmg to all foes. Low chance of Despair.
+Brain Buster	Heavy Phys dmg to all foes. Low chance of Brainwash.
+Laevateinn	Colossal Phys dmg to one foe.
+Handgun	BLANK
+Shotgun	BLANK
+Slingshot	BLANK
+Machine Gun	BLANK
+Assault Rifle	BLANK
+Revolver	BLANK
+Grenade Launcher	BLANK
+Laser Gun	BLANK
+Antique Rifle	BLANK
+Tyrant Stance	BLANK
+Fighting Spirit	Next physical attack deals over double the damage for all allies.
+Miracle Rush	Medium Phys dmg to all foes with high chance of Critical.
+Checkmate	Decreases ATK/DEF/ Accuracy/Evasion for all foes.
+Hyakka Ryouran	Increases ATK/DEF/ Accuracy/Evasion for all allies.
+High Energy	Next magical attack deals over double the damage for all allies.
+Ultimate Support	Ultimate support effect of strengthening/healing all allies may activate in battle.
+Life Wall	Forms a barrier that reflects all attacks for all allies.
+Rebellion Blade	Colossal Almighty dmg to one foe. Highly effective if foe is Downed.
+Masquerade	Severe Phys dmg to one foe 2 times.
+Guiding Tendril	Knockdown attack on all foes (only usable during an Ambush).
+Dia	Restores low amount of HP to one ally.
+Diarama	Restores medium amount of HP to one ally.
+Diarahan	Fully restores HP to one ally.
+Brave Step	Increases chance of Critical for all allies for 3 turns.
+Maruki Punch	BLANK
+Media	Restores low amount of HP to all allies.
+Mediarama	Restores medium amount of HP to all allies.
+Mediarahan	Fully restores HP to all allies.
+Brutal Impact	BLANK
+Cursed Strike	BLANK
+Recarm	Revives one fallen ally to 50% HP.
+Samarecarm	Revives one fallen ally to full HP.
+Recarmdra	Fully restores HP of all allies. Reduces HP of caster to 1.
+Sleuthing Instinct	BLANK
+Sleuthing Mastery	BLANK
+Amrita Drop	Cures all non-special ailments for one ally.
+Amrita Shower	Cures all non-special ailments for all allies.
+Holy Strike	BLANK
+Salvation	Fully restores HP and cures non-special ailments for all allies.
+Nuclear Strike	BLANK
+Psychokinesis Strike	BLANK
+Taunting Aura	Raises own chances of being targeted by foes.
+Storm Punishment	BLANK
+Concealment	Decreases chance of being targeted by foes.
+Lightning Punishment	BLANK
+Patra	Cures Dizzy/Forget/ Sleep/Hunger for one ally.
+Punishing Hail	BLANK
+Energy Shower	Cures Confuse/Fear/ Despair/Brainwash/ Rage for all allies.
+Energy Drop	Cures Confuse/Fear/ Despair/Brainwash/ Rage for one ally.
+Baisudi	Cures Burn/Freeze/Shock for one ally.
+Me Patra	Cures Dizzy/Forget/ Sleep/Hunger for all allies.
+Mabaisudi	Cures Burn/Freeze/Shock for all allies.
+Charge Ball	BLANK
+Concentrated Ball	BLANK
+Inferno Punishment	BLANK
+Tarukaja	Increases Attack for one ally for 3 turns.
+Rakukaja	Increases Defense for one ally for 3 turns.
+Sukukaja	Increases Accuracy/ Evasion for one ally for 3 turns.
+Heat Riser	Increases ATK/DEF/ Accuracy/Evasion for one ally.
+Gunfire Punishment	BLANK
+Matarukaja	Increases Attack for all allies for 3 turns.
+Marakukaja	Increases Defense for all allies for 3 turns.
+Masukukaja	Increases Accuracy/ Evasion for all allies for 3 turns.
+Thermopylae	Increases ATK/DEF/ Accuracy/Evasion for all allies when surrounded.
+Guillotine Punishment	BLANK
+Tarunda	Decreases Attack for one foe for 3 turns.
+Rakunda	Decreases Defense for one foe for 3 turns.
+Sukunda	Decreases Accuracy/ Evasion for one foe for 3 turns.
+Debilitate	Decreases ATK/DEF/ Accuracy/Evasion for one foe.
+Quadruple Summon	BLANK
+Matarunda	Decreases Attack for all foes for 3 turns.
+Marakunda	Decreases Defense for all foes for 3 turns.
+Masukunda	Decreases Accuracy/ Evasion for all foes for 3 turns.
+Analysis	BLANK
+Analysis	BLANK
+Dekunda	Removes all stat  debuffs for all allies.
+Dekaja	Removes all stat buffs for all foes.
+Explosion!	BLANK
+Explosion!	BLANK
+Sphinx Swipe	BLANK
+Charge	Next physical attack  deals over double the damage.
+Concentrate	Next magical attack  deals over double the damage.
+Nose Dive	BLANK
+Kill Reward Up	BLANK
+Guard Reward Up	BLANK
+Rebellion	Increases chance of Critical for one ally for 3 turns.
+Revolution	Increases chance of Critical for all for 3 turns.
+Make it Rain	BLANK
+Special Guards	BLANK
+Fake Artist's Grace	BLANK
+Tetrakarn	A barrier that reflects physical attacks for one ally one time.
+Makarakarn	A barrier that reflects magical attacks for one ally one time.
+Tetraja	A barrier that nullifies an insta-kill for all allies one time.
+Taste of Wrath	BLANK
+True Fake	BLANK
+Tetra Break	Negates Tetrakarn on all foes.
+Makara Break	Negates Makarakarn on all foes.
+Killshot of Love	BLANK
+NOT USED	BLANK
+NOT USED	BLANK
+Fire Wall	Adds Fire resistance to one ally for 3 turns.
+Ice Wall	Adds Ice resistance to one ally for 3 turns.
+Elec Wall	Adds Elec resistance to one ally for 3 turns.
+Wind Wall	Adds Wind resistance to one ally for 3 turns.
+BLANK	BLANK
+Fire Break	Negates Fire resistance of all foes. Cannot negate Fire Wall.
+Ice Break	Negates Ice resistance of all foes. Cannot negate Ice Wall.
+Wind Break	Negates Wind resistance of all foes. Cannot negate Wind Wall.
+Elec Break	Negates Elec resistance of all foes. Cannot negate Elec Wall.
+BLANK	BLANK
+Trafuri	Guarantees escape from battle. Not all battles apply.
+Traesto	Return to the entrance of the Metaverse.
+Active Barrier	BLANK
+Nuke Wall	Adds Nuke resistance to one ally for 3 turns.
+Psy Wall	Adds Psy resistance to one ally for 3 turns.
+Nuke Break	Negates Nuke resistance of all foes. Cannot negate Nuke Wall.
+Psy Break	Negates Psy resistance of all foes. Cannot negate Psy Wall.
+BLANK	BLANK
+BLANK	BLANK
+Flow	BLANK
+All-out Lv 1	BLANK
+All-out Lv 2	BLANK
+All-out Lv 3	BLANK
+Emergency Escape	BLANK
+Attack	BLANK
+Down Shot	BLANK
+Summon	Summon one unit.
+Call for Backup	BLANK
+Outlaw Attack	BLANK
+Barrage	BLANK
+Follow Crush	BLANK
+Follow Claw	BLANK
+Follow Whip	BLANK
+Follow Blade	BLANK
+Follow Knuckle	BLANK
+Follow Axe	BLANK
+Follow Saber	BLANK
+Dispose Item	BLANK
+Heal Enemy	BLANK
+Death (Despair)	BLANK
+Member 1 Pursue Up	BLANK
+Member 2 Pursue Up	BLANK
+Member 3 Pursue Up	BLANK
+Member 4 Pursue Up	BLANK
+Member 5 Pursue Up	BLANK
+Member 6 Pursue Up	BLANK
+Member 7 Pursue Up	BLANK
+Power Up Enemy	BLANK
+Power Up Enemy	BLANK
+Power Up Enemy	BLANK
+Steal Info	Gives ability to view the attribute affinities of one foe.
+Sup Matarukaja	Increases Attack for all allies for 3 turns.
+Sup Marakukaja	Increases Defense for all allies for 3 turns.
+Sup Masukukaja	Increases Accuracy/ Evasion for all allies for 3 turns.
+Sup All Kaja	Increases ATK/DEF/ Accuracy/Evasion for all allies.
+Sup Charge	Next attack deals over double the damage for all allies.
+Sup HP +30%	Restores 50% HP to all allies.
+Sup SP +10%	Restores 10% SP to all allies.
+Sup Escape Route	Escape 100% successfully from all battles except for bosses.
+Sup Third Eye	View how effective an attack will be when targeting a foe.
+Subrecover HP	Restores 10% HP to backup members after battle.
+Subrecover SP	Restores 1% SP to backup members after battle.
+Analysis	Confirm affinities of enemies you have previously attacked.
+Deep Analysis	Confirm affinities and skills of enemies you have previously attacked .
+Full Analysis	Confirm enemy skills and all affinities, including those not yet attacked.
+All-Out Attack	BLANK
+Dust Flurry	Miniscule Wind dmg to all foes.
+Tongue Whip	BLANK
+Whip Strike	BLANK
+Lustful Slurp	BLANK
+Libido Boost	BLANK
+Golden Knife	BLANK
+Lick	BLANK
+Gold Medal Spike	BLANK
+Volleyball Assault	Miniscule Phys dmg to one foe 2-5 times.
+Maelstrom	BLANK
+Flame Dance	BLANK
+Silent Snowscape	BLANK
+Thunderclap	BLANK
+Maeiga	BLANK
+Hunger All	BLANK
+Ocular Vulcan	BLANK
+Missile Party	BLANK
+Fear Gas	BLANK
+Super VIP Form	BLANK
+March of the Piggy	BLANK
+Sphinx Swipe	BLANK
+Wing Blast	BLANK
+Rapid Ascent	BLANK
+Sphinx Dive	BLANK
+Dreadful Scream	BLANK
+Bite	BLANK
+Restore	BLANK
+The Artist's Grace	BLANK
+Work Order	BLANK
+Sacrifice Order	BLANK
+Selfless Devotion	BLANK
+Penalty	BLANK
+Coin Attack	BLANK
+Severing Slash	BLANK
+Gatling Gun	BLANK
+Berserker Dance	BLANK
+Roulette: HP	BLANK
+Roulette: SP	BLANK
+Roulette: Money	BLANK
+Roulette: Support 1	BLANK
+Roulette: Support 2	BLANK
+Roulette: Support 3	BLANK
+Beast King's Wrath	BLANK
+Hunting Stance	BLANK
+Arm of Destruction	BLANK
+Gryphon's Breath	BLANK
+Royal Wing Beam	BLANK
+Cannon Fire	BLANK
+Cannon Barrage	BLANK
+Unholy Convergence	BLANK
+Pyramid Blast	BLANK
+Tyrant's Fist	BLANK
+Tyrant's Glare	BLANK
+Tyrant's Wave	BLANK
+Fig Seed	Item: Recovers 20 HP
+Medicine	Item: Recovers 100 HP
+Ointment	Item: Recovers 200 HP
+Antibiotic Gel	Item: Recovers 400 HP
+Life Stone	Item: Recovers 30% HP
+Bead	Item: Fully recovers HP
+Value Medicine	Item: All recover 100 HP
+Medical Kit	Item: All recover 200 HP
+Maka Leaf	Item: All recover 400 HP
+Bead Chain	Item: Fully recovers HP
+Soul Drop	Item: Recovers 10 SP
+Snuff Soul	Item: Recovers 50 SP
+Chewing Soul	Item: Recovers 100 SP
+Soul Food	Item: Fully Recovers SP
+Revival Bead	Item: Revive
+Balm of Life	Item: Revives with full HP
+Royal Jelly	Item: Cures Mouse
+Organic Herb	Unused Item
+Disclose	Item: Cures Forget/Dizzy/Sleep
+Tranquilizer	Item: Cures Confuse/Fear/Rage/ Despair/Brainwash
+Kopi Luwak	Unused Item
+Goho-M	Item: Return to Metaverse entrance
+Vanish Ball	Item: Escape from battle
+Soma	Item: Fully recovers HP and SP
+Amrita Soda	Item: Cures all ailments except Down and KO
+Hiranya	Item: Cures all ailments except Down and KO
+Muscle Drink	Item: Recovers 30% HP for 1 ally, inflicts Rakunda and Tarukaja
+Odd Morsel	Item: Recovers 30% HP for 1 ally, inflicts Sukunda and Tarukaja
+Rancid Gravy	Item: Recovers 30% HP for 1 ally, inflicts Taranda and Sukukaja
+Plume of Dusk	Item: When Joker is KO'd, fully recovers all allies
+Magic Mirror	Item: A barrier that reflects all but Phys/Almighty
+Physical Mirror	Item: A barrier that reflects Phys skills
+Universe Ring	Item: Attack up for all allies
+Sleipnir	Item: Evasion up for all allies
+Obsidian Mirror	Item: Defense up for all allies
+Purifying Water	Item: Attack up for all allies
+Purifying Salt	Item: Negates stat debuffs for all allies
+Firecracker	Item: 50 Fire damage
+San-zun Tama	Item: 50 Fire damage
+Ice Cube	Item: 50 Ice damage
+Dry Ice	Item: 50 Ice damage
+Pinwheel	Item: 50 Wind damage
+Yashichi	Item: 50 Wind damage
+Ball Lightning	Item: 50 Elec damage
+Tesla Coil	Item: 50 Elec damage
+Smart Bomb	Item: 100 Almighty damage
+Segami Rice	Item: Bless insta-kill
+Curse Paper	Item: Curse insta-kill
+Flame Magatama	Item: 150 Fire damage
+Wind Magatama	Item: 150 Wind damage
+Freeze Magatama	Item: 150 Ice damage
+Bolt Magatama	Item: 150 Elec damage
+Homunculus	Item: Blocks an insta-kill attack
+Removal Potion	BLANK
+Kouga Ball	Item: 50 Bless damage
+Makouha Ball	Item: 50 Bless damage
+Eiga Ball	Item: 50 Curse damage
+Maeiga Ball	Item: 50 Curse damage
+Psio Ball	Item: 50 Psy damage
+Mapsi Ball	Item: 50 Psy damage
+Freila Ball	Item: 50 Nuke damage
+Mafrei Ball	Item: 50 Nuke damage
+Nuke Magatama	Item: 150 Nuke damage
+Psy Magatama	Item: 150 Psy damage
+Bless Magatama	Item: 150 Bless damage
+Curse Magatama	Item: 150 Curse damage
+Cooking	Item: Cures Hunger. Moderate HP recovery.
+Snack	Item: Cures Hunger. Slight HP recovery.
+Juice 1	Item: Recovers 10 HP for 1 ally
+Juice 2	Item: Recovers 30 HP for 1 ally
+Juice 3	Item: Recovers 5 SP for 1 ally
+Juicer Bar 1	Item: Recovers 50 HP for 1 ally. Cures ailments.
+Juicer Bar 2	Item: Recovers 30 HP for 1 ally. Cures Rage/Despair/ Brainwash/Confuse.
+Juicer Bar 3	Item: Recovers 30 HP for 1 ally. Cures Burn/Freeze/Shock.
+Juicer Bar 4	Item: Recovers 30 HP for 1 ally. Cures Dizzy/Forget/Sleep.
+Health Drink 1	Item: Recovers 30 HP for 1 ally. Sukunda to self.
+Health Drink 2	Item: Recovers 100 HP for 1 ally. Tarunda to self.
+Health Drink 3	Item: Recovers 200 HP for 1 ally. Rakunda to self.
+Canned Juice 1	Item: Recovers 100 HP for 1 ally. Rakunda/Sukunda to self.
+Canned Juice 2	Item: Recovers 100 HP for 1 ally. Sukunda/Tarunda to self.
+Canned Juice 3	Item: Recovers 100 HP for 1 ally. Tarunda/Rakunda to self.
+Canned Juice 4	Item: Recovers 30% HP for 1 ally. Debilitate to self.
+Military  Food 1	Item: Recovers 10% SP for 1 ally. Rakunda to self.
+Military Food 2	Item: Recover 10% SP for 1 ally. Sukunda to self.
+Military Food 3	Item: Recover 10% SP for 1 ally. Tarunda to self.
+Drug Store 1	BLANK
+Drug Store 2	BLANK
+Drug Store 3	BLANK
+Drug Store 4	BLANK
+Drug Store 5	BLANK
+Drug Store 6	Item: Recovers 10 HP
+Drug Store 7	Item: Recovers 25 HP
+Drug Store 8	Item: Recovers 50 HP
+Drug Store 9	Item: Recovers 5 SP
+Drug Store 10	Item: Recovers 25 SP
+Drug Store 11	BLANK
+Drug Store 12	BLANK
+Special Coffee 1	BLANK
+Special Coffee 2	BLANK
+Double Fangs	BLANK
+Twins Down Attack	BLANK
+Caro Rod	BLANK
+Caro Attack	BLANK
+Megidolaon	BLANK
+Rays of Control	BLANK
+Rays of Control	BLANK
+Rays of Control	BLANK
+Rays of Control	BLANK
+Arrow of Light	BLANK
+Diffraction Arrow	BLANK
+Light Edge	BLANK
+Gathering Light	BLANK
+Eternal Light	BLANK
+Holy Change	BLANK
+Distortion Wave	BLANK
+Tough Law	BLANK
+Frail Law	BLANK
+New Creation	BLANK
+Distortion Surge	BLANK
+Arrow of Light	BLANK
+Manifest Sword	BLANK
+Manifest Gun	BLANK
+Manifest Bell	BLANK
+Sword of Judgment	BLANK
+Capital Punishment	BLANK
+Manifest Book	BLANK
+Distorted Lust	BLANK
+Gospel	BLANK
+Distorted Wrath	BLANK
+Distorted Vanity	BLANK
+Song of Salvation	BLANK
+Wrath of God	BLANK
+Distorted Gluttony	BLANK
+Distorted Envy	BLANK
+Song of Placation	BLANK
+Divine Apex	BLANK
+Rays of Control	BLANK
+Distorted Avarice	BLANK
+Will of the People	BLANK
+Rays of Control	BLANK
+Moral Support	Casts various buffs on allies.
+Active Support	Casts even more buffs on allies.
+Mental Hack	Recognize the most effective choice in Demon Negotiations.
+Emergency Shift	Swaps fallen ally with a backup member.
+Final Guard	Chance of nullifying attacks directed at entire party.
+Position Hack	Low chance of Hold Up at the start of battle except when ambushed.
+Fitness Talk	View attribute affinities and skills when Analyzing.
+Treasure Skimmer	Find out if a foe is carrying a rare item ahead of time.
+Subrecover HP EX	Restores 20% HP to backup members after battle.
+Subrecover SP EX	Restores 3% SP to backup members after battle.
+Big Bang Treat	BLANK
+Explosion!	BLANK
+Explosion!	BLANK
+Explosion!	BLANK
+Big Bang Order	BLANK
+Roulette Time	BLANK
+Trip-Upper	Downs one foe.
+Shot of Lust	Medium Almighty dmg to all foes.
+Down Shot 2	BLANK
+Down Shot 3	BLANK
+Down Shot 4	BLANK
+Electro Attack	Heavy dmg to one foe, ignoring affinities.
+Sinful Shell	A bullet made from the Seven Deadly Sins. Can pierce even a god.
+Follow Blade	BLANK
+Summon	BLANK
+Madara-Megido	BLANK
+Curry Raku	BLANK
+Enemy Benefit	BLANK
+Diarahan	BLANK
+Curry Suku	BLANK
+Decoy Ball	BLANK
+Super Decoy Ball	BLANK
+Metabolic Wave	BLANK
+Laevateinn	Colossal Phys dmg to one foe.
+Desperation	BLANK
+Call of Chaos	BLANK
+Big Bang Challenge	BLANK
+Grail Light 2	BLANK
+Megidola	BLANK
+Rage Transmission	BLANK
+Hundred Slaps	BLANK
+Distorted Pride	BLANK
+Divine Punishment	BLANK
+Will of the People	BLANK
+Wind Cutter	BLANK
+Shoot Up	BLANK
+Executive Punch	BLANK
+Megidolaon	BLANK
+Vorpal Blade	BLANK
+Megidolaon	BLANK
+Big Bang Burger	BLANK
+Earth Burger	BLANK
+Mars Burger	BLANK
+Moon Burger	BLANK
+Saturn Burger	BLANK
+Justine Attack	BLANK
+Caroline Attack	BLANK
+Curry Makara	BLANK
+Curry Tetra	BLANK
+Curry Endure	BLANK
+Curry Charge	BLANK
+Curry Concentrate	BLANK
+Curry Heat Riser	BLANK
+Magic Wall	Nullifies all magical attacks except Almighty for one ally.
+Cadenza	Restores 50% HP and increases Accuracy/ Evasion for all allies.
+Cross Slash	Heavy Phys dmg to one foe 2 times. High Accuracy.
+Door of Hades	Heavy Almighty dmg to all foes. Medium chance of insta-kill.
+Magatsu Mandala	Heavy Curse dmg to all foes. Chance of Confuse/Fear/Despair.
+Shining Arrows	Light Bless dmg to all foes 4-8 times.
+Beast Weaver	Colossal Phys dmg to one foe. Decreases Attack.
+Titanomachia	Severe Fire dmg to all foes, with high chance of Fear.
+Abyssal Wings	Severe Curse dmg to all foes.
+Oratario	Fully restores HP and removes all stat debuffs for all allies.
+Myriad Truths	Heavy Almighty dmg to all foes 3 times.
+Neo Cadenza	Restores 50% HP and increases ATK/DEF/ ACC/EV for allies.
+Akashic Arts	Severe Phys dmg to all foes with high chance of Critical 1-2 times.
+Phantom Show	High chance of inflicting Sleep to all foes.
+Confuse Ball	BLANK
+Baptism Ball	BLANK
+Exorcism Ball	BLANK
+Megido	BLANK
+Megidola	BLANK
+Megidolaon	BLANK
+Slam	BLANK
+Megaton Raid	BLANK
+One-shot Kill	BLANK
+Inferno	BLANK
+Diamond Dust	BLANK
+Eternal Radiance	BLANK
+Tyrant Chaos	BLANK
+New Curry 1	BLANK
+New Curry 2	BLANK
+Reviv-All	BLANK
+Reviv-All Z	BLANK
+Dark Akechi or pursuing	BLANK
+Dark Akechi or Gun pursuing	BLANK
+Wild Talk	BLANK
+Baton Pass	BLANK
+Punk Talk	BLANK
+Pickpocket	BLANK
+Harisen Recovery	BLANK
+Protect	BLANK
+Girl Talk	BLANK
+Crocodile Tears	BLANK
+Sexy Technique	BLANK
+Smooth Talk	BLANK
+Art Talk	BLANK
+Diplomacy	BLANK
+Fundraising	BLANK
+Manipulation	BLANK
+Mind Control	BLANK
+Charismatic Speech	BLANK
+Black Belt Talk	BLANK
+Koma Sabaki	BLANK
+Kakoi Kuzushi	BLANK
+Touryou	BLANK
+Togo System	BLANK
+Bullet Hail	BLANK
+Warning Shot	BLANK
+Celeb Talk	BLANK
+Kitty Talk	BLANK
+Marin Karin	BLANK
+Womanizing	BLANK
+Indignant Revenge	BLANK
+Healing Power	BLANK
+Healing Power	BLANK
+Taunt	BLANK
+Iridescent Change	BLANK
+Brave Blade	BLANK
+Assault Dive	BLANK
+Terror Claw	BLANK
+Bufudyne	BLANK
+Psiodyne	BLANK
+Mazionga	BLANK
+Maziodyne	BLANK
+Maeiga	BLANK
+Maeigaon	BLANK
+Adam Skill 5	BLANK
+Adam Skill 6	BLANK
+Vorpal Blade	BLANK
+Mona/Ryuji Unison Attack	BLANK
+Mona/Ann Unison Attack	BLANK
+Mona/Haru Unison Attack	BLANK
+Yusuke/Ann Unison Attack	BLANK
+Ryuji/Yusuke Unison Attack	BLANK
+Ryuji/Makoto Unison Attack	BLANK
+Protag/Akechi Unison Attack	BLANK
+Makoto/Haru Unison Attack	BLANK
+UNUSED: Akechi Unison Attack	BLANK
+Protag/Kasumi Unison Attack	BLANK
+Mona/Ryuji Unison Attack	Severe Curse dmg to one foe.
+Mona/Ann Unison Attack	Severe Elec dmg to one foe.
+Mona/Haru Unison Attack	Severe Wind dmg to one foe. Effective vs Burn.
+Yusuke/Ann Unison Attack	Severe Fire dmg to one foe.
+Ryuji/Yusuke Unison Attack	Severe Ice dmg to one foe.
+Ryuji/Makoto Unison Attack	Severe Nuke dmg to one foe.
+Protag/Akechi Unison Attack	Severe Psy dmg to one foe.
+Makoto/Haru Unison Attack	BLANK
+Unused: Akechi Unison Attack	Severe Bless dmg to one foe.
+Protag/Kasumi Unison Attack	Severe Almighty dmg to one foe.
+Counter	10% chance of reflecting physical attacks.
+Counterstrike	15% chance of reflecting physical attacks. Does not stack.
+High Counter	20% chance of reflecting physical attacks. Does not stack.
+Resist Burn	Decreases chances of being inflicted with Burn.
+Null Burn	Prevents infliction of Burn.
+Endure	Revives with 1 HP when KO'd. Usable once per battle.
+Enduring Soul	Revives with full HP when KO'd. Usable once per battle.
+Resist Freeze	Decreases chances of being inflicted with Freeze.
+Null Freeze	Prevents infliction of Freeze.
+Survival Trick	Survive insta-kill skills with 1 HP.
+Dodge Fire	Increases Evasion from Fire skills.
+Evade Fire	Greatly increases Evasion from Fire skills. Does not stack.
+Dodge Ice	Increases Evasion from Ice skills.
+Evade Ice	Greatly increases Evasion from Ice skills. Does not stack.
+Dodge Wind	Increases Evasion from Wind skills.
+Evade Wind	Greatly increases Evasion from Wind skills. Does not stack.
+Dodge Elec	Increases Evasion from Elec skills.
+Evade Elec	Greatly increases Evasion from Elec skills. Does not stack.
+Dodge Phys	Increases Evasion from Phys skills.
+Evade Phys	Greatly increases Evasion from Phys skills. Does not stack.
+Fire Boost	Strengthens Fire skills by 25%.
+Fire Amp	Strengthens Fire skills by 50%. Can stack.
+Ice Boost	Strengthens Ice skills by 25%.
+Ice Amp	Strengthens Ice skills by 50%. Can stack.
+Wind Boost	Strengthens Wind skills by 25%.
+Wind Amp	Strengthens Wind skills by 50%. Can stack.
+Elec Boost	Strengthens Elec skills by 25%.
+Elec Amp	Strengthens Elec skills by 50%. Can stack.
+Angelic Grace	Increases Evasion from all magical attacks except Almighty.
+Divine Grace	Increases the effect of healing skills by 50%.
+Regenerate 1	Restores 2% of max HP each turn in battle.
+Regenerate 2	Restores 4% of max HP each turn in battle. 
+Regenerate 3	Restores 6% of max HP each turn in battle.
+Dodge Bless	Increases Evasion from non-Hama Bless skills.
+Dodge Curse	Increases Evasion from non-Mudo Curse skills.
+Invigorate 1	Restores 3 SP each turn in battle.
+Invigorate 2	Restores 5 SP each turn in battle.
+Invigorate 3	Restores 7 SP each turn in battle.
+Evade Bless	Greatly increases Evasion from non-Hama Bless skills. Does not stack.
+Evade Curse	Greatly increases Evasion from non-Mudo Curse skills. Does not stack.
+Attack Master	Automatic Tarukaja at the start of battle.
+Auto-Mataru	Automatic Matarukaja at the start of battle.
+Resist Shock	Decreases chances of being inflicted with Shock.
+Defense Master	Automatic Rakukaja at the start of battle.
+Auto-Maraku	Automatic Marakukaja at the start of battle.
+Null Shock	Prevents infliction of Shock.
+Speed Master	Automatic Sukukaja at the start of battle.
+Auto-Masuku	Automatic Masukukaja at the start of battle.
+Resist Hunger	Decreases chances of being inflicted with Hunger.
+Null Hunger	Prevents infliction of Hunger.
+Fast Heal	Decreases recovery time from ailments by half.
+Insta-Heal	Decreases recovery time from ailments to 1 turn.
+Arms Master	Decreases HP cost of skills by half.
+Spell Master	Decreases SP cost of skills by half.
+Rage Atk Up	Increases Attack when inflicted by Rage.
+Sharp Student	Decreases chance of being hit by a Critical.
+Apt Pupil	Increases chance of Critical.
+Ali Dance	Greatly decreases Accuracy for one foe.
+Firm Stance	Take the blow, but decreases damage by half.
++50% EXP	EXP gained in battle increased by 1.5x.
+Life Aid	Restores 8% of max HP/SP after battle.
+Victory Cry	Fully restores HP/SP  after battle.
+Growth 1	Earn 25% EXP even when not participating in battle.
+Growth 2	Earn 50% EXP even when not participating in battle.
+Growth 3	Earn 100% EXP even when not participating in battle.
+Unshaken Will	Prevents infliction of Confuse/Fear/Rage/ Despair.
+Null Bless Insta-kill	Nullifies Hama attacks.
+Baton Pass	Calm things down with humor. Usable when Sense is at "Sensitive."
+Soul Touch Unused	Identify who has Treasure in Mementos. Usable when Instinct is at "Wild."
+Kakoi Kuzushi	BLANK
+Resist Fire	Increases resistance to Fire attacks. Nullifies weakness.
+Null Fire	Nullifies Fire attacks.
+Repel Fire	Reflects Fire attacks.
+Absorb Fire	Absorbs damage from Fire attacks.
+Null Curse Insta-kill	Nullifies Mudo attacks.
+Resist Ice	Increases resistance to Ice attacks. Nullifies weakness.
+Null Ice	Nullifies Ice attacks.
+Repel Ice	Reflects Ice attacks.
+Absorb Ice	Absorbs damage from Ice attacks.
++15% EXP	EXP gained in battle increased by 15%.
+Resist Wind	Increases resistance to Wind attacks. Nullifies weakness.
+Null Wind	Nullifies Wind attacks.
+Repel Wind	Reflects Wind attacks.
+Absorb Wind	Absorbs damage from Wind attacks.
+All-Out Attack Boost	Increases strength of All-Out Attacks.
+Resist Elec	Increases resistance to Elec attacks. Nullifies weakness.
+Null Elec	Nullifies Elec attacks.
+Repel Elec	Reflects Elec attacks.
+Absorb Elec	Absorbs damage from Elec attacks.
+Money Boost	Increases money gained by 15%.
+Resist Bless	Increases resistance to Bless attacks. Nullifies weakness.
+Null Bless	Nullifies Bless attacks.
+Repel Bless	Reflects Bless attacks.
+Absorb Bless	Absorbs damage from Bless attacks.
+Hide	Decreases chance of being targeted by foes.
+Resist Curse	Increases resistance to Curse attacks. Nullifies weakness.
+Null Curse	Nullifies Curse attacks.
+Repel Curse	Reflects Curse attacks.
+Absorb Curse	Absorbs damage from Curse attacks.
+Life Boost	Increases max SP by 20.
+Resist Phys	Increases resistance to Phys attacks. Nullifies weakness.
+Null Phys	Nullifies Phys attacks.
+Repel Phys	Reflects Phys attacks.
+Absorb Phys	Absorbs damage from Phys attacks.
+Null Bless/Curse	Nullifies Bless/Curse skills.
+Ailment Boost	Increases chance of inflicting ailments.
+Hama Boost	Increases success rate of Hama skills.
+Mudo Boost	Increases success rate of Mudo skills.
+Gun Accuracy +5%	Increases Accuracy of Gun attacks by 5%.
+Samurai Spirit	Increases Evasion from Criticals and magical attacks.
+Dizzy Boost	Increases chance of inflicting Dizzy.
+Confuse Boost	Increases chance of inflicting Confuse.
+Fear Boost	Increases chance of inflicting Fear.
+Forget Boost	Increases chance of inflicting Forget.
+Sleep Boost	Increases chance of inflicting Sleep.
+Rage Boost	Increases chance of inflicting Rage.
+Despair Boost	Increases chance of inflicting Despair.
+Kuzunoha Emblem	Decreases HP and SP cost of skills by 25%.
+Brainwash Boost	Increases chance of inflicting Brainwash.
+Critical Rate Up (High)	Greatly increases  chance of Critical.
+Resist Dizzy	Decreases chances of being inflicted with Dizzy.
+Resist Confuse	Decreases chances of being inflicted with Confuse.
+Resist Fear	Decreases chances of being inflicted with Fear.
+Resist Forget	Decreases chances of being inflicted with Forget.
+Resist Sleep	Decreases chances of being inflicted with Sleep.
+Resist Rage	Decreases chances of being inflicted with Rage.
+Resist Despair	Decreases chances of being inflicted with Despair.
+Fusion Accident Up	Increases fusion accident rate.
+Resist Brainwash	Decreases chances of being inflicted with Brainwash.
+Tyrant's Mind	Strengthens all attacks. Can stack.
+Null Dizzy	Prevents infliction of Dizzy.
+Null Confuse	Prevents infliction of Confuse.
+Null Fear	Prevents infliction of Fear.
+Null Forget	Prevents infliction of Forget.
+Null Sleep	Prevents infliction of Sleep.
+Null Rage	Prevents infliction of Rage.
+Null Despair	Prevents infliction of Despair.
+Holy Whisper	Restores 15% HP and 15 SP each turn in battle.
+Null Brainwash	Prevents infliction of Brainwash.
+Holy Embrace	Restores 25% HP each turn in battle.
+Burn Boost	Increases chance of inflicting Burn.
+Freeze Boost	Increases chance of inflicting Freeze.
+Shock Boost	Increases chance of inflicting Shock.
+BLANK	BLANK
+Fortified Moxy	Increases Critical rate during an Ambush.
+Adverse Resolve	Increases Critical rate when surrounded.
+Last Stand	Greatly decreases Accuracy of all foes' attacks except Almighty when surrounded.
+Heat Up	Restores 5% max HP and 10 SP each turn during an Ambush.
+BLANK	BLANK
+Touch n' Go	Automatic Sukukaja after a Baton Pass.
+Climate Decorum	Greatly increases Evasion from all affinities during Rain/Snow.
+Ambient Aid	Increases chance of inflicting ailments during Rain/Snow.
+RESERVE	BLANK
+Gun Boost	Strengthens Gun skills by 25%.
+Gun Amp	Strengthens Gun skills by 50%. Can stack.
+Trigger Happy	Increases chance of Critical from Gun attacks.
+Resist Nuke	Increases resistance to Nuke attacks. Nullifies weakness.
+Null Nuke	Nullifies Nuke attacks.
+Repel Nuke	Reflects Nuke attacks.
+Absorb Nuke	Absorbs damage from Nuke attacks.
+RESERVE	BLANK
+Resist Psy	Increases resistance to Psy attacks. Nullifies weakness.
+Null Psy	Nullifies Psy attacks.
+Repel Psy	Reflects Psy attacks.
+Absorb Psy	Absorbs damage from Psy attacks.
+RESERVE	BLANK
+Nuke Boost	Strengthens Nuke skills by 25%.
+Nuke Amp	Strengthens Nuke skills by 50%. Can stack.
+RESERVE	BLANK
+Psy Boost	Strengthens Psy skills by 25%.
+Psy Amp	Strengthens Psy skills by 50%. Can stack.
+Sexy Technique	BLANK
+Dodge Nuke	Increases Evasion from Nuke skills.
+Evade Nuke	Greatly increases Evasion from Nuke skills. Does not stack.
+Detox	BLANK
+Dodge Psy	Increases Evasion from Psy skills.
+Evade Psy	Greatly increases Evasion from Psy skills. Does not stack.
+Detox	BLANK
+Bless Boost	Strengthens Bless skills by 25%.
+Bless Amp	Strengthens Bless skills by 50%. Can stack.
+RESERVE	BLANK
+Curse Boost	Strengthens Curse skills by 25%.
+Curse Amp	Strengthens Curse skills by 50%. Can stack.
+Not Found by Enemy	Prevents discovery by foes roaming the Metaverse.
+Magic Ability	Strengthens all magic skills by 25%.
+Fortify Spirit	Decreases chances of being inflicted with ailments.
+Almighty Boost	Strengthens Almighty skills by 25%.
+Almighty Amp	Strengthens Almighty skills by 50%. Can stack.
+Zenith Defense	Nullifies all magical attacks except Almighty.
+Soul Chain	Restores 20 SP after a Baton Pass.
+Vanity Copy	Enable Skill Card copying.
+Gluttonous Snuff	Defeats weak foes during an Ambush and provides a Persona.
+Sloth Defense	Restores low amount of HP when using Guard.
+Brush of Vanity	Nullifies weaknesses.
+Life Rise	Increases max HP by 40%.
+Mana Rise	Increases max SP by 40%.
+Soul Touch	Restores 5 SP after a Baton Pass.
+Victory Cry	Victory Cry
+Trait DLC for Bitedown	RESERVE
+BLANK	BLANK
+Ailment Effect Up	Slightly increases dmg to enemies with ailments.
+Ailment Effect Up+	Increases dmg to enemies with ailments.
+Instakill SP Heal Low	Restores 3 SP after defeating a foe with Hama/Mudo attacks.
+Instakill SP Heal Mid	Restores 5 SP after defeating a foe with Hama/Mudo attacks.
+Instakill SP Heal High	Restores 7 SP after defeating a foe with Hama/Mudo attacks.
+Technical Effect Up	Slightly increases Technical damage.
+Technical Effect Up+	Increases Technical damage.
+Low HP Attack Up	Slightly increases damage when low on HP.
+Low HP Attack Up+	Increases damage when low on HP.
+WEAK Hit Effect Up	Slightly increases damage from attacks that target foe's weaknesses.
+WEAK Hit Effect Up+	Increases damage from attacks that target foe's weaknesses.
+Null Insta-kill	BLANK
+HP Cost Down 10%	Decreases HP cost of skills by 10%.
+HP Cost Down 25%	Decreases HP cost of skills by 25%.
+SP Cost Down 10%	Decreases SP cost of skills by 10%.
+SP Cost Down 25%	Decreases SP cost of skills by 25%.
+Heal Magic Up 10%	Increases the effect of healing skills by 10%.
+Heal Magic Up 25%	Increases the effect of healing skills by 25%.
+Chance of 0 HP Cost	Decreases HP cost of skills to 0.
+Chance of 0 SP Cost	Decreases SP cost of skills to 0.
+Target ATK Up	Slightly increases damage of single target skills.
+Target ATK Up+	Increases damage of single target skills.
+All Crits, No Evasion	All attacks are Critical, but Evasion becomes impossible.
+Heal Cost Down 25%	Reduce the SP cost of healing skills by 25%.
+Heal Cost Down 10%	Reduce the SP cost of healing skills by 10%.
+ATK Up, Aim Down	Decreases Accuracy by  half, but Attack doubles.
+Ailment Success Up	Slightly increases chance of inflicting ailments.
+BLANK	BLANK
+4-Affinity Boost	Strengthens magical attacks if possessing 4 or more affinity skills.
+3-Affinity Light Boost	Slightly strengthens magical attacks if possessing 3 or more affinity skills.
+Support Turn Extend	Increases effect period of support skills.
+Insta-kill Up	Slightly increases success rate of Hama/Mudo skills.
+Insta-kill Up+	Increases success rate of Hama/Mudo skills.
+Life Bonus	Increases max HP by 10%.
+Life Gain	Increases max HP by 20%.
+Life Surge	Increases max HP by 30%.
+Mana Bonus	Increases max SP by 10%.
+Mana Gain	Increases max SP by 20%.
+Mana Surge	Increases max SP by 30%.
+Critical Effect Up	Slightly increases Critical damage.
+Critical Effect Up+	Increases Critical damage.
+Hit Damage Doubled	Deals double   the damage.
+All Target ATK Up	Slightly increases damage with all enemy target skills.
+All Target ATK Up+	Increases damage with all enemy target skills.
+Auto Barrier	BLANK
+Backup Support	Provide backup support during battle.
+Absolute Escape	100% chance of escape when running away on the 3rd turn of battle.
+Shield of Loyalty	BLANK
+All Amp	Strengthens all affinity skills by 50%.
+BLANK	BLANK 

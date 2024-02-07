@@ -5,6 +5,10 @@
   "toolAilments": ["Panic", "Poison", "Fear", "Rage", "Dizzy", "Exhaustion", "Enervation", "Mute"],
   "gameResists": ["phy", "fir", "ice", "ele", "win", "alm", "lig", "dar"],
   "toolResists": ["phy", "fir", "ice", "ele", "win", "lig", "dar", "alm"],
+  "dataBlocks": [
+    ["enemyStats", "enemyResists", "demonResists"],
+    ["demonStats", "demonSkills"]
+  ],
   "enemyStats": { "begin": "0x00", "count": "0x170", "length": "0x3C" },
   "enemyResists": { "begin": "0x00", "count": "0x170", "length": "0x20" },
   "demonResists": { "begin": "0x00", "count": "0x100", "length": "0x20" },

@@ -1,0 +1,695 @@
+Devil Fruit	Restores 20 HP to one ally.
+Recov-R: 50 mg	Fast-acting formula. Restores 50 HP to one ally.
+Recov-R: 100 mg	Fast-acting formula. Restores 100 HP to one ally.
+Takemedic	A new drug developed by TMC. Restores 200 HP to one ally.
+Life Stone	Restores 30% HP to one ally.
+Bead	Fully restores HP of one ally.
+Takemedic-All	A new drug developed by TMC. Restores 50 HP to all allies.
+Takemedic-All V	A new drug developed by TMC. Restores 100 HP to all allies.
+Takemedic-All Z	A new drug developed by TMC. Restores 200 HP to all allies.
+Bead Chain	Fully restores HP of all allies.
+Soul Drop	Restores 10 SP to one ally.
+Snuff Soul	Restores 50 SP to one ally.
+Chewing Soul	Restores 100 SP to one ally.
+Soul Food	Fully restores SP of one ally.
+Revival Bead	Revives one fallen ally to 50% HP.
+Balm of Life	Revives one fallen ally to full HP.
+RESERVE	Unused
+Nohar-M	Medical ointment. Cures Burn/Freeze/ Shock for one ally.
+Relax Gel	Topical balm. Cures Rage/ Despair/Brainwash/Fear/ Confuse for one ally.
+Alert Capsule	Over-the-counter capsule. Cures Dizzy/Forget/Sleep/ Hunger for one ally.
+RESERVE	Unused
+RESERVE	Unused
+Vanish Ball	Guarantees escape from battle. Not all battles apply.
+Soma	Fully restores HP and SP of all allies.
+Amrita Soda	Cures all non-special ailments for all allies.
+Hiranya	Cures all non-special ailments for one ally.
+Muscle Drink	Restores 30% HP to one ally. Raises Attack and lowers Defense.
+Odd Morsel	Restores 30% HP to one ally. Raises Attack and lowers Accuracy/Evasion.
+Rancid Gravy	Restores 30% HP to one ally. Raises Accuracy/Evasion and lowers Attack.
+RESERVE	Unused
+Magic Ointment	Barrier that reflects magical attacks except Almighty for one ally one time.
+Physical Ointment	Barrier that reflects physical attacks for one ally one time.
+Rasetsu Ofuda	Raises Attack for all allies for three turns.
+Idaten Ofuda	Raises Accuracy/ Evasion for all allies for three turns.
+Kongou Ofuda	Raises Defense for all allies for three turns.
+Kajaclear-R	A new antiseptic made by TMC. Removes stat buffs for all foes.
+Kundaclear-R	A new antiseptic made by TMC. Removes stat debuffs for all allies.
+Molotov Cocktail	Deals 50 Fire dmg to one foe. High chance of inflicting Burn.
+Blowtorch	Deals 50 Fire dmg to all foes.
+Freeze Spray	Deals 50 Ice dmg to one foe. High chance of inflicting Freeze.
+Dry Ice	Deals 50 Ice dmg to all foes.
+Air Cannon	Deals 50 Wind dmg to one foe.
+Vacuum Cutter	Deals 50 Wind dmg to all foes.
+Stun Gun	Deals 50 Elec dmg to one foe. High chance of inflicting Shock.
+Magneto Coil	Deals 50 Elec dmg to all foes.
+Megido Bomb	Deals 100 Almighty dmg to all foes.
+Sacramental Bread	Medium chance of Bless insta-kill to one foe.
+Straw Doll	Medium chance of Curse insta-kill to one foe.
+Hell Magatama	Deals 150 Fire dmg to one foe.
+Cyclone Magatama	Deals 150 Wind dmg to one foe.
+Frost Magatama	Deals 150 Ice dmg to one foe.
+Arc Magatama	Deals 150 Elec dmg to one foe.
+Psycho Bomb	Deals 50 Psy dmg to one foe.
+Psy-Wheel	Deals 50 Psy dmg to all foes.
+Atom Match	Deals 50 Nuke dmg to one foe.
+Nuke Cracker	Deals 50 Nuke dmg to all foes.
+Happy Bomb	Deals 50 Bless dmg to one foe.
+Segaki Rice	Deals 50 Bless dmg to all foes.
+Curse Bomb	Deals 50 Curse dmg to one foe.
+Five-inch Nail	Deals 50 Curse dmg to all foes.
+Revivadrin	Revives one fallen ally to 50% HP.
+Medicine	Restores 50 HP to one ally.
+Life Ointment	New drug by TMC. Revives one fallen ally to full HP.
+Homunculus	Protects from insta- kill attacks one time.
+RESERVE	Unused
+Reviv-All	New drug developed by TMC. Revives all fallen allies to 50% HP.
+Renew-All	New drug developed by TMC. Revives all fallen allies to full HP.
+Recover Oil	A spring-exclusive body oil. Cures all non-special ailments for one ally.
+RESERVE	Unused
+DVD Player	A pre-owned DVD player. Very old, but still functional. Missing the remote.
+Garden Energy	A cheap plant nutrient. For those who want basic care for their plants.
+Bio Nutrients	A pricey plant nutrient. For those who want good care for their plants.
+Mega Fertilizer	A premium plant nutrient. For those who want serious care for their plants.
+Godly Magatama	Deals 150 Psy dmg to one foe.
+Blast Magatama	Deals 150 Nuke dmg to one foe.
+Holy Magatama	Deals 150 Bless dmg to one foe.
+Grudge Magatama	Deals 150 Curse dmg to one foe.
+RESERVE	Unused
+RESERVE	Unused
+PC Tool Set	A tool set for fixing computers.
+RESERVE	Unused
+Glass Vase	A palm-sized, colorful vase made of glass. For the flower lover in your life.
+Star Mirror	A star-shaped hand mirror that's supposed to be lucky. For a spiritual someone.
+Snack Pack	A box of stick-like snacks that come in a variety of flavors. For the young at heart.
+Musty Pages	A guide that lets you feel the atmosphere of the antique book town.
+Homemaker Hero	A book that teaches the tricks of buying household electronics for cheap.
+Heart Ring	A ring inset with a heart- shaped jewel. Made to captivate a woman's heart.
+Heart Necklace	A necklace adorned with a heart-shaped jewel. Made to captivate a woman's heart.
+Designer Perfume	A famous brand of perfume with a gentle scent. For a sensual person in your life.
+Luxury Aroma Set	A deluxe aromatherapy set to relax the mind and body after intense focus.
+Mini Cactus	A small cactus that looks nice in an office setting. For the desk jockey.
+Flower Basket	A basket full of flowers from every season. For the flower lover in your life.
+Bath of Roses	A rose-scented fragrance for a luxurious bathtime. For the special lady in your life.
+Black Mug	A chic, black mug. For the one who's married to their desk.
+Sakura Fan	A small fan with a bright sakura pattern. For a traditional lady.
+Fountain Pen	An elegant fountain pen, rereleased due to demand. For the discerning eye.
+Robot Vacuum	The latest robot vacuum that cleans automatically. For the busy businessperson.
+Motorbike Figure	A 1/12 scale figurine made with attention to detail. For the bike lover in your life.
+Local Mascot Set	A set of plushies of a popular character. For the one who likes rare finds.
+Spotlight	Raises chances of being targeted by foes for one ally.
+Goho-M	A tool that allows you to return to the Metaverse entrance.
+RESERVE	Unused
+Smokescreen	Elude enemy pursuit by becoming temporarily undetectable.
+RESERVE	Unused
+Hypno Mist	A mist that puts nearby enemies to sleep.
+Calming Aroma	A tonic that calms an enemy's nerves, lowering a Palace's Security Level.
+Covertizer	Unused
+RESERVE	Unused
+Silk Yarn	A bundle of silk yarn. Perfect for crafting.
+Thick Parchment	Animal skin used for transcription. Also used for crafting tools.
+Tin Clasp	A fastener made from tin. Has value as a handmade component.
+Plant Balm	Natural oil harvested from plants. Can be used as fuel for machine tools.
+Cork Bark	Elastic bark. Can be used as a component when making tools.
+Iron Sand	Iron sand containing traces of magnetic properties. Can be used to make steel.
+Condenser Lens	A lens that gathers light. Perfect for tools that utilize light.
+Aluminum Sheet	A thin sheet of aluminum. Easy to use.
+Tanned Leather	A highly elastic animal hide. A must-have for crafting.
+Red Phosphorus	A pyrophoric, toxic powder used for ignition.
+Liquid Mercury	Shimmering silver liquid metal used to make tools. Handle with care.
+RESERVE	Unused
+Wise Men's Words	A book of quotes by great philosophers. Read to enrich your knowledge.
+Ghost Encounters	Hair-raising ghost stories. Reading this will surely steel your guts.
+Tidying the Heart	A best-seller on cleaning. The author's proficiency is worth studying.
+Buchiko's Story	A heartwarming tale of a dog and his master. It is filled with kindness.
+RESERVE	Unused
+RESERVE	Unused
+Punch Ouch	A retro boxing game. Playing could give you the charm of a challenger.
+Starvicks	The world's first spicy coffee. Restores 10 HP to one ally.
+Udagawa Water	Triple-filtered Shibuya river water. Restores 10 HP to one ally.
+CRT Television	An old model television. It's missing the remote.
+RESERVE	Unused
+RESERVE	Unused
+Master Swordsman	A book chronicling a great swordsman's life. Find the guts to face death.
+Flowerpedia	The essential compendium for anyone in the flower industry.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Heroic Revelations	The epic of a tireless seeker of wisdom. May impart knowledge upon the reader.
+Call Me Chief	Biography of a beloved leader. His warm character shows much kindness.
+The Art of Automata	The passion involved in being an automata technician. May improve one's proficiency.
+Reckless Casanova	A book about the romantic life of a ladies man. Learn from his charm.
+RESERVE	Unused
+Rubbish	Just plain junk. No point in having it.
+Money Distributor	Unused
+Item Distributor	Unused
+RESERVE	Unused
+Jagariko	A popular Japanese snack. Restores 20 HP to one ally.
+Broken Rock Salt	A Holy Stone shattered to pieces. Restores 5 SP to one ally.
+Movie Ticket	A ticket necessary to watch a movie at the theater.
+Movie 02 Ticket	Movie 02 Ticket
+Movie 03 Ticket	Movie 03 Ticket
+Movie 04 Ticket	Movie 04 Ticket
+RESERVE	Unused
+RESERVE	Unused
+Summer Lotto S	Ten consecutive numbers for the Summer Mammoth lottery.
+Autumn Bread	Bun with chestnuts and carrots in it. Restores 200 HP to one ally.
+Element Set	Unused
+Forces Set	Unused
+Shitamachi Reborn	A book on the old district reborn thanks to the new Tokyo Skytree.
+Star Forneus	A retro space shooting game. Playing could make you gutsier.
+Weekend Parks	A book that introduces great parks for spending a quiet weekend.
+Train of Life	A retro board game. Playing could make you kinder.
+Power Intuition	A retro fighting game. Playing could make you gutsier.
+Bonehead	Two episodes. A corpse holds hints to the truth. Sharp deductions save all.
+Crime Lab Squad	Three episodes. Cutting-edge forensic technology holds the key to a mystery.
+Not-so-hot Betsy	The story of a homely girl who captivates people with her inner charm.
+Bubbly Hills, 90210	A realistic teen drama. Watching their romances makes you charming.
+ICU	A heartrending drama about working in the ER. Teaches you kindness.
+RESERVE	Unused
+Drizzled Natto	Rainy day special. Large candied natto. Restores 80 HP to all allies.
+Squid Tri-Pack	A pack full of select squid snacks. Restores 20 HP to all allies.
+Idol Pins	A set of badges featuring a rising pop idol. For a trendy friend.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Tokyo Shrines	A photo guidebook of the shrines hidden in the big city.
+Fishpond Spotter	A guidebook for beginners on the popular fishing ponds.
+Yoncha Walker 04	A magazine compiling information about Yongen-Jaya.
+Night Skies	A star-gazing guidebook that has a special on planetariums.
+Jack Frost Doll	A doll of the winter frost fairy whose kind smile will capture your heart.
+Burger-kun Doll	A Big Bang Burger mascot doll. Makes you feel like a Big Bang.
+Wanna-kun Doll	A security company's mascot doll. People like his shady looks.
+Lexy Doll	A peculiarly-designed doll that is popular due to its scary looks.
+Uji Matcha Flan	Pudding made from uji matcha green tea. For the sweet tooth.
+Truffles	Chocolate truffles made with meticulous detail. For the sweet tooth.
+RESERVE	Unused
+Limelight	Greatly raises chances of being targeted by foes for one ally.
+Amateur Coffee	Unused
+Harsh Coffee	Unused
+Baptismal Water	Water used for rituals. Removes all stat buffs for all foes.
+Exorcism Water	Purified holy water. Removes all stat debuffs for all allies.
+Wine of Grace	Non-alcoholic wine used during ceremonies. Fully restores HP of all allies.
+Repentance Ashes	Used during ceremonies. Cures all non-special ailments for all allies.
+Dipped Katsu Sando	Rainy day special with terrific texture. Restores 200 HP to one ally.
+Book Cover	A silk crepe book cover with a Japanese-style print on it. For the traditional lady.
+Castella	Sponge cake topped with coarse sugar. For someone with a sweet tooth.
+Crimson Lipstick	An intensely red lipstick worn by a popular model. For the fashion-conscious.
+RESERVE	Unused
+RESERVE	Unused
+Tetra Hammer	A hammer that negates physical reflecting barriers of one foe.
+Makara Hammer	A hammer that negates magic reflecting barriers of one foe.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Casual Rod	A simple yet sturdy rod. Makes catching fish a little easier.
+Powerful Rod	A strong and tough rod. Makes catching fish even easier.
+Miracle Rod	A resilient next-gen rod. Makes catching fish extremely easy.
+Arginade	Contains arginine. Restores 5 SP to one ally.
+Dr. Salt NEO	Now with more pepper. Restores 20 HP to one ally.
+Joylent	Unsettlingly nutritious. Restores 10 HP to one ally.
+MRE Ration	Food to go. Restores 30% HP to one ally, lowers Attack, raises Accuracy/Evasion.
+Oatmeal Ration	Food to go. Restores 30% HP to one ally, lowers Accuracy/ Evasion and raises Attack.
+Torimeshi Ration	Food to go. Both tasty and satiating. Restores 50 HP and cures Hunger for one ally.
+Fruit Ration	Restores 30% HP to one ally, lowers Defense and raises Attack.
+Seafood Aojiru	Rich with omega-3 fatty acids to increase your knowledge.
+Beauty Aojiru	Blended with collagen, making you radiant with charm.
+Vitality Aojiru	Made from seaweed minerals to revitalize you, making you more proficient.
+Nasty Aojiru	Made with bitter melon. It takes guts to drink this terrifying mixture.
+Onsen Aojiru	Made using hot spring water. You can feel the kindness within you.
+RESERVE	Unused
+Fulfiller	Just one bite satisfies your stomach. Cures Hunger for one ally.
+Summer Lotto R	Ten random numbers for the Summer Mammoth lottery.
+Happy Pop	A refreshing lollipop. Cures Despair for one ally.
+Thaw Stone	A mysterious stone. Cures Freeze for one ally.
+Douse Orb	A curious orb. Cures Burn for one ally.
+Discharge Crystal	A mysterious crystal. Cures Shock for one ally.
+Second Maid	Refreshing Mandarin orange flavor. Restores 10 HP to one ally.
+RESERVE	Unused
+Sandwich	Yon-Germain's staple sandwich. Restores 10 HP to one ally.
+Fruit Danish	A fruity, seasonal pastry. Restores 30 HP to one ally.
+RESERVE	Unused
+Yakisoba Pan	Fast-selling bread. Restores 50 HP and cures Hunger for one ally.
+Creature	A drink that blows away sleepiness. Cures Sleep for one ally.
+Earl Green	A blend of Eastern and Western teas. Restores 10 HP to one ally.
+Raw Punch	Practically liquid caffeine. Restores 10 HP to one ally.
+Muscle Tea	Popular tea often sold online. Restores 10 HP to one ally.
+Manta	Makes you want to dance all night. Restores 10 HP to one ally.
+Nastea	Unexpectedly great taste. Restores 10 HP to one ally.
+1UP	Coveted by old-school gamers. Restores 10 HP to one ally.
+Gambla Goemon	A retro gambling game. Playing could make you more charming.
+Golfer Sarutahiko	A retro golf game. Playing could make you more proficient.
+Calling Postcard	A postcard that looks like a calling card. Mail it to someone close to you.
+Refresh Aroma	Autumn-only. Cures all non-special ailments for one ally.
+Protein	Increases training efficiency. Restores 30% HP to one ally.
+Moist Protein	Rainy day-only. Helps training. Restores 30% HP to one ally.
+Fried Bread	Bread with a nostalgic taste. Restores 10 HP to one ally.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Expert	For those who reach for the stars. Ball speed: 87 mph.
+Insane	The final challenge from the batting cage proprietor. Ball speed: 103 mph.
+Beginner	For beginners. Ball speed: 43 mph.
+Intermediate	For batters with intermediate experience. Ball speed: 55 mph.
+Advanced	For those with confidence in their swing. Ball speed: 68 mph.
+Surprise Sando	A special dish made with crayfish paste. For those with the guts to indulge.
+Nostalgic Steak	Salisbury steak, just like Grandma made it. You feel kindness.
+Frui-Tea	Tea made with a plethora of fruit. Softens your skin to make you charming.
+Totem Pole	Just finishing this tower of ice cream without it falling makes you proficient.
+Relaxing Coffee	Coffee brewed with love. Even a clumsy maid can make this super-easily.
+Oo-hot Tea	Tea steeped with care. Even a clumsy maid can make this easily.
+Love STAR Pancake	Topped with whipped cream at the table. Might be hard for a clumsy maid.
+Sincere Omelette	Comes with free ketchup art. May be too much for a clumsy maid.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Small Boilie	A bait for small fish. Can only catch small fish.
+Medium Boilie	A bait for average fish. Can catch medium-sized fish.
+Large Boilie	A bait for big fish. Can catch larger fish.
+Top-class Boilie	Flavorful bait that can catch normal fish of any size.
+Guardian Boilie	A bait specifically for the Guardian. No other fish will bite.
+Big Bang Burger	The taste is Big Bang level! Restores 20 HP to all allies.
+Saturn Fries	Fried potatoes with onion rings like Saturn. Restores 20 HP to one ally.
+Earth Burger	Spring-only. Filled with Earth veggies. Restores 40 HP to all allies.
+RESERVE	Unused
+Moon Burger	Autumn-only. The egg looks like the moon. Restores 120 HP to all allies.
+Supernova Burger	A new burger by the reborn Okumura Foods. Restores 200 HP to all allies.
+Karaage King	So good it's practically royalty. Restores 10 HP to one ally.
+Spring Fruit Pack	Spring-only. Filled with with fruits. Restores 80 HP to all allies.
+Foreign Nikuman	Despite the name, it's a kebab. Restores 20 HP to one ally.
+Phantom Wafers	Phantom Thieves snack. Restores 50 HP and cures ailments for one ally.
+Soothing Soba	Cold Chinese noodles. Only available in summer. Restores 200 HP to one ally.
+Agodashi Oden	Winter-only oden with rich flavor. Restores 50 HP to all allies.
+Party in a Can	Canned food to be eaten as a group. Restores 40 HP to all allies.
+Digital Camera	Digi-cam with latest tech. Take photos in any light. For the pro photographer.
+Face Beautifier	A face massager that can slim your face quickly. For the rising star.
+Laptop	A repaired laptop. It can connect to Shady Commodities.
+RESERVE	Unused
+Mini Dominion	A mini-sized Dominion figure.
+Die-soujou	A figure of a dying Daisoujou.
+Decked Decarabia	A Decarabia figure decked out with decals.
+Gear Girimehkala	A Girimehkala figure equipped with random gear.
+Kinky Kin-Ki	An eccentric Kin-ki figure.
+Mossy Mothman	A Mothman figure attempting to recreate its fluffiness.
+Movie 16 Ticket	Movie 16 Ticket
+Lockpick	A tool that can open one locked treasure chest.
+Perma-Pick	A tool that can open any number of locked treasure chests.
+Reserve Ammo	(cut)
+RESERVE	Unused
+Treasure Trap	Increases the chances of encountering Treasure Demons in Palaces.
+RESERVE	Unused
+Red Fish	A small red fish.
+Rough Carp	A scaly carp.
+Tokyo Bitterling	An elegant bitterling.
+Seven-Color Trout	An oily trout glimmering with seven colors.
+White Carp	A carp that looks like it could flutter in the wind.
+Treasure Trout	A trout that looks like it could sell at a high price.
+Delish Bitterling	A bitterling with a superior taste.
+Peerless Carp	A carp overflowing with power.
+Ichigaya Guardian	The legendary fish serving as a protector god of the nation.
+Adhesive Bandage	Your average adhesive bandage. Restores 20 HP to one ally.
+RESERVE	Unused
+Rejuvenating IV	Can only be used in safe places. Restores 100% HP to all allies.
+Leblanc Coffee	Specialty drip coffee. Restores 30 SP to one ally.
+RESERVE	Unused
+RESERVE	Unused
+Master Coffee	Specialty drip coffee. Restores 100 SP to one ally.
+Decent Curry	Curry that almost rivals that of Leblanc's. Restores 20 SP to all allies.
+Leblanc Curry	Recreates Boss's flavor perfectly. Restores 50 SP to all allies.
+Master Curry	Curry that surpasses Boss's flavor. Restores 100 SP to all allies.
+RESERVE	Unused
+Shooting Card	Came with Star Forneus. An enthusiast would know its value.
+Healing IV	Can only be used in safe places. Restores 50% HP to all allies.
+Railroad Card	Came with Train of Life. An enthusiast would know its value.
+Fighting Card	Came with Power Intuition. An enthusiast would know its value.
+RESERVE	Unused
+Boxing Card	Came with Punch Ouch. An enthusiast would know its value.
+Gambling Card	Came with Gambla Goemon. An enthusiast would know its value.
+Golf Card	Came with Golfer Sarutahiko. An enthusiast would know its value.
+Social Thought	Broad compilation on modern social thought. May boost knowledge.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Batting Science	A thorough analysis of batting. Might help with your baseball skills.
+Essence of Fishing	A book explaining the tricks of fishing. Now you can be a master!
+Speed Reader	Easy-to-learn speed-reading techniques. Helps to increase your reading speed.
+The Craft of Cinema	Comprehensive guide on increasing emotional depth on camera. For film buffs.
+RESERVE	Unused
+Chinese Sweets	A guidebook to enjoy the sweets found within Chinatown.
+Theme Park Escort	A book to help men not get lost while visiting amusement parks.
+The Great Thief	A novel based on Arsene. His clever tricks make you knowledgeable.
+Pirate Legend	The tale of the fearless Captain Kidd. Reading this would build guts.
+Zorro, the Outlaw	The story about Zorro, the gentleman bandit. Read to be a kind gentleman.
+The Alluring Dancer	The passionate story of Carmen. For those looking to be charmed.
+The Gallant Rogue	Ishikawa Goemon's tale. Experience the guts to defy those in power.
+The Illusory Popess	The dynamic biography of Johanna. Awakens you to kindness.
+Cry of Cthulhu	A book of fictitious mythos. The macabre world would help build guts.
+Woman in the Dark	The story of Milady. Her changing faces helps to make you proficient.
+The Hero with a Bow	The daring tales of Robin Hood. Reading this could help build your guts.
+Medjed Menace	A book on the hacker group Medjed. Be knowledgeable about internet crimes.
+The Art of Charm	Tips from a famous pickup artist. Learn the charm to hook up with someone.
+Game Secrets	A compilation of tricks for every video game. Makes any game easy.
+Lotto R	Ten random numbers for the year-round Mammoth lottery.
+Lotto S	Ten consecutive numbers for the year-round Mammoth lottery.
+Scratch Lottery	A scratcher ticket for the Mammoth lottery. Results are instantaneous.
+Rakugo Collection	Unused
+Classical Hits	Unused
+Best of KGB49	Unused
+Wraith	A moving story of a woman who can talk to ghosts. Gives you kindness.
+Jail Break	A jail break drama. You will learn from their proficiency in sneaking.
+Guy McVer	Adventures of a man who is proficient in jury rigging tools out of anything.
+The Running Dead	A survival horror drama. Viewing the onslaught of zombies will build guts.
+The X Folders	Investigators chase after supernatural cases. Gives you guts.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Vague	A fashion magazine for girls with unique tastes.
+Nightlife Hotspots	A magazine showcasing date spots geared toward adults.
+Nofeever Sheet	Sucks the heat out of your head. Cures Burn for one ally.
+Hand Warmalizer	A heat pack to warm a chilled body. Cures Freeze for one ally.
+Venus Salad	A fruit salad that's fit for a goddess. Restores 30 HP to one ally.
+Sikkenine	Restores 50 HP to one ally and lowers Accuracy/Evasion.
+Sikkenine A	Restores 100 HP to one ally and lowers Attack.
+Sikkenine EX	Restores 200 HP to one ally and lowers Defense.
+Wide Eye Drops	Eye drops that help you see straight. Cures Dizzy for one ally.
+Donut-Worry	Donuts that bring relief. Cures Fear for one ally.
+Mental Floss	Stimulates the memory from the gums. Cures Forget for one ally.
+Hot and Sour Tea	A tea that blasts away drowsiness. Cures Sleep for one ally.
+Balloons	A present from Shinya. Rabbit-shaped balloons from Destinyland.
+Kommissbrot	Hardtack. Restores 10% SP to one ally and lowers Accuracy/Evasion.
+Beef Patty Ration	Canned a while ago. Restores 10% SP to one ally and lowers Defense.
+D Ration	Not a chocolate bar. Restores 10% SP to one ally and lowers Attack.
+Veg. Stew Ration	Restores 50 HP and cures Hunger for one ally.
+RESERVE	Unused
+RESERVE	Unused
+Durian Au Lait	Made from the king of fruits. Restores 10 HP to one ally.
+Oh! Shiruko	So good it makes you say, "Whoa!" Restores 20 HP to one ally.
+Chunky Potage	You can never drink all the kernels. Restores 20 HP to one ally.
+Ultimate Amazake	Makes you think you're drunk. Restores 20 HP to one ally.
+Udagawa Soda	Triple-filtered carbonated Shibuya water. Restores 30 HP to one ally.
+Water of Rebirth	Blended with placenta. Restores 5 SP to one ally.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Strawberry Curry	Restores 100 HP to one ally. Lowers Defense/ Accuracy/Evasion.
+Mayo Locust	Restores 100 HP to one ally. Lowers Attack/ Accuracy/Evasion.
+Miso Starfish	Restores 100 HP to one ally. Lowers Attack and Defense.
+Mystery Stew	No ingredients listed. Restores 30% SP to one ally. Lowers all stats.
+Bitter Coffee	A very bitter coffee. Restores 30 SP to one ally.
+Acidic Coffee	An extremely bitter coffee. Restores 30 SP to one ally.
+Fire Curry	Almost like Leblanc's, but incredibly spicy. Restores 20 SP to all allies.
+Blaze Curry	Just like Boss's, but incredibly spicy. Restores 50 SP to all allies.
+Inferno Curry	Surpasses Boss's, but is extremely spicy. Restores 50 SP to all allies.
+Ramen Bowl	A present from Ryuji. A fake food sample from a ramen shop in Ogikubo.
+Night Pennant	A present from Kawakami. The night view from Seaside Park.
+Nude Statue	A present from Yusuke. A replica of a sculpture at a museum.
+Swan Boat	A present from Iwai. A miniature figure of a swan boat.
+Skytree Lamp	A present from Chihaya. A 1/4000 scale Skytree- shaped lamp.
+Giant Spatula	A present from Haru. A spatula from a monja shop that takes skill to use.
+Idol Poster	A present from Ann. A poster of a top- running idol.
+Star Stickers	A present from Yusuke. Glow- in-the-dark constellations, complete with a guide.
+King Piece	A present from Hifumi. A giant wooden ornament of a king piece in shogi.
+Hero Figure	A present from Futaba. A figure of a hero anybody would look up to.
+Hamaya	A present from Yusuke. An arrow from Meiji Shrine that destroys evil.
+I <3 Tokyo Shirt	A present from Futaba. A souvenir T-shirt printed in English.
+Non-Static Gum	Gum that eases your body and soul. Cures Shock for one ally.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Kawakami's Chocolate	Handmade chocolate from Kawakami. Fully restores SP of one ally.
+Takemi's Chocolate	Premium chocolate from Takemi. Fully restores SP of one ally.
+Chihaya's Chocolate	Premium chocolate from Chihaya. Fully restores SP of one ally.
+Ohya's Chocolate	Premium chocolate from Ohya. Fully restores SP of one ally.
+Hifumi's Chocolate	Handmade chocolate from Hifumi. Fully restores SP of one ally.
+Makoto's Chocolate	Premium chocolate from Makoto. Fully restores SP of one ally.
+Haru's Chocolate	Handmade chocolate from Haru. Fully restores SP of one ally.
+Ann's Chocolate	Premium chocolate from Ann. Fully restores SP of one ally.
+Futaba's Chocolate	Handmade chocolate from Futaba. Fully restores SP of one ally.
+Ryuji's Chocolate	Cheap chocolate from Ryuji. Restores 10 SP to one ally.
+Sojiro's Chocolate	Cheap chocolate from Sojiro. Restores 10 SP to one ally.
+Kumade	A present from Haru. A good luck charm sold at Tori no Ichi festival.
+Shumai Cushion	A present from Makoto. A cushion based off of a Chinatown favorite.
+Gi-Nyant Doll	A present from Makoto. A baseball team mascot found at Dome Town.
+Sushi Teacup	A present from Ohya. A teacup printed with fish names, used at sushi bars.
+Choco Fountain	A present from Ann. A millionth customer prize fountain.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Famidrive	This system is needed to play FD games.
+RESERVE	Unused
+Sheep Man Doll	A doll of a worried- looking sheep man.
+Jam Bread	Bread with strawberry jam filling. Restores 20 HP to one ally.
+Melon Pan	A limited product that rejuvenates. Revives one fallen ally to full HP.
+Angel Tart	Christmas-only pastry. Revives one fallen ally to full HP.
+Moon Dango	Autumn-only Japanese sweet. Restores 200 HP to one ally.
+Mixed Nuts	A can full of a variety of nuts. Restores 40 HP to all allies.
+Beni-Azuma	A sticky sweet potato low in fiber. Restores 10 SP to one ally.
+Legendary Yaki-Imo	A winter-only roasted sweet potato. Restores 50 SP to one ally.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Moonlight Carrot	A hard-to-grow carrot. Fully restores SP of one ally.
+Sun Tomato	A hard-to-grow tomato. Restores 100 SP to all allies.
+Earth Beans	A hard-to-grow bean. Doubles the damage of physical attacks one time.
+Star Onion	A hard-to-grow onion. Doubles the damage of magical attacks one time.
+RESERVE	Unused
+Ann Cream Puffs	Ann's takoyaki-style cream puffs. Restores 100 SP to one ally.
+Makoto Donuts	Donuts that were made by Makoto. Restores 100 SP to one ally.
+Sakura Amezaiku	Candy shaped like a cherry blossom. Restores 100 SP to one ally.
+Sadayo Taiyaki	Kawakami's specially made taiyaki. Restores 100 SP to one ally.
+Ryuji Dog	A gyoza hot dog Ryuji made. Restores 100 SP to one ally.
+Amateur Curry	Unused
+RESERVE	Unused
+Broken Laptop	A broken laptop. It looks salvageable.
+Imported Protein	Increases training efficiency. Restores 30% HP to one ally.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+Aquarium-a-Day	A guidebook that lists attractions in aquariums all over Tokyo.
+Nakano Walker	A guidebook that covers popular and obscure spots alike.
+Incense ST	Incense that imparts physical strength. Increases Persona's St by 1.
+Incense MA	Incense that strengthens the heart. Increases Persona's Ma by 1.
+Incense EN	Incense that imparts patience. Increases Persona's En by 1.
+Incense AG	Incense that lightens your body. Increases Persona's Ag by 1.
+Incense LU	Incense that imparts good fortune. Increases Persona's Lu by 1.
+Ambergris ST	Quality incense that imparts physical strength. Increases Persona's St by 2.
+Ambergris MA	Quality incense that strengthens the heart. Increases Persona's Ma by 2.
+Ambergris EN	Quality incense that imparts patience. Increases Persona's En by 2.
+Ambergris AG	Quality incense that lightens your body. Increases Persona's Ag by 2.
+Ambergris LU	Quality incense that imparts good fortune. Increases Persona's Lu by 2.
+Nirvana ST	Mystical incense that imparts physical strength. Increases Persona's St by 3.
+Nirvana MA	Mystical incense that strengthens the heart. Increases Persona's Ma by 3.
+Nirvana EN	Mystical incense that imparts patience. Increases Persona's En by 3.
+Nirvana AG	Mystical incense that lightens your body. Increases Persona's Ag by 3.
+Nirvana LU	Mystical incense that imparts good fortune. Increases Persona's Lu by 3.
+Chunky Katsu	Ground beef cutlet that people line up to buy. Restores 30 SP to one ally.
+Stronger Lift S	Muscle-building supplement. Raises Attack for one ally for three turns.
+Harder Core S	Muscle-making supplement. Raises Defense for one ally for three turns.
+Accu-Speed S	Supplement for fast muscles. Raises Accuracy/Evasion for one ally for three turns.
+RESERVE	Unused
+Sakura Mochi	Ultimate sakura-mochi made by a famous confectioner. Restores 10 SP to one ally.
+Oil Painting Set	Unused
+Watercolor Postcard	A colorful postcard with an elegant air to it. For the art enthusiast.
+Leather Pen Case	A sophisticated pen case made with quality leather. For the gentleman.
+Cup Noodle Set	A variety of ramen from locales throughout Japan. For the noodle lover.
+Omni-Vitamin	Vitamins that cover all the bases of health. For the busybody.
+Silver Bangle	A slim bangle with a simple and chic design. Can be worn by men.
+Wrist Weights	Body-building tools for arms and legs. For the exercise enthusiast.
+Sports Sunglasses	Sporty sunglasses that decrease UV rays by 10%. For the avid runner.
+Kitchen Tools Set	A set of 28 kitchen utensils that help you cook anything. For the master chef.
+48-Sided 3D Puzzle	An extremely difficult 3D puzzle. For the desk worker who needs a break.
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE	Unused
+RESERVE 	Unused
+RESERVE	Unused
+RESERVE	Unused
+Dizzy Vial S	Small vial of liquid. High chance of inflicting Dizzy to one foe.
+Dizzy Vial L	Large vial of liquid. Medium chance of inflicting Dizzy to all foes.
+Confuse Vial S	Small vial of liquid. High chance of inflicting Confuse to one foe.
+Confuse Vial L	Large vial of liquid. Medium chance of inflicting Confuse to all foes.
+Fear Vial S	Small vial of liquid. High chance of inflicting Fear to one foe.
+Fear Vial L	Large vial of liquid. Medium chance of inflicting Fear to all foes.
+Forget Vial S	Small vial of liquid. High chance of inflicting Forget to one foe.
+Forget Vial L	Large vial of liquid. Medium chance of inflicting Forget to all foes.
+Sleep Vial S	Small vial of liquid. High chance of inflicting Sleep to one foe.
+Sleep Vial L	Large vial of liquid. Medium chance of inflicting Sleep to all foes.
+Rage Vial S	Small vial of liquid. High chance of inflicting Rage to one foe.
+Rage Vial L	Large vial of liquid. Medium chance of inflicting Rage to all foes.
+Despair Vial S	Small vial of liquid. High chance of inflicting Despair to one foe.
+Despair Vial L	Large vial of liquid. Medium chance of inflicting Despair to all foes.
+Brainwash Vial S	Small vial of liquid. High chance of inflicting Brainwash to one foe.
+Brainwash Vial L	Large vial of liquid. Medium chance of inflicting Brainwash to all foes.
+Musk ST-MA	Quality incense that raises Persona's St and Ma by 1.
+Musk ST-EN	Quality incense that raises Persona's St and En by 1.
+Musk ST-AG	Quality incense that raises Persona's St and Ag by 1.
+Musk ST-LU	Quality incense that raises Persona's St and Lu by 1.
+Musk MA-EN	Quality incense that raises Persona's Ma and En by 1.
+Musk MA-AG	Quality incense that raises Persona's Ma and Ag by 1.
+Musk MA-LU	Quality incense that raises Persona's Ma and Lu by 1.
+Musk EN-AG	Quality incense that raises Persona's En and Ag by 1.
+Musk EN-LU	Quality incense that raises Persona's En and Lu by 1.
+Rasta Sandalwood	High-quality incense that raises Persona's St, Ma, and Ag by 1.
+Featherman Seeker	Featherman game with a cult following. May make you more knowledgeable.
+Feather Card	Came with Featherman Seeker. An enthusiast would know its value.
+Batting Coupon	Coupon for free daytime use at the batting cages.
+Salvation S	Muscle builder that increases ATK/DEF/Accuracy/Evasion for one ally.
+Ichigaya Kingpin	Lord of the Guardians. Very rarely seen.
+Black Frost Doll	Black Frost figurine. Puts you in the mood to do evil.
+Buchimaru Doll	Buchimaru figurine. A perennial favorite.
+Jagao Doll	The mascot of Jagariko, a popular snack brand.
+Suspicious Boilie	Bait of unknown origin. Only used to catch a particular type of fish.
+Hi-Tech Rod	Fishing rod made using space technology. The quality is out of this world.
+Sea Slug Doll	A sea slug doll with beady eyes. A gift from Kasumi.
+Feathermen Dolls	Phoenix Ranger figurines that even connoisseurs can enjoy. A gift from Ryuji.
+Sumire's Chocolate	Handmade chocolate from Sumire. Fully restores SP of one ally.
+Ann's Giri-Choco	Courtesy chocolate from Ann. Restores 100 SP to one ally.
+Makoto's Giri-Choco	Courtesy chocolate from Makoto. Restores 100 SP to one ally.
+Haru's Giri-Choco	Courtesy chocolate from Haru. Restores 100 SP to one ally.
+Futaba's Giri-Choco	Courtesy chocolate from Futaba. Restores 100 SP to one ally.
+Takemi's Giri-Choco	Courtesy chocolate from Takemi. Restores 100 SP to one ally.
+Chihaya's Giri-Choco	Courtesy chocolate from Chihaya. Restores 100 SP to one ally.
+Kawakami's Giri-Choco	Courtesy chocolate from Kawakami. Restores 100 SP to one ally.
+Ohya's Giri-Choco	Courtesy chocolate from Ohya. Restores 100 SP to one ally.
+Hifumi's Giri-Choco	Courtesy chocolate from Hifumi. Restores 100 SP to one ally.
+Sumire's Giri-Choco	Courtesy chocolate from Sumire. Restores 100 SP to one ally.
+Sae's Giri-Choco	Courtesy chocolate from Sae. Restores 100 SP to one ally.
+Makoto's Candy	Candy chosen with Makoto. Fully restores SP of one ally.
+Haru's Candy	Candy chosen with Haru. Fully restores SP of one ally.
+Ann's Candy	Candy chosen with Ann. Fully restores SP of one ally.
+Futaba's Candy	Candy chosen with Futaba. Fully restores SP of one ally.
+Chihaya's Candy	Candy chosen with Chihaya. Fully restores SP of one ally.
+Takemi's Candy	Candy chosen with Takemi. Fully restores SP of one ally.
+Kawakami's Candy	Candy chosen with Kawakami. Fully restores SP of one ally.
+Ohya's Candy	Candy chosen with Ohya. Fully restores SP of one ally.
+Hifumi's Candy	Candy chosen with Hifumi. Fully restores SP of one ally.
+Sumire's Candy	Candy chosen with Kasumi. Fully restores SP of one ally.
+Scarlet Rose	This flower's meaning is "I love you." Who might like to receive this?
+Yellow Gerbera	The meaning of the flower is "Ultimate Love." Who might like to receive this?
+Blue Hyacinth	The meaning of the flower is "Unchanging Love." Who might like to receive this?
+Stamina Kit S	Tool that can only be used in safe places. Restores 20% SP to all allies.
+Stamina Kit L	Tool that can only be used in safe places. Restores 40% SP to all allies.
+Dart Set	Darts made with superior feel and balance. Sought out by pros.
+Jump Cue	Special cue made for jump shots. For those who want to master billiards.
+Royal Jelly R	Worthy of resurrecting a Hierophant. Revives all fallen allies to full HP.
+Strawberry Daifuku	Classic strawberry daifuku. Fully restores HP and cures all ailments of all allies.
+Learn Pro Darts	Techniques written by a professional darts player.
+Expert Billiards	Techniques written by a professional billiards player.
+D. Housewives	Women's stories of love and passion. Learn about leading a charmed life.
+Mouse M.D.	A maverick rodent's medical heroics. Learn about true kindness.
+31	A writer and editor battle looming deadlines. Praised for its gutsy tension.
+Tee	A teacher and a near defunct high school golf team. Be proficient in persuasion.
+Stamp Card	Membership card for a Maid Cafe. Earn a stamp with every visit.
+Photo of Clara	A signed photo of Clara. The autograph covers most of the face.
+Bland Cheese	Cheese with little flavor. Restores 20 HP to one ally.
+Sharp Cheese	Cheese with good flavor. Restores 50 HP to one ally.
+Rich Cheese	Cheese with rich flavor. Restores 100 HP to one ally.
+Pumpkin Soup	A packet of thick pumpkin soup. Restores 100 HP to one ally.
+RESERVE	RESERVE
+Puzzle Rings	A pair of impossibly puzzling rings. For those who like a challenge.
+Mochi Cushion	A cushion made of material that is squishy to the touch. For the busy businessperson.
+Electric Toothbrush	370,000 rotations per second obliterates plaque. For the busy businessperson.
+Blaring Alarm Clock	Ultra-loud alarm clock to wake up any sleepyhead. For the busy businessperson.
+Aroma Machine	A palm-sized machine that dispenses fragrance and moisture. For desk workers.
+Katana Keychain	A katana keychain with a dragon design. For the young man at heart.
+Factorization Guide	Well-thumbed reference book. Increases the effectiveness of studying.
+Hustle S	Aim-enhancing supplement. Increases chance of Critical for one ally.
+Viennese Jelly	European-style jelly to eat on the go. Restores 100 HP to one ally.
+Weakener Spray	Disinfectant that weakens bacteria. Lowers Attack of all foes for 3 turns.
+Cleaning Spray	Powerful disinfectant. Decreases Defense of all foes for 3 turns.
+Quick Spray	Fast-acting disinfectant. Lowers Accuracy/Evasion for all foes for 3 turns.
+Ultimate Spray	Disinfectant that weakens any bacteria. Lowers all stats of one foe for 3 turns.
+Awake Incense	Cleansing air freshener. Cures all non-special ailments for one ally.
+Awakening Incense	Invigorating air freshener. Cures all non-special ailments for all allies.
+Unused	Unused
+Unused	Unused
+RESERVE	RESERVE
+Dressed in Ashes	A girl facing unfortunate circumstances. Learn about leading a charmed life.
+RESERVE	RESERVE
+Hogyoku Apple	A shiny, delicious apple. Fully restores HP of all allies.
+Band-Ace	Emergency medicine. Revives one fallen ally to 50% HP.
+Holy Shroud	Shroud possibly worn by a saint. Medium chance of Bless insta-kill to all foes.
+Ouija Board	Fortune telling board with a past. Medium chance of Curse insta-kill to all foes.
+Empowering Ofuda	Increases ATK/DEF/ Accuracy/Evasion for one ally for 3 turns.
+Debilitator Ofuda	Decreases ATK/DEF Accuracy/Evasion for one foe for 3 turns.
+Fire Magatama	Deals 50 Fire dmg to one foe. High chance of inflicting Burn.
+Gale Magatama	Deals 50 Wind dmg to one foe.
+Shock Magatama	Deals 50 Elec dmg to one foe. High chance of inflicting Shock.
+Ice Magatama	Deals 50 Ice dmg to one foe. High chance of inflicting Freeze.
+Nuke Magatama	Deals 50 Nuke dmg to one foe.
+Psy Magatama	Deals 50 Psy dmg to one foe.
+Bless Magatama	Deals 50 Bless dmg to one foe.
+Curse Magatama	Deals 50 Curse dmg to one foe.
+Invincible Ofuda	Forms a barrier that nullifies an insta-kill for all allies one time.
+Strength Up Ofuda	Charm increasing strength. Doubles the damage of physical attacks one time.
+Magic Up Ofuda	Charm improving focus. Doubles the damage of magical attacks one time.
+Seeker's Tools	For the expert-level craftsman. Improves skills for making infiltration tools.
+ABCs of Crafting	Basics for the aspiring craftsman. Improves skills for making infiltration tools.
+Juicy Nikuman	Filled with juicy meat. Restores 30 HP to one ally.
+Napolitan Nikuman	Meat bun with a reddish tint. Tastes better than it looks. Restores 50 HP to one ally.
+Peppery Nikuman	Spicy meat bun that warms you to your core. Restores 100 HP to one ally.
+Corned Beef Special	Assorted cans of corned beef. Restores 40 HP to all allies.
+Cereal Multi-Pack	Multi-pack of assorted cereal. Restores 80 HP to all allies.
+Popcorn Bomb	Large container of caramel popcorn. Restores 100 HP to all allies.
+Clothing Grab Bag	Contains four sets of used clothes. What you get is a surprise.
+Osechi Ration	Fills you up like a New Year's Day meal. Restores 30% SP to one ally. Lowers all stats.
+Mont Blanc Ration	A sweet treat for the stomach. Restores 50 HP and cures Hunger for one ally.
+Kebab Ration	Exotic food. Restores 30% HP to one ally, lowers Attack, raises Accuracy/Evasion.
+Special Chimaki	A joy-inducing deluxe Chinese sticky rice dumpling. Restores 100 SP to one ally.
+Osechi Chocolate	Osechi made of chocolate. Even sweeter with friends. Fully restores HP of all allies.
+Knowing the Heart	Old book about the fragility of the human heart. Expands Technical conditions.
+The Fader	Breaks all known limits. Ball speed: ??? mph.
+Old Man's Elixir	The ingredients are super secret. Fully restores HP and SP of all allies.
+Billiards Magician	Miraculous techniques by a billiards master. Learn about masse.
+Musk AG-LU	Quality incense that raises Persona's Ag and Lu by 1. 
