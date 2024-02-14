@@ -4,6 +4,20 @@
 * [How to Use](./how-to-use)
 * [Report Issue](https://github.com/aqiu384/megaten-fusion-tool/issues)
 
+## General
+* Demon/Persona List
+  * Green: Special fusion recipe
+  * Red: Non-standard fusion recipe
+    * Fusion accident
+    * Recruitment only
+    * Party member
+    * Enemy only
+* Skill List
+  * Red: Non-inheritable skill
+* Fusion Settings
+  * Add/remove unlockable demons from fusion calculations (enabled by default)
+  * Add/remove DLC demons from fusion calculations (disabled by default)
+
 ## Save Offline
 ### iOS
 1. Navigate to the [Megami Tensei Fusion Tools homepage](https://aqiu384.github.io/megaten-fusion-tool/home)
