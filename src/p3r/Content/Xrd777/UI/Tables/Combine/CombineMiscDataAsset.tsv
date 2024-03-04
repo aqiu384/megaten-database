@@ -1,0 +1,15 @@
+Property	Value
+AccidentBaseRate	0.015625
+FoolAccidentRate	0.5
+AccidentMinLv	-10
+AccidentMaxLv	1
+SkillChangeBaseRate	0.125
+SkillBuildUpRate	0.3
+SkillChanges1	0.7
+SkillChanges2	0.25
+SkillChanges3	0.05
+SkillWeights1	1.0
+SkillWeights2	0.8
+SkillWeights3	0.965
+SkillWeights4	0.13
+SkillWeights5	0.03

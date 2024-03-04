@@ -1,0 +1,20 @@
+en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
+Guard	防御	방어	防御	防禦	Decken	Protegerse	Garde	Guardia	Garda	Defender	Защита	Koru
+Summon	召喚	소환	召唤	召喚	Rufen	Invocar	Invocation	Evocazione	Przyzwanie	Evocar	Призыв	Çağırma
+Escape	逃走	도주	逃跑	逃跑	Flucht	Escapar	Fuite	Fuga	Ucieczka	Fugir	Побег	Kaçma
+Direct Commands	直接指示する	직접 지시한다	直接指示	直接指示	Direkte Befehle	Órdenes directas	Ordres directs	Comandi diretti	Bezpośrednie polecenia	Comandos diretos	Прямые команды	Doğrudan Komutlar
+Act Freely	判断は任せた	판단을 맡긴다	自行判断	各自判斷	Frei handeln	Actuar libremente	Action libre	Azione libera	Dowolne działania	Livre para agir	Свободный выбор	Özgürce Hareket Etme
+Full Assault	力を出し切れ	전력을 다해라	全力以赴	使出全力	Voll auf Angriff	Asalto completo	Assaut total	Assalto totale	Pełen atak	Ataque pleno	Агрессия	Tam Saldırı
+Conserve SP	力をセーブしろ	힘을 아껴라	保存实力	保留力量	SP bewahren	Ahorrar PE	Conserver les PC	Conserva SP	Oszczędzanie PE	Economizar PE	Сохранение ОД	RP Koruma
+Heal/Support	体力を最優先に	체력을 최우선으로	体力优先	體力優先	Heilen/Unterstützung	Curar/Ayudar	Soin/Soutien	Cura/Supporto	Leczenie/wsparcie	Cura/Suporte	Лечение/поддержка	Şifa/Destek
+You have no items.	所持アイテムはありません	소지하고 있는 아이템이 없습니다	身上没有道具	未持有道具。	Du hast keine Items.	No tienes objetos.	Vous n'avez aucun objet.	Non hai oggetti.	Nie masz przedmiotów.	Você não tem itens.	У вас нет предметов.	Hiç öğen yok.
+You have no usable skills.	使用可能スキルがありません	사용할 수 있는 스킬이 없습니다	没有可使用的技能	沒有可以使用的技能。	Du hast keine einsetzbaren Skills.	No tienes ninguna habilidad disponible.	Vous n'avez pas de compétences utilisables.	Non hai abilità utilizzabili.	Nie masz dostępnych umiejętności.	Você não tem habilidades utilizáveis.	У вас нет доступных навыков.	Kullanılabilecek bir yeteneğin yok.
+Slash Attack	斬撃アタック	참격 어택	斩击攻击	斬擊攻擊	Hiebangriff	Ataque cortante	Attaque taillade	Attacco taglio	Atak – cięcie	Ataque Cortante	Рассечение	Kesik Saldırısı
+Strike Attack	打撃アタック	타격 어택	打击攻击	打擊攻擊	Schlagangriff	Ataque contundente	Attaque de frappe	Attacco colpo	Atak – uderzenie	Ataque Contundente	Удар	Vuruş Saldırısı
+Pierce Attack	貫通アタック	관통 어택	贯穿攻击	貫穿攻擊	Durchbohrenangriff	Ataque perforante	Attaque perforante	Attacco perforazione	Atak – pchnięcie	Ataque Perfurante	Пронзание	Delme Saldırısı
+Fire Attack	火炎アタック	화염 어택	火焰攻击	火焰攻擊	Feuerangriff	Ataque de fuego	Attaque de feu	Attacco di fuoco	Atak – ogień	Ataque de Fogo	Огненная атака	Ateş Saldırısı
+Ice Attack	氷結アタック	빙결 어택	冰冻攻击	冰凍攻擊	Eisangriff	Ataque de hielo	Attaque de glace	Attacco di ghiaccio	Atak – lód	Ataque de Gelo	Ледяная атака	Buz Saldırısı
+Electric Attack	電撃アタック	전격 어택	电击攻击	電擊攻擊	Elektroangriff	Ataque de electricidad	Attaque électrique	Attacco di elettricità	Atak – elektryczność	Ataque de Raio	Молниевая атака	Elektrik Saldırısı
+Wind Attack	疾風アタック	질풍 어택	疾风攻击	疾風攻擊	Windangriff	Ataque de viento	Attaque de vent	Attacco di vento	Atak – wiatr	Ataque de Vento	Ветряная атака	Rüzgar Saldırısı
+Light Attack	光アタック	빛 어택	光攻击	光攻擊	Lichtangriff	Ataque de luz	Attaque de lumière	Attacco di luce	Atak – światło	Ataque de Luz	Световая атака	Işık Saldırısı
+Dark Attack	闇アタック	어둠 어택	暗攻击	闇攻擊	Dunkelheitsangriff	Ataque de oscuridad	Attaque d'ombre	Attacco di oscurità	Atak – mrok	Ataque de Trevas	Темная атака	Karanlık Saldırısı
