@@ -60,13 +60,13 @@ Special Drink	お手製ドリンク	수제 드링크	手工饮料	手工飲料	S
 Soul Drop	ソウルドロップ	소울 드롭	灵魂糖果	靈魂糖果	Seelentropfen	Gota espiritual	Goutte d'âme	Goccia dell'anima	Kropla duszy	Gota de Alma	Капля души	Ruh Damlası
 Instant Curry	レトルトカレー	즉석 카레	速食咖喱	咖哩調理包	Instant-Curry	Curry instantáneo	Curry instantané	Curry istantaneo	Curry błyskawiczne	Curry Instantâneo	Растворимый карри	Hızlı Köri
 Isotope Soda	アイソトソーダ	아이소토닉 소다	同位素汽水	等滲透蘇打	Isotope-Soda	Refresco isotópico	Soda isotope	Isotope Soda	Napój izotopowy	Refri Isotópico	Напиток с изотопами	İzotonik Gazoz
-Luxe Shiruko Can	極上おしるこ缶	극상 팥죽캔	顶级红豆汤罐头	極品紅豆湯	\"Luxe Shiruko\"-Can	Lata Shiruko cara	Canette luxe Shiruko	Lattina Shiruko Luxe	Luxe Shiruko	Shiruko Gourmet	Дорогая банка сируко	Lüks Shiruko Konserve Kutusu
+Luxe Shiruko Can	極上おしるこ缶	극상 팥죽캔	顶级红豆汤罐头	極品紅豆湯	Luxe Shiruko-Can	Lata Shiruko cara	Canette luxe Shiruko	Lattina Shiruko Luxe	Luxe Shiruko	Shiruko Gourmet	Дорогая банка сируко	Lüks Shiruko Konserve Kutusu
 未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 Dis-Poison	ディスポイズン	디스 포이즌	解毒剂	解毒藥	Anti-Gift	Antiveneno	Anti-Poison	Cura-veleno	Odtrutka	Des-Veneno	Анти-яд	Zehir Giderici
 Dis-Rage	ディスブルト	디스 브루트	解怒剂	解棄劑	Anti-Wut	Antifuria	Anti-Rage	Cura-furia	Zdjęcie furii	Des-Fúria	Анти-ярость	Öfke Giderici
 Dis-Charm	ディスチャーム	디스 참	解魅剂	解魅劑	Anti-Charme	Antimanipulación	Anti-Charme	Cura-malia	Zdjęcie oczarowania	Des-Encanto	Анти-очарование	Efsun Giderici
 Patra Gem	パトラジェム	파트라 젬	帕特拉宝石	帕特拉寶石	Patra-Juwel	Gema Patra	Gemme Patra	Gemma Patra	Klejnot Patra	Gema de Patra	Камень Патра	Patra Değerli Taşı
-Me Patra Gem	メパトラジェム	메파트라 젬	梅帕特拉宝石	梅帕特拉寶石	\"Me Patra\"-Juwel	Gema Me Patra	Gemme Me Patra	Gemma Me Patra	Klejnot Me Patra	Gema de Me Patra	Камень Ме Патра	Me Patra Değerli Taşı
+Me Patra Gem	メパトラジェム	메파트라 젬	梅帕特拉宝石	梅帕特拉寶石	Me Patra-Juwel	Gema Me Patra	Gemme Me Patra	Gemma Me Patra	Klejnot Me Patra	Gema de Me Patra	Камень Ме Патра	Me Patra Değerli Taşı
 Amrita Soda	アムリタソーダ	암리타 소다	甘露汽水	甘露汽水	Amrita-Soda	Refresco de Amrita	Soda Amrita	Amrita Soda	Napój Amrita	Refri de Amrita	Напиток Амрита	Amrita Gazozu
 Revival Bead	地返しの玉	소생옥	返地玉	返地玉	Auferstehungsperle	Abalorio de resurrección	Perle de renaissance	Perlina rigenerante	Koralik wskrzeszenia	Conta Ressuscitadora	Бусина воскрешения	Canlandırıma Boncuğu
 Balm of Life	反魂香	반혼향	返魂香	返魂香	Lebensbalsam	Bálsamo vital	Baume de vie	Balsamo vitale	Balsam życia	Bálsamo de Vida	Живительный бальзам	Can Balsamı
@@ -90,7 +90,7 @@ Life Ointment	ハンゴン軟膏	반혼 연고	回魂软膏	回魂軟膏	Lebenss
 Bead Chain EX	極上宝玉輪	극상 보옥륜	至高宝玉环	極致寶玉輪	Heilperlenkette EX	Cadena de abalorios EX	Chaîne de perles EX	Catena di perline EX	Łańcuch z korali EX	Cordão de Conta EX	Бусы+	Boncuk Zinciri EX
 Hiranya Mandarin	平ん屋ごろごろみかん	히란야 동글 귤	平屋滚滚橘	六芒星果肉橘子凍	Hiranya-Mandarin	Mandarina Hiranya	Mandarine Hiranya	Mandarino Hiranya	Hiranya	Mandarim de Hiranya	Золотистый мандарин	Hiranya Mandalina
 Refresh Pack	リフレッシュパック	리프레시 팩	清心大礼包	提神組合	Frischepack	Lote refrescante	Pack de purification	Pacchetto rinfrescante	Pakiet odświeżający	Pacote Refrescante	Очищающий набор	Tazeleme Paketi
-Vitae G Bottle	バイタルンＧボトル	바이타른 G 보틀	大瓶装金体散	維他倫ＧＯＬＤ寶特瓶	\"Vitae G\"-Flasche	Botella Vitae G	Bouteille G de vie	Bottiglia Vitae G	Butelka Vitae G	Garrafa Vitae G	Бутылка ВитаГ	Vitae G Şişesi
+Vitae G Bottle	バイタルンＧボトル	바이타른 G 보틀	大瓶装金体散	維他倫ＧＯＬＤ寶特瓶	Vitae G-Flasche	Botella Vitae G	Bouteille G de vie	Bottiglia Vitae G	Butelka Vitae G	Garrafa Vitae G	Бутылка ВитаГ	Vitae G Şişesi
 未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 Fuuka's Cookie	風花の手製クッキー	후카의 수제 쿠키	风花的手工曲奇	風花親手做的餅乾	Fuukas Keks	Galleta de Fuuka	Cookie de Fuuka	Biscotto di Fuuka	Ciastko Fuuki	Biscoito da Fuuka	Печенье Фууки	Fuuka'nın Kurabiyesi
@@ -127,7 +127,7 @@ Japanese Doll	日本人形	일본 인형	日本人偶	日本人偶	Japanische Pu
 Kaleidoscope	カレイドスコープ	만화경	万花筒	萬花筒	Kaleidoskop	Caleidoscopio	Kaléidoscope	Caleidoscopio	Kalejdoskop	Caleidoscópio	Калейдоскоп	Çiçek Dürbünü
 Goggle-Eyed Idol	遮光器土偶	차광기 토우	遮光器土偶	遮光器土偶	Kulleraugengötze	Ídolo ojos desorbitados	Poupée ébahie	Dogu occhialuto	Bożek z ruchomymi oczami	Ídolo Olhudo	Лупоглазый идол	Şaşı Put
 Ganesha Bank	ガネーシャ貯金箱	가네샤 저금통	葛内舍储蓄箱	象頭神儲蓄箱	Ganesha-Sparschwein	Banco de Ganesha	Tirelire Ganesh	Salvadanaio Ganesha	Bank Ganeshy	Cofre de Ganesha	Копилка в виде Ганеши	Ganesha Kasası
-Jack Frost Doll	フロスト人形	프로스트 인형	霜精玩偶	傑克霜精布偶	\"Jack Frost\"-Puppe	Muñeco Jack Frost	Poupée Jack Frost	Bambola Jack Frost	Lalka Jack Frost	Boneco de Jack Frost	Фигурка Джека Фроста	Jack Frost Bebeği
+Jack Frost Doll	フロスト人形	프로스트 인형	霜精玩偶	傑克霜精布偶	Jack Frost-Puppe	Muñeco Jack Frost	Poupée Jack Frost	Bambola Jack Frost	Lalka Jack Frost	Boneco de Jack Frost	Фигурка Джека Фроста	Jack Frost Bebeği
 Book Cover	ブックカバー	책 커버	书皮	書衣	Buchumschlag	Cubierta de libro	Couverture de livre	Coprilibro	Okładka książki	Capa para Livro	Книжная обложка	Kitap Kapağı
 Lucky Charm	大吉のお守り	대길 부적	大吉护身符	大吉護身符	Glücksbringer	Amuleto de la suerte	Porte-bonheur	Portafortuna	Amulet szczęścia	Patuá da Sorte	Талисман удачи	Nazarlık
 未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -316,7 +316,7 @@ Doctor in Jelly	ドクターｉｎゼリー	닥터 in 젤리	医生ｉｎ果冻	
 YABA Chocolate	ＹＡＢＡチョコレート	DANGER 초콜릿	镇定剂巧克力	ＹＡＢＡ巧克力	YABA Chocolate	Chocolate YABA	Chocolat YABA	Cioccolato YABA	Czekolada YABA	Chocolate YABA	Шоколад «НИЧОСИ»	Aman Tanrım Çikolatası
 Chilled Taiyaki	ひんやり白たい焼き	차가운 흰 붕어빵	冰凉白鲷鱼烧	冰鎮白色鯛魚燒	Gekühltes Taiyaki	Taiyaki frío	Taiyaki frais	Taiyaki fresco	Schłodzone taiyaki	Taiyaki Gelado	Охлажденный тайяки	Dondurulmuş Taiyaki
 Luxe Tropical Fruit	高級南国フルーツ	고급 남국 과일	高级热带水果	高級熱帶水果	Luxus-Tropenfrucht	Fruta tropical de lujo	Fruit tropical de luxe	Frutto tropicale Luxe	Luksusowy owoc tropikalny	Fruta Tropical Cara	Роскошный экзотический фрукт	Lüks Tropikal Meyve
-Imperial Sweets Set	御用達甘味セット	인기 디저트 세트	御用甜品组合	熱門甜點組合	\"Imperial Sweets\"-Set	Lote de dulces imperiales	Boîte bonbons impériaux	Set dolci imperiali	Cesarska bomboniera	Doces Imperiais	Императорские конфеты	Muhteşem Tatlı Seti
+Imperial Sweets Set	御用達甘味セット	인기 디저트 세트	御用甜品组合	熱門甜點組合	Imperial Sweets-Set	Lote de dulces imperiales	Boîte bonbons impériaux	Set dolci imperiali	Cesarska bomboniera	Doces Imperiais	Императорские конфеты	Muhteşem Tatlı Seti
 Fresh Juice	生絞りジュース	생과일주스	鲜榨果汁	鮮榨果汁	Frischer Saft	Zumo fresco	Jus de fruits frais	Succo fresco	Świeży sok	Suco Fresco	Свежевыжатый сок	Taze Meyve Suyu
 Candy Hosui Pear	極甘豊水	극상 당도 배	超甜丰水梨	極甜豐水梨	Süße Hosui-Birne	Pera Hosui de caramelo	Poire Hosui	Dolcetto alla pera	Gruszka hosui na słodko	Bala de Pera Hosui	Груша в глазури	Şeker Hosui Armudu
 Halloween Candy	ハロウィンキャンディ	핼러윈 캔디	万圣节糖果	萬聖節糖果	Halloween-Bonbon	Caramelo de Halloween	Bonbon d'Halloween	Dolce di Halloween	Cukierek halloweenowy	Bala de Halloween	Хэллоуинские сладости	Cadılar Bayramı Şekeri
