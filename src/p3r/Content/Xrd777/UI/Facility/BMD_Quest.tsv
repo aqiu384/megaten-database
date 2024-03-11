@@ -1,0 +1,129 @@
+id	en
+MSG_REQUEST_HELP_000	未使用
+MSG_REQUEST_HELP_001	Retrieve the first old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_002	Retrieve the second old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_003	Retrieve the third old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_004	Retrieve the fourth old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_005	Retrieve the fifth old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_006	Retrieve the sixth old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_007	Retrieve the seventh old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_008	Retrieve the last old document.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_009	Retrieve the progress report.\nBring the ''ITEM.''
+MSG_REQUEST_HELP_010	Traverse the Monad Passage.\nDefeat all the Shadows lurking within the Monad Passage on the 91st floor in Yabbashah, the third block.
+MSG_REQUEST_HELP_011	Defeat the Shadow of the Void.\nDefeat the ''Shadow of the Voice'' lurking within the Monad Passage on the 255th floor in Adamah, the sixth block.
+MSG_REQUEST_HELP_012	Bring me a Muscle Drink.\nBring Elizabeth NUM ITEM.
+MSG_REQUEST_HELP_013	Bring me a giant, creepy doll.\nBring a doll that is also used for teaching.
+MSG_REQUEST_HELP_014	I'd like to try all kinds of drinks.\nCollect 12 different drinks from vending machines for Elizabeth.
+MSG_REQUEST_HELP_015	I'd like to try Aojiru.\nBring NUM ITEM.
+MSG_REQUEST_HELP_016	Bring me some potent medicine.\nBring NUM ITEM.
+MSG_REQUEST_HELP_017	Let me hear music unique to Gekkoukan.\nBring a CD associated with Gekkoukan High School.
+MSG_REQUEST_HELP_018	I'd like to try a beef bowl.\nBring NUM ITEM.
+MSG_REQUEST_HELP_019	Please prevail in the Big Eater Challenge.\nComplete the Big Eater Challenge at Wilduck Burger.
+MSG_REQUEST_HELP_020	I'd like to be gifted a bouquet of flowers.\nBring NUM ITEM.
+MSG_REQUEST_HELP_021	Experiment with fortune telling.\nMake use of the ''Rarity Fortune'' that increases the appearances of rare Shadows.
+MSG_REQUEST_HELP_022	I'd like to see a pair of Max Safety Shoes.\nBring NUM pair of ITEM.
+MSG_REQUEST_HELP_023	Bring me the mysterious person's autograph.\nGet an autograph from President Tanaka of Tanaka's Amazing Commodities.
+MSG_REQUEST_HELP_024	I want to eat some chilled taiyaki.\nBring NUM ITEM.
+MSG_REQUEST_HELP_025	I'd like to try a home-cooked meal.\nBring a food or drink you made together with someone at the dorm.
+MSG_REQUEST_HELP_026	I'd like to see a mysterious potato.\nBring a potato that you've grown.
+MSG_REQUEST_HELP_027	Attempt a hundred shrine visits.\nBring what you receive from praying at the shrine.
+MSG_REQUEST_HELP_028	Look for the drink with my name.\nBring a drink that shares a name with Elizabeth.
+MSG_REQUEST_HELP_029	I'd like to see proof of a bond.\nBring an item you can only receive when a Social Link has been maxed out.
+MSG_REQUEST_HELP_030	I want to look fashionable.\nBring a fashionable item.
+MSG_REQUEST_HELP_031	Find me a beautiful tile.\nBring a tile with a peacock design.
+MSG_REQUEST_HELP_032	I wish to feel the ocean.\nBring something you find from the ocean.
+MSG_REQUEST_HELP_033	I wish to become a straw millionaire.\nBring what you get after bartering items.
+MSG_REQUEST_HELP_034	Bring me my Christmas present.\nGet Elizabeth's Christmas present from Santa.
+MSG_REQUEST_HELP_035	Defeat a Greedy Shadow.\nDefeat the Greedy Shadow in Harabah, the fifth block of Tartarus, and bring back NUM ITEM.
+MSG_REQUEST_HELP_036	未使用
+MSG_REQUEST_HELP_037	I want Jack Frost dolls.\nBring Elizabeth not 1 ITEM, but NUM of them.
+MSG_REQUEST_HELP_038	I'd like to try sushi.\nBring sushi.
+MSG_REQUEST_HELP_039	未使用
+MSG_REQUEST_HELP_040	未使用
+MSG_REQUEST_HELP_041	Create a Persona that's level 13 or above.\nHave a Persona that is level 13 or higher in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_042	Create a Persona with Kouha.\nHave a Persona with the skill, Kouha, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_043	Create a Persona that's level 23 or above.\nHave a Persona that is level 23 or higher in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_044	Create a Persona with Torrent Shot.\nHave a Persona with the skill, Torrent Shot, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_045	Create a Persona that's level 38 or above.\nHave a Persona that is level 38 or higher in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_046	未使用
+MSG_REQUEST_HELP_047	Create a Persona that's level 46 or above.\nHave a Persona that is level 46 or higher in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_048	Create a Persona with Tempest Slash.\nHave a Persona with the skill, Tempest Slash, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_049	Create a Persona with Auto-Maraku.\nHave a Persona with the skill, Auto-Maraku, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_050	Fusion Series #1: Emperor, Oberon\nHave an Oberon with the skill, Mazio, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_051	Fusion Series #2: Chariot, Mithras\nHave a Mithras at level 26 or higher in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_052	Fusion Series #3: Hermit, Mothman\nHave a Mothman with the skill, Agilao, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_053	未使用
+MSG_REQUEST_HELP_054	Fusion Series #4: Lovers, Titania\nHave a Titania with the skill, Matarukaja, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_055	Fusion Series #5: Magician, Rangda\nHave a Rangda at level 54 or higher in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_056	Fusion Series #7: Hierophant, Daisoujou\nHave a Daisoujou with the skill, Regenerate 3, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_057	Fusion Series #8: Death, Alice\nHave Alice in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_058	Fusion Series #9: Fool, Loki\nHave a Loki at level 75 or higher in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_059	Fusion Series #10: Tower, Masakado\nHave a Masakado with the skill, Charge, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_060	Fusion Series #6: Strength, Siegfried\nHave a Siegfried with the skill, Endure, in your possession and report to Elizabeth.
+MSG_REQUEST_HELP_061	Bring me a Sengoku-era helm.\nBring a helm from the Sengoku era.
+MSG_REQUEST_HELP_062	I'd like to try Oden Juice.\nBring some Oden Juice.
+MSG_REQUEST_HELP_063	Bring me food for a furry friend.\nBring the item Elizabeth is asking for.
+MSG_REQUEST_HELP_064	Go clean a restroom.\nBring the cleaning supplies and clean the restroom.
+MSG_REQUEST_HELP_065	Go water the flowers.\nWater the flower bed at school.
+MSG_REQUEST_HELP_066	Please feed the cat.\nGive the hungry cat some food.
+MSG_REQUEST_HELP_067	Bring me a Featherman R action figure.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_068	I'd like to walk around Paulownia Mall.\nShow Elizabeth around Paulownia Mall.
+MSG_REQUEST_HELP_069	I'd like to visit Iwatodai Station.\nWalk around Iwatodai with Elizabeth.
+MSG_REQUEST_HELP_070	I'd like to visit Naganaki Shrine.\nWalk around Naganaki Shrine with Elizabeth.
+MSG_REQUEST_HELP_071	I'd like to visit Gekkoukan High.\nShow Elizabeth around Gekkoukan High.
+MSG_REQUEST_HELP_072	I'd like to visit your room.\nInvite Elizabeth to your room.
+MSG_REQUEST_HELP_073	Bring me pine resin.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_074	Bring me a handheld game console.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_075	Bring me a triangular sword.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_076	Bring me a protein not for pros.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_077	Bring me a glasses wipe.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_078	Bring me a Christmas star.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_079	Bring me a fruit knife.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_080	Bring me oil.\nBring the item that Elizabeth is asking for.
+MSG_REQUEST_HELP_081	Bring me a Juzumaru.\nShow Elizabeth a ITEM.
+MSG_REQUEST_HELP_082	Bring me an Onimaru Kunitsuna.\nShow Elizabeth an ITEM.
+MSG_REQUEST_HELP_083	Bring me a Mikazuki Munechika.\nShow Elizabeth a ITEM.
+MSG_REQUEST_HELP_084	Bring me an Ote-gine.\nShow Elizabeth an ITEM.
+MSG_REQUEST_HELP_085	Bring me an Outenta Mitsuyo.\nShow Elizabeth an ITEM.
+MSG_REQUEST_HELP_086	Bring me a Rai Kunimitsu.\nShow Elizabeth a ITEM.
+MSG_REQUEST_HELP_087	Bring me a Dojigiri Yasutsuna.\nShow Elizabeth a ITEM.
+MSG_REQUEST_HELP_088	Bring me a Tonbo-kiri.\nShow Elizabeth a ITEM.
+MSG_REQUEST_HELP_089	Defeat a rare Shadow #1\nDefeat the rare Shadow in the third block, Yabbashah, and bring back NUM ITEM.
+MSG_REQUEST_HELP_090	Defeat a rare Shadow #2\nDefeat the rare Shadow in the fourth block, Tziah, and bring back NUM ITEM.
+MSG_REQUEST_HELP_091	Shadow Hunting Milestone\nDefeat a total of 100 Shadows.
+MSG_REQUEST_HELP_092	Shadow Hunting Milestone #2\nDefeat a total of 200 Shadows.
+MSG_REQUEST_HELP_093	Shadow Hunting Milestone #3\nDefeat a total of 300 Shadows.
+MSG_REQUEST_HELP_094	Shadow Hunting Milestone #4\nDefeat a total of 450 Shadows.
+MSG_REQUEST_HELP_095	Shadow Hunting Milestone #5\nDefeat a total of 600 Shadows.
+MSG_REQUEST_HELP_096	Shadow Hunting Milestone #6\nDefeat a total of 800 Shadows.
+MSG_REQUEST_HELP_097	Treasure Hunting Milestone\nOpen a total of 50 treasure chests.
+MSG_REQUEST_HELP_098	Treasure Hunting Milestone #2\nOpen a total of 100 treasure chests.
+MSG_REQUEST_HELP_099	Treasure Hunting Milestone #3\nOpen a total of 150 treasure chests.
+MSG_REQUEST_HELP_100	Treasure Hunting Milestone #4\nOpen a total of 200 treasure chests.
+MSG_REQUEST_HELP_101	Persona Fusion Milestone\nConduct a total of 20 Persona fusions.
+MSG_REQUEST_HELP_102	Persona Fusion Milestone #2\nConduct a total of 35 Persona fusions.
+MSG_REQUEST_HELP_103	Persona Fusion Milestone #3\nConduct a total of 50 Persona fusions.
+MSG_REQUEST_HELP_104	未使用
+MSG_REQUEST_HELP_105	未使用
+MSG_REQUEST_HELP_106	未使用
+MSG_REQUEST_HELP_107	未使用
+MSG_REQUEST_HELP_108	未使用
+MSG_REQUEST_HELP_109	未使用
+MSG_REQUEST_HELP_110	Bring me a Bloody Button.\nBring the ITEM.
+MSG_REQUEST_HELP_111	Take out the ultimate adversary.\nDefeat the ultimate adversary.
+MSG_REQUEST_HELP_112	Perform King and I.\nCarry out the ''King and I'' Fusion Spell.
+MSG_REQUEST_HELP_113	未使用
+MSG_REQUEST_HELP_114	未使用
+MSG_REQUEST_HELP_115	未使用
+MSG_REQUEST_HELP_116	未使用
+MSG_REQUEST_HELP_117	未使用
+MSG_REQUEST_HELP_118	未使用
+MSG_REQUEST_HELP_119	未使用
+MSG_REQUEST_HELP_120	未使用
+MSG_REQUEST_HELP_121	未使用
+MSG_REQUEST_HELP_122	未使用
+MSG_REQUEST_HELP_123	未使用
+MSG_REQUEST_HELP_124	未使用
+MSG_REQUEST_HELP_125	未使用
+MSG_REQUEST_HELP_126	未使用
+MSG_REQUEST_HELP_127	未使用

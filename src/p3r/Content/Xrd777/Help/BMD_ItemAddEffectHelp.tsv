@@ -1,0 +1,257 @@
+id	en
+ItemAddEffectMSG_000	ブランク
+ItemAddEffectMSG_001	+10 HP
+ItemAddEffectMSG_002	+20 HP
+ItemAddEffectMSG_003	+30 HP
+ItemAddEffectMSG_004	+40 HP
+ItemAddEffectMSG_005	+50 HP
+ItemAddEffectMSG_006	+100 HP
+ItemAddEffectMSG_007	+10 SP
+ItemAddEffectMSG_008	+20 SP
+ItemAddEffectMSG_009	+30 SP
+ItemAddEffectMSG_010	+40 SP
+ItemAddEffectMSG_011	+50 SP
+ItemAddEffectMSG_012	+100 SP
+ItemAddEffectMSG_013	+Freeze (low)
+ItemAddEffectMSG_014	+Freeze (med)
+ItemAddEffectMSG_015	+Freeze (high)
+ItemAddEffectMSG_016	+Shock (low)
+ItemAddEffectMSG_017	+Shock (med)
+ItemAddEffectMSG_018	+Shock (high)
+ItemAddEffectMSG_019	+Confuse (low)
+ItemAddEffectMSG_020	+Confuse (med)
+ItemAddEffectMSG_021	+Confuse (high)
+ItemAddEffectMSG_022	+Fear (low)
+ItemAddEffectMSG_023	+Fear (med)
+ItemAddEffectMSG_024	+Fear (high)
+ItemAddEffectMSG_025	+Distress (low)
+ItemAddEffectMSG_026	+Distress (med)
+ItemAddEffectMSG_027	+Distress (high)
+ItemAddEffectMSG_028	+Charm (low)
+ItemAddEffectMSG_029	+Charm (med)
+ItemAddEffectMSG_030	+Charm (high)
+ItemAddEffectMSG_031	+Rage (low)
+ItemAddEffectMSG_032	+Rage (med)
+ItemAddEffectMSG_033	+Rage (high)
+ItemAddEffectMSG_034	+Poison (low)
+ItemAddEffectMSG_035	+Poison (med)
+ItemAddEffectMSG_036	+Poison (high)
+ItemAddEffectMSG_037	+Random ailment (low)
+ItemAddEffectMSG_038	+Random ailment (med)
+ItemAddEffectMSG_039	+Random ailment (high)
+ItemAddEffectMSG_040	+Critical rate up (low)
+ItemAddEffectMSG_041	+Critical rate up (med)
+ItemAddEffectMSG_042	+Critical rate up (high)
+ItemAddEffectMSG_043	+Slash Boost
+ItemAddEffectMSG_044	+Strike Boost
+ItemAddEffectMSG_045	+Pierce Boost
+ItemAddEffectMSG_046	+Fire Boost
+ItemAddEffectMSG_047	+Ice Boost
+ItemAddEffectMSG_048	+Elec Boost
+ItemAddEffectMSG_049	+Wind Boost
+ItemAddEffectMSG_050	+Light Boost
+ItemAddEffectMSG_051	+Dark Boost
+ItemAddEffectMSG_052	+Counter
+ItemAddEffectMSG_053	+Counterstrike
+ItemAddEffectMSG_054	+High Counter
+ItemAddEffectMSG_055	+Resist Freeze
+ItemAddEffectMSG_056	+Resist Shock
+ItemAddEffectMSG_057	+Resist Confuse
+ItemAddEffectMSG_058	+Resist Fear
+ItemAddEffectMSG_059	+Resist Distress
+ItemAddEffectMSG_060	+Resist Charm
+ItemAddEffectMSG_061	+Resist Rage
+ItemAddEffectMSG_062	+Resist Poison
+ItemAddEffectMSG_063	+Resist Dizzy
+ItemAddEffectMSG_064	+Null Freeze
+ItemAddEffectMSG_065	+Null Shock
+ItemAddEffectMSG_066	+Null Confuse
+ItemAddEffectMSG_067	+Null Fear
+ItemAddEffectMSG_068	+Null Distress
+ItemAddEffectMSG_069	+Null Charm
+ItemAddEffectMSG_070	+Null Rage
+ItemAddEffectMSG_071	+Null Poison
+ItemAddEffectMSG_072	+Null Dizzy
+ItemAddEffectMSG_073	+Auto Tarukaja
+ItemAddEffectMSG_074	+Auto Rakukaja
+ItemAddEffectMSG_075	+Auto Sukukaja
+ItemAddEffectMSG_076	+Reduce Slash dmg (low)
+ItemAddEffectMSG_077	+Reduce Slash dmg (med)
+ItemAddEffectMSG_078	+Reduce Slash dmg (high)
+ItemAddEffectMSG_079	+Reduce Strike dmg (low)
+ItemAddEffectMSG_080	+Reduce Strike dmg (med)
+ItemAddEffectMSG_081	+Reduce Strike dmg (high)
+ItemAddEffectMSG_082	+Reduce Pierce dmg (low)
+ItemAddEffectMSG_083	+Reduce Pierce dmg (med)
+ItemAddEffectMSG_084	+Reduce Pierce dmg (high)
+ItemAddEffectMSG_085	+Reduce phys dmg (low)
+ItemAddEffectMSG_086	+Reduce phys dmg (med)
+ItemAddEffectMSG_087	+Reduce phys dmg (high)
+ItemAddEffectMSG_088	+Reduce Fire dmg (low)
+ItemAddEffectMSG_089	+Reduce Fire dmg (med)
+ItemAddEffectMSG_090	+Reduce Fire dmg (high)
+ItemAddEffectMSG_091	+Reduce Ice dmg (low)
+ItemAddEffectMSG_092	+Reduce Ice dmg (med)
+ItemAddEffectMSG_093	+Reduce Ice dmg (high)
+ItemAddEffectMSG_094	+Reduce Elec dmg (low)
+ItemAddEffectMSG_095	+Reduce Elec dmg (med)
+ItemAddEffectMSG_096	+Reduce Elec dmg (high)
+ItemAddEffectMSG_097	+Reduce Wind dmg (low)
+ItemAddEffectMSG_098	+Reduce Wind dmg (med)
+ItemAddEffectMSG_099	+Reduce Wind dmg (high)
+ItemAddEffectMSG_100	+Reduce Light dmg (low)
+ItemAddEffectMSG_101	+Reduce Light dmg (med)
+ItemAddEffectMSG_102	+Reduce Light dmg (high)
+ItemAddEffectMSG_103	+Reduce Dark dmg (low)
+ItemAddEffectMSG_104	+Reduce Dark dmg (med)
+ItemAddEffectMSG_105	+Reduce Dark dmg (high)
+ItemAddEffectMSG_106	+Reduce magic dmg (low)
+ItemAddEffectMSG_107	+Reduce magic dmg (med)
+ItemAddEffectMSG_108	+Reduce magic dmg (high)
+ItemAddEffectMSG_109	+Slash evasion (low)
+ItemAddEffectMSG_110	+Slash evasion (med)
+ItemAddEffectMSG_111	+Slash evasion (high)
+ItemAddEffectMSG_112	+Strike evasion (low)
+ItemAddEffectMSG_113	+Strike evasion (med)
+ItemAddEffectMSG_114	+Strike evasion (high)
+ItemAddEffectMSG_115	+Pierce evasion (low)
+ItemAddEffectMSG_116	+Pierce evasion (med)
+ItemAddEffectMSG_117	+Pierce evasion (high)
+ItemAddEffectMSG_118	+Physical evasion (low)
+ItemAddEffectMSG_119	+Physical evasion (med)
+ItemAddEffectMSG_120	+Physical evasion (high)
+ItemAddEffectMSG_121	+Fire evasion (low)
+ItemAddEffectMSG_122	+Fire evasion (med)
+ItemAddEffectMSG_123	+Fire evasion (high)
+ItemAddEffectMSG_124	+Ice evasion (low)
+ItemAddEffectMSG_125	+Ice evasion (med)
+ItemAddEffectMSG_126	+Ice evasion (high)
+ItemAddEffectMSG_127	+Electricity evasion (low)
+ItemAddEffectMSG_128	+Electricity evasion (med)
+ItemAddEffectMSG_129	+Electricity evasion (high)
+ItemAddEffectMSG_130	+Wind evasion (low)
+ItemAddEffectMSG_131	+Wind evasion (med)
+ItemAddEffectMSG_132	+Wind evasion (high)
+ItemAddEffectMSG_133	+Light evasion (low)
+ItemAddEffectMSG_134	+Light evasion (med)
+ItemAddEffectMSG_135	+Light evasion (high)
+ItemAddEffectMSG_136	+Dark evasion (low)
+ItemAddEffectMSG_137	+Dark evasion (med)
+ItemAddEffectMSG_138	+Dark evasion (high)
+ItemAddEffectMSG_139	+Magic evasion (low)
+ItemAddEffectMSG_140	+Magic evasion (med)
+ItemAddEffectMSG_141	+Magic evasion (high)
+ItemAddEffectMSG_142	+50% EXP
+ItemAddEffectMSG_143	+15% EXP
+ItemAddEffectMSG_144	+Slash damage up
+ItemAddEffectMSG_145	+Strike damage up
+ItemAddEffectMSG_146	+Pierce damage up
+ItemAddEffectMSG_147	+Fire damage up
+ItemAddEffectMSG_148	+Ice damage up
+ItemAddEffectMSG_149	+Electricity damage up
+ItemAddEffectMSG_150	+Wind damage up
+ItemAddEffectMSG_151	+Light damage up
+ItemAddEffectMSG_152	+Dark damage up
+ItemAddEffectMSG_153	+Slash defense up
+ItemAddEffectMSG_154	+Strike defense up
+ItemAddEffectMSG_155	+Pierce defense up
+ItemAddEffectMSG_156	+Fire defense up
+ItemAddEffectMSG_157	+Ice defense up
+ItemAddEffectMSG_158	+Electricity defense up
+ItemAddEffectMSG_159	+Wind defense up
+ItemAddEffectMSG_160	+Light defense up
+ItemAddEffectMSG_161	+Dark defense up
+ItemAddEffectMSG_162	+Attack when enraged
+ItemAddEffectMSG_163	+Regenerate 1
+ItemAddEffectMSG_164	+Regenerate 2
+ItemAddEffectMSG_165	+Regenerate 3
+ItemAddEffectMSG_166	+Invigorate 1
+ItemAddEffectMSG_167	+Invigorate 2
+ItemAddEffectMSG_168	+Invigorate 3
+ItemAddEffectMSG_169	+Null Light instakill
+ItemAddEffectMSG_170	+Null Dark instakill
+ItemAddEffectMSG_171	+Ali Dance
+ItemAddEffectMSG_172	+Null all except Almighty
+ItemAddEffectMSG_173	+Firm Stance
+ItemAddEffectMSG_174	+Soul Chain
+ItemAddEffectMSG_175	+All-Out Attack dmg up
+ItemAddEffectMSG_176	ブランク
+ItemAddEffectMSG_177	+Null Slash
+ItemAddEffectMSG_178	+Null Strike
+ItemAddEffectMSG_179	+Null Pierce
+ItemAddEffectMSG_180	+Null Fire
+ItemAddEffectMSG_181	+Null Ice
+ItemAddEffectMSG_182	+Null Elec
+ItemAddEffectMSG_183	+Null Wind
+ItemAddEffectMSG_184	+Null Light
+ItemAddEffectMSG_185	+Null Dark
+ItemAddEffectMSG_186	+Slash Amp
+ItemAddEffectMSG_187	+Strike Amp
+ItemAddEffectMSG_188	+Pierce Amp
+ItemAddEffectMSG_189	+Fire Amp
+ItemAddEffectMSG_190	+Ice Amp
+ItemAddEffectMSG_191	+Elec Amp
+ItemAddEffectMSG_192	+Wind Amp
+ItemAddEffectMSG_193	+Light Amp
+ItemAddEffectMSG_194	+Dark Amp
+ItemAddEffectMSG_195	+Resist Ailments
+ItemAddEffectMSG_196	+Unshaken Will
+ItemAddEffectMSG_197	+Fast Heal
+ItemAddEffectMSG_198	+Insta-Heal
+ItemAddEffectMSG_199	+Life Aid
+ItemAddEffectMSG_200	+Endure
+ItemAddEffectMSG_201	+Enduring Soul
+ItemAddEffectMSG_202	+Arms Master
+ItemAddEffectMSG_203	+Spell Master
+ItemAddEffectMSG_204	+Apt Pupil
+ItemAddEffectMSG_205	+Sharp Student
+ItemAddEffectMSG_206	+Freeze Boost
+ItemAddEffectMSG_207	+Shock Boost
+ItemAddEffectMSG_208	+Confuse Boost
+ItemAddEffectMSG_209	+Fear Boost
+ItemAddEffectMSG_210	+Distress Boost
+ItemAddEffectMSG_211	+Charm Boost
+ItemAddEffectMSG_212	+Rage Boost
+ItemAddEffectMSG_213	+Poison Boost
+ItemAddEffectMSG_214	+Survive Light
+ItemAddEffectMSG_215	+Endure Light
+ItemAddEffectMSG_216	+Survive Dark
+ItemAddEffectMSG_217	+Endure Dark
+ItemAddEffectMSG_218	+Survival Trick
+ItemAddEffectMSG_219	+Auto Mataru
+ItemAddEffectMSG_220	+Auto Maraku
+ItemAddEffectMSG_221	+Auto Masuku
+ItemAddEffectMSG_222	+Auto Rebellion
+ItemAddEffectMSG_223	+Anti-Fire Master
+ItemAddEffectMSG_224	+Anti-Ice Master
+ItemAddEffectMSG_225	+Anti-Electric Master
+ItemAddEffectMSG_226	+Anti-Wind Master
+ItemAddEffectMSG_227	+Soul Shift
+ItemAddEffectMSG_228	未使用
+ItemAddEffectMSG_229	+Soul Link
+ItemAddEffectMSG_230	+Shift Boost
+ItemAddEffectMSG_231	+Shift Amp
+ItemAddEffectMSG_232	+Dmg on downed enemy
+ItemAddEffectMSG_233	+Dizzy Boost
+ItemAddEffectMSG_234	Ignore enemy resistances
+ItemAddEffectMSG_235	Orgia duration +1 turn
+ItemAddEffectMSG_236	Faster overheat recovery
+ItemAddEffectMSG_237	Strength
+ItemAddEffectMSG_238	Magic
+ItemAddEffectMSG_239	Endurance
+ItemAddEffectMSG_240	Agility
+ItemAddEffectMSG_241	Luck
+ItemAddEffectMSG_242	All stats
+ItemAddEffectMSG_243	+
+ItemAddEffectMSG_244	-
+ItemAddEffectMSG_245	/
+ItemAddEffectMSG_246	Effect
+ItemAddEffectMSG_247	Usable
+ItemAddEffectMSG_248	+100 HP and SP
+ItemAddEffectMSG_249	+Auto Tarukabellion
+ItemAddEffectMSG_250	+Auto Charge
+ItemAddEffectMSG_251	+Auto Concentrate
+ItemAddEffectMSG_252	+Auto Heat Riser
+ItemAddEffectMSG_253	Regenerate 3/Invigorate 3
+ItemAddEffectMSG_254	+Magic Ability
+ItemAddEffectMSG_255	+Null all ailments
