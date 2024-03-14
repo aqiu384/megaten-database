@@ -138,31 +138,19 @@
 ##### After School
 * **Nurse's Office (Courage +2, 1 note)**
 * Chariot Rank 1
-  * Go to school track through school gym
-  * Any
-  * Choice 1: I think I will. (Strength Flag 0.1)
-  * Choice 1: Wanna walk home together? (Strength Flag 0.1)
 ##### Evening
 * Paulownia Mall Arcade > High School of Youth (Y1500) (Charm +4, 2 notes)
 ---
 #### Fri 4/24
 ##### After School
 * Chariot Rank 2
-  * Any
-  * Any
-  * Choice 1: I think I will. (Strength Flag 0.2)
-  * Choice 1: Wanna walk home together? (Strength Flag 0.2)
 * Strength Rank 1
-  * Requires Chariot Rank 2
 ##### Evening
 * House of the Deceased (Y3000) (Courage +4, 2 notes)
 ---
 #### Sat 4/25
 ##### After School
 * Hierophant Rank 1
-  * Go to Gekkoukan Outdoor Corridor after talking to old couple
-  * Examine persimmon tree to obtain Persimmon Leaf
-  * Report back to old couple
 ##### Evening
 * Paulownia Mall Arcade > You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
@@ -170,7 +158,6 @@
 ##### Daytime
 * TV Shopping: Rose Bouquet, Luxury Chocolate x2 (Y2980)
 * Hierophant Rank 2
-  * Obtain Melon Bread x2
 ##### Evening
 * Tartarus
   * Need at least (Y36000) for social stats
@@ -181,8 +168,6 @@
 ##### After School
 * **Nurse's Office (Courage +2, 1 note)**
 * Emperor Rank 1
-  * Go to faculty office
-  * Go to student council room
 ##### Evening
 * High School of Youth (Y1500) (Charm +4, 2 notes)
 * **Charm Lv. 2**
@@ -190,8 +175,6 @@
 #### Tue 4/28
 ##### After School
 * Justice Flag 0.1
-  * Requires Emperor Rank 1
-  * Choice 1: I just wanted to talk...
 * Magician Rank 2
 ##### Evening
 * House of the Deceased (Y3000) (Courage +4, 2 notes)
@@ -209,10 +192,7 @@
 * Stay awake (Academics +2, 1 note)
 ##### After School
 * Justice Flag 0.2
-  * Choice 3: I'm a guy.
-* Magician Rank 3: 20/15 points to next rank
-  * Choice 3: What, of life? (+15, 3 notes)
-  * Choice 2: Good luck! (+5, 1 note)
+* Magician Rank 3
 ##### Evening
 * High School of Youth (Y1500) (Charm +4, 2 notes)
 
@@ -227,8 +207,6 @@
 #### Sat 5/2
 ##### After SChool
 * Justice Flag 0.3
-  * Choice 1: Hello.
-  * Choice 1: Let's hang out.
 * Gekkoukan School Shop > Buy Lukewarm Taiyaki x3 for Request #38
 * Strength Rank 2
 ##### Evening
@@ -238,11 +216,7 @@
 #### Sun 5/3
 ##### Daytime
 * Constitution Day
-* Hierophant Rank 3: 20/20 points to next rank
-  * Choice 1: Looking for something? (+5, 1 note)
-  * Choice 2: Can I help? (+15, 3 notes)
-  * Any
-  * Obtain Medicine
+* Hierophant Rank 3
 ##### Evening
 * Check fridge > Instant Ramen x2
 * Iwatodai Strip Mall 2F > Wakatsu > Prodigy Platter (Y680) (Academics +3, 2 notes)
@@ -258,9 +232,7 @@
 #### Tue 5/5
 ##### Daytime
 * Children's Day
-* Hermit Rank 3: 20/20 points to next rank
-  * Choice 1: Oh really? o_O (+5, 1 note)
-  * Choice 1: You don't like your job? (+15, 3 notes)
+* Hermit Rank 3
 ##### Evening
 * Club Escapade > Iwatodai Forum Note (Y500)
   * Additional Iwatodai Station vending machine drinks unlocked
@@ -270,7 +242,6 @@
 * Choice 1: A pantograph. (Charm +2, 1 note)
 ##### After School
 * Hanged Flag 0.1
-  * Requires a Weird Takoyaki and Mad Bull
 * Emperor Rank 2
 ##### Evening
 * You're the Answer (Y3000) (Academics +4, 2 notes)
@@ -285,10 +256,7 @@
 #### Fri 5/8
 ##### After School
 * Moon Flag 0.1
-  * Requires Magician Rank 3
-  * Talk to Kenji
 * Temperance Rank 1
-  * Requires Academics Lv. 2 and Hierophant Rank 3
 ##### Evening
 * Iwatodai Strip Mall 2F > Wakatsu > Seafood Full Course (Y900) (Academics +4, 2 notes)
 * Achievement: Gourmand
@@ -319,8 +287,7 @@
   * Unlocks Request #11: Please prevail in the Big Eater Challenge.
 ##### Daytime
 * TV Shopping: Antibiotic Gel x2, Sappy Jelly x5 (Y3980)
-* Hermit Rank 4 (Needs matching persona): 22/20 points to next rank
-  * Choice 3: Let's plan our wedding, then? (+22, 3 notes)
+* Hermit Rank 4 (Needs matching persona)
 ##### Evening
 * Request #12: Bring me pine resin.
   * Deadline: Sat 6/6
@@ -361,12 +328,6 @@
 #### Thu 5/14
 ##### After School
 * Moon Rank 1
-  * Requires Charm Lv. 2 and an Odd Morsel
-  * Choice 1: What are you eating?
-  * Choice 3: Pheremone Coffee.
-  * Choice 3: Red.
-  * Choice 2: Hagakure Bowl.
-  * Give him an Odd Morsel.
 ##### Evening
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
 ---
@@ -382,17 +343,14 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Hanged Rank 3 (Needs matching persona): 22/20 points to next rank
-  * Any
-  * Choice 3: Don't worry, he'll be there. (+22, 3 notes)
+* Hanged Rank 3 (Needs matching persona)
 ##### Evening
 * Study Group (Academics +4, 2 notes)
 ---
 #### Sun 5/17
 ##### Daytime
 * TV Shopping: Blinding Flashlight x3, Freeze Spray x3 (Y2980)
-* Moon Rank 3: 15/15 points to next rank
-  * Choice 2: The Gourmet King. (+15, 3 notes)
+* Moon Rank 3
 ##### Evening
 * Dorm Study Group (Academics +5, 3 notes)
 * **Academics Lv. 3**
@@ -427,8 +385,7 @@
 #### Sun 5/24
 ##### Daytime
 * TV Shopping: All-Purpose Apron, Umugi Water x2 (Y5980)
-* Moon Rank 4: 15/15 points to next rank
-  * Choice 2: Are you feeling sick? (+15, 3 notes)
+* Moon Rank 4
 ##### Evening
 * Gardening unlocked
 * Iwatodai Dorms Roof > Twilight Fragment x1
@@ -479,26 +436,19 @@
 * Exam reward from Mitsuru
   * Power Incense I, Guard Incense I, Magic Incense I, Speed Incense I
   * Proto-Choker
-* Chariot Rank 3 (Needs matching persona): 22/15 points to next rank
-  * Choice 2: Are you going to be okay? (+11, 1 note)
-  * Choice 1: Will it heal? (+11, 1 note)
+* Chariot Rank 3 (Needs matching persona)
 ##### Evening
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
 ---
 #### Tue 5/26
 ##### After School
-* Chariot Rank 4: 22/15 points to next rank
-  * Any
-  * Choice 2: that really sucks. (+22, 3 notes)
+* Chariot Rank 4
 ##### Evening
 * House of the Deceased (Y3000) (Courage +4, 2 notes)
 ---
 #### Wed 5/27
 ##### After School
-* Strength Rank 3 (Needs matching persona): 22/15 points to next rank
-  * Any
-  * Choice 2: Don't worry about it. (+11, 1 note)
-  * Choice 1: I'm honored. (+11, 1 note)
+* Strength Rank 3 (Needs matching persona)
 ##### Evening
 * Gamble Fortune
 * Tartarus
@@ -509,9 +459,7 @@
 * **Fall asleep (Courage +2, 1 note)**
 ##### After School
 * **Nurse's Office (Courage +2, 1 note)**
-* Magician Rank 4: 22/15 points to next rank
-  * Any
-  * Choice 1: Good luck! (+22, 3 notes)
+* Magician Rank 4
 ##### Evening
 * Iwatodai Strip Mall 3F > Net Cafe > Umiushi Fan Book (Y450)
   * Umiushi shop unlocked
@@ -520,8 +468,7 @@
 ##### Class
 * **Fall asleep (Courage +2, 1 note)**
 ##### After School
-* Magician Rank 5: 22/15 points to next rank
-  * Choice 2: Okay... (+22, 3 notes)
+* Magician Rank 5
 ##### Evening
 * Request #10: I'd like to try a beef bowl.
   * Iwatodai Strip Mall 3F > Umiumshi > Umiushi Beef Bowl (Y300)
@@ -529,9 +476,7 @@
 ---
 #### Sat 5/30
 ##### After School
-* Strength Rank 4 (Needs matching persona): 11/15 points to next rank
-  * Any
-  * Choice 1: Sure thing. (+11, 1 note)
+* Strength Rank 4 (Needs matching persona)
 ##### Evening
 * Weekend Wilduck Set (Y1200) (Courage +4, 2 notes)
 * **Courage Lv. 4**
@@ -548,9 +493,7 @@
 ### June
 #### Mon 6/1
 ##### After School
-* Chariot Rank 5: 29/15 points to next rank
-  * Choice 1: Back from the hospital? (+7, 1 note)
-  * Choice 1: Take my shoulder! (+22, 3 notes)
+* Chariot Rank 5
 ##### Evening
 * Check fridge > Precious Egg
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
@@ -559,58 +502,42 @@
 ##### Class
 * **Fall asleep (Courage +2, 1 note)**
 ##### After School
-* Chariot Rank 6: 21/15 points to next rank
-  * Choice 2: Show some guts, man! (+7, 1 note)
-  * Choice 2: Why go so far? (+7, 1 note)
-  * Choice 2: What about your knee? (+7, 1 note)
+* Chariot Rank 6
 ##### Evening
 * House of the Deceased (Y3000) (Courage +4, 2 notes)
 ---
 #### Wed 6/3
 ##### After School
 * Tower Flag 0.1
-  * Requires Strength Rank 4
-  * Talk to Yuko
-* Strength Rank 5 (Needs matching persona): 33/22 points to next rank
-  * Choice 3: It's because you teach so well. (+22, 2 notes)
-  * Choice 3: I trust whatever you decide, Yuko. (+11, 1 note)
+* Strength Rank 5 (Needs matching persona)
 ##### Evening
 * Iwatodai Strip Mall 2F > Hagakure > Pork Ramen (Y900) (Charm +3, 2 notes)
 ---
 #### Thu 6/4
 ##### After School
 * Buy Buff Potato Sprout x1 for Request #53
-* Magician Rank 6: 22/15 points to next rank
-  * Any
-  * Choice 1: I've got plans already. (+22, 3 notes)
+* Magician Rank 6
 ##### Evening
 * Plant Buff Potato Sprout
 * High School of Youth (Y1500) (Charm +4, 2 notes)
 ---
 #### Fri 6/5
 ##### After School
-* Magician Rank 7 (Needs matching persona): 33/22 points to next rank
-  * Choice 1: What happened? (+11, 1 note)
-  * Choice 3: Bride-to-Be? (+11, 1 note)
-  * Choice 1: Congrats! (+11, 1 note)
+* Magician Rank 7 (Needs matching persona)
 ##### Evening
 * House of the Deceased (Y3000) (Courage +4, 2 notes)
 * **Courage Lv. 5**
 ---
 #### Sat 6/6
 ##### After School
-* Strength Rank 6 (Needs matching persona): 22/22 points to next rank
-  * Choice 1: You guys got this. (+11, 1 note)
-  * Choice 2: As long as we believe in them. (+11, 1 note)
+* Strength Rank 6 (Needs matching persona)
 ##### Evening
 * Weekend Wilduck Set (Y1200) (Courage +4, 2 notes)
 ---
 #### Sun 6/7
 ##### Daytime
 * TV Shopping: Perfume, Health Supplement x2 (Y3980)
-* Hermit Rank 5 (Needs matching persona): 22/20 points to next rank
-  * Choice 3: Do you mean S.O.B.? (+11, 1 note)
-  * Choice 3: Are you a teacher? (+11, 1 note)
+* Hermit Rank 5 (Needs matching persona)
 ##### Evening
 * Weekend Wilduck Set (Y1200) (Courage +4, 2 notes)
 ---
@@ -622,9 +549,7 @@
 #### Tue 6/9
 ##### After School
 * **Nurse's Office (Courage +2, 1 note)**
-* Magician Rank 8: 29/22 points to next rank
-  * Choice 2: Are you in trouble? (+22, 3 notes)
-  * Choice 2: You two should talk it out. (+7, 1 note)
+* Magician Rank 8
 ##### Evening
 * Iwatodai Strip Mall 2F > Hagakure > Special Hagakure Bowl (Y1200) (Charm +4, 2 notes)
 ---
@@ -632,17 +557,13 @@
 ##### Class
 * **Stay awake (Academics +2, 1 note)**
 ##### After School
-* Strength Rank 7 (Needs matching persona): 45/35 points to next rank
-  * Any
-  * Choice 2: Are you relieved? (+11, 1 note)
-  * Choice 1: Let's do it. (+34, 3 notes)
+* Strength Rank 7 (Needs matching persona)
 ##### Evening
 * Special Hagakure Bowl (Y1200) (Charm +4, 2 notes)
 ---
 #### Thu 6/11
 ##### After School
-* Magician Rank 9: 22/22 points to next rank
-  * Choice 2: Let me handle this! (+22, 3 notes)
+* Magician Rank 9
 ##### Evening
 * Fuuka Joins
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
@@ -669,18 +590,14 @@
 * Request #77: I'd like to walk around Paulownia Mall.
   * Unlocks after completing 15 requests
 ##### After School
-* Strength Rank 8 (Needs matching persona): 11/40 points to next rank
-  * Any
-  * Any
-  * Choice 1: A boy. (+11, 1 note)
+* Strength Rank 8 (Needs matching persona)
 ##### Evening
 * Tartarus: Auto
 ---
 #### Sun 6/14
 ##### Daytime
 * TV Shopping: Brand Watch, Mega Protein x2 (Y3980)
-* Hermit Rank 6: 22/20 points to next rank
-  * Choice 2: What bastard? (+22, 3 notes)
+* Hermit Rank 6
 ##### Evening
 * Request #27: Bring me a triangular sword.
   * Deadline: Sun 7/5
@@ -720,9 +637,7 @@
 * Choice 1: Keen eye. (Charm +2, 1 note)
 ##### After School
 * **Nurse's Office (Courage +2, 1 note)**
-* Chariot Rank 7: 29/22 points to next rank
-  * Choice 1: How's your knee? (+7, 1 note)
-  * Choice 1: You have to get tougher! (+22, 3 notes)
+* Chariot Rank 7
 ##### Evening
 * Request #29: I want to look fashionable.
   * Club Escapade > Trade Black Quartz x1 and (Y10000)
@@ -730,12 +645,10 @@
 ---
 #### Tue 6/16
 ##### After School
-* Chariot Rank 8: 7/22 points to next rank
-  * Choice 2: ...... (+7, 1 note)
+* Chariot Rank 8
 ##### Evening
 * **Put Lukewarm Taiyaki in fridge**
 * Devil Flag 0.1
-  * Requires Hermit Rank 3, Charm Lv. 4, and (Y20000)
 * Lovers DVDs 1 (Charm +2, 1 note)
 * **Charm Lv. 5**
 * Achievement: Dorm Life
@@ -752,9 +665,7 @@
 #### Thu 6/18
 ##### After School
 * Buy Lukewarm Taiyaki x11 for rest of fridge events
-* Justice Rank 3 (Needs matching persona): 22/22 points to next rank
-  * Choice 1: They have no shame. (+11, 1 note)
-  * Choice 1: I agree. (+11, 1 note)
+* Justice Rank 3 (Needs matching persona)
 ##### Evening
 * Priestess Reading 1 (Academics +2, 1 note)
 ---
@@ -767,7 +678,6 @@
 #### Sat 6/20
 ##### Evening
 * Devil Flag 0.2
-  * Requires (Y10000)
 * Akihiko DVDs 1 (Courage +2, 1 note)
 * **Courage Lv. 6**
 * Achievement: Specialist
@@ -775,9 +685,7 @@
 #### Sun 6/21
 ##### Daytime
 * TV Shopping: Amenity Suit, Super Diet Food x3 (Y9800)
-* Hermit Rank 7: 29/20 points to next rank
-  * Choice 3: Well yeah. (+22, 3 notes)
-  * Choice 1: She um... what? (+7, 1 note)
+* Hermit Rank 7
 ##### Evening
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
 ---
@@ -786,7 +694,6 @@
 * Choice 3: Witch of Agnesi. (Charm +2, 1 note)
 ##### After School
 * Priestess Rank 1
-  * Requires Courage Lv. 6 and Fortune Rank 1
 ##### Evening
 * Empress Cooking 1
 ---
@@ -798,9 +705,7 @@
 ---
 #### Wed 6/24
 ##### After School
-* Fortune Rank 3: 22/15 points to next rank
-  * Choice 1: You've got talent. (+22, 3 notes)
-  * Any
+* Fortune Rank 3
 ##### Evening
 * Akihiko Cooking 2
 ---
@@ -808,9 +713,7 @@
 ##### Class
 * Choice 2: The flutter effect. (Charm +2, 1 note)
 ##### After School
-* Fortune Rank 4 (Needs matching persona): 22/15 points to next rank
-  * Choice 2: You're pulling out of the contest? (+11, 1 note)
-  * Choice 2: So you're just going to take it? (+11, 1 note)
+* Fortune Rank 4 (Needs matching persona)
 ##### Evening
 * Priestess Reading 2 (Academics +2, 1 note)
 ---
@@ -822,19 +725,14 @@
 ---
 #### Sat 6/27
 ##### After School
-* Priestess Rank 3: 44/15 points to next rank
-  * Choice 1: Just a dash or two. (+22, 3 notes)
-  * Choice 1: Just take it slow. (+22, 3 notes)
-  * Any
+* Priestess Rank 3
 ##### Evening
 * Akihiko DVDs 2 (Courage +2, 1 note)
 ---
 #### Sun 6/28
 ##### Daytime
 * TV Shopping: Amronion Sprout x2, Buff Potato Sprout x3 (Y2980)
-* Hermit Rank 8: 29/20 points to next rank
-  * Choice 2: Hurry up and tell me. (+22, 3 notes)
-  * Choice 1: What is he like? (+7, 1 note)
+* Hermit Rank 8
 ##### Evening
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
 ---
@@ -842,17 +740,13 @@
 ##### Class
 * Choice 1: Dowsing. (Charm +2, 1 note)
 ##### After School
-* Priestess Rank 4: 29/22 points to next rank
-  * Any
-  * Choice 3: You're a hard worker (+7, 1 note)
-  * Choice 1: That's not true. (+22, 3 notes)
+* Priestess Rank 4
 ##### Evening
 * Empress Cooking 2
 ---
 #### Tue 6/30
 ##### After School
-* Fortune Rank 5: 22/15 points to next rank
-  * Choice 1: You should tell your dad! (+22, 3 notes)
+* Fortune Rank 5
 ##### Evening
 * **Put Lukewarm Taiyaki in fridge**
 * Lovers DVDs 3 (Charm +2, 1 note)
@@ -861,17 +755,14 @@
 ### July
 #### Wed 7/1
 ##### After School
-* Fortune Rank 6: 22/15 points to next rank
-  * Any
-  * Choice 2: It's your choice now. (+22, 3 notes)
+* Fortune Rank 6
 ##### Evening
 * Check fridge > Chilled Taiyaki
 * Akihiko Cooking 3
 ---
 #### Thu 7/2
 ##### After School
-* Fortune Rank 7: 22/15 points to next rank
-  * Choice 1: Do you want to be a doctor? (+22, 3 notes)
+* Fortune Rank 7
 ##### Evening
 * High School of Youth (Y1500) (Charm +4, 2 notes)
 ---
@@ -879,18 +770,13 @@
 ##### Class
 * Choice 3: About romance. (Charm +2, 1 note)
 ##### After School
-* Priestess Rank 5: 51/30 points to next rank
-  * Choice 2: You did a great job. (+22, 3 notes)
-  * Choice 1: I'm glad I could help. (+7, 1 note)
-  * Choice 3: Can you make more sometime? (+22, 3 notes)
+* Priestess Rank 5
 ##### Evening
 * Lovers Cooking 3
 ---
 #### Sat 7/4
 ##### After School
-* Priestess Rank 6: 44/30 points to next rank
-  * Choice 1: Of course. (+22, 3 notes)
-  * Choice 1: That's the spirit. (+22, 3 notes)
+* Priestess Rank 6
 ##### Evening
 * Akihiko DVDs 3 (Courage +2, 1 note)
 ---
@@ -908,11 +794,7 @@
 ---
 #### Mon 7/6
 ##### After School
-* Priestess Rank 7 (Needs matching persona): 11/35 points to next rank
-  * Any
-  * Any
-  * Choice 3. That's messed up. (+11, 1 note)
-  * **Choice 1: Is that the only reason? (+0, 0 notes)**
+* Priestess Rank 7 (Needs matching persona)
 ##### Evening
 * Empress Cooking 3
 ---
@@ -926,8 +808,7 @@
 ##### Class
 * Choice 2: Between "time" and "it's". (Charm +2, 1 note)
 ##### After School
-* Hanged Rank 4: 22/20 points to next rank
-  * Choice 2: Of course they care. (+22, 3 notes)
+* Hanged Rank 4
 ##### Evening
 * Special Hagakure Bowl (Y1200) (Charm +4, 2 notes)
 ---
@@ -949,8 +830,7 @@
 ##### After School
 * Aohige Pharmacy > Supreme Cat Food x4 (Y2800)
 * Feed the cat 1
-* Moon Rank 5: 22/22 points to next rank
-  * Choice 1: That's right. (+22, 3 notes)
+* Moon Rank 5
 ##### Evening
 * Request #43: Bring me a Christmas star.
   * Deadline: Tue 8/4
@@ -962,8 +842,7 @@
 * Choice 3: Kabbalah. (Charm +2, 1 note)
 ##### After School
 * Feed the cat 2
-* Moon Rank 6: 22/22 points to next rank
-  * Choice 3: Are you sick? (+22, 3 notes)
+* Moon Rank 6
 ##### Evening
 * Study Group (Academics +4, 2 notes)
 ---
@@ -974,12 +853,9 @@
 * **2nd Social Link bonus: All base points x2.2801 going foward**
 ##### After School
 * Feed the cat 3
-* Hanged Rank 5: 45/20 points to next rank
-  * Choice 1: That's awful. (+34, 3 notes)
-  * Choice 2: They would never. (+11, 1 note)
+* Hanged Rank 5
 ##### Evening
 * Devil Rank 1
-  * Requires (Y10000)
 ---
 #### Sun 7/12
 ##### Daytime
@@ -989,10 +865,7 @@
 * Request #42: Please feed the cat.
   * Report back to Elizabeth
 * Achievement: Benevolent Purr-tector
-* Hermit Rank 9 (Needs matching persona): 34/20 points to next rank
-  * Choice 2: No way! (+17, 1 note)
-  * Any
-  * Choice 1: What are you planning? (+17, 1 note)
+* Hermit Rank 9 (Needs matching persona)
 ##### Evening
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
 * Death Rank 3: Auto
@@ -1001,9 +874,7 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Hanged Rank 6 (Needs matching persona): 68/30 points to next rank
-  * Choice 2: Calm down. (+17, 1 note)
-  * Choice 1: That should be enough. (+51, 3 notes)
+* Hanged Rank 6 (Needs matching persona)
 ##### Evening
 * Dorm Study Group (Academics +5, 3 notes)
 * **Academics Lv. 4**
@@ -1043,14 +914,6 @@
 * Priestess Fortune (Needs matching persona): 45/35 points to next rank
 ##### Evening
 * Tower Rank 1
-  * Requires Courage Lv. 4
-  * Talk to Mutatsu upstairs
-  * Talk to bartender downstairs
-  * Choice 4: Margarita
-  * Choice 2: Bloody Mary
-  * Choice 2: Screwdriver
-  * Choice 4: Oolong Tea
-  * Talk to Mutatsu again
 ---
 #### Mon 7/20
 ##### Daytime
@@ -1079,9 +942,7 @@
 ##### Class
 * Exam Results: Top of Class (Charm +4, 2 notes)
 ##### After School
-* Priestess Rank 8 (Needs matching persona): 34/40 points to next rank
-  * Choice 3: I've never thought about it. (+17, 1 note)
-  * Choice 1: Not at all. (+17, 1 note)
+* Priestess Rank 8 (Needs matching persona)
 ##### Evening
 * Exam reward from Mitsuru
   * Power Incense II, Guard Incense II, Magic Incense II, Speed Incense II
@@ -1096,7 +957,6 @@
 * Stay awake (Academics +2, 1 note)
 ##### After School
 * Lovers Rank 1
-  * Requires Charm Lv. 6
 ##### Evening
 * Devil Rank 2
 ---
@@ -1124,13 +984,11 @@
 #### Thu 7/30
 ##### Evening
 * Check fridge > Chilled Taiyaki, Umugi Water
-* Tower Rank 3: 34/25 points to next rank
-  * Choice 2: I don't have any friends (+34, 3 notes)
+* Tower Rank 3
 ---
 #### Fri 7/31
 ##### Evening
-* Tower Rank 4: 34/25 points to next rank
-  * Choice 1: Yeah, that might look cool. (+34, 3 notes)
+* Tower Rank 4
 
 ### August
 #### Sat 8/1
@@ -1143,8 +1001,7 @@
 ---
 #### Mon 8/3
 ##### Daytime
-* Hanged Rank 7: 0/15 points to next rank
-  * Any
+* Hanged Rank 7
 ##### Evening
 * Junpei Reading 1 (Courage +2, 1 note)
 ---
@@ -1193,11 +1050,8 @@
 #### Fri 8/7
 ##### Daytime
 * Star Rank 1
-  * Requires Courage Lv. 4
 ##### Evening
-* Tower Rank 5: 45/25 points to next rank
-  * Choice 1: I have enough. (+11, 1 note)
-  * Choice 2: No. (+34, 3 notes)
+* Tower Rank 5
 * Death Rank 5: Auto
 ---
 #### Sat 8/8
@@ -1226,9 +1080,7 @@
   * Unlocks after completing 45 requests
 ##### Daytime
 * Pray at shrine 1
-* Moon Rank 7: 34/22 points to next rank
-  * Choice 3: The world is ending? (+34, 3 notes)
-  * Any
+* Moon Rank 7
 ##### Evening
 * Koromaru Joins
 * Junpei Gardening 2
@@ -1297,11 +1149,7 @@
 ---
 #### Thu 8/20
 ##### Daytime
-* Hierophant Rank 4: 45/20 points to next rank
-  * Choice 1: I should go too. (+34, 3 notes)
-  * Any
-  * Choice 2: I'm worried. (+11, 1 note)
-  * Obtain Cyclone Tea
+* Hierophant Rank 4
 ##### Evening
 * Takaya Link 2: Auto
 * Priestess Reading 3 (Academics +2, 1 note)
@@ -1310,9 +1158,7 @@
 ##### Daytime
 * Strength Movies (Courage +4, 2 notes)
 ##### Evening
-* Tower Rank 6: 45/30 points to next rank
-  * Choice 2: You should go home. (+34, 3 notes)
-  * Choice 2: Do you have any coworkers? (+11, 1 note)
+* Tower Rank 6
 ---
 #### Sat 8/22
 ##### Daytime
@@ -1358,8 +1204,7 @@
 * Aeon Movies (Academics +4, 2 notes)
 ##### Evening
 * Ken Joins
-* Tower Rank 7: 34/30 points to next rank
-  * Choice 2: You probably shouldn't. (+34, 3 notes)
+* Tower Rank 7
 ---
 #### Sat 8/29
 ##### Daytime
@@ -1433,25 +1278,13 @@
 ##### Daytime
 * TV Shopping: Brand Purse, Brand Wallet (Y9800)
 * Sun Rank 1
-  * Requires Academics Lv. 4 and Hanged Rank 3
-  * Talk to Akinari
-  * Talk to Koromaru to obtain Red Fountain Pen
-  * Talk to Akinari again
 ##### Evening
 * Justice Walk
 ---
 #### Mon 9/7
 ##### After School
-* Priestess Rank 9 Romantic (Needs matching persona): 51/55 points to next rank
-  * Any
-  * Any
-  * Choice 1: I love you, Fuuka. (+51, 3 notes)
-  * Any
-* Priestess Rank 9 Platonic (Needs matching persona): 51/55 points to next rank
-  * Any
-  * Any
-  * Choice 2: We'll always be friends.
-  * Choice 1: Sure. (+51, 3 notes)
+* Priestess Rank 9 Romantic (Needs matching persona)
+* Priestess Rank 9 Platonic (Needs matching persona)
 ##### Evening
 * Shinjiro Gardening 1
 ---
@@ -1480,8 +1313,7 @@
 ##### Class
 * Choice 3: To reveal a secret. (Charm +2, 1 note)
 ##### After School
-* Lovers Rank 3: 0/15 points to next rank
-  * Any
+* Lovers Rank 3
 ##### Evening
 * Request #68: Bring me a fruit knife.
   * Deadline: Fri 10/2
@@ -1496,9 +1328,7 @@
 ##### Class
 * Choice 3: The Hermetica. (Charm +2, 1 note)
 ##### After School
-* Temperance Rank 3: 45/15 points to next rank
-  * Choice 2: Thanks. (+11, 1 note)
-  * Choice 3: How about a kimono? (+34, 3 notes)
+* Temperance Rank 3
 ##### Evening
 * Ken DVDs 1 (Courage +2, 1 note)
 ---
@@ -1506,9 +1336,7 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Justice Rank 4: 34/22 points to next rank
-  * Any
-  * Choice 2: I'm here for you. (+34, 3 notes)
+* Justice Rank 4
 ##### Evening
 * Shinjiro Cooking 2
 * Death Rank 6: Auto
@@ -1525,9 +1353,7 @@
 ##### Class
 * Choice 1: Their soulmate. (Charm +2, 1 note)
 ##### After School
-* Emperor Rank 4: 34/15 points to next rank
-  * Any
-  * Choice 2: Looks like you're hard at work. (+34, 3 notes)
+* Emperor Rank 4
 ##### Evening
 * Check fridge > Mega Protein x3
 * Shinjiro Gardening 3
@@ -1540,20 +1366,13 @@
 ---
 #### Wed 9/16
 ##### After School
-* Fortune Rank 8: 34/22 points to next rank
-  * Choice 1: It's okay, I'm fine. (+34, 3 notes)
-  * Any
-  * Any
+* Fortune Rank 8
 ##### Evening
 * Shinjiro Walk
 ---
 #### Thu 9/17
 ##### After School
-* Justice Rank 5: 112/22 points to next rank
-  * Choice 1: I'm all ears. (+22, 2 notes)
-  * Choice 1: Yeah, she's in love. (+34, 3 notes)
-  * Choice 1: Happy to help. (+22, 2 notes)
-  * Choice 1: Hold her hand. (+34, 3 notes)
+* Justice Rank 5
 ##### Evening
 * Koromaru Brushing 1
 ---
@@ -1600,16 +1419,13 @@
   * Any
   * Any
   * Choice 1: Wait a minute.
-* Lovers Rank 4: 34/22 points to next rank
-  * Choice 3: Are you okay? (+34, 3 notes)
+* Lovers Rank 4
 ##### Evening
 * Koromaru Brushing 2
 ---
 #### Fri 9/25
 ##### After School
-* Temperance Rank 4: 34/15 points to next rank
-  * Choice 3: Are you alright? (+34, 3 notes)
-  * Any
+* Temperance Rank 4
 ##### Evening
 * Ken DVDs 2 (Courage +2, 1 note)
 ---
@@ -1634,29 +1450,19 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Lovers Rank 5: 34/22 points to next rank
-  * Any
-  * Any
-  * Any
-  * Any
-  * Choice 1: I'm sorry. (+34, 3 notes)
+* Lovers Rank 5
 ##### Evening
 * Koromaru DVDs 3 (Academics +2, 1 note)
 ---
 #### Tue 9/29
 ##### After School
-* Temperance Rank 5: 22/15 points to next rank
-  * Choice 1: Sure. (+11, 1 note)
-  * Choice 2: Just stay in Japan! (+11, 1 note)
+* Temperance Rank 5
 ##### Evening
 * Shinjiro Cooking 3
 ---
 #### Wed 9/30
 ##### After School
-* Temperance Rank 6: 45/15 points to next rank
-  * Any
-  * Choice 1: Let's do it. (+11, 1 note)
-  * Choice 1: I have your back! (+34, 3 notes)
+* Temperance Rank 6
 ##### Evening
 * Aeon Reading 2 (Charm +2, 1 note)
 
@@ -1665,9 +1471,7 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Lovers Rank 6 (Needs matching persona): 34/35 points to next rank
-  * Choice 3: Thank you, too. (+17, 1 note)
-  * Choice 1: I wouldn't mind. (+17, 1 note)
+* Lovers Rank 6 (Needs matching persona)
 ##### Evening
 * Gamble Fortune
 * Tartarus
@@ -1693,8 +1497,7 @@
 ---
 #### Fri 10/2
 ##### After School
-* Temperance Rank 7: 34/10 points to next rank
-  * Choice 2: That's a great idea. (+34, 3 notes)
+* Temperance Rank 7
 ##### Evening
 * Lovers Cooking 4: 36/35 points to next rank
 ---
@@ -1702,8 +1505,7 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Lovers Rank 7 (Needs matching persona): 51/35 points to next rank
-  * Choice 3: Let's go just the two of us. (+51, 3 notes)
+* Lovers Rank 7 (Needs matching persona)
 ##### Evening
 * Devil Rank 7
 ---
@@ -1754,10 +1556,7 @@
 #### Thu 10/8
 ##### After School
 * Faculty Office > Ounishi Lecture (Academics +2, 1 note)
-* Hierophant Rank 5: 22/20 points to next rank
-  * Choice 1: I wouldn't worry about it. (+11, 1 note)
-  * Choice 1: Cheer up. (+11, 1 note)
-  * Obtain Crab Bread
+* Hierophant Rank 5
 ##### Evening
 * Study Group (Academics +4, 2 notes)
 ---
@@ -1766,9 +1565,7 @@
 * Stay awake (Academics +2, 1 note)
 ##### After School
 * Faculty Office > Ekoda Lecture (Academics +2, 1 note)
-* Star Rank 3: 22/20 points to next rank
-  * Choice 1: For your teammates? (+11, 1 note)
-  * Choice 1: Sounds like fun. (+11, 1 note)
+* Star Rank 3
 ##### Evening
 * Study Group (Academics +4, 2 notes)
 ---
@@ -1777,10 +1574,7 @@
 * Choice 2: Helena Blavatsky (Charm +2, 1 note)
 ##### After SSchool
 * Faculty Office > Toriumi Lecture (Academics +2, 1 note)
-* Hierophant Rank 6: 34/20 points to next rank
-  * Choice 2: Please don't fight. (+34, 3 notes)
-  * Any
-  * Obtain Fried Bread
+* Hierophant Rank 6
 ##### Evening
 * Ken Walk
 ---
@@ -1794,8 +1588,7 @@
 #### Mon 10/12
 ##### Daytime
 * Health and Sports Day
-* Moon Rank 8: 34/22 points to next rank
-  * Choice 2: No, you're not. (+34, 3 notes)
+* Moon Rank 8
 ##### Evening
 * Dorm Study Group (Academics +5, 3 notes)
 ---
@@ -1818,9 +1611,7 @@
 #### Sat 10/17
 ##### After School
 * Faculty Office > Takenozuka Lecture (Academics +2, 1 note)
-* Justice Rank 6: 45/30 points to next rank
-  * Choice 1: Is it good? (+34, 3 notes)
-  * Choice 2: What do you mean? (+11, 1 note)
+* Justice Rank 6
 ##### Evening
 * Magician Walk
 ---
@@ -1840,9 +1631,7 @@
   * Power Incense III, Guard Incense III, Magic Incense III, Speed Incense III
   * Pendant of Unity
 * Faculty Office > Terauchi Lecture (Academics +2, 1 note)
-* Lovers Rank 8 (Needs matching persona): 51/40 points to next rank
-  * Choice 1: All right. (+51, 3 notes)
-  * Any
+* Lovers Rank 8 (Needs matching persona)
 ##### Evening
 * Akihiko Link 3 (Charm +2)
 ---
@@ -1851,25 +1640,14 @@
 * Faculty Office > Ono Lecture (Academics +2, 1 note)
 * Request #75: Bring me a Sengoku-era helm.
   * Report back to Elizabeth
-* Temperance Rank 8: 34/22 points to next rank
-  * Choice 2: He'll definitely agree! (+34, 3 notes)
+* Temperance Rank 8
 ##### Evening
 * Aeon Gardening 3
 ---
 #### Wed 10/21
 ##### After School
-* Strength Rank 9 Romantic: 45/40 points to next rank
-  * Any
-  * Choice 2: An instructor? (+34, 3 notes)
-  * Any
-  * Choice 1: It's because I love you.
-  * Choice 1: I love you, Yuko. (+11, 1 note)
-* Strength Rank 9 Platonic: 45/40 points to next rank
-  * Any
-  * Choice 2: An instructor? (+34, 3 notes)
-  * Any
-  * Choice 2: It's because you're a close friend.
-  * Choice 1: Okay, I will. (+11, 1 note)
+* Strength Rank 9 Romantic
+* Strength Rank 9 Platonic
 ##### Evening
 * Aeon Reading 3 (Charm +2, 1 note)
 ---
@@ -1877,9 +1655,7 @@
 ##### Class
 * Choice 3: Venus. (Charm +2, 1 note)
 ##### After School
-* Justice Rank 7 (Needs matching persona): 34/30 points to next rank
-  * Choice 2: It's gotta be a misunderstanding. (+17, 1 note)
-  * Choice 2: We have to do something... (+17, 1 note)
+* Justice Rank 7 (Needs matching persona)
 ##### Evening
 * Koromaru Brushing 3
 ---
@@ -1887,8 +1663,7 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Temperance Rank 9: 34/22 points to next rank
-  * Choice 2: Aren't you homesick? (+34, 3 notes)
+* Temperance Rank 9
 ##### Evening
 * Ken DVDs 3 (Courage +2, 1 note)
 ---
@@ -1910,8 +1685,7 @@
 ##### Class
 * Choice 2: Izumo. (Charm +2, 1 note)
 ##### After School
-* Emperor Rank 5: 34/15 points to next rank
-  * Choice 1: They're the worst. (+34, 3 notes)
+* Emperor Rank 5
 ##### Evening
 * Check fridge > Doctor in Jelly
 * Club Escapade > History Website Note (Y8000)
@@ -1925,9 +1699,7 @@
 ---
 #### Wed 10/28
 ##### After School
-* Emperor Rank 6: 34/15 points to next rank
-  * Any
-  * Choice 1: But I just got here... (+34, 3 notes)
+* Emperor Rank 6
 ##### Evening
 * You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
@@ -1935,22 +1707,15 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Fortune Rank 9: 34/22 points to next rank
-  * Choice 1: You can't go! (+34, 3 notes)
-  * Any
+* Fortune Rank 9
 ##### Evening
-* Tower Rank 8: 56/40 points to next rank
-  * Choice 1: Dad? (+34, 3 notes)
-  * Choice 1: I was with a friend. (+11, 1 note)
-  * Any
-  * Choice 2: Are you running away? (+11, 1 note)
+* Tower Rank 8
 ---
 #### Fri 10/30
 ##### Class
 * Choice 1: Beta-amylase. (Charm +2, 1 note)
 ##### After School
-* Emperor Rank 7: 34/15 points to next rank
-  * Choice 2: It seems too harsh. (+34, 3 notes)
+* Emperor Rank 7
 ##### Evening
 * Gamble Fortune
 * Tartarus
@@ -1968,9 +1733,7 @@
   * Mayoido Antiques > Trade for Quality Nihil Blade x1, Emerald x3, Silver Quartz x2
 * Mayoido Antiques
   * Trade Emerald x10 for Growth 3
-* Justice Rank 8 (Needs matching persona): 17/30 points to next rank
-  * Any
-  * Choice 2: I know you're innocent. (+17, 1 note)
+* Justice Rank 8 (Needs matching persona)
 ##### Evening
 * Ken Walk
 
@@ -1984,9 +1747,7 @@
 ---
 #### Mon 11/2
 ##### After School
-* Emperor Rank 8: 34/22 points to next rank
-  * Any
-  * Choice 1: It wasn't me. (+34, 3 notes)
+* Emperor Rank 8
 ##### Evening
 * Part-Time Master (Y8000)
   * Earn more from working part-time jobs
@@ -2006,10 +1767,7 @@
 ---
 #### Thu 11/5
 ##### Evening
-* Tower Rank 9 (Needs matching persona): 51/40 points to next rank
-  * Choice 1: Why not take a break? (+17, 1 note)
-  * Choice 2: Time to retire? (+17, 1 note)
-  * Choice 1: What's this about? (+17, 1 note)
+* Tower Rank 9 (Needs matching persona)
 ---
 #### Fri 11/6
 ##### Elizabeth Requests
@@ -2024,8 +1782,7 @@
   * Unlocks after completing 80 requests
 * Achievement: Distinguished Visitor
 ##### After School
-* Chariot Rank 9: 34/22 points to next rank
-  * Choice 1: I don't mind at all. (+34, 3 notes)
+* Chariot Rank 9
 ##### Evening
 * Request #94: Bring me food for a furry friend.
   * Deadline: Mon 11/30
@@ -2069,12 +1826,8 @@
 ---
 #### Wed 11/11
 ##### After School
-* Lovers Rank 9 Romantic (Needs matching persona): 51/55 points to next rank
-  * Choice 2: ...... (+51, 3 notes)
-  * Choice 1: I love you.
-* Lovers Rank 9 Platonic (Needs matching persona): 51/55 points to next rank
-  * Choice 2: ...... (+51, 3 notes)
-  * Choice 2: You're a precious friend.
+* Lovers Rank 9 Romantic (Needs matching persona)
+* Lovers Rank 9 Platonic (Needs matching persona)
 ##### Evening
 * **Put Lukewarm Taiyaki in fridge**
 * Ken Link 3 (Charm +2)
@@ -2100,20 +1853,8 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Justice Rank 9 Romantic (Needs matching persona): 51/40 points to next rank
-  * Choice 1: Don't worry, she'll help us. (+17, 1 note)
-  * Choice 2: You need to tell her yourself. (+17, 1 note)
-  * Any
-  * Choice 1: What's gotten into you? (+17, 1 note)
-  * Choice 1: I feel the same, Chihiro.
-  * Any
-* Justice Rank 9 Platonic (Needs matching persona): 51/40 points to next rank
-  * Choice 1: Don't worry, she'll help us. (+17, 1 note)
-  * Choice 2: You need to tell her yourself. (+17, 1 note)
-  * Any
-  * Choice 1: What's gotten into you? (+17, 1 note)
-  * Choice 2: I like working with you, but...
-  * Any
+* Justice Rank 9 Romantic (Needs matching persona)
+* Justice Rank 9 Platonic (Needs matching persona)
 ##### Evening
 * Justice Walk
 ---
@@ -2187,10 +1928,7 @@
 #### Mon 11/23
 ##### Daytime
 * Labor Thanksgiving Day
-* Hanged Rank 8: 79/30 points to next rank
-  * Choice 1: Hamburgers. (+11, 1 note)
-  * Choice 1: You're a good girl. (+34, 3 notes)
-  * Choice 1: Your dad. (+34, 3 notes)
+* Hanged Rank 8
 ##### Evening
 * Prepare for battle
 * Work at Chagall (-Y4300) (Courage +1, Charm +1, 1 note)
@@ -2215,7 +1953,6 @@
 #### Sat 11/28
 ##### After School
 * Empress Rank 1
-  * Requires Academics Lv. 6 and 1st place in one exam
 ##### Evening
 * Fool Rank 9: Auto
 * Devil Rank 10
@@ -2232,8 +1969,7 @@
 ##### Class
 * Choice 1: The cherry blossom. (Charm +2, 1 note)
 ##### After School
-* Emperor Rank 9: 34/22 points to next rank
-  * Choice 2: What matters is you realized it. (+34, 3 notes)
+* Emperor Rank 9
 ##### Evening
 * Work at Chagall (-Y4800) (Courage +1, Charm +1, 1 note)
 
@@ -2278,10 +2014,7 @@
   * Deadline: Fri 12/25
   * Iwatodai Strip Mall 2F > Talk to NPC > Show Thank-You Note
 ##### After School
-* Star Rank 4: 33/20 points to next rank
-  * Choice 1: What are you doing? (+11, 1 note)
-  * Choice 1: That would be amazing! (+11, 1 note)
-  * Choice 2: Yeah, I bet it would. (+11, 1 note)
+* Star Rank 4
 ##### Evening
 * Net Cafe > Muscle Boot Camp (Y2000) (Makoto HP +7)
 ---
@@ -2302,20 +2035,13 @@
 ##### Class
 * Choice 1: The ozone layer. (Charm +2, 1 note)
 ##### After School
-* Empress Rank 3: 67/22 points to next rank
-  * Choice 2: Why not give it a try? (+11, 1 note)
-  * Choice 2: Are you happy? (+34, 3 notes)
-  * Choice 2: Maybe you're anxious. (+11, 1 note)
-  * Choice 2: I heard nothing. (+11, 1 note)
+* Empress Rank 3
 ##### Evening
 * Work at Chagall (-Y4800) (Courage +1, Charm +1, 1 note)
 ---
 #### Tue 12/8
 ##### After School
-* Empress Rank 4: 45/22 points to next rank
-  * Choice 2: Did something happen? (+11, 1 note)
-  * Choice 1: It's all for love. (+34, 3 notes)
-  * Any
+* Empress Rank 4
 ##### Evening
 * Justice Walk
 ---
@@ -2323,20 +2049,13 @@
 ##### Class
 * Choice 2: Kido. (Charm +2, 1 note)
 ##### After School
-* Empress Rank 5: 79/22 points to next rank
-  * Choice 2: Glad you enjoyed it. (+34, 3 notes)
-  * Choice 2: You're not suited? (+11, 1 note)
-  * Choice 2: Let's go for a ride. (+34, 3 notes)
+* Empress Rank 5
 ##### Evening
 * Study Group (Academics +4, 2 notes)
 ---
 #### Thu 12/10
 ##### After School
-* Empress Rank 6: 45/22 points to next rank
-  * Choice 2: Need some help? (+11, 1 note)
-  * Any
-  * **Choice 1: Is it really? (+0, 0 notes)**
-  * Choice 3: I'll do something about it. (+34, 3 notes)
+* Empress Rank 6
 ##### Evening
 * **Put Lukewarm Taiyaki in fridge**
 * Koromaru Brushing 4
@@ -2345,8 +2064,7 @@
 ##### Class
 * Choice 2: Lives. (Charm +2, 1 note)
 ##### After School
-* Empress Rank 7: 34/22 points to next rank
-  * Choice 1: I don't mind at all. (+34, 3 notes)
+* Empress Rank 7
 ##### Evening
 * Check fridge > Chilled Taiyaki
 * Study Group (Academics +4, 2 notes)
@@ -2355,12 +2073,7 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Empress Rank 8: 79/22 points to next rank
-  * Any
-  * Choice 1: Vent all you want. (+11, 1 note)
-  * **Choice 1: That's up to you. (+0, 0 notes)**
-  * Choice 2: Don't insult her father! (+34, 3 notes)
-  * Choice 1: Don't give in. (+34, 3 notes)
+* Empress Rank 8
 ##### Evening
 * Study Group (Academics +4, 2 notes)
 ---
@@ -2400,9 +2113,7 @@
 #### Sun 12/20
 ##### Daytime
 * TV Shopping: Pink Duffle Coat, Luxe Shiruko Can x3 (Y49800)
-* Star Rank 5: 22/20 points to next rank
-  * Choice 2: Are you okay? (+11, 1 note)
-  * Choice 2: I'll come back here with you. (+11, 1 note)
+* Star Rank 5
 ##### Evening
 * Net Cafe > Mental Instructor (Y4000) (Makoto SP +7)
 ---
@@ -2414,16 +2125,8 @@
 * Exam reward from Mitsuru
   * Master Incense x4
   * Phoenix Charm
-* Empress Rank 9 Romantic: 34/22 points to next rank
-  * Choice 3: It made me happy. (+34, 3 notes)
-  * Any
-  * Choice 1: I love you too.
-  * Any
-* Empress Rank 9 Platonic: 34/22 points to next rank
-  * Choice 3: It made me happy. (+34, 3 notes)
-  * Any
-  * Choice 2: I'm sorry but...
-  * Any
+* Empress Rank 9 Romantic
+* Empress Rank 9 Platonic
 ##### Evening
 * Fuuka Walk
 ---
@@ -2440,11 +2143,7 @@
 ##### Daytime
 * **Put Lukewarm Taiyaki in fridge**
 * Emperor's Birthday
-* Star Rank 6: 34/20 points to next rank
-  * Any
-  * Any
-  * Any
-  * Choice 2: Don't worry, it's okay. (+34, 3 notes)
+* Star Rank 6
 ##### Evening
 * Yukari Walk
 ---
@@ -2458,11 +2157,7 @@
 ---
 #### Fri 12/25
 ##### After School
-* Star Rank 7: 56/30 points to next rank
-  * Choice 2: It's no problem at all. (+11, 1 note)
-  * Choice 2: Stop whining and do it. (+11, 1 note)
-  * Any
-  * Choice 2: Don't give up yet. (+34, 3 notes)
+* Star Rank 7
 ##### Evening
 * Check fridge > Chilled Taiyaki, YABA Chocolate
 * Ken Link 4 (Makoto SP +3)
@@ -2471,17 +2166,14 @@
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Hanged Rank 9: 34/30 points to next rank
-  * Choice 1: Friends forever. (+34, 3 notes)
+* Hanged Rank 9
 ##### Evening
 * Akihiko Link 4 (Makoto SP +3)
 ---
 #### Sun 12/27
 ##### Daytime
 * TV Shopping: Ruby x2, Opal x5 (Y99000)
-* Star Rank 8: 45/30 points to next rank
-  * Choice 1: Do it! (+34, 3 notes)
-  * Choice 2: Don't sweat it. (+11, 1 note)
+* Star Rank 8
 ##### Evening
 * Junpei Walk
 ---
@@ -2493,21 +2185,13 @@
 ---
 #### Tue 12/29
 ##### Daytime
-* Hierophant Rank 7: 33/20 points to next rank
-  * Choice 1: What happened? (+11, 1 note)
-  * Choice 2: That's great. (+11, 1 note)
-  * Choice 3: What are you talking about? (+11, 1 note)
-  * Obtain Cielo Mist
+* Hierophant Rank 7
 ##### Evening
 * Work at Chagall (-Y5800) (Courage +1, Charm +1, 1 note)
 ---
 #### Wed 12/30
 ##### Daytime
-* Star Rank 9: 44/30 points to next rank
-  * Choice 1: Did you win? (+11, 1 note)
-  * Choice 2: Congrats, man! (+11, 1 note)
-  * Choice 1: What will you do now? (+11, 1 note)
-  * Choice 1: Thanks! (+11, 1 note)
+* Star Rank 9
 ##### Evening
 * Achievement: A Newfound Strength
 * Gamble Fortune
@@ -2523,9 +2207,7 @@
 ---
 #### Thu 12/31
 ##### Daytime
-* Moon Rank 9: 0/15 points to next rank
-  * Any
-  * Will momentarily reverse
+* Moon Rank 9
 ##### Evening
 * Ryoji Link 5: Auto
 * Fool Rank 10: Auto
@@ -2540,10 +2222,7 @@
 ---
 #### Sat 1/2
 ##### Daytime
-* Hierophant Rank 8: 45/20 points to next rank
-  * Choice 1: A petitioner? (+11, 1 note)
-  * Any
-  * Choice 1: Sure, let's go. (+34, 3 notes)
+* Hierophant Rank 8
 ##### Evening
 * Strength Walk
 ---
@@ -2580,9 +2259,7 @@
 ---
 #### Wed 1/6
 ##### Daytime
-* Hierophant Rank 9: 11/30 points to next rank
-  * Choice 1: What does the letter say? (+11, 1 note)
-  * Any
+* Hierophant Rank 9
 ##### Evening
 * Hierophant Dating Site: 33/30 points to next rank
   * Old Couple
@@ -2680,8 +2357,7 @@
 ---
 #### Wed 1/20
 ##### After School
-* Aeon Rank 9: 34/30 points to next rank
-  * Choice 1: You're right. (+34, 3 notes)
+* Aeon Rank 9
 ##### Evening
 * Free Time
 ---

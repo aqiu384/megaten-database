@@ -1,129 +1,129 @@
-id	en
-MSG_REQUEST_HELP_000	未使用
-MSG_REQUEST_HELP_001	Retrieve the first old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_002	Retrieve the second old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_003	Retrieve the third old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_004	Retrieve the fourth old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_005	Retrieve the fifth old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_006	Retrieve the sixth old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_007	Retrieve the seventh old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_008	Retrieve the last old document.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_009	Retrieve the progress report.\nBring the ''ITEM.''
-MSG_REQUEST_HELP_010	Traverse the Monad Passage.\nDefeat all the Shadows lurking within the Monad Passage on the 91st floor in Yabbashah, the third block.
-MSG_REQUEST_HELP_011	Defeat the Shadow of the Void.\nDefeat the ''Shadow of the Voice'' lurking within the Monad Passage on the 255th floor in Adamah, the sixth block.
-MSG_REQUEST_HELP_012	Bring me a Muscle Drink.\nBring Elizabeth NUM ITEM.
-MSG_REQUEST_HELP_013	Bring me a giant, creepy doll.\nBring a doll that is also used for teaching.
-MSG_REQUEST_HELP_014	I'd like to try all kinds of drinks.\nCollect 12 different drinks from vending machines for Elizabeth.
-MSG_REQUEST_HELP_015	I'd like to try Aojiru.\nBring NUM ITEM.
-MSG_REQUEST_HELP_016	Bring me some potent medicine.\nBring NUM ITEM.
-MSG_REQUEST_HELP_017	Let me hear music unique to Gekkoukan.\nBring a CD associated with Gekkoukan High School.
-MSG_REQUEST_HELP_018	I'd like to try a beef bowl.\nBring NUM ITEM.
-MSG_REQUEST_HELP_019	Please prevail in the Big Eater Challenge.\nComplete the Big Eater Challenge at Wilduck Burger.
-MSG_REQUEST_HELP_020	I'd like to be gifted a bouquet of flowers.\nBring NUM ITEM.
-MSG_REQUEST_HELP_021	Experiment with fortune telling.\nMake use of the ''Rarity Fortune'' that increases the appearances of rare Shadows.
-MSG_REQUEST_HELP_022	I'd like to see a pair of Max Safety Shoes.\nBring NUM pair of ITEM.
-MSG_REQUEST_HELP_023	Bring me the mysterious person's autograph.\nGet an autograph from President Tanaka of Tanaka's Amazing Commodities.
-MSG_REQUEST_HELP_024	I want to eat some chilled taiyaki.\nBring NUM ITEM.
-MSG_REQUEST_HELP_025	I'd like to try a home-cooked meal.\nBring a food or drink you made together with someone at the dorm.
-MSG_REQUEST_HELP_026	I'd like to see a mysterious potato.\nBring a potato that you've grown.
-MSG_REQUEST_HELP_027	Attempt a hundred shrine visits.\nBring what you receive from praying at the shrine.
-MSG_REQUEST_HELP_028	Look for the drink with my name.\nBring a drink that shares a name with Elizabeth.
-MSG_REQUEST_HELP_029	I'd like to see proof of a bond.\nBring an item you can only receive when a Social Link has been maxed out.
-MSG_REQUEST_HELP_030	I want to look fashionable.\nBring a fashionable item.
-MSG_REQUEST_HELP_031	Find me a beautiful tile.\nBring a tile with a peacock design.
-MSG_REQUEST_HELP_032	I wish to feel the ocean.\nBring something you find from the ocean.
-MSG_REQUEST_HELP_033	I wish to become a straw millionaire.\nBring what you get after bartering items.
-MSG_REQUEST_HELP_034	Bring me my Christmas present.\nGet Elizabeth's Christmas present from Santa.
-MSG_REQUEST_HELP_035	Defeat a Greedy Shadow.\nDefeat the Greedy Shadow in Harabah, the fifth block of Tartarus, and bring back NUM ITEM.
-MSG_REQUEST_HELP_036	未使用
-MSG_REQUEST_HELP_037	I want Jack Frost dolls.\nBring Elizabeth not 1 ITEM, but NUM of them.
-MSG_REQUEST_HELP_038	I'd like to try sushi.\nBring sushi.
-MSG_REQUEST_HELP_039	未使用
-MSG_REQUEST_HELP_040	未使用
-MSG_REQUEST_HELP_041	Create a Persona that's level 13 or above.\nHave a Persona that is level 13 or higher in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_042	Create a Persona with Kouha.\nHave a Persona with the skill, Kouha, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_043	Create a Persona that's level 23 or above.\nHave a Persona that is level 23 or higher in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_044	Create a Persona with Torrent Shot.\nHave a Persona with the skill, Torrent Shot, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_045	Create a Persona that's level 38 or above.\nHave a Persona that is level 38 or higher in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_046	未使用
-MSG_REQUEST_HELP_047	Create a Persona that's level 46 or above.\nHave a Persona that is level 46 or higher in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_048	Create a Persona with Tempest Slash.\nHave a Persona with the skill, Tempest Slash, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_049	Create a Persona with Auto-Maraku.\nHave a Persona with the skill, Auto-Maraku, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_050	Fusion Series #1: Emperor, Oberon\nHave an Oberon with the skill, Mazio, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_051	Fusion Series #2: Chariot, Mithras\nHave a Mithras at level 26 or higher in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_052	Fusion Series #3: Hermit, Mothman\nHave a Mothman with the skill, Agilao, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_053	未使用
-MSG_REQUEST_HELP_054	Fusion Series #4: Lovers, Titania\nHave a Titania with the skill, Matarukaja, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_055	Fusion Series #5: Magician, Rangda\nHave a Rangda at level 54 or higher in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_056	Fusion Series #7: Hierophant, Daisoujou\nHave a Daisoujou with the skill, Regenerate 3, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_057	Fusion Series #8: Death, Alice\nHave Alice in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_058	Fusion Series #9: Fool, Loki\nHave a Loki at level 75 or higher in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_059	Fusion Series #10: Tower, Masakado\nHave a Masakado with the skill, Charge, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_060	Fusion Series #6: Strength, Siegfried\nHave a Siegfried with the skill, Endure, in your possession and report to Elizabeth.
-MSG_REQUEST_HELP_061	Bring me a Sengoku-era helm.\nBring a helm from the Sengoku era.
-MSG_REQUEST_HELP_062	I'd like to try Oden Juice.\nBring some Oden Juice.
-MSG_REQUEST_HELP_063	Bring me food for a furry friend.\nBring the item Elizabeth is asking for.
-MSG_REQUEST_HELP_064	Go clean a restroom.\nBring the cleaning supplies and clean the restroom.
-MSG_REQUEST_HELP_065	Go water the flowers.\nWater the flower bed at school.
-MSG_REQUEST_HELP_066	Please feed the cat.\nGive the hungry cat some food.
-MSG_REQUEST_HELP_067	Bring me a Featherman R action figure.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_068	I'd like to walk around Paulownia Mall.\nShow Elizabeth around Paulownia Mall.
-MSG_REQUEST_HELP_069	I'd like to visit Iwatodai Station.\nWalk around Iwatodai with Elizabeth.
-MSG_REQUEST_HELP_070	I'd like to visit Naganaki Shrine.\nWalk around Naganaki Shrine with Elizabeth.
-MSG_REQUEST_HELP_071	I'd like to visit Gekkoukan High.\nShow Elizabeth around Gekkoukan High.
-MSG_REQUEST_HELP_072	I'd like to visit your room.\nInvite Elizabeth to your room.
-MSG_REQUEST_HELP_073	Bring me pine resin.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_074	Bring me a handheld game console.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_075	Bring me a triangular sword.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_076	Bring me a protein not for pros.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_077	Bring me a glasses wipe.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_078	Bring me a Christmas star.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_079	Bring me a fruit knife.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_080	Bring me oil.\nBring the item that Elizabeth is asking for.
-MSG_REQUEST_HELP_081	Bring me a Juzumaru.\nShow Elizabeth a ITEM.
-MSG_REQUEST_HELP_082	Bring me an Onimaru Kunitsuna.\nShow Elizabeth an ITEM.
-MSG_REQUEST_HELP_083	Bring me a Mikazuki Munechika.\nShow Elizabeth a ITEM.
-MSG_REQUEST_HELP_084	Bring me an Ote-gine.\nShow Elizabeth an ITEM.
-MSG_REQUEST_HELP_085	Bring me an Outenta Mitsuyo.\nShow Elizabeth an ITEM.
-MSG_REQUEST_HELP_086	Bring me a Rai Kunimitsu.\nShow Elizabeth a ITEM.
-MSG_REQUEST_HELP_087	Bring me a Dojigiri Yasutsuna.\nShow Elizabeth a ITEM.
-MSG_REQUEST_HELP_088	Bring me a Tonbo-kiri.\nShow Elizabeth a ITEM.
-MSG_REQUEST_HELP_089	Defeat a rare Shadow #1\nDefeat the rare Shadow in the third block, Yabbashah, and bring back NUM ITEM.
-MSG_REQUEST_HELP_090	Defeat a rare Shadow #2\nDefeat the rare Shadow in the fourth block, Tziah, and bring back NUM ITEM.
-MSG_REQUEST_HELP_091	Shadow Hunting Milestone\nDefeat a total of 100 Shadows.
-MSG_REQUEST_HELP_092	Shadow Hunting Milestone #2\nDefeat a total of 200 Shadows.
-MSG_REQUEST_HELP_093	Shadow Hunting Milestone #3\nDefeat a total of 300 Shadows.
-MSG_REQUEST_HELP_094	Shadow Hunting Milestone #4\nDefeat a total of 450 Shadows.
-MSG_REQUEST_HELP_095	Shadow Hunting Milestone #5\nDefeat a total of 600 Shadows.
-MSG_REQUEST_HELP_096	Shadow Hunting Milestone #6\nDefeat a total of 800 Shadows.
-MSG_REQUEST_HELP_097	Treasure Hunting Milestone\nOpen a total of 50 treasure chests.
-MSG_REQUEST_HELP_098	Treasure Hunting Milestone #2\nOpen a total of 100 treasure chests.
-MSG_REQUEST_HELP_099	Treasure Hunting Milestone #3\nOpen a total of 150 treasure chests.
-MSG_REQUEST_HELP_100	Treasure Hunting Milestone #4\nOpen a total of 200 treasure chests.
-MSG_REQUEST_HELP_101	Persona Fusion Milestone\nConduct a total of 20 Persona fusions.
-MSG_REQUEST_HELP_102	Persona Fusion Milestone #2\nConduct a total of 35 Persona fusions.
-MSG_REQUEST_HELP_103	Persona Fusion Milestone #3\nConduct a total of 50 Persona fusions.
-MSG_REQUEST_HELP_104	未使用
-MSG_REQUEST_HELP_105	未使用
-MSG_REQUEST_HELP_106	未使用
-MSG_REQUEST_HELP_107	未使用
-MSG_REQUEST_HELP_108	未使用
-MSG_REQUEST_HELP_109	未使用
-MSG_REQUEST_HELP_110	Bring me a Bloody Button.\nBring the ITEM.
-MSG_REQUEST_HELP_111	Take out the ultimate adversary.\nDefeat the ultimate adversary.
-MSG_REQUEST_HELP_112	Perform King and I.\nCarry out the ''King and I'' Fusion Spell.
-MSG_REQUEST_HELP_113	未使用
-MSG_REQUEST_HELP_114	未使用
-MSG_REQUEST_HELP_115	未使用
-MSG_REQUEST_HELP_116	未使用
-MSG_REQUEST_HELP_117	未使用
-MSG_REQUEST_HELP_118	未使用
-MSG_REQUEST_HELP_119	未使用
-MSG_REQUEST_HELP_120	未使用
-MSG_REQUEST_HELP_121	未使用
-MSG_REQUEST_HELP_122	未使用
-MSG_REQUEST_HELP_123	未使用
-MSG_REQUEST_HELP_124	未使用
-MSG_REQUEST_HELP_125	未使用
-MSG_REQUEST_HELP_126	未使用
-MSG_REQUEST_HELP_127	未使用
+num	title	summary	description
+0	未使用	未使用	未使用
+2	Retrieve the first old document.	Bring the ''Old Document 01.''	Please bring me the ''Old Document 01'' from the top floor of Thebel, the first block in Tartarus. Unless... you already have it?
+14	Retrieve the second old document.	Bring the ''Old Document 02.''	Please bring me the ''Old Document 02'' from the halfway point of Arqa, the second block in Tartarus. No need to rush-there is no deadline for this.
+21	Retrieve the third old document.	Bring the ''Old Document 03.''	Please bring me the ''Old Document 03'' from the top floor of Arqa, the second block in Tartarus. Have you the chance to read the contents of these documents? They are truly intriguing...
+30	Retrieve the fourth old document.	Bring the ''Old Document 04.''	Please bring me the ''Old Document 04'' from the halfway point of Yabbashah, the third block in Tartarus. As for why these documents can be found within that deformed tower... The answer may be on another floor higher up.
+45	Retrieve the fifth old document.	Bring the ''Old Document 05.''	Please bring me the ''Old Document 05'' from the top floor of Yabbashah, the third block in Tartarus. I wonder who left behind these writings... Just what sort of person are they?
+59	Retrieve the sixth old document.	Bring the ''Old Document 06.''	Please bring me the ''Old Document 06'' from the halfway point of Tziah, the fourth block in Tartarus. Has your perspective changed after discovering the truth, one unbeknownst to the ordinary person?
+70	Retrieve the seventh old document.	Bring the ''Old Document 07.''	Please bring me the ''Old Document 07'' from the top floor of Tziah, the fourth block in Tartarus. This will be fairly high up in the tower. I wish you a safe journey there.
+82	Retrieve the last old document.	Bring the ''Old Document 08.''	Please bring me the ''Old Document 08'' from the halfway point of Harabah, the fifth block in Tartarus. This will be my final request regarding the old documents. I look forward to your report of success.
+83	Retrieve the progress report.	Bring the ''Progress Report.''	Please bring me the ''Progress Report'' from the top floor of Harabah, the fifth block in Tartarus. This document lies even higher up, waiting to be discovered... I'd love to see it for myself.
+37	Traverse the Monad Passage.	Defeat all the Shadows lurking within the Monad Passage on the 91st floor in Yabbashah, the third block.	Please investigate a certain passage in Yabbashah, the third block, on the 91st floor. Though the entrance appears the same as the Monad door, the inside seems to differ.
+99	Defeat the Shadow of the Void.	Defeat the ''Shadow of the Voice'' lurking within the Monad Passage on the 255th floor in Adamah, the sixth block.	I sense a presence of immense malevolence... Please defeat the ''Shadow of the Void'' lurking within the Monad Passage in the sixth block, Adamah.
+1	Bring me a Muscle Drink.	Bring Elizabeth 1 Muscle Drink.	Have you ever tried something called a ''Muscle Drink''? I have long pondered its taste. Could you please bring me one to satiate my curiosity? I believe you may be able to purchase it somewhere.
+66	Bring me a giant, creepy doll.	Bring a doll that is also used for teaching.	I heard there's a ''creepy-looking'' doll in your world that is also used for educational purposes. I would like to see it for myself.
+9	I'd like to try all kinds of drinks.	Collect 12 different drinks from vending machines for Elizabeth.	I heard that there exists a contraption called a ''vending machine'' that automatically dispenses a variety of beverages. Could you please collect these aforementioned beverages and deliver them to me?
+57	I'd like to try Aojiru.	Bring 1 True Aohige Aojiru.	Have you heard of a drink called ''aojiru''? Rumor says it is ''super gross.'' I prefer my drinks tasty and flavorful though. Therefore... would you please bring me a delicious aojiru?
+20	Bring me some potent medicine.	Bring 1 Potent Medicine.	I've heard that a powerful medicine is being produced in an ominous research facility known as the ''nurse's office.'' Could you please get your hands on that medicine for me?
+39	Let me hear music unique to Gekkoukan.	Bring a CD associated with Gekkoukan High School.	I'd very much love to listen to a song that is associated with your school. Perhaps it would be wise to check a location with the school that broadcasts music...
+10	I'd like to try a beef bowl.	Bring 1 Umiushi Beef Bowl.	A dish called the ''Umiushi beef bowl'' is allegedly all the rage in town now. If it truly is as exquisite as the rumors suggest, then I would love to have a taste myself.
+11	Please prevail in the Big Eater Challenge.	Complete the Big Eater Challenge at Wilduck Burger.	The Big Eater Challenge, a unique event in which one must devour more food than the other contestants... Such a battle shall be held at the burger establishment at the Iwatodai strip mall. Would you please participate in my stead?
+18	I'd like to be gifted a bouquet of flowers.	Bring 1 Rose Bouquet.	I hear there is a custom in your world where a woman may receive roses. I would love to experience this myself. Would you please bring me some roses?
+8	Experiment with fortune telling.	Make use of the ''Rarity Fortune'' that increases the appearances of rare Shadows.	I hear there is a fortune teller at the club in Paulownia Mall. Could you verify the accuracy of her readings? One such fortune promises higher chances of encountering rare Shadows.
+40	I'd like to see a pair of Max Safety Shoes.	Bring 1 pair of Max Safety Shoes.	In the online shopping world, these ''Max Safety Shoes'' appear to be extremely popular as of late. I wonder what makes them so ''Max''... As my curiosity is killing me, I'd love to take a look at them.
+41	Bring me the mysterious person's autograph.	Get an autograph from President Tanaka of Tanaka's Amazing Commodities.	I hear a certain individual from the online shopping world often appears in your world as well. It seems he has quite the distinctive personality. Would you please meet this person and get me his autograph?
+38	I want to eat some chilled taiyaki.	Bring 1 Chilled Taiyaki.	I heard that your world has a strange ''taiyaki'' that is cold despite having been grilled. It must be filled with flavors that are simply out of this world... I'd love to have a taste myself.
+52	I'd like to try a home-cooked meal.	Bring a food or drink you made together with someone at the dorm.	I wonder what a ''home-cooked meal'' tastes like... You may bring either food or beverage-I've no preference.
+53	I'd like to see a mysterious potato.	Bring a potato that you've grown.	There's a rumor that claims a potato raised with love and care will develop a mysterious power... Could you verify if such a potato can really be grown?
+54	Attempt a hundred shrine visits.	Bring what you receive from praying at the shrine.	There is a ritual called ''a hundred shrine visits'' that supposedly grants wishes... I would love to witness the miracle of the gods myself. My wish is for a 500-yen bill.
+56	Look for the drink with my name.	Bring a drink that shares a name with Elizabeth.	According to rumors, the beverage bearing the same name as me is only available in an unpopular location. Please search for it and bring it to me.
+55	I'd like to see proof of a bond.	Bring an item you can only receive when a Social Link has been maxed out.	A bond is normally invisible to the naked eye. However, it is sometimes shown through the act of gift-giving... Would you please show me an item that represents a strong bond you share with someone?
+29	I want to look fashionable.	Bring a fashionable item.	Please bring me a stylish item that would look good on me. I believe you may find something where the young and trendy gather to have a good time...
+67	Find me a beautiful tile.	Bring a tile with a peacock design.	I'm looking for a small, rectangular tile with a peacock painted on it. Apparently, being in possession of one can cause people to go into a frenzy... I'd like to see one myself, if possible.
+44	I wish to feel the ocean.	Bring something you find from the ocean.	The ocean... To me, it is akin to a realm of dreams since I am unable to leave my post. Would you please bring me a mementos that reminds you of the ocean?
+58	I wish to become a straw millionaire.	Bring what you get after bartering items.	I hear there is a method to acquire wealthy by simply bartering one item for another continuously. Would you please try it out?
+97	Bring me my Christmas present.	Get Elizabeth's Christmas present from Santa.	It appears that Santa has been so busy with Christmas this year that he forgot to deliver my present... Would you please find Santa and bring me my present?
+88	Defeat a Greedy Shadow.	Defeat the Greedy Shadow in Harabah, the fifth block of Tartarus, and bring back 1 Gold Medal.	Checkmate the king of all rare Shadows that appears in Harabah, the fifth block of Tartarus, and bring me a Gold Medal.
+0	未使用	未使用	未使用
+19	I want Jack Frost dolls.	Bring Elizabeth not 1 Jack Frost Doll, but 3 of them.	Word has it there are Jack Frost dolls in your world. I want one to display, one to trade, and one to cherish... Could you please bring me three?
+74	I'd like to try sushi.	Bring sushi.	I hear a food called ''sushi'' in your world is consumed during feasts. It must be one tantalizing dish... I would like to try it myself.
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+5	Create a Persona that's level 13 or above.	Have a Persona that is level 13 or higher in your possession and report to Elizabeth.	Please show me a Persona that meets the required level or higher. Any Persona will do.
+6	Create a Persona with Kouha.	Have a Persona with the skill, Kouha, in your possession and report to Elizabeth.	Please show me a Persona that has the specified skill. Any Persona will do.
+24	Create a Persona that's level 23 or above.	Have a Persona that is level 23 or higher in your possession and report to Elizabeth.	Please show me a Persona that meets the required level or higher. Any Persona will do.
+34	Create a Persona with Torrent Shot.	Have a Persona with the skill, Torrent Shot, in your possession and report to Elizabeth.	Please show me a Persona that has the specified skill. Any Persona will do.
+49	Create a Persona that's level 38 or above.	Have a Persona that is level 38 or higher in your possession and report to Elizabeth.	Please show me a Persona that meets the required level or higher. Any Persona will do.
+0	未使用	未使用	未使用
+61	Create a Persona that's level 46 or above.	Have a Persona that is level 46 or higher in your possession and report to Elizabeth.	Please show me a Persona that meets the required level or higher. Any Persona will do.
+84	Create a Persona with Tempest Slash.	Have a Persona with the skill, Tempest Slash, in your possession and report to Elizabeth.	Please show me a Persona that has the specified skill. Any Persona will do.
+85	Create a Persona with Auto-Maraku.	Have a Persona with the skill, Auto-Maraku, in your possession and report to Elizabeth.	Please show me a Persona that has the specified skill. Any Persona will do.
+17	Fusion Series #1: Emperor, Oberon	Have an Oberon with the skill, Mazio, in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. There are various combinations that would give birth to an Emperor, such as Lovers and Justice, Strength and Magician.
+25	Fusion Series #2: Chariot, Mithras	Have a Mithras at level 26 or higher in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. As the required level is fairly high, I suggest you make good use of your Social Link.
+35	Fusion Series #3: Hermit, Mothman	Have a Mothman with the skill, Agilao, in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. The Mithras from the previous task will learn ''Agiliao,'' and it would be wise to make use of it.
+0	未使用	未使用	未使用
+62	Fusion Series #4: Lovers, Titania	Have a Titania with the skill, Matarukaja, in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. If you have a Persona with the specified skill, please search for a combination that will allow it to be inherited.
+63	Fusion Series #5: Magician, Rangda	Have a Rangda at level 54 or higher in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. Have you been cultivating the bonds you share with your Social Links? The stronger your bonds, the greater the blessings you'll receive during fusion.
+72	Fusion Series #7: Hierophant, Daisoujou	Have a Daisoujou with the skill, Regenerate 3, in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. One option is to use a Skill Card. It seems that there exists a shop carrying them.
+86	Fusion Series #8: Death, Alice	Have Alice in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. Know that Alice can only be created through Special Fusion. Do you have the requisite Personas?
+87	Fusion Series #9: Fool, Loki	Have a Loki at level 75 or higher in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. There seems to be a particular time when your bonds may bless you even more than usual... Why not attempt a fusion during that period?
+98	Fusion Series #10: Tower, Masakado	Have a Masakado with the skill, Charge, in your possession and report to Elizabeth.	This shall be the final task for creating Personas. As you have managed to complete all fusion-related tasks thus far, I am confident you will succeed with this one as well.
+71	Fusion Series #6: Strength, Siegfried	Have a Siegfried with the skill, Endure, in your possession and report to Elizabeth.	My intent in preparing this task is to help nurture your abilities. You will not receive any hints for this one. If you manage to obtain this Persona, then you will surely gain invaluable strength.
+75	Bring me a Sengoku-era helm.	Bring a helm from the Sengoku era.	I would like to see something called a ''helm,'' a protective covering for the head, one rich with history... I'm sure there exists a person who still cherishes one to this day.
+96	I'd like to try Oden Juice.	Bring some Oden Juice.	I would like to get my hands on this legendary ''Oden Juice.'' I advise that you first speak with an expert on beverages. My hunch tells me you may find one such person near a persimmon tree.
+94	Bring me food for a furry friend.	Bring the item Elizabeth is asking for.	Will you bring me the sort of food a furry friend on four legs would enjoy? You might be able to get some from that close friend of yours.
+92	Go clean a restroom.	Bring the cleaning supplies and clean the restroom.	Would you please clean the restroom at the station in an attempt to beautify the city? The tools I have given you should be of use.
+93	Go water the flowers.	Water the flower bed at school.	When I visited Gekkoukan High School, the flowers in the flower bed appeared to be wilting... Would you please water them?
+42	Please feed the cat.	Give the hungry cat some food.	Soimewhere in the city, there appears to be a hungry cat who is having trouble finding food. Would you please find and feed the poor thing?
+95	Bring me a Featherman R action figure.	Bring the item that Elizabeth is asking for.	Please bring me a Featherman R action figure. Again, it has to be a Featherman R action figure and no other Featherman.
+77	I'd like to walk around Paulownia Mall.	Show Elizabeth around Paulownia Mall.	I've developed a yearning to explore your world. Would you please escort me around Paulownia Mall during the daytime?
+78	I'd like to visit Iwatodai Station.	Walk around Iwatodai with Elizabeth.	My yearning to explore your world has grown even stronger. Please escort me around ''Iwatodai'' during the daytime.
+79	I'd like to visit Naganaki Shrine.	Walk around Naganaki Shrine with Elizabeth.	My yearning to explore your world grows ever stronger still... I would like you to escort me around ''Naganaki Shrine'' during the daytime.
+80	I'd like to visit Gekkoukan High.	Show Elizabeth around Gekkoukan High.	I can no longer suppress my desire to explore your world. Would you escort me around ''Gekkoukan High School'' after its hours of operation?
+81	I'd like to visit your room.	Invite Elizabeth to your room.	My desire to explore your world cannot possibly be abated. Please accompany me to ''your room'' during the daytime.
+12	Bring me pine resin.	Bring the item that Elizabeth is asking for.	Bring me this ''pine resin'' that is used in archery. Rumor says it looks exactly like soybean powder. I have a feeling you may be able to get some from a close friend of yours.
+13	Bring me a handheld game console.	Bring the item that Elizabeth is asking for.	Could you bring me a tiny device known as a ''handheld game console''? Perhaps you could acquire one from a close friend who enjoys using it.
+27	Bring me a triangular sword.	Bring the item that Elizabeth is asking for.	Bring me what is known as a ''triangular sword.'' I hear this sword has a long history behind it... Perhaps you ought to ask a close friend about it, one who happens to be knowledge on such matters.
+28	Bring me a protein not for pros.	Bring the item that Elizabeth is asking for.	I would like you to bring me some protein that not only pros can drink, but amateurs, too... I have a hunch that you may be able to acquire some from a very athletic friend.
+76	Bring me a glasses wipe.	Bring the item that Elizabeth is asking for.	Will you please bring me a ''glasses wipe''? Based on its name alone, it is my understanding that anyone who wears glasses should be in possession of this item.
+43	Bring me a Christmas star.	Bring the item that Elizabeth is asking for.	Please bring me a ''Christmas star.'' Perhaps a close friend well-versed in plants would know something about it...
+68	Bring me a fruit knife.	Bring the item that Elizabeth is asking for.	Please bring me a blade that likes to cut through fruit, also known as a ''fruit knife.'' Should there be someone close to you well-versed in the culinary arts, I suggest you ask them first.
+69	Bring me oil.	Bring the item that Elizabeth is asking for.	Would you bring me some ''oil'' frequently used by one of your acquaintances?
+7	Bring me a Juzumaru.	Show Elizabeth a Juzumaru.	Please bring me the sword, Juzumaru. You may find it within a special treasure chest on the lower floors of Arqa, the second block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.
+26	Bring me an Onimaru Kunitsuna.	Show Elizabeth an Onimaru Kunitsuna.	Please bring me the sword, Onimaru Kunitsuna. You may find it within a special treasure chest on the lower floors of Arqa, the second block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.
+73	Bring me a Mikazuki Munechika.	Show Elizabeth a Mikazuki Munechika.	Show me a Mikazuki Munechika. I have a feeling you can obtain it from the antique shop in Paulownia Mall.
+65	Bring me an Ote-gine.	Show Elizabeth an Ote-gine.	Please bring me the sword, Ote-gine. You may find it within a special treasure chest on the lower floors of Tziah, the fourth block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.
+51	Bring me an Outenta Mitsuyo.	Show Elizabeth an Outenta Mitsuyo.	Show me an Outenta Mitsuyo. I have a feeling you can obtain it from the antique shop in Paulownia Mall.
+89	Bring me a Rai Kunimitsu.	Show Elizabeth a Rai Kunimitsu.	Please bring me the sword, Rai Kunimitsu. You can find it within a special treasure chest on the lower floors of Harabah, the fifth block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.
+90	Bring me a Dojigiri Yasutsuna.	Show Elizabeth a Dojigiri Yasutsuna.	Please bring me the sword, Dojigiri Yasutsuna. You can find it within a special treasure chest on the upper floors of Harabah, the fifth block in Tartarus. Tread carefully, for I sense a powerful Shadow in its vicinity.
+91	Bring me a Tonbo-kiri.	Show Elizabeth a Tonbo-kiri.	Show me a Tonbo-kiri. I have a feeling that you obtain it from the antique shop in Paulownia Mall.
+36	Defeat a rare Shadow #1	Defeat the rare Shadow in the third block, Yabbashah, and bring back 1 Rustic Coin.	Please retrieve the Rustic Coin that drops from the rare Shadow found in Yabbashah, the third block of Tartarus. Do keep in mind that this Shadow is extremely quick on its feet.
+64	Defeat a rare Shadow #2	Defeat the rare Shadow in the fourth block, Tziah, and bring back 1 Sumptuous Coin.	Please retrieve the Sumptuous Coin that drops from the rare Shadow found in Tziah, the fourth block of Tartarus. Do keep in mind that this Shadow is extremely quick on its feet.
+3	Shadow Hunting Milestone	Defeat a total of 100 Shadows.	Practice makes perfect. This applies to everything. So long as you persevere, you will surely begin to see results... That said, please defeat a certain number of Shadows.
+15	Shadow Hunting Milestone #2	Defeat a total of 200 Shadows.	The trick to combat is simple, you see. Just end it all in an instant. Strike down the enemy before they can act. This decreases the odds of sustaining injuries, so I advise you keep this in mind. Now, please report to me after defeating a certain number of Shadows.
+22	Shadow Hunting Milestone #3	Defeat a total of 300 Shadows.	Always remain alert the first time you encounter a new Shadow. One surprise attack can land you in hot water... Please exercise the utmost caution as you continue defeating Shadows.
+31	Shadow Hunting Milestone #4	Defeat a total of 450 Shadows.	Have you gotten used to battling Shadows? If you find that the same opponents are much too easy to defeat now, then take that as proof of your improvement. Please report to me after you've defeated even more Shadows.
+46	Shadow Hunting Milestone #5	Defeat a total of 600 Shadows.	Have you noticed that every Shadow wears a mask representing the Arcana to which it belongs? A change in perspective can help you discover something new. Now then, report to me once you've reached the target.
+60	Shadow Hunting Milestone #6	Defeat a total of 800 Shadows.	You must find this sort of task terribly facile now. Asking you to undertake these requests, then, was well worth it... Now, please let me know once you've managed to defeat a great deal of Shadows.
+4	Treasure Hunting Milestone	Open a total of 50 treasure chests.	Labyrinths and treasure chests... It is certainly a charming combination. By some twist of fate, you can find treasure chests scattered about Tartarus as well. Please retrieve the contents inside whenever you encounter them.
+16	Treasure Hunting Milestone #2	Open a total of 100 treasure chests.	Though treasure chests may be enticing, try not to get distracted by them. You wouldn't want a Shadow to creep up on you now, would you? Hm? You've already experienced that? Well, no matter. Simply report back to me once you've reached the goal.
+32	Treasure Hunting Milestone #3	Open a total of 150 treasure chests.	A variety of treasure chests exists. Some only contain precious metals, and others require a ''key'' to open. There seems to be more than meets the eye with these treasure chests... Now then, I look forward to your report of success.
+47	Treasure Hunting Milestone #4	Open a total of 200 treasure chests.	Since Tartarus is a labyrinthine construct with an ever-changing structure, it may prove difficult to locate a treasure chest that contains the item you're looking for... However, that is part of the fun in exploring. Well then, I await your report of success.
+23	Persona Fusion Milestone	Conduct a total of 20 Persona fusions.	Have you been fusing your Personas? I recommend doing so once you have reached your limit and are unable to hold any more Personas. I await your report on this matter.
+33	Persona Fusion Milestone #2	Conduct a total of 35 Persona fusions.	If I combine these two, I'll get this, but if I combine those two, what do I get then...? If, perhaps, you are struggling to decide which Personas to fuse, then I recommend utilizing ''Search Fusion.'' I look forward to your report of success.
+48	Persona Fusion Milestone #3	Conduct a total of 50 Persona fusions.	During fusion, sometimes a Persona's skill will change, or accidents may occur. There are rumors of veterans who make use of these irregularities. Well then, pleaase report to me once you've reached the target.
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+100	Bring me a Bloody Button.	Bring the Bloody Button.	You may find this one of the most challenging requests to undertake. Defeat the Reaper and bring me the Bloody Button.
+101	Take out the ultimate adversary.	Defeat the ultimate adversary.	We have made arrangements for you to battle with ''the ultimate adversary'' at the deepest point of Tartarus. Please take down your opponent-alone.
+50	Perform King and I.	Carry out the ''King and I'' Fusion Spell.	Fusion Spell, a hidden power that belongs to you and only you... One of several is called ''King and I.'' To execute this Fusion Spell, you'll need King Frost and the biggest, baddest boy of all Jack Frosts.
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用
+0	未使用	未使用	未使用

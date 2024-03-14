@@ -1,0 +1,932 @@
+{
+  "Fool": {
+    "Rank 1: Auto": {
+      "Sat 4/18 Evening": 0
+    },
+    "Rank 2: Auto": {
+      "Mon 4/20 Evening": 0
+    },
+    "Rank 3: Auto": {
+      "Sat 5/9 Evening": 0
+    },
+    "Rank 4: Auto": {
+      "Tue 7/7 Evening": 0
+    },
+    "Rank 5: Auto": {
+      "Wed 7/22 Daytime": 0
+    },
+    "Rank 6: Auto": {
+      "Mon 11/2 Evening": 0
+    },
+    "Rank 7: Auto": {
+      "Wed 11/4 Evening": 0
+    },
+    "Rank 8: Skipped": {},
+    "Rank 9: Auto": {
+      "Sat 11/28 Evening": 0
+    },
+    "Rank 10: Auto": {
+      "Thu 12/31 Evening": 0
+    }
+  },
+  "Magician": {
+    "Rank 1: Auto": {
+      "Wed 4/22 After School": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 15,
+      "3: What, of life?": 3,
+      "2: Good luck!": 1
+    },
+    "Rank 4": {
+      "Next Rank": 15,
+      "Any": 0,
+      "1: Good luck!": 3
+    },
+    "Rank 5": {
+      "Next Rank": 15,
+      "2: Okay...": 3
+    },
+    "Rank 6": {
+      "Next Rank": 15,
+      "Any": 0,
+      "1: I've got plans already.": 3
+    },
+    "Rank 7": {
+      "Next Rank": 22,
+      "1: What happened?": 1,
+      "3: Bride-to-Be?": 1,
+      "1: Congrats!": 1
+    },
+    "Rank 8": {
+      "Next Rank": 22,
+      "2: Are you in trouble?": 3,
+      "2: You two should talk it out.": 1
+    },
+    "Rank 9": {
+      "Next Rank": 22,
+      "2: Let me handle this!": 3
+    },
+    "Rank 10": {}
+  },
+  "Priestess": {
+    "Rank 1": {
+      "Requires Courage Lv. 6 and Fortune Rank 1": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 15,
+      "1: Just a dash or two.": 3,
+      "1: Just take it slow.": 3,
+      "Any": 0
+    },
+    "Rank 4": {
+      "Next Rank": 22,
+      "Any": 0,
+      "3: You're a hard worker": 1,
+      "1: That's not true.": 3
+    },
+    "Rank 5": {
+      "Next Rank": 30,
+      "2: You did a great job.": 3,
+      "1: I'm glad I could help.": 1,
+      "3: Can you make more sometime?": 3
+    },
+    "Rank 6": {
+      "Next Rank": 30,
+      "1: Of course.": 3,
+      "1: That's the spirit.": 3
+    },
+    "Rank 7": {
+      "Next Rank": 35,
+      "Any": 0,
+      "Any2": 0,
+      "3. That's messed up.": 1,
+      "1: Is that the only reason?": -1
+    },
+    "Rank 8": {
+      "Next Rank": 40,
+      "3: I've never thought about it.": 1,
+      "1: Not at all.": 1
+    },
+    "Date 8.5": {
+      "Next Rank": 40,
+      "1: Yeah I think so.": 3
+    },
+    "Rank 9 Romantic": {
+      "Next Rank": 55,
+      "Any": 0,
+      "Any2": 0,
+      "1: I love you, Fuuka.": 3,
+      "Any3": 0
+    },
+    "Rank 9 Platonic": {
+      "Next Rank": 55,
+      "Any": 0,
+      "Any2": 0,
+      "Choice 2: We'll always be friends.": 0,
+      "1: Sure.": 3
+    },
+    "Rank 10": {}
+  },
+  "Empress": {
+    "Rank 1": {
+      "Requires Academics Lv. 6 and 1st place in one exam": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 22,
+      "2: Why not give it a try?": 1,
+      "2: Are you happy?": 3,
+      "2: Maybe you're anxious.": 1,
+      "2: I heard nothing.": 1
+    },
+    "Rank 4": {
+      "Next Rank": 22,
+      "2: Did something happen?": 1,
+      "1: It's all for love.": 3,
+      "Any": 0
+    },
+    "Rank 5": {
+      "Next Rank": 22,
+      "2: Glad you enjoyed it.": 3,
+      "2: You're not suited?": 1,
+      "2: Let's go for a ride.": 3
+    },
+    "Rank 6": {
+      "Next Rank": 22,
+      "2: Need some help?": 1,
+      "Any": 0,
+      "1: Is it really?": -1,
+      "3: I'll do something about it.": 3
+    },
+    "Rank 7": {
+      "Next Rank": 22,
+      "1: I don't mind at all.": 3
+    },
+    "Rank 8": {
+      "Next Rank": 22,
+      "Any": 0,
+      "1: Vent all you want.": 1,
+      "1: That's up to you.": -1,
+      "2: Don't insult her father!": 3,
+      "1: Don't give in.": 3
+    },
+    "Rank 9 Romantic": {
+      "Next Rank": 22,
+      "3: It made me happy.": 3,
+      "Any": 0,
+      "Choice 1: I love you too.": 0,
+      "Any2": 0
+    },
+    "Rank 9 Platonic": {
+      "Next Rank": 22,
+      "3: It made me happy.": 3,
+      "Any": 0,
+      "Choice 2: I'm sorry but...": 0,
+      "Any2": 0
+    },
+    "Rank 10": {}
+  },
+  "Emperor": {
+    "Rank 1": {
+      "Go to faculty office": 0,
+      "Go to student council room": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {},
+    "Rank 4": {
+      "Next Rank": 15,
+      "Any": 0,
+      "2: Looks like you're hard at work.": 3
+    },
+    "Rank 5": {
+      "Next Rank": 15,
+      "1: They're the worst.": 3
+    },
+    "Rank 6": {
+      "Next Rank": 15,
+      "Any": 0,
+      "1: But I just got here...": 3
+    },
+    "Rank 7": {
+      "Next Rank": 15,
+      "2: It seems too harsh.": 3
+    },
+    "Rank 8": {
+      "Next Rank": 22,
+      "Any": 0,
+      "1: It wasn't me.": 3
+    },
+    "Rank 9": {
+      "Next Rank": 22,
+      "2: What matters is you realized it.": 3
+    },
+    "Rank 10": {}
+  },
+  "Hierophant": {
+    "Rank 1": {
+      "Go to Gekkoukan Outdoor Corridor after talking to old couple": 0,
+      "Examine persimmon tree to obtain Persimmon Leaf": 0,
+      "Report back to old couple": 0
+    },
+    "Rank 2": {
+      "Obtain Melon Bread x2": 0
+    },
+    "Rank 3": {
+      "Next Rank": 20,
+      "1: Looking for something?": 1,
+      "2: Can I help?": 3,
+      "Any, Any, Any...": 0,
+      "Obtain Medicine": 0
+    },
+    "Rank 4": {
+      "Next Rank": 20,
+      "1: I should go too.": 3,
+      "Any": 0,
+      "2: I'm worried.": 1,
+      "Obtain Cyclone Tea": 0
+    },
+    "Rank 5": {
+      "Next Rank": 20,
+      "1: I wouldn't worry about it.": 1,
+      "1: Cheer up.": 1,
+      "Obtain Crab Bread": 0
+    },
+    "Rank 6": {
+      "Next Rank": 20,
+      "2: Please don't fight.": 3,
+      "Any": 0,
+      "Obtain Fried Bread": 0
+    },
+    "Rank 7": {
+      "Next Rank": 20,
+      "1: What happened?": 1,
+      "2: That's great.": 1,
+      "3: What are you talking about?": 1,
+      "Obtain Cielo Mist": 0
+    },
+    "Rank 8": {
+      "Next Rank": 20,
+      "1: A petitioner?": 1,
+      "Any": 0,
+      "1: Sure, let's go.": 3
+    },
+    "Rank 9": {
+      "Next Rank": 30,
+      "1: What does the letter say?": 1,
+      "Any": 0
+    },
+    "Rank 10": {}
+  },
+  "Lovers": {
+    "Rank 1": {
+      "Requires Charm Lv. 6": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 15,
+      "Any": 0
+    },
+    "Rank 4": {
+      "Next Rank": 22,
+      "3: Are you okay?": 3
+    },
+    "Rank 5": {
+      "Next Rank": 22,
+      "Any": 0,
+      "Any2": 0,
+      "Any3": 0,
+      "Any4": 0,
+      "1: I'm sorry.": 3
+    },
+    "Rank 6": {
+      "Next Rank": 35,
+      "3: Thank you, too.": 1,
+      "1: I wouldn't mind.": 1
+    },
+    "Rank 7": {
+      "Next Rank": 35,
+      "3: Let's go just the two of us.": 3
+    },
+    "Rank 8": {
+      "Next Rank": 40,
+      "1: All right.": 3,
+      "Any": 0
+    },
+    "Rank 9 Romantic": {
+      "Next Rank": 55,
+      "2: ......": 3,
+      "Choice 1: I love you.": 0
+    },
+    "Rank 9 Platonic": {
+      "Next Rank": 55,
+      "2: ......": 3,
+      "Choice 2: You're a precious friend.": 0
+    },
+    "Date 9.5": {
+      "Next Rank": 55,
+      "3: Some people do.": 3
+    },
+    "Rank 10": {}
+  },
+  "Chariot": {
+    "Rank 1": {
+      "Go to school track through school gym": 0,
+      "Any": 0,
+      "Choice 1: I think I will. (Strength Flag 0.1)": 0,
+      "Choice 1: Wanna walk home together? (Strength Flag 0.1)": 0
+    },
+    "Rank 2": {
+      "Any": 0,
+      "Any2": 0,
+      "Choice 1: I think I will. (Strength Flag 0.2)": 0,
+      "Choice 1: Wanna walk home together? (Strength Flag 0.2)": 0
+    },
+    "Rank 3": {
+      "Next Rank": 15,
+      "2: Are you going to be okay?": 1,
+      "1: Will it heal?": 1
+    },
+    "Rank 4": {
+      "Next Rank": 15,
+      "Any": 0,
+      "2: that really sucks.": 3
+    },
+    "Rank 5": {
+      "Next Rank": 15,
+      "1: Back from the hospital?": 1,
+      "1: Take my shoulder!": 3
+    },
+    "Rank 6": {
+      "Next Rank": 15,
+      "2: Show some guts, man!": 1,
+      "2: Why go so far?": 1,
+      "2: What about your knee?": 1
+    },
+    "Rank 7": {
+      "Next Rank": 22,
+      "1: How's your knee?": 1,
+      "1: You have to get tougher!": 3
+    },
+    "Rank 8": {
+      "Next Rank": 22,
+      "2: ......": 1
+    },
+    "Date 8.5": {
+      "Next Rank": 22,
+      "2: For your nephew.": 3
+    },
+    "Rank 9": {
+      "Next Rank": 22,
+      "1: I don't mind at all.": 3
+    },
+    "Rank 10": {}
+  },
+  "Justice": {
+    "Flag 0.1": {
+      "Requires Emperor Rank 1": 0,
+      "Choice 1: I just wanted to talk...": 0
+    },
+    "Flag 0.2": {
+      "Choice 3: I'm a guy.": 0
+    },
+    "Flag 0.3": {
+      "Choice 1: Hello.": 0,
+      "Choice 1: Let's hang out.": 0
+    },
+    "Rank 1": {},
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 22,
+      "1: They have no shame.": 1,
+      "1: I agree.": 1
+    },
+    "Rank 4": {
+      "Next Rank": 22,
+      "Any": 0,
+      "2: I'm here for you.": 3
+    },
+    "Rank 5": {
+      "Next Rank": 22,
+      "1: I'm all ears.": 2,
+      "1: Yeah, she's in love.": 3,
+      "1: Happy to help.": 2,
+      "1: Hold her hand.": 3
+    },
+    "Rank 6": {
+      "Next Rank": 30,
+      "1: Is it good?": 3,
+      "2: What do you mean?": 1
+    },
+    "Rank 7": {
+      "Next Rank": 30,
+      "2: It's gotta be a misunderstanding.": 1,
+      "2: We have to do something...": 1
+    },
+    "Rank 8": {
+      "Next Rank": 30,
+      "Any": 0,
+      "2: I know you're innocent.": 1
+    },
+    "Rank 9 Romantic": {
+      "Next Rank": 40,
+      "1: Don't worry, she'll help us.": 1,
+      "2: You need to tell her yourself.": 1,
+      "Any": 0,
+      "1: What's gotten into you?": 1,
+      "Choice 1: I feel the same, Chihiro.": 0,
+      "Any2": 0
+    },
+    "Rank 9 Platonic": {
+      "Next Rank": 40,
+      "1: Don't worry, she'll help us.": 1,
+      "2: You need to tell her yourself.": 1,
+      "Any": 0,
+      "1: What's gotten into you?": 1,
+      "Choice 2: I like working with you, but...": 0,
+      "Any2": 0
+    },
+    "Rank 10": {}
+  },
+  "Hermit": {
+    "Rank 1": {},
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 20,
+      "1: Oh really? o_O": 1,
+      "1: You don't like your job?": 3
+    },
+    "Rank 4": {
+      "Next Rank": 20,
+      "3: Let's plan our wedding, then?": 3
+    },
+    "Rank 5": {
+      "Next Rank": 20,
+      "3: Do you mean S.O.B.?": 1,
+      "3: Are you a teacher?": 1
+    },
+    "Rank 6": {
+      "Next Rank": 20,
+      "2: What bastard?": 3
+    },
+    "Rank 7": {
+      "Next Rank": 20,
+      "3: Well yeah.": 3,
+      "1: She um... what?": 1
+    },
+    "Rank 8": {
+      "Next Rank": 20,
+      "2: Hurry up and tell me.": 3,
+      "1: What is he like?": 1
+    },
+    "Rank 9": {
+      "Next Rank": 20,
+      "2: No way!": 1,
+      "Any": 0,
+      "1: What are you planning?": 1
+    },
+    "Rank 10": {}
+  },
+  "Fortune": {
+    "Rank 1": {},
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 15,
+      "1: You've got talent.": 3,
+      "Any": 0
+    },
+    "Rank 4": {
+      "Next Rank": 15,
+      "2: You're pulling out of the contest?": 1,
+      "2: So you're just going to take it?": 1
+    },
+    "Rank 5": {
+      "Next Rank": 15,
+      "1: You should tell your dad!": 3
+    },
+    "Rank 6": {
+      "Next Rank": 15,
+      "Any": 0,
+      "2: It's your choice now.": 3
+    },
+    "Rank 7": {
+      "Next Rank": 15,
+      "1: Do you want to be a doctor?": 3
+    },
+    "Rank 8": {
+      "Next Rank": 22,
+      "1: It's okay, I'm fine.": 3,
+      "Any": 0,
+      "Any2": 0
+    },
+    "Rank 9": {
+      "Next Rank": 22,
+      "1: You can't go!": 3,
+      "Any, Any, Any...": 0
+    },
+    "Rank 10": {}
+  },
+  "Strength": {
+    "Rank 1": {
+      "Requires Chariot Rank 2": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 15,
+      "Any": 0,
+      "2: Don't worry about it.": 1,
+      "1: I'm honored.": 1
+    },
+    "Rank 4": {
+      "Next Rank": 15,
+      "Any": 0,
+      "1: Sure thing.": 1
+    },
+    "Date 4.5": {
+      "Next Rank": 15,
+      "3: You're very responsible.": 3
+    },
+    "Rank 5": {
+      "Next Rank": 22,
+      "3: It's because you teach so well.": 2,
+      "3: I trust whatever you decide, Yuko.": 1
+    },
+    "Rank 6": {
+      "Next Rank": 22,
+      "1: You guys got this.": 1,
+      "2: As long as we believe in them.": 1
+    },
+    "Rank 7": {
+      "Next Rank": 35,
+      "Any": 0,
+      "2: Are you relieved?": 1,
+      "1: Let's do it.": 3
+    },
+    "Rank 8": {
+      "Next Rank": 40,
+      "Any": 0,
+      "Any2": 0,
+      "1: A boy.": 1
+    },
+    "Date 8.5": {
+      "Next Rank": 40,
+      "3: Will you wipe it off for me?": 3
+    },
+    "Rank 9 Romantic": {
+      "Next Rank": 40,
+      "Any": 0,
+      "2: An instructor?": 3,
+      "Any2": 0,
+      "Choice 1: It's because I love you.": 0,
+      "1: I love you, Yuko.": 1
+    },
+    "Rank 9 Platonic": {
+      "Next Rank": 40,
+      "Any": 0,
+      "2: An instructor?": 3,
+      "Any2": 0,
+      "Choice 2: It's because you're a close friend.": 0,
+      "1: Okay, I will.": 1
+    },
+    "Rank 10": {}
+  },
+  "Hanged": {
+    "Flag 0.1": {
+      "Requires a Weird Takoyaki and Mad Bull": 0
+    },
+    "Rank 1": {},
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 20,
+      "Any": 0,
+      "3: Don't worry, he'll be there.": 3
+    },
+    "Rank 4": {
+      "Next Rank": 20,
+      "2: Of course they care.": 3
+    },
+    "Rank 5": {
+      "Next Rank": 20,
+      "1: That's awful.": 3,
+      "2: They would never.": 1
+    },
+    "Rank 6": {
+      "Next Rank": 30,
+      "2: Calm down.": 1,
+      "1: That should be enough.": 3
+    },
+    "Rank 7": {
+      "Next Rank": 15,
+      "Any": 0
+    },
+    "Rank 8": {
+      "Next Rank": 30,
+      "1: Hamburgers.": 1,
+      "1: You're a good girl.": 3,
+      "1: Your dad.": 3
+    },
+    "Rank 9": {
+      "Next Rank": 30,
+      "1: Friends forever.": 3
+    },
+    "Rank 10": {}
+  },
+  "Death": {
+    "Rank 1: Auto": {
+      "Fri 6/12 Evening": 0
+    },
+    "Rank 2: Skipped": {},
+    "Rank 3: Auto": {
+      "Sun 7/12 Evening": 0
+    },
+    "Rank 4: Skipped": {},
+    "Rank 5: Auto": {
+      "Fri 8/7 Evening": 0
+    },
+    "Rank 6: Auto": {
+      "Sat 9/12 Evening": 0
+    },
+    "Rank 7: Skipped": {},
+    "Rank 8: Auto": {
+      "Tue 10/6 Evening": 0
+    },
+    "Rank 9: Skipped": {},
+    "Rank 10: Auto": {
+      "Wed 11/4 Daytime": 0
+    }
+  },
+  "Temperance": {
+    "Rank 1": {
+      "Requires Academics Lv. 2 and Hierophant Rank 3": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 15,
+      "2: Thanks.": 1,
+      "3: How about a kimono?": 3
+    },
+    "Rank 4": {
+      "Next Rank": 15,
+      "3: Are you alright?": 3,
+      "Any": 0
+    },
+    "Rank 5": {
+      "Next Rank": 15,
+      "1: Sure.": 1,
+      "2: Just stay in Japan!": 1
+    },
+    "Rank 6": {
+      "Next Rank": 15,
+      "Any": 0,
+      "1: Let's do it.": 1,
+      "1: I have your back!": 3
+    },
+    "Rank 7": {
+      "Next Rank": 10,
+      "2: That's a great idea.": 3
+    },
+    "Rank 8": {
+      "Next Rank": 22,
+      "2: He'll definitely agree!": 3
+    },
+    "Rank 9": {
+      "Next Rank": 22,
+      "2: Aren't you homesick?": 3
+    },
+    "Rank 10": {}
+  },
+  "Devil": {
+    "Flag 0.1": {
+      "Requires Hermit Rank 3, Charm Lv. 4, and (Y20000)": 0
+    },
+    "Flag 0.2": {
+      "Requires (Y10000)": 0
+    },
+    "Rank 1": {
+      "Requires (Y10000)": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {},
+    "Rank 4": {},
+    "Rank 5": {},
+    "Rank 6": {},
+    "Rank 7": {},
+    "Rank 8": {},
+    "Rank 9": {},
+    "Rank 10": {}
+  },
+  "Tower": {
+    "Flag 0.1": {
+      "Requires Strength Rank 4": 0,
+      "Talk to Yuko": 0
+    },
+    "Rank 1": {
+      "Requires Courage Lv. 4": 0,
+      "Talk to Mutatsu upstairs": 0,
+      "Talk to bartender downstairs": 0,
+      "Choice 4: Margarita": 0,
+      "Choice 2: Bloody Mary": 0,
+      "Choice 2: Screwdriver": 0,
+      "Choice 4: Oolong Tea": 0,
+      "Talk to Mutatsu again": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 25,
+      "2: I don't have any friends": 3
+    },
+    "Rank 4": {
+      "Next Rank": 25,
+      "1: Yeah, that might look cool.": 3
+    },
+    "Rank 5": {
+      "Next Rank": 25,
+      "1: I have enough.": 1,
+      "2: No.": 3
+    },
+    "Rank 6": {
+      "Next Rank": 30,
+      "2: You should go home.": 3,
+      "2: Do you have any coworkers?": 1
+    },
+    "Rank 7": {
+      "Next Rank": 30,
+      "2: You probably shouldn't.": 3
+    },
+    "Rank 8": {
+      "Next Rank": 40,
+      "1: Dad?": 3,
+      "1: I was with a friend.": 1,
+      "Any": 0,
+      "2: Are you running away?": 1
+    },
+    "Rank 9": {
+      "Next Rank": 40,
+      "1: Why not take a break?": 1,
+      "2: Time to retire?": 1,
+      "1: What's this about?": 1
+    },
+    "Rank 10": {}
+  },
+  "Star": {
+    "Rank 1": {
+      "Requires Courage Lv. 4": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 20,
+      "1: For your teammates?": 1,
+      "1: Sounds like fun.": 1
+    },
+    "Rank 4": {
+      "Next Rank": 20,
+      "1: What are you doing?": 1,
+      "1: That would be amazing!": 1,
+      "2: Yeah, I bet it would.": 1
+    },
+    "Rank 5": {
+      "Next Rank": 20,
+      "2: Are you okay?": 1,
+      "2: I'll come back here with you.": 1
+    },
+    "Rank 6": {
+      "Next Rank": 20,
+      "Any": 0,
+      "Any2": 0,
+      "Any3": 0,
+      "2: Don't worry, it's okay.": 3
+    },
+    "Rank 7": {
+      "Next Rank": 30,
+      "2: It's no problem at all.": 1,
+      "2: Stop whining and do it.": 1,
+      "Any": 0,
+      "2: Don't give up yet.": 3
+    },
+    "Rank 8": {
+      "Next Rank": 30,
+      "1: Do it!": 3,
+      "2: Don't sweat it.": 1
+    },
+    "Rank 9": {
+      "Next Rank": 30,
+      "1: Did you win?": 1,
+      "2: Congrats, man!": 1,
+      "1: What will you do now?": 1,
+      "1: Thanks!": 1
+    },
+    "Rank 10": {}
+  },
+  "Moon": {
+    "Flag 0.1": {
+      "Requires Magician Rank 3": 0,
+      "Talk to Kenji": 0
+    },
+    "Rank 1": {
+      "Requires Charm Lv. 2 and an Odd Morsel": 0,
+      "Choice 1: What are you eating?": 0,
+      "Choice 3: Pheremone Coffee.": 0,
+      "Choice 3: Red.": 0,
+      "Choice 2: Hagakure Bowl.": 0,
+      "Give him an Odd Morsel.": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {
+      "Next Rank": 15,
+      "2: The Gourmet King.": 3
+    },
+    "Rank 4": {
+      "Next Rank": 15,
+      "2: Are you feeling sick?": 3
+    },
+    "Rank 5": {
+      "Next Rank": 22,
+      "1: That's right.": 3
+    },
+    "Rank 6": {
+      "Next Rank": 22,
+      "3: Are you sick?": 3
+    },
+    "Rank 7": {
+      "Next Rank": 22,
+      "3: The world is ending?": 3,
+      "Any": 0
+    },
+    "Rank 8": {
+      "Next Rank": 22,
+      "2: No, you're not.": 3
+    },
+    "Rank 9": {
+      "Next Rank": 15,
+      "Any": 0,
+      "Will momentarily reverse": 0
+    },
+    "Rank 10": {}
+  },
+  "Sun": {
+    "Rank 1": {
+      "Requires Academics Lv. 4 and Hanged Rank 3": 0,
+      "Talk to Akinari": 0,
+      "Talk to Koromaru to obtain Red Fountain Pen": 0,
+      "Talk to Akinari again": 0
+    },
+    "Rank 2": {},
+    "Rank 3": {},
+    "Rank 4": {},
+    "Rank 5": {},
+    "Rank 6": {},
+    "Rank 7": {},
+    "Rank 8": {},
+    "Rank 9": {},
+    "Rank 10": {}
+  },
+  "Judgement": {
+    "Rank 1: Auto": {
+      "Thu 12/31 Evening": 0
+    },
+    "Rank 2: Auto": {
+      "Reach Adamah 227": 0
+    },
+    "Rank 3: Auto": {
+      "Clear Adamah 230": 0
+    },
+    "Rank 4: Auto": {
+      "Clear Adamah 236": 0
+    },
+    "Rank 5: Auto": {
+      "Clear Adamah 241": 0
+    },
+    "Rank 6: Auto": {
+      "Clear Adamah 246": 0
+    },
+    "Rank 7: Auto": {
+      "Clear Adamah 247": 0
+    },
+    "Rank 8: Auto": {
+      "Clear Adamah 253": 0
+    },
+    "Rank 9: Auto": {
+      "Clear Adamah 254": 0
+    },
+    "Rank 10: Auto": {
+      "Clear Adamah 255": 0
+    }
+  },
+  "Aeon": {
+    "Rank 1": {},
+    "Rank 2": {},
+    "Rank 3": {},
+    "Rank 4": {},
+    "Rank 5": {},
+    "Rank 6": {},
+    "Rank 7": {},
+    "Rank 8": {},
+    "Rank 9": {
+      "Next Rank": 30,
+      "1: You're right.": 3
+    },
+    "Rank 10": {}
+  }
+}
