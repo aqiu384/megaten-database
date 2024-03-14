@@ -174,6 +174,13 @@
 ##### Evening
 * Tartarus
   * Need at least (Y36000) for social stats
+  * Finish boss battles with Orpheus equipped until he learns Tarunda
+  * Apsaras x Pixie = Lv. 3 Magician Nekomata (Rakunda)
+  * Nekomata (Rakunda) x Angel = Lv. 7 Hierophant Omoikane (Zio, Rakunda)
+* Persona loadout before leaving
+  * Omoikane (Zio, Rakunda) x Pixie = **Lv. 8 Magician Jack Frost (Zio, Rakunda)**
+  * Orpheus (Tarunda) x Ara Mitama = **Lv. 7 Emperor Forneus (Tarunda)**
+  * Lv. 4 Justice Angel
 ---
 #### Mon 4/27
 ##### Class
@@ -319,6 +326,9 @@
   * Unlocks Request #11: Please prevail in the Big Eater Challenge.
 ##### Daytime
 * TV Shopping: Antibiotic Gel x2, Sappy Jelly x5 (Y3980)
+* Persona loadout before leaving
+  * Jack Frost x Omoikane = **Lv. 8 Hermit Onmoraki**
+  * Forneus x Angel = **Lv. 10 Hanged Inugami**
 * Hermit Rank 4 (Needs matching persona): 22/20 points to next rank
   * Choice 3: Let's plan our wedding, then? (+22, 3 notes)
 ##### Evening
@@ -438,6 +448,9 @@
   * Completes once you defeat a Rare Shadow in Tartarus
 * Tartarus
   * Need at least (Y4000) for social stats
+* Persona loadout before leaving
+  * Inugami x Ara Mitama = **Lv. 10 Strength Valkyrie**
+  * Lv. 6 Chariot Ara Mitama
 * Request #3: Shadow Hunting Milestone
   * Defeat a total of 100 Shadows.
   * Unlocks Request #15: Shadow Hunting Milestone #2
