@@ -160,7 +160,8 @@
 * Hierophant Rank 2
 ##### Evening
 * Tartarus
-  * Need at least (Y36000) for social stats
+  * Need at least (Y38000) for social stats
+  * Obtain an Odd Morsel from normal chests
   * Finish boss battles with Orpheus equipped until he learns Tarunda
   * Apsaras x Pixie = Lv. 3 Magician Nekomata (Rakunda)
   * Nekomata (Rakunda) x Angel = Lv. 7 Hierophant Omoikane (Zio, Rakunda)
@@ -248,6 +249,8 @@
 ##### Class
 * Choice 1: A pantograph. (Charm +2, 1 note)
 ##### After School
+* Iwatodai Strip Mall 1F > Octopia > Buy Weird Takoyaki
+* Iwatodai Station > Vending Machine > Buy Mad Bull
 * Hanged Flag 0.1
 * Emperor Rank 2
 ##### Evening
