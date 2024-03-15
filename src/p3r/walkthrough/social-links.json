@@ -33,7 +33,9 @@
     "Rank 1: Auto": {
       "Wed 4/22 After School": 0
     },
-    "Rank 2": {},
+    "Rank 2": {
+      "Gekkoukan Classroom > Talk to Kenji": 0
+    },
     "Rank 3": {
       "Next Rank": 15,
       "3: What, of life?": 3,
@@ -72,7 +74,8 @@
   },
   "Priestess": {
     "Rank 1": {
-      "Requires Courage Lv. 6 and Fortune Rank 1": 0
+      "Requires Courage Lv. 6 and Fortune Rank 1": 0,
+      "Gekkoukan 2F Hallway > Talk to Fuuka": 0
     },
     "Rank 2": {},
     "Rank 3": {
@@ -132,7 +135,8 @@
   },
   "Empress": {
     "Rank 1": {
-      "Requires Academics Lv. 6 and 1st place in one exam": 0
+      "Requires Academics Lv. 6 and 1st place in one exam": 0,
+      "Gekkoukan Faculty Hallway > Talk to Mitsuru": 0
     },
     "Rank 2": {},
     "Rank 3": {
@@ -191,8 +195,8 @@
   },
   "Emperor": {
     "Rank 1": {
-      "Go to faculty office": 0,
-      "Go to student council room": 0
+      "Gekkoukan Faculty Office > Join student council": 0,
+      "Gekkoukan 2F Hallway > Student Council Room": 0
     },
     "Rank 2": {},
     "Rank 3": {},
@@ -227,9 +231,9 @@
   },
   "Hierophant": {
     "Rank 1": {
-      "Go to Gekkoukan Outdoor Corridor after talking to old couple": 0,
-      "Examine persimmon tree to obtain Persimmon Leaf": 0,
-      "Report back to old couple": 0
+      "Iwatodai Strip Mall 1F > Bookstore > Talk to Old Couple": 0,
+      "Gekkoukan Outdoor Corridor > Persimmon Tree > Obtain Persimmon Leaf": 0,
+      "Bookstore > Talk to Old Couple again": 0
     },
     "Rank 2": {
       "Obtain Melon Bread x2": 0
@@ -282,7 +286,8 @@
   },
   "Lovers": {
     "Rank 1": {
-      "Requires Charm Lv. 6": 0
+      "Requires Charm Lv. 6": 0,
+      "Gekkoukan Classroom > Talk to Yukari": 0
     },
     "Rank 2": {},
     "Rank 3": {
@@ -333,7 +338,7 @@
   },
   "Chariot": {
     "Rank 1": {
-      "Go to school track through school gym": 0,
+      "Gekkoukan Gym > Track Field": 0,
       "Any": 0,
       "Choice 1: I think I will. (Strength Flag 0.1)": 0,
       "Choice 1: Wanna walk home together? (Strength Flag 0.1)": 0
@@ -387,6 +392,7 @@
   "Justice": {
     "Flag 0.1": {
       "Requires Emperor Rank 1": 0,
+      "Gekkoukan 2F Hallway > Talk to Chihiro": 0,
       "Choice 1: I just wanted to talk...": 0
     },
     "Flag 0.2": {
@@ -451,7 +457,9 @@
     "Rank 10": {}
   },
   "Hermit": {
-    "Rank 1": {},
+    "Rank 1": {
+      "Your Room > Laptop > Play Online Game": 0
+    },
     "Rank 2": {},
     "Rank 3": {
       "Next Rank": 20,
@@ -490,7 +498,9 @@
     "Rank 10": {}
   },
   "Fortune": {
-    "Rank 1": {},
+    "Rank 1": {
+      "Gekkoukan 1F Hallway > Art Club Room": 0
+    },
     "Rank 2": {},
     "Rank 3": {
       "Next Rank": 15,
@@ -532,7 +542,9 @@
     "Rank 1": {
       "Requires Chariot Rank 2": 0
     },
-    "Rank 2": {},
+    "Rank 2": {
+      "Gekkoukan 2F Hallway > Talk to Yuko": 0
+    },
     "Rank 3": {
       "Next Rank": 15,
       "Any": 0,
@@ -594,7 +606,7 @@
   },
   "Hanged": {
     "Flag 0.1": {
-      "Requires a Weird Takoyaki and Mad Bull": 0
+      "Naganaki Shrine > Playground > Give her a Weird Takoyaki and Mad Bull": 0
     },
     "Rank 1": {},
     "Rank 2": {},
@@ -659,7 +671,8 @@
   },
   "Temperance": {
     "Rank 1": {
-      "Requires Academics Lv. 2 and Hierophant Rank 3": 0
+      "Requires Academics Lv. 2 and Hierophant Rank 3": 0,
+      "Gekkoukan 1F Hallway > Sewing Club Room": 0
     },
     "Rank 2": {},
     "Rank 3": {
@@ -699,7 +712,8 @@
   },
   "Devil": {
     "Flag 0.1": {
-      "Requires Hermit Rank 3, Charm Lv. 4, and (Y20000)": 0
+      "Requires Hermit Rank 3, Charm Lv. 4, and (Y20000)": 0,
+      "Paulownia Mall > Front of Fountain > Pay him": 0
     },
     "Flag 0.2": {
       "Requires (Y10000)": 0
@@ -724,13 +738,13 @@
     },
     "Rank 1": {
       "Requires Courage Lv. 4": 0,
-      "Talk to Mutatsu upstairs": 0,
-      "Talk to bartender downstairs": 0,
+      "Club Escapade > Upstairs > Talk to Monk": 0,
+      "Downstairs > Talk to Bartender": 0,
       "Choice 4: Margarita": 0,
       "Choice 2: Bloody Mary": 0,
       "Choice 2: Screwdriver": 0,
       "Choice 4: Oolong Tea": 0,
-      "Talk to Mutatsu again": 0
+      "Upstairs > Talk to Monk again": 0
     },
     "Rank 2": {},
     "Rank 3": {
@@ -772,7 +786,8 @@
   },
   "Star": {
     "Rank 1": {
-      "Requires Courage Lv. 4": 0
+      "Requires Courage Lv. 4": 0,
+      "Iwatodai Strip Mall 1F > Talk to Mamoru": 0
     },
     "Rank 2": {},
     "Rank 3": {
@@ -826,6 +841,7 @@
     },
     "Rank 1": {
       "Requires Charm Lv. 2 and an Odd Morsel": 0,
+      "Paulownia Mall > Fountain Bench > Talk to Student": 0,
       "Choice 1: What are you eating?": 0,
       "Choice 3: Pheremone Coffee.": 0,
       "Choice 3: Red.": 0,
@@ -868,9 +884,9 @@
   "Sun": {
     "Rank 1": {
       "Requires Academics Lv. 4 and Hanged Rank 3": 0,
-      "Talk to Akinari": 0,
-      "Talk to Koromaru to obtain Red Fountain Pen": 0,
-      "Talk to Akinari again": 0
+      "Naganaki Shrine > Playground Bench > Talk to him": 0,
+      "Iwatodai Dorms > Koromaru > Obtain Red Fountain Pen": 0,
+      "Playground Bench > Talk to him again": 0
     },
     "Rank 2": {},
     "Rank 3": {},
@@ -915,7 +931,9 @@
     }
   },
   "Aeon": {
-    "Rank 1": {},
+    "Rank 1": {
+      "Gekkoukan Classroom > Talk to Aigis": 0
+    },
     "Rank 2": {},
     "Rank 3": {},
     "Rank 4": {},

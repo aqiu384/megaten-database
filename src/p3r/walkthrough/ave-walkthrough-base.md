@@ -91,7 +91,7 @@
 * Stay awake (Academics +2, 1 note)
 ##### After School
 * **Gekkoukan Faculty Hallway > Nurse's Office (Courage +2, 1 note)**
-* Naganaki Shrine > Inari Sushi left of main shrine
+* Naganaki Shrine > Left of Main Shrine > Inari Sushi
   * Duplicate skill card
   * Can be done once per day
 * Twilight Fragments
@@ -119,8 +119,11 @@
 * Magician Rank 1: Auto
 ##### Evening
 * Talk to Mitsuru > Tartarus
-  * All Tartarus-related achievements may be unlocked at your pace over course of game
   * Need at least (Y7500) for social stats
+  * Can earn money immediately from chests and Coin shuffle cards
+  * Can earn money the next day after selling drops at Police Station
+  * Save before leaving Tartarus, sell drops the next day, then reload if not enough
+  * All Tartarus-related achievements may be unlocked at your pace over course of game
 * Achievement: There's No "I" in "Team"
 * Achievement: The First of Many
 * Achievement: The Thrill of the Hunt
@@ -156,7 +159,7 @@
 ---
 #### Sun 4/26
 ##### Daytime
-* TV Shopping: Rose Bouquet, Luxury Chocolate x2 (Y2980)
+* Your Room > TV Shopping: Rose Bouquet, Luxury Chocolate x2 (Y2980)
 * Hierophant Rank 2
 ##### Evening
 * Tartarus
@@ -218,7 +221,7 @@
 * Gekkoukan School Shop > Buy Lukewarm Taiyaki x3 for Request #38
 * Strength Rank 2
 ##### Evening
-* **Put Lukewarm Taiyaki in fridge**
+* **Iwatodai Dorms Kitchen > Put Lukewarm Taiyaki in fridge**
 * You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
 #### Sun 5/3
@@ -322,6 +325,7 @@
 #### Tue 5/12
 ##### After School
 * Junpei Link 1 (Junpei St +3)
+  * Gekkoukan Classroom > Talk to Junpei
 ##### Evening
 * House of the Deceased (Y3000) (Courage +4, 2 notes)
 ---
@@ -466,7 +470,7 @@
 ##### After School
 * Strength Rank 3 (Needs matching persona)
 ##### Evening
-* Gamble Fortune
+* Club Escapade > Fortune Teller > Rarity Fortune (Y3000)
 * Tartarus
   * Need at least (Y24000) for social stats
 ---
@@ -489,6 +493,7 @@
 * Request #10: I'd like to try a beef bowl.
   * Iwatodai Strip Mall 3F > Umiumshi > Umiushi Beef Bowl (Y300)
 * Akihiko Link 1 (Makoto HP +5)
+  * Iwatodai Station > Talk to Akihiko
 ---
 #### Sat 5/30
 ##### After School
@@ -502,6 +507,7 @@
 * **Put Lukewarm Taiyaki in fridge**
 * TV Shopping: Health Sandals, Diet Food x2 (Y3980)
 * Strength Date 4.5 (Needs matching persona): 45/15 points to next rank
+  * Accept invite on phone
   * Choice 3: You're very responsible. (+34, 3 notes)
 ##### Evening
 * Weekend Wilduck Set (Y1200) (Courage +4, 2 notes)
@@ -666,8 +672,9 @@
 * **Put Lukewarm Taiyaki in fridge**
 * Devil Flag 0.1
 * Lovers DVDs 1 (Charm +2, 1 note)
+  * Talk to Yukari by the TV
 * **Charm Lv. 5**
-* Achievement: Dorm Life
+* Achievement: Dorms Life
 ---
 #### Wed 6/17
 ##### Class
@@ -677,6 +684,7 @@
 ##### Evening
 * Check fridge > Chilled Taiyaki
 * Akihiko Cooking 1
+  * Talk to Akihiko at the counter
 ---
 #### Thu 6/18
 ##### After School
@@ -684,17 +692,20 @@
 * Justice Rank 3 (Needs matching persona)
 ##### Evening
 * Priestess Reading 1 (Academics +2, 1 note)
+  * Talk to Fuuka by the 2F bookshelf
 ---
 #### Fri 6/19
 ##### After School
 * Emperor Rank 3
 ##### Evening
 * Lovers Cooking 1
+  * Talk to Yukari at the counter
 ---
 #### Sat 6/20
 ##### Evening
 * Devil Flag 0.2
 * Akihiko DVDs 1 (Courage +2, 1 note)
+  * Talk to Akihiko by the TV
 * **Courage Lv. 6**
 * Achievement: Specialist
 ---
@@ -712,6 +723,7 @@
 * Priestess Rank 1
 ##### Evening
 * Empress Cooking 1
+  * Talk to Mitsuru at the counter
 ---
 #### Tue 6/23
 ##### After School
@@ -800,12 +812,14 @@
 ##### Daytime
 * TV Shopping: YABA Chocolate x3, Doctor in Jelly x3 (Y3980)
 * Strength Date 8.5 (Needs matching persona): 45/40 points to next rank
+  * Accept invite on phone
   * Choice 3: Will you wipe it off for me? (+34, 3 notes)
 ##### Evening
 * Gamble Fortune
 * Tartarus
   * Need at least (Y20000) for social stats
   * Rescue 3 missing people
+  * Collect rewards the next day from Police Station after rescuing people
 * Achievement: Extracurricular Excellence
 ---
 #### Mon 7/6
@@ -844,8 +858,8 @@
 * Request #78: I'd like to visit Iwatodai Station.
   * Unlocks after completing 30 requests
 ##### After School
-* Aohige Pharmacy > Supreme Cat Food x4 (Y2800)
-* Feed the cat 1
+* Aohige Pharmacy > Cat Food x4 (Y2800)
+* Port Island Outskirts > Feed the cat 1
 * Moon Rank 5
 ##### Evening
 * Request #43: Bring me a Christmas star.
@@ -921,6 +935,7 @@
   * Requires Devil Rank 1
 * Shop at Mayoido Antiques
 * Junpei Gardening 1
+  * Talk to Junpei by the stairs
 * Unlocks an achievement once vegetables are ready to harvest
 * Achievement: Eat Your Veggies, Peas!
 ---
@@ -928,13 +943,15 @@
 ##### Daytime
 * TV Shopping: Tetracone x3, Macaracone x3 (Y14800)
 * Priestess Fortune (Needs matching persona): 45/35 points to next rank
+  * Naganaki Shrine > Right of Main Shrine > Draw fortune
+  * Fuuka Yamagishi
 ##### Evening
 * Tower Rank 1
 ---
 #### Mon 7/20
 ##### Daytime
 * Marine Day
-* Collect souvenirs for Elizabeth
+* Collect souvenirs on beach for Elizabeth
   * Seashell
   * Seaweed
   * Driftwood
@@ -964,6 +981,7 @@
   * Power Incense II, Guard Incense II, Magic Incense II, Speed Incense II
   * Mega Master Band
 * Akihiko Link 2 (Charm +2)
+  * Iwatodai Station > Talk to Akihiko
   * Luxe Tropical Fruit
   * Imperial Sweets Set
   * Fresh Juice
@@ -982,10 +1000,12 @@
 * Hermit Rank 10
 ##### Evening
 * Empress Reading 1 (Academics +2, 1 note)
+  * Talk to Mitsuru by the 2F bookshelf
 ---
 #### Mon 7/27
 ##### Evening
 * Aeon Gardening 1
+  * Talk to Aigis by the stairs
 ---
 #### Tue 7/28
 ##### Evening
@@ -1020,23 +1040,26 @@
 * Hanged Rank 7
 ##### Evening
 * Junpei Reading 1 (Courage +2, 1 note)
+  * Talk to Junpei by the 2F bookshelf
 ---
 #### Tue 8/4
 ##### Daytime
 * Priestess Date 8.5: 68/40 points to next rank
+  * Accept invite on phone
   * Choice 1: Yeah I think so. (+34, 3 notes)
 ##### Evening
 * Gamble Fortune
 * Tartarus
   * Rescue 2 missing people
-  * Obtain Nihil Blade x1, Black Quartz x5
+  * Obtain Nihil Blade x1
+  * Obtain Black Quartz x5
   * Use Aigis's Theurgy
   * Monad Doors unlocked
   * Clear 10 of them to unlock an achievement
 * Achievement: Glimpse of the Depths
 * Request #25: Fusion Series #2: Chariot, Mithras
   * Have a Mithras at level 26 or higher
-  * Jack-o'-Lantern	x Tam Lin + SL Bonus EXP = Mithras Lv. 26
+  * Jack-o'-Lantern x Tam Lin + SL Bonus EXP = Mithras Lv. 26
 * Request #30: Retrieve the fourth old document.
   * Yabbashah I 92 > Chest > Old Document 04
 * Request #34: Create a Persona with Torrent Shot.
@@ -1054,6 +1077,7 @@
 #### Wed 8/5
 ##### Daytime
 * Chariot Date 8.5: 41/22 points to next rank
+  * Accept invite on phone
   * Choice 2: For your nephew. (+34, 3 notes)
 ##### Evening
 * You're the Answer (Y3000) (Academics +4, 2 notes)
@@ -1095,7 +1119,7 @@
 * Request #79: I'd like to visit Naganaki Shrine.
   * Unlocks after completing 45 requests
 ##### Daytime
-* Pray at shrine 1
+* Naganaki Shrine > Main Shrine > Pray at shrine 1
 * Moon Rank 7
 ##### Evening
 * Koromaru Joins
@@ -1106,8 +1130,9 @@
 * TV Shopping: Isotope Soda x10, Mad Bull x20 (Y3980)
 * Pray at shrine 2
 * Junpei Link 2 (Charm +2)
+  * Iwatodai Strip Mall 1F > Talk to Junpei
 ##### Evening
-* Magician Walk
+* Koromaru > Magician Walk
 ---
 #### Mon 8/10
 ##### All Day
@@ -1148,18 +1173,21 @@
 * Request #54: Attempt a hundred shrine visits.
   * Report back to Elizabeth
 * Magician Movies (Courage +4, 2 notes)
+  * Accept invite on phone
 ##### Evening
 * Junpei Reading 2 (Courage +2, 1 note)
 ---
 #### Tue 8/18
 ##### Daytime
 * Temperance Movies (Academics +4, 2 notes)
+  * Accept invite on phone
 ##### Evening
 * Devil Rank 4
 ---
 #### Wed 8/19
 ##### Daytime
 * Fortune Movies (Charm +4, 2 notes)
+  * Accept invite on phone
 ##### Evening
 * You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
@@ -1173,36 +1201,42 @@
 #### Fri 8/21
 ##### Daytime
 * Strength Movies (Courage +4, 2 notes)
+  * Accept invite on phone
 ##### Evening
 * Tower Rank 6
 ---
 #### Sat 8/22
 ##### Daytime
 * Chariot Movies (Courage +4, 2 notes)
+  * Accept invite on phone
 ##### Evening
 * Hierophant Walk
 ---
 #### Sun 8/23
 ##### Daytime
 * Justice Movies (Charm +4, 2 notes)
+  * Accept invite on phone
 ##### Evening
 * Akihiko Walk
 ---
 #### Mon 8/24
 ##### Daytime
 * Lovers Movies (Academics +4, 2 notes)
+  * Invite Yukari to movies
 ##### Evening
 * Junpei Reading 3 (Courage +2, 1 note)
 ---
 #### Tue 8/25
 ##### Daytime
 * Akihiko Movies (Courage +4, 2 notes)
+  * Invite Akihiko to movies
 ##### Evening
 * Devil Rank 5
 ---
 #### Wed 8/26
 ##### Daytime
 * Koromaru Movies (Courage +4, 2 notes)
+  * Take Koromaru to movies
 ##### Evening
 * You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
@@ -1210,6 +1244,7 @@
 ##### Daytime
 * **Put Lukewarm Taiyaki in fridge**
 * Junpei Movies (Charm +4, 2 notes)
+  * Invite Junpei to movies
 ##### Evening
 * Junpei Walk
 ---
@@ -1218,6 +1253,7 @@
 * TV Shopping: Soul Spinach Sprout x2, Buff Potato Sprout x3 (Y2980)
 * Check fridge > Chilled Taiyaki
 * Aeon Movies (Academics +4, 2 notes)
+  * Invite Aigis to movies
 ##### Evening
 * Ken Joins
 * Tower Rank 7
@@ -1225,6 +1261,7 @@
 #### Sat 8/29
 ##### Daytime
 * Priestess Movies (Charm +4, 2 notes)
+  * Invite Fuuka to movies
 ##### Evening
 * Fuuka Walk
 ---
@@ -1232,6 +1269,7 @@
 ##### Daytime
 * TV Shopping: Fierce Sutra x3, Depleting Sutra x3 (Y9800)
 * Empress Movies (Academics +4, 2 notes)
+  * Invite Mitsuru to movies
 * **Academics Lv. 5**
 ##### Evening
 * Mitsuru Walk
@@ -1239,15 +1277,17 @@
 #### Mon 8/31
 ##### Daytime
 * Ken Movies (Courage +4, 2 notes)
+  * Invite Ken to movies
 ##### Evening
 * Koromaru DVDs 1 (Academics +2, 1 note)
+  * Koromaru by the TV
 
 ### September
 #### Tue 9/1
 ##### Class
 * Choice 2: Resistance. (Charm +2, 1 note)
 ##### After School
-* Nurse Lecture
+* Nurse's Office > Nurse Lecture 1
 * Temperance Rank 2
 ##### Evening
 * Devil Rank 6
@@ -1256,18 +1296,23 @@
 ##### Evening
 * Shinjiro Joins
 * Aeon Reading 1 (Charm +2, 1 note)
+  * Talk to Aigis by the 2F bookshelf
 ---
 #### Thu 9/3
 ##### After School
-* Nurse Lecture
+* Nurse's Office > Nurse Lecture 2
 * Lovers Rank 2
 ##### Evening
 * Shinjiro Cooking 1
+  * Talk to Shinjiro at the counter
 ---
 #### Fri 9/4
 ##### After School
 * Nurse Lecture
+* Nurse's Office > Nurse Lecture 3
 * Shinjiro Link 1 (Courage +2)
+  * Gekkoukan Faculty Hallway > Talk to Mitsuru
+  * Port Island Outskirts > Talk to Shinjiro
 ##### Evening
 * Gamble Fortune
 * Tartarus
@@ -1303,18 +1348,23 @@
 * Priestess Rank 9 Platonic (Needs matching persona)
 ##### Evening
 * Shinjiro Gardening 1
+  * Talk to Shinjiro by the stairs
 ---
 #### Tue 9/8
 ##### After School
 * Koromaru Link 1 (Charm +2)
+  * Iwatodai Dorms Front Door > Koromaru
 ##### Evening
 * Ken Link 1 (Academics +2)
+  * Iwatodai Dorms 2F > Ken's Room
 ---
 #### Wed 9/9
 ##### After School
 * Koromaru Link 2 (Courage +2)
+  * Iwatodai Dorms Front Door > Koromaru
 ##### Evening
 * Priestess Gardening 1: 53/55 points to next rank
+  * Talk to Fuuka by the stairs
 ---
 #### Thu 9/10
 ##### Elizabeth Requests
@@ -1347,6 +1397,7 @@
 * Temperance Rank 3
 ##### Evening
 * Ken DVDs 1 (Courage +2, 1 note)
+  * Talk to Ken by the TV
 ---
 #### Sat 9/12
 ##### Class
@@ -1362,6 +1413,7 @@
 * **Put Lukewarm Taiyaki in fridge**
 * TV Shopping: Emergency Vest, First Aid Kit M x5 (Y24800)
 * Shinjiro Link 2 (Charm +2)
+  * Port Island Outskirts > Talk to Shinjiro
 ##### Evening
 * Empress Reading 3 (Academics +2, 1 note)
 ---
@@ -1377,6 +1429,7 @@
 #### Tue 9/15
 ##### After School
 * Koromaru Link 3 (Koromaru Ag +3)
+  * Iwatodai Dorms Front Door > Koromaru
 ##### Evening
 * Priestess Gardening 2: 55/55 points to next rank
 ---
@@ -1391,6 +1444,7 @@
 * Justice Rank 5
 ##### Evening
 * Koromaru Brushing 1
+  * Koromaru by the stairs
 ---
 #### Fri 9/18
 ##### After School
@@ -1408,6 +1462,7 @@
 ##### Daytime
 * Respect for the Aged Day
 * Shinjiro Link 3 (Academics +2)
+  * Port Island Outskirts > Talk to Shinjiro
 ##### Evening
 * Koromaru DVDs 2 (Academics +2, 1 note)
 ---
@@ -1415,13 +1470,17 @@
 ##### Daytime
 * National Holiday
 * Lovers Fortune: 22/15 points to next rank
+  * Naganaki Shrine > Right of Main Shrine > Draw fortune
+  * Yukari Takeba
 ##### Evening
 * Ken Link 2 (Courage +2)
+  * Iwatodai Dorms 2F > Ken's Room
 ---
 #### Wed 9/23
 ##### Daytime
 * Autumnal Equinox
 * Shinjiro Movies (Courage +4, 2 notes)
+  * Invite Shinjiro to movies
 ##### Evening
 * Shinjiro Walk
 ---
@@ -1430,6 +1489,7 @@
 * Stay awake (Academics +2, 1 note)
 ##### After School
 * Shinjiro Link 3.5
+  * Gekkoukan Faculty Hallway > Talk to Mitsuru
   * Any
   * Any
   * Any
@@ -1459,6 +1519,7 @@
 * TV Shopping: R/C Geta, Hyper-Metal Robot (Y19800)
 * Check fridge > Chilled Taiyaki, YABA Chocolate
 * Shinjiro Link 4 (Courage +2)
+  * Port Island Outskirts > Talk to Shinjiro
 ##### Evening
 * Akihiko Walk
 ---
@@ -1533,8 +1594,7 @@
 #### Mon 10/5
 ##### Evening
 * Shinjiro Link 5
-  * Enter his room
-  * Check his desk drawer
+  * Iwatodai Dorms 2F > Shinjiro's Room > Desk Drawer
 * Aigis Walk
 ---
 #### Tue 10/6
@@ -1549,6 +1609,7 @@
 ##### After School
 * Faculty Office > Ono Lecture (Academics +2, 1 note)
 * Koromaru Link 4 (Courage +2)
+  * Iwatodai Dorms Front Door > Koromaru
 ##### Evening
 * Devil Rank 8
 * Death Rank 8: Auto
@@ -1564,10 +1625,15 @@
   * Deadline: Sun 11/1
   * Iwatodai Dorms > Talk to Ikutsuki
   * Reward: Garnet x5
+* Club Escapade Vendor
+  * Buy up to Turquoise x10
+  * Buy Platinum Brooch
+* Elizabeth > Talk
+  * Trade Platinum Brooch for Master Incense
 * Mayoido Antiques
   * Trade Garnet x5, Turquoise x10 for Invigorate 3
 * Club Escapade > Assassin Site Note (Y8000)
-  * Ambush guarnteed to Distress foes
+  * Ambush guaranteed to Distress foes
 ---
 #### Thu 10/8
 ##### After School
@@ -1650,6 +1716,7 @@
 * Lovers Rank 8 (Needs matching persona)
 ##### Evening
 * Akihiko Link 3 (Charm +2)
+  * Iwatodai Station > Talk to Akihiko
 ---
 #### Tue 10/20
 ##### After School
@@ -1736,7 +1803,9 @@
 * Gamble Fortune
 * Tartarus
   * Rescue 3 missing people
-  * Obtain Quality Nihil Blade x1, Emerald x13, Silver Quartz x2
+  * Obtain Quality Nihil Blade x1
+  * Obtain Emerald x13
+  * Obtain Silver Quartz x2
 * Request #70: Retrieve the seventh old document.
   * Tziah II 172 > Chest > Old Document 07
 * Request #71: Fusion Series #6: Strength, Siegfried
@@ -1765,7 +1834,7 @@
 ##### After School
 * Emperor Rank 8
 ##### Evening
-* Part-Time Master (Y8000)
+* Net Cafe > Part-Time Master (Y8000)
   * Earn more from working part-time jobs
 * Fool Rank 6: Auto
 ---
@@ -1814,16 +1883,18 @@
 * Choice 1: The Upanishads. (Charm +2, 1 note)
 ##### After School
 * Junpei Link 3 (Academics +2)
+  * Gekkoukan Classroom > Talk to Junpei
 ##### Evening
 * Star Walk
 ---
 #### Sun 11/8
 ##### Daytime
-* **Buy a White Flower**
+* **Port Island Florist > Buy a White Flower**
 * TV Shopping: Japanese Doll x2, Homunculus x2 (Y9800)
 * Sun Rank 6
 ##### Evening
 * Junpei Link 3.5
+  * Iwatodai Dorms > Talk to Junpei
 * Strength Walk
 ---
 #### Mon 11/9
@@ -1832,7 +1903,7 @@
 ##### After School
 * Ryoji Link 1: Auto (All Stats +1)
 ##### Evening
-* Work at Chagall (-Y4300) (Courage +1, Charm +1, 1 note)
+* Paulownia Mall > Work at Chagall (-Y4300) (Courage +1, Charm +1, 1 note)
 ---
 #### Tue 11/10
 ##### After School
@@ -1847,14 +1918,17 @@
 ##### Evening
 * **Put Lukewarm Taiyaki in fridge**
 * Ken Link 3 (Charm +2)
+  * Iwatodai Dorms Front Door > Talk to Ken
 ---
 #### Thu 11/12
 ##### Class
 * Choice 1: Her favorite time in winter. (Charm +2, 1 note)
 ##### After School
 * Ryoji Link 2 (All Stats +1)
+  * Gekkoukan Classroom > Talk to Ryoji
 ##### Evening
 * Check fridge > Chilled Taiyaki
+* Club Escapade > Dating Site Note x4 (Y12000)
 * Justice Dating Site: 39/30 points to next rank
   * Treasurer
 ---
@@ -1908,7 +1982,7 @@
 ---
 #### Wed 11/18
 ##### Evening
-* Talk to Ryoji and agree to hang out
+* Inn 2F > Talk to Ryoji > Agree to hang out
 ---
 #### Thu 11/19
 ##### Daytime
@@ -1940,6 +2014,7 @@
 * Sun Rank 7
 ##### Evening
 * Ken Cooking 1
+  * Talk to Ken at the counter
 ---
 #### Mon 11/23
 ##### Daytime
@@ -1993,6 +2068,7 @@
 #### Tue 12/1
 ##### After School
 * Ryoji Link 4 (All Stats +1)
+  * Gekkoukan 1F Hallway > Music Room
 ##### Evening
 * Gamble Fortune
 * Tartarus
@@ -2123,6 +2199,7 @@
 #### Sat 12/19
 ##### After School
 * Junpei Link 4 (Courage +2)
+  * Gekkoukan Classroom > Talk to Junpei
 ##### Evening
 * Magician Walk
 ---
@@ -2177,6 +2254,7 @@
 ##### Evening
 * Check fridge > Chilled Taiyaki, YABA Chocolate
 * Ken Link 4 (Makoto SP +3)
+  * Iwatodai Dorms 4F > Talk to Ken
 ---
 #### Sat 12/26
 ##### Class
@@ -2185,6 +2263,7 @@
 * Hanged Rank 9
 ##### Evening
 * Akihiko Link 4 (Makoto SP +3)
+  * Iwatodai Station > Talk to Akihiko
 ---
 #### Sun 12/27
 ##### Daytime
@@ -2270,6 +2349,7 @@
 * Request #91: Bring me a Tonbo-kiri.
   * Mayoido Antiques > Trade ??? x1, ??? x1
 * Koromaru Link 5
+  * Iwatodai Dorms Front Door > Koromaru
 ##### Evening
 * Work at Chagall (-Y5800) (Courage +1, Charm +1, 1 note)
 ---
@@ -2294,6 +2374,7 @@
 * Achievement: People Person
 ##### Evening
 * Akihiko Link 5
+  * Iwatodai Station > Talk to Akihiko
 ---
 #### Sat 1/9
 ##### After School
@@ -2330,6 +2411,7 @@
 * Aeon Rank 4
 ##### Evening
 * Takaya Link 4
+  * Club Escapade > Talk to Suspicious Man > Agree to meet
 ---
 #### Thu 1/14
 ##### After School
@@ -2342,6 +2424,7 @@
 * Stay awake (Academics +2, 1 note)
 ##### After School
 * Junpei Link 5
+  * Gekkoukan Classroom > Talk to Junpei
 ##### Evening
 * Free Time
 ---
@@ -2370,6 +2453,7 @@
 * Aeon Rank 8
 ##### Evening
 * Ken Link 5
+  * Iwatodai Dorms 4F > Talk to Ken
 ---
 #### Wed 1/20
 ##### After School
@@ -2379,7 +2463,7 @@
 ---
 #### Thu 1/21
 ##### After School
-* Revival Event
+* Revival Event: Auto
 ##### Evening
 * Free Time
 ---
