@@ -449,7 +449,7 @@
 * Exam Results: Top of Class (Charm +4, 2 notes)
 * **1st Social Link bonus: All base points x1.51 going foward**
 * **Charm Lv. 4**
-* **Fall asleep (Courage +2, 1 note)**
+* **Close your eyes (Courage +2, 1 note)**
 * Achievement: Top of the Class
 ##### After School
 * **Nurse's Office (Courage +2, 1 note)**
@@ -476,7 +476,7 @@
 ---
 #### Thu 5/28
 ##### Class
-* **Fall asleep (Courage +2, 1 note)**
+* **Close your eyes (Courage +2, 1 note)**
 ##### After School
 * **Nurse's Office (Courage +2, 1 note)**
 * Magician Rank 4
@@ -486,7 +486,7 @@
 ---
 #### Fri 5/29
 ##### Class
-* **Fall asleep (Courage +2, 1 note)**
+* **Close your eyes (Courage +2, 1 note)**
 ##### After School
 * Magician Rank 5
 ##### Evening
@@ -522,7 +522,7 @@
 ---
 #### Tue 6/2
 ##### Class
-* **Fall asleep (Courage +2, 1 note)**
+* **Close your eyes (Courage +2, 1 note)**
 ##### After School
 * Chariot Rank 6
 ##### Evening
