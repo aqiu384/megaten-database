@@ -37,19 +37,36 @@ ITEMS = [
     ('Costume',   0x8000)
 ]
 
+def load_item_descs(fname, language, offset=0):
+    codes = {}
+    with open(fname) as tsvfile:
+        col_index = next(tsvfile).strip().split('\t').index(language)
+        for i, line in enumerate(tsvfile):
+            iname = line.split('\t')[col_index].strip()
+            if iname != '未使用':
+                codes[offset + i] = iname
+    return codes
+
 def load_item_codes(language):
     codes = {}
     for fname, offset in ITEMS:
-        with open(ITEMS_DIR.format(fname)) as tsvfile:
-            col_index = next(tsvfile).strip().split('\t').index(language)
-            for i, line in enumerate(tsvfile):
-                iname = line.split('\t')[col_index].strip()
-                if iname != '未使用':
-                    codes[offset + i] = iname
+        codes.update(load_item_descs(ITEMS_DIR.format(fname), language, offset=offset))
     return codes
 
-def iterate_int_tsvfile(fname):
+def iterate_int_tsvfile(fname, skip_first=True):
     with open(fname) as tsvfile:
         headers = next(tsvfile).strip().split('\t')
-        for line in tsvfile:
-            yield { headers[i]: int(x) for i, x in enumerate(line.split('\t')) }
+        if skip_first:
+            next(tsvfile)
+        if headers[0] == 'ItemDef':
+            for line in tsvfile:
+                yield { headers[i]: int(x) for i, x in list(enumerate(line.split('\t')))[1:] }
+        else:
+            for line in tsvfile:
+                yield { headers[i]: int(x) for i, x in enumerate(line.split('\t')) }
+
+def table_header(values):
+    return f"{table_row(values)}\n{table_row(['---'] * len(values))}"
+
+def table_row(values):
+    return f"| {' | '.join(values)} |"

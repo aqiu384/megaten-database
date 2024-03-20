@@ -7,14 +7,23 @@ USERS = {
     8: 'Junpei',
     16: 'Akihiko',
     32: 'Mitsuru',
+    64: 'Fuuka',
     128: 'Aigis',
     512: 'Koromaru',
     256: 'Ken',
     1024: 'Shinjiro',
     1306: 'Men',
     100: 'Women',
-    1406: 'Unisex'
+    1406: 'Unisex',
 }
+
+print(f"## Inventory")
+print('''* Inventory items may be obtained through several means
+  * Buying from the Police Station on the date they become available (Prices given in parantheses)
+  * Opening chests in Tartarus (Random chest probabilities given in parantheses)
+  * Crafting or trading from Mayoido Antiques using materials and gems
+  * Completing Elizabeth and Rescue Requests
+  * Other social activities e.g. performing well during exams''')
 
 inames = load_item_codes('en')
 shops = {}
@@ -26,11 +35,73 @@ def add_shop(name, obtain):
         shops[name] = []
     shops[name].append(obtain)
 
+def pluralize(amount):
+    return ' x' + str(amount) if amount > 1 else ''
+
+def to_date(month, day):
+    return '' if month == 4 and day == 1 else f"{month}/{day}: "
+
+ranks = [str(x) for x in range(1, 11)] + ['J', 'Q', 'K']
+data_file = 'Content/Xrd777/Battle/Tables/Shuffle/DatShuffleSwordArcanaDataAsset.tsv'
+for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
+    name = inames[line['ItemtID']]
+    add_shop(name, f"Sword {ranks[line['RankID']]} ({line['Prob']}%)")
+
+data_file = 'Content/Xrd777/UI/Tables/DatItemShopLineupDataAsset.tsv'
+for line in iterate_int_tsvfile(data_file, skip_first=False):
+    name = inames[line['Value']]
+    available = f"{to_date(line['SaleMonth'], line['SaleDay'])}Pharmacy"
+    add_shop(name, available + ' (Y{})')
+
+data_file = 'Content/Xrd777/UI/Tables/DatWeaponShopLineupDataAsset.tsv'
+for line in iterate_int_tsvfile(data_file, skip_first=False):
+    name = inames[line['Value']]
+    available = f"{to_date(line['SaleMonth'], line['SaleDay'])}Police"
+    add_shop(name, available + ' (Y{})')
+
+SHOPS = [
+    '???', 'Florist', 'School', 'Octopia',
+    'Dorms 2F', 'Dorms 3F', 'Port Island', 'Iwatodai 3F',
+    'Iwatodai Station', 'Kyoto 1F', 'Kyoto 2F', 'Kyoto 3F',
+    'Beef Bowl', 'Net Cafe', 'URL Seller', 'Shop15'
+]
+data_file = 'Content/Xrd777/UI/Tables/SimpleShop/SimpleShopDataAsset.tsv'
+for line in iterate_int_tsvfile(data_file, skip_first=False):
+    name = inames[line['ItemID']]
+    available = to_date(line['LiftMonth'], line['LiftDays']) + SHOPS[line['ShopID']]
+    add_shop(name, available + ' (Y{})')
+
+data_file = 'Content/Xrd777/UI/Tables/DatAntiqueShopLineupDataAssetCombineResults.tsv'
+for line in iterate_int_tsvfile(data_file, skip_first=False):
+    name = inames[line['Value']]
+    parts = [inames[line['BaseItemID']]]
+
+    for i in range(1, 4):
+        item_name = inames[line[f"TradeItemID{i}"]]
+        item_num = line[f"TradeItemNum{i}"]
+        if item_num != 0:
+            parts.append(f"{item_name}{pluralize(item_num)}")
+
+    add_shop(name, ' + '.join(parts))
+
+data_file = 'Content/Xrd777/UI/Tables/DatAntiqueShopLineupDataAssetTradeData.tsv'
+for line in iterate_int_tsvfile(data_file, skip_first=False):
+    name = inames[line['Value']]
+    parts = []
+
+    for i in range(1, 4):
+        item_name = inames[line[f"TradeItemID{i}"]]
+        item_num = line[f"TradeItemNum{i}"]
+        if item_num != 0:
+            parts.append(f"{item_name}{pluralize(item_num)}")
+
+    add_shop(name, f"{to_date(line['SaleMonth'], line['SaleDay'])}{' + '.join(parts)}")
+
 data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldDungeonTBoxItem.tsv'
-chests = [f"{inames[x['itemID']]}{' x' + str(x['itemNum']) if x['itemNum'] > 1 else ''}" for x in iterate_int_tsvfile(data_file, skip_first=False)]
+chests = [(inames[x['itemID']], pluralize(x['itemNum'])) for x in iterate_int_tsvfile(data_file, skip_first=False)]
 
 data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldDungeonTBoxPac.tsv'
-for line in iterate_int_tsvfile(data_file):
+for line in iterate_int_tsvfile(data_file, skip_first=False):
     pacID = line['pacID']
     if pacID not in packs:
         packs[pacID] = []
@@ -46,9 +117,8 @@ with open(data_file) as tsvfile:
             if pack_id == 0:
                 continue
             for pack in packs[pack_id]:
-                chance = f"{floor} {chest_types[i]} ({pack[1]}%)"
-                add_shop(pack[0], chance)
-
+                chance = f"{floor} {chest_types[i]}{pack[0][1]} ({pack[1]}%)"
+                add_shop(pack[0][0], chance)
 
 data_file = 'walkthrough/chests-set.tsv'
 with open(data_file) as tsvfile:
@@ -65,36 +135,18 @@ with open(data_file) as tsvfile:
                     add_shop(name, floor)
 
 data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldMailOrderTable.tsv'
-for line in iterate_int_tsvfile(data_file):
+for line in iterate_int_tsvfile(data_file, skip_first=False):
     for letter in 'AB':
         name = inames[line[f"Item{letter}_ID"]]
-        available = f"TV Shopping {line['BuyMonth']}/{line['BuyDay']}"
-        add_shop(name, f"{available} (Y{line['Price']})")
+        num = line[f"Item{letter}_Num"]
+        add_shop(name, f"{to_date(line['BuyMonth'], line['BuyDay'])}TV Shopping{pluralize(num)} (Y{line['Price']})")
 
 data_file = 'Content/Xrd777/UI/Tables/DisappearDataAsset.tsv'
-for line in iterate_int_tsvfile(data_file):
+for line in iterate_int_tsvfile(data_file, skip_first=False):
     name = inames[line['AwardItemID']]
-    available = f"{line['StartMonth']}/{line['StartDays']} Rescue Reward"
+    num = line['AwardItemNum']
+    available = f"{to_date(line['StartMonth'], line['StartDays'])}Rescue Reward{pluralize(num)}"
     add_shop(name, available)
-
-data_file = 'Content/Xrd777/UI/Tables/DatWeaponShopLineupDataAsset.tsv'
-for line in iterate_int_tsvfile(data_file):
-    name = inames[line['Value']]
-    available = f"Police {line['SaleMonth']}/{line['SaleDay']}"
-    add_shop(name, available + ' (Y{})')
-
-data_file = 'Content/Xrd777/UI/Tables/DatAntiqueShopLineupDataAssetCombineResults.tsv'
-for line in iterate_int_tsvfile(data_file):
-    name = inames[line['Value']]
-    parts = [inames[line['BaseItemID']]]
-
-    for i in range(1, 4):
-        item_name = inames[line[f"TradeItemID{i}"]]
-        item_num = line[f"TradeItemNum{i}"]
-        if item_num != 0:
-            parts.append(f"{item_name}{' x' + str(item_num) if item_num > 1 else ''}")
-
-    add_shop(name, ' + '.join(parts))
 
 data_file = 'Content/Xrd777/UI/Facility/BMD_Quest.tsv'
 with open(data_file) as tsvfile:
@@ -110,12 +162,11 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
     if line['RewardItemID'] not in inames:
         continue
     name = inames[line['RewardItemID']]
-    add_shop(name, requests[i])
+    add_shop(name, f"{requests[i]}{pluralize(line['RewardItemNum'])}")
 
 for name, obtain in shops.items():
     shops[name] = ', '.join(obtain)
 
-idescs = load_item_descs('Content/Xrd777/Help/BMD_ItemWeaponHelp.tsv', 'en')
 ieffects = load_item_descs('Content/Xrd777/Help/BMD_ItemAddEffectHelp.tsv', 'en')
 ielems = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatAttrNameDataAsset.tsv', 'en')
 ieffects[0] = '-'
@@ -134,12 +185,10 @@ def summarize_stats(stats):
             parts.append(f"{STATS[i][:2]} +{stat}")
     return ', '.join(parts)
 
+users = {}
 stats = ['SellPrice', 'Attack', 'Accuracy']
 header = ['Weapon', 'Sell', 'Atk', 'Acc', 'Stats', 'Elem', 'Skill', 'Acquisition']
-users = {}
 data_file = 'Content/Xrd777/UI/Tables/DatItemWeaponDataAsset.tsv'
-print(f"# Persona 3 Reload")
-print(f"## Inventory")
 print(f"### Weapons")
 for i, line in enumerate(iterate_int_tsvfile(data_file)):
     i += 1
@@ -148,7 +197,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
         continue
 
     parts = [name] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
-    parts += [summarize_stats(list(line[x] for x in STATS)), ielems[line['AttrID']], ieffects[line['SkillID']]] # idescs[i]
+    parts += [summarize_stats(list(line[x] for x in STATS)), ielems[line['AttrID']], ieffects[line['SkillID']]]
     parts.append(shops.get(name, '-').format(line['Price']))
 
     user = line['EquipID']
@@ -176,7 +225,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
         continue
 
     parts = [name, USERS[line['EquipID']]] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
-    parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]] # idescs[i]
+    parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]]
     parts.append(shops.get(name, '-').format(line['Price']))
     lines.append(parts)
 lines.sort(key=lambda x: int(x[3]))
@@ -196,7 +245,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
         continue
 
     parts = [name, USERS[line['EquipID']]] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
-    parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]] # idescs[i]
+    parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]]
     parts.append(shops.get(name, '-').format(line['Price']))
     lines.append(parts)
 lines.sort(key=lambda x: int(x[3]))
@@ -216,8 +265,109 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
         continue
 
     parts = [name] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
-    parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]] # idescs[i]
+    parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]]
     parts.append(shops.get(name, '-').format(line['Price']))
+    lines.append(parts)
+for line in lines:
+    print(table_row(line))
+
+lines = []
+header = ['Costume', 'User', 'Acquisition']
+data_file = 'Content/Xrd777/UI/Tables/DatItemCostumeDataAsset.tsv'
+print(f"### Costumes")
+print(table_header(header))
+for i, line in list(enumerate(iterate_int_tsvfile(data_file)))[:88]:
+    i += 1
+    name = inames.get(i + 0x8000, '')
+    if name == '':
+        continue
+
+    parts = [name, USERS[line['EquipID']], shops.get(name, '-')]
+    lines.append(parts)
+for line in lines:
+    print(table_row(line))
+
+lines = []
+header = ['Card', 'Acquisition']
+data_file = 'Content/Xrd777/UI/Tables/DatItemSkillcardDataAsset.tsv'
+print(f"### Skill Cards")
+print(table_header(header))
+for i, line in enumerate(iterate_int_tsvfile(data_file)):
+    i += 1
+    name = inames.get(i + 0x7000, '')
+    if name == '':
+        continue
+
+    parts = [name, shops.get(name, '-')]
+    lines.append(parts)
+for line in lines:
+    print(table_row(line))
+
+MATERIAL_TYPES = {
+    2097152: 'Base Models',
+    32768: 'Gems',
+    4194304: 'Heart Items',
+    65536: 'Junk'
+}
+
+users = {}
+header = ['Material', 'Acquisition']
+data_file = 'Content/Xrd777/UI/Tables/DatItemMaterialDataAsset.tsv'
+print(f"### Materials")
+for i, line in enumerate(iterate_int_tsvfile(data_file)):
+    i += 1
+    name = inames.get(i + 0x6000, '')
+    if name == '':
+        continue
+
+    parts = [name, shops.get(name, '-').replace('{}', str(line['Price']))]
+    user = line['ItemType']
+    if user not in users:
+        users[user] = []
+    users[user].append(parts)
+
+for i, user in MATERIAL_TYPES.items():
+    print(f"#### {user}")
+    print(table_header(header))
+    for line in users[i]:
+        print(table_row(line))
+
+users = {}
+header = ['Item', 'Effect', 'Acquisition']
+idescs = load_item_descs('Content/Xrd777/Help/BMD_ItemCommonHelp.tsv', 'en')
+data_file = 'Content/Xrd777/UI/Tables/DatItemCommonDataAsset.tsv'
+print(f"### Consumables")
+for i, line in enumerate(iterate_int_tsvfile(data_file)):
+    i += 1
+    name = inames.get(i + 0x4000, '')
+    if name == '' or name == 'Money Distributor' or name == 'Item Distributor':
+        continue
+
+    parts = [name, idescs[i], shops.get(name, '-').replace('{}', str(line['Price']))]
+    user = line['UsePlaceID']
+    if user not in users:
+        users[user] = []
+    users[user].append(parts)
+
+for user in users:
+    print(f"#### {user}")
+    print(table_header(header))
+    for line in users[user]:
+        print(table_row(line))
+
+lines = []
+header = ['Item', 'Effect', 'Acquisition']
+idescs = load_item_descs('Content/Xrd777/Help/BMD_ItemEvitemHelp.tsv', 'en')
+data_file = 'Content/Xrd777/UI/Tables/DatItemEvitemDataAsset.tsv'
+print(f"### Key Items")
+print(table_header(header))
+for i, line in enumerate(iterate_int_tsvfile(data_file)):
+    i += 1
+    name = inames.get(i + 0x5000, '')
+    if name == '':
+        continue
+
+    parts = [name, idescs[i], shops.get(name, '-')]
     lines.append(parts)
 for line in lines:
     print(table_row(line))
