@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-from shared import save_ordered_demons
+from shared import save_ordered_demons, load_item_descs, load_item_codes, iterate_int_tsvfile
 
-MATERIAL_OFFSET = 0x6000
-NAMES = []
 RESISTS = {
     20: '-',
     256: 'n',
@@ -12,51 +10,44 @@ RESISTS = {
     4096: 's'
 }
 
-for fname in ['race', 'inherit', 'skill', 'material']:
-    with open(f"en-names/{fname}-names.tsv") as tsvfile:
-        next(tsvfile)
-        NAMES.append([x.split('\t')[0].strip() for x in tsvfile])
+FNAME = 'Content/Xrd777/Blueprints/common/Names/Dat{}DataAsset.tsv'
 
-RACES, INHERITS, SKILLS, MATERIALS = NAMES
-INCLUDED = []
-DEMONS = {}
+ITEMS = load_item_codes('en')
+DEMONS = { x: { 'name': y } for x, y in load_item_descs(FNAME.format('PersonaName'), 'en', max_flag=1).items() }
+RACES = load_item_descs(FNAME.format('Race'), 'en')
+INHERITS = load_item_descs(FNAME.format('InheritType'), 'en')
+SKILLS = load_item_descs(FNAME.format('SkillName'), 'en')
 
-with open('en-names/persona-names.tsv') as tsvfile:
-    next(tsvfile)
-    for line in tsvfile:
-        dname, included = line.split('\t')
-        INCLUDED.append(dname if 0 < int(included) else '')
+def update_stats(entry, line):
+    entry.update({
+        'race': RACES[line['race']],
+        'lvl': line['level'],
+        'stats': [line[f"params{x}"] for x in range(1, 6)],
+        'inherits': INHERITS[line['succession']]
+    })
+    return entry
 
-def load_stats(dname, parts):
-    _, race, lvl = parts[:3]
-    stats = parts[3:8]
-    _, inherits, _, _ = parts[8:]
+def update_resists(entry, line):
+    resists = [RESISTS[line[f"attr{x}"]] for x in range(1, 11)]
+    resists = resists[:7] + resists[8:] + resists[7:8]
+    entry['resists'] = ''.join(resists)
+    return entry
 
-    DEMONS[dname] = {
-        'race': RACES[race],
-        'lvl': lvl,
-        'stats': stats,
-        'inherits': INHERITS[inherits]
-    }
-
-def load_resists(dname, parts):
-    resists = [RESISTS[x] for x in parts]
-    resists = resists[:7] + resists[8:10] + resists[7:8]
-    DEMONS[dname]['resists'] = ''.join(resists)
-
-def load_skills(dname, parts):
-    dlvl = DEMONS[dname]['lvl']
+def update_skills(entry, line):
+    dlvl = entry['lvl']
     learned = {}
     counter = 1
+    entry['skills'] = learned
 
-    for i in range(5, len(parts), 3):
-        slvl, _, s_id = parts[i:i + 3]
+    for i in range(1, 17):
+        s_id = line[f"skillId{i}"]
+        slvl = line[f"skillLevel{i}"]
 
         if s_id < 1:
             continue
-        if 2000 < s_id:
-            DEMONS[dname]['heart'] = MATERIALS[s_id - MATERIAL_OFFSET]
-            DEMONS[dname]['heartlvl'] = slvl + dlvl
+        if 0x6000 < s_id:
+            entry['heart'] = ITEMS[s_id]
+            entry['heartlvl'] = slvl + dlvl
             continue
         if slvl == 0:
             slvl = counter / 10
@@ -66,21 +57,27 @@ def load_skills(dname, parts):
 
         learned[SKILLS[s_id]] = slvl
 
-    DEMONS[dname]['skills'] = learned
+    return entry
 
-PARSERS = [
-    ('stats', load_stats),
-    ('resists', load_resists),
-    ('growths', load_skills)
+UPDATERS = [
+    ('Persona', update_stats),
+    ('PersonaAffinity', update_resists),
+    ('PersonaGrowth', update_skills)
 ]
 
-for fname, parser in PARSERS:
-    with open(f"fusion/persona-{fname}.tsv") as tsvfile:
-        next(tsvfile)
-        for i, line in enumerate(tsvfile):
-            parts = [int(x) for x in line.split()]
-            dname = INCLUDED[i]
-            if dname != '':
-                parser(dname, parts)
+FNAME = 'Content/Xrd777/Battle/Tables/Dat{}DataAsset.tsv'
+
+for fname, updater in UPDATERS:
+    for i, line in enumerate(iterate_int_tsvfile(FNAME.format(fname), skip_first=False)):
+        if i in DEMONS:
+            updater(DEMONS[i], line)
+
+for line in iterate_int_tsvfile(FNAME.format('BtlMixraidRelease'), skip_first=False):
+    for letter in 'AB':
+        DEMONS[line[f"Persona{letter}ID"]]['skills'][SKILLS[line['Skill']]] = 5217
+
+DEMONS = { x['name']: x for x in DEMONS.values() }
+for demon in DEMONS.values():
+    del demon['name']
 
 save_ordered_demons(DEMONS, 'demon-data.json')

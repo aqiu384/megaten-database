@@ -290,7 +290,7 @@ for line in lines:
 
 lines = []
 stats = ['SellPrice']
-header = ['Accesory', 'Sell', 'Stats', 'Skill', 'Acquisition']
+header = ['Accessory', 'Sell', 'Stats', 'Skill', 'Acquisition']
 data_file = 'Content/Xrd777/UI/Tables/DatItemAccsDataAsset.tsv'
 print(f"### Accessories")
 print(table_header(header))
