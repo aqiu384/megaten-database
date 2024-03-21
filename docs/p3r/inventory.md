@@ -18,7 +18,7 @@
 | Fudo Masamune | 1880 | 88 | 95 | - | Slash | - | 5/10: Police (Y7500) |
 | Silver Saber | 2040 | 99 | 95 | Ma +2 | Slash | - | 6/14: Police (Y8150) |
 | Myoho Masamura | 100 | 100 | 99 | - | Slash | +Rage (high) | 11/1: TV Shopping (Y39800) |
-| SEES Sword | 100 | 108 | 95 | - | Slash | - | Theurgy Tutorial |
+| SEES Sword | 100 | 108 | 95 | - | Slash | - | 6/13: Theurgy Tutorial |
 | Steel Pipe | 100 | 110 | 85 | - | Slash | +Confuse (high) | Request #20: Bring me some potent medicine. |
 | Aroundight | 2730 | 122 | 95 | - | Slash | +10 SP | 7/18: Police (Y10900) |
 | Onimaru Kunitsuna | 100 | 125 | 90 | - | Slash | +Random ailment (low) | Arqa II 54 3-lock (100%) |
@@ -57,7 +57,7 @@
 | Shigetou-yumi | 1700 | 80 | 98 | - | Pierce | - | 5/10: Police (Y6800) |
 | Pleiades | 1930 | 89 | 98 | - | Pierce | +Reduce Fire dmg (low) | 6/14: Police (Y7700) |
 | Toy Bow | 100 | 100 | 88 | - | Pierce | +Rage (high) | Request #12: Bring me pine resin. |
-| SEES Longbow | 100 | 101 | 98 | - | Pierce | - | Theurgy Tutorial |
+| SEES Longbow | 100 | 101 | 98 | - | Pierce | - | 6/13: Theurgy Tutorial |
 | Bold Bow | 2250 | 114 | 92 | - | Pierce | +Distress (med) | Arqa II 60 3-lock (100%) |
 | Uta | 2440 | 115 | 98 | - | Pierce | +20 HP | 7/18: Police (Y9750) |
 | Gale Bow | 9600 | 120 | 88 | - | Wind | - | Ergotite Shard + Soul Sea Driblet + Onyx x10 |
@@ -93,7 +93,7 @@
 | Great Sword | 2000 | 95 | 92 | - | Slash | - | 5/10: Police (Y8000) |
 | All-Purpose Katana | 2250 | 103 | 92 | Lu +2 | Slash | - | 6/14: Police (Y9000) |
 | Juzumaru | 100 | 107 | 95 | - | Slash | +Critical rate up (low) | Arqa I 36 3-lock (100%) |
-| SEES Greatsword | 100 | 111 | 92 | - | Slash | - | Theurgy Tutorial |
+| SEES Greatsword | 100 | 111 | 92 | - | Slash | - | 6/13: Theurgy Tutorial |
 | Spiked Bat | 100 | 120 | 85 | - | Slash | +Fear (high) | Request #28: Bring me a protein not for pros. |
 | Assassin's Blade | 3000 | 126 | 92 | Ag +3 | Slash | - | 7/18: Police (Y12000) |
 | Claymore | 3300 | 128 | 90 | - | Slash | +Dizzy Boost | Nihil Blade + Amethyst x5 + Malachite x5 |
@@ -123,7 +123,7 @@
 | Sonic Fist | 1460 | 67 | 97 | - | Strike | +Fear (low) | Police (Y5850) |
 | Bladefist | 1800 | 83 | 97 | - | Strike | - | Police (Y7200) |
 | Beast Fangs | 2080 | 94 | 97 | - | Strike | +10 HP | 6/14: Police (Y8300) |
-| SEES Knuckles | 100 | 105 | 97 | - | Strike | - | Theurgy Tutorial |
+| SEES Knuckles | 100 | 105 | 97 | - | Strike | - | 6/13: Theurgy Tutorial |
 | Gusto Gloves | 2560 | 118 | 97 | - | Strike | +Resist Charm | 7/18: Police (Y10250) |
 | Thunder Knuckles | 4400 | 120 | 80 | - | Electric | - | Ergotite Shard + Soul Sea Droplet + Topaz x5 |
 | Fists of Fury | 2750 | 125 | 93 | - | Strike | +Strike Boost | Yabbashah I 91 3-lock (100%) |
@@ -690,16 +690,16 @@
 | Uniform & Armband | Ken | Initial Equipment |
 | Infiltration Outfit | Koromaru | Initial Equipment |
 | Duds & Armband | Shinjiro | Initial Equipment |
-| SEES Uniform | Makoto | Theurgy Tutorial |
-| SEES Uniform | Yukari | Theurgy Tutorial |
-| SEES Uniform | Junpei | Theurgy Tutorial |
-| SEES Uniform | Akihiko | Theurgy Tutorial |
-| SEES Uniform | Mitsuru | Theurgy Tutorial |
-| SEES Uniform | Fuuka | Theurgy Tutorial |
-| SEES Uniform | Aigis | Theurgy Tutorial |
-| SEES Uniform | Ken | Theurgy Tutorial |
-| SEES Uniform | Koromaru | Theurgy Tutorial |
-| SEES Uniform | Shinjiro | Theurgy Tutorial |
+| SEES Uniform | Makoto | 6/13: Theurgy Tutorial |
+| SEES Uniform | Yukari | 6/13: Theurgy Tutorial |
+| SEES Uniform | Junpei | 6/13: Theurgy Tutorial |
+| SEES Uniform | Akihiko | 6/13: Theurgy Tutorial |
+| SEES Uniform | Mitsuru | 6/13: Theurgy Tutorial |
+| SEES Uniform | Fuuka | 6/13: Theurgy Tutorial |
+| SEES Uniform | Aigis | 6/13: Theurgy Tutorial |
+| SEES Uniform | Ken | 6/13: Theurgy Tutorial |
+| SEES Uniform | Koromaru | 6/13: Theurgy Tutorial |
+| SEES Uniform | Shinjiro | 6/13: Theurgy Tutorial |
 | Butler Suit | Makoto | Adamah I 255 3-lock (100%) |
 | Blue Shorts | Makoto | Request #72: Fusion Series #7: Hierophant, Daisoujou |
 | Crew Neck T-Shirt | Makoto | Request #42: Please feed the cat. |
@@ -1134,7 +1134,7 @@
 | Silver Medal | 22000 | Bold Checkmate (100%), Reticent Checkmate (100%) |
 | Gold Medal | 35000 | Principled Checkmate (100%), Dutiful Checkmate (100%) |
 | Platinum Medal | 70000 | Final Checkmate (100%) |
-| Bloody Button | 100000 | - |
+| Bloody Button | 100000 | The Reaper (100%) |
 | Shaft Fragment | 2000 | Swift Axle (100%) |
 | Worldly Coin | 1000 | Wealth Hand (100%) |
 | Odd Coin | 2500 | Treasure Hand (100%), Precious Hand (100%) |
@@ -1298,9 +1298,9 @@
 | Cross of Sanity | 1450 | Mad Cyclops (25%) |
 | Cross of Resignation | 1740 | Fierce Cyclops (25%) |
 | Cross of Order | 1830 | Chaos Cyclops B (30%) |
-| Copper Coin | 800 | - |
-| Silver Coin | 1700 | - |
-| Gold Coin | 3500 | - |
+| Copper Coin | 800 | Panicked Enemy |
+| Silver Coin | 1700 | Panicked Enemy |
+| Gold Coin | 3500 | Panicked Enemy |
 | Thebel Glass Shard | 70 | Thebel Breakables |
 | Thebel Stone Piece | 80 | Thebel Breakables |
 | Thebel Lantern | 140 | Thebel Breakables |
@@ -1375,46 +1375,46 @@
 | Chewing Soul | Restores 100 SP to 1 ally. | Topaz x5 + Onyx x5, 12/10: Garnet x3 + Onyx x3, Arqa I 35 Rare (100%), Arqa II 47 Rare x2 (100%), Tziah II 170 Rare x2 (100%), Yabbashah II 2-lock (8%), Tziah I 1-lock (2%), Tziah I 2-lock (6%), Tziah II Rare (4%), Tziah II 2-lock (10%), Harabah I Rare (10%), Harabah I 1-lock (14%), Harabah II Rare (12%), Adamah I Rare (13%), Request #16: Treasure Hunting Milestone #2 x2 |
 | Precious Egg | Fully restores SP of 1 ally. | 12/10: Opal + Diamond + Ruby, Yabbashah II 112 Rare (100%), Tziah I 143 Rare (100%), Harabah I 184 Rare (100%), Harabah II 218 Rare (100%), Adamah I 246 Rare (100%), Adamah II 259 Rare x2 (100%), Harabah I 2-lock (2%), Harabah II Rare (2%), Harabah II 2-lock (4%), Adamah I Rare (3%), Adamah I 2-lock (5%), Request #47: Treasure Hunting Milestone #4 x2 |
 | Soma | Fully restores party's HP and SP. | Arqa II 60 Rare (100%), Adamah I 255 Rare (100%), Adamah II 262 Rare (100%), 1/15: Rescue Reward, Request #60: Shadow Hunting Milestone #6 |
-| Special Drink | Sports drink with tons of supplements added. Restores 10 HP to 1 ally. | - |
+| Special Drink | Sports drink with tons of supplements added. Restores 10 HP to 1 ally. | 8/2: Track Meet |
 | Soul Drop | Restores 10 SP to 1 ally. | Thebel 2-4 Common (5%), Thebel 6-10 Common (5%), Thebel 12-20 Common (5%), Request #1: Bring me a Muscle Drink. x5 |
 | Instant Curry | An elegant curry with rich flavor. Restores 50 SP to 1 ally. | 7/12: TV Shopping x2 (Y9800), 10/18: TV Shopping x5 (Y4980) |
 | Isotope Soda | A sports drink filled with chemicals. Restores 10 SP to 1 ally. | 8/9: TV Shopping x10 (Y3980) |
 | Luxe Shiruko Can | An oh-so-sweet can of red bean soup. Fully restores the SP of 1 ally. | 12/20: TV Shopping x3 (Y49800) |
 | Bead Chain EX | Fully restores HP and cures all ailments besides KO for all allies. | 12/10: Opal + Diamond + Ruby, Adamah I 2-lock (4%) |
-| Fuuka's Cookie | A cookie Fuuka made. Supposedly edible. Fully restores HP for 1 ally. | - |
-| Chocolate Cake | This cake is chock-full of chocolate. Fully restores SP for 1 ally. | - |
-| Top-Grade Grape Juice | Fragrant and sparkling. Fully restores HP and SP for all allies. | - |
-| Chicken Sauté | A dish cooked with Yukari. Restores 100 HP to all allies. | - |
-| Cabbage Cream Stew | A gem of a dish cooked with Yukari. Restores 200 HP to all allies. | - |
-| Okay Coffee | Coffee brewed with Amada. Restores 100 SP to 1 ally. | - |
-| Excellent Coffee | Top-notch coffee brewed with Amada. Restores all SP to 1 ally. | - |
-| Luxe Night Tea | Tea served by Mitsuru. Restores 200 HP to 1 ally. | - |
-| Karume-yaki | Tea time snacks made with Mitsuru. Fully restores HP to 1 ally. | - |
-| Exquisite Katsudon | Aragaki's special pork cutlet bowl. Fully restores HP to 1 ally. | - |
-| Ultimate Tempura | A dish made from the soul with Aragaki. Fully restores HP to all allies. | - |
+| Fuuka's Cookie | A cookie Fuuka made. Supposedly edible. Fully restores HP for 1 ally. | 12/24: Fuuka Christmas Date |
+| Chocolate Cake | This cake is chock-full of chocolate. Fully restores SP for 1 ally. | 12/24: Yukari Christmas Date |
+| Top-Grade Grape Juice | Fragrant and sparkling. Fully restores HP and SP for all allies. | 12/24: Mitsuru Christmas Date |
+| Chicken Sauté | A dish cooked with Yukari. Restores 100 HP to all allies. | Yukari Cooking 1-2 |
+| Cabbage Cream Stew | A gem of a dish cooked with Yukari. Restores 200 HP to all allies. | Yukari Cooking 3+ |
+| Okay Coffee | Coffee brewed with Amada. Restores 100 SP to 1 ally. | Ken Cooking 1-2 |
+| Excellent Coffee | Top-notch coffee brewed with Amada. Restores all SP to 1 ally. | Ken Cooking 3+ |
+| Luxe Night Tea | Tea served by Mitsuru. Restores 200 HP to 1 ally. | Mitsuru Cooking 1-2 |
+| Karume-yaki | Tea time snacks made with Mitsuru. Fully restores HP to 1 ally. | Mitsuru Cooking 3+ |
+| Exquisite Katsudon | Aragaki's special pork cutlet bowl. Fully restores HP to 1 ally. | Shinjiro Cooking 1-2 |
+| Ultimate Tempura | A dish made from the soul with Aragaki. Fully restores HP to all allies. | Shinjiro Cooking 3+ |
 | Decadent Tea | Tea specially prepared by Mitsuru. Fully restores all HP to 1 ally. | - |
-| Healthy Tomato | Grown solo. Restores 100 HP to 1 ally. | - |
-| Big Healthy Tomato | Grown with Fuuka. Restores 150 HP to 1 ally. | - |
-| Tiny Healthy Tomato | Grown with Junpei. Restores 50 HP to 1 ally. | - |
-| Healthy Tomato EX | Grown with Aigis. Restores 50 HP to all allies. | - |
-| Healthiest Tomato | Grown with Aragaki. Restores 200 HP to 1 ally. | - |
-| Soul Spinach | Grown solo. Restores 30 SP to 1 ally. | - |
-| Large Soul Spinach | Grown with Fuuka. Restores 50 SP to 1 ally. | - |
-| Mini Soul Spinach | Grown with Junpei. Restores 10 SP to 1 ally. | - |
-| Leafy Soul Spinach | Grown with Aigis. Restores 30 SP to all allies. | - |
-| Meaty Soul Spinach | Grown with Aragaki. Restores 100 SP to 1 ally. | - |
-| Golden Tomato | Grown solo. Restores 100 HP and 30 SP to 1 ally. | - |
-| Big Golden Tomato | Grown with Fuuka. Restores 150 HP and 50 SP to 1 ally. | - |
-| Tiny Golden Tomato | Grown with Junpei. Restores 100 HP and 10 SP to 1 ally. | - |
-| Golden Tomato EX | Grown with Aigis. Restores 100 HP and 30 SP to all allies. | - |
-| Platinum Tomato | Grown with Aragaki. Restores 200 HP and 100 SP to 1 ally. | - |
+| Healthy Tomato | Grown solo. Restores 100 HP to 1 ally. | Healthy Tomato Sprout + Makoto |
+| Big Healthy Tomato | Grown with Fuuka. Restores 150 HP to 1 ally. | Healthy Tomato Sprout + Fuuka |
+| Tiny Healthy Tomato | Grown with Junpei. Restores 50 HP to 1 ally. | Healthy Tomato Sprout + Junpei |
+| Healthy Tomato EX | Grown with Aigis. Restores 50 HP to all allies. | Healthy Tomato Sprout + Aigis |
+| Healthiest Tomato | Grown with Aragaki. Restores 200 HP to 1 ally. | Healthy Tomato Sprout + Shinjiro |
+| Soul Spinach | Grown solo. Restores 30 SP to 1 ally. | Soul Spinach Sprout + Makoto |
+| Large Soul Spinach | Grown with Fuuka. Restores 50 SP to 1 ally. | Soul Spinach Sprout + Fuuka |
+| Mini Soul Spinach | Grown with Junpei. Restores 10 SP to 1 ally. | Soul Spinach Sprout + Junpei |
+| Leafy Soul Spinach | Grown with Aigis. Restores 30 SP to all allies. | Soul Spinach Sprout + Aigis |
+| Meaty Soul Spinach | Grown with Aragaki. Restores 100 SP to 1 ally. | Soul Spinach Sprout + Shinjiro |
+| Golden Tomato | Grown solo. Restores 100 HP and 30 SP to 1 ally. | Golden Tomato Sprout + Makoto |
+| Big Golden Tomato | Grown with Fuuka. Restores 150 HP and 50 SP to 1 ally. | Golden Tomato Sprout + Fuuka |
+| Tiny Golden Tomato | Grown with Junpei. Restores 100 HP and 10 SP to 1 ally. | Golden Tomato Sprout + Junpei |
+| Golden Tomato EX | Grown with Aigis. Restores 100 HP and 30 SP to all allies. | Golden Tomato Sprout + Aigis |
+| Platinum Tomato | Grown with Aragaki. Restores 200 HP and 100 SP to 1 ally. | Golden Tomato Sprout + Shinjiro |
 | Spring Cabbage Bowl | Has a tasteful mix of sweetness and saltiness. Restores 100 HP to 1 ally. | Beef Bowl (Y800) |
 | Autumn Beef Bowl | A beef bowl with a variety of toppings. Restores 50 HP to all party members. | 9/1: Beef Bowl (Y1000) |
 | Winter Oden Bowl | The broth goes perfectly with white rice. Restores 150 HP to one ally. | 12/1: Beef Bowl (Y1200) |
 | 4biotic Pack | A set of 4 probiotic drinks. Restores 10 SP to all party members. | Iwatodai Station (Y200) |
-| Chilled Taiyaki | Chewy, chilled, and delicious. Restores 100 HP to 1 ally. | - |
-| Luxe Tropical Fruit | A fruit with a sweet aroma. Cures all ailments besides KO for 1 ally. | - |
-| Imperial Sweets Set | Sweets loved by the royal family. Restores 50 HP to all party members. | - |
+| Chilled Taiyaki | Chewy, chilled, and delicious. Restores 100 HP to 1 ally. | Lukewarm Taiyaki + Fridge |
+| Luxe Tropical Fruit | A fruit with a sweet aroma. Cures all ailments besides KO for 1 ally. | Akihiko Link 2 |
+| Imperial Sweets Set | Sweets loved by the royal family. Restores 50 HP to all party members. | Akihiko Link 2 |
 | Candy Hosui Pear | A pear that fills your mouth with sweet juice. Fully restores HP to 1 ally. | 10/11: TV Shopping x2 (Y19800) |
 | Hogyoku Apple | An apple that sparkles like the rainbow. Fully restores HP to all allies. | 12/6: TV Shopping x3 (Y14800) |
 #### Battle
@@ -1448,9 +1448,9 @@
 | Hiranya Mandarin | Cures all ailments besides KO for all allies. | 12/6: TV Shopping x2 (Y14800) |
 | Refresh Pack | Cures Distress/Confuse/Charm/\nRage/Fear for all allies. | 9/10: Pharmacy (Y8200) |
 | Vitae G Bottle | Cures Freeze/Shock/Poison/\nDown/Dizzy for all allies. | 9/10: Pharmacy (Y8200) |
-| Medicated Patch | Yuko's special compress. Revives 1 fallen ally with full HP. | - |
-| Iron-Athlete Meal | A manly meal cooked with Sanada. Increases all allies' Attack for 3 turns. | - |
-| Super-Athlete Meal | A manly meal cooked with Sanada. Increases all of 1 ally's stats for 3 turns. | - |
+| Medicated Patch | Yuko's special compress. Revives 1 fallen ally with full HP. | 12/24: Yuko Christmas Date |
+| Iron-Athlete Meal | A manly meal cooked with Sanada. Increases all allies' Attack for 3 turns. | Akihiko Cooking 1-2 |
+| Super-Athlete Meal | A manly meal cooked with Sanada. Increases all of 1 ally's stats for 3 turns. | Akihiko Cooking 3+ |
 | Trafuri Gem | Enables escape from most battles. | Turquoise x2, Thebel Rare (20%), Tziah I 133-142 Common (12%) |
 | Magic Mirror | Barrier that repels 1 (non-\nAlmighty) magic attack for 1 ally. | 10/6: Onyx x2 + Topaz x2, Tziah I 136 Rare x2 (100%), Adamah I 236 Rare x2 (100%), Yabbashah I Rare (16%), Yabbashah II Rare (22%), Tziah I Rare (14%), Tziah II Rare (15%), Tziah II 145-154 Common (3%), Tziah II 156-168 Common (3%), Harabah I 173-183 Common (8%), Harabah II Rare (19%), Harabah II 213-224 Common (3%), Adamah I Rare (16%) |
 | Attack Mirror | Barrier that repels 1 physical attack for 1 ally. | 10/6: Onyx x2 + Topaz x2, Yabbashah I Rare (16%), Yabbashah II Rare (22%), Tziah I Rare (14%), Tziah II Rare (15%), Tziah II 145-154 Common (3%), Tziah II 156-168 Common (3%), Harabah I 173-183 Common (8%), Harabah II Rare (19%), Harabah II 213-224 Common (3%), Adamah I Rare (16%), Request #34: Create a Persona with Torrent Shot. x3 |
@@ -1476,21 +1476,21 @@
 | Frigid Magatama | Deals 150 Ice damage to 1 foe. Low chance of inflicting Freeze. | Tziah I 119-123 Common (13%) |
 | Shock Magatama | Deals 150 Electric damage to 1 foe. Low chance of inflicting Shock. | Tziah I 119-123 Common (13%) |
 | Gale Magatama | Deals 150 Wind damage to 1 foe. | Tziah I 119-123 Common (13%) |
-| Tarukaja Potato | Grown solo. Raises 1 ally's Attack for 3 turns. | - |
-| Sukukaja Potato | Grown with Fuuka. Raises 1 ally's Accuracy/Evasion for 3 turns. | - |
-| Rakukaja Potato | Grown with Junpei. Raises 1 ally's Defense for 3 turns. | - |
-| Matarukaja Potato | Grown with Aigis. Raises all allies' Attack for 3 turns. | - |
-| Heat Riser Potato | Grown with Aragaki. Raises all stats of 1 ally for 3 turns. | - |
-| Nutritious Amronion | Grown solo. Cures 1 ally's Freeze/\nShock/Poison/Down/Dizzy. | - |
-| Medicinal Amronion | Grown with Fuuka. Cures Distress/\nConfuse/Charm/Rage/Fear for all allies. | - |
-| Refreshing Amronion | Grown with Junpei. Cures Distress/\nConfuse/Charm/Rage/Fear for 1 ally. | - |
-| Nourishing Amronion | Grown with Aigis. Cures all allies'\nFreeze/Shock/Poison/Down/Dizzy. | - |
-| True Amronion | Grown with Aragaki. Cures all ailments besides KO for 1 ally. | - |
-| Charged Herb | Grown solo. Next physical attack will do more than double the damage. | - |
-| Concentrated Herb | Grown with Fuuka. Next magic attack will do more than double the damage. | - |
-| Deflecting Herb | Grown with Junpei. Repels 1 physical attack for 1 ally. | - |
-| Mirror Herb | Grown with Aigis. Repels 1 magic attack for 1 ally. | - |
-| Comeback Herb | Grown with Aragaki. Revives 1 fallen ally with full HP. | - |
+| Tarukaja Potato | Grown solo. Raises 1 ally's Attack for 3 turns. | Buff Potato Sprout + Makoto |
+| Sukukaja Potato | Grown with Fuuka. Raises 1 ally's Accuracy/Evasion for 3 turns. | Buff Potato Sprout + Fuuka |
+| Rakukaja Potato | Grown with Junpei. Raises 1 ally's Defense for 3 turns. | Buff Potato Sprout + Junpei |
+| Matarukaja Potato | Grown with Aigis. Raises all allies' Attack for 3 turns. | Buff Potato Sprout + Aigis |
+| Heat Riser Potato | Grown with Aragaki. Raises all stats of 1 ally for 3 turns. | Buff Potato Sprout + Shinjiro |
+| Nutritious Amronion | Grown solo. Cures 1 ally's Freeze/\nShock/Poison/Down/Dizzy. | Amronion Sprout + Makoto |
+| Medicinal Amronion | Grown with Fuuka. Cures Distress/\nConfuse/Charm/Rage/Fear for all allies. | Amronion Sprout + Fuuka |
+| Refreshing Amronion | Grown with Junpei. Cures Distress/\nConfuse/Charm/Rage/Fear for 1 ally. | Amronion Sprout + Junpei |
+| Nourishing Amronion | Grown with Aigis. Cures all allies'\nFreeze/Shock/Poison/Down/Dizzy. | Amronion Sprout + Aigis |
+| True Amronion | Grown with Aragaki. Cures all ailments besides KO for 1 ally. | Amronion Sprout + Shinjiro |
+| Charged Herb | Grown solo. Next physical attack will do more than double the damage. | Simple Herb Sprout + Makoto |
+| Concentrated Herb | Grown with Fuuka. Next magic attack will do more than double the damage. | Simple Herb Sprout + Fuuka |
+| Deflecting Herb | Grown with Junpei. Repels 1 physical attack for 1 ally. | Simple Herb Sprout + Junpei |
+| Mirror Herb | Grown with Aigis. Repels 1 magic attack for 1 ally. | Simple Herb Sprout + Aigis |
+| Comeback Herb | Grown with Aragaki. Revives 1 fallen ally with full HP. | Simple Herb Sprout + Shinjiro |
 | Kouga Gem | Deals 100 Light damage to 1 foe. | Arqa I 37-41 Common (14%), Arqa II 44-53 Common (10%), Arqa II 55-59 Common (12%), Arqa II 61-67 Common (6%), Yabbashah I 78-81 Common (8%) |
 | Makouha Gem | Deals 50 Light damage to all foes. | Arqa I 23-27 Common (11%), Arqa I 29-33 Common (13%), Arqa II 55-59 Common (7%), Yabbashah I 78-81 Common (5%) |
 | Eiga Gem | Deals 100 Dark damage to 1 foe. | Arqa I 37-41 Common (14%), Arqa II 44-53 Common (10%), Arqa II 55-59 Common (12%), Arqa II 61-67 Common (6%), Yabbashah I 78-81 Common (8%) |
@@ -1549,29 +1549,29 @@
 | Jumbo Juice | Blended fruit juice. It's huge! Restores 10 HP to 1 ally. | Kyoto 2F (Y110), Kyoto 3F (Y110) |
 | V6 | Vegetable juice that will rev your engine. Restores 10 HP to 1 ally. | Kyoto 2F (Y110), Kyoto 3F (Y110) |
 | Super Cat Food | Hoity-toity cat food for fine felines. | Pharmacy (Y700) |
-| Potent Medicine | Drink at your own risk! | - |
-| Power Incense I | Raises a Persona's Strength by 1. Can be used on an ally's Persona. | Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%), Request #29: I want to look fashionable. x5 |
-| Power Incense II | Raises a Persona's Strength by 2. Can be used on an ally's Persona. | Onyx x5 + Topaz x5, Yabbashah I 77 Rare (100%), Adamah I 1-lock (5%) |
-| Power Incense III | Raises a Persona's Strength by 3. Can be used on an ally's Persona. | 12/10: Diamond x2 + Emerald x2, Tziah I 132 Rare (100%), Adamah I 241 Rare (100%) |
+| Potent Medicine | Drink at your own risk! | Request #20: Bring me some potent medicine. |
+| Power Incense I | Raises a Persona's Strength by 1. Can be used on an ally's Persona. | 5/25: Exam Results: Top Ten, Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%), Request #29: I want to look fashionable. x5 |
+| Power Incense II | Raises a Persona's Strength by 2. Can be used on an ally's Persona. | Onyx x5 + Topaz x5, 7/24: Exam Results: Top Ten, Yabbashah I 77 Rare (100%), Adamah I 1-lock (5%) |
+| Power Incense III | Raises a Persona's Strength by 3. Can be used on an ally's Persona. | 12/10: Diamond x2 + Emerald x2, 10/19: Exam Results: Top Ten, Tziah I 132 Rare (100%), Adamah I 241 Rare (100%) |
 | Luck Incense I | Raises a Persona's Luck by 1. Can be used on an ally's Persona. | Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%) |
-| Guard Incense I | Raises a Persona's Endurance by 1. Can be used on an ally's Persona. | Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%) |
-| Guard Incense II | Raises a Persona's Endurance by 2. Can be used on an ally's Persona. | Onyx x5 + Topaz x5, Tziah II 155 Rare (100%), Adamah I 1-lock (5%), Request #50: Perform King and I. x3 |
-| Guard Incense III | Raises a Persona's Endurance by 3. Can be used on an ally's Persona. | 12/10: Diamond x2 + Emerald x2, Harabah II 212 Rare (100%) |
+| Guard Incense I | Raises a Persona's Endurance by 1. Can be used on an ally's Persona. | 5/25: Exam Results: Top Ten, Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%) |
+| Guard Incense II | Raises a Persona's Endurance by 2. Can be used on an ally's Persona. | Onyx x5 + Topaz x5, 7/24: Exam Results: Top Ten, Tziah II 155 Rare (100%), Adamah I 1-lock (5%), Request #50: Perform King and I. x3 |
+| Guard Incense III | Raises a Persona's Endurance by 3. Can be used on an ally's Persona. | 12/10: Diamond x2 + Emerald x2, 10/19: Exam Results: Top Ten, Harabah II 212 Rare (100%) |
 | Luck Incense II | Raises a Persona's Luck by 2. Can be used on an ally's Persona. | Amethyst x5 + Topaz x5, Adamah I 1-lock (5%) |
-| Magic Incense I | Raises a Persona's Magic by 1. Can be used on an ally's Persona. | Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%) |
-| Magic Incense II | Raises a Persona's Magic by 2. Can be used on an ally's Persona. | Onyx x5 + Topaz x5, Yabbashah II 105 Rare (100%), Tziah II 161 Rare (100%), Adamah I 1-lock (5%) |
-| Magic Incense III | Raises a Persona's Magic by 3. Can be used on an ally's Persona. | 12/10: Diamond x2 + Emerald x2, Adamah I 253 Rare (100%) |
+| Magic Incense I | Raises a Persona's Magic by 1. Can be used on an ally's Persona. | 5/25: Exam Results: Top Ten, Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%) |
+| Magic Incense II | Raises a Persona's Magic by 2. Can be used on an ally's Persona. | Onyx x5 + Topaz x5, 7/24: Exam Results: Top Ten, Yabbashah II 105 Rare (100%), Tziah II 161 Rare (100%), Adamah I 1-lock (5%) |
+| Magic Incense III | Raises a Persona's Magic by 3. Can be used on an ally's Persona. | 12/10: Diamond x2 + Emerald x2, 10/19: Exam Results: Top Ten, Adamah I 253 Rare (100%) |
 | Luck Incense III | Raises a Persona's Luck by 3. Can be used on an ally's Persona. | 12/10: Opal x2 + Emerald x2 |
-| Speed Incense I | Raises a Persona's Agility by 1. Can be used on an ally's Persona. | Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%), Request #8: Experiment with fortune telling. x3 |
-| Speed Incense II | Raises a Persona's Agility by 2. Can be used on an ally's Persona. | Amethyst x5 + Topaz x5, Adamah I 1-lock (5%) |
-| Speed Incense III | Raises a Persona's Agility by 3. Can be used on an ally's Persona. | 12/10: Opal x2 + Emerald x2, Harabah I 188 Rare (100%) |
-| Master Incense | Raises all of a Persona's stats by 1. Can be used on an ally's Persona. | - |
+| Speed Incense I | Raises a Persona's Agility by 1. Can be used on an ally's Persona. | 5/25: Exam Results: Top Ten, Yabbashah I 1-lock (3%), Yabbashah II 1-lock (3%), Tziah I 1-lock (5%), Tziah II 1-lock (6%), Harabah I 1-lock (7%), Harabah II 1-lock (6%), Request #8: Experiment with fortune telling. x3 |
+| Speed Incense II | Raises a Persona's Agility by 2. Can be used on an ally's Persona. | Amethyst x5 + Topaz x5, 7/24: Exam Results: Top Ten, Adamah I 1-lock (5%) |
+| Speed Incense III | Raises a Persona's Agility by 3. Can be used on an ally's Persona. | 12/10: Opal x2 + Emerald x2, 10/19: Exam Results: Top Ten, Harabah I 188 Rare (100%) |
+| Master Incense | Raises all of a Persona's stats by 1. Can be used on an ally's Persona. | 12/21: Exam Results: Top Ten x4, Give Platinum Brooch to Elizabeth x2 |
 | Twilight Fragment | A glowing fragment of unknown origin. Cannot be sold. | Request #57: I'd like to try Aojiru. x8, Request #11: Please prevail in the Big Eater Challenge. x3, Request #40: I'd like to see a pair of Max Safety Shoes. x3, Request #19: I want Jack Frost dolls. x3, Request #75: Bring me a Sengoku-era helm. x7, Request #23: Persona Fusion Milestone x5, Request #33: Persona Fusion Milestone #2 x5, Request #48: Persona Fusion Milestone #3 x5 |
 | Umiushi Beef Bowl | A staple of the Umiushi menu. Restores 20 HP to 1 ally. | Beef Bowl (Y300) |
 | Definitely Lemonade | A fresh, lemon-based drink. A bit watery. Restores 10 HP to 1 ally. | Iwatodai Station (Y120) |
 | Happiness Water | Water that tastes like happiness. Restores 5 SP to 1 ally. | Iwatodai Station (Y120) |
 | Lukewarm Taiyaki | A white, fish-shaped cake that tastes better after cooling in the refrigerator. | School (Y200) |
-| Fresh Juice | No additives or colorings used. Tastes dense. Restores 5 SP for 1 ally. | - |
+| Fresh Juice | No additives or colorings used. Tastes dense. Restores 5 SP for 1 ally. | Akihiko Link 2 |
 | Halloween Candy | Spooky candy popular with children. Restores 20 HP to 1 ally. | 10/25: TV Shopping x50 (Y24800) |
 #### Gifts
 | Item | Effect | Acquisition |
@@ -1586,19 +1586,19 @@
 | Brand Purse | A high-end designer handbag. Might please someone. | 9/6: TV Shopping (Y9800) |
 | Teddy Bear | A cute stuffed animal. Might please someone. | Amethyst x2 + Turquoise |
 | Japanese Doll | Her hair really grows! Might please someone. | Onyx x2 + Turquoise, 11/8: TV Shopping x3 (Y9800) |
-| Kaleidoscope | Look inside and see a colorful world! Might please someone. | Amethyst x2 + Turquoise |
+| Kaleidoscope | Look inside and see a colorful world! Might please someone. | Amethyst x2 + Turquoise, Summer Festival Draw |
 | Goggle-Eyed Idol | A doll that looks eerily alive. Might please someone. | Onyx x2 + Turquoise |
-| Ganesha Bank | A piggy bank shaped like a deity. Might please someone. | - |
-| Jack Frost Doll | A doll in the likeness of an adorable mascot. Might please someone. | - |
+| Ganesha Bank | A piggy bank shaped like a deity. Might please someone. | Crane Game |
+| Jack Frost Doll | A doll in the likeness of an adorable mascot. Might please someone. | Crane Game, Summer Festival Draw |
 | Book Cover | A fancy leather sheath. Might please someone. | School (Y2000) |
-| Lucky Charm | Came with your paper fortune. Might please someone. | - |
+| Lucky Charm | Came with your paper fortune. Might please someone. | Shrine Fortune Draw (Best) |
 | White Flower | A white flower that Junpei was gazing at. Might please someone. | Florist (Y250) |
 | Hyper-Metal Robot | A robot popular among young boys. Might please someone. | 9/27: TV Shopping (Y19800) |
 | Vintage Yagen | A tool for grinding up herbs to make medicine. Might please someone. | Topaz x2 + Turquoise |
 #### Other
 | Item | Effect | Acquisition |
 | --- | --- | --- |
-| Healthy Tomato Sprout | Will grow a tomato packed full of nutrition. 10 days until fully grown. | - |
+| Healthy Tomato Sprout | Will grow a tomato packed full of nutrition. 10 days until fully grown. | Will always have one |
 | Buff Potato Sprout | Will grow a potato that enhances battle ability. 12 days until fully grown. | 5/26: Florist (Y700), 6/28: TV Shopping x3 (Y2980), 8/23: TV Shopping x3 (Y2980) |
 | Amronion Sprout | Will grow an onion that rapidly cures ailments. 10 days until fully grown. | 6/18: Florist (Y900), 6/28: TV Shopping x2 (Y2980) |
 | Soul Spinach Sprout | Will grow spinach that heals the soul. 12 days until fully grown. | 8/8: Florist (Y1200), 8/23: TV Shopping x2 (Y2980) |
@@ -1607,7 +1607,7 @@
 | Lessons in Etiquette | PC software for learning manners that will charm others. | Net Cafe (Y1200) |
 | Virtual Diet | PC software for helping you attain a beautiful body via watching videos. | Net Cafe (Y1200) |
 | Pickup Line Master | PC software for learning the arts of seduction and sweet talking. | 9/1: Net Cafe (Y4000) |
-| Digital Cram School | PC software for freely learning about a variety of subjects. | - |
+| Digital Cram School | PC software for freely learning about a variety of subjects. | Dorm Computer Tutorial |
 | Language Made Easy | PC software for learning English through pictures and images. | Net Cafe (Y1200) |
 | Sage Brain Training | PC software for cultivating your thinking power. | 9/1: Net Cafe (Y4000) |
 | Animal Othello | PC software for children. Adults need courage to play this. | Net Cafe (Y1200) |
@@ -1634,35 +1634,35 @@
 ### Key Items
 | Item | Effect | Acquisition |
 | --- | --- | --- |
-| Velvet Key | A key that unlocks the door to the Velvet Room. | - |
-| Persimmon Leaf | A fallen leaf from a young tree. | - |
-| Red Fountain Pen | A blood-red fountain pen. | - |
-| Platinum Bookmark | Proof of having defeated Elizabeth. | - |
-| Online Game | A massively multiplayer PC game called Innocent Sin Online. | - |
-| Reinstatement Form | An envelope from Mitsuru to be discretely given to Aragaki. | - |
-| Extension Form | An envelope from Aragaki. It seems he won't return to school. | - |
-| Gym Key | A key that opens the door to the gym. | - |
-| Blue Envelope | ''At the end of a great trial, the answer illuminates my path.'' | - |
-| Folded Paper | A strip of paper from Takaya, seemingly part of some research material. | - |
-| Handmade Choker | A choker Tomochika made. Enables fusion of Futsunushi. | - |
-| Fuuka's Headphones | The headphones Fuuka made. Enables fusion of Scathach. | - |
-| Motorcycle Key | The key to Mitsuru's motorcycle. Enables fusion of Alilat. | - |
-| Cheap Lighter | Proof of Odagiri's trust. Enables fusion of Odin. | - |
-| Persimmon Fruit | Fruit from Bunkichi's son's tree. Enables fusion of Kohryu. | - |
-| Yukari's Strap | Yukari's treasured cell phone strap. Enables fusion of Cybele. | - |
-| Sports Tape | A roll of sports tape from Miyamoto. Enables fusion of Thor. | - |
-| Shojo Manga | A manga by Chihiro's favorite artist. Enables fusion of Melchizedek. | - |
-| Screenshot Data | The message Maya left in the MMORPG. Enables fusion of Arahabaki. | - |
-| Award Letter | Notification of Hiraga's prize. Enables fusion of Lakshmi. | - |
-| Kids' Letter | A letter from the kids Yuko trained. Enables fusion of Atavaka. | - |
-| Bead Ring | The ring Maiko made. Enables fusion of Attis. | - |
-| Money Pouch | The pouch Bebe made. Enables fusion of Yurlungur. | - |
-| Thank-You Letter | The letter President Tanaka received. Enables fusion of Beelzebub. | - |
-| Reserve Tag | Mutatsu's bottle tag. Enables fusion of Chi You. | - |
-| Car Key | A car key received from Hayase. Enables fusion of Helel. | - |
-| Gourmet License | A license received from Suemitsu. Enables fusion of Sandalphon. | - |
-| Worn Notebook | A notebook containing Kamiki's story. Enables fusion of Asura. | - |
-| Charred Screw | A broken component from Aigis's body. Enables fusion of Metatron. | - |
+| Velvet Key | A key that unlocks the door to the Velvet Room. | 4/6: Velvet Room Introduction |
+| Persimmon Leaf | A fallen leaf from a young tree. | Hierophant Flag 0.1 |
+| Red Fountain Pen | A blood-red fountain pen. | Sun Flag 0.1 |
+| Platinum Bookmark | Proof of having defeated Elizabeth. | Request #101: Take out the ultimate adversary. |
+| Online Game | A massively multiplayer PC game called Innocent Sin Online. | 4/28: Internet Fixed Announcement |
+| Reinstatement Form | An envelope from Mitsuru to be discretely given to Aragaki. | Shinjiro Flag 0.1 |
+| Extension Form | An envelope from Aragaki. It seems he won't return to school. | Shinjiro Link 3 |
+| Gym Key | A key that opens the door to the gym. | 6/8: Full Moon Operation |
+| Blue Envelope | ''At the end of a great trial, the answer illuminates my path.'' | Complete game on Merciless |
+| Folded Paper | A strip of paper from Takaya, seemingly part of some research material. | 8/20: Takaya Link 2 |
+| Handmade Choker | A choker Tomochika made. Enables fusion of Futsunushi. | Magician Rank 10 |
+| Fuuka's Headphones | The headphones Fuuka made. Enables fusion of Scathach. | Priestess Rank 10 |
+| Motorcycle Key | The key to Mitsuru's motorcycle. Enables fusion of Alilat. | Empress Rank 10 |
+| Cheap Lighter | Proof of Odagiri's trust. Enables fusion of Odin. | Emperor Rank 10 |
+| Persimmon Fruit | Fruit from Bunkichi's son's tree. Enables fusion of Kohryu. | Hierophant Rank 10 |
+| Yukari's Strap | Yukari's treasured cell phone strap. Enables fusion of Cybele. | Lovers Rank 10 |
+| Sports Tape | A roll of sports tape from Miyamoto. Enables fusion of Thor. | Chariot Rank 10 |
+| Shojo Manga | A manga by Chihiro's favorite artist. Enables fusion of Melchizedek. | Justice Rank 10 |
+| Screenshot Data | The message Maya left in the MMORPG. Enables fusion of Arahabaki. | Hermit Rank 10 |
+| Award Letter | Notification of Hiraga's prize. Enables fusion of Lakshmi. | Fortune Rank 10 |
+| Kids' Letter | A letter from the kids Yuko trained. Enables fusion of Atavaka. | Strength Rank 10 |
+| Bead Ring | The ring Maiko made. Enables fusion of Attis. | Hanged Rank 10 |
+| Money Pouch | The pouch Bebe made. Enables fusion of Yurlungur. | Temperance Rank 10 |
+| Thank-You Letter | The letter President Tanaka received. Enables fusion of Beelzebub. | Devil Rank 10 |
+| Reserve Tag | Mutatsu's bottle tag. Enables fusion of Chi You. | Tower Rank 10 |
+| Car Key | A car key received from Hayase. Enables fusion of Helel. | Star Rank 10 |
+| Gourmet License | A license received from Suemitsu. Enables fusion of Sandalphon. | Moon Rank 10 |
+| Worn Notebook | A notebook containing Kamiki's story. Enables fusion of Asura. | Sun Rank 10 |
+| Charred Screw | A broken component from Aigis's body. Enables fusion of Metatron. | Aeon Rank 10 |
 | Vibrant Feather | Enables fusion of the Hermit Persona, Mothman. | Sky Overseer (100%) |
 | Sugar Key | Enables fusion of the Emperor Persona, King Frost. | Request #24: Create a Persona that's level 23 or above. |
 | Pentagram Stone | Enables fusion of the Fool Persona, Decarabia. | Isolated Castle (100%) |
@@ -1673,7 +1673,7 @@
 | Book of the Ancients | Enables fusion of the Hierophant Persona, Thoth. | Request #78: I'd like to visit Iwatodai Station. |
 | Tyrant's Horn | Enables fusion of the Judgement Persona, Lucifer. | Request #81: I'd like to visit your room. |
 | Phoenix Tail | Enables fusion of the Sun Persona, Houou. | Minotaur Nulla (100%) |
-| Colorless Mask | Enables fusion of the Fool Persona, Orpheus Telos. | - |
+| Colorless Mask | Enables fusion of the Fool Persona, Orpheus Telos. | Max All Social Links |
 | Old Document 01 | A classified document from ten years ago, found in Tartarus. | Thebel 22 Rare (100%) |
 | Old Document 02 | A classified document from ten years ago, found in Tartarus. | Arqa I 43 Rare (100%) |
 | Old Document 03 | A classified document from ten years ago, found in Tartarus. | Arqa II 69 Rare (100%) |
@@ -1689,54 +1689,54 @@
 | Memoir 04 | A memoir written by a researcher, found in Monad. | Harabah I P1 Rare (100%) |
 | Memoir 05 | A memoir written by a researcher, found in Monad. | Harabah II P1 Rare (100%) |
 | Memoir 06 | A memoir written by a researcher, found in Monad. | Tziah II P2 Rare (100%) |
-| Pine Resin | Hand powder used in archery. Looks like roasted soybean powder. | - |
-| Fencing Épée | A slender sword with a triangular cross section that is hard to bend. | - |
-| Glasses Wipe | Has traces of having wiped a variety of things other than glasses. | - |
-| Poinsettia | A plant with red leaves. Sometimes called a ''Christmas star.'' | - |
-| Handheld Console | Has a game called Odin Cube inserted in it. | - |
-| Fruit Knife | It's quite used, but meticulously maintained. | - |
-| Featherman R Figure | A figure of a popular hero with 40 individually moveable joints. | - |
-| Amateur Protein | Perfect for use by amateur athletes. | - |
-| Gourmet Dog Food | Expensive dog food. Can also be used to feed wolves and tigers. | - |
-| Machine Oil | Primarily used for firearms maintenance. | - |
-| Oden Juice | Filled with miniscule oden ingredients. | - |
-| Anatomical Model | A discarded human anatomic model. It's eerily realistic. | - |
-| Queen Elizabeth | Non-alcoholic, but provides a small taste of being adult. | - |
-| Mahjong Tile | A mahjong tile from the mahjong parlor. It has a drawing of a bird on it. | - |
-| Inari Sushi | Inari sushi received from an old woman. | - |
-| Kanetsugu's Helm | Replica of a Sengoku-era helm. It has the symbol for ''love'' on it. | - |
-| Gekkoukan Boogie | A CD recording of Gekkoukan Boogie. Comes with a lyrics card. | - |
-| Tanaka's Signature | A business card signed by the president of Tanaka's Amazing Commodities. | - |
-| 500-Yen Bill | An old 500-yen bill. Seems to still be useable. | - |
-| Pretty Seashell | A seashell found in Yakushima. Emits the sounds of distant waves. | - |
-| Strange Seaweed | Seaweed picked up in Yakushima. It smells intensely of the sea. | - |
-| Yakushima Wood | Driftwood from Yakushima. Has a unique shape, due to erosion. | - |
-| Small Crab | A crab found in Yakushima. Moves quickly in dark places. | - |
-| Bandage Wrap | A cloth used for treating injuries. There may be someone who needs this. | - |
-| Student Handbook | A Gekkoukan student handbook. Should be returned to its owner. | - |
-| Irresistible Catnip | One touch and they can't resist! For those wishing to befriend cats. | - |
-| Letter of Thanks | A thank-you letter regarding the rescue of a missing person. | - |
-| Christmas Present | A Christmas present from a self-proclaimed Santa. Wrapped neatly. | - |
-| True Aohige Aojiru | The Aohige Pharmacy owner's prized aojiru. Bitter yet sweet. | - |
-| Baseball Glove | A baseball glove gifted from Junpei. Enables fusion of Surt. | - |
-| Hand Wraps | Proof of recognition by Sanada. Enables fusion of Horus. | - |
-| Koromaru's Collar | A collar attached with a protective charm. Enables fusion of Byakko. | - |
-| Silver Key | Amada's commemoratory key. Enables fusion of Michael. | - |
-| Incomplete Form | Proof Aragaki thought about his future. Enables fusion of Hell Biker. | - |
-| Music Box | A music box that Ryoji left behind. Enables fusion of Saturnus. | - |
-| Fool Tarot | The Fool card will appear during Shuffle Time. | - |
-| Magician Tarot | The Magician card will appear during Shuffle Time. | - |
-| High Priestess Tarot | The High Priestess card will appear during Shuffle Time. | - |
-| Empress Tarot | The Empress card will appear during Shuffle Time. | - |
-| Emperor Tarot | The Emperor card will appear during Shuffle Time. | - |
-| Hierophant Tarot | The Hierophant card will appear during Shuffle Time. | - |
-| Lovers Tarot | The Lovers card will appear during Shuffle Time. | - |
-| Chariot Tarot | The Chariot card will appear during Shuffle Time. | - |
-| Justice Tarot | The Justice card will appear during Shuffle Time. | - |
-| Hermit Tarot | The Hermit card will appear during Shuffle Time. | - |
-| Fortune Tarot | The Fortune card will appear during Shuffle Time. | - |
-| Strength Tarot | The Strength card will appear during Shuffle Time. | - |
-| Hanged Man Tarot | The Hanged Man card will appear during Shuffle Time. | - |
+| Pine Resin | Hand powder used in archery. Looks like roasted soybean powder. | Request #12: Bring me pine resin. |
+| Fencing Épée | A slender sword with a triangular cross section that is hard to bend. | Request #27: Bring me a triangular sword. |
+| Glasses Wipe | Has traces of having wiped a variety of things other than glasses. | Request #76: Bring me a glasses wipe. |
+| Poinsettia | A plant with red leaves. Sometimes called a ''Christmas star.'' | Request #43: Bring me a Christmas star. |
+| Handheld Console | Has a game called Odin Cube inserted in it. | Request #13: Bring me a handheld game console. |
+| Fruit Knife | It's quite used, but meticulously maintained. | Request #68: Bring me a fruit knife. |
+| Featherman R Figure | A figure of a popular hero with 40 individually moveable joints. | Request #95: Bring me a Featherman R action figure. |
+| Amateur Protein | Perfect for use by amateur athletes. | Request #28: Bring me a protein not for pros. |
+| Gourmet Dog Food | Expensive dog food. Can also be used to feed wolves and tigers. | Request #94: Bring me food for a furry friend. |
+| Machine Oil | Primarily used for firearms maintenance. | Request #69: Bring me oil. |
+| Oden Juice | Filled with miniscule oden ingredients. | Request #96: I'd like to try Oden Juice. |
+| Anatomical Model | A discarded human anatomic model. It's eerily realistic. | Request #66: Bring me a giant, creepy doll. |
+| Queen Elizabeth | Non-alcoholic, but provides a small taste of being adult. | Request #56: Look for the drink with my name. |
+| Mahjong Tile | A mahjong tile from the mahjong parlor. It has a drawing of a bird on it. | Request #67: Find me a beautiful tile. |
+| Inari Sushi | Inari sushi received from an old woman. | Request #74: I'd like to try sushi. |
+| Kanetsugu's Helm | Replica of a Sengoku-era helm. It has the symbol for ''love'' on it. | Request #75: Bring me a Sengoku-era helm. |
+| Gekkoukan Boogie | A CD recording of Gekkoukan Boogie. Comes with a lyrics card. | Request #39: Let me hear music unique to Gekkoukan. |
+| Tanaka's Signature | A business card signed by the president of Tanaka's Amazing Commodities. | Devil Rank 1 |
+| 500-Yen Bill | An old 500-yen bill. Seems to still be useable. | Request #54: Attempt a hundred shrine visits. |
+| Pretty Seashell | A seashell found in Yakushima. Emits the sounds of distant waves. | Request #44: I wish to feel the ocean. |
+| Strange Seaweed | Seaweed picked up in Yakushima. It smells intensely of the sea. | Request #44: I wish to feel the ocean. |
+| Yakushima Wood | Driftwood from Yakushima. Has a unique shape, due to erosion. | Request #44: I wish to feel the ocean. |
+| Small Crab | A crab found in Yakushima. Moves quickly in dark places. | Request #44: I wish to feel the ocean. |
+| Bandage Wrap | A cloth used for treating injuries. There may be someone who needs this. | Request #58: I wish to become a straw millionaire. |
+| Student Handbook | A Gekkoukan student handbook. Should be returned to its owner. | Request #58: I wish to become a straw millionaire. |
+| Irresistible Catnip | One touch and they can't resist! For those wishing to befriend cats. | Request #58: I wish to become a straw millionaire. |
+| Letter of Thanks | A thank-you letter regarding the rescue of a missing person. | 7/5: Rescue Reward |
+| Christmas Present | A Christmas present from a self-proclaimed Santa. Wrapped neatly. | Request #97: Bring me my Christmas present. |
+| True Aohige Aojiru | The Aohige Pharmacy owner's prized aojiru. Bitter yet sweet. | Request #57: I'd like to try Aojiru. |
+| Baseball Glove | A baseball glove gifted from Junpei. Enables fusion of Surt. | Junpei Link 5 |
+| Hand Wraps | Proof of recognition by Sanada. Enables fusion of Horus. | Akihiko Link 5 |
+| Koromaru's Collar | A collar attached with a protective charm. Enables fusion of Byakko. | Koromaru Link 5 |
+| Silver Key | Amada's commemoratory key. Enables fusion of Michael. | Ken Link 5 |
+| Incomplete Form | Proof Aragaki thought about his future. Enables fusion of Hell Biker. | Shinjiro Link 5 |
+| Music Box | A music box that Ryoji left behind. Enables fusion of Saturnus. | Ryoji Link 5 |
+| Fool Tarot | The Fool card will appear during Shuffle Time. | 4/9: Full Moon |
+| Magician Tarot | The Magician card will appear during Shuffle Time. | 4/9: Full Moon |
+| High Priestess Tarot | The High Priestess card will appear during Shuffle Time. | Priestess (100%) |
+| Empress Tarot | The Empress card will appear during Shuffle Time. | Empress (100%) |
+| Emperor Tarot | The Emperor card will appear during Shuffle Time. | Emperor (100%) |
+| Hierophant Tarot | The Hierophant card will appear during Shuffle Time. | Hierophant (100%) |
+| Lovers Tarot | The Lovers card will appear during Shuffle Time. | Lovers (100%) |
+| Chariot Tarot | The Chariot card will appear during Shuffle Time. | Chariot (100%) |
+| Justice Tarot | The Justice card will appear during Shuffle Time. | Justice (100%) |
+| Hermit Tarot | The Hermit card will appear during Shuffle Time. | Hermit (100%) |
+| Fortune Tarot | The Fortune card will appear during Shuffle Time. | Fortune (100%) |
+| Strength Tarot | The Strength card will appear during Shuffle Time. | Strength (100%) |
+| Hanged Man Tarot | The Hanged Man card will appear during Shuffle Time. | Hanged Man (100%) |
 | Temperance Tarot | The Temperance card will appear during Shuffle Time. | Yabbashah I P2 0-lock (100%) |
 | Devil Tarot | The Devil card will appear during Shuffle Time. | Yabbashah II P3 0-lock (100%) |
 | Tower Tarot | The Tower card will appear during Shuffle Time. | Tziah I P3 0-lock (100%) |
@@ -1752,7 +1752,7 @@
 | Book of Resh | The number of Major Arcana cards attainable in 1 day increases by 1. | Harabah II P2 0-lock (100%) |
 | Book of Shin | The number of Major Arcana cards attainable in 1 day increases by 1. | Harabah II P2 0-lock (100%) |
 | Book of Tav | The number of Major Arcana cards attainable in 1 day increases by 1. | Adamah I P3 0-lock (100%) |
-| Designer Glasses | Brand-name, black-\nrimmed glasses that give off an air of intelligence. | - |
-| Cat Ear Headband | A headband with cat ears that can make anybody cute. | - |
-| Gag Glasses | Silly glasses with a fake nose attached that are sure to get a laugh. | - |
-| Santa Hat | A pointed, red hat that feels like Christmas. For Santas in training. | - |
+| Designer Glasses | Brand-name, black-\nrimmed glasses that give off an air of intelligence. | Request #29: I want to look fashionable. |
+| Cat Ear Headband | A headband with cat ears that can make anybody cute. | Request #58: I wish to become a straw millionaire. |
+| Gag Glasses | Silly glasses with a fake nose attached that are sure to get a laugh. | Request #76: Bring me a glasses wipe. |
+| Santa Hat | A pointed, red hat that feels like Christmas. For Santas in training. | Request #97: Bring me my Christmas present. |

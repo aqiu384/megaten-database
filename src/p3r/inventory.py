@@ -159,7 +159,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
             add_shop(inames[skillId], f"{name} ({DEMONS[name]['lvl'] + skillLvl})")
 
 data_file = 'Content/Xrd777/Battle/Tables/DatEnemyDataAsset.tsv'
-ieffects = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatEnemyNameDataAsset.tsv', 'en', max_flag=2)
+ieffects = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatEnemyNameDataAsset.tsv', 'en', max_flag=3)
 for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
     if i not in ieffects:
         continue
