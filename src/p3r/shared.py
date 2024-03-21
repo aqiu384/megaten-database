@@ -37,14 +37,23 @@ ITEMS = [
     ('Costume',   0x8000)
 ]
 
-def load_item_descs(fname, language, offset=0):
+def load_item_descs(fname, language, offset=0, max_flag=0):
     codes = {}
     with open(fname) as tsvfile:
-        col_index = next(tsvfile).strip().split('\t').index(language)
-        for i, line in enumerate(tsvfile):
-            iname = line.split('\t')[col_index].strip()
-            if iname != '未使用':
-                codes[offset + i] = iname
+        parts = next(tsvfile).strip().split('\t')
+        col_index = parts.index(language)
+        if max_flag == 0:
+            for i, line in enumerate(tsvfile):
+                iname = line.split('\t')[col_index].strip()
+                if iname != '未使用':
+                    codes[offset + i] = iname
+        else:
+            flag_index = parts.index('flag')
+            for i, line in enumerate(tsvfile):
+                parts = line.split('\t')
+                flag = int(parts[flag_index])
+                if 0 < flag and flag <= max_flag:
+                    codes[offset + i] = parts[col_index].strip()
     return codes
 
 def load_item_codes(language):

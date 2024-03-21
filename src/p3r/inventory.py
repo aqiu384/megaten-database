@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import json
 from shared import load_item_codes, load_item_descs, iterate_int_tsvfile, table_header, table_row
 
 USERS = {
@@ -41,6 +42,9 @@ def pluralize(amount):
 def to_date(month, day):
     return '' if month == 4 and day == 1 else f"{month}/{day}: "
 
+def stat_to_str(stat):
+    return str(stat) if stat != 0 else '-'
+
 ranks = [str(x) for x in range(1, 11)] + ['J', 'Q', 'K']
 data_file = 'Content/Xrd777/Battle/Tables/Shuffle/DatShuffleSwordArcanaDataAsset.tsv'
 for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
@@ -63,7 +67,7 @@ SHOPS = [
     '???', 'Florist', 'School', 'Octopia',
     'Dorms 2F', 'Dorms 3F', 'Port Island', 'Iwatodai 3F',
     'Iwatodai Station', 'Kyoto 1F', 'Kyoto 2F', 'Kyoto 3F',
-    'Beef Bowl', 'Net Cafe', 'URL Seller', 'Shop15'
+    'Beef Bowl', 'Net Cafe', 'URL Seller', 'Club Escapade'
 ]
 data_file = 'Content/Xrd777/UI/Tables/SimpleShop/SimpleShopDataAsset.tsv'
 for line in iterate_int_tsvfile(data_file, skip_first=False):
@@ -107,6 +111,26 @@ for line in iterate_int_tsvfile(data_file, skip_first=False):
         packs[pacID] = []
     packs[pacID].append((chests[line['tboxID']], line['probability']))
 
+data_file = 'walkthrough/chests-set.tsv'
+with open(data_file) as tsvfile:
+    next(tsvfile)
+    next(tsvfile)
+    for line in tsvfile:
+        floor, encounter, treasure, notes = line.split('\t')
+        for name in treasure.split(', '):
+            chest = ''
+            chance = ''
+            if ': ' in name:
+                chest, name = name.split(': ')
+                chance = ' (100%)'
+                chest = ' ' + chest
+            for name in name.split(' + '):
+                count = ''
+                if ' x' in name:
+                    name, count = name.split(' x')
+                    count = ' x' + count
+                add_shop(name, floor + chest + count + chance)
+
 data_file = 'walkthrough/chests-random.tsv'
 with open(data_file) as tsvfile:
     chest_types = next(tsvfile).strip().split('\t')[1:]
@@ -120,19 +144,31 @@ with open(data_file) as tsvfile:
                 chance = f"{floor} {chest_types[i]}{pack[0][1]} ({pack[1]}%)"
                 add_shop(pack[0][0], chance)
 
-data_file = 'walkthrough/chests-set.tsv'
-with open(data_file) as tsvfile:
-    next(tsvfile)
-    next(tsvfile)
-    for line in tsvfile:
-        floor, encounter, treasure, notes = line.split('\t')
-        for name in treasure.split(', '):
-            if ':' in name:
-                name, lock = name.split(':')
-                add_shop(name, floor + lock)
-            else:
-                for name in name.split(' + '):
-                    add_shop(name, floor)
+data_file = 'Content/Xrd777/Battle/Tables/DatPersonaGrowthDataAsset.tsv'
+ieffects = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatPersonaNameDataAsset.tsv', 'en', max_flag=2)
+with open('../../../megaten-fusion-tool/src/app/p3r/data/demon-data.json') as jsonfile:
+    DEMONS = json.load(jsonfile)
+for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
+    if i not in ieffects:
+        continue
+    name = ieffects[i]
+    for j in range(1, 17):
+        skillId = line[f"skillId{j}"]
+        skillLvl = line[f"skillLevel{j}"]
+        if skillId > 0x6000:
+            add_shop(inames[skillId], f"{name} ({DEMONS[name]['lvl'] + skillLvl})")
+
+data_file = 'Content/Xrd777/Battle/Tables/DatEnemyDataAsset.tsv'
+ieffects = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatEnemyNameDataAsset.tsv', 'en', max_flag=2)
+for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
+    if i not in ieffects:
+        continue
+    name = ieffects[i]
+    for j in range(1, 5):
+        skillId = line[f"itemId{j}"]
+        skillLvl = line[f"itemProb{j}"]
+        if skillLvl > 0:
+            add_shop(inames[skillId], f"{name} ({skillLvl}%)")
 
 data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldMailOrderTable.tsv'
 for line in iterate_int_tsvfile(data_file, skip_first=False):
@@ -307,11 +343,12 @@ MATERIAL_TYPES = {
     2097152: 'Base Models',
     32768: 'Gems',
     4194304: 'Heart Items',
-    65536: 'Junk'
+    65536: 'Sellables'
 }
 
 users = {}
-header = ['Material', 'Acquisition']
+stats = ['SellPrice']
+header = ['Material', 'Sell', 'Acquisition']
 data_file = 'Content/Xrd777/UI/Tables/DatItemMaterialDataAsset.tsv'
 print(f"### Materials")
 for i, line in enumerate(iterate_int_tsvfile(data_file)):
@@ -320,7 +357,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
     if name == '':
         continue
 
-    parts = [name, shops.get(name, '-').replace('{}', str(line['Price']))]
+    parts = [name, stat_to_str(line['SellPrice']), shops.get(name, '-').replace('{}', str(line['Price']))]
     user = line['ItemType']
     if user not in users:
         users[user] = []
@@ -331,6 +368,14 @@ for i, user in MATERIAL_TYPES.items():
     print(table_header(header))
     for line in users[i]:
         print(table_row(line))
+
+MATERIAL_TYPES = {
+    6: 'Recovery',
+    4: 'Battle',
+    2: 'Food and Incense',
+    16: 'Gifts',
+    8: 'Other'
+}
 
 users = {}
 header = ['Item', 'Effect', 'Acquisition']
@@ -349,10 +394,10 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
         users[user] = []
     users[user].append(parts)
 
-for user in users:
+for i, user in MATERIAL_TYPES.items():
     print(f"#### {user}")
     print(table_header(header))
-    for line in users[user]:
+    for line in users[i]:
         print(table_row(line))
 
 lines = []
