@@ -1,21 +1,8 @@
 #!/usr/bin/python3
+import re
 import json
 from shared import table_row, table_header
 from shopper import load_shops_to_items
-
-AREAS = [
-    'Thebel',
-    'Arqa I',
-    'Arqa II',
-    'Yabbashah I',
-    'Yabbashah II',
-    'Tziah I',
-    'Tziah II',
-    'Harabah I',
-    'Harabah II',
-    'Adamah I',
-    'Adamah II'
-]
 
 CHESTS = [
     '',
@@ -50,39 +37,45 @@ with open('../../../megaten-fusion-tool/src/app/p3r/data/comp-config.json') as j
 
 RESIST_ELEMS = [x.title()[:2] for x in CONFIG['resistElems']]
 AILMENTS = [x.title()[:2] for x in CONFIG['ailments']]
-enemy_headers = ['Floors', 'Name', 'Lv.', 'Exp', 'HP', 'SP'] + RESIST_ELEMS[:-1] + AILMENTS + ['Drops']
+stat_headers = ['Floors', 'Name', 'Lv.', 'Exp', 'HP', 'SP', 'Drops']
+resist_headers = ['Floors', 'Name'] + RESIST_ELEMS[:-1] + AILMENTS
 chest_headers = ['Floors', 'Chest', 'Drops']
 
 chests = load_shops_to_items()
 
-print(f"# Persona 3 Reload")
-print(f"## Tartarus")
-print('''* For each section of Tartarus
-  * Encounterable enemies
-  * Treasure chests
-  * Suggested strategies''')
-
 with open('../../../megaten-fusion-tool/src/app/p3r/data/enemy-data.json') as jsonfile:
     DEMONS = json.load(jsonfile)
-for area in AREAS:
-    print(f"### {area}")
-    prefix = f"{area} "
 
+def enemy_stats(area):
+    prefix = f"{area} "
     rows = []
-    print(f"#### Enemies")
-    print(table_header(enemy_headers))
+    print(f"#### Enemy Stats")
+    print(table_header(stat_headers))
     for dname, entry in DEMONS.items():
         if entry['area'].startswith(prefix):
             floor = entry['area'].replace(prefix, '')
-            parts = [floor, dname, entry['lvl'], entry['exp'], entry['stats'][0], entry['stats'][1]]
-            parts += [x for x in entry['resists'][:-1]]
-            parts += [x for x in entry.get('ailments', '------')]
-            parts += [format_drops(entry.get('drops',{}))]
+            parts = [floor, dname, entry['lvl'], entry['exp'], entry['stats'][0], entry['stats'][1], format_drops(entry.get('drops',{}))]
             rows.append((100 * index_floor(floor) + entry['lvl'], parts))
     rows.sort(key=lambda x: x[0])
     for row in rows:
         print(table_row(str(x) for x in row[1]))
 
+def enemy_resists(area):
+    prefix = f"{area} "
+    rows = []
+    print(f"#### Enemy Resistances")
+    print(table_header(resist_headers))
+    for dname, entry in DEMONS.items():
+        if entry['area'].startswith(prefix):
+            floor = entry['area'].replace(prefix, '')
+            parts = [floor, dname] + [x for x in entry['resists'][:-1]] + [x for x in entry.get('ailments', '------')]
+            rows.append((100 * index_floor(floor) + entry['lvl'], parts))
+    rows.sort(key=lambda x: x[0])
+    for row in rows:
+        print(table_row(str(x) for x in row[1]))
+
+def area_chests(area):
+    prefix = f"{area} "
     rows = []
     print(f"#### Chests")
     print(table_header(chest_headers))
@@ -98,3 +91,19 @@ for area in AREAS:
     rows.sort(key=lambda x: x[0])
     for row in rows:
         print(table_row(str(x) for x in row[1]))
+
+FILLERS = {
+    'enemy_stats': enemy_stats,
+    'enemy_resists': enemy_resists,
+    'area_chests': area_chests
+}
+
+SUBME = re.compile("\{\{ (\w+)\('(.*)'\) \}\}\n")
+
+with open('walkthrough/tartarus.md') as mdfile:
+    for line in mdfile:
+        matching = SUBME.match(line)
+        if matching:
+            FILLERS[matching.group(1)](matching.group(2))
+        else:
+            print(line.strip())

@@ -3,7 +3,7 @@ import json
 import math
 import re
 
-WALKTHROUGH = 'walkthrough/ave-walkthrough-base.md'
+WALKTHROUGH = 'walkthrough/ave-walkthrough.md'
 EVENT = re.compile('^\* [A-Za-z]+ (?:Flag|Rank) [0-9\.]+(?: Romantic| Platonic|)')
 NEEDS_PERSONA = ' (Needs matching persona)'
 FIRST_BONUS = '* **1st Social Link bonus'
