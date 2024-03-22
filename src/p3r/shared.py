@@ -16,6 +16,8 @@ def save_ordered_demons(demons, fname):
             nskills = sorted(entry['skills'].items(), key=lambda x: x[1])
             nskills = '{||      ' + ',||      '.join(f'|{x[0]}|: {x[1]}' for x in nskills) + '||    }'
             entry['skills'] = nskills
+        if 'drops' in entry and not isinstance(entry['drops'], str):
+            entry['drops'] = '{' + ', '.join(f'|{x[0]}|: {x[1]}' for x in entry['drops'].items()) + '}'
 
     jstring = json.dumps(demons, indent=2, sort_keys=True)
     jstring = jstring.replace('||', '\n').replace('|', '"')

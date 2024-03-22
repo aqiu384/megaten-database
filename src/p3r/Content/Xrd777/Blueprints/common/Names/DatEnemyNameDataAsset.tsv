@@ -7,7 +7,7 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Laughing Table	笑うテーブル	웃는 테이블	嬉笑之桌	訕笑桌	Lachender Tisch	Mesa risueña	Table hilare	Tavolo ridanciano	Prześmiewczy stół	Mesa Gargalhante	Смеющийся стол	Gülen Masa
 1	Crying Table	泣くテーブル	우는 테이블	哭泣之桌	哭泣桌	Weinender Tisch	Mesa llorosa	Table éplorée	Tavolo piangente	Płaczący stół	Mesa Chorosa	Плачущий стол	Ağlayan Masa
 1	Angry Table	怒るテーブル	화난 테이블	愤怒之桌	憤怒桌	Wütender Tisch	Mesa enfadada	Table enragée	Tavolo arrabbiato	Groźny stół	Mesa Irritada	Злой стол	Sinirli Masa
-1	Sleeping Table	眠るテーブル	자는 테이블	沉眠之桌	睡眠桌	Schlafender Tisch	Mesa dormida	Table endormie	Tavolo dormiente	Śpiący stół	Mesa Sonolenta	Спящий стол	Uyuyan Masa
+4	Sleeping Table	眠るテーブル	자는 테이블	沉眠之桌	睡眠桌	Schlafender Tisch	Mesa dormida	Table endormie	Tavolo dormiente	Śpiący stół	Mesa Sonolenta	Спящий стол	Uyuyan Masa
 1	Magical Magus	マジカルマグス	매지컬 마구스	神奇术士	神奇魔術師	Magischer Magus	Mago mágico	Mage mystique	Mago incantatore	Magiczny mędrzec	Magus Mágico	Волшебный маг	Büyülü Büyücü
 1	Wondrous Magus	ワンダーマグス	원더 마구스	惊奇术士	驚奇魔術師	Wundersamer Magus	Mago maravilloso	Mage merveilleux	Mago prodigioso	Cudowny mędrzec	Magus Assombroso	Чудесный маг	Harikulade Büyücü
 1	Prime Magus	インテリマグス	인텔리 마구스	知识术士	知識魔術師	Erster Magus	Mago supremo	Mage supérieur	Mago d'élite	Wspaniały mędrzec	Magus Superior	Главный маг	Baş Büyücü
@@ -41,11 +41,11 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Creation Relic	生成の彫像	생성의 조각상	创造之雕像	生成雕像	Relikt der Schöpfung	Reliquia de la creación	Relique de création	Reliquia creatrice	Relikt stworzenia	Relíquia da Criação	Статуя создания	Yaradılış Kalıntısı
 1	Constancy Relic	維持の彫像	유지의 조각상	维持之雕像	維持雕像	Relikt der Konstanz	Reliquia de la constancia	Relique de constance	Reliquia costante	Relikt lojalności	Relíquia da Firmeza	Статуя постоянства	Değişmezlik Kalıntısı
 1	Growth Relic	育成の彫像	육성의 조각상	培育之雕像	育成雕像	Relikt des Wachstums	Reliquia del crecimiento	Relique de croissance	Reliquia crescente	Relikt wzrostu	Relíquia da Expansão	Статуя роста	Gelişim Kalıntısı
-1	Change Relic	変容の彫像	변모의 조각상	变化之雕像	變貌雕像	Relikt des Wandels	Reliquia del cambio	Relique de changement	Reliquia mutevole	Relikt zmiany	Relíquia da Mudança	Статуя изменений	Değişim Kalıntısı
+4	Change Relic	変容の彫像	변모의 조각상	变化之雕像	變貌雕像	Relikt des Wandels	Reliquia del cambio	Relique de changement	Reliquia mutevole	Relikt zmiany	Relíquia da Mudança	Статуя изменений	Değişim Kalıntısı
 1	Elegant Mother	イデアマザー	이데아 마더	理念之母	理念之母	Elegante Mutter	Madre elegante	Mère élégante	Madre elegante	Elegancka matka	Mãe Elegante	Элегантная матерь	Şık Anne
 1	Regal Mother	スカルプマザー	스컬프 마더	掠夺之母	掠奪之母	Majestätische Mutter	Madre regia	Mère royale	Madre regale	Królewska matka	Mãe Suntuosa	Царственная матерь	Görkemli Anne
 1	Pistil Mother	ピスティルマザー	피스틸 마더	雌蕊之母	雌蕊之母	Heilende Mutter	Madre del pistilo	Mère pistil	Madre pistillo	Słupkowa matka	Mãe Pistilar	Плодоносная матерь	Pistil Anne
-1	Divine Mother	ディバインマザー	디바인 마더	神圣之母	神聖之母	Himmlische Mutter	Madre divina	Mère divine	Madre divina	Boska matka	Mãe Divina	Богоподобная матерь	İlahi Anne
+4	Divine Mother	ディバインマザー	디바인 마더	神圣之母	神聖之母	Himmlische Mutter	Madre divina	Mère divine	Madre divina	Boska matka	Mãe Divina	Богоподобная матерь	İlahi Anne
 1	Frivolous Maya	虚栄のマーヤ	허영의 마야	虚荣之魔影	虛榮魔影	Alberner Maya	Maya frívola	Maya frivole	Maya frivola	Frywolna Maya	Maya Frívolo	Легкомысленная Майя	Uçarı Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -58,11 +58,11 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Avenger Knight	征服の騎士	정복의 기사	征服之骑士	征服騎士	Racheritter	Caballero vengador	Chevalier vengeur	Cavaliere vendicatore	Mściwy rycerz	Cavaleiro Vingador	Рыцарь-мститель	İntikamcı Şövalye
 1	Champion Knight	凱旋の騎士	개선의 기사	凯旋之骑士	凱旋騎士	Ritterlicher Recke	Caballero campeón	Chevalier champion	Cavaliere campione	Rycerz-czempion	Cavaleiro Campeão	Рыцарь-чемпион	Şampiyon Şövalye
 1	Hell Knight	地獄の騎士	지옥의 기사	地狱之骑士	地獄騎士	Höllenritter	Caballero infernal	Chevalier infernal	Cavaliere infernale	Piekielny rycerz	Cavaleiro Infernal	Адский рыцарь	Cehennem Şövalyesi
-1	Intrepid Knight	不屈の騎士	불굴의 기사	不屈之骑士	不屈騎士	Kühner Ritter	Caballero intrépido	Chevalier intrépide	Cavaliere intrepido	Nieustraszony rycerz	Cavaleiro Intrépido	Отважный рыцарь	Korkusuz Şövalye
+4	Intrepid Knight	不屈の騎士	불굴의 기사	不屈之骑士	不屈騎士	Kühner Ritter	Caballero intrépido	Chevalier intrépide	Cavaliere intrepido	Nieustraszony rycerz	Cavaleiro Intrépido	Отважный рыцарь	Korkusuz Şövalye
 1	Solid Castle	ヘビーキャッスル	헤비 캐슬	重装城堡	重量城堡	Feste Burg	Castillo sólido	Château robuste	Castello solido	Solidny zamek	Castelo Sólido	Замок тверди	Sağlam Kale
 1	Power Castle	パワーキャッスル	파워 캐슬	威力城堡	威力城堡	Machtburg	Castillo de poder	Château puissant	Castello potente	Zamek mocy	Castelo do Poder	Замок силы	Güçlü Kale
 1	Death Castle	デスキャッスル	데스 캐슬	死亡城堡	死亡城堡	Todesburg	Castillo de la muerte	Château funeste	Castello mortale	Zamek śmierci	Castelo da Morte	Замок смерти	Ölüm Kalesi
-1	King Castle	キングキャッスル	킹 캐슬	帝王城堡	王者城堡	Königsburg	Rey castillo	Château royal	Castello del re	Królewski zamek	Castelo do Rei	Королевский замок	Kral Kalesi
+4	King Castle	キングキャッスル	킹 캐슬	帝王城堡	王者城堡	Königsburg	Rey castillo	Château royal	Castello del re	Królewski zamek	Castelo do Rei	Королевский замок	Kral Kalesi
 1	Haughty Maya	傲慢のマーヤ	오만의 마야	傲慢之魔影	傲慢魔影	Hochmütiger Maya	Maya arrogante	Maya hautain	Maya sprezzante	Harda Maya	Maya Altivo	Заносчивая Майя	Mağrur Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -75,11 +75,11 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Corrupt Tower	堕落の塔	타락의 탑	堕落之塔	墮落之塔	Turm der Verderbnis	Torre corrupta	Tour corrompue	Torre corrotta	Zepsuta wieża	Torre Corrupta	Башня порчи	Yozlaşmış Kule
 1	Dogmatic Tower	教条の塔	교조의 탑	教条之塔	教條之塔	Turm der Dogmatik	Torre dogmática	Tour dogmatique	Torre dogmatica	Wieża dogmatów	Torre Dogmática	Башня догмы	Dogmatik Kule
 1	Apostate Tower	破戒の塔	파계의 탑	破戒之塔	破戒之塔	Turm der Apostasie	Torre apóstata	Tour apostate	Torre apostata	Wieża apostaty	Torre Apostática	Башня вероотступничества	Dönek Kule
-1	Fanatic Tower	狂信の塔	광신의 탑	狂信之塔	狂信之塔	Turm der Besessenheit	Torre fanática	Tour fanatique	Torre fanatica	Fanatyczna wieża	Torre Fanática	Башня фанатизма	Bağnaz Kule
+4	Fanatic Tower	狂信の塔	광신의 탑	狂信之塔	狂信之塔	Turm der Besessenheit	Torre fanática	Tour fanatique	Torre fanatica	Fanatyczna wieża	Torre Fanática	Башня фанатизма	Bağnaz Kule
 1	Blue Sigil	青のシジル	푸른 시지르	青之法印	藍印記	Blaues Siegel	Sello azul	Sceau bleu	Sigillo blu	Niebieska pieczęć	Sigilo Azul	Синий сигил	Mavi Mühür
 1	Red Sigil	赤のシジル	붉은 시지르	赤之法印	紅印記	Rotes Siegel	Sello rojo	Sceau rouge	Sigillo rosso	Czerwona pieczęć	Sigilo Vermelho	Красный сигил	Kırmızı Mühür
 1	Green Sigil	緑のシジル	초록 시지르	绿之法印	綠印記	Grünes Siegel	Sello verde	Sceau vert	Sigillo verde	Zielona pieczęć	Sigilo Verde	Зеленый сигил	Yeşil Mühür
-1	White Sigil	白のシジル	하얀 시지르	白之法印	白印記	Weißes Siegel	Sello blanco	Sceau blanc	Sigillo bianco	Biała pieczęć	Sigilo Branco	Белый сигил	Beyaz Mühür
+4	White Sigil	白のシジル	하얀 시지르	白之法印	白印記	Weißes Siegel	Sello blanco	Sceau blanc	Sigillo bianco	Biała pieczęć	Sigilo Branco	Белый сигил	Beyaz Mühür
 1	Indolent Maya	怠惰のマーヤ	나태의 마야	怠惰之魔影	怠惰魔影	Träger Maya	Maya indolente	Maya indolent	Maya indolente	Opieszała Maya	Maya Indolente	Ленивая Майя	Tembel Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -92,28 +92,28 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Lustful Snake	情欲の蛇	정욕의 뱀	情欲之蛇	情慾之蛇	Wollüstige Schlange	Serpiente lujuriosa	Serpent lubrique	Serpente lussurioso	Lubieżny wąż	Cobra Lasciva	Змей похоти	Şehvetli Yılan
 1	Immoral Snake	愛欲の蛇	애욕의 뱀	爱欲之蛇	愛慾之蛇	Verdorbene Schlange	Serpiente inmoral	Serpent immoral	Serpente immorale	Niemoralny wąż	Cobra Imoral	Змей разврата	Ölümsüz Yılan
 1	Carnal Snake	肉欲の蛇	육욕의 뱀	肉欲之蛇	肉慾之蛇	Sinnliche Schlange	Serpiente carnal	Serpent charnel	Serpente carnale	Zmysłowy wąż	Cobra Carnal	Змей плотских утех	Dünyevi Yılan
-1	Amorous Snake	淫欲の蛇	음욕의 뱀	淫欲之蛇	淫慾之蛇	Verliebte Schlange	Serpiente apasionada	Serpent amoureux	Serpente sensuale	Kochający wąż	Cobra Amorosa	Змей любви	Aşık Yılan
+4	Amorous Snake	淫欲の蛇	음욕의 뱀	淫欲之蛇	淫慾之蛇	Verliebte Schlange	Serpiente apasionada	Serpent amoureux	Serpente sensuale	Kochający wąż	Cobra Amorosa	Змей любви	Aşık Yılan
 1	Soul Dancer	ソウルダンサー	소울 댄서	灵魂舞者	靈魂舞者	Seelentänzer	Bailarines del alma	Danseur spirituel	Danzatore passionale	Tancerz duszy	Dançarino Anímico	Душевный танцор	Ruh Dansçı
 1	Ardent Dancer	ライフダンサー	라이프 댄서	生命舞者	生命舞者	Lebhafter Tänzer	Bailarines apasionados	Danseur ardent	Danzatore fervente	Gorliwy tancerz	Dançarino Ardente	Пылкий танцор	Şevkli Dansçı
 1	Royal Dancer	ロイヤルダンサー	로열 댄서	皇家舞者	皇家舞者	Königlicher Tänzer	Bailarines reales	Danseur royal	Danzatore regale	Królewski tancerz	Dançarino Régio	Королевский танцор	Asil Dansçı
-1	Natural Dancer	クラリスダンサー	클라리스 댄서	绚烂舞者	清淨舞者	Klassischer Tänzer	Bailarines naturales	Danseur naturel	Danzatore naturale	Naturalny tancerz	Dançarino Nato	Прирожденный танцор	Doğal Dansçı
+4	Natural Dancer	クラリスダンサー	클라리스 댄서	绚烂舞者	清淨舞者	Klassischer Tänzer	Bailarines naturales	Danseur naturel	Danzatore naturale	Naturalny tancerz	Dançarino Nato	Прирожденный танцор	Doğal Dansçı
 1	Insidious Maya	裏切りのマーヤ	배신의 마야	背叛之魔影	背叛魔影	Heimtückischer Maya	Maya traicionera	Maya insidieux	Maya insidiosa	Podstępna Maya	Maya Insidioso	Коварная Майя	Sinsi Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
-1	Bestial Wheel	リングフォート	링 포트	圆环之轮	連結之輪	Bestienrad	Rueda bestial	Roue bestiale	Ruota bestiale	Zwierzęce koło	Roda Bestial	Зверское колесо	Barbar Çark
+4	Bestial Wheel	リングフォート	링 포트	圆环之轮	連結之輪	Bestienrad	Rueda bestial	Roue bestiale	Ruota bestiale	Zwierzęce koło	Roda Bestial	Зверское колесо	Barbar Çark
 1	Mach Wheel	マッハフォート	마하 포트	急速之轮	急速之輪	Schallrad	Rueda mach	Roue supersonique	Ruota ultrasonica	Koło Macha	Roda Acelerada	Машинное колесо	Mach Çarkı
 1	Brave Wheel	ブレイブフォート	브레이브 포트	勇气之轮	勇氣之輪	Mutrad	Rueda valiente	Roue courageuse	Ruota intrepida	Dzielne koło	Roda Valente	Смелое колесо	Cesur Çark
 1	Battle Wheel	バトルフォート	배틀 포트	战斗之轮	戰爭之輪	Streitrad	Rueda de batalla	Roue combative	Ruota da battaglia	Bitewne koło	Roda Bélica	Боевое колесо	Muharebe Çarkı
 1	Wild Drive	ワイルドドライブ	와일드 드라이브	狂野装置	狂野驅力	Wilder Streitwagen	Vehículo salvaje	Char sauvage	Vettura selvaggia	Dziki robot	Ímpeto Feroz	Робот-дикарь	Vahşi Sürücü
 1	Killer Drive	キラードライブ	킬러 드라이브	杀手装置	殺手驅力	Killer-Streitwagen	Vehículo asesino	Char tueur	Vettura assassina	Zabójczy robot	Ímpeto Assassino	Робот-убийца	Katil Sürücü
 1	Slaughter Drive	スロータードライブ	슬로터 드라이브	屠杀装置	屠殺驅力	Schlacht-Streitwagen	Vehículo masacrador	Char carnassier	Vettura carnefice	Rzeźnicki robot	Ímpeto Carniceiro	Робот резни	Katliam Sürücüsü
-1	Rampage Drive	バスタードライブ	버스터 드라이브	爆裂装置	炸裂驅力	Tobender Streitwagen	Vehículo desmadrado	Char violent	Vettura furiosa	Szaleńczy robot	Ímpeto Destruidor	Робот буйства	Öfkeli Sürücü
+4	Rampage Drive	バスタードライブ	버스터 드라이브	爆裂装置	炸裂驅力	Tobender Streitwagen	Vehículo desmadrado	Char violent	Vettura furiosa	Szaleńczy robot	Ímpeto Destruidor	Робот буйства	Öfkeli Sürücü
 1	Arcane Turret	魔弾の砲座	마탄의 포좌	魔弹炮台	魔彈砲台	Arkanes Geschütz	Torreta arcana	Tourelle mystique	Torretta arcana	Tajemnicza wieżyczka	Torreta Arcana	Турель аркана	Gizli Taret
 1	Scarlet Turret	真紅の砲座	진홍의 포좌	深红炮台	深紅砲台	Scharlachrotes Geschütz	Torreta escarlata	Tourelle écarlate	Torretta scarlatta	Szkarłatna wieżyczka	Torreta Escarlate	Алая турель	Kızıl Taret
 1	Wicked Turret	邪悪の砲座	사악의 포좌	邪恶炮台	邪惡砲台	Verdorbenes Geschütz	Torreta perversa	Tourelle cruelle	Torretta maligna	Wariacka wieżyczka	Torreta Malévola	Злобная турель	Kötücül Taret
-1	Hallowed Turret	洗礼の砲座	세례의 포좌	洗礼炮台	洗禮砲台	Geheiligtes Geschütz	Torreta bendita	Tourelle sanctifiée	Torretta consacrata	Uświęcona wieżyczka	Torreta Sacra	Священная турель	Kutsal Taret
+4	Hallowed Turret	洗礼の砲座	세례의 포좌	洗礼炮台	洗禮砲台	Geheiligtes Geschütz	Torreta bendita	Tourelle sanctifiée	Torretta consacrata	Uświęcona wieżyczka	Torreta Sacra	Священная турель	Kutsal Taret
 1	Ill-Fated Maya	挫折のマーヤ	좌절의 마야	挫折之魔影	挫折魔影	Unseliger Maya	Maya condenada	Maya maudit	Maya sfortunata	Feralna Maya	Maya Desditoso	Злополучная Майя	Uğursuz Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -125,12 +125,12 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Doom Sword	断罪の剣	단죄의 검	断罪之剑	斷罪之劍	Schwert des Unheils	Espada de la perdición	Épée du destin	Spada della rovina	Miecz zagłady	Espada de Ruína	Меч судьбы	Kıyamet Kılıcı
 1	Heat Balance	炎と氷のバランサー	불꽃과 얼음의 밸런서	炎冰天秤	炎冰天秤	Hitzewaage	Equilibrio de calor	Balance thermique	Bilancia del calore	Balans ciepła	Balança Térmica	Баланс тепла	Isı Dengesi
 1	Sky Balance	雷と風のバランサー	번개와 바람의 밸런서	风雷天秤	雷風天秤	Himmelswaage	Equilibrio celestial	Balance céleste	Bilancia del cielo	Balans nieba	Balança Celeste	Баланс небес	Gökyüzü Dengesi
-1	World Balance	全能のバランサー	전능의 밸런서	全能天秤	全能天秤	Weltwaage	Equilibrio mundial	Balance terrestre	Bilancia del mondo	Balans świata	Balança Terrestre	Баланс миров	Dünya Dengesi
+4	World Balance	全能のバランサー	전능의 밸런서	全能天秤	全能天秤	Weltwaage	Equilibrio mundial	Balance terrestre	Bilancia del mondo	Balans świata	Balança Terrestre	Баланс миров	Dünya Dengesi
 1	Light Balance	光と闇のバランサー	빛과 어둠의 밸런서	光影天秤	光闇天秤	Lichtwaage	Equilibrio lumínico	Balance lumineuse	Bilancia della luce	Balans światła	Balança Sagrada	Баланс света	Işık Dengesi
 1	Order Giant	均衡の巨人	균형의 거인	均衡之巨人	均衡巨人	Gigant der Macht	Gigante en orden	Géant de l'ordre	Gigante dell'ordine	Gigant porządku	Gigante da Ordem	Гигант порядка	Tarikat Devi
 1	Stasis Giant	平衡の巨人	평형의 거인	平衡之巨人	平衡巨人	Gigant des Stillstands	Gigante en éxtasis	Géant de stase	Gigante della stasi	Gigant zastoju	Gigante da Estase	Гигант застоя	Yavaş Dev
 1	Harmony Giant	調和の巨人	조화의 거인	调和之巨人	調和巨人	Gigant der Harmonie	Gigante en armonía	Géant d'harmonie	Gigante dell'unione	Gigant harmonii	Gigante da Harmonia	Гигант гармонии	Ahenk Devi
-1	Void Giant	無の巨人	무의 거인	空无之巨人	無之巨人	Gigant der Leere	Gigante del vacío	Géant du vide	Gigante del vuoto	Gigant pustki	Gigante do Vazio	Гигант пустоты	Boşluk Devi
+4	Void Giant	無の巨人	무의 거인	空无之巨人	無之巨人	Gigant der Leere	Gigante del vacío	Géant du vide	Gigante del vuoto	Gigant pustki	Gigante do Vazio	Гигант пустоты	Boşluk Devi
 1	Bigoted Maya	偏見のマーヤ	편견의 마야	偏见之魔影	偏見魔影	Sturer Maya	Maya intolerante	Maya borné	Maya intollerante	Fanatyczna Maya	Maya Fanático	Лицемерная Майя	Bağnaz Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -143,11 +143,11 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Phantom Mage	ファントムメイジ	팬텀 메이지	魅影法师	魅影法師	Phantommagier	Mago fantasmal	Mage fantôme	Mago fantasma	Widmowy mag	Mago Fantasmagórico	Призрачный маг	Hayalet Büyücü
 1	Phantom Master	ファントムマスター	팬텀 마스터	魅影大师	魅影大師	Phantommeister	Maestro fantasmal	Maître fantôme	Maestro fantasma	Widmowy mistrz	Mestre Fantasmagórico	Призрачный господин	Hayalet Ustası
 1	Phantom Lord	ファントムロード	팬텀 로드	魅影领主	魅影領主	Phantom-Lord	Señor fantasmal	Seigneur fantôme	Lord fantasma	Widmowy lord	Lorde Fantasmagórico	Призрачный лорд	Hayalet Tanrısı
-1	Phantom King	ファントムキング	팬텀 킹	魅影之王	魅影之王	Phantomkönig	Rey fantasmal	Roi fantôme	Monarca fantasma	Widmowy król	Rei Fantasmagórico	Призрачный король	Hayalet Kralı
+4	Phantom King	ファントムキング	팬텀 킹	魅影之王	魅影之王	Phantomkönig	Rey fantasmal	Roi fantôme	Monarca fantasma	Widmowy król	Rei Fantasmagórico	Призрачный король	Hayalet Kralı
 1	Death Seeker	デスサーチャー	데스 서처	死亡搜寻者	死亡巡捕	Todessucher	Buscamuertes	Traqueur de mort	Cercatore di morte	Poszukiwacz śmierci	Caçador da Morte	Искатель смерти	Ölüm Arayan
 1	Fate Seeker	フェイトサーチャー	페이트 서처	命运搜寻者	命運巡捕	Schicksalssucher	Buscadestinos	Traqueur du sort	Cercatore del fato	Poszukiwacz losu	Caçador do Destino	Искатель судьбы	Kader Arayan
 1	Noble Seeker	ノーブルサーチャー	노블 서처	高贵搜寻者	高貴巡捕	Edle Sucher	Buscanobles	Traqueur noble	Cercatore nobile	Szlachetny poszukiwacz	Caçador Nobre	Искатель благородства	Soylu Arayan
-1	Acheron Seeker	アケロンサーチャー	아케론 서처	黄泉搜寻者	黃泉巡捕	Acheron-Sucher	Buscador del Aqueronte	Traqueur d'Achéron	Cercatore Acheronte	Poszukiwacz acheronu	Caçador do Aqueronte	Искатель Ахерона	Akheron Arayan
+4	Acheron Seeker	アケロンサーチャー	아케론 서처	黄泉搜寻者	黃泉巡捕	Acheron-Sucher	Buscador del Aqueronte	Traqueur d'Achéron	Cercatore Acheronte	Poszukiwacz acheronu	Caçador do Aqueronte	Искатель Ахерона	Akheron Arayan
 1	Desirous Maya	貪欲のマーヤ	탐욕의 마야	贪婪之魔影	貪婪魔影	Lüsterner Maya	Maya deseosa	Maya gourmand	Maya smaniosa	Pożądliwa Maya!	Maya Desejoso	Жаждущая Майя	Hırslı Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -155,16 +155,16 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 1	Bronze Dice	ブロンズダイス	브론즈 다이스	青铜之骰	青銅骰子	Bronzewürfel	Dado de bronce	Dé de bronze	Dado di bronzo	Brązowa kostka	Dado de Bronze	Бронзовые кости	Bronz Zar
 1	Iron Dice	アイアンダイス	아이언 다이스	钢铁之骰	鋼鐵骰子	Eisenwürfel	Dado de hierro	Dé de fer	Dado di ferro	Żelazna kostka	Dado de Ferro	Железные кости	Demir Zar
-1	Silver Dice	シルバーダイス	실버 다이스	白银之骰	白銀骰子	Silberwürfel	Dado de plata	Dé d'argent	Dado d'argento	Srebrna kostka	Dado de Prata	Серебряные кости	Gümüş Zar
+4	Silver Dice	シルバーダイス	실버 다이스	白银之骰	白銀骰子	Silberwürfel	Dado de plata	Dé d'argent	Dado d'argento	Srebrna kostka	Dado de Prata	Серебряные кости	Gümüş Zar
 1	Platinum Dice	プラチナダイス	플래티나 다이스	白金之骰	白金骰子	Platinwürfel	Dado de platino	Dé de platine	Dado di platino	Platynowa kostka	Dado de Platina	Платиновые кости	Platin Zar
 1	Mind Dice	精神のダイス	정신의 다이스	精神之骰	精神骰子	Geistwürfel	Dado mental	Dé mental	Dado della mente	Kość umysłu	Dado da Mente	Кости сознания	Akıl Zarı
 1	Curse Dice	呪いのダイス	저주의 다이스	诅咒之骰	詛咒骰子	Fluchwürfel	Dado maldito	Dé maudit	Dado della sventura	Kość klątwy	Dado da Maldição	Кости проклятия	Lanet Zarı
 1	Death Dice	死のダイス	죽음의 다이스	死亡之骰	死亡骰子	Todeswürfel	Dado mortal	Dé mortel	Dado della morte	Kość śmierci	Dado da Morte	Кости смерти	Ölüm Zarı
-1	Reckoning Dice	天罰のダイス	천벌의 다이스	天罚之骰	天譴骰子	Rachewürfel	Dado del juicio final	Dé du jugement	Dado del giudizio	Kość rozrachunku	Dado da Punição	Кости расплаты	Hesaplaşma Zarı
+4	Reckoning Dice	天罰のダイス	천벌의 다이스	天罚之骰	天譴骰子	Rachewürfel	Dado del juicio final	Dé du jugement	Dado del giudizio	Kość rozrachunku	Dado da Punição	Кости расплаты	Hesaplaşma Zarı
 1	Flowing Sand	時の砂時計	시간의 모래시계	时间沙漏	時間沙漏	Fließender Sand	Arena que fluye	Sable du temps	Sabbia fluida	Płynący piasek	Areia Corrente	Текущий песок	Akan Kum
 1	Perpetual Sand	恒久の砂時計	항구의 모래시계	恒久沙漏	恆久沙漏	Beständiger Sand	Arena perpetua	Sable perpétuel	Sabbia perpetua	Bezustanny piasek	Areia Perpétua	Непрерывный песок	Daimi Kum
 1	Infinite Sand	無限の砂時計	무한의 모래시계	无限沙漏	無限沙漏	Unendlicher Sand	Arena infinita	Sable infini	Sabbia infinita	Nieskończony piasek	Areia Infinita	Бесконечный песок	Sonsuz Kum
-1	Eternal Sand	永遠の砂時計	영원의 모래시계	永恒沙漏	永恆沙漏	Ewiger Sand	Arena eterna	Sable éternel	Sabbia eterna	Wieczny piasek	Areia Eterna	Вечный песок	Ebedi Kum
+4	Eternal Sand	永遠の砂時計	영원의 모래시계	永恒沙漏	永恆沙漏	Ewiger Sand	Arena eterna	Sable éternel	Sabbia eterna	Wieczny piasek	Areia Eterna	Вечный песок	Ebedi Kum
 1	Imprudent Maya	誤算のマーヤ	오산의 마야	失算之魔影	誤算魔影	Ungestümer Maya	Maya imprudente	Maya imprudent	Maya imprudente	Nieroztropna Maya	Maya Imprudente	Опрометчивая Майя	Tedbirsiz Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -173,15 +173,15 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Hakurou Musha	白狼の武者	백랑의 무사	白狼之武者	白狼武者	Hakurou Musha	Hakurou musha	Hakurou Musha	Hakurou Musha	Hakurou Musha	Hakurou Musha	Самурай Хакуро	Hakurou Musha
 1	Kaiden Musha	皆伝の武者	통달의 무사	宗师之武者	真傳武者	Kaiden Musha	Kaiden musha	Kaiden Musha	Kaiden Musha	Kaiden Musha	Kaiden Musha	Самурай Кайдэн	Kaiden Musha
 1	Onnen Musha	怨念の武者	원념의 무사	怨念之武者	怨念武者	Onnen Musha	Onnen musha	Onnen Musha	Onnen Musha	Onnen Musha	Onnen Musha	Самурай Оннэн	Onnen Musha
-1	Tenjin Musha	天神の武者	천신의 무사	天神之武者	天神武者	Tenjin Musha	Tenjin musha	Tenjin Musha	Tenjin Musha	Tenjin Musha	Tenjin Musha	Самурай Тэндзин	Tenjin Musha
-1	Daring Gigas	闘魂のギガス	투혼의 기가스	斗魂之巨灵	鬥魂巨靈	Verwegener Gigas	Gigas osado	Gigas téméraire	Gigas temerario	Brawurowy gigas	Gigas Afrontoso	Лихой великан	Cüretkar Gigas
+4	Tenjin Musha	天神の武者	천신의 무사	天神之武者	天神武者	Tenjin Musha	Tenjin musha	Tenjin Musha	Tenjin Musha	Tenjin Musha	Tenjin Musha	Самурай Тэндзин	Tenjin Musha
+4	Daring Gigas	闘魂のギガス	투혼의 기가스	斗魂之巨灵	鬥魂巨靈	Verwegener Gigas	Gigas osado	Gigas téméraire	Gigas temerario	Brawurowy gigas	Gigas Afrontoso	Лихой великан	Cüretkar Gigas
 1	Steel Gigas	鋼鉄のギガス	강철의 기가스	钢铁之巨灵	鋼鐵巨靈	Stahlgigas	Gigas de acero	Gigas en acier	Gigas d'acciaio	Stalowy gigas	Gigas de Aço	Стальной великан	Çelik Gigas
 1	Furious Gigas	激震のギガス	격진의 기가스	激震之巨灵	激震巨靈	Rasender Gigas	Gigas furioso	Gigas furieux	Gigas furioso	Wściekły gigas	Gigas Furioso	Разъяренный великан	Öfkeli Gigas
-1	Mythical Gigas	神話のギガス	신화의 기가스	神话之巨灵	神話巨靈	Mythischer Gigas	Gigas mítico	Gigas mythique	Gigas mitico	Mityczny gigas	Gigas Mítico	Мифический великан	Efsanevi Gigas
+4	Mythical Gigas	神話のギガス	신화의 기가스	神话之巨灵	神話巨靈	Mythischer Gigas	Gigas mítico	Gigas mythique	Gigas mitico	Mityczny gigas	Gigas Mítico	Мифический великан	Efsanevi Gigas
 1	Wild Beast	ハンドルアニマル	핸들 애니멀	操控之兽	馴化獅	Wilde Bestie	Bestia salvaje	Bête sauvage	Bestia selvaggia	Dzika bestia	Fera Selvagem	Дикий зверь	Vahşi Canavar
 1	Enslaved Beast	スレイヴアニマル	슬레이브 애니멀	奴役之兽	奴隸獅	Versklavte Bestie	Bestia esclavizada	Bête asservie	Bestia schiava	Zniewolona bestia	Fera Escravizada	Порабощенный зверь	Esir Canavar
 1	Mighty Beast	フォースアニマル	포스 애니멀	强迫之兽	力量獅	Mächtige Bestie	Bestia poderosa	Bête puissante	Bestia poderosa	Potężna bestia	Fera Poderosa	Могучий зверь	Güçlü Canavar
-1	Nemean Beast	ネメアンアニマル	네메안 애니멀	尼米亚之兽	尼米亞獅	Nemean-Bestie	Bestia Nemea	Bête de Némée	Bestia di Nemea	Nemeańska bestia	Fera de Nemeia	Немейский зверь	Nemea Canavarı
+4	Nemean Beast	ネメアンアニマル	네메안 애니멀	尼米亚之兽	尼米亞獅	Nemean-Bestie	Bestia Nemea	Bête de Némée	Bestia di Nemea	Nemeańska bestia	Fera de Nemeia	Немейский зверь	Nemea Canavarı
 1	Visceral Maya	本性のマーヤ	본성의 마야	本性之魔影	本性魔影	Instinktiver Maya	Maya visceral	Maya viscéral	Maya viscerale	Instynktowna Maya	Maia Visceral	Грубая Майя	İlkel Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -194,11 +194,11 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Jotun of Power	力のヘカトンケイル	힘의 헤카톤케일	力之百臂巨人	力量百臂巨人	Jotun der Macht	Jotun del poder	Jötunn du pouvoir	Jotun del potere	Jotun mocy	Jotun do Poder	Йотун силы	Güç Jotunu
 1	Jotun of Blood	血のヘカトンケイル	피의 헤카톤케일	血之百臂巨人	血腥百臂巨人	Jotun des Blutes	Jotun de la sangre	Jötunn du sang	Jotun del sangue	Jotun krwi	Jotun do Sangue	Йотун крови	Kan Jotunu
 1	Jotun of Evil	魔のヘカトンケイル	마의 헤카톤케일	魔之百臂巨人	魔力百臂巨人	Jotun des Bösen	Jotun del mal	Jötunn du mal	Jotun del male	Jotun zła	Jotun do Mal	Йотун зла	Kötülük Jotunu
-1	Jotun of Grief	哀のヘカトンケイル	슬픔의 헤카톤케일	哀之百臂巨人	哀悽百臂巨人	Jotun der Trauer	Jotun del dolor	Jötunn du deuil	Jotun del dolore	Jotun żałoby	Jotun do Pesar	Йотун скорби	Keder Jotunu
+4	Jotun of Grief	哀のヘカトンケイル	슬픔의 헤카톤케일	哀之百臂巨人	哀悽百臂巨人	Jotun der Trauer	Jotun del dolor	Jötunn du deuil	Jotun del dolore	Jotun żałoby	Jotun do Pesar	Йотун скорби	Keder Jotunu
 1	Mighty Cyclops	豪腕のキュクロプス	완력의 키클롭스	豪腕独眼巨人	豪腕獨眼巨人	Mächtiger Zyklop	Cíclope poderoso	Cyclope puissant	Ciclope possente	Potężny cyklop	Ciclope Poderoso	Могучий циклоп	Güçlü Tepegöz
 1	Mad Cyclops	狂気のキュクロプス	광기의 키클롭스	疯狂独眼巨人	瘋狂獨眼巨人	Irrer Zyklop	Cíclope loco	Cyclope fou	Ciclope folle	Zły cyklop	Ciclope Louco	Безумный циклоп	Deli Tepegöz
 1	Fierce Cyclops	憤怒のキュクロプス	분노의 키클롭스	愤怒独眼巨人	憤怒獨眼巨人	Wilder Zyklop	Cíclope feroz	Cyclope féroce	Ciclope feroce	Zawzięty cyklop	Ciclope Feroz	Яростный циклоп	Azılı Tepegöz
-1	Chaos Cyclops	混沌のキュクロプス	혼돈의 키클롭스	混沌独眼巨人	混沌獨眼巨人	Chaos-Zyklop	Cíclope del caos	Cyclope chaotique	Ciclope caotico	Cyklop chaosu	Ciclope Caótico	Циклоп хаоса	Kaos Tepegöz
+4	Chaos Cyclops	混沌のキュクロプス	혼돈의 키클롭스	混沌独眼巨人	混沌獨眼巨人	Chaos-Zyklop	Cíclope del caos	Cyclope chaotique	Ciclope caotico	Cyklop chaosu	Ciclope Caótico	Циклоп хаоса	Kaos Tepegöz
 1	Devious Maya	犠牲のマーヤ	희생의 마야	牺牲之魔影	犧牲魔影	Verschlagener Maya	Maya taimada	Maya perfide	Maya infida	Przebiegła Maya	Maya Diabólico	Лукавая Майя	Üçkağıtçı Maya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -210,7 +210,7 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 1	Opulent Hand	全盛の手	전성의 손	全盛之手	全盛之手	Opulente Hand	Mano opulenta	Main opulente	Mano opulenta	Zamożna dłoń	Mão Opulenta	Шикарная рука	Bereketli El
 1	Luxury Hand	栄華の手	영화의 손	荣华之手	榮華之手	Luxushand	Mano lujosa	Main de luxe	Mano lussuosa	Luksusowa dłoń	Mão Luxuosa	Роскошная рука	Lüks El
 1	Glorious Hand	栄光の手	영광의 손	荣光之手	榮光之手	Ruhmreiche Hand	Mano gloriosa	Main glorieuse	Mano gloriosa	Chwalebna dłoń	Mão Gloriosa	Славная рука	Şanlı El
-1	Shining Hand	黄金の手	황금의 손	黄金之手	黃金之手	Leuchtende Hand	Mano brillante	Main étincelante	Mano splendente	Błyszcząca dłoń	Mão Brilhante	Блестящая рука	Parlayan El
+4	Shining Hand	黄金の手	황금의 손	黄金之手	黃金之手	Leuchtende Hand	Mano brillante	Main étincelante	Mano splendente	Błyszcząca dłoń	Mão Brilhante	Блестящая рука	Parlayan El
 1	Precious Hand	秘蔵の手	비장의 손	秘藏之手	祕藏之手	Kostbare Hand	Mano preciosa	Main précieuse	Mano preziosa	Cenna dłoń	Mão Preciosa	Ценная рука	Kıymetli El
 1	Invaluable Hand	稀代の手	희대의 손	稀世之手	稀世之手	Unschätzbare Hand	Mano inestimable	Main inestimable	Mano inestimabile	Bezcenna dłoń	Mão Inestimável	Бесценная рука	Değersiz El
 1	Ethereal Hand	絶世の手	절세의 손	绝代之手	絕世之手	Himmlische Hand	Mano etérea	Main éthérée	Mano eterea	Eteryczna dłoń	Mão Etérea	Бесплотная рука	Ruhani El

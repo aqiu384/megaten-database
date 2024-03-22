@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from shared import save_ordered_demons
+from shared import save_ordered_demons, load_item_descs, load_item_codes, iterate_int_tsvfile
 
 ATTKS = ['Slash Attack', 'Strike Attack', 'Pierce Attack', '', '', '', '', 'Phys Attack']
 SUFFIXES = ['', ' B', ' C', ' D', ' E']
@@ -21,82 +21,62 @@ RESISTS = {
     34816: 'Z', # 61275 10001000 255
 }
 
-for fname in ['race', 'skill', 'material']:
-    with open(f"en-names/{fname}-names.tsv") as tsvfile:
-        next(tsvfile)
-        NAMES.append([x.split('\t')[0].strip() for x in tsvfile])
+FNAME = 'Content/Xrd777/Blueprints/common/Names/Dat{}DataAsset.tsv'
 
-RACES, SKILLS, MATERIALS = NAMES
-INCLUDED = []
-DEMONS = {}
-SEEN = {}
+ITEMS = load_item_codes('en')
+DEMONS = { x: { 'name': y } for x, y in load_item_descs(FNAME.format('EnemyName'), 'en', max_flag=2).items() }
+RACES = load_item_descs(FNAME.format('Race'), 'en')
+SKILLS = load_item_descs(FNAME.format('SkillName'), 'en')
 
-with open('en-names/enemy-names.tsv') as tsvfile:
-    next(tsvfile)
-    for line in tsvfile:
-        dname, included = line.split('\t')
-        INCLUDED.append(dname if 0 < int(included) and int(included) < 3 else '')
+def update_stats(entry, line):
+    skills = [line[f"skill{x}"] for x in range(1, 9)]
+    skills = [SKILLS[x] for x in skills if x != 0]
+    skills.insert(0, ATTKS[line['attackAttr']])
+    drops = { ITEMS[line[f"itemId{x}"]]: line[f"itemProb{x}"] for x in range(1, 5) if line[f"itemProb{x}"] != 0 }
 
-def load_stats(dname, parts):
-    _, race, lvl = parts[:3]
-    stats = parts[3:10]
-    skills = [SKILLS[x] for x in parts[10:18] if x != 0]
-    exp, _ = parts[18:20]
-    drop1, _, drop2, _, drop3, _, drop4, _, _, dropE, _ = parts[20:31]
-    drops = [x - MATERIAL_OFFSET for x in [drop1, drop2, drop3, drop4, dropE] if x != 0]
-    drops = [MATERIALS[x] for x in drops if x > 0]
-    atkElem, _, _ = parts[31:]
-    skills.insert(0, ATTKS[atkElem])
-
-    suffix = SEEN.get(dname, 0)
-    SEEN[dname] = suffix + 1
-    dname += SUFFIXES[suffix]
-
-    race = RACES[race]
-    if suffix > 0:
-        race += ' P'
-
-    DEMONS[dname] = {
-        'race': race,
-        'lvl': lvl,
-        'exp': exp,
-        'skills': skills,
-        'stats': stats,
-    }
+    entry.update({
+        'race': RACES[line['race']],
+        'lvl': line['level'],
+        'exp': line['exp'],
+        'stats': [line['maxhp'], line['maxsp']] + [line[f"params{x}"] for x in range(1, 6)],
+        'skills': skills
+    })
 
     if 0 < len(drops):
-        DEMONS[dname]['drops'] = drops
+        entry['drops'] = drops
 
-def load_resists(dname, parts):
-    resists = [RESISTS[x] for x in parts]
-    ailments = ''.join(resists[10:-3])
-    resists = ''.join(resists[:7] + resists[8:10] + resists[7:8])
+    return entry
 
-    suffix = SEEN.get(dname, 0)
-    SEEN[dname] = suffix + 1
-    dname += SUFFIXES[suffix]
-
-    DEMONS[dname]['resists'] = resists
+def update_resists(entry, line):
+    resists = [RESISTS[line[f"attr{x}"]] for x in range(1, 11)]
+    resists = ''.join(resists[:7] + resists[8:] + resists[7:8])
+    ailments = ''.join([RESISTS[line[f"attr{x}"]] for x in range(11, 17)])
+    entry['resists'] = resists
     if ailments != '------':
-        DEMONS[dname]['ailments'] = ailments
+        entry['ailments'] = ailments
+    return entry
 
-PARSERS = [
-    ('stats', load_stats),
-    ('resists', load_resists)
+UPDATERS = [
+    ('Enemy', update_stats),
+    ('EnemyAffinity', update_resists)
 ]
 
-for fname, parser in PARSERS:
-    with open(f"battle/enemy-{fname}.tsv") as tsvfile:
-        next(tsvfile)
-        SEEN = {}
-        for i, line in enumerate(tsvfile):
-            parts = [int(x) for x in line.split()]
-            dname = INCLUDED[i]
-            if dname != '':
-                parser(dname, parts)
+FNAME = 'Content/Xrd777/Battle/Tables/Dat{}DataAsset.tsv'
 
-for dname, entry in list(DEMONS.items()):
-    if entry['stats'][1] == 0:
-        del DEMONS[dname]
+for fname, updater in UPDATERS:
+    for i, line in enumerate(iterate_int_tsvfile(FNAME.format(fname), skip_first=False)):
+        if i in DEMONS:
+            updater(DEMONS[i], line)
+
+DEMONS = { x['name']: x for x in DEMONS.values() }
+for demon in DEMONS.values():
+    del demon['name']
+
+with open('walkthrough/enemy-floors.tsv') as tsvfile:
+    next(tsvfile)
+    for line in tsvfile:
+        name, race, floor = line.split('\t')
+        DEMONS[name]['race'] = race
+        DEMONS[name]['area'] = floor.strip()
 
 save_ordered_demons(DEMONS, 'enemy-data.json')

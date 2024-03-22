@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import json
 from shared import load_item_codes, load_item_descs, iterate_int_tsvfile, table_header, table_row
+from shopper import load_items_to_shops
 
 USERS = {
     2: 'Makoto',
@@ -26,182 +27,11 @@ print('''* Inventory items may be obtained through several means
   * Completing Elizabeth and Rescue Requests
   * Other social activities e.g. performing well during exams''')
 
-inames = load_item_codes('en')
-shops = {}
-packs = {}
-requests = []
-
-def add_shop(name, obtain):
-    if name not in shops:
-        shops[name] = []
-    shops[name].append(obtain)
-
-def pluralize(amount):
-    return ' x' + str(amount) if amount > 1 else ''
-
-def to_date(month, day):
-    return '' if month == 4 and day == 1 else f"{month}/{day}: "
-
 def stat_to_str(stat):
     return str(stat) if stat != 0 else '-'
 
-ranks = [str(x) for x in range(1, 11)] + ['J', 'Q', 'K']
-data_file = 'Content/Xrd777/Battle/Tables/Shuffle/DatShuffleSwordArcanaDataAsset.tsv'
-for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
-    name = inames[line['ItemtID']]
-    add_shop(name, f"Sword {ranks[line['RankID']]} ({line['Prob']}%)")
-
-data_file = 'Content/Xrd777/UI/Tables/DatItemShopLineupDataAsset.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    name = inames[line['Value']]
-    available = f"{to_date(line['SaleMonth'], line['SaleDay'])}Pharmacy"
-    add_shop(name, available + ' (Y{})')
-
-data_file = 'Content/Xrd777/UI/Tables/DatWeaponShopLineupDataAsset.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    name = inames[line['Value']]
-    available = f"{to_date(line['SaleMonth'], line['SaleDay'])}Police"
-    add_shop(name, available + ' (Y{})')
-
-SHOPS = [
-    '???', 'Florist', 'School', 'Octopia',
-    'Dorms 2F', 'Dorms 3F', 'Port Island', 'Iwatodai 3F',
-    'Iwatodai Station', 'Kyoto 1F', 'Kyoto 2F', 'Kyoto 3F',
-    'Beef Bowl', 'Net Cafe', 'URL Seller', 'Club Escapade'
-]
-data_file = 'Content/Xrd777/UI/Tables/SimpleShop/SimpleShopDataAsset.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    name = inames[line['ItemID']]
-    available = to_date(line['LiftMonth'], line['LiftDays']) + SHOPS[line['ShopID']]
-    add_shop(name, available + ' (Y{})')
-
-data_file = 'Content/Xrd777/UI/Tables/DatAntiqueShopLineupDataAssetCombineResults.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    name = inames[line['Value']]
-    parts = [inames[line['BaseItemID']]]
-
-    for i in range(1, 4):
-        item_name = inames[line[f"TradeItemID{i}"]]
-        item_num = line[f"TradeItemNum{i}"]
-        if item_num != 0:
-            parts.append(f"{item_name}{pluralize(item_num)}")
-
-    add_shop(name, ' + '.join(parts))
-
-data_file = 'Content/Xrd777/UI/Tables/DatAntiqueShopLineupDataAssetTradeData.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    name = inames[line['Value']]
-    parts = []
-
-    for i in range(1, 4):
-        item_name = inames[line[f"TradeItemID{i}"]]
-        item_num = line[f"TradeItemNum{i}"]
-        if item_num != 0:
-            parts.append(f"{item_name}{pluralize(item_num)}")
-
-    add_shop(name, f"{to_date(line['SaleMonth'], line['SaleDay'])}{' + '.join(parts)}")
-
-data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldDungeonTBoxItem.tsv'
-chests = [(inames[x['itemID']], pluralize(x['itemNum'])) for x in iterate_int_tsvfile(data_file, skip_first=False)]
-
-data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldDungeonTBoxPac.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    pacID = line['pacID']
-    if pacID not in packs:
-        packs[pacID] = []
-    packs[pacID].append((chests[line['tboxID']], line['probability']))
-
-data_file = 'walkthrough/chests-set.tsv'
-with open(data_file) as tsvfile:
-    next(tsvfile)
-    next(tsvfile)
-    for line in tsvfile:
-        floor, encounter, treasure, notes = line.split('\t')
-        for name in treasure.split(', '):
-            chest = ''
-            chance = ''
-            if ': ' in name:
-                chest, name = name.split(': ')
-                chance = ' (100%)'
-                chest = ' ' + chest
-            for name in name.split(' + '):
-                count = ''
-                if ' x' in name:
-                    name, count = name.split(' x')
-                    count = ' x' + count
-                add_shop(name, floor + chest + count + chance)
-
-data_file = 'walkthrough/chests-random.tsv'
-with open(data_file) as tsvfile:
-    chest_types = next(tsvfile).strip().split('\t')[1:]
-    for line in tsvfile:
-        parts = line.split('\t')
-        floor = parts[0]
-        for i, pack_id in enumerate([int(x) for x in parts[1:]]):
-            if pack_id == 0:
-                continue
-            for pack in packs[pack_id]:
-                chance = f"{floor} {chest_types[i]}{pack[0][1]} ({pack[1]}%)"
-                add_shop(pack[0][0], chance)
-
-data_file = 'Content/Xrd777/Battle/Tables/DatPersonaGrowthDataAsset.tsv'
-ieffects = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatPersonaNameDataAsset.tsv', 'en', max_flag=2)
-with open('../../../megaten-fusion-tool/src/app/p3r/data/demon-data.json') as jsonfile:
-    DEMONS = json.load(jsonfile)
-for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
-    if i not in ieffects:
-        continue
-    name = ieffects[i]
-    for j in range(1, 17):
-        skillId = line[f"skillId{j}"]
-        skillLvl = line[f"skillLevel{j}"]
-        if skillId > 0x6000:
-            add_shop(inames[skillId], f"{name} ({DEMONS[name]['lvl'] + skillLvl})")
-
-data_file = 'Content/Xrd777/Battle/Tables/DatEnemyDataAsset.tsv'
-ieffects = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatEnemyNameDataAsset.tsv', 'en', max_flag=3)
-for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
-    if i not in ieffects:
-        continue
-    name = ieffects[i]
-    for j in range(1, 5):
-        skillId = line[f"itemId{j}"]
-        skillLvl = line[f"itemProb{j}"]
-        if skillLvl > 0:
-            add_shop(inames[skillId], f"{name} ({skillLvl}%)")
-
-data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldMailOrderTable.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    for letter in 'AB':
-        name = inames[line[f"Item{letter}_ID"]]
-        num = line[f"Item{letter}_Num"]
-        add_shop(name, f"{to_date(line['BuyMonth'], line['BuyDay'])}TV Shopping{pluralize(num)} (Y{line['Price']})")
-
-data_file = 'Content/Xrd777/UI/Tables/DisappearDataAsset.tsv'
-for line in iterate_int_tsvfile(data_file, skip_first=False):
-    name = inames[line['AwardItemID']]
-    num = line['AwardItemNum']
-    available = f"{to_date(line['StartMonth'], line['StartDays'])}Rescue Reward{pluralize(num)}"
-    add_shop(name, available)
-
-data_file = 'Content/Xrd777/UI/Facility/BMD_Quest.tsv'
-with open(data_file) as tsvfile:
-    next(tsvfile)
-    next(tsvfile)
-    for line in tsvfile:
-        num, title, summary, desc = line.split('\t')
-        name = f"Request #{num}: {title}"
-        requests.append(name)
-
-data_file = 'Content/Xrd777/UI/Tables/VelvetRoomQuestDataAsset.tsv'
-for i, line in enumerate(iterate_int_tsvfile(data_file)):
-    if line['RewardItemID'] not in inames:
-        continue
-    name = inames[line['RewardItemID']]
-    add_shop(name, f"{requests[i]}{pluralize(line['RewardItemNum'])}")
-
-for name, obtain in shops.items():
-    shops[name] = ', '.join(obtain)
+inames = load_item_codes('en')
+shops = load_items_to_shops()
 
 ieffects = load_item_descs('Content/Xrd777/Help/BMD_ItemAddEffectHelp.tsv', 'en')
 ielems = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatAttrNameDataAsset.tsv', 'en')
