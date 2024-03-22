@@ -299,7 +299,7 @@
 * Nothing of note
 ##### Monad Door 1: Rampage Drive C
 * Poison it while it spends 2 turns warming up
-##### Monad Door 2: Vehement Idol CA
+##### Monad Door 2: Vehement Idol C
 * Nothing of note
 ##### Monad Door 3: Phantom King B
 * Nothing of note

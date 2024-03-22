@@ -67,13 +67,21 @@ def load_shops_to_items():
 def load_data(callback):
     inames = load_item_codes('en')
 
-    packs = [str(x) for x in range(1, 11)] + ['J', 'Q', 'K']
-    data_file = 'Content/Xrd777/Battle/Tables/Shuffle/DatShuffleSwordArcanaDataAsset.tsv'
-    for line in iterate_int_tsvfile(data_file, skip_first=False):
-        shop = f"Sword {packs[line['RankID']]}"
-        item = inames[line['ItemtID']]
-        format = f"{{}} ({line['Prob']}%)"
-        callback(shop, item, format)
+    def load_shuffle(data_file, shop_name, item_lookup):
+        ranks = list(range(1, 51)) if shop_name == 'Persona' else [str(x) for x in range(1, 11)] + ['J', 'Q', 'K']
+        for line in iterate_int_tsvfile(data_file, skip_first=False):
+            shop = f"{shop_name} {ranks[line['RankID'] if 'RankID' in line else line['RankId']]}"
+            item_id = 'ItemtID' if 'ItemtID' in line else 'EffectID' if 'EffectID' in line else 'PersonaId'
+            item = item_lookup[line[item_id]]
+            format = f"{{}}{pluralize(line['Num'])} ({line['Prob']}%)" if 'Num' in line else f"{{}} ({line['Prob']}%)"
+            callback(shop, item, format)
+
+    ieffects = load_item_descs('Content/Xrd777/Blueprints/common/Names/DatPersonaNameDataAsset.tsv', 'en', max_flag=1)
+    load_shuffle('Content/Xrd777/Battle/Tables/Shuffle/DatShufflePersonaArcanaDataAsset.tsv', 'Persona', ieffects)
+    load_shuffle('Content/Xrd777/Battle/Tables/Shuffle/DatShuffleSwordArcanaDataAsset.tsv', 'Sword', inames)
+    with open('walkthrough/shuffle-cups.tsv') as tsvfile:
+        ieffects = [line.strip() for line in tsvfile]
+    load_shuffle('Content/Xrd777/Battle/Tables/Shuffle/DatShuffleCupArcanaDataAsset.tsv', 'Cup', ieffects)
 
     def load_police(data_file, shop):
         for line in iterate_int_tsvfile(data_file):
@@ -166,6 +174,9 @@ def load_data(callback):
                 item = inames[itemId]
                 format = f"{{}} ({itemProb}%)"
                 callback(shop, item, format)
+
+    load_shuffle('Content/Xrd777/Battle/Tables/Shuffle/DatShuffleMagicianArcanaDataAsset.tsv', 'Magician Card', inames)
+    load_shuffle('Content/Xrd777/Battle/Tables/Shuffle/DatShuffleHangedmanArcanaDataAsset.tsv', 'Hanged Card', inames)
 
     data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldMailOrderTable.tsv'
     for line in iterate_int_tsvfile(data_file, skip_first=False):
