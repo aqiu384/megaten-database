@@ -1,3 +1,4 @@
+# Persona 3 Reload
 ## Inventory
 * Inventory items may be obtained through several means
   * Buying from the Police Station on the date they become available (Prices given in parantheses)
@@ -9,7 +10,7 @@
 #### Makoto
 | Weapon | Sell | Atk | Acc | Stats | Elem | Skill | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Holy Knight Sword | 3000 | 30 | 85 | - | Holy | - | Black Sword + Malachite x5 + Soul Sea Driblet x2 |
+| Holy Knight Sword | 3000 | 30 | 85 | - | Light | - | Black Sword + Malachite x5 + Soul Sea Driblet x2 |
 | Shortsword | 500 | 38 | 95 | - | Slash | - | Makoto's Initial Equipment |
 | Gladius | 650 | 45 | 95 | - | Slash | +10 HP | Police (Y2600) |
 | Saber | 800 | 60 | 95 | - | Slash | - | Police (Y3200) |
@@ -32,7 +33,7 @@
 | Outenta Mitsuyo | 5330 | 177 | 95 | - | Slash | +Counterstrike | Nihil Blade + Black Quartz x5 |
 | Sin Blade | 5950 | 188 | 95 | - | Slash | - | 9/10: Police (Y23800) |
 | Pulsing Blade | 6330 | 200 | 95 | - | Slash | +30 HP | 10/6: Police (Y25300) |
-| Amakuni | 6700 | 200 | 90 | - | Holy | - | Ergotite Chunk + Soul Sea Drop x2 + Garnet x5 |
+| Amakuni | 6700 | 200 | 90 | - | Light | - | Ergotite Chunk + Soul Sea Drop x2 + Garnet x5 |
 | Kogarasumaru | 7150 | 223 | 95 | - | Slash | - | 10/6: Police (Y28600) |
 | Fatal Blade | 7250 | 230 | 88 | - | Slash | +Random ailment (med) | Quality Nihil Blade + Silver Quartz x2 |
 | Tajikarao Sword | 7350 | 240 | 95 | St +3 | Slash | - | 11/6: Police (Y29400) |
@@ -80,7 +81,7 @@
 | Dhanush | 9430 | 284 | 98 | - | Pierce | +Confuse (med) | 1/1: Police (Y37700) |
 | Yoichi's Bow | 10480 | 303 | 98 | - | Pierce | - | 1/1: Police (Y41900) |
 | Maki's Resolve | 12000 | 314 | 88 | - | Pierce | +Shock (high) | Prime Nihil Blade + Diamond x5 |
-| Sarnga | 14650 | 370 | 98 | - | Holy | +Random ailment (high) | Nihil Black Model + Preservation Conch + Gold Quartz x5 + Ruby x3 |
+| Sarnga | 14650 | 370 | 98 | - | Light | +Random ailment (high) | Nihil Black Model + Preservation Conch + Gold Quartz x5 + Ruby x3 |
 | Quintessence Bow | 17000 | 400 | 98 | - | Pierce | +Auto Concentrate | Nihil Black Model + Bull Warrior Horns + Gold Quartz x5 + Ruby x3 |
 #### Junpei
 | Weapon | Sell | Atk | Acc | Stats | Elem | Skill | Acquisition |
@@ -110,7 +111,7 @@
 | Qingdi Blade | 9300 | 270 | 92 | - | Slash | +Critical rate up (high) | Prime Nihil Blade + Garnet x5 + Silver Quartz x3 |
 | Crimson Greatsword | 9450 | 277 | 92 | St +3 | Slash | - | 12/10: Police (Y37800) |
 | Berserker | 10580 | 288 | 92 | - | Slash | - | 12/10: Police (Y42300) |
-| Laevateinn | 10780 | 300 | 90 | - | Fire | +Fire Boost | AS Refined Material + Múspell Rock + Garnet x10 |
+| Laevateinn | 10780 | 300 | 90 | - | Fire | +Fire Boost | AS Refined Material + Muspell Rock + Garnet x10 |
 | Dojigiri Yasutsuna | 100 | 300 | 92 | - | Slash | +Slash Boost | Harabah II 212 3-lock (100%) |
 | Elixir Sword | 11000 | 303 | 92 | Ma +5 | Slash | - | 1/1: Police (Y44000) |
 | Tobi-botaru | 12200 | 328 | 92 | - | Slash | - | 1/1: Police (Y48800) |
@@ -233,7 +234,7 @@
 #### Ken
 | Weapon | Sell | Atk | Acc | Stats | Elem | Skill | Acquisition |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Blessed Lance | 3030 | 80 | 88 | - | Holy | - | Ergotite Shard + Soul Sea Driblet + Onyx x10 |
+| Blessed Lance | 3030 | 80 | 88 | - | Light | - | Ergotite Shard + Soul Sea Driblet + Onyx x10 |
 | SEES Longspear | 100 | 130 | 94 | - | Pierce | - | Ken's Initial Equipment |
 | Sexy Lance | 3950 | 154 | 94 | - | Pierce | +Charm (med) | Police (Y15780) |
 | Glaive | 4650 | 169 | 94 | - | Pierce | - | Police (Y18600) |
@@ -241,7 +242,7 @@
 | Lance of Death | 4930 | 176 | 94 | - | Pierce | +Fear (med) | 9/10: Police (Y19700) |
 | Rhongowennan | 5750 | 192 | 94 | - | Pierce | - | 9/10: Police (Y23000) |
 | Ote-gine | 5900 | 200 | 88 | - | Pierce | +Critical rate up (high) | Tziah I 143 3-lock (100%) |
-| Gae Bolg | 9730 | 200 | 90 | - | Holy | +Light Boost | Ergotite Chunk + Fetching Hero's Comb + Garnet x5 |
+| Gae Bolg | 9730 | 200 | 90 | - | Light | +Light Boost | Ergotite Chunk + Fetching Hero's Comb + Garnet x5 |
 | Ningen Mukotsu | 6080 | 203 | 94 | St +3 | Pierce | - | 10/6: Police (Y24300) |
 | Ranseur | 7130 | 227 | 94 | - | Pierce | - | 10/6: Police (Y28500) |
 | Warlock Lance | 7750 | 235 | 94 | Ma +5 | Pierce | +30 SP | - |
@@ -477,7 +478,7 @@
 | Swan Legs | Aigis | 13730 | 125 | - | +Magic evasion (high) | Nihil White Model + Goddess Water Lily + Diamond x10 + Ruby x3 |
 | Shoes of Light | Unisex | 15800 | 135 | - | +Ali Dance | Dead Moon's Husk + Savior's Augite + Diamond x10 + Ruby x5 |
 ### Accessories
-| Accesory | Sell | Stats | Skill | Acquisition |
+| Accessory | Sell | Stats | Skill | Acquisition |
 | --- | --- | --- | --- | --- |
 | Portable Player | 750 | - | - | Makoto's Initial Equipment |
 | Heart Choker | 750 | - | - | Yukari's Initial Equipment |
@@ -1082,49 +1083,49 @@
 #### Heart Items
 | Material | Sell | Acquisition |
 | --- | --- | --- |
-| Jacktite | 8500 | Jack Frost (11), Jack-o'-Lantern (17) |
-| Black Frostite | 2500 | Black Frost (41) |
-| Fetching Hero's Comb | 2500 | Cu Chulainn (44) |
-| Unholy Wooden Doll | 2500 | Nebiros (56) |
-| Múspell Rock | 125000 | Surt (66) |
-| King of Beasts Fang | - | Byakko (68) |
-| Thunder Whetstone | - | Thor (70) |
-| Hell's Muffler | - | Hell Biker (70) |
-| Second Hand of Fate | - | Norn (71) |
-| Immortal Angel Core | - | Melchizedek (72) |
-| Nibelung Ore | - | Siegfried (59) |
-| Eye of Wadjet | - | Horus (72) |
-| Earth Goddess Ring | - | Cybele (74) |
-| Shadow Lipstick | - | Skadi (74) |
-| Archangel Wings | - | Michael (75) |
-| God Dragon Whiskers | - | Kohryu (78) |
-| Rainbow Snake Scale | - | Yurlungur (77) |
-| Mara's Head | - | Mara (81) |
-| Goddess Water Lily | - | Lakshmi (79) |
-| Sword God Steel | - | Futsunushi (80) |
-| Eyepatch of Wisdom | - | Odin (81) |
-| Preceptress Silk | - | Scathach (81) |
-| Sacrifice God Wrap | - | Attis (79) |
-| Black Sun Candle | - | Saturnus (82) |
-| Abyssal King Tooth | - | Abaddon (82) |
-| Jaw of Death | - | Thanatos (85) |
-| Preservation Conch | - | Vishnu (85) |
-| Emperor's Sake Cup | - | Masakado (86) |
-| Prayer Angel Garland | - | Sandalphon (87) |
-| Lord of Flies Wings | - | Beelzebub (88) |
-| Destroyer's Drums | - | Shiva (90) |
-| Black Pillar Shard | - | Alilat (91) |
-| Carnage King's Gear | - | Asura (92) |
-| Bull Warrior Horns | - | Chi You (94) |
-| Contract Angel Wing | - | Metatron (94) |
-| Fallen Angel Wing | - | Lucifer (97) |
-| Savior's Augite | - | Messiah (99) |
-| Susano-o's Cloth | - | Susano-o (84) |
-| Clay God Fragment | - | Arahabaki (74) |
-| Wisdom King's Locks | - | Atavaka (79) |
-| Soul Sea Driblet | 6250 | 8/8: Topaz x5, Oni (34), Oberon (18), Hua Po (22), Genbu (33), Sati (32), Sarasvati (34), Take-Minakata (23), Narcissus (25), Fortuna (17), Yamata-no-Orochi (28), Unicorn (13), Lamia (28) |
-| Soul Sea Droplet | 18750 | 10/6: Garnet x5, Clotho (41), Succubus (51), Seiryu (42), Titania (52), Dominion (46), Parvati (51), Flauros (37), Lachesis (48), Rangda (54), Loa (36) |
-| Soul Sea Drop | 62500 | 1/1: Opal x5, Atropos (61), Ananta (78), Alice (73), Kali (68), Gabriel (67), Kikuri-Hime (66), Jatayu (60), Suzaku (60), Chernobog (61), Houou (75), Mother Harlot (82), Lilith (70) |
+| Jacktite | 8500 | Jack Frost (Lv. 11), Jack-o'-Lantern (Lv. 17) |
+| Black Frostite | 2500 | Black Frost (Lv. 41) |
+| Fetching Hero's Comb | 2500 | Cu Chulainn (Lv. 44) |
+| Unholy Wooden Doll | 2500 | Nebiros (Lv. 56) |
+| Muspell Rock | 125000 | Surt (Lv. 66) |
+| King of Beasts Fang | - | Byakko (Lv. 68) |
+| Thunder Whetstone | - | Thor (Lv. 70) |
+| Hell's Muffler | - | Hell Biker (Lv. 70) |
+| Second Hand of Fate | - | Norn (Lv. 71) |
+| Immortal Angel Core | - | Melchizedek (Lv. 72) |
+| Nibelung Ore | - | Siegfried (Lv. 59) |
+| Eye of Wadjet | - | Horus (Lv. 72) |
+| Earth Goddess Ring | - | Cybele (Lv. 74) |
+| Shadow Lipstick | - | Skadi (Lv. 74) |
+| Archangel Wings | - | Michael (Lv. 75) |
+| God Dragon Whiskers | - | Kohryu (Lv. 78) |
+| Rainbow Snake Scale | - | Yurlungur (Lv. 77) |
+| Mara's Head | - | Mara (Lv. 81) |
+| Goddess Water Lily | - | Lakshmi (Lv. 79) |
+| Sword God Steel | - | Futsunushi (Lv. 80) |
+| Eyepatch of Wisdom | - | Odin (Lv. 81) |
+| Preceptress Silk | - | Scathach (Lv. 81) |
+| Sacrifice God Wrap | - | Attis (Lv. 79) |
+| Black Sun Candle | - | Saturnus (Lv. 82) |
+| Abyssal King Tooth | - | Abaddon (Lv. 82) |
+| Jaw of Death | - | Thanatos (Lv. 85) |
+| Preservation Conch | - | Vishnu (Lv. 85) |
+| Emperor's Sake Cup | - | Masakado (Lv. 86) |
+| Prayer Angel Garland | - | Sandalphon (Lv. 87) |
+| Lord of Flies Wings | - | Beelzebub (Lv. 88) |
+| Destroyer's Drums | - | Shiva (Lv. 90) |
+| Black Pillar Shard | - | Alilat (Lv. 91) |
+| Carnage King's Gear | - | Asura (Lv. 92) |
+| Bull Warrior Horns | - | Chi You (Lv. 94) |
+| Contract Angel Wing | - | Metatron (Lv. 94) |
+| Fallen Angel Wing | - | Lucifer (Lv. 97) |
+| Savior's Augite | - | Messiah (Lv. 99) |
+| Susano-o's Cloth | - | Susano-o (Lv. 84) |
+| Clay God Fragment | - | Arahabaki (Lv. 74) |
+| Wisdom King's Locks | - | Atavaka (Lv. 79) |
+| Soul Sea Driblet | 6250 | 8/8: Topaz x5, Fortuna (Lv. 17), Genbu (Lv. 33), Hua Po (Lv. 22), Lamia (Lv. 28), Narcissus (Lv. 25), Oberon (Lv. 18), Oni (Lv. 34), Sarasvati (Lv. 34), Sati (Lv. 32), Take-Minakata (Lv. 23), Unicorn (Lv. 13), Yamata-no-Orochi (Lv. 28) |
+| Soul Sea Droplet | 18750 | 10/6: Garnet x5, Clotho (Lv. 41), Dominion (Lv. 46), Flauros (Lv. 37), Lachesis (Lv. 48), Loa (Lv. 36), Parvati (Lv. 51), Rangda (Lv. 54), Seiryu (Lv. 42), Succubus (Lv. 51), Titania (Lv. 52) |
+| Soul Sea Drop | 62500 | 1/1: Opal x5, Alice (Lv. 73), Ananta (Lv. 78), Atropos (Lv. 61), Chernobog (Lv. 61), Gabriel (Lv. 67), Houou (Lv. 75), Jatayu (Lv. 60), Kali (Lv. 68), Kikuri-Hime (Lv. 66), Lilith (Lv. 70), Mother Harlot (Lv. 82), Suzaku (Lv. 60) |
 #### Sellables
 | Material | Sell | Acquisition |
 | --- | --- | --- |
@@ -1301,56 +1302,56 @@
 | Copper Coin | 800 | Panicked Enemy |
 | Silver Coin | 1700 | Panicked Enemy |
 | Gold Coin | 3500 | Panicked Enemy |
-| Thebel Glass Shard | 70 | Thebel Breakables |
-| Thebel Stone Piece | 80 | Thebel Breakables |
-| Thebel Lantern | 140 | Thebel Breakables |
-| Thebel Iron Fence | 150 | Thebel Breakables |
-| Thebel Crystal | 1000 | Thebel Breakables |
-| Arqa Shell | 110 | Arqa I Breakables |
-| Arqa Ivy | 120 | Arqa I Breakables |
-| Arqa Luminary | 200 | Arqa I Breakables |
-| Arqa Wall Piece | 220 | Arqa I Breakables |
-| Arqa Gem | 1700 | Arqa I Breakables |
-| Arqa Mineral | 200 | Arqa II Breakables |
-| Arqa Vine | 220 | Arqa II Breakables |
-| Arqa Sculpture | 350 | Arqa II Breakables |
-| Arqa Luminous Shell | 360 | Arqa II Breakables |
-| Arqa Crystal | 2400 | Arqa II Breakables |
-| Yabbashah Steel | 290 | Yabbashah I Breakables |
-| Yabbashah Light | 300 | Yabbashah I Breakables |
-| Yabbashah Fuel Can | 460 | Yabbashah I Breakables |
-| Yabbashah Arch | 470 | Yabbashah I Breakables |
-| Yabbashah Gem | 3200 | Yabbashah I Breakables |
-| Yabbashah Iron Plate | 360 | Yabbashah II Breakables |
-| Yabbashah Column | 370 | Yabbashah II Breakables |
-| Yabbashah Cube | 510 | Yabbashah II Breakables |
-| Yabbashah Flare | 520 | Yabbashah II Breakables |
-| Yabbashah Crystal | 4500 | Yabbashah II Breakables |
-| Tziah Window Frame | 490 | Tziah I Breakables |
-| Tziah Ingot | 500 | Tziah I Breakables |
-| Tziah Stone Pillar | 680 | Tziah I Breakables |
-| Tziah Basin | 690 | Tziah I Breakables |
-| Tziah Gem | 6000 | Tziah I Breakables |
-| Tziah Carpet | 540 | Tziah II Breakables |
-| Tziah Wall Piece | 550 | Tziah II Breakables |
-| Tziah Gold Ornament | 740 | Tziah II Breakables |
-| Tziah Pot | 750 | Tziah II Breakables |
-| Tziah Crystal | 7700 | Tziah II Breakables |
-| Harabah Ampoule | 610 | Harabah I Breakables |
-| Harabah Light Shard | 620 | Harabah I Breakables |
-| Harabah Glass Eye | 870 | Harabah I Breakables |
-| Harabah Cloth | 880 | Harabah I Breakables |
-| Harabah Gem | 9500 | Harabah I Breakables |
-| Harabah Wall Piece | 690 | Harabah II Breakables |
-| Harabah Discus | 700 | Harabah II Breakables |
-| Harabah Glass Sphere | 950 | Harabah II Breakables |
-| Harabah Cube | 960 | Harabah II Breakables |
-| Harabah Crystal | 12000 | Harabah II Breakables |
-| Adamah Wall Piece | 790 | Adamah I Breakables |
-| Adamah Steel Pillar | 800 | Adamah I Breakables |
-| Adamah Pyramid | 1120 | Adamah I Breakables |
-| Adamah Orb | 1130 | Adamah I Breakables |
-| Adamah Crystal | 15000 | Adamah I Breakables |
+| Thebel Glass Shard | 70 | Thebel Breakable |
+| Thebel Stone Piece | 80 | Thebel Breakable |
+| Thebel Lantern | 140 | Thebel Breakable |
+| Thebel Iron Fence | 150 | Thebel Breakable |
+| Thebel Crystal | 1000 | Thebel Breakable |
+| Arqa Shell | 110 | Arqa I Breakable |
+| Arqa Ivy | 120 | Arqa I Breakable |
+| Arqa Luminary | 200 | Arqa I Breakable |
+| Arqa Wall Piece | 220 | Arqa I Breakable |
+| Arqa Gem | 1700 | Arqa I Breakable |
+| Arqa Mineral | 200 | Arqa II Breakable |
+| Arqa Vine | 220 | Arqa II Breakable |
+| Arqa Sculpture | 350 | Arqa II Breakable |
+| Arqa Luminous Shell | 360 | Arqa II Breakable |
+| Arqa Crystal | 2400 | Arqa II Breakable |
+| Yabbashah Steel | 290 | Yabbashah I Breakable |
+| Yabbashah Light | 300 | Yabbashah I Breakable |
+| Yabbashah Fuel Can | 460 | Yabbashah I Breakable |
+| Yabbashah Arch | 470 | Yabbashah I Breakable |
+| Yabbashah Gem | 3200 | Yabbashah I Breakable |
+| Yabbashah Iron Plate | 360 | Yabbashah II Breakable |
+| Yabbashah Column | 370 | Yabbashah II Breakable |
+| Yabbashah Cube | 510 | Yabbashah II Breakable |
+| Yabbashah Flare | 520 | Yabbashah II Breakable |
+| Yabbashah Crystal | 4500 | Yabbashah II Breakable |
+| Tziah Window Frame | 490 | Tziah I Breakable |
+| Tziah Ingot | 500 | Tziah I Breakable |
+| Tziah Stone Pillar | 680 | Tziah I Breakable |
+| Tziah Basin | 690 | Tziah I Breakable |
+| Tziah Gem | 6000 | Tziah I Breakable |
+| Tziah Carpet | 540 | Tziah II Breakable |
+| Tziah Wall Piece | 550 | Tziah II Breakable |
+| Tziah Gold Ornament | 740 | Tziah II Breakable |
+| Tziah Pot | 750 | Tziah II Breakable |
+| Tziah Crystal | 7700 | Tziah II Breakable |
+| Harabah Ampoule | 610 | Harabah I Breakable |
+| Harabah Light Shard | 620 | Harabah I Breakable |
+| Harabah Glass Eye | 870 | Harabah I Breakable |
+| Harabah Cloth | 880 | Harabah I Breakable |
+| Harabah Gem | 9500 | Harabah I Breakable |
+| Harabah Wall Piece | 690 | Harabah II Breakable |
+| Harabah Discus | 700 | Harabah II Breakable |
+| Harabah Glass Sphere | 950 | Harabah II Breakable |
+| Harabah Cube | 960 | Harabah II Breakable |
+| Harabah Crystal | 12000 | Harabah II Breakable |
+| Adamah Wall Piece | 790 | Adamah I Breakable |
+| Adamah Steel Pillar | 800 | Adamah I Breakable |
+| Adamah Pyramid | 1120 | Adamah I Breakable |
+| Adamah Orb | 1130 | Adamah I Breakable |
+| Adamah Crystal | 15000 | Adamah I Breakable |
 ### Consumables
 #### Recovery
 | Item | Effect | Acquisition |

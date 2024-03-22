@@ -182,8 +182,8 @@ def load_data(callback):
         item = inames[line['AwardItemID']]
         format = f"{to_date(line['StartMonth'], line['StartDays'])}{{}}{pluralize(line['AwardItemNum'])}"
         callback(shop, item, format)
-    requests = list_requests()
 
+    requests = list_requests()
     data_file = 'Content/Xrd777/UI/Tables/VelvetRoomQuestDataAsset.tsv'
     for i, line in enumerate(iterate_int_tsvfile(data_file)):
         if line['RewardItemID'] == 0:

@@ -3,7 +3,7 @@ import json
 import math
 import re
 
-WALKTHROUGH = 'ave-walkthrough-base.md'
+WALKTHROUGH = 'walkthrough/ave-walkthrough-base.md'
 EVENT = re.compile('^\* [A-Za-z]+ (?:Flag|Rank) [0-9\.]+(?: Romantic| Platonic|)')
 NEEDS_PERSONA = ' (Needs matching persona)'
 FIRST_BONUS = '* **1st Social Link bonus'
@@ -11,7 +11,7 @@ SECOND_BONUS = '* **2nd Social Link bonus'
 
 links = {}
 
-with open('social-links.json') as jsonfile:
+with open('walkthrough/social-links.json') as jsonfile:
     for race, events in json.load(jsonfile).items():
         for event, choices in events.items():
             links[race + ' ' + event] = choices

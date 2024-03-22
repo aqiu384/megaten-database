@@ -19,6 +19,7 @@ USERS = {
     1406: 'Unisex',
 }
 
+print(f"# Persona 3 Reload")
 print(f"## Inventory")
 print('''* Inventory items may be obtained through several means
   * Buying from the Police Station on the date they become available (Prices given in parantheses)
