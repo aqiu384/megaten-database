@@ -13,7 +13,7 @@
 
 ### Fusion
 #### Fusion Chart
-| - | Fool | Magi | Prie | Empr | Empe | Hier | Love | Char | Just | Herm | Fort | Stre | Hang | Deat | Temp | Devi | Towe | Star | Moon | Sun | Judg | Aeon |
+| Arcana | Fool | Magi | Prie | Empr | Empe | Hier | Love | Char | Just | Herm | Fort | Stre | Hang | Deat | Temp | Devi | Towe | Star | Moon | Sun | Judg | Aeon |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Fool** | **Fool** | Hier | Magi | Star | Temp | Hang | Just | Empe | Love | Prie | Stre | Deat | Devi | Fort | Char | Herm | Moon | Devi | Empr | Judg | Aeon | Deat |
 | **Magician** | Hier | **Magi** | Just | Hang | Love | Herm | Char | Devi | Hier | Moon | Love | Empe | Fool | Prie | Just | Temp | Char | Stre | Stre | Empr | Star | Sun |
@@ -208,21 +208,22 @@
 #### Sword
 {{ shuffle_time('Sword') }}
 #### Coin
-| Rank | Min Money | Max Money |
+| Rank | Max Money | Min Money |
 | --- | --- | --- |
-| 1 | 100 | 500 |
-| 2 | 900 | 1000 |
-| 3 | 400 | 1500 |
-| 4 | 000 | 2000 |
-| 5 | 800 | 2500 |
-| 6 | 700 | 3400 |
-| 7 | 600 | 4300 |
-| 8 | 700 | 5400 |
-| 9 | 000 | 6500 |
-| 10 | 4000 | 7700 |
-| J | 2000 | 15000 |
-| Q | 0000 | 35000 |
-| K | 0000 | 70000 |
+| 1 | 1100 | 500 |
+| 2 | 1900 | 1000 |
+| 3 | 2400 | 1500 |
+| 4 | 3000 | 2000 |
+| 5 | 3800 | 2500 |
+| 6 | 4700 | 3400 |
+| 7 | 5600 | 4300 |
+| 8 | 6700 | 5400 |
+| 9 | 8000 | 6500 |
+| 10 | 14000 | 7700 |
+| J | 22000 | 15000 |
+| Q | 50000 | 35000 |
+| K | 90000 | 70000 |
+
 #### Wand
 | Rank | EXP Multiplier |
 | --- | --- |

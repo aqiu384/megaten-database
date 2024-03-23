@@ -118,7 +118,7 @@
 ##### 82F: Arcanist Decapitator + Heat Overseer + Sky Overseer
 * Nothing of note
 ##### 90F: Deviant Convict + Tome of Atrophy
-* Deviant Convict AI: Charge > Tarukaja > Rebellion, Herculean Strike
+* Deviant Convict AI: Charge > Tarukaja > Rebellion > Herculean Strike
 * Poison the Convict > Take out the Tome > Guard before the Strike > Finish it off
 ##### 91F: Controlling Partner + Dependent Partner
 * Poison the Dependent and Distress the Controlling for a Knockdown
@@ -353,13 +353,16 @@
 {{ area_chests('Adamah II') }}
 #### Hints
 ##### 259F: Jin
-* All bosse from now on have multiple phases that can't be skipped with Armageddon
+* All bosses from now on have multiple phases that can't be skipped with Armageddon
 ##### 263F: Takaya
 * Save up your Theurgies when he gets low on HP and respond in kind
 ##### 264F: Nyx
 * Nothing of note
 
 ### Ultimate Adversary
+#### Stats
+{{ enemy_stats('Ultimate Adversary') }}
+{{ enemy_resists('Ultimate Adversary') }}
 #### Equipment
 * Lucifer's Blade
 * Armor of Light

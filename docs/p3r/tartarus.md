@@ -23,21 +23,29 @@
 | 12-21 | Resolved Checkmate | 10 | 588 | 935 | 50 | Lead Medal (100%) |
 | 14-21 | Grave Beetle | 7 | 35 | 282 | 15 | Vanguard's Horn (25%), Amethyst (5%) |
 | 17 | Swift Axle | 9 | 1260 | 422 | 300 | Shaft Fragment (100%) |
+| Full Moon | Despairing Tiara | 8 | 0 | 100 | 500 | - |
+| Full Moon | Loathsome Tiara | 8 | 0 | 100 | 500 | - |
+| Full Moon | Skeptical Tiara | 8 | 0 | 100 | 100 | - |
+| Full Moon | Priestess | 11 | 1500 | 700 | 500 | High Priestess Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2-19 | Cowardly Maya | w | - | - | w | - | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 2-21 | Muttering Tiara | - | - | - | - | - | - | w | - | - | - | - | 4 | - | - | - |
-| 3-9 | Merciless Maya | - | - | - | s | w | - | - | - | - | - | - | 4 | - | - | - |
-| 5 | Ruthless Ice Raven | - | - | - | w | s | - | s | N | N | 4 | 4 | 4 | 4 | N | 4 |
-| 7-21 | Magic Hand | - | - | - | w | - | s | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 9-21 | Obsessed Cupid | - | - | - | - | w | - | s | - | - | 1 | - | 4 | - | 4 | - |
-| 11 | Barbaric Beast Wheel | - | - | - | s | - | - | w | N | N | - | - | - | 4 | N | 1 |
-| 12-21 | Trance Twins | - | - | - | - | s | w | - | Z | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 12-21 | Wealth Hand | - | w | - | - | - | - | - | - | - | N | N | N | N | N | - |
-| 12-21 | Resolved Checkmate | - | - | - | - | - | w | - | - | - | - | - | - | - | N | - |
-| 14-21 | Grave Beetle | - | - | - | - | - | s | w | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 17 | Swift Axle | s | s | - | - | - | w | s | N | N | N | - | - | N | N | N |
+| 2-19 | Cowardly Maya | w | - | - | w | - | - | - | - | - | v | v | v | v | v | v |
+| 2-21 | Muttering Tiara | - | - | - | - | - | - | w | - | - | - | - | v | - | - | - |
+| 3-9 | Merciless Maya | - | - | - | s | w | - | - | - | - | - | - | v | - | - | - |
+| 5 | Ruthless Ice Raven | - | - | - | w | s | - | s | * | * | v | v | v | v | n | v |
+| 7-21 | Magic Hand | - | - | - | w | - | s | - | - | - | v | v | v | v | v | v |
+| 9-21 | Obsessed Cupid | - | - | - | - | w | - | s | - | - | s | - | v | - | v | - |
+| 11 | Barbaric Beast Wheel | - | - | - | s | - | - | w | * | * | - | - | - | v | n | s |
+| 12-21 | Trance Twins | - | - | - | - | s | w | - | z | - | v | v | v | v | v | v |
+| 12-21 | Wealth Hand | - | w | - | - | - | - | - | - | - | n | n | n | n | n | - |
+| 12-21 | Resolved Checkmate | - | - | - | - | - | w | - | - | - | - | - | - | - | n | - |
+| 14-21 | Grave Beetle | - | - | - | - | - | s | w | - | - | v | v | v | v | v | v |
+| 17 | Swift Axle | s | s | - | - | - | w | s | * | * | n | - | - | n | n | n |
+| Full Moon | Despairing Tiara | w | - | - | w | - | - | - | * | * | n | n | n | n | n | n |
+| Full Moon | Loathsome Tiara | - | - | w | - | - | - | w | * | * | n | n | n | n | n | n |
+| Full Moon | Skeptical Tiara | - | - | - | s | w | w | s | * | * | n | n | n | n | n | n |
+| Full Moon | Priestess | - | - | - | v | n | * | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -117,32 +125,46 @@
 | 39-41 | Soul Dancer | 14 | 90 | 223 | 15 | Balloon of Amity (30%), Malachite (15%) |
 | 39-41 | Venus Eagle | 14 | 100 | 229 | 40 | Ostentatious Plume (30%), Amethyst (15%) |
 | 42 | Clairvoyant Relic | 17 | 4500 | 1090 | 999 | Amethyst (100%) |
+| Full Moon | Emperor A | 18 | 1931 | 700 | 999 | Emperor Tarot (100%) |
+| Full Moon | Emperor B | 18 | 1 | 700 | 999 | - |
+| Full Moon | Emperor C | 18 | 1 | 700 | 999 | - |
+| Full Moon | Emperor D | 18 | 1 | 700 | 999 | - |
+| Full Moon | Empress A | 18 | 1931 | 700 | 999 | Empress Tarot (100%) |
+| Full Moon | Empress B | 18 | 1 | 700 | 999 | - |
+| Full Moon | Empress C | 18 | 1 | 700 | 999 | - |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 23-34 | Heat Balance | - | - | - | s | s | w | w | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 23-37 | Frivolous Maya | - | w | - | - | w | - | s | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 23-41 | Treasure Hand | - | - | - | - | - | - | - | Z | - | N | N | N | N | N | - |
-| 23-41 | Yearning Checkmate | - | - | - | - | - | - | - | - | w | - | - | - | - | N | - |
-| 24-34 | Laughing Table | - | - | s | - | s | - | w | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 24-41 | Grieving Tiara | - | - | - | w | n | - | - | - | - | - | - | 4 | - | - | - |
-| 25-37 | Black Raven | - | - | - | n | - | - | s | Z | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 28 | Lightning Eagle | - | - | w | - | s | - | w | N | N | N | N | - | - | N | - |
-| 28 | Will O' Wisp Raven | - | - | - | d | w | - | s | N | N | N | 1 | - | N | N | N |
-| 29-34 | Steel Gigas B | - | s | - | - | - | w | - | N | N | 4 | - | - | 4 | N | 1 |
-| 29-41 | Spurious Book | - | - | - | - | - | w | - | n | - | - | - | 4 | - | - | - |
-| 31-41 | Corrupt Tower | - | - | s | - | - | w | - | - | - | 4 | - | - | - | - | - |
-| 33-41 | Wild Beast | - | - | s | - | - | - | - | Z | Z | 4 | 4 | 4 | 4 | 4 | 4 |
-| 35 | Grievous Table | - | - | - | n | w | - | - | N | N | 1 | N | N | N | N | 1 |
-| 35 | Heretic Magus | - | - | - | - | - | w | s | N | N | N | N | 1 | N | N | - |
-| 36 | Slaughter Twins | - | - | - | - | - | Z | - | w | S | 1 | 1 | 4 | 1 | N | 1 |
-| 36 | Disturbing Dice | - | - | - | s | - | 4 | - | N | N | N | - | 4 | N | N | N |
-| 37-41 | Dancing Hand | - | - | - | w | n | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 37-41 | Phantom Mage | - | - | - | s | - | - | - | Z | n | - | - | - | - | 1 | - |
-| 37-41 | Enslaved Beast B | - | - | - | w | - | - | - | N | N | - | - | 4 | 4 | N | 1 |
-| 39-41 | Soul Dancer | - | - | - | - | n | - | w | - | - | 1 | - | 4 | - | 4 | - |
-| 39-41 | Venus Eagle | s | - | w | - | w | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 42 | Clairvoyant Relic | - | - | - | - | - | - | - | n | n | N | 1 | 4 | N | N | N |
+| 23-34 | Heat Balance | - | - | - | s | s | w | w | - | - | v | v | v | v | v | v |
+| 23-37 | Frivolous Maya | - | w | - | - | w | - | s | - | - | v | v | v | v | v | v |
+| 23-41 | Treasure Hand | - | - | - | - | - | - | - | z | - | n | n | n | n | n | - |
+| 23-41 | Yearning Checkmate | - | - | - | - | - | - | - | - | w | - | - | - | - | n | - |
+| 24-34 | Laughing Table | - | - | s | - | s | - | w | - | - | v | v | v | v | v | v |
+| 24-41 | Grieving Tiara | - | - | - | w | n | - | - | - | - | - | - | v | - | - | - |
+| 25-37 | Black Raven | - | - | - | n | - | - | s | z | - | v | v | v | v | v | v |
+| 28 | Lightning Eagle | - | - | w | - | s | - | w | * | * | n | n | - | - | n | - |
+| 28 | Will O' Wisp Raven | - | - | - | d | w | - | s | * | * | n | s | - | n | n | n |
+| 29-34 | Steel Gigas B | - | s | - | - | - | w | - | * | * | v | - | - | v | n | s |
+| 29-41 | Spurious Book | - | - | - | - | - | w | - | n | - | - | - | v | - | - | - |
+| 31-41 | Corrupt Tower | - | - | s | - | - | w | - | - | - | v | - | - | - | - | - |
+| 33-41 | Wild Beast | - | - | s | - | - | - | - | z | z | v | v | v | v | v | v |
+| 35 | Grievous Table | - | - | - | n | w | - | - | * | * | s | n | n | n | n | s |
+| 35 | Heretic Magus | - | - | - | - | - | w | s | * | * | n | n | s | n | n | - |
+| 36 | Slaughter Twins | - | - | - | - | - | z | - | w | s* | s | s | v | s | n | s |
+| 36 | Disturbing Dice | - | - | - | s | - | v | - | * | * | n | - | v | n | n | n |
+| 37-41 | Dancing Hand | - | - | - | w | n | - | - | - | - | v | v | v | v | v | v |
+| 37-41 | Phantom Mage | - | - | - | s | - | - | - | z | n | - | - | - | - | s | - |
+| 37-41 | Enslaved Beast B | - | - | - | w | - | - | - | * | * | - | - | v | v | n | s |
+| 39-41 | Soul Dancer | - | - | - | - | n | - | w | - | - | s | - | v | - | v | - |
+| 39-41 | Venus Eagle | s | - | w | - | w | - | - | - | - | v | v | v | v | v | v |
+| 42 | Clairvoyant Relic | - | - | - | - | - | - | - | n | n | n | s | v | n | n | n |
+| Full Moon | Emperor A | t* | n | n | n | n | w | n | n | n | n | n | n | n | n | n |
+| Full Moon | Emperor B | t* | n | n | n | w | n | n | n | n | n | n | n | n | n | n |
+| Full Moon | Emperor C | t* | n | n | w | n | n | n | n | n | n | n | n | n | n | n |
+| Full Moon | Emperor D | t* | n | n | n | n | n | w | n | n | n | n | n | n | n | n |
+| Full Moon | Empress A | n | n | w | n | n | n | n | n | n | n | n | n | n | n | n |
+| Full Moon | Empress B | n | w | n | n | n | n | n | n | n | n | n | n | n | n | n |
+| Full Moon | Empress C | w | n | n | n | n | n | n | n | n | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -211,31 +233,35 @@
 | 61-68 | Phantom Master | 22 | 176 | 278 | 40 | Lord's Candlestick (35%), Onyx (10%) |
 | 63-68 | Killing Hand | 22 | 148 | 251 | 40 | Assailant's Choker (35%), Amethyst (10%) |
 | 65-68 | Enslaved Beast | 23 | 222 | 285 | 50 | Servant's Fur (30%), Onyx (15%) |
+| Full Moon | Hierophant | 25 | 12605 | 2200 | 999 | Hierophant Tarot (100%) |
+| Full Moon | Lovers | 26 | 13655 | 4500 | 999 | Lovers Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 44-53 | Bestial Wheel B | - | s | s | - | - | - | w | N | N | 4 | - | - | 4 | N | 1 |
+| 44-53 | Bestial Wheel B | - | s | s | - | - | - | w | * | * | v | - | - | v | n | s |
 | 44-63 | Bronze Dice | - | n | - | - | - | w | - | - | - | - | - | - | - | - | - |
-| 44-63 | Vicious Raven | - | - | - | d | w | - | s | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 44-67 | Haughty Maya | - | - | - | - | - | - | - | s | Z | 4 | 4 | 4 | 4 | 4 | 4 |
-| 44-68 | Precious Hand | - | - | - | - | - | - | - | - | Z | N | N | N | N | N | - |
-| 44-68 | Ardent Checkmate | - | - | - | - | w | - | - | - | - | - | - | - | - | N | - |
-| 45-68 | Sky Balance | - | - | - | w | w | r | r | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 47 | Enslaved Cupid | - | - | - | - | - | w | - | N | N | N | - | - | - | N | - |
-| 47 | Servant Tower | - | - | - | n | s | r | s | n | w | 1 | N | N | N | N | 4 |
-| 48-68 | Steel Gigas | - | s | - | - | - | w | - | - | - | 4 | - | - | - | - | 4 |
-| 50-68 | Maniacal Book | - | - | - | w | s | - | - | n | - | - | - | 4 | - | - | - |
-| 52-68 | Crying Table | - | - | - | n | w | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 54 | Profligate Gigas | - | 4 | - | - | - | - | w | N | N | 4 | N | 1 | 1 | N | N |
-| 54 | Lascivious Lady | - | 4 | - | n | n | n | n | n | n | - | 1 | - | 1 | N | N |
-| 55-66 | Jealous Cupid | - | - | - | - | w | - | n | - | - | 1 | - | 4 | - | 4 | - |
-| 55-68 | Dark Eagle | - | - | - | - | - | - | w | Z | n | 4 | 4 | 4 | 4 | 4 | 4 |
-| 55-68 | Lustful Snake B | - | - | - | d | w | - | - | N | N | N | - | 4 | N | N | - |
-| 57-65 | Adamant Beetle | s | - | n | - | - | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 60 | Fleetfooted Cavalry | - | - | - | - | - | - | d | n | n | 1 | 1 | - | 1 | N | N |
-| 61-68 | Phantom Master | - | - | - | - | - | n | - | Z | n | - | - | - | - | 1 | - |
-| 63-68 | Killing Hand | - | - | - | - | n | - | w | n | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 65-68 | Enslaved Beast | - | - | - | w | - | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
+| 44-63 | Vicious Raven | - | - | - | d | w | - | s | - | - | v | v | v | v | v | v |
+| 44-67 | Haughty Maya | - | - | - | - | - | - | - | s | z | v | v | v | v | v | v |
+| 44-68 | Precious Hand | - | - | - | - | - | - | - | - | z | n | n | n | n | n | - |
+| 44-68 | Ardent Checkmate | - | - | - | - | w | - | - | - | - | - | - | - | - | n | - |
+| 45-68 | Sky Balance | - | - | - | w | w | r | r | - | - | v | v | v | v | v | v |
+| 47 | Enslaved Cupid | - | - | - | - | - | w | - | * | * | n | - | - | - | n | - |
+| 47 | Servant Tower | - | - | - | n | s | r | s | n | w | s | n | n | n | n | v |
+| 48-68 | Steel Gigas | - | s | - | - | - | w | - | - | - | v | - | - | - | - | v |
+| 50-68 | Maniacal Book | - | - | - | w | s | - | - | n | - | - | - | v | - | - | - |
+| 52-68 | Crying Table | - | - | - | n | w | - | - | - | - | v | v | v | v | v | v |
+| 54 | Profligate Gigas | - | v | - | - | - | - | w | * | * | v | n | s | s | n | n |
+| 54 | Lascivious Lady | - | v | - | n | n | n | n | n | n | - | s | - | s | n | n |
+| 55-66 | Jealous Cupid | - | - | - | - | w | - | n | - | - | s | - | v | - | v | - |
+| 55-68 | Dark Eagle | - | - | - | - | - | - | w | z | n | v | v | v | v | v | v |
+| 55-68 | Lustful Snake B | - | - | - | d | w | - | - | * | * | n | - | v | n | n | - |
+| 57-65 | Adamant Beetle | s | - | n | - | - | - | - | - | - | v | v | v | v | v | v |
+| 60 | Fleetfooted Cavalry | - | - | - | - | - | - | d | n | n | s | s | - | s | n | n |
+| 61-68 | Phantom Master | - | - | - | - | - | n | - | z | n | - | - | - | - | s | - |
+| 63-68 | Killing Hand | - | - | - | - | n | - | w | n | - | v | v | v | v | v | v |
+| 65-68 | Enslaved Beast | - | - | - | w | - | - | - | - | - | v | v | v | v | v | v |
+| Full Moon | Hierophant | - | - | - | - | - | - | - | n | n | n | n | n | n | n | n |
+| Full Moon | Lovers | - | * | t | n | * | t | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -316,40 +342,46 @@
 | P2 | Shouting Tiara B | 33 | 0 | 957 | 999 | Shrieking Tiara (100%) |
 | P2 | Magical Magus C | 34 | 0 | 420 | 999 | Cap of Wizardry (100%) |
 | P2 | Rampage Drive B | 34 | 3214 | 420 | 999 | Ruinous Rotary Leg (100%) |
+| Full Moon | Chariot | 34 | 11785 | 2100 | 999 | Chariot Tarot (100%) |
+| Full Moon | Justice | 34 | 11785 | 900 | 999 | Justice Tarot (100%) |
+| Full Moon | Tank-Form Shadow | 34 | 0 | 3000 | 999 | - |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 70-81 | Wild Drive B | s | s | - | - | n | w | - | N | N | 1 | N | - | 4 | N | N |
-| 70-89 | Creation Relic | - | w | w | - | s | s | n | - | - | 1 | 4 | 1 | 1 | 1 | 1 |
-| 70-89 | Indolent Maya | - | w | - | - | - | s | w | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 70-89 | Lustful Snake | - | - | - | - | w | - | d | - | - | N | - | 4 | - | 4 | - |
-| 70-89 | Supreme Hand | - | - | 4 | n | n | n | n | n | n | N | N | N | N | N | - |
-| 70-89 | Majestic Checkmate | 4 | 4 | 4 | s | s | s | s | S | S | - | - | - | - | N | - |
-| 71-88 | Killer Twins | - | - | - | - | - | n | - | Z | n | 4 | 4 | 4 | 4 | 4 | 4 |
-| 72-89 | Ardent Dancer | - | - | w | w | n | - | - | - | - | N | - | 4 | - | 4 | - |
-| 74-89 | Golden Beetle | - | s | - | - | n | - | - | r | Z | 4 | 4 | 4 | 4 | 4 | 4 |
-| 77 | Ochlocratic Sand | - | - | - | r | w | n | n | S | S | 1 | N | 1 | N | N | N |
-| 78-89 | Devoted Cupid | - | - | s | w | w | - | n | - | n | N | - | 4 | - | 4 | - |
-| 78-89 | Mach Wheel | s | n | - | - | - | w | - | - | - | - | 1 | - | 4 | - | - |
-| 80-89 | Silent Book | w | - | - | - | - | n | w | - | s | - | - | 4 | - | - | - |
-| 82 | Heat Overseer | - | - | - | d | d | w | w | N | N | N | N | N | N | N | N |
-| 82 | Sky Overseer | - | - | - | w | w | d | d | N | N | N | N | N | N | N | N |
-| 82 | Arcanist Decapitator | - | - | - | - | n | - | n | N | N | N | N | - | N | N | 4 |
-| 83-89 | Dogmatic Tower | - | w | - | n | - | - | - | n | n | 4 | - | - | - | - | - |
-| 83-89 | Jupiter Eagle | - | - | w | - | s | - | d | - | Z | 4 | 4 | 4 | 4 | 4 | 4 |
-| 83-89 | Jotun of Power B | - | - | w | s | s | s | s | N | N | - | 4 | 1 | 1 | N | 1 |
-| 85-89 | Avenger Knight | - | - | n | w | n | - | - | Z | - | 4 | - | - | - | - | 4 |
-| 90 | Tome of Atrophy | - | - | - | w | - | n | - | N | N | N | N | 1 | - | N | 1 |
-| 90 | Deviant Convict | - | - | - | - | N | N | - | N | N | N | 4 | 4 | N | N | N |
-| 91 | Controlling Partner | n | n | - | - | - | - | - | n | n | N | N | - | N | N | N |
-| 91 | Dependent Partner | - | - | w | n | n | n | n | n | n | N | - | N | N | N | N |
-| D1 | Elegant Mother C | - | - | - | w | - | - | s | N | n | N | 1 | - | N | N | N |
-| D2 | Phantom Mage B | - | - | - | - | - | s | w | r | N | N | N | 1 | N | N | N |
-| D3 | Red Sigil B | - | - | - | d | w | - | - | N | N | - | N | N | N | N | N |
-| P1 | Cowardly Maya E | - | - | - | - | - | - | - | N | N | 1 | 1 | - | - | N | N |
-| P2 | Shouting Tiara B | - | w | - | n | - | S | - | N | N | - | N | - | N | N | N |
-| P2 | Magical Magus C | - | - | - | t | T | T | t | T | T | N | N | N | N | N | N |
-| P2 | Rampage Drive B | t | t | t | - | N | N | - | N | N | N | N | N | N | N | N |
+| 70-81 | Wild Drive B | s | s | - | - | n | w | - | * | * | s | n | - | v | n | n |
+| 70-89 | Creation Relic | - | w | w | - | s | s | n | - | - | s | v | s | s | s | s |
+| 70-89 | Indolent Maya | - | w | - | - | - | s | w | - | - | v | v | v | v | v | v |
+| 70-89 | Lustful Snake | - | - | - | - | w | - | d | - | - | n | - | v | - | v | - |
+| 70-89 | Supreme Hand | - | - | v | n | n | n | n | n | n | n | n | n | n | n | - |
+| 70-89 | Majestic Checkmate | v | v | v | s | s | s | s | s* | s* | - | - | - | - | n | - |
+| 71-88 | Killer Twins | - | - | - | - | - | n | - | z | n | v | v | v | v | v | v |
+| 72-89 | Ardent Dancer | - | - | w | w | n | - | - | - | - | n | - | v | - | v | - |
+| 74-89 | Golden Beetle | - | s | - | - | n | - | - | r | z | v | v | v | v | v | v |
+| 77 | Ochlocratic Sand | - | - | - | r | w | n | n | s* | s* | s | n | s | n | n | n |
+| 78-89 | Devoted Cupid | - | - | s | w | w | - | n | - | n | n | - | v | - | v | - |
+| 78-89 | Mach Wheel | s | n | - | - | - | w | - | - | - | - | s | - | v | - | - |
+| 80-89 | Silent Book | w | - | - | - | - | n | w | - | s | - | - | v | - | - | - |
+| 82 | Heat Overseer | - | - | - | d | d | w | w | * | * | n | n | n | n | n | n |
+| 82 | Sky Overseer | - | - | - | w | w | d | d | * | * | n | n | n | n | n | n |
+| 82 | Arcanist Decapitator | - | - | - | - | n | - | n | * | * | n | n | - | n | n | v |
+| 83-89 | Dogmatic Tower | - | w | - | n | - | - | - | n | n | v | - | - | - | - | - |
+| 83-89 | Jupiter Eagle | - | - | w | - | s | - | d | - | z | v | v | v | v | v | v |
+| 83-89 | Jotun of Power B | - | - | w | s | s | s | s | * | * | - | v | s | s | n | s |
+| 85-89 | Avenger Knight | - | - | n | w | n | - | - | z | - | v | - | - | - | - | v |
+| 90 | Tome of Atrophy | - | - | - | w | - | n | - | * | * | n | n | s | - | n | s |
+| 90 | Deviant Convict | - | - | - | - | * | * | - | * | * | n | v | v | n | n | n |
+| 91 | Controlling Partner | n | n | - | - | - | - | - | n | n | n | n | - | n | n | n |
+| 91 | Dependent Partner | - | - | w | n | n | n | n | n | n | n | - | n | n | n | n |
+| D1 | Elegant Mother C | - | - | - | w | - | - | s | * | n | n | s | - | n | n | n |
+| D2 | Phantom Mage B | - | - | - | - | - | s | w | r | * | n | n | s | n | n | n |
+| D3 | Red Sigil B | - | - | - | d | w | - | - | * | * | - | n | n | n | n | n |
+| P1 | Cowardly Maya E | - | - | - | - | - | - | - | * | * | s | s | - | - | n | n |
+| P2 | Shouting Tiara B | - | w | - | n | - | s* | - | * | * | - | n | - | n | n | n |
+| P2 | Magical Magus C | - | - | - | t | t* | t* | t | t* | t* | n | n | n | n | n | n |
+| P2 | Rampage Drive B | t | t | t | - | * | * | - | * | * | n | n | n | n | n | n |
+| Full Moon | Chariot | t | t | t | - | - | - | - | * | * | n | n | n | n | n | n |
+| Full Moon | Justice | - | - | - | t | t* | t* | t | t* | t* | n | n | n | n | n | n |
+| Full Moon | Tank-Form Shadow | t | t | t | t | t* | t* | t | t* | t* | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -385,7 +417,7 @@
 ##### 82F: Arcanist Decapitator + Heat Overseer + Sky Overseer
 * Nothing of note
 ##### 90F: Deviant Convict + Tome of Atrophy
-* Deviant Convict AI: Charge > Tarukaja > Rebellion, Herculean Strike
+* Deviant Convict AI: Charge > Tarukaja > Rebellion > Herculean Strike
 * Poison the Convict > Take out the Tome > Guard before the Strike > Finish it off
 ##### 91F: Controlling Partner + Dependent Partner
 * Poison the Dependent and Distress the Controlling for a Knockdown
@@ -441,39 +473,41 @@
 | P3 | Muttering Tiara E | 39 | 0 | 620 | 999 | Hushing Tiara (100%) |
 | P3 | Silent Book C | 39 | 0 | 620 | 999 | Book of Secrets (100%) |
 | P3 | Platinum Dice B | 41 | 3131 | 1600 | 999 | Platinum Dice (100%) |
+| Full Moon | Hermit | 41 | 34445 | 8000 | 999 | Hermit Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 93-104 | Champion Knight B | s | s | s | - | - | d | - | N | w | - | N | N | N | N | N |
-| 93-116 | Justice Sword | - | - | - | - | - | s | - | - | Z | 1 | 4 | 1 | 1 | 1 | 1 |
-| 93-117 | Insidious Maya | - | - | - | - | w | - | - | s | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 93-117 | Invaluable Hand | - | - | - | - | - | - | - | - | Z | N | N | N | N | N | - |
-| 93-117 | Dignified Checkmate | - | - | - | - | - | - | - | - | w | - | - | - | - | N | - |
-| 94-117 | Ice Raven | - | - | - | w | r | - | s | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
+| 93-104 | Champion Knight B | s | s | s | - | - | d | - | * | w | - | n | n | n | n | n |
+| 93-116 | Justice Sword | - | - | - | - | - | s | - | - | z | s | v | s | s | s | s |
+| 93-117 | Insidious Maya | - | - | - | - | w | - | - | s | - | v | v | v | v | v | v |
+| 93-117 | Invaluable Hand | - | - | - | - | - | - | - | - | z | n | n | n | n | n | - |
+| 93-117 | Dignified Checkmate | - | - | - | - | - | - | - | - | w | - | - | - | - | n | - |
+| 94-117 | Ice Raven | - | - | - | w | r | - | s | - | - | v | v | v | v | v | v |
 | 96-117 | Mind Dice | - | - | - | s | s | w | s | - | - | - | - | - | - | - | - |
-| 97-114 | Furious Gigas | - | s | - | s | - | s | - | - | Z | 4 | - | - | - | - | 4 |
-| 99 | Five Fingers of Blight | - | - | - | - | n | - | - | N | w | 1 | N | 1 | N | N | N |
-| 99 | Venomous Magus | - | - | - | n | - | w | n | N | N | N | N | N | N | N | N |
-| 100-117 | Wild Drive | s | s | s | - | - | w | - | - | - | - | 1 | - | 4 | - | - |
-| 102-117 | Shouting Tiara | - | - | - | - | - | d | - | n | Z | - | - | 4 | - | - | - |
-| 103-117 | Almighty Hand | - | - | - | d | - | - | w | n | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 105 | Executioner's Crown | - | - | - | w | - | - | d | n | N | N | N | 1 | N | N | N |
-| 105 | Bloody Maria | - | - | w | n | n | n | n | n | n | N | 1 | - | N | N | N |
-| 106-117 | Minotaur IV | - | - | - | n | w | - | - | - | - | 4 | - | - | - | - | 4 |
-| 106-117 | Elegant Mother B | - | - | - | - | s | w | n | N | d | N | 1 | 1 | N | N | - |
-| 109-117 | Phantom Lord | - | - | - | w | - | - | d | Z | r | - | - | - | - | 1 | - |
-| 112 | Imposing Skyscraper | - | - | s | - | - | d | s | N | N | N | N | 1 | N | N | N |
-| 113-117 | Jotun of Power | - | - | w | s | s | s | s | s | s | - | 4 | - | - | - | - |
-| D1 | Nemean Beast B | - | - | - | - | - | s | w | S | N | N | 1 | - | N | N | - |
-| D2 | Eternal Eagle B | n | n | w | - | - | - | - | N | N | N | N | 1 | N | N | 1 |
-| D3 | Chaos Cyclops B | - | - | n | - | - | - | - | n | N | 1 | N | - | 1 | N | N |
-| P1 | Muttering Tiara D | - | - | - | - | - | - | n | - | w | N | N | - | N | N | N |
-| P1 | Bronze Dice B | n | - | - | - | - | w | - | N | n | N | N | N | N | N | N |
-| P2 | Silent Book B | - | - | - | - | n | - | w | - | - | N | N | - | N | N | N |
-| P2 | Iron Dice B | - | - | - | - | w | n | - | n | N | N | N | N | N | N | N |
-| P3 | Muttering Tiara E | - | - | - | - | - | - | n | - | w | N | N | - | N | N | N |
-| P3 | Silent Book C | - | - | - | - | n | - | w | - | - | N | N | - | N | N | N |
-| P3 | Platinum Dice B | n | - | - | - | - | n | - | n | n | N | N | N | N | N | N |
+| 97-114 | Furious Gigas | - | s | - | s | - | s | - | - | z | v | - | - | - | - | v |
+| 99 | Five Fingers of Blight | - | - | - | - | n | - | - | * | w | s | n | s | n | n | n |
+| 99 | Venomous Magus | - | - | - | n | - | w | n | * | * | n | n | n | n | n | n |
+| 100-117 | Wild Drive | s | s | s | - | - | w | - | - | - | - | s | - | v | - | - |
+| 102-117 | Shouting Tiara | - | - | - | - | - | d | - | n | z | - | - | v | - | - | - |
+| 103-117 | Almighty Hand | - | - | - | d | - | - | w | n | - | v | v | v | v | v | v |
+| 105 | Executioner's Crown | - | - | - | w | - | - | d | n | * | n | n | s | n | n | n |
+| 105 | Bloody Maria | - | - | w | n | n | n | n | n | n | n | s | - | n | n | n |
+| 106-117 | Minotaur IV | - | - | - | n | w | - | - | - | - | v | - | - | - | - | v |
+| 106-117 | Elegant Mother B | - | - | - | - | s | w | n | * | d | n | s | s | n | n | - |
+| 109-117 | Phantom Lord | - | - | - | w | - | - | d | z | r | - | - | - | - | s | - |
+| 112 | Imposing Skyscraper | - | - | s | - | - | d | s | * | * | n | n | s | n | n | n |
+| 113-117 | Jotun of Power | - | - | w | s | s | s | s | s | s | - | v | - | - | - | - |
+| D1 | Nemean Beast B | - | - | - | - | - | s | w | s* | * | n | s | - | n | n | - |
+| D2 | Eternal Eagle B | n | n | w | - | - | - | - | * | * | n | n | s | n | n | s |
+| D3 | Chaos Cyclops B | - | - | n | - | - | - | - | n | * | s | n | - | s | n | n |
+| P1 | Muttering Tiara D | - | - | - | - | - | - | n | - | w | n | n | - | n | n | n |
+| P1 | Bronze Dice B | n | - | - | - | - | w | - | * | n | n | n | n | n | n | n |
+| P2 | Silent Book B | - | - | - | - | n | - | w | - | - | n | n | - | n | n | n |
+| P2 | Iron Dice B | - | - | - | - | w | n | - | n | * | n | n | n | n | n | n |
+| P3 | Muttering Tiara E | - | - | - | - | - | - | n | - | w | n | n | - | n | n | n |
+| P3 | Silent Book C | - | - | - | - | n | - | w | - | - | n | n | - | n | n | n |
+| P3 | Platinum Dice B | n | - | - | - | - | n | - | n | n | n | n | n | n | n | n |
+| Full Moon | Hermit | - | - | - | - | - | n | n | * | n | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -564,40 +598,44 @@
 | P1 | Dogmatic Tower B | 48 | 1615 | 1408 | 999 | Crown of Obstinacy (100%) |
 | P2 | Natural Dancer B | 48 | 1211 | 1300 | 999 | Balloon of Unity (100%) |
 | P3 | Vehement Idol B | 48 | 4038 | 2215 | 999 | Throne of Mania (100%) |
+| Full Moon | Fortune | 48 | 47385 | 2500 | 999 | Fortune Tarot (100%) |
+| Full Moon | Strength | 48 | 0 | 5500 | 999 | Strength Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 119-131 | Hakurou Musha B | - | - | - | - | - | - | - | w | w | - | N | N | N | N | N |
-| 119-141 | Ill-Fated Maya | w | - | - | w | - | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 119-142 | Blue Sigil | - | w | - | - | d | - | - | - | - | 4 | - | - | - | - | - |
-| 119-142 | Opulent Hand | - | w | - | - | - | - | - | - | - | N | N | N | N | N | - |
-| 119-142 | Bold Checkmate | w | w | - | - | - | - | - | - | - | - | - | - | - | N | - |
-| 120-142 | Death Twins | - | - | - | - | - | d | - | Z | n | 4 | 4 | 4 | 4 | 4 | 4 |
-| 121-142 | Constancy Relic | - | - | - | - | w | - | n | - | - | 1 | 4 | 1 | 1 | 1 | 1 |
-| 123-142 | Tranquil Idol | - | - | w | n | - | s | w | s | - | - | - | 4 | - | - | - |
-| 125 | Rampaging Sand | - | w | - | s | s | s | s | N | N | N | N | N | - | N | N |
-| 125 | Heartless Relic | - | - | - | - | - | w | - | S | S | N | N | N | N | N | N |
-| 126 | Raging Turret | n | - | - | - | N | N | w | N | N | N | N | N | N | N | N |
-| 127-141 | Champion Knight | s | s | s | - | - | d | - | - | Z | 4 | - | - | - | - | 4 |
-| 128-142 | Writhing Tiara | - | - | r | - | - | - | - | - | Z | - | - | 4 | - | - | - |
-| 130-141 | Killer Drive | - | w | - | - | n | w | - | n | - | - | 1 | - | 4 | - | - |
-| 132 | Terminal Table | - | n | - | - | - | - | - | d | N | N | N | N | N | N | 1 |
-| 133-142 | Elegant Mother | - | - | - | - | s | - | n | Z | d | - | - | 4 | - | - | - |
-| 133-142 | Order Giant B | s | s | s | - | w | r | r | N | N | N | - | N | N | N | N |
-| 134-142 | Brave Wheel | - | - | - | d | w | - | - | - | - | - | 1 | - | 4 | - | - |
-| 136 | Purging Right Hand | - | d | - | - | - | w | - | N | r | - | N | N | N | N | N |
-| 136 | Subservient Left Hand | - | - | d | w | - | - | - | r | N | N | N | N | - | N | N |
-| 136 | Jotun of Authority | d | - | - | n | w | - | - | N | N | N | N | N | N | N | N |
-| 137-142 | Magical Magus | - | w | - | - | n | n | - | - | n | 4 | 4 | 4 | 4 | 4 | 4 |
-| 139-142 | Arcane Turret | n | - | n | - | - | w | - | - | - | - | 1 | - | 4 | - | - |
-| 143 | Isolated Castle | - | - | - | n | n | n | n | n | n | N | N | 1 | N | N | N |
-| D1 | Judgment Sword B | - | - | n | - | - | d | w | N | N | N | - | N | N | N | N |
-| D2 | Minotaur III B | s | r | r | w | - | - | - | N | N | - | N | N | N | N | N |
-| D3 | Grand Magus B | - | w | - | s | n | - | s | n | N | N | N | - | N | N | N |
-| P1 | Immoral Snake B | - | - | - | d | w | - | - | - | s | N | - | N | N | N | N |
-| P1 | Dogmatic Tower B | - | - | n | - | - | w | - | n | N | N | - | N | N | N | N |
-| P2 | Natural Dancer B | - | - | - | s | - | s | n | N | N | N | - | - | 1 | N | N |
-| P3 | Vehement Idol B | - | - | - | - | s | - | - | N | n | N | N | - | N | N | N |
+| 119-131 | Hakurou Musha B | - | - | - | - | - | - | - | w | w | - | n | n | n | n | n |
+| 119-141 | Ill-Fated Maya | w | - | - | w | - | - | - | - | - | v | v | v | v | v | v |
+| 119-142 | Blue Sigil | - | w | - | - | d | - | - | - | - | v | - | - | - | - | - |
+| 119-142 | Opulent Hand | - | w | - | - | - | - | - | - | - | n | n | n | n | n | - |
+| 119-142 | Bold Checkmate | w | w | - | - | - | - | - | - | - | - | - | - | - | n | - |
+| 120-142 | Death Twins | - | - | - | - | - | d | - | z | n | v | v | v | v | v | v |
+| 121-142 | Constancy Relic | - | - | - | - | w | - | n | - | - | s | v | s | s | s | s |
+| 123-142 | Tranquil Idol | - | - | w | n | - | s | w | s | - | - | - | v | - | - | - |
+| 125 | Rampaging Sand | - | w | - | s | s | s | s | * | * | n | n | n | - | n | n |
+| 125 | Heartless Relic | - | - | - | - | - | w | - | s* | s* | n | n | n | n | n | n |
+| 126 | Raging Turret | n | - | - | - | * | * | w | * | * | n | n | n | n | n | n |
+| 127-141 | Champion Knight | s | s | s | - | - | d | - | - | z | v | - | - | - | - | v |
+| 128-142 | Writhing Tiara | - | - | r | - | - | - | - | - | z | - | - | v | - | - | - |
+| 130-141 | Killer Drive | - | w | - | - | n | w | - | n | - | - | s | - | v | - | - |
+| 132 | Terminal Table | - | n | - | - | - | - | - | d | * | n | n | n | n | n | s |
+| 133-142 | Elegant Mother | - | - | - | - | s | - | n | z | d | - | - | v | - | - | - |
+| 133-142 | Order Giant B | s | s | s | - | w | r | r | * | * | n | - | n | n | n | n |
+| 134-142 | Brave Wheel | - | - | - | d | w | - | - | - | - | - | s | - | v | - | - |
+| 136 | Purging Right Hand | - | d | - | - | - | w | - | * | r | - | n | n | n | n | n |
+| 136 | Subservient Left Hand | - | - | d | w | - | - | - | r | * | n | n | n | - | n | n |
+| 136 | Jotun of Authority | d | - | - | n | w | - | - | * | * | n | n | n | n | n | n |
+| 137-142 | Magical Magus | - | w | - | - | n | n | - | - | n | v | v | v | v | v | v |
+| 139-142 | Arcane Turret | n | - | n | - | - | w | - | - | - | - | s | - | v | - | - |
+| 143 | Isolated Castle | - | - | - | n | n | n | n | n | n | n | n | s | n | n | n |
+| D1 | Judgment Sword B | - | - | n | - | - | d | w | * | * | n | - | n | n | n | n |
+| D2 | Minotaur III B | s | r | r | w | - | - | - | * | * | - | n | n | n | n | n |
+| D3 | Grand Magus B | - | w | - | s | n | - | s | n | * | n | n | - | n | n | n |
+| P1 | Immoral Snake B | - | - | - | d | w | - | - | - | s | n | - | n | n | n | n |
+| P1 | Dogmatic Tower B | - | - | n | - | - | w | - | n | * | n | - | n | n | n | n |
+| P2 | Natural Dancer B | - | - | - | s | - | s | n | * | * | n | - | - | s | n | n |
+| P3 | Vehement Idol B | - | - | - | - | s | - | - | * | n | n | n | - | n | n | n |
+| Full Moon | Fortune | - | w | - | d | d | w | d | d | * | n | n | n | n | n | n |
+| Full Moon | Strength | t* | r | t* | - | * | * | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -696,41 +734,61 @@
 | P2 | Spiritual Castle | 55 | 1556 | 9999 | 999 | White Wall Fragment (100%) |
 | P3 | Change Relic B | 55 | 2596 | 1690 | 999 | Orb of Flux (100%) |
 | P3 | Intrepid Knight B | 55 | 2594 | 1930 | 999 | Ergotite Chunk (100%) |
+| Full Moon | Statue A | 55 | 0 | 800 | 999 | - |
+| Full Moon | Statue B | 55 | 0 | 800 | 999 | - |
+| Full Moon | Statue C | 55 | 0 | 800 | 999 | - |
+| Full Moon | Statue D | 55 | 0 | 800 | 999 | - |
+| Full Moon | Statue E | 55 | 0 | 800 | 999 | - |
+| Full Moon | Statue F | 55 | 0 | 800 | 999 | - |
+| Full Moon | Jin A | 56 | 32343 | 2300 | 999 | - |
+| Full Moon | Statue G | 56 | 0 | 500 | 999 | - |
+| Full Moon | Takaya A | 56 | 32343 | 2500 | 999 | - |
+| Full Moon | Hanged Man | 57 | 67040 | 8000 | 999 | Hanged Man Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 145-154 | Scarlet Turret B | r | n | - | s | - | w | - | N | N | N | N | N | 1 | N | N |
-| 145-166 | Visceral Maya | n | n | n | w | w | - | w | - | Z | 4 | 4 | 4 | 4 | 4 | 4 |
-| 145-168 | Death Seeker | - | - | - | n | - | - | - | Z | r | - | - | 4 | - | - | - |
-| 145-168 | Ethereal Hand | - | - | - | - | - | w | - | - | - | N | N | N | N | N | - |
-| 145-168 | Reticent Checkmate | - | - | - | - | - | w | - | - | - | - | - | - | - | N | - |
-| 146-168 | Growth Relic | - | w | - | - | - | - | d | - | - | 1 | 4 | 1 | 1 | 1 | 1 |
-| 147-168 | Liberating Idol | - | - | - | - | r | w | n | - | - | - | - | 4 | - | - | - |
-| 149-168 | Hakurou Musha | - | - | - | - | - | - | - | Z | Z | 4 | - | - | - | - | 4 |
-| 151 | Tome of Persecution | - | - | - | - | d | - | - | N | w | N | N | N | - | N | - |
-| 151 | Pagoda of Disaster | - | w | - | - | - | d | d | N | N | N | N | N | N | N | N |
-| 152-168 | Flowing Sand | w | w | w | r | r | r | r | r | r | 1 | 1 | 1 | 1 | 1 | 1 |
-| 153-168 | Order Giant | s | s | s | - | w | r | r | - | - | 1 | 4 | 1 | 1 | 1 | 1 |
-| 155 | Dancing Beast Wheel | - | - | - | - | n | - | - | S | N | N | N | - | N | N | N |
-| 156-168 | Solid Castle | - | - | - | - | - | n | w | - | - | 1 | 4 | 1 | 1 | 1 | 1 |
-| 156-168 | Ruinous Idol B | - | - | - | - | - | d | w | N | d | N | N | 1 | N | N | N |
-| 157-168 | Regal Mother | - | - | - | n | s | w | d | n | - | - | - | 4 | - | - | - |
-| 159-168 | Conviction Sword | s | - | s | - | - | - | - | - | Z | 1 | 4 | 1 | 1 | 1 | 1 |
-| 159-168 | Wondrous Magus | - | - | - | w | r | - | - | n | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 161 | Demented Knight | - | - | n | n | - | - | w | N | N | N | N | N | N | N | N |
-| 162-168 | Minotaur III | - | n | - | - | - | w | - | r | - | 4 | - | - | - | - | 4 |
-| 164-168 | Mighty Cyclops | - | - | - | - | - | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 170 | Serpent of Absurdity | - | - | - | d | w | - | - | N | N | N | N | - | N | N | N |
-| 170 | Cruel Greatsword | n | - | - | - | - | - | - | w | n | N | - | N | N | N | N |
-| 171 | Invigorated Gigas | - | - | - | - | s | - | - | n | n | N | N | N | N | N | N |
-| D1 | Crazy Twins B | w | - | s | n | - | - | n | S | N | - | N | N | N | N | 1 |
-| D2 | Emperor Beetle B | n | n | - | w | - | - | - | N | N | N | N | N | N | N | N |
-| D3 | Death Castle B | s | - | n | - | w | - | - | N | r | N | 1 | N | N | N | N |
-| P1 | Minotaur II B | r | r | r | - | - | - | - | N | N | N | 4 | N | N | N | N |
-| P2 | Haunted Castle | t | t | - | t | - | - | t | Z | n | 1 | 4 | 4 | 1 | N | - |
-| P2 | Spiritual Castle | t | t | - | - | t | t | - | n | Z | 1 | 4 | 4 | 1 | N | - |
-| P3 | Change Relic B | - | - | - | - | - | - | - | n | n | N | N | N | N | N | N |
-| P3 | Intrepid Knight B | - | - | - | - | - | - | n | n | n | N | N | N | N | N | N |
+| 145-154 | Scarlet Turret B | r | n | - | s | - | w | - | * | * | n | n | n | s | n | n |
+| 145-166 | Visceral Maya | n | n | n | w | w | - | w | - | z | v | v | v | v | v | v |
+| 145-168 | Death Seeker | - | - | - | n | - | - | - | z | r | - | - | v | - | - | - |
+| 145-168 | Ethereal Hand | - | - | - | - | - | w | - | - | - | n | n | n | n | n | - |
+| 145-168 | Reticent Checkmate | - | - | - | - | - | w | - | - | - | - | - | - | - | n | - |
+| 146-168 | Growth Relic | - | w | - | - | - | - | d | - | - | s | v | s | s | s | s |
+| 147-168 | Liberating Idol | - | - | - | - | r | w | n | - | - | - | - | v | - | - | - |
+| 149-168 | Hakurou Musha | - | - | - | - | - | - | - | z | z | v | - | - | - | - | v |
+| 151 | Tome of Persecution | - | - | - | - | d | - | - | * | w | n | n | n | - | n | - |
+| 151 | Pagoda of Disaster | - | w | - | - | - | d | d | * | * | n | n | n | n | n | n |
+| 152-168 | Flowing Sand | w | w | w | r | r | r | r | r | r | s | s | s | s | s | s |
+| 153-168 | Order Giant | s | s | s | - | w | r | r | - | - | s | v | s | s | s | s |
+| 155 | Dancing Beast Wheel | - | - | - | - | n | - | - | s* | * | n | n | - | n | n | n |
+| 156-168 | Solid Castle | - | - | - | - | - | n | w | - | - | s | v | s | s | s | s |
+| 156-168 | Ruinous Idol B | - | - | - | - | - | d | w | * | d | n | n | s | n | n | n |
+| 157-168 | Regal Mother | - | - | - | n | s | w | d | n | - | - | - | v | - | - | - |
+| 159-168 | Conviction Sword | s | - | s | - | - | - | - | - | z | s | v | s | s | s | s |
+| 159-168 | Wondrous Magus | - | - | - | w | r | - | - | n | - | v | v | v | v | v | v |
+| 161 | Demented Knight | - | - | n | n | - | - | w | * | * | n | n | n | n | n | n |
+| 162-168 | Minotaur III | - | n | - | - | - | w | - | r | - | v | - | - | - | - | v |
+| 164-168 | Mighty Cyclops | - | - | - | - | - | - | - | - | - | v | v | v | v | v | v |
+| 170 | Serpent of Absurdity | - | - | - | d | w | - | - | * | * | n | n | - | n | n | n |
+| 170 | Cruel Greatsword | n | - | - | - | - | - | - | w | n | n | - | n | n | n | n |
+| 171 | Invigorated Gigas | - | - | - | - | s | - | - | n | n | n | n | n | n | n | n |
+| D1 | Crazy Twins B | w | - | s | n | - | - | n | s* | * | - | n | n | n | n | s |
+| D2 | Emperor Beetle B | n | n | - | w | - | - | - | * | * | n | n | n | n | n | n |
+| D3 | Death Castle B | s | - | n | - | w | - | - | * | r | n | s | n | n | n | n |
+| P1 | Minotaur II B | r | r | r | - | - | - | - | * | * | n | v | n | n | n | n |
+| P2 | Haunted Castle | t | t | - | t | - | - | t | z | n | s | v | v | s | n | - |
+| P2 | Spiritual Castle | t | t | - | - | t | t | - | n | z | s | v | v | s | n | - |
+| P3 | Change Relic B | - | - | - | - | - | - | - | n | n | n | n | n | n | n | n |
+| P3 | Intrepid Knight B | - | - | - | - | - | - | n | n | n | n | n | n | n | n | n |
+| Full Moon | Statue A | w | t* | t* | w | t* | t* | t* | t* | t* | n | n | n | n | n | n |
+| Full Moon | Statue B | t* | w | t* | t* | w | t* | t* | t* | t* | n | n | n | n | n | n |
+| Full Moon | Statue C | w | t* | t* | t* | t* | w | t* | t* | t* | n | n | n | n | n | n |
+| Full Moon | Statue D | t* | w | t* | t* | t* | t* | w | t* | t* | n | n | n | n | n | n |
+| Full Moon | Statue E | t* | t* | w | t* | t* | t* | t* | w | t* | n | n | n | n | n | n |
+| Full Moon | Statue F | t* | t* | w | t* | t* | t* | t* | t* | w | n | n | n | n | n | n |
+| Full Moon | Jin A | - | - | - | r | * | * | - | * | r | n | n | n | n | n | n |
+| Full Moon | Statue G | t* | t* | t* | t* | t* | t* | t* | t* | t* | n | n | n | n | n | n |
+| Full Moon | Takaya A | - | - | - | - | * | * | - | r | d | n | n | n | n | n | n |
+| Full Moon | Hanged Man | - | t* | - | n | * | * | - | * | r | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -826,40 +884,42 @@
 | P2 | Sky Balance B | 62 | 2175 | 1000 | 999 | Purple-Green Plates (100%) |
 | P2 | Light Balance B | 63 | 2175 | 1800 | 999 | Prime Nihil Ore (100%) |
 | P2 | Omnipotent Balance | 64 | 2175 | 3000 | 999 | Golden Plates (100%) |
+| Full Moon | Chidori | 63 | 0 | 2800 | 999 | - |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 173-183 | Curse Dice B | s | s | s | - | - | - | w | N | n | N | N | N | N | N | N |
-| 173-194 | Imprudent Maya | - | - | w | - | n | w | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 173-196 | Kaiden Musha | s | s | s | - | - | - | w | - | - | 4 | - | - | - | - | 4 |
-| 173-197 | Luxury Hand | s | s | s | n | n | n | n | n | n | N | N | N | N | N | - |
-| 173-197 | Principled Checkmate | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | - | - | - | - | N | - |
-| 174-192 | Crazy Twins | - | - | - | - | - | r | - | n | w | 4 | 4 | 4 | 4 | 4 | 4 |
-| 175-196 | Apostate Tower | - | - | - | w | s | d | - | - | - | 4 | - | - | - | - | - |
-| 177-196 | Scarlet Turret | r | n | - | s | - | w | - | - | - | - | 1 | - | 4 | - | - |
-| 179 | Cultist of the Storm | - | n | - | s | - | - | - | N | w | N | N | 1 | N | N | 1 |
-| 180-197 | Mighty Beast | - | - | - | - | - | - | - | w | r | 4 | 4 | 4 | 4 | 4 | 4 |
-| 182-197 | Gracious Cupid | - | w | - | n | - | - | - | - | - | N | - | 4 | - | 4 | - |
-| 184 | Executive Greatsword | - | - | - | w | - | d | - | r | N | N | - | N | N | N | N |
-| 184 | Merciless Judge | n | n | - | - | n | s | - | N | N | N | 4 | N | N | N | N |
-| 185-197 | Ruinous Idol | - | - | - | - | - | d | w | - | d | - | - | 4 | - | - | - |
-| 185-197 | Jotun of Blood B | - | - | - | - | - | - | - | N | w | 1 | - | N | N | N | N |
-| 186-197 | Battle Wheel | - | - | - | - | - | - | - | n | - | 4 | - | 4 | 4 | 4 | 4 |
-| 188 | Resentful Surveillant | w | - | - | - | - | s | - | N | n | - | N | 1 | N | N | N |
-| 188 | Chaos Panzer | - | - | - | n | - | - | n | r | N | N | N | N | 1 | N | N |
-| 189-197 | Immoral Snake | w | - | w | - | - | - | n | - | - | N | - | 4 | - | 4 | - |
-| 191-197 | Hell Knight | n | - | n | - | - | r | w | - | - | 4 | - | - | - | - | 4 |
-| 193 | Necromachinery | n | - | - | - | - | n | - | r | N | N | N | N | N | N | N |
-| 194-197 | Power Castle | - | - | - | s | w | - | r | - | - | 1 | 4 | 1 | 1 | 1 | 1 |
-| D1 | Void Giant B | n | s | - | w | r | - | r | N | N | N | 4 | N | N | N | N |
-| D2 | World Balance B | - | - | - | - | - | - | - | N | N | N | 1 | - | N | N | 1 |
-| D3 | Eternal Sand B | w | w | - | - | r | r | - | N | n | N | N | N | N | N | N |
-| P1 | Devious Maya B | t | t | t | t | t | t | t | T | T | N | N | - | N | N | N |
-| P1 | Amorous Snake B | - | - | - | d | w | - | - | r | N | N | N | N | N | N | N |
-| P2 | Heat Balance C | - | - | - | r | r | w | w | - | - | N | N | N | N | N | N |
-| P2 | Sky Balance B | - | - | - | w | w | r | r | - | - | N | N | N | N | N | N |
-| P2 | Light Balance B | - | - | - | - | N | N | - | r | r | N | N | N | N | N | N |
-| P2 | Omnipotent Balance | - | - | - | n | n | n | n | N | N | N | N | N | N | N | N |
+| 173-183 | Curse Dice B | s | s | s | - | - | - | w | * | n | n | n | n | n | n | n |
+| 173-194 | Imprudent Maya | - | - | w | - | n | w | - | - | - | v | v | v | v | v | v |
+| 173-196 | Kaiden Musha | s | s | s | - | - | - | w | - | - | v | - | - | - | - | v |
+| 173-197 | Luxury Hand | s | s | s | n | n | n | n | n | n | n | n | n | n | n | - |
+| 173-197 | Principled Checkmate | v | v | v | v | v | v | v | v | v | - | - | - | - | n | - |
+| 174-192 | Crazy Twins | - | - | - | - | - | r | - | n | w | v | v | v | v | v | v |
+| 175-196 | Apostate Tower | - | - | - | w | s | d | - | - | - | v | - | - | - | - | - |
+| 177-196 | Scarlet Turret | r | n | - | s | - | w | - | - | - | - | s | - | v | - | - |
+| 179 | Cultist of the Storm | - | n | - | s | - | - | - | * | w | n | n | s | n | n | s |
+| 180-197 | Mighty Beast | - | - | - | - | - | - | - | w | r | v | v | v | v | v | v |
+| 182-197 | Gracious Cupid | - | w | - | n | - | - | - | - | - | n | - | v | - | v | - |
+| 184 | Executive Greatsword | - | - | - | w | - | d | - | r | * | n | - | n | n | n | n |
+| 184 | Merciless Judge | n | n | - | - | n | s | - | * | * | n | v | n | n | n | n |
+| 185-197 | Ruinous Idol | - | - | - | - | - | d | w | - | d | - | - | v | - | - | - |
+| 185-197 | Jotun of Blood B | - | - | - | - | - | - | - | * | w | s | - | n | n | n | n |
+| 186-197 | Battle Wheel | - | - | - | - | - | - | - | n | - | v | - | v | v | v | v |
+| 188 | Resentful Surveillant | w | - | - | - | - | s | - | * | n | - | n | s | n | n | n |
+| 188 | Chaos Panzer | - | - | - | n | - | - | n | r | * | n | n | n | s | n | n |
+| 189-197 | Immoral Snake | w | - | w | - | - | - | n | - | - | n | - | v | - | v | - |
+| 191-197 | Hell Knight | n | - | n | - | - | r | w | - | - | v | - | - | - | - | v |
+| 193 | Necromachinery | n | - | - | - | - | n | - | r | * | n | n | n | n | n | n |
+| 194-197 | Power Castle | - | - | - | s | w | - | r | - | - | s | v | s | s | s | s |
+| D1 | Void Giant B | n | s | - | w | r | - | r | * | * | n | v | n | n | n | n |
+| D2 | World Balance B | - | - | - | - | - | - | - | * | * | n | s | - | n | n | s |
+| D3 | Eternal Sand B | w | w | - | - | r | r | - | * | n | n | n | n | n | n | n |
+| P1 | Devious Maya B | t | t | t | t | t | t | t | t* | t* | n | n | - | n | n | n |
+| P1 | Amorous Snake B | - | - | - | d | w | - | - | r | * | n | n | n | n | n | n |
+| P2 | Heat Balance C | - | - | - | r | r | w | w | - | - | n | n | n | n | n | n |
+| P2 | Sky Balance B | - | - | - | w | w | r | r | - | - | n | n | n | n | n | n |
+| P2 | Light Balance B | - | - | - | - | * | * | - | r | r | n | n | n | n | n | n |
+| P2 | Omnipotent Balance | - | - | - | n | n | n | n | * | * | n | n | n | n | n | n |
+| Full Moon | Chidori | - | - | - | d | * | * | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -955,43 +1015,43 @@
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 199-211 | Daring Gigas B | s | s | s | - | - | - | w | N | N | 1 | N | N | N | N | N |
-| 199-217 | Red Sigil | - | - | - | d | w | - | - | n | - | 4 | - | - | - | - | - |
-| 199-224 | Desirous Maya | - | - | - | w | - | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 199-224 | Miracle Hand | d | d | d | d | d | d | d | d | d | N | N | N | N | N | - |
-| 199-224 | Dutiful Checkmate | - | - | - | w | - | - | - | - | - | - | - | - | - | N | - |
-| 200-223 | Angry Table | w | - | - | - | n | - | w | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 201-222 | Fate Seeker | - | - | w | n | n | n | n | w | r | - | - | 4 | - | - | - |
-| 203 | Luckless Cupid | - | - | - | d | - | w | - | r | N | N | N | - | - | N | N |
-| 203 | Icebreaker Lion | - | n | - | w | n | - | - | N | S | N | N | N | N | N | N |
+| 199-211 | Daring Gigas B | s | s | s | - | - | - | w | * | * | s | n | n | n | n | n |
+| 199-217 | Red Sigil | - | - | - | d | w | - | - | n | - | v | - | - | - | - | - |
+| 199-224 | Desirous Maya | - | - | - | w | - | - | - | - | - | v | v | v | v | v | v |
+| 199-224 | Miracle Hand | d | d | d | d | d | d | d | d | d | n | n | n | n | n | - |
+| 199-224 | Dutiful Checkmate | - | - | - | w | - | - | - | - | - | - | - | - | - | n | - |
+| 200-223 | Angry Table | w | - | - | - | n | - | w | - | - | v | v | v | v | v | v |
+| 201-222 | Fate Seeker | - | - | w | n | n | n | n | w | r | - | - | v | - | - | - |
+| 203 | Luckless Cupid | - | - | - | d | - | w | - | r | * | n | n | - | - | n | n |
+| 203 | Icebreaker Lion | - | n | - | w | n | - | - | * | s* | n | n | n | n | n | n |
 | 204-222 | Curse Dice | s | s | s | - | - | w | - | - | - | - | - | - | - | - | - |
-| 204-224 | Pistil Mother | - | - | - | - | w | - | r | r | - | - | - | 4 | - | - | - |
-| 206-223 | Wrathful Book | - | - | - | w | r | - | - | d | - | - | - | 4 | - | - | - |
-| 206-224 | Judgment Sword | s | - | - | - | - | d | - | n | w | 1 | 4 | 1 | 1 | 1 | 1 |
-| 208-224 | Perpetual Sand | w | w | w | n | n | n | n | n | n | 1 | 1 | 1 | 1 | 1 | 1 |
-| 209-224 | Jotun of Blood | - | - | - | - | - | - | - | - | w | - | 4 | - | - | - | - |
-| 212 | Blazing Middle Sibling | - | - | - | r | w | - | - | N | N | 1 | N | N | N | N | N |
-| 212 | Voltaic Youngest Sibling | - | - | - | - | - | r | w | N | N | N | N | N | 1 | N | N |
-| 212 | Deadly Eldest Sibling | - | - | - | - | d | - | d | N | r | N | N | N | N | N | N |
+| 204-224 | Pistil Mother | - | - | - | - | w | - | r | r | - | - | - | v | - | - | - |
+| 206-223 | Wrathful Book | - | - | - | w | r | - | - | d | - | - | - | v | - | - | - |
+| 206-224 | Judgment Sword | s | - | - | - | - | d | - | n | w | s | v | s | s | s | s |
+| 208-224 | Perpetual Sand | w | w | w | n | n | n | n | n | n | s | s | s | s | s | s |
+| 209-224 | Jotun of Blood | - | - | - | - | - | - | - | - | w | - | v | - | - | - | - |
+| 212 | Blazing Middle Sibling | - | - | - | r | w | - | - | * | * | s | n | n | n | n | n |
+| 212 | Voltaic Youngest Sibling | - | - | - | - | - | r | w | * | * | n | n | n | s | n | n |
+| 212 | Deadly Eldest Sibling | - | - | - | - | d | - | d | * | r | n | n | n | n | n | n |
 | 213-224 | Iron Dice | s | s | s | - | - | w | - | - | - | - | - | - | - | - | - |
-| 213-224 | Stasis Giant | s | s | - | - | n | n | w | - | - | 1 | 4 | 1 | 1 | 1 | 1 |
-| 213-224 | Jotun of Evil B | w | w | w | r | r | r | r | r | r | N | - | N | N | N | - |
-| 215-224 | Minotaur II | - | n | - | - | w | - | - | d | - | 4 | - | - | - | - | 4 |
-| 218 | Scornful Dice | d | d | d | - | - | - | - | N | N | - | 4 | N | N | N | N |
-| 219-224 | Prime Magus | - | - | - | w | d | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 219-224 | Slaughter Drive | - | - | - | - | - | w | n | - | - | - | 1 | - | 4 | - | - |
+| 213-224 | Stasis Giant | s | s | - | - | n | n | w | - | - | s | v | s | s | s | s |
+| 213-224 | Jotun of Evil B | w | w | w | r | r | r | r | r | r | n | - | n | n | n | - |
+| 215-224 | Minotaur II | - | n | - | - | w | - | - | d | - | v | - | - | - | - | v |
+| 218 | Scornful Dice | d | d | d | - | - | - | - | * | * | - | v | n | n | n | n |
+| 219-224 | Prime Magus | - | - | - | w | d | - | - | - | - | v | v | v | v | v | v |
+| 219-224 | Slaughter Drive | - | - | - | - | - | w | n | - | - | - | s | - | v | - | - |
 | 221-224 | Mad Cyclops | - | - | - | s | s | s | s | w | - | - | - | - | - | - | - |
-| 225 | Minotaur Nulla | - | r | - | - | - | n | - | S | N | N | N | N | N | N | N |
-| D1 | Rampage Drive C | t | t | t | - | - | - | - | N | N | N | - | 1 | N | N | N |
-| D2 | Vehement Idol C | - | - | r | r | w | - | n | N | r | N | N | N | 1 | N | 1 |
-| D3 | Phantom King B | - | - | - | w | - | - | - | r | r | N | N | N | N | N | N |
-| P1 | Phantom Master B | n | - | w | - | d | s | - | N | n | N | - | N | N | N | N |
-| P1 | Morbid Book | - | - | - | - | N | N | - | r | N | N | - | N | N | N | N |
-| P2 | Black Hand | - | - | - | d | d | d | w | N | d | - | N | N | N | N | N |
-| P2 | Pink Hand | - | - | - | d | w | d | d | N | N | N | N | N | N | N | N |
-| P2 | Silver Hand | - | n | - | d | d | w | d | d | N | - | N | N | N | N | N |
-| P2 | White Hand | s | - | - | w | d | d | d | - | - | - | N | N | N | N | N |
-| P2 | Gold Hand | r | r | - | - | - | N | - | n | n | N | N | N | N | N | N |
+| 225 | Minotaur Nulla | - | r | - | - | - | n | - | s* | * | n | n | n | n | n | n |
+| D1 | Rampage Drive C | t | t | t | - | - | - | - | * | * | n | - | s | n | n | n |
+| D2 | Vehement Idol C | - | - | r | r | w | - | n | * | r | n | n | n | s | n | s |
+| D3 | Phantom King B | - | - | - | w | - | - | - | r | r | n | n | n | n | n | n |
+| P1 | Phantom Master B | n | - | w | - | d | s | - | * | n | n | - | n | n | n | n |
+| P1 | Morbid Book | - | - | - | - | * | * | - | r | * | n | - | n | n | n | n |
+| P2 | Black Hand | - | - | - | d | d | d | w | * | d | - | n | n | n | n | n |
+| P2 | Pink Hand | - | - | - | d | w | d | d | * | * | n | n | n | n | n | n |
+| P2 | Silver Hand | - | n | - | d | d | w | d | d | * | - | n | n | n | n | n |
+| P2 | White Hand | s | - | - | w | d | d | d | - | - | - | n | n | n | n | n |
+| P2 | Gold Hand | r | r | - | - | - | * | - | n | n | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -1082,52 +1142,54 @@
 | P2 | Onnen Musha B | 79 | 1357 | 2700 | 999 | Vengeful Helmet (100%) |
 | P2 | Tenjin Musha B | 80 | 1357 | 3600 | 999 | Nihil White Model (100%) |
 | P3 | Shadow of the Void | 81 | 9049 | 5000 | 999 | Dead Moon's Husk (100%) |
+| P4 | The Reaper | 90 | 175820 | 8000 | 999 | Bloody Button (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 227-235 | Bigoted Maya | - | - | - | - | - | n | - | w | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 227-244 | Amenti Raven | - | - | w | r | - | - | s | - | w | 4 | 4 | 4 | 4 | 4 | 4 |
-| 227-244 | Royal Dancer | n | w | - | - | - | - | w | n | n | N | - | 4 | - | 4 | - |
-| 227-244 | Divine Mother B | - | - | - | - | - | n | - | r | r | N | N | 1 | N | N | N |
-| 227-261 | Glorious Hand | r | r | r | r | r | r | r | r | r | N | N | N | N | N | - |
-| 227-261 | Final Checkmate | - | - | w | - | - | - | - | - | - | - | - | - | - | N | - |
-| 228-242 | Doom Sword | s | s | - | w | r | - | - | - | w | 1 | 4 | 1 | 1 | 1 | 1 |
-| 230 | Obsessive Sand | - | - | - | s | S | S | s | S | S | N | - | 1 | N | N | N |
+| 227-235 | Bigoted Maya | - | - | - | - | - | n | - | w | - | v | v | v | v | v | v |
+| 227-244 | Amenti Raven | - | - | w | r | - | - | s | - | w | v | v | v | v | v | v |
+| 227-244 | Royal Dancer | n | w | - | - | - | - | w | n | n | n | - | v | - | v | - |
+| 227-244 | Divine Mother B | - | - | - | - | - | n | - | r | r | n | n | s | n | n | n |
+| 227-261 | Glorious Hand | r | r | r | r | r | r | r | r | r | n | n | n | n | n | - |
+| 227-261 | Final Checkmate | - | - | w | - | - | - | - | - | - | - | - | - | - | n | - |
+| 228-242 | Doom Sword | s | s | - | w | r | - | - | - | w | s | v | s | s | s | s |
+| 230 | Obsessive Sand | - | - | - | s | s* | s* | s | s* | s* | n | - | s | n | n | n |
 | 231-239 | Death Dice | - | - | - | n | - | w | r | s | s | - | - | - | - | - | - |
-| 231-242 | Carnal Snake | - | w | s | - | w | n | - | - | - | N | - | 4 | - | 4 | - |
-| 233-239 | Light Balance | - | - | - | w | s | s | w | r | r | 4 | 4 | 4 | 4 | 4 | 4 |
-| 233-239 | Onnen Musha | r | - | - | - | - | - | - | w | n | 4 | - | - | - | - | 4 |
-| 236 | Foot Soldier | - | s | r | w | n | - | s | d | N | 1 | N | N | N | N | 1 |
-| 236 | Mage Soldier | - | - | w | r | - | n | - | N | d | N | N | N | 1 | N | 1 |
-| 236 | Comeback Castle | r | - | - | - | S | S | - | N | N | N | N | - | N | N | N |
-| 237-244 | Green Sigil | - | - | - | - | - | w | d | - | - | 4 | - | - | - | - | - |
-| 237-244 | Infinite Sand | w | w | w | n | n | n | n | n | n | 1 | 1 | 1 | 1 | 1 | 1 |
-| 237-250 | Devious Maya | - | - | - | n | - | - | - | - | w | 4 | 4 | 4 | 4 | 4 | 4 |
-| 239-244 | Emperor Beetle | - | - | n | - | n | - | - | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 241 | Overseer of Creation | - | - | - | - | - | - | - | r | r | N | N | N | N | N | N |
-| 242-244 | Eternal Eagle | - | - | w | - | w | d | d | - | - | 4 | 4 | 4 | 4 | 4 | 4 |
-| 242-251 | Death Castle | - | n | - | n | - | d | w | - | r | 1 | 4 | 1 | 1 | 1 | 1 |
-| 246 | Invasive Serpent | - | w | - | d | - | - | s | N | N | N | N | 1 | 1 | N | N |
-| 246 | Appropriating Noble | - | s | - | - | w | - | - | n | N | N | N | N | N | N | N |
-| 247 | High Judge of Hell | s | n | s | - | n | - | n | N | S | N | 1 | N | N | N | N |
-| 248-251 | Minotaur I | s | s | s | - | - | - | - | r | w | 4 | - | - | - | - | 4 |
-| 248-251 | Noble Seeker | - | - | - | r | - | - | - | w | r | - | - | 4 | - | - | - |
-| 248-251 | Jotun of Evil | w | w | w | r | r | r | r | r | r | - | 4 | - | - | - | - |
-| 248-261 | Tenjin Musha C | - | - | - | s | s | s | s | S | S | N | N | N | N | N | N |
+| 231-242 | Carnal Snake | - | w | s | - | w | n | - | - | - | n | - | v | - | v | - |
+| 233-239 | Light Balance | - | - | - | w | s | s | w | r | r | v | v | v | v | v | v |
+| 233-239 | Onnen Musha | r | - | - | - | - | - | - | w | n | v | - | - | - | - | v |
+| 236 | Foot Soldier | - | s | r | w | n | - | s | d | * | s | n | n | n | n | s |
+| 236 | Mage Soldier | - | - | w | r | - | n | - | * | d | n | n | n | s | n | s |
+| 236 | Comeback Castle | r | - | - | - | s* | s* | - | * | * | n | n | - | n | n | n |
+| 237-244 | Green Sigil | - | - | - | - | - | w | d | - | - | v | - | - | - | - | - |
+| 237-244 | Infinite Sand | w | w | w | n | n | n | n | n | n | s | s | s | s | s | s |
+| 237-250 | Devious Maya | - | - | - | n | - | - | - | - | w | v | v | v | v | v | v |
+| 239-244 | Emperor Beetle | - | - | n | - | n | - | - | - | - | v | v | v | v | v | v |
+| 241 | Overseer of Creation | - | - | - | - | - | - | - | r | r | n | n | n | n | n | n |
+| 242-244 | Eternal Eagle | - | - | w | - | w | d | d | - | - | v | v | v | v | v | v |
+| 242-251 | Death Castle | - | n | - | n | - | d | w | - | r | s | v | s | s | s | s |
+| 246 | Invasive Serpent | - | w | - | d | - | - | s | * | * | n | n | s | s | n | n |
+| 246 | Appropriating Noble | - | s | - | - | w | - | - | n | * | n | n | n | n | n | n |
+| 247 | High Judge of Hell | s | n | s | - | n | - | n | * | s* | n | s | n | n | n | n |
+| 248-251 | Minotaur I | s | s | s | - | - | - | - | r | w | v | - | - | - | - | v |
+| 248-251 | Noble Seeker | - | - | - | r | - | - | - | w | r | - | - | v | - | - | - |
+| 248-251 | Jotun of Evil | w | w | w | r | r | r | r | r | r | - | v | - | - | - | - |
+| 248-261 | Tenjin Musha C | - | - | - | s | s | s | s | s* | s* | n | n | n | n | n | n |
 | 249-251 | Platinum Dice | n | - | - | - | n | w | - | - | - | - | - | - | - | - | - |
 | 250-251 | Fierce Cyclops | w | - | w | d | - | - | d | - | - | - | - | - | - | - | - |
-| 253 | Cultist of Death | - | - | - | - | s | s | w | d | d | N | N | 1 | N | N | N |
-| 254 | Hedonistic Sinner | r | - | r | n | - | d | - | N | N | N | N | N | N | N | N |
-| 255 | Genocidal Mercenary | s | r | - | - | d | r | - | N | r | N | N | N | N | N | N |
-| D1 | Fanatic Tower B | - | - | w | - | - | d | n | N | N | 1 | N | N | N | N | N |
-| D2 | Reckoning Dice B | d | d | d | - | - | - | - | N | N | - | 4 | N | N | N | N |
-| D3 | Intrepid Knight C | - | - | n | - | r | - | - | r | r | N | N | N | N | N | N |
-| P1 | Hallowed Turret B | n | - | - | t | T | N | - | N | N | N | N | N | N | N | N |
-| P2 | Hakurou Musha C | r | - | - | - | - | r | w | N | N | N | N | N | N | N | N |
-| P2 | Kaiden Musha B | r | - | - | r | w | - | - | N | N | N | N | N | N | N | N |
-| P2 | Onnen Musha B | r | - | - | - | d | N | d | N | r | N | N | N | N | N | N |
-| P2 | Tenjin Musha B | r | r | t | - | N | N | - | d | N | N | N | N | N | N | N |
-| P3 | Shadow of the Void | - | - | - | - | N | N | - | N | N | N | N | N | N | N | N |
+| 253 | Cultist of Death | - | - | - | - | s | s | w | d | d | n | n | s | n | n | n |
+| 254 | Hedonistic Sinner | r | - | r | n | - | d | - | * | * | n | n | n | n | n | n |
+| 255 | Genocidal Mercenary | s | r | - | - | d | r | - | * | r | n | n | n | n | n | n |
+| D1 | Fanatic Tower B | - | - | w | - | - | d | n | * | * | s | n | n | n | n | n |
+| D2 | Reckoning Dice B | d | d | d | - | - | - | - | * | * | - | v | n | n | n | n |
+| D3 | Intrepid Knight C | - | - | n | - | r | - | - | r | r | n | n | n | n | n | n |
+| P1 | Hallowed Turret B | n | - | - | t | t* | * | - | * | * | n | n | n | n | n | n |
+| P2 | Hakurou Musha C | r | - | - | - | - | r | w | * | * | n | n | n | n | n | n |
+| P2 | Kaiden Musha B | r | - | - | r | w | - | - | * | * | n | n | n | n | n | n |
+| P2 | Onnen Musha B | r | - | - | - | d | * | d | * | r | n | n | n | n | n | n |
+| P2 | Tenjin Musha B | r | r | t | - | * | * | - | d | * | n | n | n | n | n | n |
+| P3 | Shadow of the Void | - | - | - | - | * | * | - | * | * | n | n | n | n | n | n |
+| P4 | The Reaper | - | - | - | - | * | * | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -1201,15 +1263,47 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 257-261 | Grand Magus | 73 | 2388 | 909 | 320 | Cap of Eminence (25%), Diamond (10%), Ruby (10%) |
 | 257-261 | Wicked Turret | 73 | 2445 | 1232 | 150 | Ominous Turret (25%), Opal (10%), Ruby (10%) |
+| 259 | Jin B | 80 | 132725 | 8000 | 999 | - |
 | 260-261 | Vehement Idol | 73 | 2463 | 957 | 190 | Throne of Mania (25%), Diamond (10%), Ruby (10%) |
 | 260-261 | Harmony Giant | 74 | 2722 | 1376 | 180 | Immovable Balance (25%), Opal (10%), Ruby (10%) |
+| 263 | Takaya B | 81 | 136085 | 8000 | 999 | - |
+| 264 | Nyx Avatar A | 81 | 139490 | 300 | 999 | - |
+| 264 | Nyx Avatar B | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar C | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar D | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar E | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar F | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar G | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar H | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar I | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar J | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar K | 81 | 0 | 800 | 999 | - |
+| 264 | Nyx Avatar L | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar M | 81 | 0 | 1500 | 999 | - |
+| 264 | Nyx Avatar N | 81 | 0 | 7000 | 999 | - |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 257-261 | Grand Magus | - | n | - | w | r | - | - | r | r | 4 | 4 | 4 | 4 | 4 | 4 |
-| 257-261 | Wicked Turret | - | - | r | s | - | w | - | - | - | - | 1 | - | 4 | - | - |
-| 260-261 | Vehement Idol | - | w | - | r | w | - | n | - | r | - | - | 4 | - | - | - |
-| 260-261 | Harmony Giant | - | n | r | - | - | r | r | - | - | - | 4 | - | - | - | - |
+| 257-261 | Grand Magus | - | n | - | w | r | - | - | r | r | v | v | v | v | v | v |
+| 257-261 | Wicked Turret | - | - | r | s | - | w | - | - | - | - | s | - | v | - | - |
+| 259 | Jin B | - | - | - | r | * | * | - | * | r | n | - | n | n | n | n |
+| 260-261 | Vehement Idol | - | w | - | r | w | - | n | - | r | - | - | v | - | - | - |
+| 260-261 | Harmony Giant | - | n | r | - | - | r | r | - | - | - | v | - | - | - | - |
+| 263 | Takaya B | - | - | - | - | * | * | - | r | d | n | n | n | n | n | n |
+| 264 | Nyx Avatar A | - | - | - | - | * | * | - | * | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar B | - | - | - | n | * | * | - | * | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar C | - | - | - | - | n | * | - | * | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar D | - | - | - | t* | t* | t* | t* | t* | t* | n | n | n | n | n | n |
+| 264 | Nyx Avatar E | t* | t* | t* | - | * | * | - | * | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar F | - | - | - | - | - | - | - | r | n | n | n | n | n | n | n |
+| 264 | Nyx Avatar G | - | * | t | n | * | t | - | * | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar H | n | n | n | - | * | * | - | * | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar I | - | - | - | n | n | n | n | n | n | n | n | n | n | n | n |
+| 264 | Nyx Avatar J | - | - | t* | - | - | n | n | * | n | n | n | n | n | n | n |
+| 264 | Nyx Avatar K | - | - | - | d | d | * | d | d | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar L | t* | r | t* | - | * | * | - | * | * | n | n | n | n | n | n |
+| 264 | Nyx Avatar M | - | t* | - | n | * | * | - | * | r | n | n | n | n | n | n |
+| 264 | Nyx Avatar N | - | - | - | - | * | * | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -1218,13 +1312,40 @@
 | 262 | Rare | Soma (100%) |
 #### Hints
 ##### 259F: Jin
-* All bosse from now on have multiple phases that can't be skipped with Armageddon
+* All bosses from now on have multiple phases that can't be skipped with Armageddon
 ##### 263F: Takaya
 * Save up your Theurgies when he gets low on HP and respond in kind
 ##### 264F: Nyx
 * Nothing of note
 
 ### Ultimate Adversary
+#### Stats
+#### Enemy Stats
+| Floors | Name | Lv. | Exp | HP | SP | Drops |
+| --- | --- | --- | --- | --- | --- | --- |
+| 4P | Elizabeth A | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth B | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth C | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth D | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth E | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth F | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth G | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth H | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth I | 99 | 0 | 20000 | 999 | - |
+| 4P | Elizabeth J | 99 | 0 | 20000 | 999 | - |
+#### Enemy Resistances
+| Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4P | Elizabeth A | - | - | - | * | * | - | - | n | n | n | n | n | n | n | n |
+| 4P | Elizabeth B | - | n | - | d | v | - | - | n | n | n | n | n | n | n | n |
+| 4P | Elizabeth C | - | - | n | v | d | - | - | n | n | n | n | n | n | n | n |
+| 4P | Elizabeth D | n | - | - | * | * | d | v | n | n | n | n | n | n | n | n |
+| 4P | Elizabeth E | - | - | n | * | * | v | d | n | n | n | n | n | n | n | n |
+| 4P | Elizabeth F | - | - | - | n | n | n | n | d | v* | n | n | n | n | n | n |
+| 4P | Elizabeth G | - | - | - | n | n | n | n | v* | d | n | n | n | n | n | n |
+| 4P | Elizabeth H | s | s | s | s* | s* | s | s | n | n | n | n | n | n | n | n |
+| 4P | Elizabeth I | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |
+| 4P | Elizabeth J | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |
 #### Equipment
 * Lucifer's Blade
 * Armor of Light

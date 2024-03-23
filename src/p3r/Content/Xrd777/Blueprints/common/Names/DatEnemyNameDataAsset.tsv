@@ -220,7 +220,7 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 3	The Reaper	刈り取るもの	거둬들이는 자	猎杀者	獵殺者	Der Reaper	El segador	La Faucheuse	Il Mietitore	Żniwiarz	O Ceifador	Жнец	Ölüm Meleği
-3	Cowardly Maya A	臆病のマーヤ	두려움의 마야	懦弱之魔影	怯懦魔影	Feiger Maya	Maya cobarde	Maya lâche	Maya codarda	Tchórzliwa Maya	Maya Covarde	Трусливая Майя	Ödlek Maya
+4	Cowardly Maya A	臆病のマーヤ	두려움의 마야	懦弱之魔影	怯懦魔影	Feiger Maya	Maya cobarde	Maya lâche	Maya codarda	Tchórzliwa Maya	Maya Covarde	Трусливая Майя	Ödlek Maya
 2	Ruthless Ice Raven	冷酷のアイスレイヴン	냉혹의 아이스 레이븐	冷酷的寒冰之渡鸦	冷酷寒冰烏鴉	Gnadenloser Eisrabe	Cuervo de hielo despiadado	Corneille de glace impitoyable	Corvo di ghiaccio spietato	Bezwzględny lodowy kruk	Corvo de Gelo Cruel	Беспощадный ледяной ворон	Gaddar Buz Kuzgunu
 2	Barbaric Beast Wheel	蛮勇の獣車輪	만용의 수차륜	蛮勇兽车轮	勇猛獸車輪	Barbarisches Bestienrad	Rueda bestial bárbara	Roue de la Bête barbare	Ruota bestiale barbarica	Barbarzyńskie zwierzęce koło	Roda Feral Bárbara	Варварское животное колесо	Barbar Canavar Çarkı
 2	Magic Hand B	マジックハンド	매직 핸드	魔术之手	魔術之手	Magische Hand	Mano mágica	Main magique	Mano incantata	Magiczna dłoń	Mão Mágica	Волшебная рука	Büyülü El
@@ -349,13 +349,13 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	検証用のマーヤ	検証用のマーヤ	검증용 마야	测试用魔影	驗證用魔影	検証用のマーヤ	検証用のマーヤ	検証用のマーヤ	検証用のマーヤ	検証用のマーヤ	検証用のマーヤ	検証用のマーヤ	検証用のマーヤ
-3	Takaya	タカヤ	타카야	隆哉	隆也	Takaya	Takaya	Takaya	Takaya	Takaya	Takaya	Такайя	Takaya
-3	Jin	ジン	진	壬	陣	Jin	Jin	Jin	Jin	Jin	Jin	Дзин	Jin
+3	Takaya A	タカヤ	타카야	隆哉	隆也	Takaya	Takaya	Takaya	Takaya	Takaya	Takaya	Такайя	Takaya
+3	Jin A	ジン	진	壬	陣	Jin	Jin	Jin	Jin	Jin	Jin	Дзин	Jin
 3	Chidori	チドリ	치도리	千鸟	千鳥	Chidori	Chidori	Chidori	Chidori	Chidori	Chidori	Тидори	Chidori
-3	Jin	ジン	진	壬	陣	Jin	Jin	Jin	Jin	Jin	Jin	Дзин	Jin
-3	Takaya	タカヤ	타카야	隆哉	隆也	Takaya	Takaya	Takaya	Takaya	Takaya	Takaya	Такайя	Takaya
-2	Shadow of the Abyss	深淵の影	심연의 그림자	深渊之影	深淵之影	Schatten des Abgrunds	Sombra del abismo	Ombre de l'abysse	Ombra dell'abisso	Cień otchłani	Sombra do Abismo	Тень бездны	Uçurumun Gölgesi
-3	Takaya	タカヤ	타카야	隆哉	隆也	Takaya	Takaya	Takaya	Takaya	Takaya	Takaya	Такайя	Takaya
+3	Jin B	ジン	진	壬	陣	Jin	Jin	Jin	Jin	Jin	Jin	Дзин	Jin
+3	Takaya B	タカヤ	타카야	隆哉	隆也	Takaya	Takaya	Takaya	Takaya	Takaya	Takaya	Такайя	Takaya
+4	Shadow of the Abyss	深淵の影	심연의 그림자	深渊之影	深淵之影	Schatten des Abgrunds	Sombra del abismo	Ombre de l'abysse	Ombra dell'abisso	Cień otchłani	Sombra do Abismo	Тень бездны	Uçurumun Gölgesi
+4	Takaya C	タカヤ	타카야	隆哉	隆也	Takaya	Takaya	Takaya	Takaya	Takaya	Takaya	Такайя	Takaya
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -372,13 +372,13 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 3	Priestess	プリーステス	프리스테스	女教皇	女教皇	Hohepriesterin	Sacerdotisa	La Papesse	Papessa	Kapłanka	Sacerdotisa	Верховная жрица	Azize
 3	Despairing Tiara	失望のティアラ	실망의 티아라	失望之宝冠	失望后冠	Verzweifelnde Tiara	Tiara desesperada	Tiare du désespoir	Tiara della disperazione	Rozpaczająca tiara	Tiara Desesperada	Отчаявшаяся тиара	Çaresiz Taç
 3	Loathsome Tiara	憎悪のティアラ	증오의 티아라	憎恶之宝冠	憎惡后冠	Abscheuliche Tiara	Tiara repugnante	Tiare détestable	Tiara ripugnante	Odrażająca tiara	Tiara Odiosa	Омерзительная тиара	Nefret Dolu Taç
-3	Empress	エンプレス	엠프레스	女皇	女皇	Herrscherin	Emperatriz	L'Impératrice	Imperatrice	Cesarzowa	Imperatriz	Императрица	İmparatoriçe
-3	Empress	エンプレス	엠프레스	女皇	女皇	Herrscherin	Emperatriz	L'Impératrice	Imperatrice	Cesarzowa	Imperatriz	Императрица	İmparatoriçe
-3	Empress	エンプレス	엠프레스	女皇	女皇	Herrscherin	Emperatriz	L'Impératrice	Imperatrice	Cesarzowa	Imperatriz	Императрица	İmparatoriçe
-3	Emperor	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
-3	Emperor	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
-3	Emperor	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
-3	Emperor	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
+3	Empress A	エンプレス	엠프레스	女皇	女皇	Herrscherin	Emperatriz	L'Impératrice	Imperatrice	Cesarzowa	Imperatriz	Императрица	İmparatoriçe
+3	Empress B	エンプレス	엠프레스	女皇	女皇	Herrscherin	Emperatriz	L'Impératrice	Imperatrice	Cesarzowa	Imperatriz	Императрица	İmparatoriçe
+3	Empress C	エンプレス	엠프레스	女皇	女皇	Herrscherin	Emperatriz	L'Impératrice	Imperatrice	Cesarzowa	Imperatriz	Императрица	İmparatoriçe
+3	Emperor A	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
+3	Emperor B	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
+3	Emperor C	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
+3	Emperor D	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
 3	Hierophant	ハイエロファント	하이어러팬트	教皇	教皇	Hierophant	Hierofante	Le Pape	Ierofante	Kapłan	Hierofante	Верховный жрец	Aziz
 3	Lovers	ラヴァーズ	러버즈	恋爱	戀愛	Liebende	Amantes	L'Amoureux	Amanti	Kochankowie	Enamorados	Влюбленные	Aşıklar
 3	Chariot	チャリオッツ	채리엇	战车	戰車	Wagen	Carro	Le Chariot	Carro	Rydwan	Carro	Колесница	Araba
@@ -388,28 +388,28 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 3	Fortune	フォーチュン	포츈	命运	命運	Omikuji	Fortuna	La Roue de Fortune	Divinazione	Przepowiednia	Sorte	Предсказание	Kader Çarkı
 3	Strength	ストレングス	스트렝스	力量	力量	Stärke	Fuerza	La Force	Forza	Siła	Força	Сила	Güç
 3	Hanged Man	ハングドマン	행드맨	倒悬者	倒懸者	Gehängter	Ahorcado	Le Pendu	Appeso	Wisielec	Enforcado	Повешенный	Asılan Adam
-3	Statue	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
-3	Statue	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
-3	Statue	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
-3	Statue	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
-3	Statue	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
-3	Statue	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
-3	Statue	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Avatar	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
-3	Nyx Core	ニュクス・コア	닉스 코어	倪克斯核心	尼克斯的核心	Nyx-Kern	Núcleo de Nix	Noyau de Nyx	Nucleo di Nyx	Rdzeń Nyx	Núcleo de Nix	Ядро Никты	Nyx Özü
+3	Statue A	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
+3	Statue B	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
+3	Statue C	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
+3	Statue D	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
+3	Statue E	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
+3	Statue F	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
+3	Statue G	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
+3	Nyx Avatar A	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar B	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar C	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar D	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar E	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar F	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar G	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar H	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar I	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar J	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar K	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar L	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar M	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+3	Nyx Avatar N	ニュクス・アバター	닉스 아바타	倪克斯化身	尼克斯的化身	Nyx-Avatar	Avatar de Nix	Avatar de Nyx	Avatar di Nyx	Awatar Nyx	Avatar de Nix	Аватар Никты	Nyx Avatarı
+4	Nyx Core	ニュクス・コア	닉스 코어	倪克斯核心	尼克斯的核心	Nyx-Kern	Núcleo de Nix	Noyau de Nyx	Nucleo di Nyx	Rdzeń Nyx	Núcleo de Nix	Ядро Никты	Nyx Özü
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
@@ -499,16 +499,16 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
-3	Elizabeth	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth A	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth B	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth C	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth D	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth E	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth F	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth G	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth H	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth I	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
+3	Elizabeth J	エリザベス	엘리자베스	伊莉莎白	伊麗莎白	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Elizabeth	Элизабет	Elizabeth
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用

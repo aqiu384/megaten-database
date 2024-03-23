@@ -20,10 +20,11 @@ CHESTS = [
 def index_floor(floor):
     if floor in CHESTS:
         return CHESTS.index(floor)
+    floor = floor.replace('D', '30').replace('P', '40').replace('Full Moon', '500')
     chest = ''
     if ' ' in floor:
         floor, chest = floor.split(' ')
-    start = floor.replace('D', '30').replace('P', '40')
+    start = floor
     end = start
     if '-' in start:
         start, end = start.split('-')
@@ -35,6 +36,8 @@ def format_drops(drops):
 with open('../../../megaten-fusion-tool/src/app/p3r/data/comp-config.json') as jsonfile:
     CONFIG = json.load(jsonfile)
 
+RESIST_LVLS = { x: x for x in 'zwuv-stV_STnrd' }
+RESIST_LVLS.update({ 'V': 'v*', '_': '*', 'S': 's*', 'T': 't*' })
 RESIST_ELEMS = [x.title()[:2] for x in CONFIG['resistElems']]
 AILMENTS = [x.title()[:2] for x in CONFIG['ailments']]
 stat_headers = ['Floors', 'Name', 'Lv.', 'Exp', 'HP', 'SP', 'Drops']
@@ -68,7 +71,8 @@ def enemy_resists(area):
     for dname, entry in DEMONS.items():
         if entry['area'].startswith(prefix):
             floor = entry['area'].replace(prefix, '')
-            parts = [floor, dname] + [x for x in entry['resists'][:-1]] + [x for x in entry.get('ailments', '------')]
+            parts = [floor, dname] + [RESIST_LVLS[x] for x in entry['resists'][:-1]]
+            parts += [RESIST_LVLS[x] for x in entry.get('ailments', '------')]
             rows.append((100 * index_floor(floor) + entry['lvl'], parts))
     rows.sort(key=lambda x: x[0])
     for row in rows:

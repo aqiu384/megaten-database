@@ -566,6 +566,13 @@
 | 57 | Uriel | 47 | 42 | 35 | 36 | 30 | s | - | - | d | w | n | - | n | w |
 | 73 | Ananta | 51 | 51 | 68 | 35 | 42 | w | - | s | - | d | w | - | n | - |
 | 87 | Metatron | 60 | 65 | 65 | 55 | 53 | - | - | - | r | s | w | r | r | w |
+#### Unknown
+##### Stats
+| Lv. | Name | Inherits | Unlock | Skills |
+| --- | --- | --- | --- | --- |
+##### Resists
+| Lv. | Name | St | Ma | En | Ag | Lu | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Skills
 #### Sla Skills
@@ -1005,7 +1012,7 @@
 
 ### Fusion
 #### Fusion Chart
-| - | Fool | Magi | Prie | Empr | Empe | Hier | Love | Char | Just | Herm | Fort | Stre | Hang | Deat | Temp | Devi | Towe | Star | Moon | Sun | Judg | Aeon |
+| Arcana | Fool | Magi | Prie | Empr | Empe | Hier | Love | Char | Just | Herm | Fort | Stre | Hang | Deat | Temp | Devi | Towe | Star | Moon | Sun | Judg | Aeon |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Fool** | **Fool** | Hier | Magi | Star | Temp | Hang | Just | Empe | Love | Prie | Stre | Deat | Devi | Fort | Char | Herm | Moon | Devi | Empr | Judg | Aeon | Deat |
 | **Magician** | Hier | **Magi** | Just | Hang | Love | Herm | Char | Devi | Hier | Moon | Love | Empe | Fool | Prie | Just | Temp | Char | Stre | Stre | Empr | Star | Sun |
@@ -1310,21 +1317,22 @@
 | Q | Brave Blade (5%), God's Hand (5%), Primal Force (5%), Vorpal Blade (4%), Akasha Arts (4%), Megidolaon (3%), Charge (6%), Concentrate (6%), Mediarahan (3%), Amrita Shower (8%), Slash Amp (5%), Strike Amp (5%), Pierce Amp (5%), Fire Amp (5%), Ice Amp (5%), Elec Amp (5%), Wind Amp (5%), Light Amp (5%), Dark Amp (5%), Repel Slash (2%), Repel Strike (2%), Repel Pierce (2%) |
 | K | Charge (13%), Concentrate (13%), Mediarahan (12%), Drain Fire (8%), Drain Ice (8%), Drain Elec (8%), Drain Wind (8%), Enduring Soul (10%), Arms Master (10%), Spell Master (10%) |
 #### Coin
-| Rank | Min Money | Max Money |
+| Rank | Max Money | Min Money |
 | --- | --- | --- |
-| 1 | 100 | 500 |
-| 2 | 900 | 1000 |
-| 3 | 400 | 1500 |
-| 4 | 000 | 2000 |
-| 5 | 800 | 2500 |
-| 6 | 700 | 3400 |
-| 7 | 600 | 4300 |
-| 8 | 700 | 5400 |
-| 9 | 000 | 6500 |
-| 10 | 4000 | 7700 |
-| J | 2000 | 15000 |
-| Q | 0000 | 35000 |
-| K | 0000 | 70000 |
+| 1 | 1100 | 500 |
+| 2 | 1900 | 1000 |
+| 3 | 2400 | 1500 |
+| 4 | 3000 | 2000 |
+| 5 | 3800 | 2500 |
+| 6 | 4700 | 3400 |
+| 7 | 5600 | 4300 |
+| 8 | 6700 | 5400 |
+| 9 | 8000 | 6500 |
+| 10 | 14000 | 7700 |
+| J | 22000 | 15000 |
+| Q | 50000 | 35000 |
+| K | 90000 | 70000 |
+
 #### Wand
 | Rank | EXP Multiplier |
 | --- | --- |

@@ -1728,8 +1728,8 @@
 | Fool Tarot | The Fool card will appear during Shuffle Time. | 4/9: Full Moon |
 | Magician Tarot | The Magician card will appear during Shuffle Time. | 4/9: Full Moon |
 | High Priestess Tarot | The High Priestess card will appear during Shuffle Time. | Priestess (100%) |
-| Empress Tarot | The Empress card will appear during Shuffle Time. | Empress (100%) |
-| Emperor Tarot | The Emperor card will appear during Shuffle Time. | Emperor (100%) |
+| Empress Tarot | The Empress card will appear during Shuffle Time. | Empress A (100%) |
+| Emperor Tarot | The Emperor card will appear during Shuffle Time. | Emperor A (100%) |
 | Hierophant Tarot | The Hierophant card will appear during Shuffle Time. | Hierophant (100%) |
 | Lovers Tarot | The Lovers card will appear during Shuffle Time. | Lovers (100%) |
 | Chariot Tarot | The Chariot card will appear during Shuffle Time. | Chariot (100%) |
