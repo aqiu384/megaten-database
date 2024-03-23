@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import json
 import re
-from shared import table_header, table_row
+from shared import table_header, table_row, load_item_descs, iterate_int_tsvfile
 from shopper import load_shops_to_items
 
 def format_lvl(lvl):
@@ -109,16 +109,30 @@ def all_skills(flag):
         for name, entry in json.load(jsonfile).items():
             rank = entry['rank'] if 'unique' not in entry else 99
             elem = entry['elem']
-            line = [rank, name] + [skill_parsers[x](entry) for x in elem_parsers[elem]] + [entry['effect']]
+            line = [rank, name] + [skill_parsers[x](entry) for x in elem_parsers[elem]]
+            line += [entry['effect'], entry.get('upgrade', '-'), entry.get('uplvl', '-')]
             stats[elem].append(line)
     for elem in stats:
         stats[elem].sort(key=lambda x: x[0])
 
     for elem in stats:
         print(f"#### {elem.title()} Skills")
-        print(table_header(['Rank', 'Name'] + [x.title() for x in elem_parsers[elem]] + ['Description']))
+        print(table_header(['Rank', 'Name'] + [x.title() for x in elem_parsers[elem]] + ['Description', 'Upgrade', 'Limit']))
         for line in stats[elem]:
             print(table_row(str(x) for x in line))
+
+def skill_pack(pack_id):
+    pack_id = int(pack_id)
+    data_file = 'Content/Xrd777/Blueprints/common/Names/DatSkillNameDataAsset.tsv'
+    inames = load_item_descs(data_file, 'en')
+    data_file = 'Content/Xrd777/UI/Tables/Combine/SkillPackDataAsset.tsv'
+    parts = { x: [] for x in range(1, 10) }
+    for line in iterate_int_tsvfile(data_file):
+        if line['PackID'] == pack_id and line['Rank'] != 0:
+            parts[line['Rank']].append(f"{inames[line['Skill']]}{' (0.5)' if line['Weight'] == 5 else ''}")
+    print(table_header(['Rank', 'Potential Skills']))
+    for rank, skills in parts.items():
+        print(table_row([str(rank), ', '.join(skills).replace('Magic Mastery', '**Magic Mastery**')]))
 
 def shuffle_time(arcana):
     print(table_header(['Rank', 'Drops']))
@@ -130,6 +144,7 @@ def shuffle_time(arcana):
 FILLERS = {
     'all_personas': all_personas,
     'all_skills': all_skills,
+    'skill_pack': skill_pack,
     'shuffle_time': shuffle_time
 }
 

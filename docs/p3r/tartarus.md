@@ -1,11 +1,11 @@
 # Persona 3 Reload
 ## Tartarus
 * Broken up by sections
-* Full Moon Operations are included for each section
-* Encounterable enemy stats
-* Encounterable enemy resists
-* Treasure chests
-* Boss hints
+  * Full Moon Operations are included for each section
+  * Encounterable enemy stats
+  * Encounterable enemy resists
+  * Treasure chests
+  * Boss hints
 
 ### Thebel
 #### Enemy Stats
@@ -1232,25 +1232,25 @@
 * Incense Box
 #### Persona Loadout
 * Messiah
-* Learned: Salvation, Invigorate 3, Invigorate 2, Null Phys
-* Inherited: Matarukaja, Marakukaja, Masukukaja, Spell Master
+  * Learned: Salvation, Invigorate 3, Invigorate 2, Null Phys
+  * Inherited: Matarukaja, Marakukaja, Masukukaja, Spell Master
 * Lucifer
-* Learned: Inferno, Magic Mastery, Diamond Dust, Resist Phys
-* Inherited: Spell Master, Victory Cry, Thunder Reign, Garudyne
+  * Learned: Inferno, Magic Mastery, Diamond Dust, Resist Phys
+  * Inherited: Spell Master, Victory Cry, Thunder Reign, Garudyne
 * Beelzebub
-* Learned: Maeigaon, Dark Amp, Dark Boost
-* Inherited: Spell Master, Auto Mataru, Auto Maraku, Auto Masuku, Auto Rebellion
+  * Learned: Maeigaon, Dark Amp, Dark Boost
+  * Inherited: Spell Master, Auto Mataru, Auto Maraku, Auto Masuku, Auto Rebellion
 * Thanatos
-* Learned: Multi-target Boost, Enduring Soul, Spell Master
-* Inherited: Almighty Boost, Almighty Amp, Morning Star, Firm Stance, Resist Light
+  * Learned: Multi-target Boost, Enduring Soul, Spell Master
+  * Inherited: Almighty Boost, Almighty Amp, Morning Star, Firm Stance, Resist Light
 * Chi You
-* Learned: Arms Master, Akasha Arts, Single Target Boost, Strike Boost
-* Inherited: Diarahan, Strike Amp, Firm Stance, God's Hand
+  * Learned: Arms Master, Akasha Arts, Single Target Boost, Strike Boost
+  * Inherited: Diarahan, Strike Amp, Firm Stance, God's Hand
 * Masakado
-* Learned: Debilitate, Spell Master, Regenerate 3
-* Inherited: Heat Riser, Concentrate, Regenerate 2, Resist Elec, Firm Stance
+  * Learned: Debilitate, Spell Master, Regenerate 3
+  * Inherited: Heat Riser, Concentrate, Regenerate 2, Resist Elec, Firm Stance
 * Rangda
-* Inherited: Endure
+  * Inherited: Endure
 #### Example Playthrough
 | Her Persona | Your Persona | Your Skill | Your Dmg | Her HP | Her 1st Skill | Her 2nd Skill |
 | --- | --- | --- | --- | --- | --- | --- |

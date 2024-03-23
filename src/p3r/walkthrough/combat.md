@@ -11,8 +11,192 @@
 ### Skills
 {{ all_skills('') }}
 
+### Fusion
+#### Fusion Chart
+| - | Fool | Magi | Prie | Empr | Empe | Hier | Love | Char | Just | Herm | Fort | Stre | Hang | Deat | Temp | Devi | Towe | Star | Moon | Sun | Judg | Aeon |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Fool** | **Fool** | Hier | Magi | Star | Temp | Hang | Just | Empe | Love | Prie | Stre | Deat | Devi | Fort | Char | Herm | Moon | Devi | Empr | Judg | Aeon | Deat |
+| **Magician** | Hier | **Magi** | Just | Hang | Love | Herm | Char | Devi | Hier | Moon | Love | Empe | Fool | Prie | Just | Temp | Char | Stre | Stre | Empr | Star | Sun |
+| **Priestess** | Magi | Just | **Prie** | Temp | Just | Love | Magi | Fool | Love | Stre | Hang | Moon | Hier | Just | Fort | Empe | Empr | Empe | Star | Hier | Hang | Empr |
+| **Empress** | Star | Hang | Temp | **Empr** | Char | Towe | Moon | Herm | Empe | Sun | Stre | Fool | Star | Love | Hier | Towe | Devi | Prie | Aeon | Empe | Love | Prie |
+| **Emperor** | Temp | Love | Just | Char | **Empe** | Stre | Char | Devi | Hang | Hier | Star | Magi | Deat | Herm | Star | Moon | Stre | Hier | Love | Temp | Sun | Fort |
+| **Hierophant** | Hang | Herm | Love | Towe | Stre | **Hier** | Magi | Just | Fool | Char | Moon | Fort | Stre | Fort | Herm | Prie | Temp | Moon | Magi | Towe | Empe | Sun |
+| **Lovers** | Just | Char | Magi | Moon | Char | Magi | **Love** | Prie | Empe | Fool | Temp | Herm | Just | Hang | Deat | Star | Sun | Deat | Empr | Devi | Moon | Towe |
+| **Chariot** | Empe | Devi | Fool | Herm | Devi | Just | Prie | **Char** | Magi | Love | Prie | Temp | Stre | Hier | Herm | Hang | Star | Fort | Temp | Stre | Empr | Herm |
+| **Justice** | Love | Hier | Love | Empe | Hang | Fool | Empe | Magi | **Just** | Magi | Hang | Star | Prie | Herm | Moon | Temp | Sun | Herm | Temp | Magi | Fool | Judg |
+| **Hermit** | Prie | Moon | Stre | Sun | Hier | Char | Fool | Love | Magi | **Herm** | Just | Empe | Temp | Char | Magi | Stre | Empe | Fool | Hier | Star | Temp | Devi |
+| **Fortune** | Stre | Love | Hang | Stre | Star | Moon | Temp | Prie | Hang | Just | **Fort** | Sun | Magi | Star | Towe | Empr | Aeon | Magi | Deat | Judg | Sun | Moon |
+| **Strength** | Deat | Empe | Moon | Fool | Magi | Fort | Herm | Temp | Star | Empe | Sun | **Stre** | Char | Empr | Moon | Love | Hang | Prie | Devi | Love | Devi | Fool |
+| **Hanged** | Devi | Fool | Hier | Star | Deat | Stre | Just | Stre | Prie | Temp | Magi | Char | **Hang** | Stre | Hier | Prie | Deat | Empr | Char | Aeon | Towe | Deat |
+| **Death** | Fort | Prie | Just | Love | Herm | Fort | Hang | Hier | Herm | Char | Star | Empr | Stre | **Deat** | Devi | Towe | Aeon | Sun | Hang | Just | Devi | None |
+| **Temperance** | Char | Just | Fort | Hier | Star | Herm | Deat | Herm | Moon | Magi | Towe | Moon | Hier | Devi | **Temp** | Fool | Devi | Fort | Prie | Char | Empr | Just |
+| **Devil** | Herm | Temp | Empe | Towe | Moon | Prie | Star | Hang | Temp | Stre | Empr | Love | Prie | Towe | Fool | **Devi** | Judg | Just | Fool | Deat | Deat | Star |
+| **Tower** | Moon | Char | Empr | Devi | Stre | Temp | Sun | Star | Sun | Empe | Aeon | Hang | Deat | Aeon | Devi | Judg | **Towe** | Judg | Fort | Hier | Aeon | Sun |
+| **Star** | Devi | Stre | Empe | Prie | Hier | Moon | Deat | Fort | Herm | Fool | Magi | Prie | Empr | Sun | Fort | Just | Judg | **Star** | Sun | Just | Towe | Judg |
+| **Moon** | Empr | Stre | Star | Aeon | Love | Magi | Empr | Temp | Temp | Hier | Deat | Devi | Char | Hang | Prie | Fool | Fort | Sun | **Moon** | Towe | Fort | Judg |
+| **Sun** | Judg | Empr | Hier | Empe | Temp | Towe | Devi | Stre | Magi | Star | Judg | Love | Aeon | Just | Char | Deat | Hier | Just | Towe | **Sun** | Aeon | Empr |
+| **Judgement** | Aeon | Star | Hang | Love | Sun | Empe | Moon | Empr | Fool | Temp | Sun | Devi | Towe | Devi | Empr | Deat | Aeon | Towe | Fort | Aeon | **Judg** | Fool |
+| **Aeon** | Deat | Sun | Empr | Prie | Fort | Sun | Towe | Herm | Judg | Devi | Moon | Fool | Deat | None | Just | Star | Sun | Judg | Judg | Empr | Fool | **Aeon** |
+
+#### Special Recipes
+| Result | Ingredients |
+| --- | --- |
+| Shiva | Rangda x Barong |
+| Messiah | Orpheus x Thanatos |
+| Fortuna | Angel x Silky x Unicorn |
+| Pale Rider | Berith x Gurulu x Matador |
+| Arsene | Tam Lin x Jack-o'-Lantern x Neko Shogun |
+| Flauros | Forneus x Berith x Eligor |
+| Black Frost | Jack Frost x Jack-o'-Lantern x King Frost |
+| Parvati | Sati x Sarasvati x Dakini |
+| Mada | Hanuman x Vasuki x Naga Raja x Ganesha |
+| Norn | Clotho x Lachesis x Atropos |
+| Alice | Pixie x Lilim x Narcissus x Titania |
+| Kohryu | Genbu x Seiryu x Suzaku x Byakko |
+| Mara | Incubus x Pazuzu x Mot x Kumbhanda x Attis |
+| Susano-o | Take-Minakata x Take-Mikazuchi x Okuninushi x Shiki-Ouji x Kikuri-Hime |
+| Thanatos | Pisaca x Pale Rider x Loa x Samael x Mot x Alice |
+| Masakado | Zouchouten x Jikokuten x Koumokuten x Bishamonten |
+| Beelzebub | Incubus x Succubus x Pazuzu x Lilith x Baal Zebul x Abaddon |
+| Asura | Rakshasa x Girimekhala x Bishamonten x Qitian Dasheng x Atavaka x Vishnu |
+| Metatron | Uriel x Raphael x Gabriel x Michael |
+| Lucifer | Samael x Abaddon x Beelzebub x Satan x Helel |
+| Orpheus Telos | Thanatos x Asura x Chi You x Metatron x Helel x Messiah |
+| Satanael | Orpheus x Michael x Thanatos x Satan x Helel x Lucifer |
+
+#### Inheritable Skill Count
+| Total Ingredient Skills | Max Inheritable Skills |
+| --- | --- |
+| 0 | 1 |
+| 6 | 2 |
+| 9 | 3 |
+| 12 | 4 |
+| 24 | 5 |
+| 32 | 6 |
+| 42 | 8 |
+
+#### Inheritance Types
+| Type | Sl | St | Pi | Fi | Ic | El | Wi | Al | Li | Da | Ch | Po | Di | Co | Fe | Ra | Re | Su | Sp |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| None | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| Strike A | - | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| Pierce A | O | - | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| Slash A | O | O | - | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| Ice A | O | O | O | - | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| Fire A | O | O | O | O | - | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| Wind A | O | O | O | O | O | - | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| Elec A | O | O | O | O | O | O | - | O | O | O | O | O | O | O | O | O | O | O | O |
+| Dark A | O | O | O | O | O | O | O | O | - | O | O | O | O | O | O | O | - | O | O |
+| Light A | O | O | O | O | O | O | O | O | O | - | - | - | - | - | - | - | O | O | O |
+| Ice D | O | O | O | - | O | O | O | O | - | O | O | O | O | O | O | O | - | O | O |
+| Fire D | O | O | O | O | - | O | O | O | - | O | O | O | O | O | O | O | - | O | O |
+| Wind D | O | O | O | O | O | - | O | O | - | O | O | O | O | O | O | O | - | O | O |
+| Elec D | O | O | O | O | O | O | - | O | - | O | O | O | O | O | O | O | - | O | O |
+| Ice L | O | O | O | - | O | O | O | O | O | - | - | - | - | - | - | - | O | O | O |
+| Fire L | O | O | O | O | - | O | O | O | O | - | - | - | - | - | - | - | O | O | O |
+| Wind L | O | O | O | O | O | - | O | O | O | - | - | - | - | - | - | - | O | O | O |
+| Elec L | O | O | O | O | O | O | - | O | O | - | - | - | - | - | - | - | O | O | O |
+| Strike B | O | O | O | - | - | - | - | O | O | O | O | O | O | O | O | O | O | O | O |
+| Pierce B | O | O | O | O | O | O | O | O | - | - | - | - | - | - | - | - | - | O | O |
+| Fire B | O | O | O | O | - | - | - | O | - | - | - | - | - | - | - | - | O | O | O |
+| Ice B | O | O | O | - | O | - | - | O | - | - | - | - | - | - | - | - | O | O | O |
+| Elec B | O | O | O | - | - | O | - | O | - | - | - | - | - | - | - | - | O | O | O |
+| Wind B | O | O | O | - | - | - | O | O | - | - | - | - | - | - | - | - | O | O | O |
+| Light B | O | O | O | - | - | - | - | O | O | - | - | - | - | - | - | - | O | O | O |
+| Dark B | O | O | O | - | - | - | - | O | - | O | O | O | O | O | O | O | - | O | O |
+| Slash B | O | O | O | - | - | - | - | O | - | - | - | - | - | - | - | - | - | O | O |
+| Lidark A | - | - | - | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+| Lidark B | O | O | O | O | O | O | O | O | O | O | - | - | - | - | - | - | - | - | O |
+| Ailment | - | - | - | O | O | O | O | O | - | O | O | O | O | O | O | O | - | O | O |
+| Recovery | - | - | - | O | O | O | O | O | O | - | - | - | - | - | - | - | O | O | O |
+| Almighty | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O | O |
+
+#### Social Link Bonus EXP
+| Rank | Bonus | High Bonus |
+| --- | --- | --- |
+| 1 | 130 | 230 |
+| 2 | 180 | 280 |
+| 3 | 200 | 300 |
+| 4 | 250 | 350 |
+| 5 | 300 | 400 |
+| 6 | 350 | 450 |
+| 7 | 400 | 500 |
+| 8 | 430 | 530 |
+| 9 | 480 | 580 |
+| 10 | 500 | 600 |
+
+#### Base Rates
+* Fusion accident rate: 0.015625
+* Fool Persona appearing in a fusion accident rate: 0.5
+* Minimum result level from accident: -10
+* Maximum result level from accident: 1
+* Skill change rate: 0.125
+* Skill upgrade appearing in a skill change rate: 0.3
+
+#### Total Fusion Count
+| Total | Skill Change Rate | Fusion Accident Rate |
+| --- | --- | --- |
+| 1 | 100 | 100 |
+| 2 | 100 | 100 |
+| 5 | 125 | 100 |
+| 10 | 150 | 100 |
+| 15 | 200 | 100 |
+| 20 | 250 | 150 |
+| 25 | 300 | 150 |
+| 30 | 400 | 200 |
+| 40 | 500 | 200 |
+| 50 | 500 | 200 |
+
+#### Moon Phases
+| Moon Phase | Skill Change Rate | Fusion Accident Rate |
+| --- | --- | --- |
+| 1 | 100 | 140 |
+| 2 | 100 | 130 |
+| 3 | 100 | 120 |
+| 4 | 100 | 110 |
+| 5 | 100 | 100 |
+| 6 | 100 | 100 |
+| 7 | 100 | 100 |
+| 8 | 105 | 100 |
+| 9 | 110 | 100 |
+| 10 | 115 | 100 |
+| 11 | 120 | 100 |
+| 12 | 130 | 100 |
+| 13 | 140 | 100 |
+| 14 | 150 | 100 |
+| 15 | 150 | 100 |
+| 16 | 150 | 100 |
+| 17 | 140 | 100 |
+| 18 | 130 | 100 |
+| 19 | 120 | 100 |
+| 20 | 115 | 100 |
+| 21 | 110 | 100 |
+| 22 | 105 | 100 |
+| 23 | 100 | 100 |
+| 24 | 100 | 100 |
+| 25 | 100 | 100 |
+| 26 | 100 | 110 |
+| 27 | 100 | 120 |
+| 28 | 100 | 130 |
+| 29 | 100 | 140 |
+| 30 | 100 | 150 |
+
+#### Skill Mutations
+##### Justice, Temperance, Star
+{{ skill_pack('1') }}
+##### Emperor, Lovers, Strength, Sun
+{{ skill_pack('2') }}
+##### Fool, Chariot, Moon, Judgement
+{{ skill_pack('3') }}
+##### Magician, Hanged, Death, Tower
+{{ skill_pack('4') }}
+##### Empress, Hierophant, Hermit
+{{ skill_pack('5') }}
+##### Priestess, Fortune, Devil, Aeon
+{{ skill_pack('6') }}
+
 ### Shuffle Time
-#### Occurence
+#### Occurrence
 | Encounter Type | Persona | Minor | Major |
 | --- | --- | --- | --- |
 | Normal | 40% | 57% | 3% |
@@ -72,16 +256,16 @@
 #### Lovers
 | SL Rank | SL Bonus EXP | Lovers Bonus EXP |
 | --- | --- | --- |
-| 1 | 130% | 230% |
-| 2 | 200% | 300% |
-| 3 | 250% | 350% |
-| 4 | 300% | 400% |
-| 5 | 350% | 450% |
-| 6 | 400% | 500% |
-| 7 | 430% | 530% |
-| 8 | 480% | 580% |
-| 9 | 500% | 600% |
-| 10 | 500% | 600% |
+| 1 | 130 | 230 |
+| 2 | 200 | 300 |
+| 3 | 250 | 350 |
+| 4 | 300 | 400 |
+| 5 | 350 | 450 |
+| 6 | 400 | 500 |
+| 7 | 430 | 530 |
+| 8 | 480 | 580 |
+| 9 | 500 | 600 |
+| 10 | 500 | 600 |
 #### Chariot
 * Your Max HP +10
 #### Justice
