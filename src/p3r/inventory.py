@@ -65,7 +65,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
 
     parts = [name] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
     parts += [summarize_stats(list(line[x] for x in STATS)), ielems[line['AttrID']], ieffects[line['SkillID']]]
-    parts.append(shops.get(name, '-').format(line['Price']))
+    parts.append(shops.get(name, '-'))
 
     user = line['EquipID']
     if user not in users:
@@ -93,7 +93,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
 
     parts = [name, USERS[line['EquipID']]] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
     parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]]
-    parts.append(shops.get(name, '-').format(line['Price']))
+    parts.append(shops.get(name, '-'))
     lines.append(parts)
 lines.sort(key=lambda x: int(x[3]))
 for line in lines:
@@ -113,7 +113,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
 
     parts = [name, USERS[line['EquipID']]] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
     parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]]
-    parts.append(shops.get(name, '-').format(line['Price']))
+    parts.append(shops.get(name, '-'))
     lines.append(parts)
 lines.sort(key=lambda x: int(x[3]))
 for line in lines:
@@ -133,7 +133,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
 
     parts = [name] + [str(line[x]) if line[x] != 0 else '-' for x in stats]
     parts += [summarize_stats(list(line[x] for x in STATS)), ieffects[line['SkillID']]]
-    parts.append(shops.get(name, '-').format(line['Price']))
+    parts.append(shops.get(name, '-'))
     lines.append(parts)
 for line in lines:
     print(table_row(line))
@@ -188,7 +188,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
     if name == '':
         continue
 
-    parts = [name, stat_to_str(line['SellPrice']), shops.get(name, '-').replace('{}', str(line['Price']))]
+    parts = [name, stat_to_str(line['SellPrice']), shops.get(name, '-')]
     user = line['ItemType']
     if user not in users:
         users[user] = []
@@ -219,7 +219,7 @@ for i, line in enumerate(iterate_int_tsvfile(data_file)):
     if name == '' or name == 'Money Distributor' or name == 'Item Distributor':
         continue
 
-    parts = [name, idescs[i], shops.get(name, '-').replace('{}', str(line['Price']))]
+    parts = [name, idescs[i], shops.get(name, '-')]
     user = line['UsePlaceID']
     if user not in users:
         users[user] = []

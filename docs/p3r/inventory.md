@@ -1070,16 +1070,16 @@
 | Amethyst | 1250 | 8/8: Club Escapade (Y5000), Arqa II Gem x2 (20%), Arqa II Gem x3 (5%), Yabbashah I 70-81 Gem x3 (30%), Yabbashah I 83-88 Gem x3 (30%), Yabbashah II 93-104 Gem x3 (25%), Yabbashah II 106-116 Gem x3 (25%), Tziah I 119-131 Gem x3 (30%), Tziah II 145-154 Gem x3 (25%), Killing Hand (10%), Almighty Hand (10%), Wrathful Book (5%), Venus Eagle (15%), Growth Relic (10%), Pistil Mother (5%), Frivolous Maya (5%), Grave Beetle (5%), Adamant Beetle (15%), Killer Twins (10%), Death Twins (10%), Dogmatic Tower (10%), Devoted Cupid (15%), Ardent Dancer (10%), Royal Dancer (5%), Brave Wheel (5%), Wild Drive (5%), Killer Drive (10%), Heat Balance (5%), Sky Balance (5%), Black Raven (5%), Vicious Raven (10%), Ice Raven (10%), Steel Gigas (5%), Furious Gigas (5%), Wild Beast (5%), Mighty Beast (5%), Steel Gigas B (20%), Enslaved Beast B (20%), Clairvoyant Relic (100%), Request #44: I wish to feel the ocean. x5 |
 | Emerald | 2500 | 10/6: Club Escapade (Y10000), Tziah I 119-131 Gem (10%), Tziah I 133-142 Gem (10%), Tziah II 145-154 Gem x2 (20%), Tziah II 145-154 Gem x3 (5%), Tziah II 156-168 Gem x2 (20%), Tziah II 156-168 Gem x3 (5%), Harabah I 173-183 Gem x3 (20%), Harabah I 185-196 Gem x3 (25%), Harabah II 213-224 Gem x3 (25%), Adamah I 237-244 Gem x3 (20%), Angry Table (5%), Magical Magus (5%), Liberating Idol (10%), Regal Mother (5%), Pistil Mother (10%), Gracious Cupid (10%), Immoral Snake (10%), Arcane Turret (5%), Light Balance (5%), Order Giant (10%), Noble Seeker (5%), Iron Dice (5%), Hakurou Musha (10%), Kaiden Musha (5%), Onnen Musha (10%), Minotaur III (10%), Terminal Table (100%), Hakurou Musha B (50%), 8/3: Rescue Reward x4 |
 | Onyx | 1250 | 8/8: Club Escapade (Y5000), Arqa II Gem x2 (10%), Yabbashah I 70-81 Gem x2 (20%), Yabbashah I 70-81 Gem x3 (5%), Yabbashah I 83-88 Gem x2 (20%), Yabbashah I 83-88 Gem x3 (5%), Yabbashah II 93-104 Gem x3 (20%), Yabbashah II 106-116 Gem x3 (20%), Tziah I 133-142 Gem x3 (30%), Tziah II 156-168 Gem x3 (25%), Angry Table (5%), Wondrous Magus (10%), Wrathful Book (5%), Tranquil Idol (10%), Jupiter Eagle (15%), Constancy Relic (5%), Avenger Knight (15%), Killer Twins (5%), Blue Sigil (10%), Gracious Cupid (5%), Lustful Snake (10%), Ardent Dancer (5%), Mach Wheel (10%), Wild Drive (5%), Justice Sword (10%), Amenti Raven (5%), Phantom Master (10%), Phantom Lord (10%), Mind Dice (5%), Flowing Sand (10%), Furious Gigas (5%), Enslaved Beast (15%), Minotaur IV (15%), Bestial Wheel B (50%), Request #36: Defeat a rare Shadow #1 x7 |
-| Opal | 12500 | 1/1: Club Escapade (Y50000), Harabah I 173-183 Gem (5%), Harabah I 185-196 Gem (5%), Harabah II 199-211 Gem (15%), Harabah II 213-224 Gem (15%), Adamah I 227-235 Gem x2 (20%), Adamah I 227-235 Gem x3 (5%), Adamah I 237-244 Gem x2 (20%), Adamah I 237-244 Gem x3 (5%), Adamah I 248-251 Gem x2 (20%), Adamah I 248-251 Gem x3 (10%), Hell Knight (5%), Green Sigil (10%), Immoral Snake (5%), Royal Dancer (10%), Slaughter Drive (5%), Wicked Turret (10%), Doom Sword (10%), Harmony Giant (10%), Bigoted Maya (5%), Platinum Dice (10%), Perpetual Sand (5%), Infinite Sand (10%), Minotaur I (5%), Mad Cyclops (10%), Jotun of Blood B (15%), Scornful Dice (100%), Daring Gigas B (50%), 11/22: TV Shopping x2 (Y49800), 12/27: TV Shopping x5 (Y99000) |
+| Opal | 12500 | 1/1: Club Escapade* (Y50000), Harabah I 173-183 Gem (5%), Harabah I 185-196 Gem (5%), Harabah II 199-211 Gem (15%), Harabah II 213-224 Gem (15%), Adamah I 227-235 Gem x2 (20%), Adamah I 227-235 Gem x3 (5%), Adamah I 237-244 Gem x2 (20%), Adamah I 237-244 Gem x3 (5%), Adamah I 248-251 Gem x2 (20%), Adamah I 248-251 Gem x3 (10%), Hell Knight (5%), Green Sigil (10%), Immoral Snake (5%), Royal Dancer (10%), Slaughter Drive (5%), Wicked Turret (10%), Doom Sword (10%), Harmony Giant (10%), Bigoted Maya (5%), Platinum Dice (10%), Perpetual Sand (5%), Infinite Sand (10%), Minotaur I (5%), Mad Cyclops (10%), Jotun of Blood B (15%), Scornful Dice (100%), Daring Gigas B (50%), 11/22: TV Shopping x2 (Y49800), 12/27: TV Shopping x5 (Y99000) |
 | Garnet | 3750 | 12/10: Club Escapade (Y15000), Tziah II 145-154 Gem (10%), Tziah II 156-168 Gem (10%), Harabah I 173-183 Gem x2 (20%), Harabah I 173-183 Gem x3 (5%), Harabah I 185-196 Gem x2 (20%), Harabah I 185-196 Gem x3 (5%), Harabah II 199-211 Gem x3 (25%), Harabah II 213-224 Gem x3 (25%), Adamah I 227-235 Gem x3 (20%), Adamah I 237-244 Gem x3 (20%), Prime Magus (5%), Eternal Eagle (5%), Hell Knight (10%), Power Castle (15%), Apostate Tower (5%), Battle Wheel (15%), Scarlet Turret (15%), Conviction Sword (5%), Judgment Sword (10%), Doom Sword (5%), Stasis Giant (10%), Amenti Raven (5%), Fate Seeker (10%), Noble Seeker (5%), Desirous Maya (5%), Perpetual Sand (5%), Imprudent Maya (5%), Onnen Musha (5%), Mighty Beast (10%), Minotaur II (5%), Jotun of Blood (10%), Mighty Cyclops (10%), Ruinous Idol B (20%), 11/22: TV Shopping x3 (Y49800), Request #76: Bring me a glasses wipe. x5 |
-| Diamond | 12500 | 1/1: Club Escapade (Y50000), Harabah II 199-211 Gem (5%), Harabah II 213-224 Gem (5%), Adamah I 227-235 Gem (10%), Adamah I 227-235 Gem x2 (5%), Adamah I 237-244 Gem (10%), Adamah I 237-244 Gem x2 (5%), Adamah I 248-251 Gem x2 (20%), Adamah I 248-251 Gem x3 (10%), Prime Magus (5%), Grand Magus (10%), Vehement Idol (10%), Death Castle (10%), Carnal Snake (10%), Slaughter Drive (5%), Platinum Dice (10%), Death Dice (5%), Infinite Sand (10%), Fierce Cyclops (10%), Devious Maya (5%), Overseer of Creation (100%), 11/28: Rescue Reward x3 |
+| Diamond | 12500 | 1/1: Club Escapade* (Y50000), Harabah II 199-211 Gem (5%), Harabah II 213-224 Gem (5%), Adamah I 227-235 Gem (10%), Adamah I 227-235 Gem x2 (5%), Adamah I 237-244 Gem (10%), Adamah I 237-244 Gem x2 (5%), Adamah I 248-251 Gem x2 (20%), Adamah I 248-251 Gem x3 (10%), Prime Magus (5%), Grand Magus (10%), Vehement Idol (10%), Death Castle (10%), Carnal Snake (10%), Slaughter Drive (5%), Platinum Dice (10%), Death Dice (5%), Infinite Sand (10%), Fierce Cyclops (10%), Devious Maya (5%), Overseer of Creation (100%), 11/28: Rescue Reward x3 |
 | Turquoise | 750 | 7/18: Club Escapade (Y3000), Arqa II Gem x3 (25%), Yabbashah I 83-88 Gem x3 (30%), Yabbashah II 106-116 Gem x3 (25%), Magic Hand (10%), Dancing Hand (10%), Crying Table (5%), Grieving Tiara (5%), Writhing Tiara (5%), Shouting Tiara (10%), Spurious Book (5%), Maniacal Book (5%), Silent Book (10%), Merciless Maya (5%), Creation Relic (10%), Regal Mother (5%), Golden Beetle (5%), Trance Twins (10%), Apostate Tower (5%), Red Sigil (5%), Green Sigil (5%), Jealous Cupid (10%), Ill-Fated Maya (5%), Heat Balance (5%), Sky Balance (5%), Bigoted Maya (5%), Phantom Mage (10%), Bronze Dice (5%), Mind Dice (10%), Curse Dice (5%), Kaiden Musha (5%), Steel Gigas (5%), Slaughter Twins (100%), Request #58: I wish to become a straw millionaire. x20 |
 | Topaz | 2500 | 10/6: Club Escapade (Y10000), Yabbashah II 93-104 Gem (10%), Yabbashah II 106-116 Gem (10%), Tziah I 119-131 Gem x2 (20%), Tziah I 119-131 Gem x3 (5%), Tziah I 133-142 Gem x2 (20%), Tziah I 133-142 Gem x3 (5%), Tziah II 145-154 Gem x3 (25%), Tziah II 156-168 Gem x3 (25%), Harabah I 173-183 Gem x3 (25%), Harabah I 185-196 Gem x3 (20%), Harabah II 199-211 Gem x3 (25%), Adamah I 227-235 Gem x3 (20%), Magical Magus (10%), Writhing Tiara (5%), Tranquil Idol (5%), Ruinous Idol (10%), Elegant Mother (10%), Champion Knight (10%), Solid Castle (10%), Crazy Twins (10%), Red Sigil (5%), Brave Wheel (10%), Killer Drive (5%), Scarlet Turret (5%), Conviction Sword (5%), Light Balance (10%), Phantom Lord (5%), Death Seeker (10%), Iron Dice (10%), Curse Dice (10%), Flowing Sand (5%), Hakurou Musha (5%), Jotun of Power (10%), Elegant Mother B (20%), Request #64: Defeat a rare Shadow #2 x7 |
 | Ruby | 25000 | Adamah I 227-235 Gem (10%), Adamah I 237-244 Gem (10%), Adamah I 248-251 Gem (10%), Adamah I 248-251 Gem x2 (5%), Grand Magus (10%), Vehement Idol (10%), Eternal Eagle (5%), Emperor Beetle (10%), Wicked Turret (10%), Harmony Giant (10%), Death Dice (5%), Minotaur I (5%), Jotun of Evil (10%), Fierce Cyclops (10%), Hedonistic Sinner (100%), Divine Mother B (10%), Tenjin Musha C (20%), 12/27: TV Shopping x2 (Y99000), 12/22: Rescue Reward x3, Request #97: Bring me my Christmas present. x3 |
 | Malachite | 750 | 7/18: Club Escapade (Y3000), Arqa II Gem x3 (25%), Yabbashah I 70-81 Gem x3 (30%), Yabbashah II 93-104 Gem x3 (25%), Laughing Table (5%), Crying Table (5%), Cowardly Maya (5%), Muttering Tiara (10%), Grieving Tiara (5%), Maniacal Book (5%), Dark Eagle (5%), Constancy Relic (5%), Golden Beetle (5%), Haughty Maya (5%), Corrupt Tower (10%), Dogmatic Tower (10%), Indolent Maya (5%), Obsessed Cupid (10%), Lustful Snake (10%), Soul Dancer (15%), Insidious Maya (10%), Ill-Fated Maya (5%), Judgment Sword (5%), Desirous Maya (5%), Bronze Dice (5%), Imprudent Maya (5%), Wild Beast (10%), Visceral Maya (5%), Devious Maya (5%), Heretic Magus (100%), 8/29: Rescue Reward x20 |
 | Black Quartz | 6250 | 8/8: Amethyst x5, Arqa II Gem (15%), Yabbashah I 70-81 Gem (15%), Yabbashah I 83-88 Gem (15%), Yabbashah II 93-104 Gem (15%), Yabbashah II 93-104 Gem x2 (5%), Yabbashah II 106-116 Gem (15%), Yabbashah II 106-116 Gem x2 (5%), Tziah I 119-131 Gem x2 (20%), Tziah I 133-142 Gem x2 (20%), Fleetfooted Cavalry (100%), Lustful Snake B (50%), Wild Drive B (50%), Jotun of Power B (50%), Five Fingers of Blight (100%), Champion Knight B (50%), Elegant Mother B (30%), 6/26: Rescue Reward x2 |
 | Silver Quartz | 12500 | 10/6: Black Quartz x3, 10/6: Topaz x5, Tziah I 119-131 Gem (15%), Tziah I 133-142 Gem (15%), Tziah II 145-154 Gem (10%), Tziah II 145-154 Gem x2 (5%), Tziah II 156-168 Gem (10%), Tziah II 156-168 Gem x2 (5%), Harabah I 173-183 Gem (15%), Harabah I 173-183 Gem x2 (10%), Harabah I 185-196 Gem (15%), Harabah I 185-196 Gem x2 (10%), Harabah II 199-211 Gem x2 (20%), Harabah II 213-224 Gem x2 (20%), Order Giant B (50%), Demented Knight (100%), Scarlet Turret B (50%), Ruinous Idol B (30%), Curse Dice B (50%), Jotun of Blood B (35%) |
-| Gold Quartz | 50000 | 1/1: Silver Quartz x5, 1/1: Diamond x4, Harabah II 199-211 Gem (10%), Harabah II 213-224 Gem (10%), Adamah I 227-235 Gem (10%), Adamah I 237-244 Gem (10%), Adamah I 248-251 Gem (15%), Adamah I 248-251 Gem x2 (10%), Daring Gigas B (20%), Jotun of Evil B (50%), Invasive Serpent (100%), Divine Mother B (60%), Tenjin Musha C (50%) |
+| Gold Quartz | 50000 | 1/1: Silver Quartz x5*, 1/1: Diamond x4*, Harabah II 199-211 Gem (10%), Harabah II 213-224 Gem (10%), Adamah I 227-235 Gem (10%), Adamah I 237-244 Gem (10%), Adamah I 248-251 Gem (15%), Adamah I 248-251 Gem x2 (10%), Daring Gigas B (20%), Jotun of Evil B (50%), Invasive Serpent (100%), Divine Mother B (60%), Tenjin Musha C (50%) |
 #### Heart Items
 | Material | Sell | Acquisition |
 | --- | --- | --- |
@@ -1369,8 +1369,8 @@
 | Cure Water | Restores 50 HP to all party members. | Thebel Rare (50%), Arqa I Rare (15%), Yabbashah I 70-76 Common (13%), Yabbashah I 78-81 Common (5%), Yabbashah I 83-88 Common (12%), Request #3: Shadow Hunting Milestone x3 |
 | Kamimusubi Water | Restores 200 HP to all party members. | Yabbashah I 82 Rare x3 (100%), Tziah I 125 Rare x2 (100%), Yabbashah II Rare (4%), Yabbashah II 2-lock (12%), Tziah I Rare (4%), Tziah I 2-lock (6%), Tziah II Rare (6%), Harabah I Rare (16%), Harabah II Rare (14%), Harabah II 213-224 Common (5%), Adamah II Common (10%), Magician Card 4 x2 (30%), Request #31: Shadow Hunting Milestone #4 x2 |
 | Antibiotic Gel | Restores 200 HP to 1 ally. | Arqa II Rare (18%), Yabbashah I Rare (15%), Yabbashah I 70-76 Common (5%), Yabbashah I 78-81 Common (5%), Yabbashah I 83-88 Common (5%), Yabbashah II 93-98 Common (10%), Yabbashah II 100-104 Common (10%), Yabbashah II 106-116 Common (8%), Tziah I 119-123 Common (10%), Tziah I 127-131 Common (10%), Tziah I 133-142 Common (13%), Tziah II 145-154 Common (14%), Tziah II 156-168 Common (14%), Harabah I 173-183 Common (15%), Harabah I 185-196 Common (10%), Harabah II 199-211 Common (10%), Harabah II 213-224 Common (10%), 5/10: TV Shopping x2 (Y3980) |
-| Aohige Aojiru | Restores 200 HP to 1 ally. | 8/8: Pharmacy (Y3400) |
-| Aohige Special | Restores 200 HP to all party members. | 8/8: Pharmacy (Y7800) |
+| Aohige Aojiru | Restores 200 HP to 1 ally. | 8/8: Pharmacy* (Y3400) |
+| Aohige Special | Restores 200 HP to all party members. | 8/8: Pharmacy* (Y7800) |
 | Luxury Chocolate | A high-end chocolate that's not overly sweet. Restores 30 SP to 1 ally. | 5/3: TV Shopping x2 (Y2980) |
 | Snuff Soul | Restores 50 SP to 1 ally. | Amethyst x5 + Turquoise x5, 10/6: Emerald x2 + Turquoise x2, Thebel 2 1-lock x2 (100%), Thebel 11 Rare x2 (100%), Arqa I Rare (5%), Arqa I 2-lock (10%), Arqa II Rare (5%), Arqa II 2-lock (10%), Yabbashah I Rare (5%), Yabbashah II Rare (10%), Yabbashah II 1-lock (12%), Tziah I 119-123 Common (3%), Tziah I 127-131 Common (3%), Tziah I 133-142 Common (5%), Tziah II 145-154 Common (5%), Tziah II 156-168 Common (5%), Harabah I 173-183 Common (5%), Harabah I 185-196 Common (4%), Harabah II 199-211 Common (5%), Harabah II 213-224 Common (5%), Adamah I 227-235 Common (5%), Adamah I 237-244 Common (5%), Adamah I 248-251 Common (7%), Adamah II Common (8%), Magician Card 2 (10%), Request #4: Treasure Hunting Milestone x2, Request #32: Treasure Hunting Milestone #3 x6 |
 | Chewing Soul | Restores 100 SP to 1 ally. | Topaz x5 + Onyx x5, 12/10: Garnet x3 + Onyx x3, Arqa I 35 Rare (100%), Arqa II 47 Rare x2 (100%), Tziah II 170 Rare x2 (100%), Yabbashah II 2-lock (8%), Tziah I 1-lock (2%), Tziah I 2-lock (6%), Tziah II Rare (4%), Tziah II 2-lock (10%), Harabah I Rare (10%), Harabah I 1-lock (14%), Harabah II Rare (12%), Adamah I Rare (13%), Magician Card 3 (5%), Magician Card 4 (10%), Request #16: Treasure Hunting Milestone #2 x2 |
@@ -1386,34 +1386,34 @@
 | Chocolate Cake | This cake is chock-full of chocolate. Fully restores SP for 1 ally. | 12/24: Yukari Christmas Date |
 | Top-Grade Grape Juice | Fragrant and sparkling. Fully restores HP and SP for all allies. | 12/24: Mitsuru Christmas Date |
 | Chicken Sauté | A dish cooked with Yukari. Restores 100 HP to all allies. | Yukari Cooking 1-2 |
-| Cabbage Cream Stew | A gem of a dish cooked with Yukari. Restores 200 HP to all allies. | Yukari Cooking 3+ |
+| Cabbage Cream Stew | A gem of a dish cooked with Yukari. Restores 200 HP to all allies. | Yukari Cooking 3 |
 | Okay Coffee | Coffee brewed with Amada. Restores 100 SP to 1 ally. | Ken Cooking 1-2 |
-| Excellent Coffee | Top-notch coffee brewed with Amada. Restores all SP to 1 ally. | Ken Cooking 3+ |
+| Excellent Coffee | Top-notch coffee brewed with Amada. Restores all SP to 1 ally. | Ken Cooking 3 |
 | Luxe Night Tea | Tea served by Mitsuru. Restores 200 HP to 1 ally. | Mitsuru Cooking 1-2 |
-| Karume-yaki | Tea time snacks made with Mitsuru. Fully restores HP to 1 ally. | Mitsuru Cooking 3+ |
+| Karume-yaki | Tea time snacks made with Mitsuru. Fully restores HP to 1 ally. | Mitsuru Cooking 3 |
 | Exquisite Katsudon | Aragaki's special pork cutlet bowl. Fully restores HP to 1 ally. | Shinjiro Cooking 1-2 |
-| Ultimate Tempura | A dish made from the soul with Aragaki. Fully restores HP to all allies. | Shinjiro Cooking 3+ |
+| Ultimate Tempura | A dish made from the soul with Aragaki. Fully restores HP to all allies. | Shinjiro Cooking 3 |
 | Decadent Tea | Tea specially prepared by Mitsuru. Fully restores all HP to 1 ally. | - |
-| Healthy Tomato | Grown solo. Restores 100 HP to 1 ally. | Healthy Tomato Sprout + Makoto |
-| Big Healthy Tomato | Grown with Fuuka. Restores 150 HP to 1 ally. | Healthy Tomato Sprout + Fuuka |
-| Tiny Healthy Tomato | Grown with Junpei. Restores 50 HP to 1 ally. | Healthy Tomato Sprout + Junpei |
-| Healthy Tomato EX | Grown with Aigis. Restores 50 HP to all allies. | Healthy Tomato Sprout + Aigis |
-| Healthiest Tomato | Grown with Aragaki. Restores 200 HP to 1 ally. | Healthy Tomato Sprout + Shinjiro |
-| Soul Spinach | Grown solo. Restores 30 SP to 1 ally. | Soul Spinach Sprout + Makoto |
-| Large Soul Spinach | Grown with Fuuka. Restores 50 SP to 1 ally. | Soul Spinach Sprout + Fuuka |
-| Mini Soul Spinach | Grown with Junpei. Restores 10 SP to 1 ally. | Soul Spinach Sprout + Junpei |
-| Leafy Soul Spinach | Grown with Aigis. Restores 30 SP to all allies. | Soul Spinach Sprout + Aigis |
-| Meaty Soul Spinach | Grown with Aragaki. Restores 100 SP to 1 ally. | Soul Spinach Sprout + Shinjiro |
-| Golden Tomato | Grown solo. Restores 100 HP and 30 SP to 1 ally. | Golden Tomato Sprout + Makoto |
-| Big Golden Tomato | Grown with Fuuka. Restores 150 HP and 50 SP to 1 ally. | Golden Tomato Sprout + Fuuka |
-| Tiny Golden Tomato | Grown with Junpei. Restores 100 HP and 10 SP to 1 ally. | Golden Tomato Sprout + Junpei |
-| Golden Tomato EX | Grown with Aigis. Restores 100 HP and 30 SP to all allies. | Golden Tomato Sprout + Aigis |
-| Platinum Tomato | Grown with Aragaki. Restores 200 HP and 100 SP to 1 ally. | Golden Tomato Sprout + Shinjiro |
-| Spring Cabbage Bowl | Has a tasteful mix of sweetness and saltiness. Restores 100 HP to 1 ally. | Beef Bowl (Y800) |
-| Autumn Beef Bowl | A beef bowl with a variety of toppings. Restores 50 HP to all party members. | 9/1: Beef Bowl (Y1000) |
-| Winter Oden Bowl | The broth goes perfectly with white rice. Restores 150 HP to one ally. | 12/1: Beef Bowl (Y1200) |
-| 4biotic Pack | A set of 4 probiotic drinks. Restores 10 SP to all party members. | Iwatodai Station (Y200) |
-| Chilled Taiyaki | Chewy, chilled, and delicious. Restores 100 HP to 1 ally. | Lukewarm Taiyaki + Fridge |
+| Healthy Tomato | Grown solo. Restores 100 HP to 1 ally. | Healthy Tomato Sprout: Makoto |
+| Big Healthy Tomato | Grown with Fuuka. Restores 150 HP to 1 ally. | Healthy Tomato Sprout: Fuuka |
+| Tiny Healthy Tomato | Grown with Junpei. Restores 50 HP to 1 ally. | Healthy Tomato Sprout: Junpei |
+| Healthy Tomato EX | Grown with Aigis. Restores 50 HP to all allies. | Healthy Tomato Sprout: Aigis |
+| Healthiest Tomato | Grown with Aragaki. Restores 200 HP to 1 ally. | Healthy Tomato Sprout: Shinjiro |
+| Soul Spinach | Grown solo. Restores 30 SP to 1 ally. | Soul Spinach Sprout: Makoto |
+| Large Soul Spinach | Grown with Fuuka. Restores 50 SP to 1 ally. | Soul Spinach Sprout: Fuuka |
+| Mini Soul Spinach | Grown with Junpei. Restores 10 SP to 1 ally. | Soul Spinach Sprout: Junpei |
+| Leafy Soul Spinach | Grown with Aigis. Restores 30 SP to all allies. | Soul Spinach Sprout: Aigis |
+| Meaty Soul Spinach | Grown with Aragaki. Restores 100 SP to 1 ally. | Soul Spinach Sprout: Shinjiro |
+| Golden Tomato | Grown solo. Restores 100 HP and 30 SP to 1 ally. | Golden Tomato Sprout: Makoto |
+| Big Golden Tomato | Grown with Fuuka. Restores 150 HP and 50 SP to 1 ally. | Golden Tomato Sprout: Fuuka |
+| Tiny Golden Tomato | Grown with Junpei. Restores 100 HP and 10 SP to 1 ally. | Golden Tomato Sprout: Junpei |
+| Golden Tomato EX | Grown with Aigis. Restores 100 HP and 30 SP to all allies. | Golden Tomato Sprout: Aigis |
+| Platinum Tomato | Grown with Aragaki. Restores 200 HP and 100 SP to 1 ally. | Golden Tomato Sprout: Shinjiro |
+| Spring Cabbage Bowl | Has a tasteful mix of sweetness and saltiness. Restores 100 HP to 1 ally. | Beef Bowl* (Y800) |
+| Autumn Beef Bowl | A beef bowl with a variety of toppings. Restores 50 HP to all party members. | 9/1: Beef Bowl* (Y1000) |
+| Winter Oden Bowl | The broth goes perfectly with white rice. Restores 150 HP to one ally. | 12/1: Beef Bowl* (Y1200) |
+| 4biotic Pack | A set of 4 probiotic drinks. Restores 10 SP to all party members. | Iwatodai Station* (Y200) |
+| Chilled Taiyaki | Chewy, chilled, and delicious. Restores 100 HP to 1 ally. | Lukewarm Taiyaki, Fridge |
 | Luxe Tropical Fruit | A fruit with a sweet aroma. Cures all ailments besides KO for 1 ally. | Akihiko Link 2 |
 | Imperial Sweets Set | Sweets loved by the royal family. Restores 50 HP to all party members. | Akihiko Link 2 |
 | Candy Hosui Pear | A pear that fills your mouth with sweet juice. Fully restores HP to 1 ally. | 10/11: TV Shopping x2 (Y19800) |
@@ -1451,7 +1451,7 @@
 | Vitae G Bottle | Cures Freeze/Shock/Poison/\nDown/Dizzy for all allies. | 9/10: Pharmacy (Y8200) |
 | Medicated Patch | Yuko's special compress. Revives 1 fallen ally with full HP. | 12/24: Yuko Christmas Date |
 | Iron-Athlete Meal | A manly meal cooked with Sanada. Increases all allies' Attack for 3 turns. | Akihiko Cooking 1-2 |
-| Super-Athlete Meal | A manly meal cooked with Sanada. Increases all of 1 ally's stats for 3 turns. | Akihiko Cooking 3+ |
+| Super-Athlete Meal | A manly meal cooked with Sanada. Increases all of 1 ally's stats for 3 turns. | Akihiko Cooking 3 |
 | Trafuri Gem | Enables escape from most battles. | Turquoise x2, Thebel Rare (20%), Tziah I 133-142 Common (12%) |
 | Magic Mirror | Barrier that repels 1 (non-\nAlmighty) magic attack for 1 ally. | 10/6: Onyx x2 + Topaz x2, Tziah I 136 Rare x2 (100%), Adamah I 236 Rare x2 (100%), Yabbashah I Rare (16%), Yabbashah II Rare (22%), Tziah I Rare (14%), Tziah II Rare (15%), Tziah II 145-154 Common (3%), Tziah II 156-168 Common (3%), Harabah I 173-183 Common (8%), Harabah II Rare (19%), Harabah II 213-224 Common (3%), Adamah I Rare (16%), Magician Card 5 x2 (15%) |
 | Attack Mirror | Barrier that repels 1 physical attack for 1 ally. | 10/6: Onyx x2 + Topaz x2, Yabbashah I Rare (16%), Yabbashah II Rare (22%), Tziah I Rare (14%), Tziah II Rare (15%), Tziah II 145-154 Common (3%), Tziah II 156-168 Common (3%), Harabah I 173-183 Common (8%), Harabah II Rare (19%), Harabah II 213-224 Common (3%), Adamah I Rare (16%), Magician Card 5 x2 (15%), Request #34: Create a Persona with Torrent Shot. x3 |
@@ -1477,21 +1477,21 @@
 | Frigid Magatama | Deals 150 Ice damage to 1 foe. Low chance of inflicting Freeze. | Tziah I 119-123 Common (13%) |
 | Shock Magatama | Deals 150 Electric damage to 1 foe. Low chance of inflicting Shock. | Tziah I 119-123 Common (13%) |
 | Gale Magatama | Deals 150 Wind damage to 1 foe. | Tziah I 119-123 Common (13%) |
-| Tarukaja Potato | Grown solo. Raises 1 ally's Attack for 3 turns. | Buff Potato Sprout + Makoto |
-| Sukukaja Potato | Grown with Fuuka. Raises 1 ally's Accuracy/Evasion for 3 turns. | Buff Potato Sprout + Fuuka |
-| Rakukaja Potato | Grown with Junpei. Raises 1 ally's Defense for 3 turns. | Buff Potato Sprout + Junpei |
-| Matarukaja Potato | Grown with Aigis. Raises all allies' Attack for 3 turns. | Buff Potato Sprout + Aigis |
-| Heat Riser Potato | Grown with Aragaki. Raises all stats of 1 ally for 3 turns. | Buff Potato Sprout + Shinjiro |
-| Nutritious Amronion | Grown solo. Cures 1 ally's Freeze/\nShock/Poison/Down/Dizzy. | Amronion Sprout + Makoto |
-| Medicinal Amronion | Grown with Fuuka. Cures Distress/\nConfuse/Charm/Rage/Fear for all allies. | Amronion Sprout + Fuuka |
-| Refreshing Amronion | Grown with Junpei. Cures Distress/\nConfuse/Charm/Rage/Fear for 1 ally. | Amronion Sprout + Junpei |
-| Nourishing Amronion | Grown with Aigis. Cures all allies'\nFreeze/Shock/Poison/Down/Dizzy. | Amronion Sprout + Aigis |
-| True Amronion | Grown with Aragaki. Cures all ailments besides KO for 1 ally. | Amronion Sprout + Shinjiro |
-| Charged Herb | Grown solo. Next physical attack will do more than double the damage. | Simple Herb Sprout + Makoto |
-| Concentrated Herb | Grown with Fuuka. Next magic attack will do more than double the damage. | Simple Herb Sprout + Fuuka |
-| Deflecting Herb | Grown with Junpei. Repels 1 physical attack for 1 ally. | Simple Herb Sprout + Junpei |
-| Mirror Herb | Grown with Aigis. Repels 1 magic attack for 1 ally. | Simple Herb Sprout + Aigis |
-| Comeback Herb | Grown with Aragaki. Revives 1 fallen ally with full HP. | Simple Herb Sprout + Shinjiro |
+| Tarukaja Potato | Grown solo. Raises 1 ally's Attack for 3 turns. | Buff Potato Sprout: Makoto |
+| Sukukaja Potato | Grown with Fuuka. Raises 1 ally's Accuracy/Evasion for 3 turns. | Buff Potato Sprout: Fuuka |
+| Rakukaja Potato | Grown with Junpei. Raises 1 ally's Defense for 3 turns. | Buff Potato Sprout: Junpei |
+| Matarukaja Potato | Grown with Aigis. Raises all allies' Attack for 3 turns. | Buff Potato Sprout: Aigis |
+| Heat Riser Potato | Grown with Aragaki. Raises all stats of 1 ally for 3 turns. | Buff Potato Sprout: Shinjiro |
+| Nutritious Amronion | Grown solo. Cures 1 ally's Freeze/\nShock/Poison/Down/Dizzy. | Amronion Sprout: Makoto |
+| Medicinal Amronion | Grown with Fuuka. Cures Distress/\nConfuse/Charm/Rage/Fear for all allies. | Amronion Sprout: Fuuka |
+| Refreshing Amronion | Grown with Junpei. Cures Distress/\nConfuse/Charm/Rage/Fear for 1 ally. | Amronion Sprout: Junpei |
+| Nourishing Amronion | Grown with Aigis. Cures all allies'\nFreeze/Shock/Poison/Down/Dizzy. | Amronion Sprout: Aigis |
+| True Amronion | Grown with Aragaki. Cures all ailments besides KO for 1 ally. | Amronion Sprout: Shinjiro |
+| Charged Herb | Grown solo. Next physical attack will do more than double the damage. | Simple Herb Sprout: Makoto |
+| Concentrated Herb | Grown with Fuuka. Next magic attack will do more than double the damage. | Simple Herb Sprout: Fuuka |
+| Deflecting Herb | Grown with Junpei. Repels 1 physical attack for 1 ally. | Simple Herb Sprout: Junpei |
+| Mirror Herb | Grown with Aigis. Repels 1 magic attack for 1 ally. | Simple Herb Sprout: Aigis |
+| Comeback Herb | Grown with Aragaki. Revives 1 fallen ally with full HP. | Simple Herb Sprout: Shinjiro |
 | Kouga Gem | Deals 100 Light damage to 1 foe. | Arqa I 37-41 Common (14%), Arqa II 44-53 Common (10%), Arqa II 55-59 Common (12%), Arqa II 61-67 Common (6%), Yabbashah I 78-81 Common (8%) |
 | Makouha Gem | Deals 50 Light damage to all foes. | Arqa I 23-27 Common (11%), Arqa I 29-33 Common (13%), Arqa II 55-59 Common (7%), Yabbashah I 78-81 Common (5%), Magician Card 2 x3 (40%) |
 | Eiga Gem | Deals 100 Dark damage to 1 foe. | Arqa I 37-41 Common (14%), Arqa II 44-53 Common (10%), Arqa II 55-59 Common (12%), Arqa II 61-67 Common (6%), Yabbashah I 78-81 Common (8%) |
@@ -1511,8 +1511,8 @@
 | Great Yakiniku Bowl | A hearty and satisfying dish. Increases Attack of 1 ally for 3 turns. | Beef Bowl (Y1300) |
 | Staunch Offal Bowl | Can take a while to eat it all. Increases Defense of 1 ally for 3 turns. | Beef Bowl (Y1300) |
 | Lithe Combo Bowl | A brisk dish. Increases Accuracy/Evasion of 1 ally for 3 turns. | Beef Bowl (Y1300) |
-| Summer-Hot Bowl | Heats you up when eaten. Increases all stats of 1 ally for 3 turns. | 6/1: Beef Bowl (Y1500) |
-| Stamina Beef Bowl | For a body that won't lose to laziness. Nullify stat debuffs for all allies. | 1/1: Beef Bowl (Y1500) |
+| Summer-Hot Bowl | Heats you up when eaten. Increases all stats of 1 ally for 3 turns. | 6/1: Beef Bowl* (Y1500) |
+| Stamina Beef Bowl | For a body that won't lose to laziness. Nullify stat debuffs for all allies. | 1/1: Beef Bowl* (Y1500) |
 | Doctor in Jelly | Healthy jelly. Cures 1 ally of Freeze/Shock/Poison/Down/Dizzy. | 7/5: TV Shopping x3 (Y3980) |
 | YABA Chocolate | Calming chocolate. Cures 1 ally of Confuse/Rage/Charm/Distress/Fear. | 7/5: TV Shopping x3 (Y3980) |
 #### Food and Incense
@@ -1569,9 +1569,9 @@
 | Master Incense | Raises all of a Persona's stats by 1. Can be used on an ally's Persona. | 12/21: Exam Results: Top Ten x4, Give Platinum Brooch to Elizabeth x2, Hanged Card 1 (5%) |
 | Twilight Fragment | A glowing fragment of unknown origin. Cannot be sold. | Request #57: I'd like to try Aojiru. x8, Request #11: Please prevail in the Big Eater Challenge. x3, Request #40: I'd like to see a pair of Max Safety Shoes. x3, Request #19: I want Jack Frost dolls. x3, Request #75: Bring me a Sengoku-era helm. x7, Request #23: Persona Fusion Milestone x5, Request #33: Persona Fusion Milestone #2 x5, Request #48: Persona Fusion Milestone #3 x5 |
 | Umiushi Beef Bowl | A staple of the Umiushi menu. Restores 20 HP to 1 ally. | Beef Bowl (Y300) |
-| Definitely Lemonade | A fresh, lemon-based drink. A bit watery. Restores 10 HP to 1 ally. | Iwatodai Station (Y120) |
-| Happiness Water | Water that tastes like happiness. Restores 5 SP to 1 ally. | Iwatodai Station (Y120) |
-| Lukewarm Taiyaki | A white, fish-shaped cake that tastes better after cooling in the refrigerator. | School (Y200) |
+| Definitely Lemonade | A fresh, lemon-based drink. A bit watery. Restores 10 HP to 1 ally. | Iwatodai Station* (Y120) |
+| Happiness Water | Water that tastes like happiness. Restores 5 SP to 1 ally. | Iwatodai Station* (Y120) |
+| Lukewarm Taiyaki | A white, fish-shaped cake that tastes better after cooling in the refrigerator. | School* (Y200) |
 | Fresh Juice | No additives or colorings used. Tastes dense. Restores 5 SP for 1 ally. | Akihiko Link 2 |
 | Halloween Candy | Spooky candy popular with children. Restores 20 HP to 1 ally. | 10/25: TV Shopping x50 (Y24800) |
 #### Gifts
@@ -1593,9 +1593,9 @@
 | Jack Frost Doll | A doll in the likeness of an adorable mascot. Might please someone. | Crane Game, Summer Festival Draw |
 | Book Cover | A fancy leather sheath. Might please someone. | School (Y2000) |
 | Lucky Charm | Came with your paper fortune. Might please someone. | Shrine Fortune Draw (Best) |
-| White Flower | A white flower that Junpei was gazing at. Might please someone. | Florist (Y250) |
+| White Flower | A white flower that Junpei was gazing at. Might please someone. | Florist* (Y250) |
 | Hyper-Metal Robot | A robot popular among young boys. Might please someone. | 9/27: TV Shopping (Y19800) |
-| Vintage Yagen | A tool for grinding up herbs to make medicine. Might please someone. | Topaz x2 + Turquoise |
+| Vintage Yagen | A tool for grinding up herbs to make medicine. Might please someone. | Topaz x2 + Turquoise* |
 #### Other
 | Item | Effect | Acquisition |
 | --- | --- | --- |
@@ -1603,7 +1603,7 @@
 | Buff Potato Sprout | Will grow a potato that enhances battle ability. 12 days until fully grown. | 5/26: Florist (Y700), 6/28: TV Shopping x3 (Y2980), 8/23: TV Shopping x3 (Y2980) |
 | Amronion Sprout | Will grow an onion that rapidly cures ailments. 10 days until fully grown. | 6/18: Florist (Y900), 6/28: TV Shopping x2 (Y2980) |
 | Soul Spinach Sprout | Will grow spinach that heals the soul. 12 days until fully grown. | 8/8: Florist (Y1200), 8/23: TV Shopping x2 (Y2980) |
-| Golden Tomato Sprout | Will grow a tomato that ensures vitality. 15 days until fully grown. | 10/6: Florist (Y1500) |
+| Golden Tomato Sprout | Will grow a tomato that ensures vitality. 15 days until fully grown. | 10/6: Florist* (Y1500) |
 | Simple Herb Sprout | Changes qualities based on how it is cared for. 13 days until fully grown. | 12/4: Florist (Y2000) |
 | Lessons in Etiquette | PC software for learning manners that will charm others. | Net Cafe (Y1200) |
 | Virtual Diet | PC software for helping you attain a beautiful body via watching videos. | Net Cafe (Y1200) |
@@ -1615,7 +1615,7 @@
 | TypinGhoul | PC software that requires courage to defeat zombies through typing. | Net Cafe (Y1200) |
 | Sengoku Chronicles | PC software for living out the valorous feats of a Sengoku-era general. | 9/1: Net Cafe (Y4000) |
 | The Form of Running | PC software that uses videos to teach the best form to increase speed. | - |
-| Ninja Fansite Note | A note with the URL of a site that studies ninja skills for greater agility. | 11/4: URL Seller (Y12000) |
+| Ninja Fansite Note | A note with the URL of a site that studies ninja skills for greater agility. | 11/4: URL Seller* (Y12000) |
 | Part-Time Master | PC software for learning servicing skills to help you earn a higher hourly wage. | 10/5: Net Cafe (Y8000) |
 | Veggie Farmer Sim | PC software for learning skills to increase the yield of your vegetable garden. | 9/1: Net Cafe (Y4500) |
 | Muscle Boot Camp | PC software for learning how to effectively strengthen your muscles. | Net Cafe (Y2000) |
@@ -1627,11 +1627,11 @@
 | School X Site Note | A note with the URL of a familiar site about an anonymous school. | URL Seller (Y500) |
 | Veggie Blog Note | A note with the URL of a blog written by devoted vegetable gardens lovers. | 10/6: URL Seller (Y500) |
 | Dating Site Note | A note with the URL of a matchmaking site with a prepaid Offering Pass. | 11/11: URL Seller (Y3000) |
-| Revenge Site Note | A note with the URL of a revenge request site that has stirred up a buzz. | 6/23: URL Seller (Y500) |
+| Revenge Site Note | A note with the URL of a revenge request site that has stirred up a buzz. | 6/23: URL Seller* (Y500) |
 | Believer's Blog Note | A note with the URL of a blog whose author writes fanatically about Nyx. | 1/1: URL Seller (Y500) |
 | Security Site Note | A note with the URL of a site featuring videos on taking down enemies. | 7/9: URL Seller (Y5000) |
-| Assassin Site Note | A note with the URL of a site detailing how to fatally strike your enemy. | 9/10: URL Seller (Y8000) |
-| History Website Note | A note with the URL of a site for posting anecdotes of inspiring people. | 9/10: URL Seller (Y8000) |
+| Assassin Site Note | A note with the URL of a site detailing how to fatally strike your enemy. | 9/10: URL Seller* (Y8000) |
+| History Website Note | A note with the URL of a site for posting anecdotes of inspiring people. | 9/10: URL Seller* (Y8000) |
 ### Key Items
 | Item | Effect | Acquisition |
 | --- | --- | --- |

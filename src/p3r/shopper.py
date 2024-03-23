@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import json
-from shared import load_item_codes, load_item_descs, iterate_int_tsvfile
+from shared import load_item_codes, load_item_prices, load_item_descs, iterate_int_tsvfile
 
 def pluralize(amount):
     return f" x{str(amount)}" if amount > 1 else ''
@@ -10,6 +10,33 @@ def to_date(month, day):
 
 def stat_to_str(stat):
     return str(stat) if stat != 0 else '-'
+
+def iterate_tv_shopping():
+    inames = load_item_codes('en')
+    data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldMailOrderTable.tsv'
+    for line in iterate_int_tsvfile(data_file, skip_first=False):
+        yield {
+            'Buy': to_date(line['BuyMonth'], line['BuyDay'])[:-2],
+            'Receive': to_date(line['ReceiveMonth'], line['ReceiveDay'])[:-2],
+            'Items': f"{inames[line['ItemA_ID']]}{pluralize(line['ItemA_Num'])} + " +
+                     f"{inames[line['ItemB_ID']]}{pluralize(line['ItemB_Num'])}",
+            'Price': line['Price']
+        }
+
+def iterate_missing_people():
+    inames = load_item_codes('en')
+    ipeople = load_item_descs('Content/Xrd777/Help/BMD_DisappearHelp.tsv', 'en', offset=-1)
+    data_file = 'Content/Xrd777/UI/Tables/DisappearDataAsset.tsv'
+    for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
+        reward = f"Y{line['AwardMoney']}"
+        if line['AwardMoney'] == 0:
+            reward = f"{inames[line['AwardItemID']]}{pluralize(line['AwardItemNum'])}"
+        yield {
+            'Missing': to_date(line['StartMonth'], line['StartDays'])[:-2],
+            'Limit': to_date(line['LimitMonth'], line['LimitDays'])[:-2],
+            'Name': ipeople[i].split('\\n')[0],
+            'Reward': reward
+        }
 
 def list_requests():
     requests = []
@@ -66,6 +93,7 @@ def load_shops_to_items():
 
 def load_data(callback):
     inames = load_item_codes('en')
+    iprices = load_item_prices()
 
     def load_shuffle(data_file, shop_name, item_lookup):
         ranks = list(range(1, 51)) if shop_name == 'Persona' else [str(x) for x in range(1, 11)] + ['J', 'Q', 'K']
@@ -86,7 +114,7 @@ def load_data(callback):
     def load_police(data_file, shop):
         for line in iterate_int_tsvfile(data_file):
             item = inames[line['Value']]
-            format = f"{to_date(line['SaleMonth'], line['SaleDay'])}{{}} (Y{{{{}}}})"
+            format = f"{to_date(line['SaleMonth'], line['SaleDay'])}{{}}{'*' if line['OpenFLG'] > 0 else ''} (Y{iprices[line['Value']]})"
             callback(shop, item, format)
 
     load_police('Content/Xrd777/UI/Tables/DatItemShopLineupDataAsset.tsv', 'Pharmacy')
@@ -102,7 +130,7 @@ def load_data(callback):
     for line in iterate_int_tsvfile(data_file, skip_first=False):
         shop = packs[line['ShopID']]
         item = inames[line['ItemID']]
-        format = f"{to_date(line['LiftMonth'], line['LiftDays'])}{{}} (Y{{{{}}}})"
+        format = f"{to_date(line['LiftMonth'], line['LiftDays'])}{{}}{'*' if line['OpenFlag'] > 0 else ''} (Y{iprices[line['ItemID']]})"
         callback(shop, item, format)
 
     def load_antiques(data_file, has_base_item):
@@ -114,7 +142,7 @@ def load_data(callback):
                 item_num = line[f"TradeItemNum{i}"]
                 if item_num != 0:
                     shop.append(f"{item_name}{pluralize(item_num)}")
-            format = f"{to_date(line['SaleMonth'], line['SaleDay'])}{{}}"
+            format = f"{to_date(line['SaleMonth'], line['SaleDay'])}{{}}{'*' if line['OpenFLG'] > 0 else ''}"
             callback(' + '.join(shop), item, format)
 
     load_antiques('Content/Xrd777/UI/Tables/DatAntiqueShopLineupDataAssetCombineResults.tsv', True)

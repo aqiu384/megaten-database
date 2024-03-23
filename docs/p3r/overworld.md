@@ -1,0 +1,746 @@
+# Persona 3 Reload
+## Overworld
+### Police Station
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Saber | 3200 |
+| - | Gladius | 2600 |
+| - | Short Bow | 3000 |
+| - | RainBow | 2400 |
+| - | Bastard Sword | 3500 |
+| - | Kishido Blade | 3000 |
+| 5/10 | Fudo Masamune | 7500 |
+| 5/10 | Iron Edge | 6100 |
+| 5/10 | Shigetou-yumi | 6800 |
+| 5/10 | Siren's Song | 5700 |
+| 5/10 | Great Sword | 8000 |
+| 5/10 | Raikou | 6500 |
+| - | Bladefist | 7200 |
+| - | Sonic Fist | 5850 |
+| 6/14 | Silver Saber | 8150 |
+| 6/14 | Pleiades | 7700 |
+| 6/14 | All-Purpose Katana | 9000 |
+| 6/14 | Beast Fangs | 8300 |
+| - | Quarter Pike | 8000 |
+| 7/18 | Tizona | 13200 |
+| 7/18 | Aroundight | 10900 |
+| 7/18 | Kamatha | 11900 |
+| 7/18 | Uta | 9750 |
+| 7/18 | Zanbatou | 14150 |
+| 7/18 | Assassin's Blade | 12000 |
+| 7/18 | Meteor Knuckles | 12500 |
+| 7/18 | Gusto Gloves | 10250 |
+| 7/18 | Ga Boo | 13000 |
+| 7/18 | Malice Mary | 10600 |
+| - | Six-Shot | 14500 |
+| - | Grenade Launcher | 11750 |
+| 8/8 | Shishiou | 18400 |
+| 8/8 | Yggdrasword | 15200 |
+| 8/8 | Higo-yumi | 16800 |
+| 8/8 | Heavenly Windbow | 14100 |
+| 8/8 | Tsubaki-maru | 19700 |
+| 8/8 | Two-Handed Sword | 16300 |
+| 8/8 | Wicked Cestus | 17400 |
+| 8/8 | Blood Baghnakh | 14600 |
+| 8/8 | Serpent Sword | 18000 |
+| 8/8 | Skrep | 14950 |
+| 8/8 | Orgone Rifle | 20000 |
+| 8/8 | Heavy Cannon X | 16500 |
+| - | Blitz Kunai | 17000 |
+| - | Lucky Knife | 14350 |
+| - | Glaive | 18600 |
+| - | Sexy Lance | 15780 |
+| - | Ogre Hammer | 19800 |
+| - | Night Stalker | 16200 |
+| 9/10 | Sin Blade | 23800 |
+| 9/10 | Omokage | 20300 |
+| 9/10 | Composite Bow | 20800 |
+| 9/10 | Magic Bow | 18100 |
+| 9/10 | Buster Blade | 24150 |
+| 9/10 | Orochito | 22700 |
+| 9/10 | Titanic Knuckles | 21450 |
+| 9/10 | Pugilist's Fists | 18000 |
+| 9/10 | Ithuriel Spear | 23250 |
+| 9/10 | Elegant Fleuret | 19600 |
+| 9/10 | Ingels Cannon | 24600 |
+| 9/10 | Five-Barrel Medusa | 22000 |
+| 9/10 | Silver Moon | 20850 |
+| 9/10 | Karasu-maru | 18600 |
+| 9/10 | Rhongowennan | 23000 |
+| 9/10 | Lance of Death | 19700 |
+| 9/10 | Guillotine Axe | 24500 |
+| 9/10 | Megaton Rod | 21250 |
+| 10/6 | Kogarasumaru | 28600 |
+| 10/6 | Pulsing Blade | 25300 |
+| 10/6 | Great Bow | 26100 |
+| 10/6 | Lightning Bow | 22200 |
+| 10/6 | Kaketsushinto | 28900 |
+| 10/6 | Deathbringer | 25700 |
+| 10/6 | Crusher Fist | 26500 |
+| 10/6 | Wings of Vanth | 23200 |
+| 10/6 | Noble Saber | 27900 |
+| 10/6 | Main Gauche | 25100 |
+| 10/6 | Railgun | 31000 |
+| 10/6 | Supersonic Minigun | 26700 |
+| 10/6 | Sword Breaker | 26150 |
+| 10/6 | Raven Claw | 22300 |
+| 10/6 | Ranseur | 28500 |
+| 10/6 | Ningen Mukotsu | 24300 |
+| 11/6 | Qi Xing Dao | 34000 |
+| 11/6 | Tajikarao Sword | 29400 |
+| 11/6 | Hero's Bow | 31500 |
+| 11/6 | Bow of Serenity | 27900 |
+| 11/6 | Caladbolg | 36100 |
+| 11/6 | Apocalypse | 30700 |
+| 11/6 | Supreme Gloves | 31900 |
+| 11/6 | Diamond Knuckles | 27900 |
+| 11/6 | Rose Flamberge | 33100 |
+| 11/6 | Witch Saber | 29400 |
+| 11/6 | Maxima Sniper | 37300 |
+| 11/6 | Angel Shot | 32700 |
+| 11/6 | Shadowrend | 31000 |
+| 11/6 | Pesh Kabz | 27800 |
+| 11/6 | Voulge | 34200 |
+| 11/6 | Poison Glaive | 29700 |
+| 12/10 | Translucent Blade | 39800 |
+| 12/10 | Envenomed Blade | 35900 |
+| 12/10 | Dreadnought | 36300 |
+| 12/10 | Kishin Bow | 32500 |
+| 12/10 | Berserker | 42300 |
+| 12/10 | Crimson Greatsword | 37800 |
+| 12/10 | Heaven's Fists | 37000 |
+| 12/10 | Spirit Gloves | 33200 |
+| 12/10 | Charlotte | 38800 |
+| 12/10 | Espada Ropera | 34550 |
+| 12/10 | Kiss of Athena | 43650 |
+| 12/10 | Frigid Grenade | 38800 |
+| 12/10 | Howl | 36400 |
+| 12/10 | Dagger of Protection | 32700 |
+| 12/10 | King Spear | 40000 |
+| 12/10 | Bolt Lance | 35800 |
+| 1/1 | Gimlet | 46500 |
+| 1/1 | Dual Sword | 41700 |
+| 1/1 | Yoichi's Bow | 41900 |
+| 1/1 | Dhanush | 37700 |
+| 1/1 | Tobi-botaru | 48800 |
+| 1/1 | Elixir Sword | 44000 |
+| 1/1 | Golden Gloves | 43100 |
+| 1/1 | Dragon Fangs | 38600 |
+| 1/1 | Damascus Rapier | 44850 |
+| 1/1 | Illuminati | 40200 |
+| 1/1 | Megido Fire | 50500 |
+| 1/1 | Infanterie | 45200 |
+| 1/1 | Athame | 42600 |
+| 1/1 | Full Moon Kunai | 38100 |
+| 1/1 | Nihon-gou | 46550 |
+| 1/1 | Romulus's Spear | 41700 |
+| - | Rash Guard | 4500 |
+| - | Chest Protector | 3800 |
+| 5/10 | Bulletproof Shirt | 9000 |
+| 5/10 | Camo Shirt | 7700 |
+| 6/14 | Master's Garment | 12500 |
+| 6/14 | Amigo Poncho | 10400 |
+| 7/18 | Army Vest | 16500 |
+| 7/18 | Robe of Salvation | 13800 |
+| - | Aramid Full Shell | 17700 |
+| - | Aramid Vest | 14400 |
+| - | Hard Dog Suit | 21950 |
+| - | Leather Dog Suit | 18400 |
+| 8/8 | Robe of Warding | 23000 |
+| 8/8 | Mantle of Wind | 19900 |
+| 8/8 | Aramid Plate | 24450 |
+| 8/8 | Aramid White Shell | 20100 |
+| 9/10 | Gigantic Armor | 28500 |
+| 9/10 | Defender Cloak | 25300 |
+| 9/10 | Aramid Compound | 30300 |
+| 9/10 | Aramid Harness | 26100 |
+| 9/10 | Metal Dog Suit | 27300 |
+| 9/10 | Light Dog Suit | 24200 |
+| 10/6 | Kaiser Armor | 35800 |
+| 10/6 | Kukai's Vestment | 31400 |
+| 10/6 | Ergo Lamellar | 38400 |
+| 10/6 | Ergo Vest | 32500 |
+| 10/6 | Titanium Dog Suit | 33200 |
+| 10/6 | Soul Dog Suit | 29000 |
+| 11/6 | Final Armor | 42500 |
+| 11/6 | Phantom Robe | 37300 |
+| 11/6 | Ergo Scale | 45450 |
+| 11/6 | Ergo Plate | 40400 |
+| 11/6 | Cross Dog Suit | 39700 |
+| 11/6 | Platinum Dog Suit | 35300 |
+| 12/10 | Vaudevillian Cape | 44200 |
+| 12/10 | Angel Armor | 49750 |
+| 12/10 | Ergo Armor | 53200 |
+| 12/10 | Ergo Shell | 47600 |
+| 12/10 | Shining Dog Suit | 47200 |
+| 12/10 | Sun Dog Suit | 42100 |
+| 1/1 | Silver Plate | 57500 |
+| 1/1 | Demon's Mail | 51500 |
+| 1/1 | Ergo Alloy | 61500 |
+| 1/1 | Ergo Compound | 55100 |
+| 1/1 | Dark Dog Suit | 55000 |
+| 1/1 | Lunar Dog Suit | 49400 |
+| - | High-Tech Sandals | 2700 |
+| - | Rubber Sole | 2100 |
+| 5/10 | Leather Boots | 6000 |
+| 5/10 | Inline Skates | 4800 |
+| 6/14 | Combat Boots | 8100 |
+| 6/14 | Mechanical Geta | 7000 |
+| 7/18 | Crimson Greaves | 11500 |
+| 7/18 | Magic Sandals | 9300 |
+| - | Fullerene Legs | 10400 |
+| - | Alnico Legs | 8500 |
+| 8/8 | Cyber Shoes | 15000 |
+| 8/8 | Thunder Zori | 12800 |
+| 8/8 | Ceramic Legs | 15000 |
+| 8/8 | Civilized Legs | 12450 |
+| 9/10 | Jet Boots | 18800 |
+| 9/10 | Needle Shoes | 16400 |
+| 9/10 | Cobalt Legs | 19500 |
+| 9/10 | Fiber Legs | 16600 |
+| 10/6 | Greaves of Dawn | 23700 |
+| 10/6 | Assassin's Shoes | 21100 |
+| 10/6 | Titanium Legs | 24400 |
+| 10/6 | Niello Legs | 21700 |
+| 11/6 | Lion Sandals | 28400 |
+| 11/6 | Killer Cleats | 25300 |
+| 11/6 | Cermet Legs | 29500 |
+| 11/6 | Zircaloy Legs | 26300 |
+| 12/10 | Conqueror's Shoes | 33400 |
+| 12/10 | Lucky Boots | 29950 |
+| 12/10 | Ergo Legs | 34800 |
+| 12/10 | Mica Legs | 31200 |
+| 1/1 | War God's Boots | 39400 |
+| 1/1 | Idaten's Sandals | 35300 |
+| 1/1 | Aigis Legs v.100 | 41700 |
+| 1/1 | Aigis Legs v.0 | 36900 |
+| - | Pixie Dust Talisman | 5000 |
+| - | Micro Sash | 3000 |
+| - | Power Band | 1000 |
+| - | Magic Band | 1000 |
+| - | Guard Band | 1000 |
+| - | Speed Band | 1000 |
+| - | Luck Band | 1000 |
+| 5/10 | Small Sash | 6000 |
+| 5/10 | Valor Charm | 3000 |
+| 5/10 | Reason Charm | 3000 |
+| 5/10 | Ascetic Charm | 3000 |
+| 5/10 | Sangfroid Charm | 3000 |
+| 5/10 | Immunity Charm | 3000 |
+| 5/10 | Quietude Charm | 2000 |
+| 5/10 | Defrosting Charm | 2000 |
+| 5/10 | Antistatic Charm | 2000 |
+| 6/14 | Amulet of Dismay | 3500 |
+| 6/14 | Amulet of Terror | 3500 |
+| 6/14 | Amulet of Perplexity | 3500 |
+| 7/18 | Fairy Talisman | 10000 |
+| 7/18 | Flame Charm | 8000 |
+| 7/18 | Ice Charm | 8000 |
+| 7/18 | Thunder Charm | 8000 |
+| 7/18 | Wind Charm | 8000 |
+| 8/8 | Light Charm | 8000 |
+| 8/8 | Dark Charm | 8000 |
+| 8/8 | Slash Ward | 8000 |
+| 8/8 | Strike Ward | 8000 |
+| 8/8 | Pierce Ward | 8000 |
+| 9/10 | Ice Armlet | 12500 |
+| 9/10 | Lightning Armlet | 12500 |
+| 9/10 | Master Band | 12000 |
+| 10/6 | Maim Earrings | 7000 |
+| 10/6 | Enchanted Earrings | 7000 |
+| 11/6 | Rosary | 28000 |
+| 11/6 | Prayer Beads | 28000 |
+| 11/6 | Sanative Sandalwood | 40000 |
+| 1/1 | Physical Ward | 50000 |
+| 1/1 | Mystic Charm | 50000 |
+
+### Mayoido Antiques
+* Vintage Yagen: Request #57: I'd like to try Aojiru.
+* Gold Quartz: Judgement Rank 10
+
+| Unlocks | Item | Trade For |
+| --- | --- | --- |
+| - | Nameless Katana | Black Sword + Malachite |
+| - | Nikkari Aoe | Black Sword + Malachite x3 + Black Quartz x2 |
+| - | Holy Knight Sword | Black Sword + Malachite x5 + Soul Sea Driblet x2 |
+| - | Outenta Mitsuyo | Nihil Blade + Black Quartz x5 |
+| - | Source Yumi | Nihil Blade + Amethyst x5 + Malachite x5 |
+| - | Claymore | Nihil Blade + Amethyst x5 + Malachite x5 |
+| - | Root Cestus | Nihil Blade + Onyx x5 + Black Quartz x2 |
+| - | Flamberge | Nihil Blade + Onyx x5 + Black Quartz x2 |
+| - | Plate Mail | Nihil Cloth + Malachite x10 |
+| - | Leg Protector | Nihil Cloth + Malachite x10 |
+| - | Stab-Proof Vest | Nihil Cloth + Onyx x5 + Amethyst x5 |
+| - | Sorcery Robe | Nihil Cloth + Onyx x5 + Amethyst x5 |
+| - | Electro Shoes | Nihil Cloth + Onyx x5 + Amethyst x5 |
+| - | Dancing Heels | Nihil Cloth + Onyx x5 + Amethyst x5 |
+| - | Alicorn | Nihil Ore + Soul Sea Driblet + Malachite x10 |
+| - | Narcissus Flower | Nihil Ore + Soul Sea Driblet + Malachite x10 |
+| - | Unbreakable Cage | Nihil Ore + Soul Sea Driblet + Malachite x10 |
+| - | Serpent's Eye | Nihil Ore + Soul Sea Driblet + Malachite x10 |
+| - | Staunch Anklets | Nihil Ore + Soul Sea Driblet + Malachite x10 |
+| - | Ring of Serenity | Nihil Ore + Soul Sea Driblet + Malachite x10 |
+| - | Alarm Watch | Nihil Ore + Soul Sea Driblet + Malachite x10 |
+| - | Fire Bracers | Nihil Ore + Black Quartz x5 |
+| - | Ice Bracers | Nihil Ore + Black Quartz x5 |
+| - | Thunder Bracers | Nihil Ore + Black Quartz x5 |
+| - | Wind Bracers | Nihil Ore + Black Quartz x5 |
+| - | Nucleus Rifle | AS Generic Material + Onyx x5 + Malachite x5 |
+| - | Charun's Hammer | AS Generic Material + Onyx x5 + Malachite x5 |
+| - | Phalanx Shell | AS Generic Material + Onyx x5 + Amethyst x5 |
+| - | Rock Dog Suit | AS Generic Material + Onyx x5 + Amethyst x5 |
+| - | Light Bracers | AS Generic Material + Black Quartz x5 |
+| - | Dark Bracers | AS Generic Material + Black Quartz x5 |
+| - | Slash Bracers | AS Generic Material + Black Quartz x5 |
+| - | Strike Bracers | AS Generic Material + Black Quartz x5 |
+| - | Pierce Bracers | AS Generic Material + Black Quartz x5 |
+| - | Gale Bow | Ergotite Shard + Soul Sea Driblet + Onyx x10 |
+| - | Night Falcon | Ergotite Shard + Soul Sea Driblet + Onyx x10 |
+| - | Blessed Lance | Ergotite Shard + Soul Sea Driblet + Onyx x10 |
+| - | Blazing Greatsword | Ergotite Shard + Soul Sea Droplet + Topaz x5 |
+| - | Thunder Knuckles | Ergotite Shard + Soul Sea Droplet + Topaz x5 |
+| - | Hazakura | Ergotite Shard + Soul Sea Droplet x2 + Emerald x5 |
+| - | Mjolnir | Ergotite Shard + Thunder Whetstone + Topaz x10 |
+| - | Jack Jumper | Ergotite Shard + Jacktite + Black Quartz x3 + Malachite x10 |
+| - | Flaring Flair | Ergotite Shard + Soul Sea Driblet x2 + Onyx x10 |
+| - | Ver. 0 Armor | Ergotite Shard + Soul Sea Driblet x2 + Onyx x10 |
+| - | Genbu's Leggings | Ergotite Shard + Soul Sea Driblet + Black Quartz x2 |
+| - | Ergotite Legs | Ergotite Shard + Soul Sea Driblet + Black Quartz x2 |
+| - | Fatal Blade | Quality Nihil Blade + Silver Quartz x2 |
+| - | Bow of Affection | Quality Nihil Blade + Topaz x5 + Onyx x5 |
+| - | Cocytus | Quality Nihil Blade + Topaz x5 + Onyx x5 |
+| - | Celtis | Quality Nihil Blade + Topaz x5 + Onyx x5 |
+| - | Mikazuki Munechika | Quality Nihil Blade + Emerald x3 + Silver Quartz x2 |
+| - | Kaiser Knuckles | Quality Nihil Blade + Emerald x3 + Silver Quartz x2 |
+| - | Blast Magnum | Quality Nihil Blade + Topaz x5 + Emerald x5 |
+| - | Elementary Mask | Quality Nihil Blade + Topaz x5 + Emerald x5 |
+| - | Fauchard | Quality Nihil Blade + Emerald x5 + Silver Quartz x2 |
+| - | Bullfighter's Cape | Quality Nihil Cloth + Amethyst x5 |
+| - | Samue of the Tengu | Quality Nihil Cloth + Emerald x5 + Amethyst x10 |
+| - | Tigerhide Belt | Quality Nihil Cloth + Silver Quartz x2 + Amethyst x10 |
+| - | Rangda Robe | Quality Nihil Cloth + Silver Quartz x2 + Amethyst x10 |
+| - | Achilles Guard | Quality Nihil Cloth + Silver Quartz x2 + Malachite x10 |
+| - | Powered Dog Suit | Quality Nihil Cloth + Silver Quartz x2 + Malachite x10 |
+| - | Silent Sandals | Quality Nihil Cloth + Onyx x5 |
+| - | Sky Boots | Quality Nihil Cloth + Emerald x3 + Onyx x10 |
+| - | Devilish Pumps | Quality Nihil Cloth + Emerald x3 + Onyx x10 |
+| - | Power Enhancer | Quality Nihil Ore + Soul Sea Droplet + Onyx x10 |
+| - | Guard Enhancer | Quality Nihil Ore + Soul Sea Droplet + Onyx x10 |
+| - | Speed Enhancer | Quality Nihil Ore + Soul Sea Droplet + Onyx x10 |
+| - | Critical Enhancer | Quality Nihil Ore + Soul Sea Droplet + Onyx x10 |
+| - | Red Shawl | Quality Nihil Ore + Soul Sea Droplet + Topaz x10 |
+| - | Blue Shawl | Quality Nihil Ore + Soul Sea Droplet + Topaz x10 |
+| - | Yellow Shawl | Quality Nihil Ore + Soul Sea Droplet + Topaz x10 |
+| - | Green Shawl | Quality Nihil Ore + Soul Sea Droplet + Topaz x10 |
+| - | Agni Bracers | Quality Nihil Ore + Silver Quartz x5 + Garnet x2 |
+| - | Varna Bracers | Quality Nihil Ore + Silver Quartz x5 + Garnet x2 |
+| - | Indra Bracers | Quality Nihil Ore + Silver Quartz x5 + Garnet x2 |
+| - | Vayu Bracers | Quality Nihil Ore + Silver Quartz x5 + Garnet x2 |
+| - | Amakuni | Ergotite Chunk + Soul Sea Drop x2 + Garnet x5 |
+| - | Calamity Bow | Ergotite Chunk + Unholy Wooden Doll + Opal x3 |
+| - | Jack's Gauntlets | Ergotite Chunk + Black Frostite + Jacktite + Garnet x5 |
+| - | Erinys | Ergotite Chunk + Soul Sea Droplet x2 + Emerald x5 |
+| - | Fifth Number | Ergotite Chunk + Soul Sea Droplet x2 + Emerald x5 |
+| - | Gae Bolg | Ergotite Chunk + Fetching Hero's Comb + Garnet x5 |
+| - | Elegant Scarf | Ergotite Chunk + Second Hand of Fate + Emerald x10 |
+| - | Night Demon Sandals | Ergotite Chunk + Unholy Wooden Doll + Topaz x10 |
+| - | Free Walkers | Ergotite Chunk + Soul Sea Droplet x2 + Topaz x5 |
+| - | Rousing Pendant | Ergotite Chunk + Eye of Wadjet + Garnet x5 + Malachite x10 |
+| - | Pendant of Amity | Ergotite Chunk + Hell's Muffler + Garnet x5 + Malachite x10 |
+| - | Kaneshige | Prime Nihil Blade + Gold Quartz x2 |
+| - | Maki's Resolve | Prime Nihil Blade + Diamond x5 |
+| - | Qingdi Blade | Prime Nihil Blade + Garnet x5 + Silver Quartz x3 |
+| - | Brionac | Prime Nihil Blade + Garnet x5 + Silver Quartz x3 |
+| - | Kyriotes | Prime Nihil Blade + Garnet x5 + Silver Quartz x3 |
+| - | Golden Crusher | Prime Nihil Blade + Garnet x5 + Silver Quartz x3 |
+| - | Double Ziggurat | Prime Nihil Blade + Opal x3 + Silver Quartz x3 |
+| - | Tyrant's Knife | Prime Nihil Blade + Opal x3 + Silver Quartz x3 |
+| - | Tonbo-kiri | Prime Nihil Blade + Diamond x5 + Gold Quartz x2 |
+| - | Rune Vest | Prime Nihil Cloth + Emerald x5 |
+| - | Fairy Cloak | Prime Nihil Cloth + Garnet x5 + Silver Quartz x3 |
+| - | Golden Dress | Prime Nihil Cloth + Garnet x5 + Gold Quartz |
+| - | Star Dog Suit | Prime Nihil Cloth + Garnet x5 + Opal x3 |
+| - | Mysterious Geta | Prime Nihil Cloth + Topaz x5 |
+| - | Dragon Boots | Prime Nihil Cloth + Emerald x3 + Gold Quartz |
+| - | Fallen Angel Heels | Prime Nihil Cloth + Emerald x3 + Gold Quartz |
+| - | Proto Butterfly | Prime Nihil Cloth + Emerald x3 + Opal x3 |
+| - | Power Transmitter | Prime Nihil Ore + Soul Sea Drop x2 + Emerald x10 |
+| - | Guard Transmitter | Prime Nihil Ore + Soul Sea Drop x2 + Emerald x10 |
+| - | Speed Transmitter | Prime Nihil Ore + Soul Sea Drop x2 + Emerald x10 |
+| - | Bracelet of Life | Prime Nihil Ore + Soul Sea Droplet x3 + Malachite x10 |
+| - | Amulet of Vertigo | Prime Nihil Ore + Soul Sea Droplet x3 + Malachite x10 |
+| - | Nandaka Bracers | Prime Nihil Ore + Gold Quartz x2 + Opal x5 |
+| - | Ekasha Gada Bracers | Prime Nihil Ore + Gold Quartz x2 + Opal x5 |
+| - | Vijaya Bracers | Prime Nihil Ore + Gold Quartz x2 + Opal x5 |
+| - | Ushas Bracers | Prime Nihil Ore + Gold Quartz x2 + Opal x5 |
+| - | Ratri Bracers | Prime Nihil Ore + Gold Quartz x2 + Opal x5 |
+| - | Laevateinn | AS Refined Material + Muspell Rock + Garnet x10 |
+| - | Sabazios | AS Refined Material + Earth Goddess Ring + Diamond x5 |
+| - | Snow Queen Whip | AS Refined Material + Shadow Lipstick + Diamond x5 |
+| - | Pandemonium | AS Refined Material + Soul Sea Drop x2 + Diamond x5 |
+| - | Underworld Kunai | AS Refined Material + Soul Sea Drop x2 + Diamond x5 |
+| - | Divine Black Tights | AS Refined Material + Shadow Lipstick + Opal x5 |
+| - | Fallen Noble Armor | AS Refined Material + Soul Sea Drop x2 + Gold Quartz x3 |
+| - | Papillon Method | AS Refined Material + Soul Sea Drop x2 + Gold Quartz x3 |
+| - | Kugelbein | AS Refined Material + Soul Sea Drop x2 + Gold Quartz x3 |
+| - | Gaia Dog Suit | AS Refined Material + King of Beasts Fang + Gold Quartz x3 |
+| - | Soldier's Flag | AS Refined Material + Wisdom King's Locks + Malachite x20 |
+| - | Masakado's Hair | AS Refined Material + Emperor's Sake Cup + Amethyst x20 |
+| - | Book of Enoch | AS Refined Material + Contract Angel Wing + Onyx x20 |
+| - | Tome of the Void | AS Refined Material + Abyssal King Tooth + Topaz x20 |
+| - | Sacrificial Idol | AS Refined Material + Sacrifice God Wrap + Emerald x20 |
+| - | Deus Xiphos | Nihil Black Model + Archangel Wings + Gold Quartz x5 + Ruby x3 |
+| - | Quintessence Bow | Nihil Black Model + Bull Warrior Horns + Gold Quartz x5 + Ruby x3 |
+| - | Sarnga | Nihil Black Model + Preservation Conch + Gold Quartz x5 + Ruby x3 |
+| - | Balmung | Nihil Black Model + Nibelung Ore + Gold Quartz x5 + Ruby x3 |
+| - | Eternal Plate | Nihil Black Model + Susano-o's Cloth + Garnet x10 + Opal x5 |
+| - | Eternal Shoes | Nihil Black Model + Susano-o's Cloth + Garnet x10 + Opal x5 |
+| - | Aura Dog Suit | Nihil Black Model + Wisdom King's Locks + Diamond x10 + Ruby x3 |
+| - | Blazing Flame | Nihil Black Model + Black Sun Candle + Opal x5 + Ruby x2 |
+| - | Frozen Stone | Nihil Black Model + Earth Goddess Ring + Opal x5 + Ruby x2 |
+| - | Sword God's Sheath | Nihil Black Model + Sword God Steel + Diamond x5 + Ruby x2 |
+| - | Kohryu's Scale | Nihil Black Model + God Dragon Whiskers + Diamond x5 + Ruby x2 |
+| - | Impenetrable Doll | Nihil Black Model + Clay God Fragment + Diamond x5 + Ruby x2 |
+| - | Evil Gloves | Nihil White Model + Mara's Head + Gold Quartz x5 + Ruby x3 |
+| - | Pinaka | Nihil White Model + Destroyer's Drums + Gold Quartz x5 + Ruby x3 |
+| - | Gungnir | Nihil White Model + Eyepatch of Wisdom + Gold Quartz x5 + Ruby x3 |
+| - | Corpse Rod | Nihil White Model + Lord of Flies Wings + Gold Quartz x5 + Ruby x3 |
+| - | Hallowed Plate | Nihil White Model + Prayer Angel Garland + Garnet x10 + Diamond x5 |
+| - | Hallowed Boots | Nihil White Model + Prayer Angel Garland + Garnet x10 + Diamond x5 |
+| - | Soul of Athena | Nihil White Model + Jaw of Death + Diamond x10 + Ruby x3 |
+| - | Swan Legs | Nihil White Model + Goddess Water Lily + Diamond x10 + Ruby x3 |
+| - | Lightning Gloves | Nihil White Model + Thunder Whetstone + Opal x5 + Ruby x2 |
+| - | Storm Ring | Nihil White Model + Rainbow Snake Scale + Opal x5 + Ruby x2 |
+| - | Radiant Halo | Nihil White Model + Immortal Angel Core + Diamond x5 + Ruby x2 |
+| - | Ring of Darkness | Nihil White Model + Jaw of Death + Diamond x5 + Ruby x2 |
+| - | Queen's Alice Band | Nihil White Model + Preceptress Silk + Diamond x10 + Opal x10 |
+| - | Lucifer's Blade | Dead Moon's Husk + Fallen Angel Wing + Gold Quartz x10 + Ruby x10 |
+| - | Masakado's Katana | Dead Moon's Husk + Emperor's Sake Cup + Gold Quartz x5 + Ruby x5 |
+| - | Kokuseki Senjin | Dead Moon's Husk + Black Pillar Shard + Gold Quartz x5 + Ruby x5 |
+| - | Metatronius | Dead Moon's Husk + Contract Angel Wing + Gold Quartz x5 + Diamond x10 |
+| - | Vajra | Dead Moon's Husk + Carnage King's Gear + Gold Quartz x5 + Diamond x10 |
+| - | Armor of Light | Dead Moon's Husk + Savior's Augite + Diamond x10 + Ruby x5 |
+| - | Shoes of Light | Dead Moon's Husk + Savior's Augite + Diamond x10 + Ruby x5 |
+| - | Rudra Ring | Dead Moon's Husk + Destroyer's Drums + Opal x7 + Ruby x2 |
+| - | Chakra Ring | Dead Moon's Husk + Carnage King's Gear + Opal x7 + Ruby x2 |
+| - | Barbaric Bracers | Dead Moon's Husk + Bull Warrior Horns + Diamond x7 + Ruby x2 |
+| - | Bead | Turquoise x5 |
+| - | Bead Chain | Topaz x3 + Turquoise x5 |
+| 12/10 | Bead Chain EX | Opal + Diamond + Ruby |
+| 12/10 | Precious Egg | Opal + Diamond + Ruby |
+| - | Megidolaon | Opal + Diamond + Ruby |
+| - | Snuff Soul | Amethyst x5 + Turquoise x5 |
+| 10/6 | Snuff Soul | Emerald x2 + Turquoise x2 |
+| - | Chewing Soul | Topaz x5 + Onyx x5 |
+| 12/10 | Chewing Soul | Garnet x3 + Onyx x3 |
+| - | Amrita Gem | Turquoise x3 |
+| 10/6 | Amrita Soda | Turquoise x3 + Emerald x2 |
+| - | Megido Gem | Turquoise x10 |
+| - | Growth 1 | Turquoise x10 |
+| - | Divine Grace | Turquoise x10 |
+| - | Shift Boost | Turquoise x10 |
+| - | Crit Rate Boost | Turquoise x10 |
+| 10/6 | Megidolaon Gem | Emerald x5 |
+| 10/6 | Fierce Sutra | Topaz x3 + Emerald x3 |
+| 10/6 | Protection Sutra | Topaz x3 + Emerald x3 |
+| 10/6 | Agility Sutra | Topaz x3 + Emerald x3 |
+| 12/10 | Empowering Sutra | Garnet x2 + Opal x2 |
+| - | Depleting Sutra | Amethyst x3 + Onyx x3 |
+| - | Atrophying Sutra | Amethyst x3 + Onyx x3 |
+| - | Lagging Sutra | Amethyst x3 + Onyx x3 |
+| 12/10 | Debilitator Sutra | Garnet x2 + Diamond x2 |
+| - | Dekaja Gem | Amethyst x3 |
+| - | Dekunda Gem | Amethyst x3 |
+| 10/6 | Magic Mirror | Onyx x2 + Topaz x2 |
+| 10/6 | Attack Mirror | Onyx x2 + Topaz x2 |
+| - | Trafuri Gem | Turquoise x2 |
+| - | Homunculus | Onyx x5 |
+| - | Teddy Bear | Amethyst x2 + Turquoise |
+| - | Kaleidoscope | Amethyst x2 + Turquoise |
+| - | Japanese Doll | Onyx x2 + Turquoise |
+| - | Goggle-Eyed Idol | Onyx x2 + Turquoise |
+| - | Vintage Yagen* | Topaz x2 + Turquoise |
+| 8/8 | Soul Sea Driblet | Topaz x5 |
+| 10/6 | Silver Quartz | Topaz x5 |
+| 10/6 | Soul Sea Droplet | Garnet x5 |
+| 1/1 | Soul Sea Drop | Opal x5 |
+| 8/8 | Black Quartz | Amethyst x5 |
+| 10/6 | Silver Quartz | Black Quartz x3 |
+| 1/1 | Gold Quartz* | Silver Quartz x5 |
+| 1/1 | Gold Quartz* | Diamond x4 |
+| - | Power Incense II | Onyx x5 + Topaz x5 |
+| - | Magic Incense II | Onyx x5 + Topaz x5 |
+| - | Guard Incense II | Onyx x5 + Topaz x5 |
+| - | Speed Incense II | Amethyst x5 + Topaz x5 |
+| - | Luck Incense II | Amethyst x5 + Topaz x5 |
+| 12/10 | Power Incense III | Diamond x2 + Emerald x2 |
+| 12/10 | Magic Incense III | Diamond x2 + Emerald x2 |
+| 12/10 | Guard Incense III | Diamond x2 + Emerald x2 |
+| 12/10 | Speed Incense III | Opal x2 + Emerald x2 |
+| 12/10 | Luck Incense III | Opal x2 + Emerald x2 |
+| - | Regenerate 2 | Amethyst x5 + Turquoise x10 |
+| 10/6 | Regenerate 3 | Topaz x5 + Turquoise x10 |
+| - | Invigorate 2 | Onyx x5 + Turquoise x10 |
+| 10/6 | Invigorate 3 | Garnet x5 + Turquoise x10 |
+| - | Growth 2 | Onyx x10 |
+| 10/6 | Anti-Fire Master | Onyx x10 |
+| 10/6 | Anti-Ice Master | Onyx x10 |
+| 10/6 | Anti-Electric Master | Onyx x10 |
+| 10/6 | Anti-Wind Master | Onyx x10 |
+| 10/6 | Growth 3 | Emerald x10 |
+| - | Ailment Boost | Amethyst x10 |
+| - | Endure Light | Amethyst x10 |
+| - | Endure Dark | Amethyst x10 |
+| 10/6 | Survival Trick | Topaz x10 |
+| 10/6 | Soul Shift | Topaz x10 |
+| 10/6 | Soul Chain | Topaz x10 |
+| 12/10 | Resist Ailments | Garnet x10 |
+| 12/10 | Life Aid | Garnet x10 |
+| 12/10 | Resist Fire | Opal x10 |
+| 12/10 | Resist Ice | Opal x10 |
+| 12/10 | Resist Elec | Opal x10 |
+| 12/10 | Resist Wind | Opal x10 |
+| - | Arms Master | Opal x7 + Diamond x7 |
+| - | Spell Master | Opal x7 + Diamond x7 |
+| 12/10 | Resist Phys | Ruby x7 |
+| 12/10 | Ali Dance | Ruby x10 |
+
+### Miscellaneous Shops
+#### Aohige Pharmacy
+* Aohige Aojiru + Aohige Special: Request #57: I'd like to try Aojiru.
+
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Medicine | 700 |
+| - | Medical Powder | 1400 |
+| 8/8 | Aohige Aojiru* | 3400 |
+| 5/10 | Value Medicine | 1800 |
+| 5/10 | First Aid Kit M | 3700 |
+| 8/8 | Aohige Special* | 7800 |
+| - | Muscle Drink | 1000 |
+| - | Super Cat Food | 700 |
+| - | Dis-Charm | 500 |
+| - | Dis-Poison | 500 |
+| - | Dis-Rage | 500 |
+| 7/18 | Soul Refresh | 1200 |
+| 9/10 | Refresh Pack | 8200 |
+| 7/18 | Vitae Gold | 1200 |
+| 9/10 | Vitae G Bottle | 8200 |
+| - | Band-Ace | 1800 |
+| 8/8 | Life Ointment | 6400 |
+#### Port Island Florist
+* Golden Tomato Sprout: Veggie Blog Note
+* White Flower: Junpei Link 3
+
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Rose Bouquet | 2000 |
+| - | Red Pine Bonsai | 2000 |
+| - | Mini Cactus | 2000 |
+| - | Glass Vase | 2000 |
+| 5/26 | Buff Potato Sprout | 700 |
+| 6/18 | Amronion Sprout | 900 |
+| 8/8 | Soul Spinach Sprout | 1200 |
+| 10/6 | Golden Tomato Sprout* | 1500 |
+| 12/4 | Simple Herb Sprout | 2000 |
+| - | White Flower* | 250 |
+#### School store
+* Lukewarm Taiyaki: School X Site Note
+
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Crab Bread | 100 |
+| - | Fried Bread | 100 |
+| - | Melon Bread | 100 |
+| - | Apple Strudel | 100 |
+| - | Yakisoba Pan | 100 |
+| - | Cutlet Sandwich | 300 |
+| - | Book Cover | 2000 |
+| - | Lukewarm Taiyaki* | 200 |
+#### Octopia Takoyaki
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Weird Takoyaki | 400 |
+#### Iwatodai Dorms 2F Vending Machine
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Cielo Mist | 110 |
+| - | SoBay | 110 |
+| - | Mad Bull | 110 |
+#### Iwatodai Dorms 3F Vending Machine
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Starvicks | 110 |
+| - | Cylon Tea | 110 |
+| - | Aguafeena | 110 |
+#### Port Island Station Vending Machine
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Dr. Salt | 110 |
+| - | Moonkist | 110 |
+| - | 1 Up | 110 |
+#### Iwatodai Strip Mall 3F Vending Machine
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Nastea | 110 |
+| - | BauerBar | 110 |
+| - | Fountain Dew | 110 |
+#### Iwatodai Station Vending Machine
+* 4biotic Pack + Definitely Lemonade + Happiness Water: Iwatodai Forum Note
+
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Cielo Mist | 110 |
+| - | SoBay | 110 |
+| - | Mad Bull | 110 |
+| - | 4biotic Pack* | 200 |
+| - | Definitely Lemonade* | 120 |
+| - | Happiness Water* | 120 |
+#### Kyoto Souvenir Shop
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Nama Yatsuhashi | 2000 |
+| - | Pickled Turnip | 1500 |
+| - | Konpeito | 1000 |
+| - | Mibu Cracker | 1000 |
+#### Kyoto Vending Machines
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Durian Soda | 110 |
+| - | Jumbo Juice | 110 |
+| - | V6 | 110 |
+#### Umiushi Beef Bowl
+* All Items: Umiushi Fan Book
+* Spring Cabbage Bowl + Summer-Hot Bowl + Autumn Beef Bowl + Winter Oden Bowl + Stamina Beef Bowl: Seasonal
+
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Umiushi Beef Bowl | 300 |
+| - | Great Yakiniku Bowl | 1300 |
+| - | Staunch Offal Bowl | 1300 |
+| - | Lithe Combo Bowl | 1300 |
+| - | Spring Cabbage Bowl* | 800 |
+| 6/1 | Summer-Hot Bowl* | 1500 |
+| 9/1 | Autumn Beef Bowl* | 1000 |
+| 12/1 | Winter Oden Bowl* | 1200 |
+| 1/1 | Stamina Beef Bowl* | 1500 |
+#### Net Cafe
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Lessons in Etiquette | 1200 |
+| - | Virtual Diet | 1200 |
+| 9/1 | Pickup Line Master | 4000 |
+| - | Language Made Easy | 1200 |
+| 9/1 | Sage Brain Training | 4000 |
+| - | Animal Othello | 1200 |
+| - | TypinGhoul | 1200 |
+| 9/1 | Sengoku Chronicles | 4000 |
+| 10/5 | Part-Time Master | 8000 |
+| 9/1 | Veggie Farmer Sim | 4500 |
+| - | Muscle Boot Camp | 2000 |
+| 10/5 | Image Muscle Trainer | 4000 |
+| - | Mindful Boot Camp | 2000 |
+| 10/5 | Mental Instructor | 4000 |
+| - | Umiushi Fan Book | 450 |
+#### Club Escapade URL Seller
+* Assassin Site Note + History Website Note + Ninja Fansite Note: Security Site Note
+* Revenge Site Note: Use at least 1 note
+
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| 7/9 | Security Site Note | 5000 |
+| 9/10 | Assassin Site Note* | 8000 |
+| 9/10 | History Website Note* | 8000 |
+| 11/4 | Ninja Fansite Note* | 12000 |
+| - | Iwatodai Forum Note | 500 |
+| - | School X Site Note | 500 |
+| 10/6 | Veggie Blog Note | 500 |
+| 11/11 | Dating Site Note | 3000 |
+| 6/23 | Revenge Site Note* | 500 |
+| 1/1 | Believer's Blog Note | 500 |
+#### Club Escapade Vendor
+* Opal + Diamond: Judgement Rank 10
+
+| Unlocks | Item | Price |
+| --- | --- | --- |
+| - | Platinum Brooch | 16000 |
+| - | Avaricious Ring | 100000 |
+| - | Earrings of Grit | 200000 |
+| - | Amritite Necklace | 500000 |
+| 7/18 | Malachite | 3000 |
+| 7/18 | Turquoise | 3000 |
+| 8/8 | Amethyst | 5000 |
+| 8/8 | Onyx | 5000 |
+| 10/6 | Topaz | 10000 |
+| 10/6 | Emerald | 10000 |
+| 12/10 | Garnet | 15000 |
+| 1/1 | Opal* | 50000 |
+| 1/1 | Diamond* | 50000 |
+
+### TV Shopping and Missing People
+#### TV Shopping
+* Max Safety Shoes: Highly recommended for Request #40: I'd like to see a pair of Max Safety Shoes.
+* Shoes of Bane: Highly recommended for Request #101: Take out the ultimate adversary.
+
+| Buy | Receive | Items | Price |
+| --- | --- | --- | --- |
+| 5/3 | 5/5 | Rose Bouquet + Luxury Chocolate x2 | 2980 |
+| 5/10 | 5/12 | Antibiotic Gel x2 + Sappy Jelly x5 | 3980 |
+| 5/17 | 5/23 | Blinding Flashlight x3 + Freeze Spray x3 | 2980 |
+| 5/24 | 5/26 | All-Purpose Apron + Umugi Water x2 | 5980 |
+| 5/31 | 6/2 | Health Sandals + Diet Food x4 | 3980 |
+| 6/7 | 6/10 | Perfume + Health Supplement x2 | 3980 |
+| 6/14 | 6/16 | Brand Watch + Mega Protein x2 | 3980 |
+| 6/21 | 6/23 | Amenity Suit + Super Diet Food x3 | 9800 |
+| 6/28 | 6/30 | Amronion Sprout x2 + Buff Potato Sprout x3 | 2980 |
+| 7/5 | 7/6 | YABA Chocolate x3 + Doctor in Jelly x3 | 3980 |
+| 7/12 | 7/13 | Max Safety Shoes + Instant Curry x2 | 9800 |
+| 7/19 | 7/23 | Tetracone x3 + Makaracone x3 | 14800 |
+| 7/26 | 7/28 | Brand Wallet + Perfume | 6980 |
+| 8/9 | 8/15 | Isotope Soda x10 + Mad Bull x20 | 3980 |
+| 8/17 | 8/18 | Curse Paper x3 + Vanish Ball x2 | 3980 |
+| 8/23 | 8/25 | Soul Spinach Sprout x2 + Buff Potato Sprout x3 | 2980 |
+| 8/30 | 9/1 | Fierce Sutra x3 + Depleting Sutra x3 | 9800 |
+| 9/6 | 9/8 | Brand Purse + Brand Wallet | 9800 |
+| 9/13 | 9/15 | Emergency Vest + First Aid Kit M x5 | 24800 |
+| 9/27 | 9/30 | R/C Geta + Hyper-Metal Robot | 19800 |
+| 10/11 | 10/17 | Paring Knife + Candy Hosui Pear x2 | 19800 |
+| 10/18 | 10/20 | Instant Curry x5 + Instant Ramen x10 | 4980 |
+| 10/25 | 10/28 | Pumpkin Mask + Halloween Candy x50 | 24800 |
+| 11/1 | 11/2 | Myoho Masamura + Samurai's Haori | 39800 |
+| 11/8 | 11/10 | Japanese Doll x3 + Homunculus x2 | 9800 |
+| 11/15 | 11/16 | Sid's Jacket + Mega Protein x8 | 39800 |
+| 11/22 | 11/27 | Garnet x3 + Opal x2 | 49800 |
+| 11/29 | 12/1 | Shoes of Bane + Infrared Goggles | 39800 |
+| 12/6 | 12/8 | Hogyoku Apple x3 + Hiranya Mandarin x2 | 14800 |
+| 12/13 | 12/19 | Victory Headband + Mind Supplement x10 | 29800 |
+| 12/20 | 12/22 | Pink Duffle Coat + Luxe Shiruko Can x3 | 49800 |
+| 12/27 | 12/29 | Ruby x2 + Opal x5 | 99000 |
+
+#### Missing People
+* Failing to save Ayako will lock Request #97: Bring me my Christmas present.
+* Failing to save Bunkichi will lock the Hierophant SL
+* Failing to save Maiko will lock the Hanged SL
+
+| Missing | Limit | Name | Reward |
+| --- | --- | --- | --- |
+| 6/18 | 7/6 | Ayako Yoshimoto | Recarm |
+| 6/26 | 7/6 | Kenjiro Tsutsumi | Y40000 |
+| 6/26 | 7/6 | Yoshimi Miyama | Black Quartz x2 |
+| 8/3 | 8/5 | Yasuko Murabayashi | Emerald x4 |
+| 8/3 | 8/5 | Shuichi Niimura | Shift Boost |
+| 8/19 | 9/4 | Satsuki Onozuka | Divine Grace |
+| 8/29 | 9/4 | Hirotaka Tanigami | Malachite x20 |
+| 9/3 | 9/4 | Reiko Makita | Mediarama |
+| 9/12 | 10/3 | Bunkichi Kitamura | Homunculus x4 |
+| 9/22 | 10/3 | Aki Kurobe | Magic Talisman |
+| 9/22 | 10/3 | Yasunobu Shimozono | Y100000 |
+| 10/21 | 11/2 | Maiko Oohashi | Felt Doll |
+| 10/21 | 11/2 | Ryohei Nakatsugawa | Berserker's Seal |
+| 10/30 | 11/2 | Takeko Hiraoka | Avaricious Ring |
+| 11/28 | 12/1 | Tomoyuki Itami | Omega Drive |
+| 11/28 | 12/1 | Katsue Sugi | Diamond x3 |
+| 12/22 | 12/30 | Yumiko Sasamaki | Scintillating Coin x2 |
+| 12/22 | 12/30 | Nobuko Fukuchi | Ruby x3 |
+| 1/15 | 1/30 | Fumika Terado | Soma |
+| 1/15 | 1/30 | Mitsutoshi Okimoto | Salvation |

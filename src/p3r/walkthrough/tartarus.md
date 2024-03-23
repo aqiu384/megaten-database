@@ -359,7 +359,7 @@
 ##### 264F: Nyx
 * Nothing of note
 
-### Ultimate Boss
+### Ultimate Adversary
 #### Equipment
 * Lucifer's Blade
 * Armor of Light

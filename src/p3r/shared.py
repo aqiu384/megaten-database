@@ -26,7 +26,6 @@ def save_ordered_demons(demons, fname):
     with open(fname, 'w+') as jsonfile:
         jsonfile.write(jstring)
 
-ITEMS_DIR = 'Content/Xrd777/UI/Tables/DatItem{}NameDataAsset.tsv'
 ITEMS = [
     ('Weapon',    0x0000),
     ('Armor',     0x1000),
@@ -59,9 +58,19 @@ def load_item_descs(fname, language, offset=0, max_flag=0):
     return codes
 
 def load_item_codes(language):
+    item_files = 'Content/Xrd777/UI/Tables/DatItem{}NameDataAsset.tsv'
     codes = {}
     for fname, offset in ITEMS:
-        codes.update(load_item_descs(ITEMS_DIR.format(fname), language, offset=offset))
+        codes.update(load_item_descs(item_files.format(fname), language, offset=offset))
+    return codes
+
+def load_item_prices():
+    item_files = 'Content/Xrd777/UI/Tables/DatItem{}DataAsset.tsv'
+    codes = {}
+    for fname, offset in ITEMS:
+        if fname == 'Evitem':
+            continue
+        codes.update(load_item_descs(item_files.format(fname), 'Price', offset=offset))
     return codes
 
 def iterate_int_tsvfile(fname, skip_first=True):
