@@ -141,4 +141,4 @@ with open('walkthrough/combat.md') as mdfile:
         if matching:
             FILLERS[matching.group(1)](matching.group(2))
         else:
-            print(line.strip())
+            print(line, end='')

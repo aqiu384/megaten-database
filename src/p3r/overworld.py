@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import re
 from shared import table_header, table_row
-from shopper import load_shops_to_items, iterate_tv_shopping, iterate_missing_people
+from shopper import load_shops_to_items, iterate_tv_shopping, iterate_missing_people, iterate_elizabeth_requests
 
 shops = load_shops_to_items()
 
@@ -13,6 +13,11 @@ def shop_inventory(shop_id):
         print(table_header(cols))
         for line in iterate_tv_shopping():
             print(table_row(str(line[x]) for x in cols))
+    elif shop_id == 'Elizabeth Requests':
+        cols = ['Availability', 'Num', 'Prereq', 'Request', 'Hint', 'Reward']
+        print(table_header(cols))
+        for line in iterate_elizabeth_requests():
+            print(table_row(str(line.get(x, '-')) for x in cols))
     elif shop_id == 'Missing People':
         cols = ['Missing', 'Limit', 'Name', 'Reward']
         print(table_header(cols))
@@ -50,4 +55,4 @@ with open('walkthrough/overworld.md') as mdfile:
         if matching:
             FILLERS[matching.group(1)](matching.group(2))
         else:
-            print(line.strip())
+            print(line, end='')

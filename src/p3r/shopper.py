@@ -16,8 +16,8 @@ def iterate_tv_shopping():
     data_file = 'Content/Xrd777/Field/Data/DataTable/DT_FldMailOrderTable.tsv'
     for line in iterate_int_tsvfile(data_file, skip_first=False):
         yield {
-            'Buy': to_date(line['BuyMonth'], line['BuyDay'])[:-2],
-            'Receive': to_date(line['ReceiveMonth'], line['ReceiveDay'])[:-2],
+            'Buy': f"{line['BuyMonth']}/{line['BuyDay']}",
+            'Receive': f"{line['ReceiveMonth']}/{line['ReceiveDay']}",
             'Items': f"{inames[line['ItemA_ID']]}{pluralize(line['ItemA_Num'])} + " +
                      f"{inames[line['ItemB_ID']]}{pluralize(line['ItemB_Num'])}",
             'Price': line['Price']
@@ -28,12 +28,12 @@ def iterate_missing_people():
     ipeople = load_item_descs('Content/Xrd777/Help/BMD_DisappearHelp.tsv', 'en', offset=-1)
     data_file = 'Content/Xrd777/UI/Tables/DisappearDataAsset.tsv'
     for i, line in enumerate(iterate_int_tsvfile(data_file, skip_first=False)):
-        reward = f"Y{line['AwardMoney']}"
+        reward = f"(-Y{line['AwardMoney']})"
         if line['AwardMoney'] == 0:
             reward = f"{inames[line['AwardItemID']]}{pluralize(line['AwardItemNum'])}"
         yield {
-            'Missing': to_date(line['StartMonth'], line['StartDays'])[:-2],
-            'Limit': to_date(line['LimitMonth'], line['LimitDays'])[:-2],
+            'Missing': f"{line['StartMonth']}/{line['StartDays']}",
+            'Limit': f"{line['LimitMonth']}/{line['LimitDays']}",
             'Name': ipeople[i].split('\\n')[0],
             'Reward': reward
         }
@@ -49,6 +49,29 @@ def list_requests():
             name = f"Request #{num}: {title}"
             requests.append(name)
     return requests
+
+def iterate_elizabeth_requests():
+    inames = load_item_codes('en')
+    requests = list_requests()
+    lines = []
+    data_file = 'Content/Xrd777/UI/Tables/VelvetRoomQuestDataAsset.tsv'
+    for i, line in enumerate(iterate_int_tsvfile(data_file)):
+        money = line['RewardMoney']
+        item_id = line['RewardItemID']
+        if money == 0 and item_id == 0:
+            continue
+        reward = f"(-Y{money})" if money > 0 else f"{inames[item_id]}{pluralize(line['RewardItemNum'])}"
+        unlocks = f"{line['StartMonth']}/{line['StartDay']}" if line['StartMonth'] > 4 else '5/10'
+        limit = f"-{line['EndMonth']}/{line['EndDay']}" if line['EndMonth'] > 0 else ''
+        lines.append({
+            'Availability': unlocks + limit,
+            'Num': int(line['QuestIndex']),
+            'Request': requests[i][requests[i].index(':') + 2:],
+            'Reward': reward
+        })
+    lines.sort(key=lambda x: x['Num'])
+    for line in lines:
+        yield line
 
 def parse_set_chest(line, callback):
     floor, _, treasure, _ = line.split('\t')
