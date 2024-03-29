@@ -1,25 +1,65 @@
 # Persona 3 Reload
 ## Combat
-* Miscellaneous info regarding combat
-  * Personas
-  * Skills
-  * Shuffle Time
+#### Compendium Completion Rewards
+| Completion | Reward |
+| --- | --- |
+| 25% | Compendium 10% Discount |
+| 30% | Makoto learns Weakness Boost |
+| 50% | Compendium 15% Discount |
+| 60% | Weakness Boost upgraded to Weakness Amp |
+| 75% | Compendium 25% Discount |
+| 100% | Compendium 50% Discount |
+
+#### Raising Persona Stats
+* Apply incense or Major Arcana card effects
+  * A percentage of stats gained this way will carry over during fusion
+  * All party member stats gained this way will carry over to NG+
+* Play at the arcade with the target persona equipped
+  * No stats gained this way will carry over during fusion
+
+| Arcade Game | Stat +3 | Availability |
+| --- | --- | --- |
+| Punch Boxer | St | Mon, Thu, Sun |
+| Edgar's House of Fortunes | Ma | Wed, Sat, Sun |
+| Real Weel Racer | Ag | Tue, Fri, Sun |
+
+#### Theurgy Bonus Charge Conditions
+| Party Member | Condition |
+| --- | --- |
+| Makoto | After summoning a Persona, power within gradually enhances. |
+| Yukari | After healing someone, her desire to prevent death strengthens. |
+| Junpei | After landing a critical hit, he becomes motivated by his own potential. |
+| Akihiko | When beginning his turn buffed, his fighting spirit rises. |
+| Mitsuru | After weakening enemies or inflicting an ailment, her will burns brighter. |
+| Fuuka | After analyzing an enemy, her yearning for her friends' trust grows. |
+| Aigis | After using physical skills, her drive to complete her mission intensifies. |
+| Koromaru | After exploiting an enemy's weakness, his will to fight grows. |
+| Ken | Once his SP is less than half, his competitiveness is incited. |
+| Shinjiro | Once his HP is less than half, his determination ignites. |
 
 ### Personas
+* P1: Personality Lv. 1
+* P2: Personality Lv. 2
+* T1: Initial Theurgy
+* T2: Evolved Theurgy
+
+#### Fusion Calculator
+* https://aqiu384.github.io/megaten-fusion-tool/p3r/personas
+
 #### Fool
 ##### Stats
 | Lv. | Name | Inherits | Unlock | Skills |
 | --- | --- | --- | --- | --- |
-| 1 | Orpheus | Wind A | - | Agi, Dia (3), Bash (4), Tarunda (5), Cadenza (Theurgy) |
+| 1 | Orpheus | Wind A | - | Agi, Dia (3), Bash (4), Tarunda (5), Cadenza (T1) |
 | 12 | Slime | Almighty | - | Bash, Evil Touch, Raging Tiger, Mudo (13), Fire Break (15), Survive Light (16) |
 | 23 | Arsene | Dark A | DLC | Eiga, Fatal End, Dark Driver, Evil Smile (24), Vacuum Slash (25), Maeiga (27), Survival Trick (29) |
 | 26 | Legion | Almighty | - | Assault Dive, Pulinpa, Rebellion, Null Distress (27), Sexy Dance (28), Confuse Boost (30), Resist Pierce (31) |
-| 37 | Black Frost | Almighty | - | Maeiga, Bufula, Matarukaja, Agidyne (38), Dark Boost (39), Bufudyne (40), Fast Heal (42), Resist Light (43), King and I (Theurgy) |
+| 37 | Black Frost | Almighty | - | Maeiga, Bufula, Matarukaja, Agidyne (38), Dark Boost (39), Bufudyne (40), Fast Heal (42), Resist Light (43), King and I (T1) |
 | 41 | Ose | Almighty | - | Blade of Fury, Matarunda, Multi-Target Boost, Deathbound (42), Null Rage (43), Life Aid (45), Tempest Slash (47) |
 | 46 | Izanagi | Elec A | DLC | Cross Slash, Ziodyne, Marakukaja, Matarukaja (47), Blade of Fury (48), Evade Slash (50), Soul Shift (52) |
-| 54 | Decarabia | Almighty | Tziah I 143 | Megido, Tetrakarn, Invigorate 2, Agidyne (55), Fast Heal (56), Megidola (58), Null Slash (60), Best Friends (Theurgy) |
-| 69 | Loki | Almighty | - | Agidyne, Bufudyne, Ziodyne, Garudyne, Megidola (72), Single-Target Boost (73), Soul Shift (74), Spell Master (76), Trickster (Theurgy) |
-| 77 | Susano-o | Pierce B | Fool Rank 10 | Brave Blade, Vorpal Blade, Charge, Auto Mataru (78), High Counter (79), Slash Amp (81), Repel Light (84), Trickster (Theurgy) |
+| 54 | Decarabia | Almighty | Tziah I 143 | Megido, Tetrakarn, Invigorate 2, Agidyne (55), Fast Heal (56), Megidola (58), Null Slash (60), Best Friends (T1) |
+| 69 | Loki | Almighty | - | Agidyne, Bufudyne, Ziodyne, Garudyne, Megidola (72), Single-Target Boost (73), Soul Shift (74), Spell Master (76), Trickster (T1) |
+| 77 | Susano-o | Pierce B | Fool Rank 10 | Brave Blade, Vorpal Blade, Charge, Auto Mataru (78), High Counter (79), Slash Amp (81), Repel Light (84), Trickster (T1) |
 | 89 | Satanael | Almighty | DLC | Sinful Shell, Maeigaon, Survival Trick, Primal Force (90), Life Aid (91), Heat Riser (93), Almighty Boost (95) |
 | 91 | Orpheus Telos | Almighty | Max all Social Links | Victory Cry |
 ##### Resists
@@ -41,10 +81,10 @@
 ##### Stats
 | Lv. | Name | Inherits | Unlock | Skills |
 | --- | --- | --- | --- | --- |
-| 1 | Hermes | Slash A | Junpei's initial persona | Power Slash, Agi (4), Bash (6), Rakukaja (9), Vacuum Slash (13), Counter (16), Assault Dive (18), Maragi (22), Torrent Shot (25), Agilao (29), Counterstrike (33), Fire Break (36), Blade of Fury (40), Shift Boost (44), Gigantic Fist (47), Marakukaja (51), Deathbound (54), High Counter (57), Vile Assault (60), Agidyne (64), Regenerate 3 (67), Brave Blade (71), Vorpal Blade (75), Critical Boost (Theurgy), Critical Amp (Theurgy), Hack n' Blast (Theurgy), Blaze of Life (Theurgy) |
+| 1 | Hermes | Slash A | Junpei's initial persona | Power Slash, Agi (4), Bash (6), Rakukaja (9), Vacuum Slash (13), Counter (16), Assault Dive (18), Maragi (22), Torrent Shot (25), Agilao (29), Counterstrike (33), Fire Break (36), Blade of Fury (40), Shift Boost (44), Gigantic Fist (47), Marakukaja (51), Deathbound (54), High Counter (57), Vile Assault (60), Agidyne (64), Regenerate 3 (67), Brave Blade (71), Vorpal Blade (75), Critical Boost (P1), Critical Amp (P2), Hack n' Blast (T1), Blaze of Life (T2) |
 | 3 | Nekomata | Wind A | - | Agi, Rakunda, Power Slash (4), Resist Distress (5), Marin Karin (6), Maragi (8) |
-| 8 | Jack Frost | Ice A | - | Bufu, Pulinpa, Mabufu (10), Sonic Punch (11), Freeze Boost (12), Ice Boost (13), Jack Brothers (Theurgy) |
-| 15 | Jack-o'-Lantern | Fire A | - | Agi, Maragi, Provoke, Rage Boost (17), Dodge Ice (19), Agilao (21), Jack Brothers (Theurgy) |
+| 8 | Jack Frost | Ice A | - | Bufu, Pulinpa, Mabufu (10), Sonic Punch (11), Freeze Boost (12), Ice Boost (13), Jack Brothers (T1) |
+| 15 | Jack-o'-Lantern | Fire A | - | Agi, Maragi, Provoke, Rage Boost (17), Dodge Ice (19), Agilao (21), Jack Brothers (T1) |
 | 19 | Hua Po | Fire A | Request #77 | Maragi, Baisudi, Rakunda, Agilao (20), Resist Freeze (21), Fire Boost (23) |
 | 22 | Zorro | Wind A | DLC | Magaru, Media, Wind Driver, Garula (23), Recarm (24), Divine Grace (25), Magarula (27) |
 | 29 | Sati | Fire A | - | Agilao, Maragi, Media, Baisudi (30), Maragion (32), Anti-Fire Master (33), Evade Ice (35) |
@@ -72,9 +112,9 @@
 ##### Stats
 | Lv. | Name | Inherits | Unlock | Skills |
 | --- | --- | --- | --- | --- |
-| 2 | Apsaras | Ice B | - | Bufu, Baisudi (3), Sukunda (4), Patra (5), Resist Freeze (7), Cadenza (Theurgy) |
+| 2 | Apsaras | Ice B | - | Bufu, Baisudi (3), Sukunda (4), Patra (5), Resist Freeze (7), Cadenza (T1) |
 | 11 | Unicorn | Recovery | - | Kouha, Dia, Hama (12), Patra (13), Auto Rakukaja (15), Resist Rage (16) |
-| 18 | Lucia | Lidark A | Fuuka's initial persona | Full Analysis, Jamming, Sylphid Aura (26), Shock Noise (38), Escape Route (51), Tartarus Search (64), Weakness Buffer (Theurgy), Weakness Mitigator (Theurgy), Oracle (Theurgy), Revelation (Theurgy) |
+| 18 | Lucia | Lidark A | Fuuka's initial persona | Full Analysis, Jamming, Sylphid Aura (26), Shock Noise (38), Escape Route (51), Tartarus Search (64), Weakness Buffer (P1), Weakness Mitigator (P2), Oracle (T1), Revelation (T2) |
 | 20 | High Pixie | Elec A | - | Arrow Rain, Mabufu, Media, Bufula (22), Tarukaja (23), Dodge Wind (25) |
 | 28 | Johanna | Wind A | DLC | Herculean Strike, Diarama, Strike Driver, Marakukaja (29), Dekunda (30), Megido (32), Gigantic Fist (33) |
 | 32 | Sarasvati | Recovery | - | Diarama, Mabaisudi, Bufula, Dodge Elec (33), Anti-Wind Master (34), Mediarama (35), Masukukaja (36) |
@@ -101,7 +141,7 @@
 ##### Stats
 | Lv. | Name | Inherits | Unlock | Skills |
 | --- | --- | --- | --- | --- |
-| 20 | Penthesilea | Ice A | Mitsuru's initial persona | Bufu, Mabufu, Rakunda, Marin Karin, Bufula (21), Eerie Sound (24), Fatal End (27), Spirit Drain (30), Ice Break (33), Tentarafoo (35), Mabufula (38), Ice Boost (41), Neuro Slash (44), Freeze Boost (47), Bufudyne (51), Concentrate (55), Marakunda (59), Ailment Boost (63), Mabufudyne (67), Diamond Dust (73), Ailment Burst (Theurgy), Ailment Surge (Theurgy), Blizzard Edge (Theurgy), Blade of Execution (Theurgy) |
+| 20 | Penthesilea | Ice A | Mitsuru's initial persona | Bufu, Mabufu, Rakunda, Marin Karin, Bufula (21), Eerie Sound (24), Fatal End (27), Spirit Drain (30), Ice Break (33), Tentarafoo (35), Mabufula (38), Ice Boost (41), Neuro Slash (44), Freeze Boost (47), Bufudyne (51), Concentrate (55), Marakunda (59), Ailment Boost (63), Mabufudyne (67), Diamond Dust (73), Ailment Burst (P1), Ailment Surge (P2), Blizzard Edge (T1), Blade of Execution (T2) |
 | 21 | Leanan Sidhe | Recovery | - | Media, Diarama, Patra, Spirit Drain (22), Me Patra (24), Marin Karin (25), Null Charm (26) |
 | 32 | Yakshini | Ice A | - | Sexy Dance, Fatal End, Blade of Fury (33), Charm Boost (35), Multi-Target Boost (36), Deathbound (37) |
 | 36 | Milady | Ice A | DLC | Torrent Shot, Amrita Drop, Pierce Driver, Fast Heal (37), Tentarafoo (38), Tetrakarn (40), Makarakarn (41) |
@@ -128,12 +168,12 @@
 ##### Stats
 | Lv. | Name | Inherits | Unlock | Skills |
 | --- | --- | --- | --- | --- |
-| 7 | Forneus | Wind A | - | Bufu, Bash, Tarukaja, Single Shot (9), Sharp Student (10), Dodge Ice (12), Best Friends (Theurgy) |
-| 14 | Polydeuces | Elec A | Akihiko's initial persona | Zio, Dia, Sonic Punch, Mazio, Tarunda (15), Shock Boost (17), Sukukaja (21), Diarama (24), Zionga (28), Elec Boost (32), Elec Break (35), Gigantic Fist (39), Mazionga (42), Matarunda (46), Masukukaja (50), Ziodyne (54), Diarahan (58), Evade Ice (62), Maziodyne (67), God's Hand (72), Elec Amp (75), Buff Boost (Theurgy), Buff Amp (Theurgy), Lightning Spike (Theurgy), Electric Onslaught (Theurgy) |
+| 7 | Forneus | Wind A | - | Bufu, Bash, Tarukaja, Single Shot (9), Sharp Student (10), Dodge Ice (12), Best Friends (T1) |
+| 14 | Polydeuces | Elec A | Akihiko's initial persona | Zio, Dia, Sonic Punch, Mazio, Tarunda (15), Shock Boost (17), Sukukaja (21), Diarama (24), Zionga (28), Elec Boost (32), Elec Break (35), Gigantic Fist (39), Mazionga (42), Matarunda (46), Masukukaja (50), Ziodyne (54), Diarahan (58), Evade Ice (62), Maziodyne (67), God's Hand (72), Elec Amp (75), Buff Boost (P1), Buff Amp (P2), Lightning Spike (T1), Electric Onslaught (T2) |
 | 16 | Oberon | Fire A | - | Zio, Media, Mazio (17), Zan-ei (18), Survive Dark (19), Zionga (21) |
 | 23 | Take-Mikazuchi | Elec B | - | Mazio, Fatal End, Elec Break, Zionga (24), Auto Tarukaja (26), Getsu-ei (27), Mazionga (28) |
 | 27 | Goemon | Ice A | DLC | Bufula, Getsu-ei, Ice Driver, Shift Boost (28), Counterstrike (29), Blade of Fury (31), Mabufula (32) |
-| 34 | King Frost | Ice A | Request #24 | Bufula, Freeze Boost, Rakukaja, Mabufula (35), Ice Break (36), Marakukaja (37), Null Ice (39), King and I (Theurgy) |
+| 34 | King Frost | Ice A | Request #24 | Bufula, Freeze Boost, Rakukaja, Mabufula (35), Ice Break (36), Marakukaja (37), Null Ice (39), King and I (T1) |
 | 43 | Naga Raja | Ice A | - | Mazionga, Cruel Attack, Tentarafoo, Revolution (44), Elec Break (45), Confuse Boost (46), Null Pierce (48) |
 | 47 | Kamu Susano-o | Ice A | DLC | Ice Age, Tempest Slash, Masukukaja, Bufudyne (48), High Counter (49), Shift Amp (51), Vorpal Blade (53) |
 | 53 | Belphegor | Ice D | - | Mabufula, Maeiga, Dodge Light, Mudoon (54), Stagnant Air (55), Endure Light (57), Maeigaon (59) |
@@ -161,7 +201,7 @@
 | 13 | Berith | Wind A | - | Single Shot, Agi, Rakukaja, Power Slash (14), Dodge Fire (16), Assault Dive (18) |
 | 23 | Shiisaa | Ice L | - | Mabufu, Assault Dive, Rakukaja (24), Ice Boost (26), Dodge Fire (27), Herculean Strike (29) |
 | 33 | Flauros | Fire A | - | Agilao, Swift Strike, Auto Sukukaja, Crit Rate Boost (34), Apt Pupil (35), Herculean Strike (36), Evade Wind (38) |
-| 39 | Castor | Strike A | Shinjiro's initial persona | Fatal End, Blade of Fury, Heat Wave, Bloody Charge, Endure, Counterstrike (41), Regenerate 3 (44), Deathbound (46), High Counter (51), Brave Blade (55), Debilitate (59), God's Hand (63), Akasha Arts (66), Firm Stance (70), Auto Bolster (Theurgy), Auto Heat Riser (Theurgy), Bleeding Fury (Theurgy) |
+| 39 | Castor | Strike A | Shinjiro's initial persona | Fatal End, Blade of Fury, Heat Wave, Bloody Charge, Endure, Counterstrike (41), Regenerate 3 (44), Deathbound (46), High Counter (51), Brave Blade (55), Debilitate (59), God's Hand (63), Akasha Arts (66), Firm Stance (70), Auto Bolster (P1), Auto Heat Riser (P2), Bleeding Fury (T1) |
 | 40 | Thoth | Lidark A | Request #78 | Zionga, Mahama, Diarama, Mazionga (41), Soul Shift (43), Megido (44), Concentrate (45) |
 | 48 | Mishaguji | Fire A | - | Mazionga, Deathbound, Marin Karin, Ziodyne (49), Matarukaja (50), Vile Assault (52), Null Strike (54) |
 | 59 | Daisoujou | Almighty | - | Hamaon, Diarahan, Growth 3, Samsara (60), Invigorate 3 (61), Hama Boost (63), Null Dark (65) |
@@ -182,7 +222,7 @@
 ##### Stats
 | Lv. | Name | Inherits | Unlock | Skills |
 | --- | --- | --- | --- | --- |
-| 1 | Io | Wind A | Yukari's initial persona | Garu, Dia, Patra (5), Pulinpa (8), Media (11), Magaru (14), Sukunda (17), Diarama (21), Garula (24), Recarm (27), Wind Break (30), Me Patra (33), Magarula (37), Mediarama (40), Poison Mist (43), Amrita Drop (46), Garudyne (50), Diarahan (53), Samarecarm (56), Masukunda (59), Amrita Shower (62), Magarudyne (66), Mediarahan (70), Wind Amp (74), Healing Master (Theurgy), Healing Apex (Theurgy), Cyclone Arrow (Theurgy), Tranquility (Theurgy) |
+| 1 | Io | Wind A | Yukari's initial persona | Garu, Dia, Patra (5), Pulinpa (8), Media (11), Magaru (14), Sukunda (17), Diarama (21), Garula (24), Recarm (27), Wind Break (30), Me Patra (33), Magarula (37), Mediarama (40), Poison Mist (43), Amrita Drop (46), Garudyne (50), Diarahan (53), Samarecarm (56), Masukunda (59), Amrita Shower (62), Magarudyne (66), Mediarahan (70), Wind Amp (74), Healing Master (P1), Healing Apex (P2), Cyclone Arrow (T1), Tranquility (T2) |
 | 2 | Pixie | Recovery | - | Dia, Pulinpa, Zio (4), Tarukaja (5), Resist Confuse (6) |
 | 5 | Silky | Ice A | - | Bewilder, Bufu, Dia (6), Baisudi (7), Sharp Student (9) |
 | 13 | Tam Lin | Light A | - | Power Slash, Zio, Sukukaja, Fatal End (15), Mazio (17), Survive Dark (18) |
@@ -217,8 +257,8 @@
 | 9 | Chimera | Fire B | - | Power Slash, Bewilder, Agi (10), Sonic Punch (11), Sukunda (12), Auto Tarukaja (14) |
 | 14 | Zouchouten | Elec B | - | Bash, Zio, Crit Rate Boost, Auto Tarukaja (15), Assault Dive (16), Rebellion (18), Swift Strike (19) |
 | 18 | Captain Kidd | Elec A | DLC | Mazio, Assault Dive, Elec Driver, Tarukaja (19), Shock Boost (20), Zionga (21), Swift Strike (23) |
-| 24 | Mithras | Wind A | - | Makouha, Zan-ei, Rakunda, Agilao (25), Hama (26), Tentarafoo (27), Swift Strike (29), Scarlet Havoc (Theurgy) |
-| 27 | Palladion | Pierce A | Aigis's initial persona | Arrow Rain, Swift Strike, Tarukaja, Rakukaja, Dekunda, Cruel Attack (30), Diarama (33), Fast Heal (37), Marakukaja (40), Myriad Arrows (43), Null Dizzy (46), Matarukaja (49), Heat Wave (53), Diarahan (56), Insta-Heal (60), Primal Force (64), Enduring Soul (68), Akasha Arts (72), Resist Phys (76), Phys Boost (Theurgy), Phys Amp (Theurgy), Orgia Mode (Theurgy), Maximum Firepower (Theurgy) |
+| 24 | Mithras | Wind A | - | Makouha, Zan-ei, Rakunda, Agilao (25), Hama (26), Tentarafoo (27), Swift Strike (29), Scarlet Havoc (T1) |
+| 27 | Palladion | Pierce A | Aigis's initial persona | Arrow Rain, Swift Strike, Tarukaja, Rakukaja, Dekunda, Cruel Attack (30), Diarama (33), Fast Heal (37), Marakukaja (40), Myriad Arrows (43), Null Dizzy (46), Matarukaja (49), Heat Wave (53), Diarahan (56), Insta-Heal (60), Primal Force (64), Enduring Soul (68), Akasha Arts (72), Resist Phys (76), Phys Boost (P1), Phys Amp (P2), Orgia Mode (T1), Maximum Firepower (T2) |
 | 31 | Oni | Slash B | - | Bash, Counter, Regenerate 1, Swift Strike (32), Anti-Electric Master (33), Counterstrike (34), Dizzy Boost (36) |
 | 40 | Seiten Taisei | Elec A | DLC | Wild Thunder, Deathbound, Auto Tarukaja, Auto Rebellion (41), Charge (43), Gigantic Fist (44), Auto Mataru (46) |
 | 45 | Shiki-Ouji | Ice A | - | Torrent Shot, Dekaja, Kouga, Tetrakarn (46), Matarukaja (47), Evade Wind (49), Null Fire (51) |
@@ -248,7 +288,7 @@
 | 25 | Power | Light A | - | Hama, Magaru, Arrow Rain, Mahama (26), Torrent Shot (27), Dodge Dark (29), Revolution (30) |
 | 32 | Virtue | Light A | - | Magaru, Kouga, Null Poison (33), Mahama (34), Light Boost (35), Makouga (37) |
 | 37 | Robin Hood | Light A | DLC | Kouga, Eiga, Light Driver, Megido (38), Resist Ailments (40), Kougaon (41), Eigaon (42) |
-| 37 | Nemesis | Light A | Ken's initial persona | Zionga, Kougaon, Mediarama, Makarakarn, Dekaja, Makouga (38), Tetrakarn (42), Samarecarm (47), Vile Assault (51), Ziodyne (55), Mahamaon (60), Mediarahan (64), Makougaon (68), Light Amp (72), Heat Riser (76), Spirit Refresh (Theurgy), Spirit Restore (Theurgy), Divine Retribution (Theurgy), Divine Intervention (Theurgy) |
+| 37 | Nemesis | Light A | Ken's initial persona | Zionga, Kougaon, Mediarama, Makarakarn, Dekaja, Makouga (38), Tetrakarn (42), Samarecarm (47), Vile Assault (51), Ziodyne (55), Mahamaon (60), Mediarahan (64), Makougaon (68), Light Amp (72), Heat Riser (76), Spirit Refresh (P1), Spirit Restore (P2), Divine Retribution (T1), Divine Intervention (T2) |
 | 42 | Dominion | Wind L | - | Makouga, Hamaon, Infuriate, Hama Boost (43), Samarecarm (44), Light Boost (46), Kougaon (47) |
 | 52 | Throne | Light A | - | Mahama, Maragion, Recarmdra, Samarecarm (53), Kougaon (54), Hama Boost (55), Mahamaon (57) |
 | 60 | Loki A | Dark A | DLC | Rebellion Blade, Eigaon, Resist Ailments, Debilitate (61), Evade Light (62), Akasha Arts (64), Megidolaon (66) |
@@ -323,10 +363,10 @@
 | 15 | Rakshasa | Elec B | - | Vacuum Slash, Dodge Slash, Regenerate 1, Fatal End (16), Counter (18), Getsu-ei (20) |
 | 22 | Matador | Ice D | - | Torrent Shot, Vacuum Slash, Dodge Pierce, Auto Sukukaja (23), Dodge Fire (25), Dekunda (26), Blade of Fury (28) |
 | 29 | Jikokuten | Light B | - | Zan-ei, Auto Sukukaja, Crit Rate Boost, Getsu-ei (31), Revolution (32), Slash Boost (34), Endure Dark (35) |
-| 35 | Cerberus | Dark A | Koromaru's initial persona | Eiga, Maeiga, Mamudo, Maragion, Revolution, Mudoon (36), Getsu-ei (39), Virus Breath (43), Eigaon (46), Soul Shift (50), Mamudoon (53), Maragidyne (56), Tempest Slash (60), Masukukaja (63), Maeigaon (67), Fire Amp (70), Dark Amp (73), Debilitate (77), Auto Sukunda (Theurgy), Auto Masukunda (Theurgy), Hound of Hades (Theurgy), Power Howling (Theurgy) |
+| 35 | Cerberus | Dark A | Koromaru's initial persona | Eiga, Maeiga, Mamudo, Maragion, Revolution, Mudoon (36), Getsu-ei (39), Virus Breath (43), Eigaon (46), Soul Shift (50), Mamudoon (53), Maragidyne (56), Tempest Slash (60), Masukukaja (63), Maeigaon (67), Fire Amp (70), Dark Amp (73), Debilitate (77), Auto Sukunda (P1), Auto Masukunda (P2), Hound of Hades (T1), Power Howling (T1) |
 | 36 | Hanuman | Elec A | - | Getsu-ei, Blade of Fury, Shift Boost, Recarm (37), Fatal End (38), Evade Slash (40), Endure (41) |
 | 46 | White Rider | Fire A | - | Maeiga, Arrow Rain, Mudoon, Poison Arrow (47), Pierce Boost (48), Null Fear (49), Evade Dark (51) |
-| 54 | Siegfried | Light A | - | Deathbound, Charge, Auto Rebellion, Auto Masuku (55), Crit Rate Amp (57), Brave Blade (59), Slash Amp (61), Scarlet Havoc (Theurgy) |
+| 54 | Siegfried | Light A | - | Deathbound, Charge, Auto Rebellion, Auto Masuku (55), Crit Rate Amp (57), Brave Blade (59), Slash Amp (61), Scarlet Havoc (T1) |
 | 63 | Kali | Slash B | - | Heat Wave, Deathbound, Marakunda, Brave Blade (64), Charge (66), High Counter (67), Vorpal Blade (70) |
 | 72 | Atavaka | Fire L | Strength Rank 10 | Brave Blade, Maragidyne, Null Dizzy, God's Hand (74), Auto Mataru (75), Mediarahan (77), Firm Stance (79) |
 ##### Resists
@@ -472,7 +512,7 @@
 | 64 | Garuda | Wind L | - | Garudyne, Tentarafoo, Masukukaja, Amrita Shower (65), Magarudyne (67), Panta Rhei (70) |
 | 70 | Houou | Wind L | Harabah II 225 | Maragidyne, Samarecarm, Mediarama, Divine Grace (71), Regenerate 3 (72), Null Pierce (74), Salvation (77) |
 | 76 | Saturnus | Fire A | Ryoji Max Link | Inferno, Maragidyne, Concentrate, Fire Amp (77), Primal Force (78), Heat Riser (80), Repel Ice (82) |
-| 88 | Helel | Fire L | Star Rank 10 | Makougaon, Heat Riser, Salvation, Morning Star (90), Life Aid (92), Spell Master (94), Almighty Boost (95), Armageddon (Theurgy) |
+| 88 | Helel | Fire L | Star Rank 10 | Makougaon, Heat Riser, Salvation, Morning Star (90), Life Aid (92), Spell Master (94), Almighty Boost (95), Armageddon (T1) |
 ##### Resists
 | Lv. | Name | St | Ma | En | Ag | Lu | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -539,7 +579,7 @@
 | 40 | Anubis | Lidark A | - | Hamaon, Mudoon, Maeiga, Makouga (41), Makarakarn (43), Growth 2 (44), Resist Dark (45) |
 | 59 | Trumpeter | Almighty | - | Hamaon, Mudoon, High Counter, Makougaon (60), Resist Ailments (62), Mediarahan (63), Debilitate (65) |
 | 70 | Michael | Elec A | Ken Max Link | Heaven's Blade, Divine Judgment, Angelic Grace, Makougaon (72), Maziodyne (73), Heat Riser (75), Drain Pierce (77) |
-| 82 | Satan | Elec A | - | Diamond Dust, Maeigaon, Resist Ailments, Megidolaon (83), Concentrate (84), Debilitate (86), Repel Wind (88), Black Viper (89), Armageddon (Theurgy) |
+| 82 | Satan | Elec A | - | Diamond Dust, Maeigaon, Resist Ailments, Megidolaon (83), Concentrate (84), Debilitate (86), Repel Wind (88), Black Viper (89), Armageddon (T1) |
 | 89 | Lucifer | Dark A | Request #81 | Megidolaon, Debilitate, Brave Blade, Inferno (90), Panta Rhei (92), Diamond Dust (94), Resist Phys (96) |
 | 91 | Messiah | Light A | Judgement Rank 10 | Megidolaon, God's Hand, Salvation, Enduring Soul (92), Regenerate 3 (93), Invigorate 3 (94), Null Phys (96), Magic Ability (98) |
 ##### Resists
@@ -1181,6 +1221,7 @@
 | 30 | 100 | 150 |
 
 #### Skill Mutations
+* The first two ingredients of any fusion add the following skills to the mutation pool according to their races and the ranks of the skills on the resulting persona
 ##### Justice, Temperance, Star
 | Rank | Potential Skills |
 | --- | --- |

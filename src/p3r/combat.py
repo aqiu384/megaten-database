@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 import json
 import re
+from math import floor
 from shared import table_header, table_row, load_item_descs, iterate_int_tsvfile
 from shopper import load_shops_to_items
 
 def format_lvl(lvl):
-    return ' (Theurgy)' if lvl > 1000 else f" ({lvl})" if lvl >= 2 else ''
+    return f" ({chr(floor(lvl / 100) + 32)}{chr(floor(lvl % 100) + 32)})" if lvl > 1000 else f" ({lvl})" if lvl >= 2 else ''
 def format_skills(skills):
     return ', '.join(f"{x}{format_lvl(y)}" for x, y in skills.items())
 

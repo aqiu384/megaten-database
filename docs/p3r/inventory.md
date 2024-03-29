@@ -1,8 +1,9 @@
 # Persona 3 Reload
 ## Inventory
 * Inventory items may be obtained through several means
-  * Buying from the Police Station on the date they become available (Prices given in parantheses)
-  * Opening chests in Tartarus (Random chest probabilities given in parantheses)
+  * Buying from overworld vendors or through TV shopping when available (Prices given in parantheses)
+  * Opening chests in Tartarus (Chest probabilities given in parantheses)
+  * Shadows or Shuffle Time (Drop probabilities given in parantheses)
   * Crafting or trading from Mayoido Antiques using materials and gems
   * Completing Elizabeth and Rescue Requests
   * Other social activities e.g. performing well during exams
@@ -1716,7 +1717,7 @@
 | Bandage Wrap | A cloth used for treating injuries. There may be someone who needs this. | Request #58: I wish to become a straw millionaire. |
 | Student Handbook | A Gekkoukan student handbook. Should be returned to its owner. | Request #58: I wish to become a straw millionaire. |
 | Irresistible Catnip | One touch and they can't resist! For those wishing to befriend cats. | Request #58: I wish to become a straw millionaire. |
-| Letter of Thanks | A thank-you letter regarding the rescue of a missing person. | 7/5: Rescue Reward |
+| Letter of Thanks | A thank-you letter regarding the rescue of a missing person. | 6/18: Rescue Reward |
 | Christmas Present | A Christmas present from a self-proclaimed Santa. Wrapped neatly. | Request #97: Bring me my Christmas present. |
 | True Aohige Aojiru | The Aohige Pharmacy owner's prized aojiru. Bitter yet sweet. | Request #57: I'd like to try Aojiru. |
 | Baseball Glove | A baseball glove gifted from Junpei. Enables fusion of Surt. | Junpei Link 5 |

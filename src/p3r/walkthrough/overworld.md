@@ -1,6 +1,10 @@
 # Persona 3 Reload
 ## Overworld
+* See Inventory for equipment and item details
+
 ### Police Station
+* Sales on Mon offer a 20% discount
+
 {{ shop_inventory('Police') }}
 
 ### Mayoido Antiques
@@ -11,6 +15,7 @@
 
 ### Miscellaneous Shops
 #### Aohige Pharmacy
+* Sales on Sat offer a 30% discount
 * Aohige Aojiru + Aohige Special: Request #57: I'd like to try Aojiru.
 
 {{ shop_inventory('Pharmacy') }}
@@ -47,12 +52,44 @@
 
 {{ shop_inventory('Beef Bowl') }}
 #### Net Cafe
-{{ shop_inventory('Net Cafe') }}
-#### Club Escapade URL Seller
-* Assassin Site Note + History Website Note + Ninja Fansite Note: Security Site Note
-* Revenge Site Note: Use at least 1 note
+* All software uses 1 night slot on the Iwatodai Dorms shared computer
 
-{{ shop_inventory('URL Seller') }}
+| Unlocks | Item | Price | Effect |
+| --- | --- | --- | --- |
+| - | Lessons in Etiquette | 1200 | Charm +4 |
+| - | Virtual Diet | 1200 | Charm +4 |
+| 9/1 | Pickup Line Master | 4000 | Charm +4 |
+| - | Language Made Easy | 1200 | Academics +4 |
+| 9/1 | Sage Brain Training | 4000 | Academics +4 |
+| - | Animal Othello | 1200 | Courage +4 |
+| - | TypinGhoul | 1200 | Courage +4 |
+| 9/1 | Sengoku Chronicles | 4000 | Courage +4 |
+| 10/5 | Part-Time Master | 8000 | Increases money earned at part-time jobs |
+| 9/1 | Veggie Farmer Sim | 4500 | Increases vegetables harvested from planters |
+| - | Muscle Boot Camp | 2000 | HP +7 |
+| 10/5 | Image Muscle Trainer | 4000 | HP +9 |
+| - | Mindful Boot Camp | 2000 | SP +5 |
+| 10/5 | Mental Instructor | 4000 | SP +7 |
+| - | Umiushi Fan Book | 450 | Unlocks beef bowl shop |
+
+#### Club Escapade URL Seller
+* All notes use 1 night slot on the Iwatodai Dorms shared computer
+* Assassin Site Note + History Website Note + Ninja Fansite Note: Security Site Note
+* Revenge Site Note: Locked after 11/2
+
+| Unlocks | Item | Price | Effect |
+| --- | --- | --- | --- |
+| 7/9 | Security Site Note | 5000 | Unlocks Ambush mechanic |
+| 9/10 | Assassin Site Note* | 8000 | Guarantees Distress from successful Ambush |
+| 9/10 | History Website Note* | 8000 | Increases Theurgy Gauge increase from successful Ambush |
+| 11/4 | Ninja Fansite Note* | 12000 | Decreases dash distance necessary to trigger Ambush |
+| - | Iwatodai Forum Note | 500 | Unlocks 4biotic Pack, Definitely Lemonade, and Happiness Water for Iwatodai Station vending machine |
+| - | School X Site Note | 500 | Unlocks Lukewarm Taiyaki for school store |
+| 10/6 | Veggie Blog Note | 500 | Unlocks Golden Tomato Sprout for Port Island florist |
+| 11/11 | Dating Site Note | 3000 | +10 points to SL of choice |
+| 6/23 | Revenge Site Note* | 500 | Courage +4 |
+| 1/1 | Believer's Blog Note | 500 | SP +5 |
+
 #### Club Escapade Vendor
 * Opal + Diamond: Judgement Rank 10
 
@@ -171,8 +208,9 @@
 | 11/6-11/30 | 94 | - | Bring me food for a furry friend. | Talk to Koromaru | Bone |
 | 11/6-11/30 | 95 | 94 | Bring me a Featherman R action figure. | Talk to Ken | Sacrificial Idol |
 | 11/6 | 96 | - | I'd like to try Oden Juice. | Bought all 3 drinks from Kyoto vending machine > School Outdoor Corridor > Drink Maniac > Oden Juice (Y5000) | Aigis's Winter Uniform |
-| 12/4-12/25 | 97 | - | Bring me my Christmas present. | Rescued Ayako > Iwatodai 2F > Eccentric Man | Ruby x3 |
+| 12/4-12/25 | 97 | - | Bring me my Christmas present. | Rescued Ayako > Iwatodai 2F > Eccentric Man | Ruby x3 + Incense Box |
 | 11/6 | 98 | 87 | Fusion Series #10: Tower, Masakado | Fuse a Masakado with Charge, Setanta (Charge at Lv. 31) x Jack-o'-Lantern = Jikokuten, Zouchouten x Jikokuten (Charge) x Koumokuten x Bishamonten = Masakado (Charge) | Nihil White Model x2 |
 | 1/1 | 99 | - | Defeat the Shadow of the Void. | Clear Adamah I P3 | Dead Moon's Husk |
 | 1/1 | 100 | - | Bring me a Bloody Button. | Defeat the Reaper | Divine Pillar |
-| 1/1 | 101 | 99 | Take out the ultimate adversary. | See Tartarus: Ultimate Adversary | Omnipotent Orb |
+| 1/1 | 101 | 99 | Take out the ultimate adversary. | See Tartarus: Ultimate Adversary | Omnipotent Orb + Platinum Bookmark |
+| - | - | - | Bring me a Platinum Brooch. | Club Escapade (Y16000) > Talk to Elizabeth repeatedly > Give it to her | Master Incense x2 |

@@ -1,11 +1,51 @@
 # Persona 3 Reload
 ## Combat
-* Miscellaneous info regarding combat
-  * Personas
-  * Skills
-  * Shuffle Time
+#### Compendium Completion Rewards
+| Completion | Reward |
+| --- | --- |
+| 25% | Compendium 10% Discount |
+| 30% | Makoto learns Weakness Boost |
+| 50% | Compendium 15% Discount |
+| 60% | Weakness Boost upgraded to Weakness Amp |
+| 75% | Compendium 25% Discount |
+| 100% | Compendium 50% Discount |
+
+#### Raising Persona Stats
+* Apply incense or Major Arcana card effects
+  * A percentage of stats gained this way will carry over during fusion
+  * All party member stats gained this way will carry over to NG+
+* Play at the arcade with the target persona equipped
+  * No stats gained this way will carry over during fusion
+
+| Arcade Game | Stat +3 | Availability |
+| --- | --- | --- |
+| Punch Boxer | St | Mon, Thu, Sun |
+| Edgar's House of Fortunes | Ma | Wed, Sat, Sun |
+| Real Weel Racer | Ag | Tue, Fri, Sun |
+
+#### Theurgy Bonus Charge Conditions
+| Party Member | Condition |
+| --- | --- |
+| Makoto | After summoning a Persona, power within gradually enhances. |
+| Yukari | After healing someone, her desire to prevent death strengthens. |
+| Junpei | After landing a critical hit, he becomes motivated by his own potential. |
+| Akihiko | When beginning his turn buffed, his fighting spirit rises. |
+| Mitsuru | After weakening enemies or inflicting an ailment, her will burns brighter. |
+| Fuuka | After analyzing an enemy, her yearning for her friends' trust grows. |
+| Aigis | After using physical skills, her drive to complete her mission intensifies. |
+| Koromaru | After exploiting an enemy's weakness, his will to fight grows. |
+| Ken | Once his SP is less than half, his competitiveness is incited. |
+| Shinjiro | Once his HP is less than half, his determination ignites. |
 
 ### Personas
+* P1: Personality Lv. 1
+* P2: Personality Lv. 2
+* T1: Initial Theurgy
+* T2: Evolved Theurgy
+
+#### Fusion Calculator
+* https://aqiu384.github.io/megaten-fusion-tool/p3r/personas
+
 {{ all_personas('') }}
 
 ### Skills
@@ -182,6 +222,7 @@
 | 30 | 100 | 150 |
 
 #### Skill Mutations
+* The first two ingredients of any fusion add the following skills to the mutation pool according to their races and the ranks of the skills on the resulting persona
 ##### Justice, Temperance, Star
 {{ skill_pack('1') }}
 ##### Emperor, Lovers, Strength, Sun

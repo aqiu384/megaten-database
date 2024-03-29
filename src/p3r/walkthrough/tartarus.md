@@ -1,11 +1,23 @@
 # Persona 3 Reload
 ## Tartarus
-* Broken up by sections
-  * Full Moon Operations are included for each section
-  * Encounterable enemy stats
-  * Encounterable enemy resists
-  * Treasure chests
-  * Boss hints
+* Non-damaging effects
+  * Ice: Freeze
+  * Ele: Shock
+  * Lig: Hama instakill
+  * Dar: Mudo instakill
+
+| Resistance Symbol | Meaning |
+| --- | --- |
+| z | Weak, vulnerable to instakill |
+| w | Weak |
+| v | Vulnerable, no weakness flag, 200% damage |
+| - | Neutral |
+| s | Resist, 50% damage |
+| t | Resist, 25% damage |
+| n | Null |
+| r | Repel |
+| d | Drain |
+| * | Null non-damaging effects |
 
 ### Thebel
 {{ enemy_stats('Thebel') }}
@@ -366,7 +378,7 @@
 #### Equipment
 * Lucifer's Blade
 * Armor of Light
-* Shoes of Light
+* Shoes of Bane
 * Incense Box
 #### Persona Loadout
 * Messiah

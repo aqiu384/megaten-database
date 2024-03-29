@@ -22,8 +22,9 @@ USERS = {
 print(f"# Persona 3 Reload")
 print(f"## Inventory")
 print('''* Inventory items may be obtained through several means
-  * Buying from the Police Station on the date they become available (Prices given in parantheses)
-  * Opening chests in Tartarus (Random chest probabilities given in parantheses)
+  * Buying from overworld vendors or through TV shopping when available (Prices given in parantheses)
+  * Opening chests in Tartarus (Chest probabilities given in parantheses)
+  * Shadows or Shuffle Time (Drop probabilities given in parantheses)
   * Crafting or trading from Mayoido Antiques using materials and gems
   * Completing Elizabeth and Rescue Requests
   * Other social activities e.g. performing well during exams''')

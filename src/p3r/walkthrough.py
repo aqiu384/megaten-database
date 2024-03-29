@@ -3,20 +3,12 @@ import json
 import math
 import re
 
-WALKTHROUGH = 'walkthrough/ave-walkthrough.md'
 EVENT = re.compile('^\* [A-Za-z]+ (?:Flag|Rank) [0-9\.]+(?: Romantic| Platonic|)')
 NEEDS_PERSONA = ' (Needs matching persona)'
 FIRST_BONUS = '* **1st Social Link bonus'
 SECOND_BONUS = '* **2nd Social Link bonus'
 
-links = {}
-
-with open('walkthrough/social-links.json') as jsonfile:
-    for race, events in json.load(jsonfile).items():
-        for event, choices in events.items():
-            links[race + ' ' + event] = choices
-
-def display_choices(event, bonus_count, notes):
+def display_choices(links, event, bonus_count, notes):
     coeff = 5 * 1.51 ** bonus_count
     choices = iter(links[event].items())
 
@@ -25,7 +17,7 @@ def display_choices(event, bonus_count, notes):
     rankup_type = ''
     rankup_points = 0
 
-    for i, (choice, base_points) in enumerate(choices):
+    for choice, base_points in choices:
         if base_points > 5:
             rankup_type = choice
             rankup_points = base_points
@@ -48,22 +40,32 @@ def display_choices(event, bonus_count, notes):
 
     return display
 
-bonus1 = 0
-bonus2 = 0
+def print_social_links(fname):
+    bonus1 = 0
+    bonus2 = 0
+    links = {}
 
-with open(WALKTHROUGH) as mdfile:
-    for line in mdfile:
-        if line.startswith(FIRST_BONUS):
-            bonus1 = 1
-        if line.startswith(SECOND_BONUS):
-            bonus2 = 1
+    with open('walkthrough/social-links.json') as jsonfile:
+        for race, events in json.load(jsonfile).items():
+            for event, choices in events.items():
+                links[race + ' ' + event] = choices
 
-        found = EVENT.match(line)
-        if found and 'Auto' not in line:
-            event = found.group(0)[2:]
-            bonus3 = 1 if NEEDS_PERSONA in line else 0
-            notes = NEEDS_PERSONA if bonus3 == 1 else ''
-            display = display_choices(event, bonus1 + bonus2 + bonus3, notes)
-            print('\n'.join(display))
-        else:
-            print(line, end='')
+    with open(fname) as mdfile:
+        for line in mdfile:
+            if line.startswith(FIRST_BONUS):
+                bonus1 = 1
+            if line.startswith(SECOND_BONUS):
+                bonus2 = 1
+
+            found = EVENT.match(line)
+            if found and 'Auto' not in line:
+                event = found.group(0)[2:]
+                bonus3 = 1 if NEEDS_PERSONA in line else 0
+                notes = NEEDS_PERSONA if bonus3 == 1 else ''
+                display = display_choices(links, event, bonus1 + bonus2 + bonus3, notes)
+                print('\n'.join(display))
+            else:
+                print(line, end='')
+
+if __name__ == '__main__':
+    print_social_links('walkthrough/ave-walkthrough.md')
