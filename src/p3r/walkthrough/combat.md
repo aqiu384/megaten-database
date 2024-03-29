@@ -1,5 +1,4 @@
-# Persona 3 Reload
-## Combat
+# Persona 3 Reload: Combat
 #### Compendium Completion Rewards
 | Completion | Reward |
 | --- | --- |

@@ -1,5 +1,4 @@
-# Persona 3 Reload
-## Overworld
+# Persona 3 Reload: Overworld
 * See Inventory for equipment and item details
 
 ### Police Station

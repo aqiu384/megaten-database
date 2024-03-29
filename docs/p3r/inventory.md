@@ -1,5 +1,4 @@
-# Persona 3 Reload
-## Inventory
+# Persona 3 Reload: Inventory
 * Inventory items may be obtained through several means
   * Buying from overworld vendors or through TV shopping when available (Prices given in parantheses)
   * Opening chests in Tartarus (Chest probabilities given in parantheses)
