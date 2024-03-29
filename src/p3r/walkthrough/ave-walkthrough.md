@@ -1,4 +1,4 @@
-# Persona 3 Reload: All Voiced Events Walkthrough
+# All Voiced Events Walkthrough - Persona 3 Reload
 #### Goals
 * Obtain all achievements
 * Complete the persona compendium

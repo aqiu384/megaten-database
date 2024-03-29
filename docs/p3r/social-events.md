@@ -1,4 +1,4 @@
-# Persona 3 Reload: Social Events
+# Social Events - Persona 3 Reload
 | Availability Symbol | Meaning |
 | --- | --- |
 | S | After School |

@@ -1,4 +1,4 @@
-# Persona 3 Reload: Tartarus
+# Tartarus - Persona 3 Reload
 * Non-damaging effects
   * Ice: Freeze
   * Ele: Shock
