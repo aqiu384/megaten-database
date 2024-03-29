@@ -605,13 +605,6 @@
 | 57 | Uriel | 47 | 42 | 35 | 36 | 30 | s | - | - | d | w | n | - | n | w |
 | 73 | Ananta | 51 | 51 | 68 | 35 | 42 | w | - | s | - | d | w | - | n | - |
 | 87 | Metatron | 60 | 65 | 65 | 55 | 53 | - | - | - | r | s | w | r | r | w |
-#### Unknown
-##### Stats
-| Lv. | Name | Inherits | Unlock | Skills |
-| --- | --- | --- | --- | --- |
-##### Resists
-| Lv. | Name | St | Ma | En | Ag | Lu | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Skills
 #### Sla Skills

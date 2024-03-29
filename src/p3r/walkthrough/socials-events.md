@@ -50,13 +50,13 @@
 | Hagakure: Pork Ramen | - | +3 | - | 900 | - | B | B | B | B | B | - |
 | Hagakure: Hagakure Bowl* | - | +4 | - | 1200 | - | - | E | E | - | E | - |
 | Arcade: High School of Youth | - | +4 | - | 1500 | - | B | - | - | B | - | - |
-| Screenshot: Watch movies | - | +4 | - | 1500 | - | - | D | - | - | D | - | - |
+| Screenshot: Watch movies | - | +4 | - | 1500 | - | - | D | - | - | D | - |
 | Karaoke | - | - | +2 | 800 | - | B | B | B | B | B | B |
 | Wilduck: Mystery Burger | - | - | +3 | 1000 | B | B | B | B | - | B | B |
 | Wilduck: Weekend Wilduck Set* | - | - | +4 | 1200 | E | - | - | - | - | - | E |
-| Arcade: House of the Deceased | - | - | +4 | 3000 | - | - | B | - | - | B | - | - |
-| Screenshot: Watch movies | - | - | +4 | 1500 | - | D | - | - | D | - | - | - |
-| Chagall: Part-time Job | - | +1 | +1 | -2500 | - | E | N* | E | - | - | - |
+| Arcade: House of the Deceased | - | - | +4 | 3000 | - | - | B | - | - | B | - |
+| Screenshot: Watch movies | - | - | +4 | 1500 | - | D | - | - | D | - | - |
+| Chagall: Part-time Job | - | +1 | +1 | -2500 | - | E | E* | E | - | - | - |
 | Be Blue V: Part-time Job* | +1 | - | +1 | -3500 | - | D | D | D | D | D | D |
 | Screenshot: Part-time Job* | +1 | +1 | - | -5000 | D | - | - | - | - | - | - |
 
@@ -151,7 +151,7 @@
 
 #### Availability
 * All school links will be unavailable during vacation periods
-* All school links except Empress will unavailable the week before exams
+* All school links except Empress will be unavailable the week before exams
 * Emperor will be unavailable from 11/3-11/29
 * Hermit will also be available on 4/29, 5/4, 5/5, 9/21, 9/22, 9/23, 11/23, 12/23, and 1/11
 
@@ -168,7 +168,7 @@
 | Hermit | Maya | 4/29 | Your Room | D* | - | - | - | - | - | - |
 | Fortune | Keisuke Hiraga | 6/17 | Art Club Room | - | - | S | S | S | - | - |
 | Strength | Yuko Nishiwaki | Chariot Rank 2 | Gekkoukan 2F near stairs | - | - | - | S | - | - | S |
-| Hanged | Maiko Oohashi | 5/6 | Shrine Playground | - | D | - | D | - | - | D | - |
+| Hanged | Maiko Oohashi | 5/6 | Shrine Playground | - | D | - | D | - | - | D |
 | Temperance | Bebe | Hierophant Rank 3 | Sewing Club Room | - | - | S | S | - | S | - |
 | Devil | President Tanaka | Hermit Rank 3 | Paulownia Mall | - | - | E | - | - | - | E |
 | Tower | Mutatsu | Strength Rank 4 | Club Escapade | E | - | - | - | E | E | E |

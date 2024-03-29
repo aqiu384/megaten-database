@@ -59,6 +59,8 @@ def all_personas(flag):
         resists[race].sort(key=lambda x: x[0])
 
     for race in stats:
+        if race == 'Unknown':
+            continue
         print(f"#### {race}")
         print(f"##### Stats")
         print(table_header(stat_headers))
