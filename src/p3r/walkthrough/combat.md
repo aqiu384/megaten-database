@@ -367,6 +367,20 @@
 * Ally with ailment: 70% recovery rate
 * Enemy with ailment: 30% recovery rate
 
+#### Game Difficulty Modifiers
+| Modifier | Safety | Easy | Normal | Hard | Risky |
+| --- | --- | --- | --- | --- | --- |
+| Damage dealt by enemy | x0.5 | x0.5 | - | x1.3 | x1.5 |
+| Damage dealt by ally | x1.6 | x1.25 | - | x0.8 | x0.6 |
+| EXP earned | x1.5 | x1.2 | - | - | - |
+| Enemy weak bonus damage | - | - | - | - | x1.36 |
+| Ally weak bonus damage | - | - | - | - | x1.36 |
+| Enemy crit bonus damage | - | - | - | - | x1.34 |
+| Ally crit bonus damage | - | - | - | - | x1.34 |
+| Money earned from selling materials | x1.5 | x1.2 | - | - | - |
+| Enemy ailment hit rate | x0.1 | x0.5 | - | - | x1.2 |
+| Ally ailment hit rate | x1.5 | x1.2 | - | - | x0.8 |
+
 #### Level Difference
 * Being overlevelled against a boss will not reduce your damage taken.
 
