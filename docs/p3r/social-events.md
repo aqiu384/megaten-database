@@ -789,9 +789,6 @@
 * Aeon Rank 10
 
 ### Linked Episodes
-* Dates and availability for links are very roughly estimated based on in-game events
-* Prioritize doing links ASAP as they may lock sooner than expected
-
 #### Junpei
 * Availability: After School (Fri?, Sat?)
 * Location: 2F Classroom, Iwatodai Strip Mall (Link 2)
@@ -799,12 +796,12 @@
 
 | Link | Items | Availability |
 | --- | --- | --- |
-| 1 | Junpei St +3 | 5/12~6/6 |
-| 2 | Charm +2 | 8/9~8/30: Available during daytime |
-| 3 | Academics +2 | 11/7~11/21 |
-| 3.5 | - | 11/7~11/21: Port Island Florist > White Flower (Y250) > Dorms > Talk to Junpei |
-| 4 | Courage +2 | 12/19~12/30 |
-| 5 | Surt unlocked | 1/15~1/30 |
+| 1 | Junpei St +3 | 5/12-7/3 |
+| 2 | Charm +2 | 8/9-8/28: Available during daytime |
+| 3 | Academics +2 | 11/7-11/11 |
+| 3.5 | - | 11/7-11/11: Port Island Florist > White Flower (Y250) > Dorms > Talk to Junpei |
+| 4 | Courage +2 | 12/19-12/26 |
+| 5 | Surt unlocked | 1/15-1/29 |
 
 #### Akihiko
 * Availability: Evenings (Fri?, Sat?)
@@ -812,11 +809,11 @@
 
 | Link | Items | Availability |
 | --- | --- | --- |
-| 1 | Makoto HP +5 | 5/29~8/30 |
-| 2 | Charm +2, Luxe Tropical Fruit, Imperial Sweets Set, and Fresh Juice | 7/24~8/30 |
-| 3 | Charm +2 | 10/9~11/1 |
-| 4 | Makoto SP +3 | 12/12~12/30 |
-| 5 | Horus unlocked | 1/8~1/30 |
+| 1 | Makoto HP +5 | 5/29-7/10 |
+| 2 | Charm +2, Luxe Tropical Fruit, Imperial Sweets Set, and Fresh Juice | 7/24-8/31 |
+| 3 | Charm +2 | 10/9-11/2 |
+| 4 | Makoto SP +3 | 12/12-12/22 |
+| 5 | Horus unlocked | 1/4-1/29 |
 
 #### Koromaru
 * Availability: Daytime (Tue, Wed)
@@ -824,23 +821,23 @@
 
 | Link | Items | Availability |
 | --- | --- | --- |
-| 1 | Charm +2 | 8/22~1/30 |
-| 2 | Courage +2 | 8/22~1/30 |
-| 3 | Koromaru Ag +3 | 8/22~1/30 |
-| 4 | Courage +2 | 8/22~1/30 |
-| 5 | Byakko unlocked | 8/22~1/30 |
+| 1 | Charm +2 | 8/22-1/30 |
+| 2 | Courage +2 | 9/4-1/30 |
+| 3 | Koromaru Ag +3 | 9/4-1/30 |
+| 4 | Courage +2 | 9/4-1/30 |
+| 5 | Byakko unlocked | 1/5-1/30 |
 
 #### Ken
-* Availability: Evenings (Tue?, Wed?)
+* Availability: Evenings (Tue, Wed)
 * Location: Iwatodai Dorms, exact position varies
 
 | Link | Items | Availability |
 | --- | --- | --- |
-| 1 | Academics +2 | 9/8~10/3 |
-| 2 | Courage +2 | 9/8~10/3 |
-| 3 | Charm +2 | 11/10~11/16 |
-| 4 | Makoto SP +3 | 12/22~12/30 |
-| 5 | Michael unlocked | 1/19~1/30 |
+| 1 | Academics +2 | 9/8-9/30 |
+| 2 | Courage +2 | 9/15-9/30 |
+| 3 | Charm +2 | 11/10-12/2 |
+| 4 | Makoto SP +3 | 12/22-12/30 |
+| 5 | Michael unlocked | 1/19-1/27 |
 
 #### Shinjiro
 * Availability: Daytime
@@ -849,11 +846,11 @@
 
 | Link | Items | Availability |
 | --- | --- | --- |
-| 1 | Courage +2 | 9/4~10/3: Faculty Hallway > Mitsuru > Port Island Outskirts > Shinjiro |
-| 2 | Charm +2 | 9/4~10/3 |
-| 3 | Academics +2 | 9/4~10/3 |
-| 3.5 | - | 9/4~10/3: Faculty Hallway > Mitsuru > Any > Any > Any > Any > Choice 1: Wait a minute. |
-| 4 | Courage +2 | 9/4~10/3 |
+| 1 | Courage +2 | 9/4-10/2: Faculty Hallway > Mitsuru > Port Island Outskirts > Shinjiro |
+| 2 | Charm +2 | 9/11-10/2 |
+| 3 | Academics +2 | 9/11-10/2 |
+| 3.5 | - | 9/11-10/2: Faculty Hallway > Mitsuru > Any > Any > Any > Any > Choice 1: Wait a minute. |
+| 4 | Courage +2 | 9/11-10/2 |
 | 5 | Hell Biker unlocked | 10/5: Iwatodai Dorms 2F > Shinjiro's Room > Desk Drawer |
 
 #### Ryoji
@@ -863,7 +860,7 @@
 | Link | Items | Availability |
 | --- | --- | --- |
 | 1 | Equipped persona all stats +1 | 11/9: Auto |
-| 2 | Equipped persona all stats +1 | 11/12 |
+| 2 | Equipped persona all stats +1 | 11/12-11/16 |
 | 3 | Equipped persona all stats +1 | 11/18: Talk to him and agree to hang out |
 | 4 | Equipped persona all stats +1 | 12/1 |
 | 5 | Saturnus unlocked | 12/31 |
@@ -877,7 +874,7 @@
 | 1 | - | 8/14: Auto |
 | 2 | Folded Paper | 8/20: Auto |
 | 3 | - | 9/18: Auto |
-| 4 | - | 1/13~1/30: Club Escapade > Suspicious Man > Agree to meet |
+| 4 | - | 1/13-1/29: Club Escapade > Suspicious Man > Agree to meet |
 
 ### Hangouts
 #### Dorm Hangouts
