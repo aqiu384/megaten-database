@@ -329,7 +329,7 @@
 * Rank ends in 0.5: Skill can mutate upon level up
 * (Fs): Fusion Spell
 
-## Persona 3
+## Persona 3 Reload
 ### Data Sources
 * https://github.com/aqiu384/megaten-database
 
