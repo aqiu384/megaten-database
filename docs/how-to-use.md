@@ -329,6 +329,10 @@
 * Rank ends in 0.5: Skill can mutate upon level up
 * (Fs): Fusion Spell
 
+## Persona 3
+### Data Sources
+* https://github.com/aqiu384/megaten-database
+
 ## Persona 4
 ### Persona 4 Golden
 * Aeon and Jester Social Links added
