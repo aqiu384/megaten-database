@@ -41,7 +41,8 @@ def update_stats(entry, line):
         'lvl': line['level'],
         'exp': line['exp'],
         'stats': [line['maxhp'], line['maxsp']] + [line[f"params{x}"] for x in range(1, 6)],
-        'skills': skills
+        'skills': skills,
+        'eskills': [skills[0]]
     })
 
     if 0 < len(drops):
@@ -70,8 +71,19 @@ for fname, updater in UPDATERS:
         if i in DEMONS:
             updater(DEMONS[i], line)
 
+for line in iterate_int_tsvfile(FNAME.format('EnemySkill'), skip_first=False):
+    enemy_id = line['EnemyID']
+    if enemy_id in DEMONS:
+        sname = SKILLS[line['SkillID']]
+        skills = DEMONS[enemy_id]['eskills']
+        if sname not in skills:
+            skills.append(sname)
+
 DEMONS = { x['name']: x for x in DEMONS.values() }
 for demon in DEMONS.values():
+    if str(sorted(demon['skills'])) != str(sorted(demon['eskills'])):
+        demon['skills'] = demon['eskills']
+    del demon['eskills']
     del demon['name']
 
 with open('walkthrough/enemy-floors.tsv') as tsvfile:
