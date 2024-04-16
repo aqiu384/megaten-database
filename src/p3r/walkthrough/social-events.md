@@ -825,7 +825,7 @@
 
 ### Social Links
 * Rank 1, 2, and 10 need 0 points to the next rank and are thus omitted
-* Emperor Rank 3
+* Emperor Rank 3 and Aeon Ranks 3-8 need 0 points to the next rank and are thus omitted
 * Devil and Sun need 0 points for all ranks and are thus omitted
 * All answer points are calculated without any SL bonus multipliers
 
@@ -883,402 +883,154 @@
 #### Magician
 * Magician Rank 1: Auto 4/22 After School
 * Magician Rank 2
-  * Gekkoukan Classroom > Talk to Kenji
-* Magician Rank 3: 20/15 points to next rank
-  * Choice 3: What, of life? (+15, 3 notes)
-  * Choice 2: Good luck! (+5, 1 note)
-* Magician Rank 4: 15/15 points to next rank
-  * Any
-  * Choice 1: Good luck! (+15, 3 notes)
-* Magician Rank 5: 15/15 points to next rank
-  * Choice 2: Okay... (+15, 3 notes)
-* Magician Rank 6: 15/15 points to next rank
-  * Any
-  * Choice 1: I've got plans already. (+15, 3 notes)
-* Magician Rank 7: 15/22 points to next rank
-  * Choice 1: What happened? (+5, 1 note)
-  * Choice 3: Bride-to-Be? (+5, 1 note)
-  * Choice 1: Congrats! (+5, 1 note)
-* Magician Rank 8: 20/22 points to next rank
-  * Choice 2: Are you in trouble? (+15, 3 notes)
-  * Choice 2: You two should talk it out. (+5, 1 note)
-* Magician Rank 9: 15/22 points to next rank
-  * Choice 2: Let me handle this! (+15, 3 notes)
+* Magician Rank 3
+* Magician Rank 4
+* Magician Rank 5
+* Magician Rank 6
+* Magician Rank 7
+* Magician Rank 8
+* Magician Rank 9
 * Magician Rank 10
 
 #### Priestess
 * Priestess Rank 1
-  * Requires Courage Lv. 6 and Fortune Rank 1
-  * Gekkoukan 2F Hallway > Talk to Fuuka
 * Priestess Rank 2
-* Priestess Rank 3: 30/15 points to next rank
-  * Choice 1: Just a dash or two. (+15, 3 notes)
-  * Choice 1: Just take it slow. (+15, 3 notes)
-  * Any
-* Priestess Rank 4: 20/22 points to next rank
-  * Any
-  * Choice 3: You're a hard worker (+5, 1 note)
-  * Choice 1: That's not true. (+15, 3 notes)
-* Priestess Rank 5: 35/30 points to next rank
-  * Choice 2: You did a great job. (+15, 3 notes)
-  * Choice 1: I'm glad I could help. (+5, 1 note)
-  * Choice 3: Can you make more sometime? (+15, 3 notes)
-* Priestess Rank 6: 30/30 points to next rank
-  * Choice 1: Of course. (+15, 3 notes)
-  * Choice 1: That's the spirit. (+15, 3 notes)
-* Priestess Rank 7: 5/35 points to next rank
-  * Any
-  * Any
-  * Choice 3. That's messed up. (+5, 1 note)
-  * **Choice 1: Is that the only reason? (+0, 0 notes)**
-* Priestess Rank 8: 10/40 points to next rank
-  * Choice 3: I've never thought about it. (+5, 1 note)
-  * Choice 1: Not at all. (+5, 1 note)
-* Priestess Rank 9 Romantic: 15/55 points to next rank
-  * Any
-  * Any
-  * Choice 1: I love you, Fuuka. (+15, 3 notes)
-  * Any
-* Priestess Rank 9 Platonic: 15/55 points to next rank
-  * Any
-  * Any
-  * Choice 2: We'll always be friends.
-  * Choice 1: Sure. (+15, 3 notes)
+* Priestess Rank 3
+* Priestess Rank 4
+* Priestess Rank 5
+* Priestess Rank 6
+* Priestess Rank 7
+* Priestess Rank 8
+* Priestess Rank 9 Romantic
+* Priestess Rank 9 Platonic
 * Priestess Rank 10
 
 #### Empress
 * Empress Rank 1
-  * Requires Academics Lv. 6 and 1st place in one exam
-  * Gekkoukan Faculty Hallway > Talk to Mitsuru
 * Empress Rank 2
-* Empress Rank 3: 30/22 points to next rank
-  * Choice 2: Why not give it a try? (+5, 1 note)
-  * Choice 2: Are you happy? (+15, 3 notes)
-  * Choice 2: Maybe you're anxious. (+5, 1 note)
-  * Choice 2: I heard nothing. (+5, 1 note)
-* Empress Rank 4: 20/22 points to next rank
-  * Choice 2: Did something happen? (+5, 1 note)
-  * Choice 1: It's all for love. (+15, 3 notes)
-  * Any
-* Empress Rank 5: 35/22 points to next rank
-  * Choice 2: Glad you enjoyed it. (+15, 3 notes)
-  * Choice 2: You're not suited? (+5, 1 note)
-  * Choice 2: Let's go for a ride. (+15, 3 notes)
-* Empress Rank 6: 20/22 points to next rank
-  * Choice 2: Need some help? (+5, 1 note)
-  * Any
-  * **Choice 1: Is it really? (+0, 0 notes)**
-  * Choice 3: I'll do something about it. (+15, 3 notes)
-* Empress Rank 7: 15/22 points to next rank
-  * Choice 1: I don't mind at all. (+15, 3 notes)
-* Empress Rank 8: 35/22 points to next rank
-  * Any
-  * Choice 1: Vent all you want. (+5, 1 note)
-  * **Choice 1: That's up to you. (+0, 0 notes)**
-  * Choice 2: Don't insult her father! (+15, 3 notes)
-  * Choice 1: Don't give in. (+15, 3 notes)
-* Empress Rank 9 Romantic: 15/22 points to next rank
-  * Choice 3: It made me happy. (+15, 3 notes)
-  * Any
-  * Choice 1: I love you too.
-  * Any
-* Empress Rank 9 Platonic: 15/22 points to next rank
-  * Choice 3: It made me happy. (+15, 3 notes)
-  * Any
-  * Choice 2: I'm sorry but...
-  * Any
+* Empress Rank 3
+* Empress Rank 4
+* Empress Rank 5
+* Empress Rank 6
+* Empress Rank 7
+* Empress Rank 8
+* Empress Rank 9 Romantic
+* Empress Rank 9 Platonic
 * Empress Rank 10
 
 #### Emperor
 * Emperor Rank 1
-  * Gekkoukan Faculty Office > Join student council
-  * Gekkoukan 2F Hallway > Student Council Room
 * Emperor Rank 2
 * Emperor Rank 3
-* Emperor Rank 4: 15/15 points to next rank
-  * Any
-  * Choice 2: Looks like you're hard at work. (+15, 3 notes)
-* Emperor Rank 5: 15/15 points to next rank
-  * Choice 1: They're the worst. (+15, 3 notes)
-* Emperor Rank 6: 15/15 points to next rank
-  * Any
-  * Choice 1: But I just got here... (+15, 3 notes)
-* Emperor Rank 7: 15/15 points to next rank
-  * Choice 2: It seems too harsh. (+15, 3 notes)
-* Emperor Rank 8: 15/22 points to next rank
-  * Any
-  * Choice 1: It wasn't me. (+15, 3 notes)
-* Emperor Rank 9: 15/22 points to next rank
-  * Choice 2: What matters is you realized it. (+15, 3 notes)
+* Emperor Rank 4
+* Emperor Rank 5
+* Emperor Rank 6
+* Emperor Rank 7
+* Emperor Rank 8
+* Emperor Rank 9
 * Emperor Rank 10
 
 #### Hierophant
 * Hierophant Rank 1
-  * Iwatodai Strip Mall 1F > Bookstore > Talk to Old Couple
-  * Gekkoukan Outdoor Corridor > Persimmon Tree > Obtain Persimmon Leaf
-  * Bookstore > Talk to Old Couple again
 * Hierophant Rank 2
-  * Obtain Melon Bread x2
-* Hierophant Rank 3: 20/20 points to next rank
-  * Choice 1: Looking for something? (+5, 1 note)
-  * Choice 2: Can I help? (+15, 3 notes)
-  * Any
-  * Obtain Medicine
-* Hierophant Rank 4: 20/20 points to next rank
-  * Choice 1: I should go too. (+15, 3 notes)
-  * Any
-  * Choice 2: I'm worried. (+5, 1 note)
-  * Obtain Cyclone Tea
-* Hierophant Rank 5: 10/20 points to next rank
-  * Choice 1: I wouldn't worry about it. (+5, 1 note)
-  * Choice 1: Cheer up. (+5, 1 note)
-  * Obtain Crab Bread
-* Hierophant Rank 6: 15/20 points to next rank
-  * Choice 2: Please don't fight. (+15, 3 notes)
-  * Any
-  * Obtain Fried Bread
-* Hierophant Rank 7: 15/20 points to next rank
-  * Choice 1: What happened? (+5, 1 note)
-  * Choice 2: That's great. (+5, 1 note)
-  * Choice 3: What are you talking about? (+5, 1 note)
-  * Obtain Cielo Mist
-* Hierophant Rank 8: 20/20 points to next rank
-  * Choice 1: A petitioner? (+5, 1 note)
-  * Any
-  * Choice 1: Sure, let's go. (+15, 3 notes)
-* Hierophant Rank 9: 5/30 points to next rank
-  * Choice 1: What does the letter say? (+5, 1 note)
-  * Any
+* Hierophant Rank 3
+* Hierophant Rank 4
+* Hierophant Rank 5
+* Hierophant Rank 6
+* Hierophant Rank 7
+* Hierophant Rank 8
+* Hierophant Rank 9
 * Hierophant Rank 10
 
 #### Lovers
 * Lovers Rank 1
-  * Requires Charm Lv. 6
-  * Gekkoukan Classroom > Talk to Yukari
 * Lovers Rank 2
-* Lovers Rank 3: 0/15 points to next rank
-  * Any
-* Lovers Rank 4: 15/22 points to next rank
-  * Choice 3: Are you okay? (+15, 3 notes)
-* Lovers Rank 5: 15/22 points to next rank
-  * Any
-  * Any
-  * Any
-  * Any
-  * Choice 1: I'm sorry. (+15, 3 notes)
-* Lovers Rank 6: 10/35 points to next rank
-  * Choice 3: Thank you, too. (+5, 1 note)
-  * Choice 1: I wouldn't mind. (+5, 1 note)
-* Lovers Rank 7: 15/35 points to next rank
-  * Choice 3: Let's go just the two of us. (+15, 3 notes)
-* Lovers Rank 8: 15/40 points to next rank
-  * Choice 1: All right. (+15, 3 notes)
-  * Any
-* Lovers Rank 9 Romantic: 15/55 points to next rank
-  * Choice 2: ...... (+15, 3 notes)
-  * Choice 1: I love you.
-* Lovers Rank 9 Platonic: 15/55 points to next rank
-  * Choice 2: ...... (+15, 3 notes)
-  * Choice 2: You're a precious friend.
+* Lovers Rank 3
+* Lovers Rank 4
+* Lovers Rank 5
+* Lovers Rank 6
+* Lovers Rank 7
+* Lovers Rank 8
+* Lovers Rank 9 Romantic
+* Lovers Rank 9 Platonic
 * Lovers Rank 10
 
 #### Chariot
 * Chariot Rank 1
-  * Gekkoukan Gym > Track Field
-  * Any
-  * Choice 1: I think I will. (Strength Flag 0.1)
-  * Choice 1: Wanna walk home together? (Strength Flag 0.1)
 * Chariot Rank 2
-  * Any
-  * Any
-  * Choice 1: I think I will. (Strength Flag 0.2)
-  * Choice 1: Wanna walk home together? (Strength Flag 0.2)
-* Chariot Rank 3: 10/15 points to next rank
-  * Choice 2: Are you going to be okay? (+5, 1 note)
-  * Choice 1: Will it heal? (+5, 1 note)
-* Chariot Rank 4: 15/15 points to next rank
-  * Any
-  * Choice 2: that really sucks. (+15, 3 notes)
-* Chariot Rank 5: 20/15 points to next rank
-  * Choice 1: Back from the hospital? (+5, 1 note)
-  * Choice 1: Take my shoulder! (+15, 3 notes)
-* Chariot Rank 6: 15/15 points to next rank
-  * Choice 2: Show some guts, man! (+5, 1 note)
-  * Choice 2: Why go so far? (+5, 1 note)
-  * Choice 2: What about your knee? (+5, 1 note)
-* Chariot Rank 7: 20/22 points to next rank
-  * Choice 1: How's your knee? (+5, 1 note)
-  * Choice 1: You have to get tougher! (+15, 3 notes)
-* Chariot Rank 8: 5/22 points to next rank
-  * Choice 2: ...... (+5, 1 note)
-* Chariot Rank 9: 15/22 points to next rank
-  * Choice 1: I don't mind at all. (+15, 3 notes)
+* Chariot Rank 3
+* Chariot Rank 4
+* Chariot Rank 5
+* Chariot Rank 6
+* Chariot Rank 7
+* Chariot Rank 8
+* Chariot Rank 9
 * Chariot Rank 10
 
 #### Justice
 * Justice Flag 0.1
-  * Requires Emperor Rank 1
-  * Gekkoukan 2F Hallway > Talk to Chihiro
-  * Choice 1: I just wanted to talk...
 * Justice Flag 0.2
-  * Choice 3: I'm a guy.
 * Justice Flag 0.3
-  * Choice 1: Hello.
-  * Choice 1: Let's hang out.
 * Justice Rank 1
 * Justice Rank 2
-* Justice Rank 3: 10/22 points to next rank
-  * Choice 1: They have no shame. (+5, 1 note)
-  * Choice 1: I agree. (+5, 1 note)
-* Justice Rank 4: 15/22 points to next rank
-  * Any
-  * Choice 2: I'm here for you. (+15, 3 notes)
-* Justice Rank 5: 50/22 points to next rank
-  * Choice 1: I'm all ears. (+10, 2 notes)
-  * Choice 1: Yeah, she's in love. (+15, 3 notes)
-  * Choice 1: Happy to help. (+10, 2 notes)
-  * Choice 1: Hold her hand. (+15, 3 notes)
-* Justice Rank 6: 20/30 points to next rank
-  * Choice 1: Is it good? (+15, 3 notes)
-  * Choice 2: What do you mean? (+5, 1 note)
-* Justice Rank 7: 10/30 points to next rank
-  * Choice 2: It's gotta be a misunderstanding. (+5, 1 note)
-  * Choice 2: We have to do something... (+5, 1 note)
-* Justice Rank 8: 5/30 points to next rank
-  * Any
-  * Choice 2: I know you're innocent. (+5, 1 note)
-* Justice Rank 9 Romantic: 15/40 points to next rank
-  * Choice 1: Don't worry, she'll help us. (+5, 1 note)
-  * Choice 2: You need to tell her yourself. (+5, 1 note)
-  * Any
-  * Choice 1: What's gotten into you? (+5, 1 note)
-  * Choice 1: I feel the same, Chihiro.
-  * Any
-* Justice Rank 9 Platonic: 15/40 points to next rank
-  * Choice 1: Don't worry, she'll help us. (+5, 1 note)
-  * Choice 2: You need to tell her yourself. (+5, 1 note)
-  * Any
-  * Choice 1: What's gotten into you? (+5, 1 note)
-  * Choice 2: I like working with you, but...
-  * Any
+* Justice Rank 3
+* Justice Rank 4
+* Justice Rank 5
+* Justice Rank 6
+* Justice Rank 7
+* Justice Rank 8
+* Justice Rank 9 Romantic
+* Justice Rank 9 Platonic
 * Justice Rank 10
 
 #### Hermit
 * Hermit Rank 1
-  * Your Room > Laptop > Play Online Game
 * Hermit Rank 2
-* Hermit Rank 3: 20/20 points to next rank
-  * Choice 1: Oh really? o_O (+5, 1 note)
-  * Choice 1: You don't like your job? (+15, 3 notes)
-* Hermit Rank 4: 15/20 points to next rank
-  * Choice 3: Let's plan our wedding, then? (+15, 3 notes)
-* Hermit Rank 5: 10/20 points to next rank
-  * Choice 3: Do you mean S.O.B.? (+5, 1 note)
-  * Choice 3: Are you a teacher? (+5, 1 note)
-* Hermit Rank 6: 15/20 points to next rank
-  * Choice 2: What bastard? (+15, 3 notes)
-* Hermit Rank 7: 20/20 points to next rank
-  * Choice 3: Well yeah. (+15, 3 notes)
-  * Choice 1: She um... what? (+5, 1 note)
-* Hermit Rank 8: 20/20 points to next rank
-  * Choice 2: Hurry up and tell me. (+15, 3 notes)
-  * Choice 1: What is he like? (+5, 1 note)
-* Hermit Rank 9: 10/20 points to next rank
-  * Choice 2: No way! (+5, 1 note)
-  * Any
-  * Choice 1: What are you planning? (+5, 1 note)
+* Hermit Rank 3
+* Hermit Rank 4
+* Hermit Rank 5
+* Hermit Rank 6
+* Hermit Rank 7
+* Hermit Rank 8
+* Hermit Rank 9
 * Hermit Rank 10
 
 #### Fortune
 * Fortune Rank 1
-  * Gekkoukan 1F Hallway > Art Club Room
 * Fortune Rank 2
-* Fortune Rank 3: 15/15 points to next rank
-  * Choice 1: You've got talent. (+15, 3 notes)
-  * Any
-* Fortune Rank 4: 10/15 points to next rank
-  * Choice 2: You're pulling out of the contest? (+5, 1 note)
-  * Choice 2: So you're just going to take it? (+5, 1 note)
-* Fortune Rank 5: 15/15 points to next rank
-  * Choice 1: You should tell your dad! (+15, 3 notes)
-* Fortune Rank 6: 15/15 points to next rank
-  * Any
-  * Choice 2: It's your choice now. (+15, 3 notes)
-* Fortune Rank 7: 15/15 points to next rank
-  * Choice 1: Do you want to be a doctor? (+15, 3 notes)
-* Fortune Rank 8: 15/22 points to next rank
-  * Choice 1: It's okay, I'm fine. (+15, 3 notes)
-  * Any
-  * Any
-* Fortune Rank 9: 15/22 points to next rank
-  * Choice 1: You can't go! (+15, 3 notes)
-  * Any
+* Fortune Rank 3
+* Fortune Rank 4
+* Fortune Rank 5
+* Fortune Rank 6
+* Fortune Rank 7
+* Fortune Rank 8
+* Fortune Rank 9
 * Fortune Rank 10
 
 #### Strength
 * Strength Rank 1
-  * Requires Chariot Rank 2
 * Strength Rank 2
-  * Gekkoukan 2F Hallway > Talk to Yuko
-* Strength Rank 3: 10/15 points to next rank
-  * Any
-  * Choice 2: Don't worry about it. (+5, 1 note)
-  * Choice 1: I'm honored. (+5, 1 note)
-* Strength Rank 4: 5/15 points to next rank
-  * Any
-  * Choice 1: Sure thing. (+5, 1 note)
-* Strength Rank 5: 15/22 points to next rank
-  * Choice 3: It's because you teach so well. (+10, 2 notes)
-  * Choice 3: I trust whatever you decide, Yuko. (+5, 1 note)
-* Strength Rank 6: 10/22 points to next rank
-  * Choice 1: You guys got this. (+5, 1 note)
-  * Choice 2: As long as we believe in them. (+5, 1 note)
-* Strength Rank 7: 20/35 points to next rank
-  * Any
-  * Choice 2: Are you relieved? (+5, 1 note)
-  * Choice 1: Let's do it. (+15, 3 notes)
-* Strength Rank 8: 5/40 points to next rank
-  * Any
-  * Any
-  * Choice 1: A boy. (+5, 1 note)
-* Strength Rank 9 Romantic: 20/40 points to next rank
-  * Any
-  * Choice 2: An instructor? (+15, 3 notes)
-  * Any
-  * Choice 1: It's because I love you.
-  * Choice 1: I love you, Yuko. (+5, 1 note)
-* Strength Rank 9 Platonic: 20/40 points to next rank
-  * Any
-  * Choice 2: An instructor? (+15, 3 notes)
-  * Any
-  * Choice 2: It's because you're a close friend.
-  * Choice 1: Okay, I will. (+5, 1 note)
+* Strength Rank 3
+* Strength Rank 4
+* Strength Rank 5
+* Strength Rank 6
+* Strength Rank 7
+* Strength Rank 8
+* Strength Rank 9 Romantic
+* Strength Rank 9 Platonic
 * Strength Rank 10
 
 #### Hanged
 * Hanged Flag 0.1
-  * Naganaki Shrine > Playground > Give her a Weird Takoyaki and Mad Bull
 * Hanged Rank 1
 * Hanged Rank 2
-* Hanged Rank 3: 15/20 points to next rank
-  * Any
-  * Choice 3: Don't worry, he'll be there. (+15, 3 notes)
-* Hanged Rank 4: 15/20 points to next rank
-  * Choice 2: Of course they care. (+15, 3 notes)
-* Hanged Rank 5: 20/20 points to next rank
-  * Choice 1: That's awful. (+15, 3 notes)
-  * Choice 2: They would never. (+5, 1 note)
-* Hanged Rank 6: 20/30 points to next rank
-  * Choice 2: Calm down. (+5, 1 note)
-  * Choice 1: That should be enough. (+15, 3 notes)
-* Hanged Rank 7: 0/15 points to next rank
-  * Any
-* Hanged Rank 8: 35/30 points to next rank
-  * Choice 1: Hamburgers. (+5, 1 note)
-  * Choice 1: You're a good girl. (+15, 3 notes)
-  * Choice 1: Your dad. (+15, 3 notes)
-* Hanged Rank 9: 15/30 points to next rank
-  * Choice 1: Friends forever. (+15, 3 notes)
+* Hanged Rank 3
+* Hanged Rank 4
+* Hanged Rank 5
+* Hanged Rank 6
+* Hanged Rank 7
+* Hanged Rank 8
+* Hanged Rank 9
 * Hanged Rank 10
 
 #### Death
@@ -1295,38 +1047,20 @@
 
 #### Temperance
 * Temperance Rank 1
-  * Requires Academics Lv. 2 and Hierophant Rank 3
-  * Gekkoukan 1F Hallway > Sewing Club Room
 * Temperance Rank 2
-* Temperance Rank 3: 20/15 points to next rank
-  * Choice 2: Thanks. (+5, 1 note)
-  * Choice 3: How about a kimono? (+15, 3 notes)
-* Temperance Rank 4: 15/15 points to next rank
-  * Choice 3: Are you alright? (+15, 3 notes)
-  * Any
-* Temperance Rank 5: 10/15 points to next rank
-  * Choice 1: Sure. (+5, 1 note)
-  * Choice 2: Just stay in Japan! (+5, 1 note)
-* Temperance Rank 6: 20/15 points to next rank
-  * Any
-  * Choice 1: Let's do it. (+5, 1 note)
-  * Choice 1: I have your back! (+15, 3 notes)
-* Temperance Rank 7: 15/10 points to next rank
-  * Choice 2: That's a great idea. (+15, 3 notes)
-* Temperance Rank 8: 15/22 points to next rank
-  * Choice 2: He'll definitely agree! (+15, 3 notes)
-* Temperance Rank 9: 15/22 points to next rank
-  * Choice 2: Aren't you homesick? (+15, 3 notes)
+* Temperance Rank 3
+* Temperance Rank 4
+* Temperance Rank 5
+* Temperance Rank 6
+* Temperance Rank 7
+* Temperance Rank 8
+* Temperance Rank 9
 * Temperance Rank 10
 
 #### Devil
 * Devil Flag 0.1
-  * Requires Hermit Rank 3, Charm Lv. 4, and (Y20000)
-  * Paulownia Mall > Front of Fountain > Pay him
 * Devil Flag 0.2
-  * Requires (Y10000)
 * Devil Rank 1
-  * Requires (Y10000)
 * Devil Rank 2
 * Devil Rank 3
 * Devil Rank 4
@@ -1339,110 +1073,43 @@
 
 #### Tower
 * Tower Rank 1
-  * Requires Courage Lv. 4
-  * Club Escapade > Upstairs > Talk to Monk
-  * Downstairs > Talk to Bartender
-  * Choice 4: Margarita
-  * Choice 2: Bloody Mary
-  * Choice 2: Screwdriver
-  * Choice 4: Oolong Tea
-  * Upstairs > Talk to Monk again
 * Tower Rank 2
-* Tower Rank 3: 15/25 points to next rank
-  * Choice 2: I don't have any friends (+15, 3 notes)
-* Tower Rank 4: 15/25 points to next rank
-  * Choice 1: Yeah, that might look cool. (+15, 3 notes)
-* Tower Rank 5: 20/25 points to next rank
-  * Choice 1: I have enough. (+5, 1 note)
-  * Choice 2: No. (+15, 3 notes)
-* Tower Rank 6: 20/30 points to next rank
-  * Choice 2: You should go home. (+15, 3 notes)
-  * Choice 2: Do you have any coworkers? (+5, 1 note)
-* Tower Rank 7: 15/30 points to next rank
-  * Choice 2: You probably shouldn't. (+15, 3 notes)
-* Tower Rank 8: 25/40 points to next rank
-  * Choice 1: Dad? (+15, 3 notes)
-  * Choice 1: I was with a friend. (+5, 1 note)
-  * Any
-  * Choice 2: Are you running away? (+5, 1 note)
-* Tower Rank 9: 15/40 points to next rank
-  * Choice 1: Why not take a break? (+5, 1 note)
-  * Choice 2: Time to retire? (+5, 1 note)
-  * Choice 1: What's this about? (+5, 1 note)
+* Tower Rank 3
+* Tower Rank 4
+* Tower Rank 5
+* Tower Rank 6
+* Tower Rank 7
+* Tower Rank 8
+* Tower Rank 9
 * Tower Rank 10
 
 #### Star
 * Star Rank 1
-  * Requires Courage Lv. 4
-  * Iwatodai Strip Mall 1F > Talk to Mamoru
 * Star Rank 2
-* Star Rank 3: 10/20 points to next rank
-  * Choice 1: For your teammates? (+5, 1 note)
-  * Choice 1: Sounds like fun. (+5, 1 note)
-* Star Rank 4: 15/20 points to next rank
-  * Choice 1: What are you doing? (+5, 1 note)
-  * Choice 1: That would be amazing! (+5, 1 note)
-  * Choice 2: Yeah, I bet it would. (+5, 1 note)
-* Star Rank 5: 10/20 points to next rank
-  * Choice 2: Are you okay? (+5, 1 note)
-  * Choice 2: I'll come back here with you. (+5, 1 note)
-* Star Rank 6: 15/20 points to next rank
-  * Any
-  * Any
-  * Any
-  * Choice 2: Don't worry, it's okay. (+15, 3 notes)
-* Star Rank 7: 25/30 points to next rank
-  * Choice 2: It's no problem at all. (+5, 1 note)
-  * Choice 2: Stop whining and do it. (+5, 1 note)
-  * Any
-  * Choice 2: Don't give up yet. (+15, 3 notes)
-* Star Rank 8: 20/30 points to next rank
-  * Choice 1: Do it! (+15, 3 notes)
-  * Choice 2: Don't sweat it. (+5, 1 note)
-* Star Rank 9: 20/30 points to next rank
-  * Choice 1: Did you win? (+5, 1 note)
-  * Choice 2: Congrats, man! (+5, 1 note)
-  * Choice 1: What will you do now? (+5, 1 note)
-  * Choice 1: Thanks! (+5, 1 note)
+* Star Rank 3
+* Star Rank 4
+* Star Rank 5
+* Star Rank 6
+* Star Rank 7
+* Star Rank 8
+* Star Rank 9
 * Star Rank 10
 
 #### Moon
 * Moon Flag 0.1
-  * Requires Magician Rank 3
-  * Talk to Kenji
 * Moon Rank 1
-  * Requires Charm Lv. 2 and an Odd Morsel
-  * Paulownia Mall > Fountain Bench > Talk to Student
-  * Choice 1: What are you eating?
-  * Choice 3: Pheremone Coffee.
-  * Choice 3: Red.
-  * Choice 2: Hagakure Bowl.
-  * Give him an Odd Morsel.
 * Moon Rank 2
-* Moon Rank 3: 15/15 points to next rank
-  * Choice 2: The Gourmet King. (+15, 3 notes)
-* Moon Rank 4: 15/15 points to next rank
-  * Choice 2: Are you feeling sick? (+15, 3 notes)
-* Moon Rank 5: 15/22 points to next rank
-  * Choice 1: That's right. (+15, 3 notes)
-* Moon Rank 6: 15/22 points to next rank
-  * Choice 3: Are you sick? (+15, 3 notes)
-* Moon Rank 7: 15/22 points to next rank
-  * Choice 3: The world is ending? (+15, 3 notes)
-  * Any
-* Moon Rank 8: 15/22 points to next rank
-  * Choice 2: No, you're not. (+15, 3 notes)
-* Moon Rank 9: 0/15 points to next rank
-  * Any
-  * Will momentarily reverse
+* Moon Rank 3
+* Moon Rank 4
+* Moon Rank 5
+* Moon Rank 6
+* Moon Rank 7
+* Moon Rank 8
+* Moon Rank 9
 * Moon Rank 10
 
 #### Sun
 * Sun Rank 1
-  * Requires Academics Lv. 4 and Hanged Rank 3
-  * Naganaki Shrine > Playground Bench > Talk to him
-  * Iwatodai Dorms > Koromaru > Obtain Red Fountain Pen
-  * Playground Bench > Talk to him again
 * Sun Rank 2
 * Sun Rank 3
 * Sun Rank 4
@@ -1467,7 +1134,6 @@
 
 #### Aeon
 * Aeon Rank 1
-  * Gekkoukan Classroom > Talk to Aigis
 * Aeon Rank 2
 * Aeon Rank 3
 * Aeon Rank 4
@@ -1475,8 +1141,7 @@
 * Aeon Rank 6
 * Aeon Rank 7
 * Aeon Rank 8
-* Aeon Rank 9: 15/30 points to next rank
-  * Choice 1: You're right. (+15, 3 notes)
+* Aeon Rank 9
 * Aeon Rank 10
 
 ### Linked Episodes
