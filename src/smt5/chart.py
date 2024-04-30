@@ -1,68 +1,127 @@
 #!/usr/bin/python3
+import struct
 import json
 
-RACES = []
-TABLE = []
+ELEMS = [
+    'Erthys',
+    'Aeros',
+    'Aquans',
+    'Flaemis'
+]
 
-with open('smtv-data - chart.tsv') as tsvfile:
-    for i, line in enumerate(tsvfile):
-        parts = line.split('\t')[1:]
-        parts[-1] = parts[-1].strip()
-        parts = [x for x in parts]
+RACES = [
+    'Herald',
+    'Megami',
+    'Avian',
+    'Divine',
+    'Yoma',
+    'Vile',
+    'Raptor',
+    'Deity',
+    'Wargod',
+    'Avatar',
+    'Holy',
+    'Genma',
+    'Fairy',
+    'Beast',
+    'Jirae',
+    'Fiend',
+    'Jaki',
+    'Wilder',
+    'Fury',
+    'Lady',
+    'Dragon',
+    'Kishin',
+    'Kunitsu',
+    'Femme',
+    'Brute',
+    'Fallen',
+    'Night',
+    'Snake',
+    'Tyrant',
+    'Drake',
+    'Haunt',
+    'Foul'
+]
 
-        if i == 0:
-            RACES = parts
-            continue
+def load_id_file(fname):
+    with open('Content/Blueprints/Gamedata/BinTable/' + fname) as tsvfile:
+        next(tsvfile)
+        return [x.split('\t')[0].strip() for x in tsvfile]
 
-        TABLE.append(parts)
+RACE_IDS = load_id_file('Common/DevilRace.tsv')
+DEMON_IDS = load_id_file('Common/CharacterName.tsv')
+DIFF_RACE_START = 0x85
+SAME_RACE_START = 0x805
+ELEMENT_START = 0x895
+SPECIAL_START = 0xA95
+UNKNOWN_START = 0xCD5
 
-with open('smtv-data - combos.tsv') as tsvfile:
-    for line in tsvfile:
-        race1, race2, raceR = line.split('\t')
-        raceR = raceR.strip()
+with open('Content/Blueprints/Gamedata/BinTable/Unite/UniteTable.bin', 'rb') as binfile:
+    NEW_FUSIONS = binfile.read()
 
-        r = RACES.index(race1)
-        c = RACES.index(race2)
-        res = RACES.index(raceR)
+fusion_lookup = { x: {} for x in RACE_IDS }
+elem_lookup = { x: {} for x in RACE_IDS }
+special_lookup = {}
 
-        rcrace = TABLE[r][c]
-        crrace = TABLE[c][r]
+for i in range(DIFF_RACE_START + 0x10, SAME_RACE_START, 4):
+    race1, race2, raceR = struct.unpack('<BBH', NEW_FUSIONS[i:i + 4])
+    race1 = RACE_IDS[race1]
+    race2 = RACE_IDS[race2]
+    raceR = RACE_IDS[raceR]
+    fusion_lookup[race1][race2] = raceR
+    fusion_lookup[race2][race1] = raceR
 
-        if rcrace == '' and crrace == '':
-            TABLE[r][c] = raceR
-            TABLE[c][r] = raceR
-        elif rcrace != raceR or crrace != raceR:
-            print(race1, race2, raceR, rcrace, crrace)
+for i in range(SAME_RACE_START + 0x10, ELEMENT_START, 4):
+    race1, race2, elem = struct.unpack('<BBH', NEW_FUSIONS[i:i + 4])
+    race1 = RACE_IDS[race1]
+    race2 = RACE_IDS[race2]
+    elem = DEMON_IDS[elem]
+    fusion_lookup[race1][race2] = elem
 
-for r in range(len(TABLE)):
-    for c in range(len(TABLE)):
-        if TABLE[r][c] != TABLE[c][r]:
-            print(RACES[r], RACES[c], TABLE[r][c])
-        if TABLE[r][c] == '' or TABLE[r][c] == 'XXXX':
-            TABLE[r][c] = '-'
-            TABLE[c][r] = '-'
+for i in range(ELEMENT_START + 0x10, SPECIAL_START, 4):
+    race1, elem, rank = struct.unpack('<BHB', NEW_FUSIONS[i:i + 4])
+    race1 = RACE_IDS[race1]
+    elem = DEMON_IDS[elem]
+    elem_lookup[race1][elem] = 1 if rank == 1 else -1
 
-NRACES = [''.join(('|' + x + '|,        ')[:10] for x in RACES[:-4]).strip()[1:-2]]
+for i in range(SPECIAL_START + 0x10, UNKNOWN_START - 12, 12):
+    ingreds = struct.unpack('<6H', NEW_FUSIONS[i:i + 12])
+    ingreds = [DEMON_IDS[x] for x in ingreds[1:] if x > 0]
+    special_lookup[ingreds[-1]] = ingreds[:-1]
+
+NRACES = [''.join(('|' + x + '|,        ')[:10] for x in RACES).strip()[1:-2]]
+ERACES = []
 NTABLE = []
 ETABLE = []
 
-for r in range(len(TABLE) - 4):
-    row = TABLE[r][:r + 1]
+for i, race1 in enumerate(RACES):
+    row = [fusion_lookup[race1].get(race2, '-') for race2 in RACES[:i + 1]]
     row = '[' + ''.join(('|' + x + '|,        ')[:10] for x in row).strip()[:-1] + ']'
     NTABLE.append(row)
 
-    row = TABLE[r][-4:]
-    row = '[' + ''.join((' ' + str(int(x)) + ', ')[-4:] for x in row)[:-2] + ']'
-    ETABLE.append(row)
+for race1 in RACES:
+    row = [elem_lookup[race1].get(elem, 0) for elem in ELEMS]
 
-OTEXT = json.dumps({ 'races': NRACES, 'table': NTABLE }, indent=2, sort_keys=True)
-OTEXT = 'const SMT5_FUSION_CHART = ' + OTEXT.replace('"[', '[').replace(']"', ']').replace('|', '"').replace('0', '-')
+    if row[0] != 0:
+        row = '[' + ''.join((' ' + str(int(x)) + ', ')[-4:] for x in row)[:-2] + ']'
+        ERACES.append(race1)
+        ETABLE.append(row)
 
-with open('../docs/smt5/fusion-chart.js', 'w+') as jsonfile:
+with open('fusion-chart.json', 'w+') as jsonfile:
+    OTEXT = json.dumps({ 'races': NRACES, 'table': NTABLE }, indent=2, sort_keys=True)
+    OTEXT = OTEXT.replace('"[', '[').replace(']"', ']').replace('|', '"')
     jsonfile.write(OTEXT)
 
-OTEXT = json.dumps({ 'elems': RACES[-4:], 'races': RACES[:-4], 'table': ETABLE }, indent=2, sort_keys=True)
-OTEXT = 'const SMT5_ELEMENT_CHART = ' + OTEXT.replace('"[', '[').replace(']"', ']')
+with open('element-chart.json', 'w+') as jsonfile:
+    OTEXT = json.dumps({ 'elems': ELEMS, 'races': ERACES, 'table': ETABLE }, indent=2, sort_keys=True)
+    OTEXT = OTEXT.replace('"[', '[').replace(']"', ']')
+    jsonfile.write(OTEXT)
 
-with open('../docs/smt5/element-chart.js', 'w+') as jsonfile:
+for result, recipe in special_lookup.items():
+    special_lookup[result] = '[|' + '|, |'.join(recipe) + '|]'
+
+with open('new-special-recipes.json', 'w+') as jsonfile:
+    OTEXT = json.dumps(special_lookup, indent=2, sort_keys=True)
+    OTEXT = OTEXT.replace('"[', '[').replace(']"', ']').replace('|', '"')
     jsonfile.write(OTEXT)
