@@ -1,0 +1,857 @@
+en	desc
+USE_00	USE_00
+Life Stone	Slight HP recovery to <item_tgt>.
+Chakra Drop	Slight set MP recovery to <item_tgt>.
+Chakra Pot	Large set MP recovery to <item_tgt>.
+Bead	Full HP recovery to <item_tgt>.
+Bead Chain	Full HP recovery to <item_tgt>.
+Soma	Full HP and MP recovery to <item_tgt>.
+Revival Bead	Revive <item_tgt> at 0 HP.
+Balm of Life	Fully revive <item_tgt> at 0 HP.
+Amrita Soda	Cure status ailments on <item_tgt>.
+Amrita Shower	Cure status ailments on <item_tgt>.
+Medicine	Slight set HP recovery to <item_tgt>.
+Ox Bezoar	Moderate set HP recovery to <item_tgt>.
+Ambrosia	Large set HP recovery to <item_tgt>.
+Muscle Drink	Recover HP beyond max health to <item_tgt> but has a chance to inflict Charm/Confusion/Mirage.
+USE_15	USE_15
+USE_16	USE_16
+Fire Shard	Weak Fire attack to <item_tgt>.
+Ice Shard	Weak Ice attack to <item_tgt>.
+Elec Shard	Weak Electric attack to <item_tgt>.
+Force Shard	Weak Force attack to <item_tgt>.
+Light Shard	Weak Light attack to <item_tgt>. Chance of instakill when striking weakness.
+Dark Shard	Weak Dark attack to <item_tgt>. Chance of instakill when striking weakness.
+Fire Gem	Heavy Fire attack to <item_tgt>.
+Ice Gem	Heavy Ice attack to <item_tgt>.
+Elec Gem	Heavy Electric attack to <item_tgt>.
+Force Gem	Heavy Force attack to <item_tgt>.
+Light Gem	Heavy Light attack to <item_tgt>. Chance of instakill when striking weakness.
+Dark Gem	Heavy Dark attack to <item_tgt>. Chance of instakill when striking weakness.
+USE_29	USE_29
+USE_30	USE_30
+USE_31	USE_31
+USE_32	USE_32
+USE_33	USE_33
+USE_34	USE_34
+USE_35	USE_35
+USE_36	USE_36
+Poison Gem	Chance of inflicting Poison to <item_tgt>.
+Sleep Gem	Chance of inflicting Sleep to <item_tgt>.
+Confusion Gem	Chance of inflicting Confusion to <item_tgt>.
+Mirage Gem	Chance of inflicting Mirage to <item_tgt>.
+Seal Gem	Chance of inflicting Seal to <item_tgt>.
+Charm Gem	Chance of inflicting Charm to <item_tgt>.
+Charge Gem	Greatly increases the damage of next Strength-based attack for <item_tgt>.
+Concentrate Gem	Greatly increases the damage of next Magic-based attack for <item_tgt>.
+Critical Gem	Guarantees the next Strength-based attack for <item_tgt> will be both 100% accurate and a Critical hit.
+Spirit Drain Gem	Weak Almighty MP drain attack to <item_tgt>.
+Life Drain Gem	Weak Almighty HP/MP drain attack to <item_tgt>.
+USE_48	USE_48
+USE_49	USE_49
+Purge Charm	Negates status buff effects on <item_tgt>.
+Dispel Charm	Negates status debuff effects on <item_tgt>.
+Attack Mirror	Reflects a Physical attack once for <item_tgt> for 1 turn.
+Magic Mirror	Reflects a Magic attack once for <item_tgt> for 1 turn.
+USE_54	USE_54
+Spyglass	Displays info for <item_tgt>.
+USE_56	USE_56
+USE_57	USE_57
+USE_58	USE_58
+USE_59	USE_59
+Whittled Goat	When the Nahobino's HP reaches 0, the item is sacrificed to revive him at full HP.
+Smoke Ball	Guarantees escape from battle upon use.
+Phys Dampener	Nullifies a Physical attack against <item_tgt> once for 1 turn.
+Fire Dampener	Nullifies a Fire attack against <item_tgt> once for 1 turn.
+Ice Dampener	Nullifies an Ice attack against <item_tgt> once for 1 turn.
+Elec Dampener	Nullifies an Electric attack once for <item_tgt> for 1 turn.
+Force Dampener	Nullifies a Force attack against <item_tgt> once for 1 turn.
+Light Dampener	Nullifies a Light attack against <item_tgt> once for 1 turn.
+Dark Dampener	Nullifies a Dark attack against <item_tgt> once for 1 turn.
+USE_69	USE_69
+Return Pillar	Return to the last visited leyline fount. Item is not consumed upon use.
+Repulse Bell	Prevents any enemy encounters until next New Moon.
+USE_72	USE_72
+USE_73	USE_73
+USE_74	USE_74
+USE_75	USE_75
+USE_76	USE_76
+USE_77	USE_77
+USE_78	USE_78
+USE_79	USE_79
+USE_80	USE_80
+USE_81	USE_81
+Gospel	Grants the Nahobino enough EXP to level up.
+Grimoire	Grants a demon at a lower level than the Nahobino enough EXP to level up.
+Health Balm	Increases the Nahobino's max HP.
+Stamina Balm	Increases the Nahobino's max MP.
+Strength Balm	Increases the Nahobino's Strength by 1.
+Magic Balm	Increases the Nahobino's Magic by 1.
+Vitality Balm	Increases the Nahobino's Vitality by 1.
+Agility Balm	Increases the Nahobino's Agility by 1.
+Luck Balm	Increases the Nahobino's Luck by 1.
+Health Incense	Increases a demon's max HP.
+Stamina Incense	Increases a demon's max MP.
+Strength Incense	Increases a demon's Strength by 1.
+Magic Incense	Increases a demon's Magic by 1.
+Vitality Incense	Increases a demon's Vitality by 1.
+Agility Incense	Increases a demon's Agility by 1.
+Luck Incense	Increases a demon's Luck by 1.
+Battle Sutra	Increases a demon’s Phys skill potential by 1. (max: +9)
+Fire Sutra	Increases a demon’s Fire skill potential by 1. (max: +9)
+Ice Sutra	Increases a demon’s Ice skill potential by 1. (max: +9)
+Elec Sutra	Increases a demon’s Elecy skill potential by 1. (max: +9)
+Force Sutra	Increases a demon’s Force skill potential by 1. (max: +9)
+Light Sutra	Increases a demon’s Light skill potential by 1. (max: +9)
+Dark Sutra	Increases a demon’s Dark skill potential by 1. (max: +9)
+Destruction Sutra	Increases a demon’s Almighty skill potential by 1. (max: +9)
+Healing Sutra	Increases a demon's Healing skill potential by 1. (max: +5)
+Aiding Sutra	Increases a demon's Support skill potential by 1. (max: +5)
+Calamity Sutra	Increases a demon’s Ailment skill potential by 1. (max: +9)
+Small Glory Crystal	Grants 10 Glory.
+Large Glory Crystal	Grants 100 Glory.
+USE_111	USE_111
+USE_112	USE_112
+USE_113	USE_113
+USE_114	USE_114
+USE_115	USE_115
+USE_116	USE_116
+USE_117	USE_117
+USE_118	USE_118
+USE_119	USE_119
+USE_120	USE_120
+USE_121	USE_121
+USE_122	USE_122
+USE_123	USE_123
+USE_124	USE_124
+USE_125	USE_125
+USE_126	USE_126
+USE_127	USE_127
+USE_128	USE_128
+USE_129	USE_129
+USE_130	USE_130
+USE_131	USE_131
+USE_132	USE_132
+USE_133	USE_133
+USE_134	USE_134
+USE_135	USE_135
+USE_136	USE_136
+USE_137	USE_137
+USE_138	USE_138
+USE_139	USE_139
+USE_140	USE_140
+USE_141	USE_141
+USE_142	USE_142
+USE_143	USE_143
+USE_144	USE_144
+USE_145	USE_145
+USE_146	USE_146
+USE_147	USE_147
+USE_148	USE_148
+USE_149	USE_149
+USE_150	USE_150
+USE_151	USE_151
+USE_152	USE_152
+USE_153	USE_153
+USE_154	USE_154
+USE_155	USE_155
+USE_156	USE_156
+USE_157	USE_157
+USE_158	USE_158
+USE_159	USE_159
+USE_160	USE_160
+USE_161	USE_161
+USE_162	USE_162
+USE_163	USE_163
+USE_164	USE_164
+USE_165	USE_165
+USE_166	USE_166
+USE_167	USE_167
+USE_168	USE_168
+USE_169	USE_169
+USE_170	USE_170
+USE_171	USE_171
+USE_172	USE_172
+USE_173	USE_173
+USE_174	USE_174
+USE_175	USE_175
+USE_176	USE_176
+USE_177	USE_177
+USE_178	USE_178
+USE_179	USE_179
+USE_180	USE_180
+USE_181	USE_181
+USE_182	USE_182
+USE_183	USE_183
+USE_184	USE_184
+USE_185	USE_185
+USE_186	USE_186
+USE_187	USE_187
+USE_188	USE_188
+USE_189	USE_189
+USE_190	USE_190
+USE_191	USE_191
+USE_192	USE_192
+USE_193	USE_193
+USE_194	USE_194
+USE_195	USE_195
+USE_196	USE_196
+USE_197	USE_197
+USE_198	USE_198
+USE_199	USE_199
+USE_200	USE_200
+USE_201	USE_201
+USE_202	USE_202
+USE_203	USE_203
+USE_204	USE_204
+USE_205	USE_205
+USE_206	USE_206
+USE_207	USE_207
+USE_208	USE_208
+USE_209	USE_209
+USE_210	USE_210
+USE_211	USE_211
+USE_212	USE_212
+USE_213	USE_213
+USE_214	USE_214
+USE_215	USE_215
+USE_216	USE_216
+USE_217	USE_217
+USE_218	USE_218
+USE_219	USE_219
+USE_220	USE_220
+SKILLGET_1	SKILLGET_1
+SKILLGET_2	SKILLGET_2
+SKILLGET_3	SKILLGET_3
+SKILLGET_4	SKILLGET_4
+SKILLGET_5	SKILLGET_5
+SKILLGET_6	SKILLGET_6
+SKILLGET_7	SKILLGET_7
+SKILLGET_8	SKILLGET_8
+SKILLGET_9	SKILLGET_9
+SKILLGET_10	SKILLGET_10
+SKILLGET_11	SKILLGET_11
+SKILLGET_12	SKILLGET_12
+SKILLGET_13	SKILLGET_13
+SKILLGET_14	SKILLGET_14
+SKILLGET_15	SKILLGET_15
+SKILLGET_16	SKILLGET_16
+SKILLGET_17	SKILLGET_17
+SKILLGET_18	SKILLGET_18
+SKILLGET_19	SKILLGET_19
+SKILLGET_20	SKILLGET_20
+SKILLGET_21	SKILLGET_21
+SKILLGET_22	SKILLGET_22
+SKILLGET_23	SKILLGET_23
+SKILLGET_24	SKILLGET_24
+SKILLGET_25	SKILLGET_25
+SKILLGET_26	SKILLGET_26
+SKILLGET_27	SKILLGET_27
+SKILLGET_28	SKILLGET_28
+SKILLGET_29	SKILLGET_29
+SKILLGET_30	SKILLGET_30
+SKILLGET_31	SKILLGET_31
+SKILLGET_32	SKILLGET_32
+SKILLGET_33	SKILLGET_33
+SKILLGET_34	SKILLGET_34
+SKILLGET_35	SKILLGET_35
+SKILLGET_36	SKILLGET_36
+SKILLGET_37	SKILLGET_37
+SKILLGET_38	SKILLGET_38
+SKILLGET_39	SKILLGET_39
+SKILLGET_40	SKILLGET_40
+SKILLGET_41	SKILLGET_41
+SKILLGET_42	SKILLGET_42
+SKILLGET_43	SKILLGET_43
+SKILLGET_44	SKILLGET_44
+SKILLGET_45	SKILLGET_45
+SKILLGET_46	SKILLGET_46
+SKILLGET_47	SKILLGET_47
+SKILLGET_48	SKILLGET_48
+SKILLGET_49	SKILLGET_49
+SKILLGET_50	SKILLGET_50
+SKILLGET_51	SKILLGET_51
+SKILLGET_52	SKILLGET_52
+SKILLGET_53	SKILLGET_53
+SKILLGET_54	SKILLGET_54
+SKILLGET_55	SKILLGET_55
+SKILLGET_56	SKILLGET_56
+SKILLGET_57	SKILLGET_57
+SKILLGET_58	SKILLGET_58
+SKILLGET_59	SKILLGET_59
+SKILLGET_60	SKILLGET_60
+SKILLGET_61	SKILLGET_61
+SKILLGET_62	SKILLGET_62
+SKILLGET_63	SKILLGET_63
+SKILLGET_64	SKILLGET_64
+SKILLGET_65	SKILLGET_65
+SKILLGET_66	SKILLGET_66
+SKILLGET_67	SKILLGET_67
+SKILLGET_68	SKILLGET_68
+SKILLGET_69	SKILLGET_69
+SKILLGET_70	SKILLGET_70
+SKILLGET_71	SKILLGET_71
+SKILLGET_72	SKILLGET_72
+SKILLGET_73	SKILLGET_73
+SKILLGET_74	SKILLGET_74
+SKILLGET_75	SKILLGET_75
+SKILLGET_76	SKILLGET_76
+SKILLGET_77	SKILLGET_77
+SKILLGET_78	SKILLGET_78
+SKILLGET_79	SKILLGET_79
+SKILLGET_80	SKILLGET_80
+SKILLGET_81	SKILLGET_81
+SKILLGET_82	SKILLGET_82
+SKILLGET_83	SKILLGET_83
+SKILLGET_84	SKILLGET_84
+SKILLGET_85	SKILLGET_85
+SKILLGET_86	SKILLGET_86
+SKILLGET_87	SKILLGET_87
+SKILLGET_88	SKILLGET_88
+SKILLGET_89	SKILLGET_89
+SKILLGET_90	SKILLGET_90
+Khonsu's Essence	Phys/Fire/Light attack skills. Strong against Light.
+Zeus's Essence	Attack/support/passive skills, many associated with Elec. Strong against Elec/Light/Dark.
+Odin's Essence	Mostly Phys/Elec attack skills. Strong against Elec/Dark.
+Mitra's Essence	Attack/recovery/support/passive skills. Strong against Light.
+Atavaka's Essence	Mostly Light attack skills. Strong against Light/Dark.
+Horus's Essence	Attack/recovery/support/passive skills. Strong against Light.
+Thoth's Essence	Mostly passive skills; some attack/support as well. Strong against Fire.
+Khonsu Ra's Essence	Almighty/Fire/Light attack skills. Strong against Light/Dark/Seal.
+Vishnu's Essence	Mostly attack skills; some recovery/passive as well. Strong against Light/Dark.
+Baal's Essence	Attack/ailment/support/passive skills. Strong against Elec/Light.
+Demeter's Essence	Attack/recovery/support/passive skills. Strong against Light/Dark.
+Anahita's Essence	Attack/recovery/support/passive skills. Strong against Ice/Light.
+Lakshmi's Essence	Attack/ailment/recovery/support/passive skills. Strong against Light/Charm.
+Norn's Essence	Recovery/support skills. Strong against Dark.
+Idun's Essence	Attack/ailment/recovery/passive skills. Strong against Light.
+Sarasvati's Essence	Attack/ailment/support skills. Strong against Ice/Charm.
+Ishtar's Essence	Attack/recovery/support/passive skills. Strong against Elec/Light.
+Scathach's Essence	Mostly attack skills; some recovery/ailment/passive as well. Strong against Force.
+Parvati's Essence	Attack/recovery/support/passive skills. Strong against Confusion.
+Ame-no-Uzume's Essence	Mostly Elec attack skills. Strong against Elec.
+Fortuna's Essence	Attack/recovery/support/passive skills. Strong against Force.
+Maria's Essence	Mostly recovery skills; some attack/support/passive as well. Strong against Force/Light/Sleep.
+Artemis's Essence	Mostly Physical attack skills. Strong against Ice/Elec.
+Hanuman's Essence	Mostly attack skills; some recovery/passive as well. Strong against Force.
+Fionn's Essence	Mostly attack skills. Strong against Fire/Sleep/Seal.
+Cu Chulainn's Essence	Mostly Phys/Force attack skills. Strong against Force.
+Kurama Tengu's Essence	Phys/Force/Light attack skills. Strong against Force.
+Amanozako's Essence	Elec/Force/Almighty attack skills. Strong against Elec/Force.
+Koppa Tengu's Essence	Mostly Force attack and support skills. Slightly strong against Force/Sleep.
+Apsaras's Essence	Mostly Ice attack skills; some recovery/support as well. Strong against Ice; slightly strong against Charm/Sleep.
+Agathion's Essence	Mostly Electric attack skills; some recovery/support as well. Strong against Electric.
+Mandrake's Essence	Only Phys/Elec attack skills. Slightly strong against Electric.
+Titania's Essence	Attack/ailment/recovery/support/passive skills. Strong against Light.
+Oberon's Essence	Attack/recovery/support skills. Strong against Force.
+Silky's Essence	Attack/recovery/support/passive skills. Strong against Ice/Sleep.
+Setanta's Essence	Mostly Physical attack skills. Strong against Force.
+Kelpie's Essence	Attack/ailment/recovery/support/passive skills. Strong against Mirage.
+High Pixie's Essence	Attack/recovery/support skills. Slightly strong against Force/Confusion/Seal.
+Jack-o’-Lantern's Essence	Mostly Fire attack skills. Strong against Fire.
+Jack Frost's Essence	Mostly Ice attack skills. Strong against Ice.
+Pixie's Essence	Mostly recovery skills; some attack/support as well. Slightly strong against Force.
+Queen Medb's Essence	Mostly attack skills. Strong against Force.
+Succubus's Essence	Attack/ailment/support/passive skills. Strong against Ice/Charm/Sleep.
+Kaiwan's Essence	Attack/ailment/support/passive skills. Strong against Dark.
+Lilim's Essence	Mostly Electric attack skills. Strong against Elec/Charm.
+Incubus's Essence	Mostly Physical attack skills with ailment effects. Strong against Charm.
+Mokoi's Essence	Mostly ailment skills. Slightly strong against Electric.
+Sandman's Essence	Mostly Phys/Ice/Force attack skills. Strong against Sleep.
+Lilith's Essence	Mostly Almighty attack skills. Slightly strong against Fire/Ice/Elec/Dark.
+Black Frost's Essence	Mostly attack skills of 3 different affinities. Strong against Ice/Dark.
+Nuwa's Essence	Mostly Force attack skills. Strong against Force/Charm.
+Amon's Essence	Mostly attack skills; some support/passive as well. Strong against Fire.
+Mara's Essence	Attack/ailment/support skills. Strong against Elec/Charm.
+Mephisto's Essence	Attack/ailment/support skills. Strong against Phys/Dark.
+Chi You's Essence	Mostly Physical attack skills. Strong against Force/Ice.
+Surt's Essence	Phys/Fire attack skills. Strong against Fire.
+Beelzebub's Essence	Ice/Elec/Dark attack skills. Strong against Elec/Dark.
+Arioch's Essence	Mostly Phys/Ice attack skills. Strong against Ice.
+Belial's Essence	Mostly Phys/Fire/Dark attack skills. Strong against Fire/Dark.
+Abaddon's Essence	Mostly Phys attack/passive skills. Strong against Fire.
+Moloch's Essence	Mostly Phys/Fire/Dark attack skills. Strong against Fire.
+Belphegor's Essence	Attack/support skills. Strong against Ice/Dark.
+King Frost's Essence	Attack/support skills. Strong against Ice.
+Mithras's Essence	Mostly attack skills; some support/passive as well. Strong against Fire/Light.
+Loki's Essence	Mostly Fire/Ice/Elec/Force attack skills. Strong against Ice.
+Huang Long's Essence	Attack/recovery/support/passive skills. Strong against Light.
+Quetzalcoatl's Essence	Attack/support skills. Strong against Fire.
+Qing Long's Essence	Mostly attack skills; some support/passive as well. Strong against Force.
+Xuanwu's Essence	Mostly attack skills; some support as well. Strong against Ice.
+Ananta's Essence	Mostly Strength-based attack skills. Strong against Ice/Elec/Light.
+Yamata-no-Orochi's Essence	Strength-based attack/passive skills. Strong against Fire/Ice.
+Naga Raja's Essence	Mostly Phys/Ice/Elec attack skills. Strong against Elec.
+Yurlungur's Essence	Attack/recovery/support/passive skills. Strong against Elec.
+Naga's Essence	Mostly Phys attack skills. Strong against Elec/Seal.
+Vasuki's Essence	Attack/ailment/passive skills. Strong against Ice.
+Seth's Essence	Mostly Phys/Elec/Force attack skills. Strong against Elec.
+Basilisk's Essence	Attack/ailment/support/passive skills. Slightly strong against Fire/Ice/Poison.
+Aitvaras's Essence	Fire attack/support skills. Strong against Fire.
+Hydra's Essence	Mostly Phys attack skills. Strong against Fire.
+Fafnir's Essence	Mostly ailment skills; some attack/passive as well. Strong against Poison.
+Barong's Essence	Attack/support/passive skills. Strong against Elec/Light.
+Anubis's Essence	Attack/support skills. Strong against Light.
+Makami's Essence	Attack/recovery/support/passive skills. Slightly strong against Light.
+Baihu's Essence	Mostly Phys/Elec attack skills. Strong against Elec.
+Chimera's Essence	Mostly Strength-based Phys attack skills. Strong against Elec.
+Cironnup's Essence	Mostly attack skills; some support/passive as well. Slighty strong against Fire/Ice/Light.
+Shiisaa's Essence	Mostly Phys/Elec attack skills. Slightly strong against Elec/Force.
+Cerberus's Essence	Mostly Phys attack skills. Strong against Fire.
+Orthrus's Essence	Mostly Phys/Fire attack skills. Strong against Fire.
+Loup-garou's Essence	Mostly Phys attack skills. Strong against Elec.
+Nekomata's Essence	Mostly Phys attack skills. Strong against Force.
+Inugami's Essence	Attack/support/passive skills. Strong against Fire.
+Orobas's Essence	Mostly Phys/Fire/Dark/Almighty attack skills. Strong against Confusion.
+Cait Sith's Essence	Attack/recovery skills. Slightly strong against Elec.
+Bugs's Essence	Attack/ailment/support/passive skills. Strong against Dark.
+Nue's Essence	Mostly Phys/Elec attack skills. Strong against Elec.
+Bicorn's Essence	Attack/support/passive skills. Strong against Dark.
+Mothman's Essence	Attack/ailment/recovery/support skills. Strong against Elec.
+Hayataro's Essence	Attack/recovery/support/passive skills. Strong against Elec.
+Flaemis's Essence	Fire attack/ailment skills. Slightly strong against Fire.
+Aquans's Essence	Ice attack/ailment skills. Slightly strong against Ice.
+Aeros's Essence	Force attack/ailment skills. Slightly strong against Force.
+Erthys's Essence	Elec attack/ailment skills. Slightly strong against Elec.
+UTSUSEMI_104	UTSUSEMI_104
+UTSUSEMI_105	UTSUSEMI_105
+UTSUSEMI_106	UTSUSEMI_106
+UTSUSEMI_107	UTSUSEMI_107
+Black Ooze's Essence	Attack/ailment/passive skills. Slightly strong against Phys.
+Legion's Essence	Attack/ailment/passive skills. Strong against Dark.
+Slime's Essence	Attack/ailment skills. Slightly strong against Poison.
+Shiva's Essence	Mostly Phys/Fire/Elec attack skills. Strong against Fire/Elec.
+Mot's Essence	Mostly Fire/Force/Dark attack skills. Strong against Fire/Dark.
+Zaou-Gongen's Essence	Attack/passive skills. Strong against Charm/Confusion/Mirage/Sleep.
+Asura's Essence	Mostly Phys attack skills. Strong against Fire/Light.
+Chernobog's Essence	Attack/passive skills. Strong against Dark.
+Dionysus's Essence	Mostly attack skills. Strong against Fire/Charm.
+Danu's Essence	Attack/support/passive skills. Strong against Light.
+Inanna's Essence	Almighty attack/support skills. Strong against Fire/Ice/Elec/Force.
+Kali's Essence	Mostly Phys attack skills. Strong against Fire/Dark.
+Cybele's Essence	Attack/ailment/recovery/passive skills. Strong against Light.
+Skadi's Essence	Mostly Ice/Dark attack skills. Strong against Dark/Seal.
+Isis's Essence	Attack/recovery/support skills. Strong against Elec.
+Kikuri-Hime's Essence	Attack/recovery/support/passive skills. Strong against Force.
+Hariti's Essence	Mostly attack skills; some ailment/recovery as well. Strong against Dark.
+Nuwa's Essence	Mostly Ice/Elec/Force attack skills. Strong against Force/Charm.
+Alilat's Essence	Mostly support skills; some attack/recovery as well. Strong against Poison/Sleep/Seal.
+Thor's Essence	Mostly Phys/Elec attack skills. Strong against Elec.
+Futsunushi's Essence	Mostly Phys attack/support/passive skills. Strong against Confusion/Mirage.
+Attis's Essence	Mostly attack skills; some recovery/support/passive as well. Strong against Fire.
+Bishamonten's Essence	Mostly attack/support skills. Strong against Fire/Light.
+Jikokuten's Essence	Attack/support/ailment/passive skills. Strong against Ice.
+Koumokuten's Essence	Mostly attack; support/passive as well. Strong against Force.
+Zouchouten's Essence	Attack/support skills. Strong against Light.
+Arahabaki's Essence	Attack/support/passive skills. Strong against Phys.
+Oyamatsumi's Essence	Attack/recovery/support skills. Strong against Dark.
+Kushinada-Hime's Essence	Attack/recovery/support/passive skills. Strong against Light.
+Sukuna-Hikona's Essence	Mostly attack skills; some support/passive as well. Strong against Ice.
+Okuninushi's Essence	Attack/recovery/support skills. Slightly strong against Light/Dark.
+Take-Minakata's Essence	Mostly attack skills; some support/passive as well. Slightly strong against Elec.
+Ganesha's Essence	Mostly Strength-based attack skills. Strong against Force.
+Siegfried's Essence	Mostly Phys attack skills. Strong against Phys.
+Valkyrie's Essence	Attack/passive skills. Strong against Light.
+Yoshitsune's Essence	Attack/passive skills. Strong against Mirage.
+Neko Shogun's Essence	Attack/recovery/support skills. Strong against Elec.
+Mada's Essence	Mostly Phys/Fire attack skills; some recovery/support/passive as well. Strong against Fire/Dark.
+Girimekhala's Essence	Attack/ailment/support/passive skills. Strong against Phys.
+Pazuzu's Essence	Attack/ailment/support/passive skills. Strong against Dark.
+Mishaguji's Essence	Mostly attack skills; 3 different elements. Strong against Elec/Dark.
+Baphomet's Essence	Mostly Dark attack/support/passive skills. Strong against Dark.
+Lahmu's Essence	Mostly attack skills; 5 different elements. Strong against Dark/Confusion.
+Abdiel's Essence	Mostly Phys/Elec/Force/Light attack skills. Strong against Light.
+Metatron's Essence	Attack/support/passive skills. Strong against Light.
+Michael's Essence	Mostly Phys/Fire/Almighty attack skills. Strong against Fire/Light.
+Gabriel's Essence	Mostly Ice attack/recovery/passive skills. Strong against Light/Ice.
+Sraosha's Essence	Attack/recovery/support/passive skills. Strong against Light.
+Raphael's Essence	Attack/ailment/recovery/passive skills. Strong against Force/Light.
+Sandalphon's Essence	Mostly attack skills; 3 different elements. Strong against Elec/Light.
+Uriel's Essence	Mostly Phys/Fire/Elec/Light attack skills. Strong against Fire/Light.
+Camael's Essence	Mostly Phys/Fire/Light attack skills. Strong against Light.
+Melchizedek's Essence	Mostly attack skills; some support as well. Strong against Light/Dark.
+Throne's Essence	Attack/recovery/support/passive skills. Strong against Fire/Light.
+Dominion's Essence	Attack/recovery/support skills. Strong against Elec/Light.
+Power's Essence	Mostly Strength-based attack skills; some support as well. Strong against Light.
+Principality's Essence	Attack/recovery/support/passive skills. Strong against Light.
+Archangel's Essence	Mostly attack skills; 3 different elements. Strong against Light.
+Angel's Essence	Mostly recovery skills; some Light attack as well. Strong against Light.
+Abdiel's Essence	Mostly attack skills; 4 different elements. Strong against Dark.
+Adramelech's Essence	Mostly Fire attack/passive skills. Strong against Dark.
+Flauros's Essence	Mostly Strength-based attack skills. Strong against Fire.
+Nebiros's Essence	Mostly Almighty attack/passive skills. Strong against Dark.
+Berith's Essence	Mostly Phys attack skills. Slightly strong against Fire/Dark.
+Ose's Essence	Mostly Strength-based attack skills. Strong against Ice/Dark.
+Eligor's Essence	Mostly attack skills; some support/passive as well. Strong against Fire.
+Forneus's Essence	Attack/ailment/support/passive skills. Strong against Ice/Dark.
+Andras's Essence	Mostly attack skills; some ailment/support as well. Strong against Ice.
+Decarabia's Essence	Mostly Fire/Dark/Almighty attack skills. Strong against Dark.
+Garuda's Essence	Attack/support/passive skills. Strong against Force.
+Zhuque's Essence	Mostly Fire attack/support/passive skills. Strong against Fire.
+Yatagarasu's Essence	Attack/recovery/support/passive skills. Strong against Light.
+Jatayu's Essence	Mostly Force attack/support/passive skills. Strong against Force.
+Feng Huang's Essence	Mostly attack skills; some recovery/passive as well. Strong against Fire.
+Thunderbird's Essence	Mostly Elec attack skills. Strong against Elec.
+Anzu's Essence	Mostly attack skills; some recovery/support as well. Strong against Elec/Mirage.
+Zhen's Essence	All attack skills, mostly Phys type. Slightly strong against Dark/Poison/Mirage.
+Muu Shuwuu's Essence	Attack/recovery/support/passive skills. Strong against Force.
+Onmoraki's Essence	Fire/Dark attack/ailment skills. Slightly strong against Fire.
+Cleopatra's Essence	Attack/ailment/recovery/support skills. Strong against Light.
+Rangda's Essence	Mostly Phys/Force attack skills; some recovery as well. Strong against Phys.
+Dakini's Essence	Mostly Strength-based attack skills. Strong against Seal.
+Atropos's Essence	Mostly attack skills; some ailment/passive as well. Strong against Light.
+Yakshini's Essence	Mostly attack skills; some passive as well. Strong against Force.
+Lachesis's Essence	Ailment/support/passive skills. Slightly strong against Poison/Confusion/Charm/Sleep/Seal/Mirage.
+Clotho's Essence	Ailment/recovery/support/passive skills. Strong against Fire/Sleep.
+Manananggal's Essence	Mostly attack skills; some ailment/support as well. Strong against Dark.
+Lamia's Essence	Mostly Phys/Elec/Dark/Almighty attack skills. Strong against Elec.
+Mermaid's Essence	Ailment/support skills. Strong against Ice.
+Leanan Sidhe's Essence	Attack/ailment/recovery/passive skills. Strong against Dark.
+Ongyo-Ki's Essence	Attack/ailment/support/passive skills. Slightly strong against Phys/Ice/Force.
+Shiki-Ouji's Essence	Mostly attack skills; some ailment/support as well. Slightly strong against Phys/Light/Dark.
+Sui-Ki's Essence	Mostly Strength-based attack skills. Strong against Ice.
+Fuu-Ki's Essence	Attack/support/passive skills. Strong against Force.
+Kin-Ki's Essence	Mostly Phys attack skills. Strong against Elec.
+Azumi's Essence	All attack skills, mostly Ice. Slightly strong against Ice.
+Ippon-Datara's Essence	Phys attack/support skills. Slightly strong against Fire.
+Daemon's Essence	Mostly attack skills; some support as well. Strong against Dark.
+Oni's Essence	Mostly Phys attack skills; some support as well. Slightly strong against Phys.
+Hecatoncheires's Essence	Phys attack/support/passive skills. Strong against Dark.
+Loa's Essence	Mostly attack skills; some support/passive as well. Strong against Dark/Poison.
+Rakshasa's Essence	Strength-based attack/support/passive skills. Slightly strong against Light/Dark.
+Turdak's Essence	Phys attack/recovery skills. Slightly strong against Dark.
+Macabre's Essence	Attack/ailment/passive/special skills. Strong against Dark/Poison.
+Kaya-no-Hime's Essence	Ice attack/recovery/support skills. Slightly strong against Ice/Sleep/Charm.
+Tsuchigumo's Essence	Phys/Elec attack/support skills. Slightly strong against Elec/Poison.
+Narcissus's Essence	Attack/ailment/support/passive skills. Strong against Force/Charm.
+Hua Po's Essence	Fire attack/recovery/support/passive skills. Strong against Fire.
+Koropokkur's Essence	Mostly Ice attack/support skills. Strong against Ice.
+Sudama's Essence	Force attack/ailment skills. Strong against Force.
+Kodama's Essence	Force attack/ailment/recovery skills. Slightly strong against Force.
+Pisaca's Essence	Mostly Phys attack skills. Strong against Dark.
+Kumbhanda's Essence	Mostly attack skills; some support/passive as well. Strong against Force.
+Poltergeist's Essence	Attack/support/passive skills. Strong against Elec/Confusion.
+Obariyon's Essence	Attack/recovery/support skills. Slightly strong against Elec/Dark.
+Preta's Essence	All attack skills; Phys/Ice/Almighty elements. Slightly strong against Dark.
+Trumpeter's Essence	Mostly attack skills; 5 different elements. Strong against Light/Dark/Sleep/Seal.
+Mother Harlot's Essence	Mostly attack skills. Strong against Phys/Elec/Charm.
+Black Rider's Essence	Mostly attack skills in various elements. Strong against Ice/Confusion.
+Red Rider's Essence	Mostly attack skills in various elements. Strong against Elec/Force.
+White Rider's Essence	Mostly attack skills in various elements. Strong against Fire.
+Alice's Essence	Mostly Dark attack/ailment/passive skills. Strong against Dark.
+Hell Biker's Essence	Attack/passive skills. Strong against Fire/Force.
+Daisoujou's Essence	Attack/ailment/passive skills. Strong against Light/Dark.
+Pale Rider's Essence	Mostly ailment skills. Strong against Ice/Poison/Mirage.
+Matador's Essence	Mostly passive skills; some attack/support as well. Strong against Force.
+Aogami Type-1 Essence	Attack/support skills; attack skills are for Nahobino only. Strong against Elec.
+Aogami Type-2 Essence	Ailment/recovery skills; recovery skills are for Nahobino only. Strong against Elec.
+Aogami Type-3 Essence	Attack/passive skills; one attack skill is for Nahobino only. Strong against Elec.
+Aogami Type-4 Essence	Attack/recovery skills; attack skills are for Nahobino only. Strong against Elec.
+Aogami Type-5 Essence	Attack/support skills; support skills are for Nahobino only. Strong against Elec.
+Aogami Type-6 Essence	Attack/recovery/passive/special skills; attack skills are for Nahobino only. Strong against Elec.
+Aogami Type-7 Essence	Attack/support/passive skills; attack skills are for Nahobino only. Strong against Elec.
+Aogami Type-8 Essence	Attack/ailment/passive skills; attack skills are for Nahobino only. Strong against Elec.
+Aogami Type-9 Essence	Attack/support/passive skills; one attack skill is for Nahobino only. Strong against Elec.
+Aogami Type-10 Essence	Recovery/passive skills; one recovery skill is for Nahobino only. Strong against Elec.
+Aogami Type-0 Essence	Attack/passive skills; one attack skill is for Nahobino only. Strong against Elec.
+Demi-fiend's Essence	Mostly Nahobino-only skills. Strong against all affinities and all ailments.
+UTSUSEMI_246	UTSUSEMI_246
+UTSUSEMI_247	UTSUSEMI_247
+UTSUSEMI_248	UTSUSEMI_248
+UTSUSEMI_249	UTSUSEMI_249
+UTSUSEMI_250	UTSUSEMI_250
+UTSUSEMI_251	UTSUSEMI_251
+UTSUSEMI_252	UTSUSEMI_252
+UTSUSEMI_253	UTSUSEMI_253
+UTSUSEMI_254	UTSUSEMI_254
+UTSUSEMI_255	UTSUSEMI_255
+UTSUSEMI_256	UTSUSEMI_256
+UTSUSEMI_257	UTSUSEMI_257
+UTSUSEMI_258	UTSUSEMI_258
+UTSUSEMI_259	UTSUSEMI_259
+UTSUSEMI_260	UTSUSEMI_260
+UTSUSEMI_261	UTSUSEMI_261
+UTSUSEMI_262	UTSUSEMI_262
+UTSUSEMI_263	UTSUSEMI_263
+UTSUSEMI_264	UTSUSEMI_264
+UTSUSEMI_265	UTSUSEMI_265
+UTSUSEMI_266	UTSUSEMI_266
+UTSUSEMI_267	UTSUSEMI_267
+UTSUSEMI_268	UTSUSEMI_268
+UTSUSEMI_269	UTSUSEMI_269
+UTSUSEMI_270	UTSUSEMI_270
+UTSUSEMI_271	UTSUSEMI_271
+UTSUSEMI_272	UTSUSEMI_272
+UTSUSEMI_273	UTSUSEMI_273
+UTSUSEMI_274	UTSUSEMI_274
+UTSUSEMI_275	UTSUSEMI_275
+UTSUSEMI_276	UTSUSEMI_276
+UTSUSEMI_277	UTSUSEMI_277
+UTSUSEMI_278	UTSUSEMI_278
+UTSUSEMI_279	UTSUSEMI_279
+UTSUSEMI_280	UTSUSEMI_280
+UTSUSEMI_281	UTSUSEMI_281
+UTSUSEMI_282	UTSUSEMI_282
+UTSUSEMI_283	UTSUSEMI_283
+UTSUSEMI_284	UTSUSEMI_284
+UTSUSEMI_285	UTSUSEMI_285
+UTSUSEMI_286	UTSUSEMI_286
+UTSUSEMI_287	UTSUSEMI_287
+UTSUSEMI_288	UTSUSEMI_288
+UTSUSEMI_289	UTSUSEMI_289
+UTSUSEMI_290	UTSUSEMI_290
+UTSUSEMI_291	UTSUSEMI_291
+UTSUSEMI_292	UTSUSEMI_292
+UTSUSEMI_293	UTSUSEMI_293
+UTSUSEMI_294	UTSUSEMI_294
+UTSUSEMI_295	UTSUSEMI_295
+UTSUSEMI_296	UTSUSEMI_296
+UTSUSEMI_297	UTSUSEMI_297
+UTSUSEMI_298	UTSUSEMI_298
+UTSUSEMI_299	UTSUSEMI_299
+UTSUSEMI_300	UTSUSEMI_300
+UTSUSEMI_301	UTSUSEMI_301
+UTSUSEMI_302	UTSUSEMI_302
+UTSUSEMI_303	UTSUSEMI_303
+UTSUSEMI_304	UTSUSEMI_304
+UTSUSEMI_305	UTSUSEMI_305
+Fortune	A small fortune neatly folded up tight. Though it cannot be read, there's a chance something good may be written on it.
+Soda	A can filled to the brim with a mysterious liquid. It smells dangerous at first, but quickly becomes rather enticing.
+Melted Doll	A figurine that has melted due to the harsh environment. It's stuck to the bottom of the capsule and can't be pulled out.
+Cloth Mask	A disposable cloth mask. Seeing as both sides are covered in sand, it would actually be quite dangerous to use now.
+Cartridge Game Console	A popular video game console from back in the day. The cartridge slot is filled with sand, so it probably won't work.
+Shabby Building Material	A piece of worn-out building material. It's chipped all over and, at the right angle, even resembles a human arm.
+Hexagram Trading Card	A card with a hexagram drawn on the back. The front shows a young man wth an odd machine attached to his left arm.
+Can of Jelly	A can filled to the brim with jelly. The more you shake it, the more the jelly gets broken up, making it easier to drink.
+Anime Paperweight	A paperweight with the picture of a once popular anime character. Clear off some rust, and it should be good as new.
+Simple Undershirt	A shirt meant to be worn under one's clothes. Since it's full of holes, it might better serve as a dustcloth or two.
+Segata III Game Console	A popular video game console from back in the day. Seeing as it's packed with sand, it doesn't seem like it'd work at all.
+Mouse Mummy	A mummy of a rat that must've lived somewhere in the city. It will likely break with little force, due to poor preservation.
+Telephone Card	A magnetic card once used to make calls. A lovely picture graces the front, and it seems to have expired 18 years ago.
+Can of Oden	A can filled with oden, a Japanese hotpot dish. A plastic toothpick on the lid allows for immediate consumption.
+Electronic Music Box	A machine that plays beautiful music with the press of a button. There are others of various shapes, buttons, and music.
+School Swimsuit	A swimsuit issued for PE class. Given its shape and material, it was likely used for some form of water exercise.
+Tablet Game Console	A popular game console from way back. It includes a disc tray and two rectangular holes, possibly for cartridges.
+Crow Mummy	A mummified crow that looks as if it could fly away any moment. Seems they come in a variety of beaks and heads.
+Hologram Trading Card	A card with a hologram processed on its front side. Most likely a rare item. A hexagram is drawn on the back.
+Time Capsule	A tin can filled with someone's memories. Perhaps it's best to leave this be.
+Balloon Value Pack	A box filled with rubber balloons. There's an expiration date printed on the side of the box.
+Antique Shirt	A shirt from long ago that was never worn. It's fairly clean and, despite being 18 years old, has yet to go out of style.
+Game Console with Handle	A popular game console from way back. Though left to the elements, it's so sturdy that it can still be powered on.
+Mysterious Mummy	A mummy of an indistinguishable organism. It'd be best not to think about what it will be used for after it you sell it.
+Black Tape Set	A thin box with two rolls of black tape. There doesn’t seem to be a place to grab the tape.
+Ripped Manga	A manga that is ripped up here and there. It is about a one-armed young man traveling through the netherworld.
+High-Capacity Bottle	A PET bottle capable of holding a great amount. The liquid inside has an eerie glow to it.
+Vinyl Umbrella	A tool used to defend against rain. It cannot protect you from the hardships of life, however.
+Powder Box	A box with a strange powder spilling out from the cracks. There are several types, but they all smell good.
+Bottle Container	A box meant for cans and bottles. It was designed to be stackable.
+Radio-yaki	A box loaded with some kind of spherical food. Some of the balls have cooked stingray inside.
+Rubber Duck	A duck doll that floats in water. It is prized by collectors all over.
+Old Newspaper	An 18-year-old newspaper. Useful for wrapping fragile items and wiping windows.
+Old Magazine	An 18-year-old occult magazine full of articles on the supernatural.
+Novel	A travel-sized book about a demon's struggle to enter paradise.
+Sealed Magazine	A magazine wrapped in plastic. It's probably worth more if left as is.
+Cardboard Cap Bottle	A bottle sealed with cardboard. Opening it releases a sweet and sour scent.
+Marble Bottle	A bottle plugged up with a marble. How one goes about opening it is unknown.
+Maid Costume	An apron dress with cute frills. The skirt is short, making it easy to move around.
+Golden Triangle	A yellow rock-like object cut into a triangle. It is coated with honey.
+Golden Apple	Fruit of the gods under the care of the goddess Idun. It holds a strong life force within.
+Akiha-Gongen Talisman	A talisman that grants protection from fire with the name Akiha-Gongen written across it.
+Key of Austerity	A key that represents one of the pillars of the Empyrean. It symbolizes the austerity a king must cast upon himself.
+Key of Benevolence	A key that represents one of the pillars of the Empyrean. It symbolizes the deep benevolence a king must have for others.
+Key of Harmony	A key that represents one of the pillars of the Empyrean. It symbolizes the harmony a king must create.
+IMPORTANT_006	IMPORTANT_006
+IMPORTANT_007	IMPORTANT_007
+IMPORTANT_008	IMPORTANT_008
+IMPORTANT_009	IMPORTANT_009
+IMPORTANT_010	IMPORTANT_010
+IMPORTANT_011	IMPORTANT_011
+IMPORTANT_012	IMPORTANT_012
+IMPORTANT_013	IMPORTANT_013
+IMPORTANT_014	IMPORTANT_014
+IMPORTANT_015	IMPORTANT_015
+IMPORTANT_016	IMPORTANT_016
+IMPORTANT_017	IMPORTANT_017
+IMPORTANT_018	IMPORTANT_018
+IMPORTANT_019	IMPORTANT_019
+IMPORTANT_020	IMPORTANT_020
+IMPORTANT_021	IMPORTANT_021
+IMPORTANT_022	IMPORTANT_022
+IMPORTANT_023	IMPORTANT_023
+IMPORTANT_024	IMPORTANT_024
+IMPORTANT_025	IMPORTANT_025
+IMPORTANT_026	IMPORTANT_026
+IMPORTANT_027	IMPORTANT_027
+IMPORTANT_028	IMPORTANT_028
+IMPORTANT_029	IMPORTANT_029
+IMPORTANT_030	IMPORTANT_030
+IMPORTANT_031	IMPORTANT_031
+IMPORTANT_032	IMPORTANT_032
+IMPORTANT_033	IMPORTANT_033
+IMPORTANT_034	IMPORTANT_034
+IMPORTANT_035	IMPORTANT_035
+IMPORTANT_036	IMPORTANT_036
+IMPORTANT_037	IMPORTANT_037
+IMPORTANT_038	IMPORTANT_038
+IMPORTANT_039	IMPORTANT_039
+IMPORTANT_040	IMPORTANT_040
+IMPORTANT_041	IMPORTANT_041
+IMPORTANT_042	IMPORTANT_042
+IMPORTANT_043	IMPORTANT_043
+IMPORTANT_044	IMPORTANT_044
+IMPORTANT_045	IMPORTANT_045
+IMPORTANT_046	IMPORTANT_046
+IMPORTANT_047	IMPORTANT_047
+IMPORTANT_048	IMPORTANT_048
+IMPORTANT_049	IMPORTANT_049
+IMPORTANT_050	IMPORTANT_050
+IMPORTANT_051	IMPORTANT_051
+IMPORTANT_052	IMPORTANT_052
+IMPORTANT_053	IMPORTANT_053
+IMPORTANT_054	IMPORTANT_054
+IMPORTANT_055	IMPORTANT_055
+IMPORTANT_056	IMPORTANT_056
+IMPORTANT_057	IMPORTANT_057
+IMPORTANT_058	IMPORTANT_058
+IMPORTANT_059	IMPORTANT_059
+IMPORTANT_060	IMPORTANT_060
+IMPORTANT_061	IMPORTANT_061
+IMPORTANT_062	IMPORTANT_062
+IMPORTANT_063	IMPORTANT_063
+IMPORTANT_064	IMPORTANT_064
+IMPORTANT_065	IMPORTANT_065
+IMPORTANT_066	IMPORTANT_066
+IMPORTANT_067	IMPORTANT_067
+IMPORTANT_068	IMPORTANT_068
+IMPORTANT_069	IMPORTANT_069
+IMPORTANT_070	IMPORTANT_070
+IMPORTANT_071	IMPORTANT_071
+IMPORTANT_072	IMPORTANT_072
+IMPORTANT_073	IMPORTANT_073
+IMPORTANT_074	IMPORTANT_074
+IMPORTANT_075	IMPORTANT_075
+IMPORTANT_076	IMPORTANT_076
+IMPORTANT_077	IMPORTANT_077
+IMPORTANT_078	IMPORTANT_078
+IMPORTANT_079	IMPORTANT_079
+IMPORTANT_080	IMPORTANT_080
+IMPORTANT_081	IMPORTANT_081
+IMPORTANT_082	IMPORTANT_082
+IMPORTANT_083	IMPORTANT_083
+IMPORTANT_084	IMPORTANT_084
+IMPORTANT_085	IMPORTANT_085
+IMPORTANT_086	IMPORTANT_086
+IMPORTANT_087	IMPORTANT_087
+IMPORTANT_088	IMPORTANT_088
+IMPORTANT_089	IMPORTANT_089
+IMPORTANT_090	IMPORTANT_090
+IMPORTANT_091	IMPORTANT_091
+IMPORTANT_092	IMPORTANT_092
+IMPORTANT_093	IMPORTANT_093
+IMPORTANT_094	IMPORTANT_094
+IMPORTANT_095	IMPORTANT_095
+IMPORTANT_096	IMPORTANT_096
+IMPORTANT_097	IMPORTANT_097
+IMPORTANT_098	IMPORTANT_098
+IMPORTANT_099	IMPORTANT_099
+IMPORTANT_100	IMPORTANT_100
+Jatayu Egg	A large egg roughly the size of a human head. It is quite heavy.
+Mandrake Root	A root of a Mandrake. A rare medicinal ingredient with various efficacies.
+Giant Bird's Feather	A feather from a Thunderbird. It feels like soft metal, and emits electricity.
+Shikigami Talisman	One of the talismans that makes up the body of a Shiki-Ouji. It was supposedly written by a renowned onmyoji long ago.
+Mothman Capture Pot	A mysterious pot that can capture demons. It's said to have been made by a blind human 30 years ago.
+Kumbhanda's Bottle	A large bottle that drains life from humans. Kumbhanda wants you to deliver it to Succubus.
+Incubus's Letter	A love letter written by a hopelessly romantic demon. It is illegible due to either bad handwriting or the demonic script.
+Frozen King Salmon	A slice of king salmon that is still barely edible, thanks to a King Frost that was keeping it frozen.
+Kunitsu Keystone	A godly stone that could very well be used as a divine housing shrine. The Kunitsu Oyamatsumi's power is held within.
+Gibbon Guitar	A high-end model of the Paul-Les series known as the Black Widow. Its black sheen gives it a touch of class.
+Large Model Kit	A large model kit. The name of a flower has been printed on the packaging along with the words \"Test Model 3.\"
+TV-Game Combination	A monitor shaped like a magatama with a game console built inside.
+Horn of Plenty	The horn of a Holy demon. Bursting with power, it is said to symbolize abundance.
+Diamond	An iridescent jewel that is thought to have lined the storefronts of jewelry stores before the great destruction.
+Garnet	A beaming red jewel that is thought to have lined the storefronts of jewelry stores before the great destruction.
+Aquamarine	A light blue, shimmering jewel that is thought to have lined the storefronts of jewelry stores before the great destruction.
+Dragon Scale	An extremely hard scale. Said to be from a powerful dragon.
+Girimekhala's Head	The head of Girimekhala. This will supposedly be made into a watering can.
+Lord's Sword	A legendary sword said to have been held by a great emperor.
+Winged Sun Crest	A symbol of the sun god's power. It is also one of the sun god's eyes, having been removed at some point in time.
+Angel Ring	A ring that is said to hold the power of a seraph-class archangel. It seems to have lost its power at this time.
+Seed of Life	A mysterious seed given only to those who have been acknowledged by Sophia.
+Inugami Head	A head of the Beast Inugami. A powerful grudge restlessly stirs within.
+Bicorn Horn	A horn of the Wilder Bicorn. It is supposedly used to make a form of hexing medicine.
+Horus's Head	The head of a former sun god. The eyes appear to have been gouged out by someone.
+Dark Contract	A contract written in an unknown script. It holds the power of the Tyrant Mephisto.
+Magnetite Powder	Makeup that is applied around one's eyes. It holds the power of the Femme Cleopatra.
+Menorah of Knowledge	A Menorah given by Sophia. It represents the hidden sefirah.
+Menorah of Foundation	A Menorah obtained from Matador. It represents the ninth sefirah.
+Menorah of Eternity	A Menorah obtained from Daisoujou. It represents the seventh sefirah.
+Menorah of Dignity	A Menorah obtained from Hell Biker. It represents the eighth sefirah.
+Menorah of Compassion	A Menorah obtained from White Rider. It represents the fourth sefirah.
+Menorah of Insight	A Menorah obtained from Red Rider. It represents the third sefirah.
+Menorah of Wisdom	A Menorah obtained from Black Rider. It represents the second sefirah.
+Menorah of Majesty	A Menorah obtained from Pale Rider. It represents the first sefirah.
+Menorah of Beauty	A Menorah obtained from Mother Harlot. It represents the sixth sefirah.
+Menorah of Glory	A Menorah obtained from Trumpeter. It represents the fifth sefirah.
+Menorah of Sovereignty	A Menorah obtained from Demi-fiend. It represents the tenth sefirah.
+Student Handbook	A pocket book for students of Jouin High School. The name \"<pc_full_retain>\" is inside.
+Sake and Dango Medley	Food that the traveling Preta handed to you. A medley of inedible things have been mixed in.
+Fiendish Sash	Proof of having overcome a terribly arduous trial.
+IMPORTANT_142	IMPORTANT_142
+IMPORTANT_143	IMPORTANT_143
+IMPORTANT_144	IMPORTANT_144
+IMPORTANT_145	IMPORTANT_145
+IMPORTANT_146	IMPORTANT_146
+IMPORTANT_147	IMPORTANT_147
+IMPORTANT_148	IMPORTANT_148
+IMPORTANT_149	IMPORTANT_149
+IMPORTANT_150	IMPORTANT_150
+Haunt Talisman	Allows you to use the Haunt Magatsuhi skill Twilight Wave.
+Raptor Talisman	Allows you to use the Raptor Magatsuhi skill Accursed Poison.
+Herald Talisman	Allows you to use the Herald Magatsuhi skill Shield of God.
+Megami Talisman	Allows you to use the Megami Magatsuhi skill Eternal Prayer.
+Avian Talisman	Allows you to use the Avian Magatsuhi skill Accursed Poison.
+Divine Talisman	Allows you to use the Divine Magatsuhi skill Sea of Stars.
+Yoma Talisman	Allows you to use the Yoma Magatsuhi skill Omagatoki: Potential.
+Vile Talisman	Allows you to use the Vile Magatsuhi skill Impaler's Glory.
+Deity Talisman	Allows you to use the Diety Magatsuhi skill Omagatoki: Charge.
+Wargod Talisman	Allows you to use the Wargod Magatsuhi skill Freikugel EX.
+Avatar Talisman	Allows you to use the Avatar Magatsuhi skill Omagatoki: Hit.
+Holy Talisman	Allows you to use the Holy Magatsuhi skill Omagatoki: Hit.
+Genma Talisman	Allows you to use the Genma Magatsuhi skill Omagatoki: Luck.
+Element Talisman	Allows you to use the Element Magatsuhi skill Omagatoki: Luck.
+Fairy Talisman	Allows you to use the Fairy Magatsuhi skill Fairy Banquet.
+Beast Talisman	Allows you to use the Beast Magatsuhi skill Omagatoki: Adversity.
+Jirae Talisman	Allows you to use the Jirae Magatsuhi skill Omagatoki: Sincerity.
+Fiend Talisman	Allows you to use the Fiend Magatsuhi skill Freikugel EX.
+Jaki Talisman	Allows you to use the Jaki Magatsuhi skill Rasetsu Feast.
+Wilder Talisman	Allows you to use the Wilder Magatsuhi skill Twilight Wave.
+Fury Talisman	Allows you to use the Fury Magatsuhi skill Expand: Impaler's Animus.
+Lady Talisman	Allows you to use the Lady Magatsuhi skill Waters of Youth.
+Dragon Talisman	Allows you to use the Dragon Magatsuhi skill Omagatoki: Dance.
+Kishin Talisman	Allows you to use the Kishin Magatsuhi skill Omagatoki: Pierce.
+Kunitsu Talisman	Allows you to use the Kunitsu Magatsuhi skill Dekajaon.
+Femme Talisman	Allows you to use the Femme Magatsuhi skill Omagatoki: Free.
+Brute Talisman	Allows you to use the Brute Magatsuhi skill Expand: Critical Aura.
+Fallen Talisman	Allows you to use the Fallen Magatsuhi skill Omagatoki: Doubler.
+Night Talisman	Allows you to use the Night Magatsuhi skill Soul Drain.
+Snake Talisman	Allows you to use the Snake Magatsuhi skill Omagatoki: Dance.
+Tyrant Talisman	Allows you to use the Tyrant Magatsuhi skill Omagatoki: Savage.
+Drake Talisman	Allows you to use the Drake Magatsuhi skill Big Bang.
+Foul Talisman	Allows you to use the Foul Magatsuhi skill Omagatoki: Potential.
+IMPORTANT_184	IMPORTANT_184
+IMPORTANT_185	IMPORTANT_185
+IMPORTANT_186	IMPORTANT_186
+IMPORTANT_187	IMPORTANT_187
+IMPORTANT_188	IMPORTANT_188
+IMPORTANT_189	IMPORTANT_189
+IMPORTANT_190	IMPORTANT_190
+IMPORTANT_191	IMPORTANT_191
+IMPORTANT_192	IMPORTANT_192
+IMPORTANT_193	IMPORTANT_193
+IMPORTANT_194	IMPORTANT_194
+IMPORTANT_195	IMPORTANT_195
+IMPORTANT_196	IMPORTANT_196
+IMPORTANT_197	IMPORTANT_197
+IMPORTANT_198	IMPORTANT_198
+IMPORTANT_199	IMPORTANT_199
+IMPORTANT_200	IMPORTANT_200

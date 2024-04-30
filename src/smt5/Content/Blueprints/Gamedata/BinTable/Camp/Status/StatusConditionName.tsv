@@ -1,0 +1,59 @@
+en	desc
+DUMMY	DUMMY
+Sleep	Cannot perform any actions and attacks cannot be evaded. Sleep state will be lifted when damaged.
+Confusion	Chance of ignoring orders. May attack allies or do nothing.
+Charm	Chance of ignoring orders. May aid enemies or do nothing.
+Seal	All skills besides attack become unusable.
+Poison	Receive damage after performing an action.
+Mud	Removes 1 Press Icon before next action. Cannot be overwritten by other ailments and cannot be healed.
+Shroud	Receive MP damage before performing an action. Cannot be overwritten by other ailments and cannot be healed.
+Death	Unable to participate in battle. Will not heal after battle and can only be cured at leyline fount or with items or skills.
+009	009
+010	010
+011	011
+Mirage	Greatly decreases hit rate of attacks. May attack a target that wasn't specified.
+Attack Up	Increases attack damage. (<program 0> turns left)
+Defense Up	Decreases damage received when attacked. (<program 0> turns left)
+Accuracy/Evasion Up	Increases hit rate and chance to avoid attacks. (<program 0> turns left)
+Attack Down	Decreases attack damage. (<program 0> turns left)
+Defense Down	Increases damage received when attacked. (<program 0> turns left)
+Accuracy/Evasion Down	Decreases hit rate and chance to avoid attacks. (<program 0> turns left)
+Repel Phys	Physical attacks are temporarily repelled. Effect disappears upon activation.
+Repel Magic	Fire, Ice, Elec, Force, Light, and Dark attacks are temporarily repelled. Effect disappears upon activation.
+021	021
+Phys Charge	Increases Strength-based attack damage. Effect remains until use.
+Magic Charge	Increases Magic-based attack damage. Effect remains until use.
+Critical Charge	Strength-based attack guaranteed Critical. Effect remains until use.
+Recovery Charge	Increases recovery effect of healing skills and heals above MAX HP. Effect remains until use.
+Pierce Charge	Increases attack damage and adds a pierce effect. Effect remains until use.
+Taunt	Increases the chance of being targeted by an enemy. (<program 0> turns left)
+No Changes	No changes have occurred.
+Damage Down 	Decreases damage received when attacked.
+Damage Down EX	Greatly decreases damage taken.
+Pierce Charge EX	Greatly increases attack damage and adds a pierce effect. Effect remains until use.
+Omagatoki: Critical	All attacks, including magic attacks, guaranteed Critical.
+Omagatoki: Pierce	All attacks gain Pierce effect.
+Omagatoki: Hit	Greatly increases attack Accuracy and ailment efficacy.
+Omagatoki: Adversity	Attack damage and recovery skill output increases with lower HP.
+Omagatoki: Free	All skills costs to 1 MP.
+Omagatoki: Doubler	Doubles the effects of stat buffs/debuffs to self.
+Omagatoki: Dance	Multi-hit attacks will hit the maximum number of times.
+Omagatoki: Sincerity	Forgives up to 2 failures in a demon conversation.
+Omagatoki: Savage	All skills costs twice the MP but deal double the damage.
+Omagatoki: Luck	Greatly increases EXP and Macca earned if battle ends within the turn.
+Omagatoki: Potential	All skill potentials are raised to the max.
+Omagatoki: Accumulate	All charge effects remain until use.
+Phys Nullify	Physical attacks are temporarily nullified. Effect disappears upon activation.
+Fire Nullify	Fire attacks are temporarily nullified. Effect disappears upon activation.
+Ice Nullify	Ice attacks are temporarily nullified. Effect disappears upon activation.
+Elec Nullify	Elec attacks are temporarily nullified. Effect disappears upon activation.
+Force Nullify	Force attacks are temporarily nullified. Effect disappears upon activation.
+Light Nullify	Light attacks are temporarily nullified. Effect disappears upon activation.
+Dark Nullify	Dark attacks are temporarily nullified. Effect disappears upon activation.
+Omagatoki: Critical	All attacks, including magic attacks, guaranteed Critical next turn.
+Attack Up EX	Greatly increases attack damage. (<program 0> turns left)
+Defense Up EX	Greatly decreases damage received when attacked. (<program 0> turns left)
+Accuracy/Evasion Up EX	Greatly increases Accuracy/Evasion. (<program 0> turns left)
+Attack Down EX	Greatly decreases attack damage. (<program 0> turns left)
+Defense Down EX	Greatly increases damage received when attacked. (<program 0> turns left)
+Accuracy/Evasion Down EX	Greatly decreases Accuracy/Evasion. (<program 0> turns left)

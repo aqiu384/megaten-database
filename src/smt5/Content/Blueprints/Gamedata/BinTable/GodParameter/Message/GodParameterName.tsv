@@ -1,0 +1,131 @@
+en	desc
+000	000
+Knowledge of Tools	Allows your demons to use items during battle.
+Unyielding Will	When a guarding ally is attacked, the Magatsuhi Gauge increases a little.
+Invigorating Defense	An ally's MP will recover when guarding.
+004	004
+005	005
+006	006
+007	007
+008	008
+009	009
+010	010
+Vengeance	The Magatsuhi Gauge greatly increases anytime an ally dies.
+012	012
+Forestall	Slashing an enemy in the field without being noticed will greatly increase the Magatsuhi Gauge at the start of a battle.
+Constant Vigilance	The Magatsuhi Gauge increases a little at the start of a battle.
+Embolden	Raises the amount added to Magatsuhi Gauge each turn.
+Enhanced Summon	Demon allies summoned in battle will have a random stat raised by 1 rank.
+Dread	All enemies will have a random stat lowered by 1 rank at the start of a battle.
+Kindred Favor	Talking with a demon while having that same demon in your party will prompt them to occasionally heal you in battle.
+Articulate Discourse	Talking with a demon uses 1/2 of a Press Turn Icon.
+Pacification	If a demon's mood sours mid-negotiation, they may forgive you.
+Inspiring Covenant	Recruiting demons in battle will cause them to immediately level up.
+Divine Persuasion	Demons will sometimes join you unconditionally.
+Divine Eminence	Demons above the Nahobino's level can be recruited through negotiation.
+Deathly Aura I	Cornered demons may beg for their lives.
+Deathly Aura II	Demand Macca from cornered demons.
+Deathly Aura III	Demand Essence from cornered demons.
+Hand of God	Rare chance to acquire one extra relic.
+Warrior's Conception	Newly-fused demons will gain a stat bonus based on the stats of the demons fused.
+Unforgotten Memories	Newly fused demons will gain EXP based on the stats of the demons fused.
+Inheritance Violation	A demon's starting skills can be overwritten during skill inheritance.
+Rank Violation	Level limitation for demon fusion is lifted.
+Art of Essences I	Allows an additional skill to be selected from essences.
+Art of Essences II	Allows up to two additional skills to be selected from essences.
+Art of Essences III	Unlocks all essence skills.
+Healer's Hospitality I	The healing cost at leyline founts is reduced by 25%.
+Healer's Hospitality II	The healing cost at leyline founts is reduced by 50%.
+Merchant's Hospitality I	Item prices at the Cadaver's Hollow are reduced by 25%.
+Merchant's Hospitality II	Item prices at the Cadaver's Hollow are reduced by 50%.
+Summoner's Hospitality I	The cost of summoning demons from the Demon Compendium is reduced by 10%.
+Summoner's Hospitality II	The cost of summoning demons from the Demon Compendium is reduced by 30%.
+Summoner's Hospitality III	The cost of summoning demons from the Demon Compendium is reduced by 50%.
+Skill Manifestation	A demon ally may awaken to a new skill when leveling up.
+Demonic Discipline	Increases the amount of EXP earned by demons in your stock after a battle.
+Prayer of Strength	Additional +1 increase to a demon ally's Strength when the demon levels up (Only applies up to a certain level).
+Prayer of Vitality	Additional +1 increase to a demon ally's Vitality when the demon levels up (Only applies up to a certain level).
+Prayer of Magic	Additional +1 increase to a demon ally's Magic when the demon levels up (Only applies up to a certain level).
+Prayer of Agility	Additional +1 increase to a demon ally's Agility when the demon levels up (Only applies up to a certain level).
+Prayer of Luck	Additional +1 increase to a demon ally's Luck when the demon levels up (Only applies up to a certain level).
+Empowering Cheer I	Half of MAX HP and MP are recovered when leveling up.
+Empowering Cheer II	HP and MP are fully recovered when leveling up.
+Demon Proficiency I	Increases demon ally's skill slots by 1.
+Demon Proficiency II	Increases demon ally's skill slots by 1.
+Demon Proficiency III	Increases demon ally's skill slots by 1.
+Demon Proficiency IV	Increases demon ally's skill slots by 1.
+Divine Garrison I	Increases demon stock by 1.
+Divine Garrison II	Increases demon stock by 1.
+Divine Garrison III	Increases demon stock by 2.
+Divine Garrison IV	Increases demon stock by 2.
+Divine Garrison V	Increases demon stock by 2.
+Divine Garrison VI	Increases demon stock by 2.
+Divine Proficiency I	Increases the Nahobino's skill slots by 1.
+Divine Proficiency II	Increases the Nahobino's skill slots by 1.
+Divine Proficiency III	Increases the Nahobino's skill slots by 1.
+Divine Proficiency IV	Increases the Nahobino's skill slots by 1.
+Almighty Mastery I	Increases the Nahobino's Almighty skill potential by 1.
+Almighty Mastery II	Increases the Nahobino's Almighty skill potential by 2.
+Almighty Mastery III	Increases the Nahobino's Almighty skill potential by 2.
+Almighty Mastery IV	Increases the Nahobino's Almighty skill potential by 2.
+Almighty Mastery V	Increases the Nahobino's Almighty skill potential by 2.
+Physical Mastery I	Increases the Nahobino's Physical skill potential by 1.
+Physical Mastery II	Increases the Nahobino's Physical skill potential by 2.
+Physical Mastery III	Increases the Nahobino's Physical skill potential by 2.
+Physical Mastery IV	Increases the Nahobino's Physical skill potential by 2.
+Physical Mastery V	Increases the Nahobino's Physical skill potential by 2.
+Fire Mastery I	Increases the Nahobino's Fire skill potential by 1.
+Fire Mastery II	Increases the Nahobino's Fire skill potential by 2.
+Fire Mastery III	Increases the Nahobino's Fire skill potential by 2.
+Fire Mastery IV	Increases the Nahobino's Fire skill potential by 2.
+Fire Mastery V	Increases the Nahobino's Fire skill potential by 2.
+Ice Mastery I	Increases the Nahobino's Ice skill potential by 1.
+Ice Mastery II	Increases the Nahobino's Ice skill potential by 2.
+Ice Mastery III	Increases the Nahobino's Ice skill potential by 2.
+Ice Mastery IV	Increases the Nahobino's Ice skill potential by 2.
+Ice Mastery V	Increases the Nahobino's Ice skill potential by 2.
+Electric Mastery I	Increases the Nahobino's Electric skill potential by 1.
+Electric Mastery II	Increases the Nahobino's Electric skill potential by 2.
+Electric Mastery III	Increases the Nahobino's Electric skill potential by 2.
+Electric Mastery IV	Increases the Nahobino's Electric skill potential by 2.
+Electric Mastery V	Increases the Nahobino's Electric skill potential by 2.
+Force Mastery I	Increases the Nahobino's Force skill potential by 1.
+Force Mastery II	Increases the Nahobino's Force skill potential by 2.
+Force Mastery III	Increases the Nahobino's Force skill potential by 2.
+Force Mastery IV	Increases the Nahobino's Force skill potential by 2.
+Force Mastery V	Increases the Nahobino's Force skill potential by 2.
+Light Mastery I	Increases the Nahobino's Light skill potential by 1.
+Light Mastery II	Increases the Nahobino's Light skill potential by 2.
+Light Mastery III	Increases the Nahobino's Light skill potential by 2.
+Light Mastery IV	Increases the Nahobino's Light skill potential by 2.
+Light Mastery V	Increases the Nahobino's Light skill potential by 2.
+Dark Mastery I	Increases the Nahobino's Dark skill potential by 1.
+Dark Mastery II	Increases the Nahobino's Dark skill potential by 2.
+Dark Mastery III	Increases the Nahobino's Dark skill potential by 2.
+Dark Mastery IV	Increases the Nahobino's Dark skill potential by 2.
+Dark Mastery V	Increases the Nahobino's Dark skill potential by 2.
+Recover Mastery I	Increases the Nahobino's Healing skill potential by 1.
+Recover Mastery II	Increases the Nahobino's Healing skill potential by 2.
+Recover Mastery III	Increases the Nahobino's Healing skill potential by 2.
+Support Mastery I	Increases the Nahobino's Support skill potential by 1.
+Support Mastery II	Increases the Nahobino's Support skill potential by 2.
+Support Mastery III	Increases the Nahobino's Support skill potential by 2.
+Ailment Mastery I	Increases the Nahobino's Ailment skill potential by 1.
+Ailment Mastery II	Increases the Nahobino's Ailment skill potential by 2.
+Ailment Mastery III	Increases the Nahobino's Ailment skill potential by 2.
+Ailment Mastery IV	Increases the Nahobino's Ailment skill potential by 2.
+Ailment Mastery V	Increases the Nahobino's Ailment skill potential by 2.
+Art of Intervention	Use a demon ally's action to speak with a demon.
+Divine Amalgamation	Allows the Nahobino to acquire affinity resistances from essences during Essence Fusion.
+Divine Garrison VII	Increases demon stock by 2.
+Divine Garrison VIII	Increases demon stock by 3.
+Divine Garrison IX	Increases demon stock by 3.
+Magatsuhi Wellspring	All allies will slightly recover HP and MP if the Magatsuhi Gauge is full at the start of a turn.
+Vengeful Opportunist	The Magatsuhi Gauge will slightly increase when guarding.
+Fell Swoop	The Magatsuhi Gauge will very slightly increase when inflicting WEAK or CRITICAL.
+Counter Incentive: Resist	The Magatsuhi Gauge will slightly increase when an ally's affinity resistance reduces damage from an enemy attack.
+Counter Incentive: Null	The Magatsuhi Gauge will increase when an ally Nulls, Drains, or Repels an enemy attack.
+Race Transcendence	The Nahobino will become able to use race-specific Magatsuhi Skills held by other party members.
+Magatsuhi Dispersion	The enemy Omagatoki: Critical effect will end when an ally guards, evades, Nulls, Repels, or Drains an enemy attack.
+128	128
+Skillful Conservation	Very slightly decreases the amount of Magatsuhi consumed when using Magatsuhi Skills.
