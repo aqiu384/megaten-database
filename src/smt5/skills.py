@@ -201,6 +201,7 @@ USAGES = ['Boss', 'Field', 'Battle', 'Everywhere']
 with open('Content/Blueprints/Gamedata/BinTable/Battle/Skill/SkillData.bin', 'rb') as binfile:
     NEW_SKILLS = binfile.read()
 with open('Content/Blueprints/Gamedata/BinTable/Battle/Skill/SkillName.tsv') as tsvfile:
+    next(tsvfile)
     SKILL_IDS = [x.strip() for x in tsvfile]
 
 def printif_notequal(dname, field, lhs, rhs):

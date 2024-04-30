@@ -1,229 +1,166 @@
 #!/usr/bin/python3
+import struct
 import json
 
-with open('comp-config.json') as jsonfile:
-    compConfig = json.load(jsonfile)
-
-RACES = compConfig['races']
-AILMENTS = compConfig['ailments']
+INNATES = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2]
 
 RESIST_LVLS = {
-    'Weak': 'w',
-    'Resist': 's',
-    'Null': 'n',
-    'Repel': 'r',
-    'Drain': 'd'
+    0: 'n',
+    10: '1',
+    20: '2',
+    40: '4',
+    50: 's',
+    100: '-',
+    125: 'w',
+    300: 'x',
+    900: '?',
+    999: 'r',
+    1000: 'd'
 }
 
-def parseEnemies(demons):
-    with open('smtv-data - enemies.tsv') as tsvfile:
-        for line in tsvfile:
-            parts = line.split('\t')
-            parts[-1] = parts[-1].strip()
-            race, lvl, dname = parts[1:4]
+AILMENTS = {
+    11: 'cha',
+    13: 'sea',
+    10: 'pan',
+    8: 'poi',
+    12: 'sle',
+    20: 'mir'
+}
 
-            if lvl == '':
-                continue
+GIFT_TYPES = [
+    'NONE',
+    'fir',
+    'ice',
+    'ele',
+    'for',
+    'lig',
+    'dar',
+    'rec',
+    'sup',
+    'ail',
+    'phy',
+    'alm'
+]
 
-            lvl = int(lvl)
-            resists = ''.join(x or '-' for x in parts[5:12])
+SPEECHES = {
+    1: 'Boy',
+    2: 'Youth',
+    3: 'Warrior',
+    5: 'Gentleman',
+    6: 'Eminent',
+    7: 'Elderly',
+    8: 'Girl',
+    9: 'Gyaru',
+    10: 'Lady',
+    11: 'Witch',
+    12: 'Animal',
+    13: 'Jack',
+    14: 'Eerie',
+    36: 'Nuwa',
+    83: 'Nushi',
+    84: 'Hime'
+}
 
-            if dname not in demons:
-                demons[dname] = {}
+AREAS = {
+    6: 'Temple of Eternity',
+    19: 'Demon King Castle',
+    31: 'Minato',
+    51: 'Shinagawa',
+    67: 'Chiyoda',
+    88: 'Taito',
+    120: 'Nowhere'
+}
 
-            entry = {
-                'race': race,
-                'lvl': lvl,
-                'stats': [0] * 7,
-                'resists': resists,
-                'affinities': [0] * 11,
-                'skills': {}
-            }
+def load_id_file(fname):
+    with open('Content/Blueprints/Gamedata/BinTable/' + fname) as tsvfile:
+        next(tsvfile)
+        return [x.split('\t')[0].strip() for x in tsvfile]
 
-            aresists = ['-'] * len(AILMENTS)
-            hasails = False
+RACE_IDS = load_id_file('Common/DevilRace.tsv')
+DEMON_IDS = load_id_file('Common/CharacterName.tsv')
+SKILL_IDS = load_id_file('Battle/Skill/SkillName.tsv')
+LINE_LEN = 0x1C4
+START_OFFSET = 0x55
+END_OFFSET = START_OFFSET + 1201 * LINE_LEN
+OLD_DEMONS = {}
+MAGIC_COMP = (0, 1, 1, 0, 98, 0, 5, 100, 70, 100, 0)
 
-            for apair in parts[12].split(', '):
-                if apair == '':
-                    continue
-                atype, alvl = apair.split(': ')
-                aresists[AILMENTS.index(atype)] = RESIST_LVLS[alvl]
-                hasails = True
+with open('Content/Blueprints/Gamedata/BinTable/Devil/NKMBaseTable.bin', 'rb') as binfile:
+    NEW_DEMONS = binfile.read()
 
-            aresists = ''.join(aresists)
+def save_ordered_demons(demons, fname):
+    for entry in demons.values():
+        for stat_set in ['affinities', 'stats']:
+            if stat_set in entry:
+                entry[stat_set] = '[' + ', '.join(str(x) for x in entry[stat_set]) + ']'
+        if 'skills' in entry:
+            nskills = sorted(entry['skills'].items(), key=lambda x: x[1])
+            nskills = '{||      ' + ',||      '.join(f'|{x[0]}|: {x[1]}' for x in nskills) + '||    }'
+            entry['skills'] = nskills
 
-            if hasails:
-                demons[dname]['ailments'] = aresists
+    jstring = json.dumps(demons, indent=2, sort_keys=True)
+    jstring = jstring.replace('||', '\n').replace('|', '"')
+    jstring = jstring.replace('"[', '[').replace(']"', ']').replace('"{', '{').replace('}"', '}')
 
-            demons[dname].update(entry)
+    with open(fname, 'w+') as jsonfile:
+        jsonfile.write(jstring)
 
-    return demons
+def printif_notequal(dname, field, lhs, rhs):
+    if str(lhs) != str(rhs):
+        print(dname, field, lhs, rhs)
 
-def parseDemons(demons):
-    with open('smtv-data - demons.tsv') as tsvfile:
-        for line in tsvfile:
-            parts = line.split('\t')
-            parts[-1] = parts[-1].strip()
-            race, lvl, dname = parts[1:4]
-            lvl = int(lvl)
-            stats = [int(x or '0') for x in parts[4:6]] + [0] * 5
-            affins = [int(x or '0') for x in parts[6:17]]
-            skills = {}
+for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
+    line = NEW_DEMONS[line_start:line_start + LINE_LEN]
+    dname = DEMON_IDS[d_id]
 
-            for i in range(17, len(parts), 2):
-                sname = parts[i]
-                if sname == '':
-                    continue
-                slvl = parts[i + 1]
-                skills[sname] = 0
+    d_id2, order_comp, race = struct.unpack('<LLB', line[0x00:0x09])
+    unk_race = struct.unpack('<7BL', line[0x09:0x14])
+    lvl, in_comp = struct.unpack('<LB', line[0x14:0x19])
+    magic_comp = struct.unpack('<7B4L', line[0x19:0x30])
+    race = RACE_IDS[race]
 
-            if dname not in demons:
-                demons[dname] = {
-                    'race': race,
-                    'lvl': lvl,
-                    'stats': stats,
-                    'resists': '-' * 7,
-                    'affinities': affins,
-                    'skills': skills
-                }
+    if in_comp == 0:
+        continue
 
-            if sum(affins) != 0:
-                demons[dname].update({
-                    'affinities': affins,
-                    'skills': skills
-                })
+    stats = list(struct.unpack('<14L', line[0x30:0x68]))
+    ten, gift, fuse_special, speech = struct.unpack('<2BHL', line[0x68:0x70])
+    zero, fuse_unlock, price_coeff, four, zero = struct.unpack('<5L', line[0x70:0x84])
+    stats_base = stats[:2] + stats[4:9]
+    stats_growth = [10 * stats[2], 10 * stats[3]] + stats[9:]
+    gift = GIFT_TYPES[gift]
+    fuse_special = 1 if fuse_special == 257 else fuse_special
+    speech = SPEECHES.get(speech, dname)
 
-            if demons[dname]['lvl'] >= lvl:
-                demons[dname].update({
-                    'lvl': lvl,
-                    'stats': stats,
-                })
+    innate = struct.unpack('<12L', line[0x84:0xB4])
+    learned = struct.unpack('<24L', line[0xB4:0x114])
+    resists = struct.unpack('<28L', line[0x114:0x184])
+    affinities = struct.unpack('<12l', line[0x184:0x1B4])
+    zero, zero, area, subarea = struct.unpack('<4L', line[0x1B4:0x1C4])
+    ailments = ''.join(RESIST_LVLS[resists[i]] for i in AILMENTS)
+    resists = ''.join(RESIST_LVLS[x] for x in resists[:7])
+    affinities = list(affinities[:-3]) + [affinities[-2], affinities[-3]]
+    skills = { SKILL_IDS[x]: INNATES[i] for i, x in enumerate(innate) if x != 0 }
+    area = AREAS[area]
 
-    return demons
+    for i in range(0, 24, 2):
+        if learned[i + 1] > 0:
+            skills[SKILL_IDS[learned[i + 1]]] = learned[i]
 
-def parseStats(demons):
-    with open('smtv-data - stats.tsv') as tsvfile:
-        for line in tsvfile:
-            parts = line.split('\t')
-            parts[-1] = parts[-1].strip()
-            race, lvl, dname = parts[:3]
-            lvl = int(lvl)
-            stats = [int(x) for x in parts[4:11]]
-            resists = ''.join(x or '-' for x in parts[11:18])
+    printif_notequal(dname, 'd_id2', d_id, d_id2)
+    # printif_notequal(dname, 'magic_comp', MAGIC_COMP, magic_comp)
 
-            aresists = ['-'] * len(AILMENTS)
-            hasails = False
+    entry = {
+        'race': race,
+        'lvl': lvl,
+        'stats': stats_base,
+        'resists': resists,
+        'skills': skills,
+        'affinities': affinities
+    }
 
-            for apair in parts[18].split(', '):
-                if apair == '-':
-                    continue
-                atype, alvl = apair.split(': ')
-                aresists[AILMENTS.index(atype)] = RESIST_LVLS[alvl]
-                hasails = True
+    if ailments != '------':
+        entry['ailments'] = ailments
 
-            aresists = ''.join(aresists)
+    OLD_DEMONS[dname] = entry
 
-            affins = [int(x if x != '-' else '0') for x in parts[19:30]]
-            skills = {}
-
-            for i in range(30, 38, 2):
-                sname = parts[i]
-                if sname == '':
-                    continue
-                slvl = parts[i + 1]
-                skills[sname] = 0
-
-            for i in range(38, len(parts), 2):
-                sname = parts[i]
-                if sname == '':
-                    continue
-                slvl = parts[i + 1]
-                skills[sname] = lvl + int((i - 38) / 2) + 1
-
-            if dname not in demons:
-                demons[dname] = {
-                    'race': race,
-                    'lvl': lvl
-                }
-
-            demons[dname].update({
-                'resists': resists,
-                'affinities': affins,
-                'skills': skills
-            })
-
-            if hasails:
-                demons[dname]['ailments'] = aresists
-
-            if demons[dname]['lvl'] >= lvl:
-                demons[dname].update({
-                    'lvl': lvl,
-                    'stats': stats
-                })
-
-    return demons
-
-def parseSkills(demons, skills, japNames):
-    with open('smtv-data - skills.tsv') as tsvfile:
-        for line in tsvfile:
-            parts = line.split('\t')
-            parts[-1] = parts[-1].strip()
-            parts = parts[1:]
-            elem, jname, sname, cost, target, effect, unique = parts
-            jname = jname.strip()
-            cost = int(cost or '0')
-
-            if jname:
-                japNames[jname] = sname
-
-            entry = {
-                'element': elem,
-                'effect': effect
-            }
-
-            if target != '':
-                entry['target'] = target
-            if cost != 0:
-                entry['cost'] = 1000 + cost
-            if unique.strip():
-                entry['rank'] = 99
-            if cost == 1001:
-                entry['rank'] = 50
-                draces = unique.split(': ')[1].split(' (')[0].split(', ')
-
-                for drace in draces:
-                    for dentry in demons.values():
-                        if dentry['race'] == drace:
-                            dentry['skills'][sname] = 5277
-
-            skills[sname] = entry
-
-    return demons, skills, japNames
-
-demonData = {}
-demonData = parseEnemies(demonData)
-demonData = parseDemons(demonData)
-demonData = parseStats(demonData)
-
-with open('../docs/smt5/jap-names.js') as jsonfile:
-    japData = jsonfile.read()[len('const SMT5_JAP_NAMES = '):]
-    japData = json.loads(japData)
-
-skillData = {}
-demonData, skillData, japData = parseSkills(demonData, skillData, japData)
-
-print(len(demonData))
-
-for entry in demonData.values():
-    entry['stats'] = '[' + ', '.join(str(x) for x in entry['stats']) + ']'
-    entry['affinities'] = '[' + ', '.join(str(x) for x in entry['affinities']) + ']'
-with open('../docs/smt5/demon-data.js', 'w+') as jsonfile:
-    demonData = json.dumps(demonData, indent=2, sort_keys=True)
-    demonData = 'const SMT5_DEMON_DATA = ' + demonData.replace('"[', '[').replace(']"', ']')
-    jsonfile.write(demonData)
-with open('../docs/smt5/skill-data.js', 'w+') as jsonfile:
-    skillData = 'const SMT5_SKILL_DATA = ' + json.dumps(skillData, indent=2, sort_keys=True)
-    jsonfile.write(skillData)
-with open('../docs/smt5/jap-names.js', 'w+') as jsonfile:
-    skillData = 'const SMT5_JAP_NAMES = ' + json.dumps(japData, indent=2, sort_keys=True, ensure_ascii=False)
-    jsonfile.write(skillData)
+save_ordered_demons(OLD_DEMONS, 'new-demon-data.json')
