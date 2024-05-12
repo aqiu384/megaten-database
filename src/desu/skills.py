@@ -1,18 +1,23 @@
 #!/usr/bin/python3
-import math
 import struct
 import json
 from shared import load_id_file
 
-SKILL_IDS = load_id_file('dso-data/dso-skills.tsv')
+GAME = 'dso'
 
-with open('dumps/dso-skills.bin', 'rb') as binfile:
+with open(f"configs/{GAME}-comp-config.json") as jsonfile:
+    COMP_CONFIG = json.load(jsonfile)
+
+SKILL_IDS = load_id_file(COMP_CONFIG['skillIds']['file'])
+
+with open(COMP_CONFIG['skillDump']['file'], 'rb') as binfile:
     NEW_SKILLS = binfile.read()
 
-LINE_LEN = 0x48
-START_OFFSET = 0x00
-# END_OFFSET = START_OFFSET + 73 * LINE_LEN
-END_OFFSET = len(NEW_SKILLS)
+LINE_LEN = COMP_CONFIG['skillDump']['length']
+START_OFFSET = COMP_CONFIG['skillDump']['start']
+END_OFFSET = COMP_CONFIG['skillDump']['end']
+if END_OFFSET == 0:
+    END_OFFSET = len(NEW_SKILLS)
 
 def parse_cost(cost):
     suffixes = ['None', ' DROP', ' MP', ' HP']
@@ -37,7 +42,6 @@ for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     unk_pwr = struct.unpack('<3B', line[0x15:0x18])
     min_hits, max_hits, pwr_formula, pwr_base, pwr_add = struct.unpack('<2BH2B', line[0x18:0x1E])
     mp_formula, mp_base, one, ail_flag, ail_hit, ail_type = struct.unpack('<3HBBH', line[0x1E:0x28])
-    unk1 = struct.unpack('<32B', line[0x28:0x48])
+    unk1 = struct.unpack('<20B', line[0x28:0x3C])
 
     print(s_id, sname, dmg_type, field_use, can_crit, parse_cost(cost), pwr_stat, elem, hit, hit_area, hit_side, min_hits, max_hits, pwr_formula, pwr_base, pwr_add, mp_formula, mp_base, one, ail_flag, ail_hit, ail_type, sep='\t')
-    # print(sname, unk1)
