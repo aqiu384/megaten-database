@@ -1,0 +1,1378 @@
+{
+  "Agitating Hablerie": {
+    "ailments": "------y---",
+    "area": "You in Wonderland 3",
+    "dodds": {
+      "Clapper Piece": 60,
+      "Clapper Skin": 40
+    },
+    "drops": {"Clapper Piece": 60, "Clapper Skin": 40},
+    "exp": 399,
+    "lvl": 9,
+    "race": "Magician",
+    "resists": "9-usssvy--",
+    "skills": ["Thorn Chains", "Rakunda"],
+    "stats": [326, 19, 11, 10, 14, 16]
+  },
+  "Amenti Raven": {
+    "ailments": "---x--s-6-",
+    "area": "Evil Spirit Club 4",
+    "dodds": {
+      "Raven Beak": 40,
+      "Raven Feather": 40,
+      "Raven Piece": 50
+    },
+    "drops": {"Raven Piece": 50, "Raven Feather": 40, "Raven Beak": 40},
+    "exp": 6850,
+    "lvl": 41,
+    "race": "Hermit",
+    "resists": "s--suuv---",
+    "skills": ["Bufula", "Mabufula", "Ice Corrosion"],
+    "stats": [693, 42, 49, 38, 40, 35]
+  },
+  "Amorous Snake": {
+    "ailments": "-----z----",
+    "area": "Group Date Cafe 4",
+    "dodds": {
+      "Serpent Piece": 60,
+      "Serpent Ring": 40,
+      "Serpent Scale": 40
+    },
+    "drops": {"Serpent Piece": 60, "Serpent Ring": 40, "Serpent Scale": 40},
+    "exp": 2905,
+    "lvl": 26,
+    "race": "Lovers",
+    "resists": "u-9vs9s-y-",
+    "skills": ["Tentarafoo", "Thorn Cuffs"],
+    "stats": [384, 30, 27, 28, 24, 32]
+  },
+  "Angel of Love": {
+    "ailments": "-n-sssssnn",
+    "area": "Group Date Cafe 2, 4",
+    "dodds": {
+      "Love Shard": 100
+    },
+    "drops": {"Love Shard": 100},
+    "exp": 5398,
+    "lvl": 27,
+    "race": "Fool",
+    "resists": "---11--nn-",
+    "skills": ["Mow Down", "Mabufu", "Tentarafoo"],
+    "stats": [3180, 30, 30, 45, 14, 28]
+  },
+  "Apostate Tower": {
+    "ailments": "------s-7-",
+    "area": "Inaba Pride Exhibit 3, 4",
+    "dodds": {
+      "Tower Crown": 40,
+      "Tower Eye": 30,
+      "Tower Piece": 60
+    },
+    "drops": {"Tower Piece": 60, "Tower Crown": 40, "Tower Eye": 30},
+    "exp": 4319,
+    "lvl": 51,
+    "race": "Hierophant",
+    "resists": "uus9999yy-",
+    "skills": ["Garudyne", "Bufudyne", "Lullaby Song"],
+    "stats": [555, 53, 58, 48, 40, 46]
+  },
+  "Arcane Turret": {
+    "ailments": "-----ss-4-",
+    "area": "Clock Tower 1-5",
+    "dodds": {
+      "Turret Belt": 124,
+      "Turret Cannon": 40,
+      "Turret Piece": 60
+    },
+    "drops": {"Turret Piece": 60, "Turret Cannon": 40, "Turret Belt": 124},
+    "exp": 6745,
+    "lvl": 55,
+    "race": "Chariot",
+    "resists": "8s-vs-s---",
+    "skills": ["Bufudyne", "Charge Shot", "Double Action"],
+    "stats": [862, 61, 58, 48, 43, 41]
+  },
+  "Autonomic Basalt": {
+    "ailments": "---x------",
+    "area": "Group Date Cafe 1",
+    "dodds": {
+      "Rock Hand": 35,
+      "Rock Lump": 35,
+      "Rock Piece": 50
+    },
+    "drops": {"Rock Piece": 50, "Rock Hand": 35, "Rock Lump": 35},
+    "exp": 554,
+    "lvl": 13,
+    "race": "Priestess",
+    "resists": "--uuuvuy--",
+    "skills": ["Fang Smash", "Kidney Smash"],
+    "stats": [294, 12, 14, 19, 12, 13]
+  },
+  "Battle Wheel": {
+    "ailments": "-----s--7-",
+    "area": "Inaba Pride Exhibit 1, 2",
+    "dodds": {
+      "Tire Axle": 40,
+      "Tire Mane": 40,
+      "Tire Piece": 60
+    },
+    "drops": {"Tire Piece": 60, "Tire Axle": 40, "Tire Mane": 40},
+    "exp": 2732,
+    "lvl": 43,
+    "race": "Chariot",
+    "resists": "99suvuu-y-",
+    "skills": ["Lightning Smash", "Scorching Blast"],
+    "stats": [383, 52, 40, 41, 42, 34]
+  },
+  "Beast of Lust": {
+    "ailments": "-s-ssss-nn",
+    "area": "Group Date Cafe 3, 4",
+    "dodds": {
+      "Lust Shard": 100
+    },
+    "drops": {"Lust Shard": 100},
+    "exp": 9435,
+    "lvl": 34,
+    "race": "Fool",
+    "resists": "---1111nn-",
+    "skills": ["Gigantic Fist", "Bestial Roar", "Silent Song"],
+    "stats": [3680, 50, 30, 53, 14, 33]
+  },
+  "Beastly Gigas": {
+    "ailments": "-----s--4-",
+    "area": "Inaba Pride Exhibit 1, 2",
+    "dodds": {
+      "Biceps Mask": 40,
+      "Biceps Piece": 60
+    },
+    "drops": {"Biceps Piece": 60, "Biceps Mask": 40},
+    "exp": 4626,
+    "lvl": 47,
+    "race": "Strength",
+    "resists": "8s9uuuv---",
+    "skills": ["Heavy Shot", "Brain Shake", "Double Action"],
+    "stats": [876, 56, 44, 46, 40, 38]
+  },
+  "Black Raven": {
+    "ailments": "-----x----",
+    "area": "Evil Spirit Club 1-3",
+    "dodds": {
+      "Crow Feather": 40,
+      "Crow Piece": 60
+    },
+    "drops": {"Crow Piece": 60, "Crow Feather": 40},
+    "exp": 3090,
+    "lvl": 30,
+    "race": "Hermit",
+    "resists": "s---9vs---",
+    "skills": ["Mighty Swing", "Rakunda"],
+    "stats": [364, 37, 38, 31, 38, 22]
+  },
+  "Blind Cupid": {
+    "ailments": "------z---",
+    "area": "Group Date Cafe 3",
+    "dodds": {
+      "Eros Arrow": 40,
+      "Eros Piece": 60,
+      "Eros Wings": 126
+    },
+    "drops": {"Eros Piece": 60, "Eros Arrow": 40, "Eros Wings": 126},
+    "exp": 1844,
+    "lvl": 20,
+    "race": "Lovers",
+    "resists": "-u9899v-y-",
+    "skills": ["Mabufu", "Thorn Chains"],
+    "stats": [211, 23, 28, 22, 28, 28]
+  },
+  "Bribed Fuzz": {
+    "ailments": "z----s--6-",
+    "area": "Evil Spirit Club 2-4",
+    "dodds": {
+      "Cop Badge": 60,
+      "Cop Piece": 50
+    },
+    "drops": {"Cop Badge": 60, "Cop Piece": 50},
+    "exp": 3200,
+    "lvl": 34,
+    "race": "Hierophant",
+    "resists": "9s9---v---",
+    "skills": ["Assault Shot", "Bestial Roar"],
+    "stats": [450, 42, 34, 38, 32, 24]
+  },
+  "Burning Beetle": {
+    "ailments": "xxxxx88-sx",
+    "area": "You in Wonderland 3",
+    "dodds": {
+      "Bug Horn": 40,
+      "Bug Piece": 60,
+      "Bug Shell": 40
+    },
+    "drops": {"Bug Piece": 60, "Bug Horn": 40, "Bug Shell": 40},
+    "exp": 625,
+    "lvl": 14,
+    "race": "Emperor",
+    "resists": "9-u-v--ss-",
+    "skills": ["Maragi", "Thorn Chains"],
+    "stats": [420, 23, 15, 18, 15, 18]
+  },
+  "Calm Pesce": {
+    "ailments": "----xx----",
+    "area": "You in Wonderland 2, 3",
+    "dodds": {
+      "Fish Eye": 40,
+      "Fish Filet": 40,
+      "Fish Piece": 60
+    },
+    "drops": {"Fish Piece": 60, "Fish Filet": 40, "Fish Eye": 40},
+    "exp": 125,
+    "lvl": 3,
+    "race": "Priestess",
+    "resists": "u----v--y-",
+    "skills": ["Buchikamashi", "Tarukaja"],
+    "stats": [188, 10, 10, 12, 14, 8]
+  },
+  "Card Soldier": {
+    "ailments": "s43ss3--nn",
+    "area": "You in Wonderland 1-3",
+    "dodds": {
+      "Ripped Card": 100
+    },
+    "drops": {"Ripped Card": 100},
+    "exp": 1447,
+    "lvl": 12,
+    "race": "Fool",
+    "resists": "-------nn-",
+    "skills": ["Mow Down", "Binding Cry"],
+    "stats": [2700, 22, 20, 25, 1, 16]
+  },
+  "Change Relic": {
+    "ailments": "s--------s",
+    "area": "Evil Spirit Club 3, 4",
+    "dodds": {
+      "Statue Blade": 40,
+      "Statue Hinges": 40,
+      "Statue Piece": 60
+    },
+    "drops": {"Statue Piece": 60, "Statue Hinges": 40, "Statue Blade": 40},
+    "exp": 2930,
+    "lvl": 33,
+    "race": "Empress",
+    "resists": "ssusv9s---",
+    "skills": ["Hard Slash", "Heat Wave", "Marakunda"],
+    "stats": [456, 44, 34, 38, 41, 29]
+  },
+  "Cowardly Maya": {
+    "ailments": "----------",
+    "area": "You in Wonderland 0, 1",
+    "dodds": {
+      "Adhesive Hand": 30,
+      "Adhesive Piece": 45
+    },
+    "drops": {"Adhesive Piece": 45, "Adhesive Hand": 30},
+    "exp": 55,
+    "lvl": 1,
+    "race": "Magician",
+    "resists": "-uuvvvv-y-",
+    "skills": ["Buchikamashi"],
+    "stats": [84, 5, 7, 5, 6, 6]
+  },
+  "Curse Dice": {
+    "ailments": "yyy-y-3-4-",
+    "area": "Clock Tower 8, 9",
+    "dodds": {
+      "Red Ring Lump": 40,
+      "Red Ring Piece": 60
+    },
+    "drops": {"Red Ring Piece": 60, "Red Ring Lump": 40},
+    "exp": 8632,
+    "lvl": 67,
+    "race": "Fortune",
+    "resists": "sss8888vn-",
+    "skills": ["Mudoon", "Evil Smile", "Self-Destruct"],
+    "stats": [975, 73, 71, 64, 54, 46]
+  },
+  "Cute Baby": {
+    "ailments": "31111qqqn0",
+    "area": "Evil Spirit Club 1-4",
+    "dodds": {
+      "Old Pacifier": 100
+    },
+    "drops": {"Old Pacifier": 100},
+    "exp": 13104,
+    "lvl": 49,
+    "race": "Fool",
+    "resists": "s----wt0n-",
+    "skills": ["Binding Cry", "Gigantic Fist", "Drain Touch", "Wide Effect II", "Phys Boost"],
+    "stats": [3800, 53, 48, 42, 36, 54]
+  },
+  "Desirous Maya": {
+    "ailments": "----------",
+    "area": "Evil Spirit Club 1, 2",
+    "dodds": {
+      "Sticky Hand": 35,
+      "Sticky Jelly": 35,
+      "Sticky Piece": 50
+    },
+    "drops": {"Sticky Piece": 50, "Sticky Hand": 35, "Sticky Jelly": 35},
+    "exp": 2195,
+    "lvl": 29,
+    "race": "Hermit",
+    "resists": "--ssv9-y--",
+    "skills": ["Stab Shower", "Tarukaja"],
+    "stats": [369, 36, 33, 31, 28, 25]
+  },
+  "Devious Maya": {
+    "ailments": "zz--z-y--y",
+    "area": "Evil Spirit Club 3, 4",
+    "dodds": {
+      "Mushy Hand": 40,
+      "Mushy Piece": 50
+    },
+    "drops": {"Mushy Piece": 50, "Mushy Hand": 40},
+    "exp": 2695,
+    "lvl": 35,
+    "race": "Hanged",
+    "resists": "99s9999zn-",
+    "skills": ["Life Wall", "Matarukaja"],
+    "stats": [336, 46, 36, 34, 34, 31]
+  },
+  "Earnest Calocy": {
+    "ailments": "----------",
+    "area": "Evil Spirit Club 4",
+    "dodds": {
+      "Calocy Glasses": 40,
+      "Calocy Piece": 50
+    },
+    "drops": {"Calocy Piece": 50, "Calocy Glasses": 40},
+    "exp": 5070,
+    "lvl": 38,
+    "race": "Hanged",
+    "resists": "----------",
+    "skills": ["Silent Song", "Muscle Down", "Spiderweb"],
+    "stats": [528, 52, 34, 42, 40, 43]
+  },
+  "Elegant Mother": {
+    "ailments": "xxxxx-z--x",
+    "area": "Group Date Cafe 2-4",
+    "dodds": {
+      "Madam Hat": 40,
+      "Madam Piece": 60
+    },
+    "drops": {"Madam Piece": 60, "Madam Hat": 40},
+    "exp": 1652,
+    "lvl": 17,
+    "race": "Empress",
+    "resists": "uuu9999zz-",
+    "skills": ["Ice Dance", "Media"],
+    "stats": [189, 24, 27, 20, 12, 13]
+  },
+  "Enslaved Beast": {
+    "ailments": "xxxxxyxx-x",
+    "area": "You in Wonderland 2, 3",
+    "dodds": {
+      "Lion Iron Ball": 40,
+      "Lion Piece": 60
+    },
+    "drops": {"Lion Piece": 60, "Lion Iron Ball": 40},
+    "exp": 285,
+    "lvl": 7,
+    "race": "Strength",
+    "resists": "99uv---zz-",
+    "skills": ["Twin Slash", "Bestial Roar"],
+    "stats": [374, 16, 9, 14, 9, 11]
+  },
+  "Fast Guy": {
+    "ailments": "13111qqsnn",
+    "area": "Inaba Pride Exhibit 2, 4",
+    "dodds": {
+      "Speed Mask": 100
+    },
+    "drops": {"Speed Mask": 100},
+    "exp": 26283,
+    "lvl": 64,
+    "race": "Fool",
+    "resists": "ssqx---nn-",
+    "skills": ["Megaton Slam", "Spin Slash", "Tarukaja", "Phys Boost"],
+    "stats": [4550, 62, 53, 55, 56, 55]
+  },
+  "Fate Seeker": {
+    "ailments": "s--z-42-3-",
+    "area": "Evil Spirit Club 3, 4",
+    "dodds": {
+      "Monitor Brow": 40,
+      "Monitor Eye": 136,
+      "Monitor Piece": 60
+    },
+    "drops": {"Monitor Piece": 60, "Monitor Brow": 40, "Monitor Eye": 136},
+    "exp": 10000,
+    "lvl": 44,
+    "race": "Hermit",
+    "resists": "999-v--ss-",
+    "skills": ["Megido", "Bestial Roar", "Rakunda"],
+    "stats": [1800, 56, 38, 46, 42, 28]
+  },
+  "Festival Dudes": {
+    "ailments": "11311q1qnn",
+    "area": "Inaba Pride Exhibit 2, 4",
+    "dodds": {
+      "Hyottoko Mask": 100
+    },
+    "drops": {"Hyottoko Mask": 100},
+    "exp": 26691,
+    "lvl": 70,
+    "race": "Fool",
+    "resists": "--qsw-vnn-",
+    "skills": ["Megaton Slam", "Crazed Slash", "Maragidyne", "Magic Boost", "Phys Boost"],
+    "stats": [9800, 70, 58, 59, 55, 63]
+  },
+  "Fierce Cyclops": {
+    "ailments": "yy--y-y-7-",
+    "area": "Inaba Pride Exhibit 2-4",
+    "dodds": {
+      "Hanged Cuffs": 40,
+      "Hanged Piece": 60,
+      "Hanged Thorn": 148
+    },
+    "drops": {"Hanged Piece": 60, "Hanged Cuffs": 40, "Hanged Thorn": 148},
+    "exp": 3703,
+    "lvl": 47,
+    "race": "Hanged",
+    "resists": "999uuuuyy-",
+    "skills": ["Life Wall", "Marakunda"],
+    "stats": [525, 66, 38, 48, 48, 32]
+  },
+  "God of Romance": {
+    "ailments": "--s-----nn",
+    "area": "Group Date Cafe 3",
+    "dodds": {
+      "Romance Shard": 100
+    },
+    "drops": {"Romance Shard": 100},
+    "exp": 10000,
+    "lvl": 26,
+    "race": "Fool",
+    "resists": "---8v--nn-",
+    "skills": ["Assault Shot", "Maragi", "Tarukaja", "Magic Boost II"],
+    "stats": [2800, 30, 33, 29, 29, 18]
+  },
+  "Gorgeous King": {
+    "ailments": "-----64-4-",
+    "area": "Group Date Cafe 2-4",
+    "dodds": {
+      "Royal Crown": 40,
+      "Royal Piece": 60,
+      "Royal Stache": 40
+    },
+    "drops": {"Royal Piece": 60, "Royal Stache": 40, "Royal Crown": 40},
+    "exp": 4200,
+    "lvl": 30,
+    "race": "Emperor",
+    "resists": "---v---ss-",
+    "skills": ["Evil Smile", "Diarahan"],
+    "stats": [2400, 34, 8, 6, 28, 48]
+  },
+  "Happy Gene": {
+    "ailments": "yy--y-y-7-",
+    "area": "Inaba Pride Exhibit 1, 2",
+    "dodds": {
+      "Spiral Piece": 60,
+      "Spiral Spring": 40
+    },
+    "drops": {"Spiral Piece": 60, "Spiral Spring": 40},
+    "exp": 3860,
+    "lvl": 45,
+    "race": "Fortune",
+    "resists": "uuuuuuuny-",
+    "skills": ["Tentarafoo", "Mudoon"],
+    "stats": [383, 53, 49, 42, 35, 34]
+  },
+  "Heat Balance": {
+    "ailments": "------y---",
+    "area": "You in Wonderland 3",
+    "dodds": {
+      "Scale Dish": 40,
+      "Scale Piece": 60
+    },
+    "drops": {"Scale Piece": 60, "Scale Dish": 40},
+    "exp": 423,
+    "lvl": 10,
+    "race": "Justice",
+    "resists": "---ssvvyy-",
+    "skills": ["Maragi", "Mabufu", "Mind Charge"],
+    "stats": [284, 15, 10, 16, 13, 10]
+  },
+  "Idle Basalt": {
+    "ailments": "y---xy----",
+    "area": "Group Date Cafe 2, 4",
+    "dodds": {
+      "Boulder Hand": 40,
+      "Boulder Piece": 60
+    },
+    "drops": {"Boulder Piece": 60, "Boulder Hand": 40},
+    "exp": 1437,
+    "lvl": 24,
+    "race": "Empress",
+    "resists": "ssuuuvuy--",
+    "skills": ["Stona", "Power Charge"],
+    "stats": [394, 32, 22, 28, 25, 28]
+  },
+  "Immortal Gigas": {
+    "ailments": "-----s--4-",
+    "area": "Inaba Pride Exhibit 4",
+    "dodds": {
+      "Triceps Mask": 40,
+      "Triceps Piece": 60
+    },
+    "drops": {"Triceps Piece": 60, "Triceps Mask": 40},
+    "exp": 4803,
+    "lvl": 55,
+    "race": "Strength",
+    "resists": "8s9us-v---",
+    "skills": ["Drain Touch", "Megaton Press", "Bestial Roar", "Double Action"],
+    "stats": [885, 68, 52, 54, 46, 38]
+  },
+  "Indignant Machine": {
+    "ailments": "-----2--2-",
+    "area": "Inaba Pride Exhibit 3, 4",
+    "dodds": {
+      "Machine Mallet": 40,
+      "Machine Piece": 60
+    },
+    "drops": {"Machine Piece": 60, "Machine Mallet": 40},
+    "exp": 12500,
+    "lvl": 57,
+    "race": "Justice",
+    "resists": "999--v-ss-",
+    "skills": ["Lightning Smash", "Tousatsujin", "Scorching Blast", "Double Action II", "Wide Effect II"],
+    "stats": [2000, 73, 58, 56, 42, 44]
+  },
+  "Intrepid Knight": {
+    "ailments": "-----3--4-",
+    "area": "Clock Tower 6-9",
+    "dodds": {
+      "Knight Lance": 30,
+      "Knight Piece": 60,
+      "Knight Reins": 40
+    },
+    "drops": {"Knight Piece": 60, "Knight Reins": 40, "Knight Lance": 30},
+    "exp": 9972,
+    "lvl": 66,
+    "race": "Emperor",
+    "resists": "898999vvn-",
+    "skills": ["Lunge", "Torrent Shot", "Safeguard"],
+    "stats": [1228, 72, 67, 61, 49, 46]
+  },
+  "Inviting Nyogo": {
+    "ailments": "------s-7-",
+    "area": "Inaba Pride Exhibit 1",
+    "dodds": {
+      "Nyogo Kimono": 40,
+      "Nyogo Piece": 60
+    },
+    "drops": {"Nyogo Piece": 60, "Nyogo Kimono": 40},
+    "exp": 3029,
+    "lvl": 43,
+    "race": "Strength",
+    "resists": "uuuv-ss---",
+    "skills": ["Garula", "Magarula", "Matarukaja"],
+    "stats": [363, 46, 47, 40, 38, 37]
+  },
+  "Iron Dice": {
+    "ailments": "yyy-y-x-7-",
+    "area": "Inaba Pride Exhibit 2, 3",
+    "dodds": {
+      "Dice Dip": 40,
+      "Dice Piece": 60
+    },
+    "drops": {"Dice Piece": 60, "Dice Dip": 40},
+    "exp": 2715,
+    "lvl": 46,
+    "race": "Fortune",
+    "resists": "ss9suvsyn-",
+    "skills": ["Self-Destruct", "Bane Slice"],
+    "stats": [428, 56, 42, 45, 45, 40]
+  },
+  "Jotun of Grief": {
+    "ailments": "-----3--2-",
+    "area": "Clock Tower 5-7",
+    "dodds": {
+      "W Horse Cuffs": 40,
+      "W Horse Piece": 60
+    },
+    "drops": {"W Horse Piece": 60, "W Horse Cuffs": 40},
+    "exp": 9163,
+    "lvl": 64,
+    "race": "Hanged",
+    "resists": "9ss-sv----",
+    "skills": ["Drain Touch", "Primal Force", "Marakunda"],
+    "stats": [972, 74, 63, 58, 50, 43]
+  },
+  "Jotun of Power": {
+    "ailments": "-----3--2-",
+    "area": "Clock Tower 1, 2, 5",
+    "dodds": {
+      "B Horse Chain": 30,
+      "B Horse Cuffs": 40,
+      "B Horse Piece": 60
+    },
+    "drops": {"B Horse Piece": 60, "B Horse Cuffs": 40, "B Horse Chain": 30},
+    "exp": 6881,
+    "lvl": 56,
+    "race": "Hanged",
+    "resists": "9ss-vs----",
+    "skills": ["Drain Touch", "Primal Force", "Matarukaja"],
+    "stats": [919, 62, 56, 53, 44, 38]
+  },
+  "Jupiter Eagle": {
+    "ailments": "--x---x---",
+    "area": "You in Wonderland 2, 3",
+    "dodds": {
+      "Eagle Piece": 60,
+      "Eagle Wings": 40
+    },
+    "drops": {"Eagle Piece": 60, "Eagle Wings": 40},
+    "exp": 160,
+    "lvl": 4,
+    "race": "Empress",
+    "resists": "u-----vy--",
+    "skills": ["Makajam", "Cleave"],
+    "stats": [142, 9, 8, 12, 10, 14]
+  },
+  "Justice Sword": {
+    "ailments": "x----y----",
+    "area": "You in Wonderland 2, 3",
+    "dodds": {
+      "Sword Hilt": 40,
+      "Sword Piece": 60
+    },
+    "drops": {"Sword Piece": 60, "Sword Hilt": 40},
+    "exp": 225,
+    "lvl": 5,
+    "race": "Justice",
+    "resists": "-u--v---y-",
+    "skills": ["Stunning Slice", "Toxic Slice"],
+    "stats": [162, 12, 14, 12, 9, 10]
+  },
+  "King Castle": {
+    "ailments": "--------2-",
+    "area": "Clock Tower 2-5",
+    "dodds": {
+      "Castle Cannon": 30,
+      "Castle Piece": 60,
+      "Castle Rubble": 40
+    },
+    "drops": {"Castle Piece": 60, "Castle Rubble": 40, "Castle Cannon": 30},
+    "exp": 7956,
+    "lvl": 58,
+    "race": "Emperor",
+    "resists": "889--v-nv-",
+    "skills": ["Poison Breath", "Myriad Arrows", "Masukukaja"],
+    "stats": [977, 57, 62, 52, 47, 45]
+  },
+  "Kowakashu": {
+    "ailments": "11131qqqnn",
+    "area": "Inaba Pride Exhibit 1, 4",
+    "dodds": {
+      "Kanroshu": 100
+    },
+    "drops": {"Kanroshu": 100},
+    "exp": 20101,
+    "lvl": 60,
+    "race": "Fool",
+    "resists": "-s-w---nn-",
+    "skills": ["Lullaby Song", "Spin Slash", "Garudyne", "Magic Boost"],
+    "stats": [6450, 60, 67, 70, 46, 55]
+  },
+  "Kumiashira": {
+    "ailments": "11131qqqnn",
+    "area": "Inaba Pride Exhibit 1, 4",
+    "dodds": {
+      "Daiginjo": 100
+    },
+    "drops": {"Daiginjo": 100},
+    "exp": 20118,
+    "lvl": 62,
+    "race": "Fool",
+    "resists": "-s--sssnn-",
+    "skills": ["Tentarafoo", "Magarudyne", "Mahamaon", "Magic Boost", "Phys Boost"],
+    "stats": [6600, 55, 53, 54, 48, 58]
+  },
+  "Laughing Table": {
+    "ailments": "yyyzy-z---",
+    "area": "You in Wonderland 1, 2",
+    "dodds": {
+      "Desk Leg": 50,
+      "Desk Piece": 60
+    },
+    "drops": {"Desk Piece": 60, "Desk Leg": 50},
+    "exp": 80,
+    "lvl": 3,
+    "race": "Magician",
+    "resists": "-vuv---zz-",
+    "skills": ["Mabufu"],
+    "stats": [124, 6, 1, 12, 4, 2]
+  },
+  "Lovely Doll": {
+    "ailments": "111n31qsnn",
+    "area": "Evil Spirit Club 2-4",
+    "dodds": {
+      "Red Clothes": 100
+    },
+    "drops": {"Red Clothes": 100},
+    "exp": 14302,
+    "lvl": 50,
+    "race": "Fool",
+    "resists": "--st-w-nn-",
+    "skills": ["Evil Smile", "Tousatsujin", "Megidola", "Trick Step", "Phys Boost"],
+    "stats": [4900, 50, 50, 41, 37, 52]
+  },
+  "Lustful Snake": {
+    "ailments": "-----y-y--",
+    "area": "Group Date Cafe 1, 2, 4",
+    "dodds": {
+      "Snake Piece": 60,
+      "Snake Ring": 40,
+      "Snake Skin": 152
+    },
+    "drops": {"Snake Piece": 60, "Snake Ring": 40, "Snake Skin": 152},
+    "exp": 831,
+    "lvl": 14,
+    "race": "Lovers",
+    "resists": "u-9v9ssy--",
+    "skills": ["Binding Cry", "Thorn Cuffs"],
+    "stats": [264, 23, 21, 18, 19, 21]
+  },
+  "Luxury Hand": {
+    "ailments": "------3---",
+    "area": "Clock Tower 1-9",
+    "dodds": {
+      "Luxury Piece": 40
+    },
+    "drops": {"Luxury Piece": 40},
+    "exp": 31500,
+    "lvl": 56,
+    "race": "Magician",
+    "resists": "0000000000",
+    "skills": ["Megido", "Stona", "Mutudi", "Trick Step"],
+    "stats": [5, 58, 99, 62, 55, 52]
+  },
+  "Lying Hablerie": {
+    "ailments": "y----x----",
+    "area": "You in Wonderland 0-3",
+    "dodds": {
+      "Tongue Piece": 55,
+      "Tongue Skin": 40
+    },
+    "drops": {"Tongue Piece": 55, "Tongue Skin": 40},
+    "exp": 60,
+    "lvl": 2,
+    "race": "Magician",
+    "resists": "-uvv-v-y--",
+    "skills": ["Bufu"],
+    "stats": [144, 5, 2, 8, 7, 5]
+  },
+  "Mach Wheel": {
+    "ailments": "-----s--7-",
+    "area": "Inaba Pride Exhibit 3, 4",
+    "dodds": {
+      "Wheel Axle": 40,
+      "Wheel Piece": 60,
+      "Wheel Tail": 120
+    },
+    "drops": {"Wheel Piece": 60, "Wheel Axle": 40, "Wheel Tail": 120},
+    "exp": 3312,
+    "lvl": 49,
+    "race": "Chariot",
+    "resists": "99suvus-y-",
+    "skills": ["Stardrop", "Power Charge"],
+    "stats": [640, 58, 52, 45, 52, 36]
+  },
+  "Messenger of Love": {
+    "ailments": "-s-snssxnn",
+    "area": "Group Date Cafe 1, 4",
+    "dodds": {
+      "Passion Shard": 100
+    },
+    "drops": {"Passion Shard": 100},
+    "exp": 5082,
+    "lvl": 23,
+    "race": "Fool",
+    "resists": "---xx11nn-",
+    "skills": ["Lightning Smash", "Mazio", "Binding Cry"],
+    "stats": [3180, 30, 30, 24, 21, 20]
+  },
+  "Mind Dice": {
+    "ailments": "yyy-y-s-4-",
+    "area": "Clock Tower 1-4, 9",
+    "dodds": {
+      "Fire Ring Lump": 114,
+      "Ring Lump": 40,
+      "Ring Piece": 60
+    },
+    "drops": {"Ring Piece": 60, "Ring Lump": 40, "Fire Ring Lump": 114},
+    "exp": 6475,
+    "lvl": 54,
+    "race": "Fortune",
+    "resists": "ss98888nv-",
+    "skills": ["Hamaon", "Lullaby Song", "Self-Destruct"],
+    "stats": [762, 67, 58, 52, 46, 43]
+  },
+  "Minotaur I": {
+    "ailments": "-----3--2-",
+    "area": "Clock Tower 8, 9",
+    "dodds": {
+      "Bull Chain": 40,
+      "Bull Horn": 116,
+      "Bull Piece": 60
+    },
+    "drops": {"Bull Piece": 60, "Bull Chain": 40, "Bull Horn": 116},
+    "exp": 14406,
+    "lvl": 69,
+    "race": "Hanged",
+    "resists": "9ssv99999-",
+    "skills": ["Brain Shake", "Rampage", "Power Charge", "Wide Effect II"],
+    "stats": [1488, 76, 70, 60, 46, 51]
+  },
+  "Natural Dancer": {
+    "ailments": "-----z----",
+    "area": "Group Date Cafe 3",
+    "dodds": {
+      "Hoofer Piece": 60,
+      "Hoofer Shoes": 40
+    },
+    "drops": {"Hoofer Piece": 60, "Hoofer Shoes": 40},
+    "exp": 1915,
+    "lvl": 23,
+    "race": "Lovers",
+    "resists": "9999v-9y--",
+    "skills": ["Double Shot", "Single Shot"],
+    "stats": [424, 29, 24, 26, 24, 19]
+  },
+  "Old Doll": {
+    "ailments": "113n1q1qn0",
+    "area": "Evil Spirit Club 4",
+    "dodds": {
+      "Blue Clothes": 100
+    },
+    "drops": {"Blue Clothes": 100},
+    "exp": 18590,
+    "lvl": 55,
+    "race": "Fool",
+    "resists": "xxqqqxq0n-",
+    "skills": ["Mamudoon", "Evil Smile", "Mabufudyne", "Phys Boost", "Wide Effect II"],
+    "stats": [9800, 45, 43, 38, 60, 58]
+  },
+  "Opulent Hand": {
+    "ailments": "----------",
+    "area": "Inaba Pride Exhibit 1-4",
+    "dodds": {
+      "Opulent Piece": 40
+    },
+    "drops": {"Opulent Piece": 40},
+    "exp": 15000,
+    "lvl": 40,
+    "race": "Magician",
+    "resists": "0000000000",
+    "skills": ["Lullaby Song", "Spiderweb", "Mutudi", "Trick Step"],
+    "stats": [5, 56, 53, 51, 50, 36]
+  },
+  "Order Giant": {
+    "ailments": "-s--snn-1s",
+    "area": "Clock Tower 8, 9",
+    "dodds": {
+      "Giant Hilt": 40,
+      "Giant Piece": 60,
+      "Giant Sword": 110
+    },
+    "drops": {"Giant Piece": 60, "Giant Hilt": 40, "Giant Sword": 110},
+    "exp": 21900,
+    "lvl": 72,
+    "race": "Justice",
+    "resists": "888-v--ss-",
+    "skills": ["Megaton Press", "Deathbound", "Bestial Roar", "Double Action II", "Wide Effect II"],
+    "stats": [2800, 74, 71, 64, 54, 55]
+  },
+  "Painting Soldier": {
+    "ailments": "s32ss2--nn",
+    "area": "You in Wonderland 3",
+    "dodds": {
+      "Painted Card": 100
+    },
+    "drops": {"Painted Card": 100},
+    "exp": 5053,
+    "lvl": 15,
+    "race": "Fool",
+    "resists": "-------nn-",
+    "skills": ["Mighty Swing", "Silent Song", "Spiderweb"],
+    "stats": [3500, 25, 28, 32, 1, 20]
+  },
+  "Phantom Mage": {
+    "ailments": "------sx6-",
+    "area": "Evil Spirit Club 1, 2",
+    "dodds": {
+      "Ghost Lamp": 40,
+      "Ghost Piece": 60
+    },
+    "drops": {"Ghost Piece": 60, "Ghost Lamp": 40},
+    "exp": 3060,
+    "lvl": 30,
+    "race": "Hermit",
+    "resists": "uuuv99s-s-",
+    "skills": ["Garula", "Magarula", "Wind Corrosion"],
+    "stats": [424, 31, 35, 31, 32, 28]
+  },
+  "Phantom Master": {
+    "ailments": "------sx6-",
+    "area": "Evil Spirit Club 3, 4",
+    "dodds": {
+      "Phantom Lamp": 40,
+      "Phantom Piece": 60
+    },
+    "drops": {"Phantom Piece": 60, "Phantom Lamp": 40},
+    "exp": 3445,
+    "lvl": 36,
+    "race": "Hermit",
+    "resists": "uuuv99s-s-",
+    "skills": ["Agilao", "Maragion", "Fire Corrosion"],
+    "stats": [635, 38, 41, 34, 34, 28]
+  },
+  "Platinum Dice": {
+    "ailments": "yyy-y---7-",
+    "area": "Inaba Pride Exhibit 3, 4",
+    "dodds": {
+      "Craps Eye": 40,
+      "Craps Lump": 40,
+      "Craps Piece": 60
+    },
+    "drops": {"Craps Piece": 60, "Craps Lump": 40, "Craps Eye": 40},
+    "exp": 3705,
+    "lvl": 52,
+    "race": "Fortune",
+    "resists": "ssssvusny-",
+    "skills": ["Self-Destruct", "Dream Slice", "Mind Charge"],
+    "stats": [582, 56, 58, 56, 46, 33]
+  },
+  "Possessive Cupid": {
+    "ailments": "x----yy---",
+    "area": "Group Date Cafe 1, 2",
+    "dodds": {
+      "Angel Arrow": 40,
+      "Angel Piece": 60
+    },
+    "drops": {"Angel Piece": 60, "Angel Arrow": 40},
+    "exp": 599,
+    "lvl": 13,
+    "race": "Lovers",
+    "resists": "-u-999v-y-",
+    "skills": ["Bufu", "Thorn Chains"],
+    "stats": [186, 21, 19, 17, 24, 18]
+  },
+  "Protective Lexy": {
+    "ailments": "zz--z-yx-y",
+    "area": "Evil Spirit Club 1",
+    "dodds": {
+      "Lexy Cotton": 124,
+      "Lexy Piece": 50,
+      "Lexy Ribbon": 35
+    },
+    "drops": {"Lexy Piece": 50, "Lexy Ribbon": 35, "Lexy Cotton": 124},
+    "exp": 2850,
+    "lvl": 29,
+    "race": "Hanged",
+    "resists": "9s9----nz-",
+    "skills": ["Diarama", "Safeguard"],
+    "stats": [398, 34, 27, 36, 36, 36]
+  },
+  "Purple Sigil": {
+    "ailments": "------3-2-",
+    "area": "Clock Tower 3-8",
+    "dodds": {
+      "Talisman Cape": 40,
+      "Talisman Piece": 60,
+      "Talisman Staff": 30
+    },
+    "drops": {"Talisman Piece": 60, "Talisman Cape": 40, "Talisman Staff": 30},
+    "exp": 11196,
+    "lvl": 60,
+    "race": "Hierophant",
+    "resists": "uuuvsssss-",
+    "skills": ["Garudyne", "Ziodyne", "Stone Mist"],
+    "stats": [1158, 64, 68, 55, 52, 38]
+  },
+  "Rain Leg Musha": {
+    "ailments": "-----s--4-",
+    "area": "Inaba Pride Exhibit 2, 3",
+    "dodds": {
+      "Musha Helm": 40,
+      "Musha Piece": 60
+    },
+    "drops": {"Musha Piece": 60, "Musha Helm": 40},
+    "exp": 4668,
+    "lvl": 50,
+    "race": "Strength",
+    "resists": "s99uvus---",
+    "skills": ["Guillotine", "Blade of Fury", "Wide Effect"],
+    "stats": [946, 63, 49, 48, 46, 38]
+  },
+  "Rainy Brother 1": {
+    "ailments": "----------",
+    "area": "Evil Spirit Club 4",
+    "dodds": {
+      "Elder Core": 118,
+      "Elder Mist": 40,
+      "Elder Piece": 50
+    },
+    "drops": {"Elder Piece": 50, "Elder Mist": 40, "Elder Core": 118},
+    "exp": 6670,
+    "lvl": 40,
+    "race": "Strength",
+    "resists": "999--v-yy-",
+    "skills": ["Tousatsujin", "Scorching Blast", "Masukunda"],
+    "stats": [588, 42, 42, 38, 38, 32]
+  },
+  "Rainy Brother 2": {
+    "ailments": "----------",
+    "area": "Evil Spirit Club 2-4",
+    "dodds": {
+      "Rainy Breath": 35,
+      "Rainy Core": 35,
+      "Rainy Piece": 50
+    },
+    "drops": {"Rainy Piece": 50, "Rainy Breath": 35, "Rainy Core": 35},
+    "exp": 3040,
+    "lvl": 32,
+    "race": "Lovers",
+    "resists": "999--v-yy-",
+    "skills": ["Fang Smash", "Kidney Smash", "Masukunda"],
+    "stats": [533, 44, 36, 34, 36, 28]
+  },
+  "Rainy Pot": {
+    "ailments": "------s-6-",
+    "area": "Evil Spirit Club 2-4",
+    "dodds": {
+      "Urn Hair": 40,
+      "Urn Piece": 60
+    },
+    "drops": {"Urn Piece": 60, "Urn Hair": 40},
+    "exp": 3195,
+    "lvl": 37,
+    "race": "Priestess",
+    "resists": "999v--s---",
+    "skills": ["Zionga", "Mazionga", "Elec Corrosion"],
+    "stats": [441, 32, 36, 35, 34, 31]
+  },
+  "Rampage Drive": {
+    "ailments": "-----ss-4-",
+    "area": "Clock Tower 1, 2, 5, 8",
+    "dodds": {
+      "H Drive Gear": 122,
+      "H Drive Piece": 60,
+      "H Drive Wheel": 40
+    },
+    "drops": {"H Drive Piece": 60, "H Drive Wheel": 40, "H Drive Gear": 122},
+    "exp": 8897,
+    "lvl": 57,
+    "race": "Chariot",
+    "resists": "s9s-s-v---",
+    "skills": ["Ziodyne", "Blade of Fury", "Tarukaja", "Wide Effect"],
+    "stats": [877, 64, 56, 54, 49, 44]
+  },
+  "Reckless Okina": {
+    "ailments": "------s-7-",
+    "area": "Inaba Pride Exhibit 4",
+    "dodds": {
+      "Sage Coat": 40,
+      "Sage Piece": 60
+    },
+    "drops": {"Sage Piece": 60, "Sage Coat": 40},
+    "exp": 4110,
+    "lvl": 53,
+    "race": "Hermit",
+    "resists": "uuuv-ss-n-",
+    "skills": ["Ziodyne", "Mazionga", "Mudoon"],
+    "stats": [569, 52, 63, 52, 45, 40]
+  },
+  "Scarlet Turret": {
+    "ailments": "-----ss-4-",
+    "area": "Clock Tower 4-7",
+    "dodds": {
+      "R Cannon": 40,
+      "R Turret Piece": 60
+    },
+    "drops": {"R Turret Piece": 60, "R Cannon": 40},
+    "exp": 8761,
+    "lvl": 62,
+    "race": "Chariot",
+    "resists": "8s-sv-s---",
+    "skills": ["Agidyne", "Charge Shot", "Double Action II"],
+    "stats": [922, 71, 64, 56, 47, 48]
+  },
+  "Shallow Okina": {
+    "ailments": "------s-7-",
+    "area": "Inaba Pride Exhibit 1, 2",
+    "dodds": {
+      "Okina Coat": 40,
+      "Okina Piece": 60,
+      "Okina Staff": 40
+    },
+    "drops": {"Okina Piece": 60, "Okina Coat": 40, "Okina Staff": 40},
+    "exp": 3884,
+    "lvl": 44,
+    "race": "Hermit",
+    "resists": "uuussv----",
+    "skills": ["Bufula", "Mabufula", "Marakunda"],
+    "stats": [388, 44, 49, 42, 39, 37]
+  },
+  "Slaughter Drive": {
+    "ailments": "-----ss-4-",
+    "area": "Clock Tower 8, 9",
+    "dodds": {
+      "Drive Piece": 60,
+      "Drive Sword": 30,
+      "Drive Wheel": 40
+    },
+    "drops": {"Drive Piece": 60, "Drive Wheel": 40, "Drive Sword": 30},
+    "exp": 10044,
+    "lvl": 68,
+    "race": "Chariot",
+    "resists": "s9s-v-s---",
+    "skills": ["Garudyne", "Spin Slash", "Rakunda", "Wide Effect II"],
+    "stats": [975, 75, 70, 62, 54, 52]
+  },
+  "Sleeping Table": {
+    "ailments": "------z---",
+    "area": "You in Wonderland 2, 3",
+    "dodds": {
+      "Table Leg": 40,
+      "Table Piece": 60,
+      "Table Silverware": 40
+    },
+    "drops": {"Table Piece": 60, "Table Leg": 40, "Table Silverware": 40},
+    "exp": 195,
+    "lvl": 6,
+    "race": "Magician",
+    "resists": "-u--v--zz-",
+    "skills": ["Garu", "Lullaby Song"],
+    "stats": [243, 14, 12, 12, 13, 12]
+  },
+  "Soul Dancer": {
+    "ailments": "-----z----",
+    "area": "Group Date Cafe 2",
+    "dodds": {
+      "Dancer Piece": 60,
+      "Dancer Shoes": 40
+    },
+    "drops": {"Dancer Piece": 60, "Dancer Shoes": 40},
+    "exp": 1722,
+    "lvl": 18,
+    "race": "Lovers",
+    "resists": "9999v99-y-",
+    "skills": ["Mow Down", "Thorn Shackles"],
+    "stats": [342, 26, 24, 21, 24, 28]
+  },
+  "Spurious Book": {
+    "ailments": "------yy--",
+    "area": "Group Date Cafe 1-3",
+    "dodds": {
+      "Scripture Latch": 40,
+      "Scripture Piece": 55
+    },
+    "drops": {"Scripture Piece": 55, "Scripture Latch": 40},
+    "exp": 636,
+    "lvl": 14,
+    "race": "Priestess",
+    "resists": "-9u-v---y-",
+    "skills": ["Garu", "Zio"],
+    "stats": [184, 14, 21, 16, 18, 15]
+  },
+  "Supreme Hand": {
+    "ailments": "----------",
+    "area": "Evil Spirit Club 1-4",
+    "dodds": {
+      "Supreme Piece": 40
+    },
+    "drops": {"Supreme Piece": 40},
+    "exp": 12500,
+    "lvl": 25,
+    "race": "Magician",
+    "resists": "0000000000",
+    "skills": ["Hama", "Mudo", "Mutudi", "Trick Step"],
+    "stats": [5, 40, 36, 37, 35, 46]
+  },
+  "Sweaty Guy": {
+    "ailments": "11113qqqnn",
+    "area": "Inaba Pride Exhibit 3, 4",
+    "dodds": {
+      "Dripping Sweat": 100
+    },
+    "drops": {"Dripping Sweat": 100},
+    "exp": 26283,
+    "lvl": 65,
+    "race": "Fool",
+    "resists": "-tqt-qwnn-",
+    "skills": ["Megaton Slam", "Sukukaja", "Spin Slash", "Trick Step", "Phys Boost"],
+    "stats": [8000, 65, 55, 58, 56, 63]
+  },
+  "The Capturer": {
+    "ailments": "31n11qqqnn",
+    "area": "Clock Tower 8, 9",
+    "dodds": {
+      "Tangled Thread": 100
+    },
+    "drops": {"Tangled Thread": 100},
+    "exp": 41236,
+    "lvl": 80,
+    "race": "Fool",
+    "resists": "ss---wsnn-",
+    "skills": ["Stone Mist", "Silent Song", "Maziodyne", "Magic Boost"],
+    "stats": [11050, 70, 73, 63, 60, 75]
+  },
+  "The Reaper": {
+    "ailments": "11111111nn",
+    "area": "Clock Tower 2, 4, 6, 8, 9",
+    "dodds": {
+      "Death's Order": 100
+    },
+    "drops": {"Death's Order": 100},
+    "exp": 98966,
+    "lvl": 90,
+    "race": "Fool",
+    "resists": "-------nn-",
+    "skills": ["Mamudoon", "Megidolaon", "Mind Charge", "Magic Boost", "Phys Boost", "Wide Effect III"],
+    "stats": [13666, 90, 80, 72, 65, 84]
+  },
+  "The Watcher": {
+    "ailments": "11n13qqsnn",
+    "area": "Clock Tower 1, 3, 4, 7",
+    "dodds": {
+      "Compound Eye": 100
+    },
+    "drops": {"Compound Eye": 100},
+    "exp": 49483,
+    "lvl": 72,
+    "race": "Fool",
+    "resists": "ss---vsnn-",
+    "skills": ["Megidola", "Torrent Shot", "Muscle Down", "Magic Boost"],
+    "stats": [9150, 68, 60, 58, 56, 70]
+  },
+  "Trance Twins": {
+    "ailments": "-----y--6-",
+    "area": "Evil Spirit Club 1-3",
+    "dodds": {
+      "Twins' Handcuffs": 40,
+      "Twins' Piece": 60
+    },
+    "drops": {"Twins' Piece": 60, "Twins' Handcuffs": 40},
+    "exp": 3155,
+    "lvl": 31,
+    "race": "Hierophant",
+    "resists": "------v---",
+    "skills": ["Broadshot", "Power Charge"],
+    "stats": [429, 39, 30, 35, 32, 30]
+  },
+  "Tranquil Idol": {
+    "ailments": "xx-xx-z---",
+    "area": "Group Date Cafe 1-4",
+    "dodds": {
+      "Idol Piece": 60,
+      "Idol Veil": 40
+    },
+    "drops": {"Idol Piece": 60, "Idol Veil": 40},
+    "exp": 840,
+    "lvl": 15,
+    "race": "Priestess",
+    "resists": "---svssy--",
+    "skills": ["Fire Dance", "Wind Dance", "Tarukaja"],
+    "stats": [283, 22, 26, 21, 14, 15]
+  },
+  "Treasure Hand": {
+    "ailments": "----------",
+    "area": "Group Date Cafe 1-4",
+    "dodds": {
+      "Treasure Piece": 40
+    },
+    "drops": {"Treasure Piece": 40},
+    "exp": 6000,
+    "lvl": 11,
+    "race": "Magician",
+    "resists": "0000000000",
+    "skills": ["Megido", "Trick Step"],
+    "stats": [5, 27, 18, 22, 28, 24]
+  },
+  "Valuing Nyogo": {
+    "ailments": "------s-7-",
+    "area": "Inaba Pride Exhibit 3, 4",
+    "dodds": {
+      "Leaf Kimono": 40,
+      "Leaf Piece": 60
+    },
+    "drops": {"Leaf Piece": 60, "Leaf Kimono": 40},
+    "exp": 3906,
+    "lvl": 53,
+    "race": "Strength",
+    "resists": "uuussv-n--",
+    "skills": ["Agidyne", "Maragion", "Hamaon"],
+    "stats": [549, 49, 60, 42, 44, 40]
+  },
+  "Vehement Idol": {
+    "ailments": "x--x--z---",
+    "area": "Group Date Cafe 4",
+    "dodds": {
+      "Madonna Piece": 60,
+      "Madonna Stool": 40,
+      "Madonna Veil": 40
+    },
+    "drops": {"Madonna Piece": 60, "Madonna Veil": 40, "Madonna Stool": 40},
+    "exp": 2760,
+    "lvl": 27,
+    "race": "Priestess",
+    "resists": "----v---y-",
+    "skills": ["Wind Dance", "Elec Dance", "Mind Charge"],
+    "stats": [480, 26, 38, 30, 22, 25]
+  },
+  "Wealth Hand": {
+    "ailments": "----------",
+    "area": "You in Wonderland 0-3",
+    "dodds": {
+      "Wealth Piece": 40
+    },
+    "drops": {"Wealth Piece": 40},
+    "exp": 2000,
+    "lvl": 4,
+    "race": "Magician",
+    "resists": "0000000000",
+    "skills": ["Trick Step"],
+    "stats": [5, 16, 14, 15, 14, 11]
+  },
+  "Whimsical Papillon": {
+    "ailments": "------z---",
+    "area": "Group Date Cafe 3, 4",
+    "dodds": {
+      "Butterfly Piece": 60,
+      "Butterfly Wing": 40
+    },
+    "drops": {"Butterfly Piece": 60, "Butterfly Wing": 40},
+    "exp": 2324,
+    "lvl": 25,
+    "race": "Lovers",
+    "resists": "uuu999vy--",
+    "skills": ["Poison Breath", "Hama", "Mudo"],
+    "stats": [324, 29, 30, 32, 27, 34]
+  },
+  "Wondrous Magus": {
+    "ailments": "------z---",
+    "area": "Group Date Cafe 2-4",
+    "dodds": {
+      "Shaman Piece": 60,
+      "Shaman Ring": 40,
+      "Shaman Robe": 40
+    },
+    "drops": {"Shaman Piece": 60, "Shaman Robe": 40, "Shaman Ring": 40},
+    "exp": 1708,
+    "lvl": 19,
+    "race": "Magician",
+    "resists": "---ssvs-y-",
+    "skills": ["Elec Dance", "Spiderweb"],
+    "stats": [280, 25, 28, 23, 22, 26]
+  }
+}
