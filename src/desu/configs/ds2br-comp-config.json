@@ -1,0 +1,30 @@
+{
+  "demonData": ["desu2/data/van-demon-data.json", "desu2/data/rec-demon-data.json"],
+  "skillData": ["desu2/data/rec-skill-data.json"],
+  "demonIds": "dso-data/ds2br-demons.tsv",
+  "raceIds": "dso-data/ds2br-races.tsv",
+  "skillIds": {
+    "file": "dso-data/ds2br-skills.tsv",
+    "activeStart": 0,
+    "passiveStart": 173,
+    "autoStart": 157
+  },
+  "demonDump": {
+    "file": "dumps/ds2br-demons.bin",
+    "start": 124,
+    "end": 25660,
+    "length": 56
+  },
+  "resistDump": {
+    "file": "dumps/ds2br-demons.bin",
+    "start": 25960,
+    "end": 0,
+    "length": 7
+  },
+  "skillDump": {
+    "file": "dumps/ds2br-skills.bin",
+    "start": 0,
+    "end": 0,
+    "length": 72
+  }
+}

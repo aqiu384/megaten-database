@@ -87,6 +87,8 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
 
     entry = OLD_DEMONS[dname]
     SEEN[dname] = True
+    printif_notequal(dname, 'lvl', lvl, entry['lvl'])
+    printif_notequal(dname, 'race', race, entry['race'])
     printif_notequal(dname, 'stat_mods', str(list(stat_mods)), str(entry['growths'][:2]))
     printif_notequal(dname, 'resists', resists, entry['resists'])
     printif_notequal(dname, 'stats', str(list(stats)), str(entry['stats'][3:]))
