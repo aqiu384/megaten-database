@@ -1,10 +1,10 @@
 {
   "demonData": ["desu1/data/van-demon-data.json", "desu1/data/ove-demon-data.json"],
   "skillData": ["desu1/data/ove-skill-data.json"],
-  "demonIds": "dso-data/dso-demons.tsv",
-  "raceIds": "dso-data/dso-races.tsv",
+  "demonIds": "data/dso-demons.tsv",
+  "raceIds": "data/dso-races.tsv",
   "skillIds": {
-    "file": "dso-data/dso-skills.tsv",
+    "file": "data/dso-skills.tsv",
     "activeStart": 0,
     "passiveStart": 82,
     "autoStart": 157

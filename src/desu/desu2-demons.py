@@ -71,7 +71,7 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     new_id, comp_id = struct.unpack('<2h', line[0x00:0x04])
     unk_comp = struct.unpack('<2H', line[0x04:0x08])
     lvl, = struct.unpack('<B', line[0x08:0x09])
-    unk_lvl = struct.unpack('<3B', line[0x09:0x0C])
+    unk_lvl, ds2_resists = struct.unpack('<HB', line[0x09:0x0C])
     hp_mod, mp_mod = struct.unpack('<2H', line[0x0C:0x10])
     unk_mod = struct.unpack('<4B', line[0x10:0x14])
     stats = struct.unpack('<4B', line[0x14:0x18])
@@ -79,7 +79,9 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     race, race_ind, unlock_type, unlock_flag = struct.unpack('<3Bb', line[0x24:0x28])
     is_unique, one, comp_order, is_spotpass, alpha_order = struct.unpack('<4BH', line[0x28:0x2E])
     unk_spotpass = struct.unpack('<2B', line[0x2E:0x30])
-    racial_up, battle_unlock, unk_battle, resists = struct.unpack('<BbHL', line[0x30:0x38])
+    racial_up, battle_unlock, unk_battle = struct.unpack('<BbH', line[0x30:0x34])
+    racial_up, battle_unlock, unk_battle = struct.unpack('<BbH', line[0x30:0x34])
+    resists = struct.unpack('<L', line[0x34:0x38])[0] if LINE_LEN > 0x34 else ds2_resists
 
     race = RACE_IDS[race]
     resists = RESIST_IDS[resists] if resists < len(RESIST_IDS) else DEFAULT_RESISTS
@@ -120,8 +122,6 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
         if old_skills[sname] != slvl:
             print(dname, sname, slvl, old_skills[sname])
         # print(str(sname).zfill(4), invert_skills[slvl], dname, sep='\t')
-
-    # print(d_id, dname)
 
 for dname, seen in SEEN.items():
     if not seen:

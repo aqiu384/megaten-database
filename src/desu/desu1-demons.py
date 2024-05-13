@@ -111,8 +111,6 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
             print(dname, sname, slvl, old_skills[sname])
         # print(str(sname).zfill(4), invert_skills[slvl], dname, sep='\t')
 
-    # print(d_id, dname)
-
 for dname, seen in SEEN.items():
     if not seen:
         print('Not seen:', dname)
