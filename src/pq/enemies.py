@@ -3,6 +3,11 @@ import struct
 import json
 from shared import load_id_file, printif_notequal, save_ordered_demons
 
+GAME = 'pq'
+
+with open(f"configs/{GAME}-comp-config.json") as jsonfile:
+    COMP_CONFIG = json.load(jsonfile)
+
 ATTACK_ELEMS = [
     'BLANK',
     'Cut',
@@ -11,10 +16,19 @@ ATTACK_ELEMS = [
     'Stab'
 ]
 
+DROP_TYPES = {
+    0: 0,
+    20992: 1000,
+    21529: 2000,
+    22016: 3000
+}
+
 RESIST_LVLS = {
     0: 'n',
     1: '0',
+    5: '0',
     10: '1',
+    15: '1',
     20: '2',
     25: 'q',
     30: '3',
@@ -24,60 +38,52 @@ RESIST_LVLS = {
     70: '7',
     75: 't',
     80: '8',
+    81: '8',
     90: '9',
+    95: '9',
     100: '-',
     110: 'u',
+    115: 'u',
+    119: 'v',
     120: 'v',
     125: 'w',
+    130: 'W',
+    135: 'W',
     149: 'x',
     150: 'x',
+    180: 'X',
     200: 'y',
-    300: 'z'
+    240: 'Y',
+    300: 'z',
+    2000: 'z'
 }
 
-ELEMENTS = {
-    0: 'Cut',
-    2: 'Bash',
-    1: 'Stab',
-    3: 'Fire',
-    4: 'Ice',
-    5: 'Elec',
-    6: 'Wind',
-    7: 'Light',
-    8: 'Dark',
-    # 9: 'UNUSED',
-    24: 'Almighty'
-}
+RESIST_ELEMS = [int(x) for x in COMP_CONFIG['resistElems']]
+AILMENT_ELEMS = [int(x) for x in COMP_CONFIG['ailmentElems']]
+RACE_IDS = load_id_file(COMP_CONFIG['raceIds'])
+DEMON_IDS = load_id_file(COMP_CONFIG['enemyIds'])
+SKILL_IDS = load_id_file(COMP_CONFIG['skillIds'])
+OLD_DEMONS = {}
 
-AILMENTS = {
-    11: 'Sleep',
-    12: 'Panic',
-    # 13: 'Stone',
-    14: 'Poison',
-    # 15: 'Clock',
-    16: 'Curse',
-    17: 'Para',
-    22: 'Sbind',
-    21: 'Mbind',
-    23: 'Abind',
-    18: 'Down',
-    # 19: '???',
-    # 20: '???',
-    10: 'Insta',
-}
+with open(COMP_CONFIG['itemIds']['keyItemsFile']) as jsonfile:
+    DROP_IDS = { int(x): y for x, y in json.load(jsonfile).items() }
+for i, dname in enumerate(load_id_file(COMP_CONFIG['itemIds']['file'])):
+    if dname != 'BLANK':
+        DROP_IDS[i + COMP_CONFIG['itemIds']['start']] = dname
 
-RACE_IDS = load_id_file('races.tsv')
-DROP_IDS = load_id_file('drops.tsv')
-DEMON_IDS = load_id_file('enemynametable.tsv')
-SKILL_IDS = load_id_file('skillnametable.tsv')
-LINE_LEN = 0x88
-START_OFFSET = 0x00
-END_OFFSET = START_OFFSET + 368 * LINE_LEN
-
-with open('../../../megaten-fusion-tool/src/app/pq/data/enemy-data.json') as jsonfile:
-    OLD_DEMONS = json.load(jsonfile)
-with open('pq1-data/battle/table/enemydata.bin', 'rb') as binfile:
+for fname in COMP_CONFIG['enemyData']:
+    with open(f"../../../megaten-fusion-tool/src/app/{fname}") as jsonfile:
+        OLD_DEMONS.update(json.load(jsonfile))
+with open(COMP_CONFIG['enemyDump']['file'], 'rb') as binfile:
     NEW_DEMONS = binfile.read()
+
+SEEN = { x: False for x in OLD_DEMONS }
+LINE_LEN = COMP_CONFIG['enemyDump']['length']
+START_OFFSET = COMP_CONFIG['enemyDump']['start']
+END_OFFSET = COMP_CONFIG['enemyDump']['end']
+if END_OFFSET == -1:
+    END_OFFSET = len(NEW_DEMONS)
+DROP_OFFSET = LINE_LEN - 0x1C
 
 for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     line = NEW_DEMONS[line_start:line_start + LINE_LEN]
@@ -89,44 +95,49 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     resists = struct.unpack('<25H', line[0x24:0x56])
     innate = struct.unpack('<8H', line[0x56:0x66])
     zero, exp = struct.unpack('<HL', line[0x66:0x6C])
-    drops = list(struct.unpack('<HLHLHHBB', line[0x6C:0x7E]))
-    zeroes = struct.unpack('<6B', line[0x7E:0x84])
-    index, = struct.unpack('<L', line[0x84:0x88])
+    drops = list(struct.unpack('<9H', line[DROP_OFFSET:DROP_OFFSET + 0x12]))
+    # zeroes = struct.unpack('<6B', line[0x7E:0x84])
+    # index, = struct.unpack('<L', line[0x84:0x88])
 
     race = RACE_IDS[race]
-    atk_elem = ATTACK_ELEMS[atk_elem]
-    skills = [SKILL_IDS[x - 0x1000].split('\t')[0] for x in innate if x != 0]
-    ailments = ''.join(RESIST_LVLS[resists[i]] for i in AILMENTS)
-    resists = ''.join(RESIST_LVLS[resists[i]] for i in ELEMENTS)
+    # atk_elem = ATTACK_ELEMS[atk_elem]
+    skills = [SKILL_IDS[x & 0x0FFF].split('\t')[0] for x in innate if x != 0]
 
     if int(included) < 1:
         continue
 
-    entry = OLD_DEMONS[dname]
-    drops[5] += drops[7]
-    drop_odds = {}
+    ailments = ''.join(RESIST_LVLS[resists[i]] for i in AILMENT_ELEMS)
+    resists = ''.join(RESIST_LVLS[resists[i]] for i in RESIST_ELEMS)
 
-    for i in range(0, 6, 2):
+    SEEN[dname] = True
+    entry = OLD_DEMONS[dname]
+    stats = [hp] + list(stats)
+
+    drop_odds = {}
+    for i in range(0, 9, 3):
         if drops[i] == 0:
             continue
-        drop = DROP_IDS[drops[i] - 0x700]
-        drop_odds[drop] = drops[i + 1]
+        drop = DROP_IDS[drops[i]]
+        drop_odds[drop] = drops[i + 1] + DROP_TYPES.get(drops[i + 2], drops[i + 2] >> 8)
 
-    printif_notequal(dname, 'exp', exp, entry['exp'])
+    # printif_notequal(dname, 'exp', exp, entry['exp'])
     printif_notequal(dname, 'lvl', lvl, entry['lvl'])
     printif_notequal(dname, 'race', race, entry['race'])
+    printif_notequal(dname, 'stats', stats, entry['stats'][:1] + entry['stats'][3:])
+    printif_notequal(dname, 'skills', skills, entry.get('skills', []))
 
     entry.update({
         'area': entry['area'].replace(',', ', ').replace('  ', ' '),
-        'drops': drop_odds,
         'ailments': ailments,
+        'ailmentr': entry.get('ailments', '-'),
         'drops': drop_odds,
         'exp': exp,
         'lvl': lvl,
-        'race': race,
+        # 'race': race,
         'resists': resists,
-        'skills': [x for x in skills if x != 'BLANK'],
-        'stats': [hp] + list(stats)
+        'resistr': entry['resists'],
+        'skills': skills,
+        'stats': stats
     })
 
 save_ordered_demons(OLD_DEMONS, 'new-enemy-data.json')

@@ -2,7 +2,7 @@
 import json
 
 def load_id_file(fname):
-    with open('pq1-data/battle/table/' + fname) as tsvfile:
+    with open(fname) as tsvfile:
         next(tsvfile)
         return [x.strip() for x in tsvfile]
 

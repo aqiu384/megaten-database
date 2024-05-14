@@ -1,0 +1,102 @@
+{
+  "demonData": ["pq/data/demon-data.json"],
+  "enemyData": ["pq/data/enemy-data.json"],
+  "skillData": ["pq/data/skill-data.json"],
+  "demonIds": "pq-data/battle/table/personanametable.tsv",
+  "enemyIds": "pq-data/battle/table/enemynametable.tsv",
+  "skillIds": "pq-data/battle/table/skillnametable.tsv",
+  "raceIds": "pq-data/battle/table/races.tsv",
+  "itemIds": {
+    "file": "pq-data/battle/table/drops.tsv",
+    "keyItemsFile": "pq2-data/battle/table/key-items.json",
+    "start": 1792
+  },
+  "demonStatDump": {
+    "file": "pq-data/battle/table/datpersonaformat.bin",
+    "start": 0,
+    "end": -1,
+    "length": 148
+  },
+  "demonSkillDump": {
+    "file": "pq-data/battle/table/datsubpersonagrowth.bin",
+    "start": 0,
+    "end": -1,
+    "length": 72
+  },
+  "enemyDump": {
+    "file": "pq-data/battle/table/enemydata.bin",
+    "start": 0,
+    "end": -1,
+    "length": 136
+  },
+  "skillDump": {
+    "file": "pq-data/battle/table/skilltable.bin",
+    "start": 0,
+    "end": -1,
+    "length": 392
+  },
+  "resistElems": {
+    "0": "Cut",
+    "2": "Bash",
+    "1": "Stab",
+    "3": "Fire",
+    "4": "Ice",
+    "5": "Elec",
+    "6": "Wind",
+    "7": "Light",
+    "8": "Dark",
+    "24": "Almighty"
+  },
+  "ailmentElems": {
+    "11": "Sleep",
+    "12": "Panic",
+    "14": "Poison",
+    "16": "Curse",
+    "17": "Para",
+    "22": "Sbind",
+    "21": "Mbind",
+    "23": "Abind",
+    "18": "Down",
+    "10": "Insta"
+  },
+  "otherElems": {
+    "13": "Stone",
+    "15": "Clock",
+    "19": "???",
+    "20": "???",
+    "9": "???"
+  },
+  "inheritIds": [
+    "UNUSED",
+    "almpp",
+    "almpn",
+    "baspp",
+    "baspn",
+    "icepp",
+    "icepn",
+    "firpp",
+    "firpn",
+    "winpp",
+    "winpn",
+    "elepp",
+    "elepn",
+    "darpp",
+    "darpn",
+    "ligpp",
+    "ligpn",
+    "almnp",
+    "almnn",
+    "icenp",
+    "icenn",
+    "firnp",
+    "firnn",
+    "winnp",
+    "winnn",
+    "elenp",
+    "elenn",
+    "darnp",
+    "darnn",
+    "lignp",
+    "lignn"
+  ]
+}

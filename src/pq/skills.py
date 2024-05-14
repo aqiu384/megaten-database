@@ -1,40 +1,45 @@
 #!/usr/bin/python3
 import struct
 import json
-from shared import load_id_file, printif_notequal, save_ordered_demons
+from shared import load_id_file
 
-SKILL_IDS = load_id_file('skillnametable.tsv')
+GAME = 'pq'
 
-with open('../../../megaten-fusion-tool/src/app/pq/data/skill-data.json') as jsonfile:
-    OLD_SKILLS = json.load(jsonfile)
+with open(f"configs/{GAME}-comp-config.json") as jsonfile:
+    COMP_CONFIG = json.load(jsonfile)
 
-LINE_LEN = 0x188
-START_OFFSET = 0x00
-END_OFFSET = START_OFFSET + 1376 * LINE_LEN
-
+SKILL_IDS = load_id_file(COMP_CONFIG['skillIds'])
+OLD_SKILLS = {}
 TEMP_KEYS = {}
 EXAMPLE_SKILL = {}
 
-with open('pq1-data/battle/table/skilltable.bin', 'rb') as binfile:
+for fname in COMP_CONFIG['skillData']:
+    with open(f"../../../megaten-fusion-tool/src/app/{fname}") as jsonfile:
+        OLD_SKILLS.update(json.load(jsonfile))
+with open(COMP_CONFIG['skillDump']['file'], 'rb') as binfile:
     NEW_SKILLS = binfile.read()
+
+LINE_LEN = COMP_CONFIG['skillDump']['length']
+START_OFFSET = COMP_CONFIG['skillDump']['start']
+END_OFFSET = COMP_CONFIG['skillDump']['end']
+if END_OFFSET == -1:
+    END_OFFSET = len(NEW_SKILLS)
+TRAIT_LEN = (LINE_LEN - 0x28) >> 5
 
 for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     line = NEW_SKILLS[line_start:line_start + LINE_LEN]
     sname, included = SKILL_IDS[s_id].split('\t')
 
     header = struct.unpack('<10L', line[0x00:0x28])
-    parts = struct.unpack('<88l', line[0x28:0x188])
+    parts = struct.unpack(f"<{TRAIT_LEN << 3}l", line[0x28:LINE_LEN])
 
     if int(included) < 1:
         continue
 
-    for i in range(0, 88, 11):
+    for i in range(0, TRAIT_LEN << 3, TRAIT_LEN):
         key, val = parts[i:i + 2]
-        # print(s_id, sname, key, val)
-
         if key == 0:
             continue
-
         if key not in TEMP_KEYS:
             TEMP_KEYS[key] = []
             EXAMPLE_SKILL[key] = f"{s_id}-{sname}"

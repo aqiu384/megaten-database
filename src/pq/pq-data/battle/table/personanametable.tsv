@@ -34,7 +34,7 @@ Gorgon	1
 Gabriel	1
 Skadi	1
 Mother Harlot	1
-Laksmi	0
+Laksmi	1
 Oberon	1
 King Frost	1
 Setanta	1
@@ -83,14 +83,14 @@ Sraosha	1
 Azumi	1
 Ippon-Datara	1
 Mothman	1
-Hitokotonusi	0
+Hitokotonusi	1
 Kurama Tengu	1
-Niddhoggr	0
+Niddhoggr	1
 Nebiros	1
 Arahabaki	1
-Ongyo-ki	0
+Ongyo-ki	1
 Empusa	1
-Raiju	0
+Raiju	1
 Fortuna	1
 Clotho	1
 Lachesis	1
@@ -207,10 +207,10 @@ Black Frost	0
 Surt	0
 Jack Frost	0
 Thor	0
-Thanatos	0
-Kaguya	0
-Magatsu-Izanagi	0
-Orpheus Telos	0
+Thanatos	1
+Kaguya	1
+Magatsu-Izanagi	1
+Orpheus Telos	1
 Kamui-Moshiri	0
 Kouzeon	0
 Sumeo-Okami	0

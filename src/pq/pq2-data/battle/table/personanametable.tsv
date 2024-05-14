@@ -1,0 +1,402 @@
+en	included
+BLANK	0
+RESERVE	0
+Slime	1
+Ame-no-Uzume	1
+Legion	1
+Ose	1
+Black Frost	1
+Decarabia	1
+Shiki-Ouji	1
+UNUSED_Loki	0
+Agathion	1
+Orobas	1
+Jack Frost	1
+Hua Po	1
+Pyro Jack	1
+Dis	1
+Rangda	1
+Jinn	1
+Surt	1
+Mada	1
+Koropokkur	1
+Sarasvati	1
+High Pixie	1
+Ganga	1
+Parvati	1
+Kikuri-Hime	1
+Hariti	1
+Tzitzimitl	1
+Scathach	1
+Yaksini	1
+Titania	1
+Gorgon	1
+Gabriel	1
+Skadi	1
+Mother Harlot	1
+Laksmi	1
+Oberon	1
+King Frost	1
+Setanta	1
+Mezuki	1
+Oukuninushi	1
+Thoth	1
+Ouyamatsumi	1
+Pabilsag	1
+Kingu	1
+Barong	1
+Odin	1
+Anzu	1
+Shiisaa	1
+Unicorn	1
+Gozuki	1
+Flauros	1
+Daisoujou	1
+Hachiman	1
+Kohryu	1
+Pixie	1
+Alp	1
+Moh Shuvuu	1
+Queen Mab	1
+Leanan Sidhe	1
+Raphael	1
+Cybele	1
+Ishtar	1
+Nata Taishi	1
+Chimera	1
+Eligor	1
+UNUSED_Nezha	0
+Ares	1
+Oumitsunu	1
+Triglav	1
+Thor	1
+Ophanim	1
+Atavaka	1
+Futsunushi	1
+Angel	1
+Power	1
+Virtue	1
+Throne	1
+Uriel	1
+Melchizedek	1
+Sraosha	1
+Azumi	1
+Ippon-Datara	1
+Mothman	1
+Hitokotonusi	1
+Kurama Tengu	1
+Niddhoggr	1
+Nebiros	1
+Arahabaki	1
+Ongyo-ki	1
+Empusa	1
+Raiju	1
+Fortuna	1
+Clotho	1
+Lachesis	1
+Ananta	1
+Atropos	1
+Norn	1
+Pazuzu	1
+Sandman	1
+Valkyrie	1
+Rakshasa	1
+Tsuchigumo	1
+Oni	1
+Hanuman	1
+Siegfried	1
+Kali	1
+Zaou-Gongen	1
+Onmoraki	1
+Berith	1
+Ikusa	1
+Orthrus	1
+Yatsufusa	1
+Basilisk	1
+Hell Biker	1
+Vasuki	1
+Attis	1
+Mokoi	1
+Turdak	1
+Matador	1
+White Rider	1
+Samael	0
+Mot	1
+Pale Rider	1
+Alice	1
+Mahakala	1
+Apsaras	1
+Xiezhai	1
+Mithra	1
+Genbu	1
+Seiryu	1
+Suzaku	1
+Byakko	1
+Vishnu	1
+Ukobach	1
+Incubus	1
+Succubus	1
+Lilith	1
+Belphegor	1
+Belial	1
+Astaroth	1
+Beelzebub	1
+Cu Chulainn	1
+Abaddon	1
+Mara	1
+Seiten Taisei	0
+Yoshitsune	1
+Masakado	1
+Shiva	1
+Chi You	1
+Kaiwan	1
+Nue	1
+Neko Shogun	1
+Ganesha	1
+Garuda	1
+Kartikeya	1
+Saturnus	0
+Helel	1
+Andras	1
+Nozuchi	1
+Orochi	1
+Alraune	1
+Girimehkala	1
+Mishaguji	1
+Chernobog	1
+Seth	1
+Baal Zebul	1
+Sandalphon	1
+Cu Sith	1
+Phoenix	1
+Yatagarasu	1
+Narasimha	1
+Tam Lin	1
+Jatayu	1
+Suparna	1
+Asura	1
+Red Rider	1
+Anubis	1
+Black Rider	1
+Trumpeter	1
+Michael	1
+Satan	1
+Metatron	1
+Ardha	1
+Lucifer	1
+Warrior Zeus	0
+Zeus	0
+Archangel	1
+Alilat	1
+Dominion	1
+Turdak	0
+Basilisk	0
+Ouyamatsumi	0
+Warrior Zeus	0
+Zeus	0
+Siegfried	0
+Oberon	0
+Cu Chulainn	0
+Asura	0
+Loki	0
+Okuninushi	0
+Odin	0
+Yoshitsune	0
+Helel	0
+Black Frost	0
+Surt	0
+Jack Frost	0
+Thor	0
+Thanatos	1
+Kaguya	1
+Magatsu-Izanagi	1
+Orpheus Telos	0
+Kamui-Moshiri	0
+Kouzeon	0
+Sumeo-Okami	0
+Takeji Zaiten	0
+Takehaya Susano-o	0
+Haraedo-no-Okami	0
+Yamato Sumeragi	0
+Shiva	0
+Vishnu	0
+Legion	0
+Masakado	0
+Alice	0
+Kohryu	0
+Sandalphon	0
+Beelzebub	0
+Satan	0
+Trumpeter	0
+Lilith	0
+Michael	0
+Uriel	0
+Gabriel	0
+Raphael	0
+Blank	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+Blank	0
+Izanagi	0
+Izanagi-no-Okami	0
+Orpheus	0
+Orpheus Telos	0
+Jiraiya	0
+Susano-o	0
+Tomoe	0
+Suzuka Gongen	0
+Konohana Sakuya	0
+Amaterasu	0
+Himiko	0
+Kanzeon	0
+Take-Mikazuchi	0
+Rokuten Maou	0
+Sukuna-Hikona	0
+Yamato Takeru	0
+Kintoki-Douji	0
+Kamui	0
+Io	0
+Isis	0
+Hermes	0
+Trismegistus	0
+Polydeuces	0
+Caesar	0
+Penthesilea	0
+Artemisia	0
+Lucia	0
+Juno	0
+Palladion	0
+Athena	0
+Nemesis	0
+Kala-Nemi	0
+Cerberus	0
+Cerberus	0
+Castor	0
+Castor	0
+Orpheus	0
+Messiah	0
+Arsene	0
+Satanael	0
+Captain Kidd	0
+Seiten Taisei	0
+Carmen	0
+Hecate	0
+Zorro	0
+Mercurius	0
+Goemon	0
+Kamu Susano-o	0
+Johanna	0
+Anat	0
+Necronomicon	0
+Prometheus	0
+Milady	0
+Astarte	0
+Robin Hood	0
+Robin Hood	0
+Blank	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+BLANK	0
+Blank	0
+Saki Mitama	1
+Kusi Mitama	1
+Nigi Mitama	1
+Ara Mitama	1
+Mandrake	1
+Halphas	1
+Heqet	1
+Kelpie	1
+Silky	1
+Sudama	1
+Bicorn	1
+Bifrons	1
+Yuki Jyorou	1
+Gemori	1
+Ammut	1
+Koppa Tengu	1
+Principality	1
+Caladrius	1
+Pele	1
+Mayahuel	1
+Hare of Inaba	1
+Narcissus	1
+Sleipnir	1
+Berserker	1
+Dantalian	1
+Dzelarhons	1
+Vivian	1
+Baphomet	1
+Lugh	1
+Cherub	1
+Bai Suzhen	1
+Fenrir	1
+Hathor	1
+Mithras	1
+Bugs	1
+Longinus	1
+Lorelei	1
+Balor	1
+Vouivre	1
+Moloch	1
+Prometheus	0
+Ouroboros	1
+Jeanne d'Arc	1
+Baal	1
+Xi Wangmu	1
+Kudlak	1
+Kresnik	1
+Black Maria	1
+Seraph	1
+Huang Di	1
+Orpheus Picaro	1
+Messiah Picaro	1
+Thanatos Picaro	1
+Izanagi Picaro	1
+M. Izanagi Picaro	1
+Kaguya Picaro	1
+Ariadne	1
+Ariadne Picaro	1
+Tsukiyomi	1
+Tsukiyomi Picaro	1
+Asterius	1
+Asterius Picaro	1
+Blank	0
+BLANK	0
+Blank	0

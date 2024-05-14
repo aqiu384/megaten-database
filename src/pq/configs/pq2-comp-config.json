@@ -1,0 +1,105 @@
+{
+  "demonData": ["pq2/data/demon-data.json"],
+  "enemyData": ["pq2/data/enemy-data.json"],
+  "skillData": ["pq2/data/skill-data.json"],
+  "demonIds": "pq2-data/battle/table/personanametable.tsv",
+  "enemyIds": "pq2-data/battle/table/enemynametable.tsv",
+  "skillIds": "pq2-data/battle/table/skillnametable.tsv",
+  "raceIds": "pq2-data/battle/table/races.tsv",
+  "itemIds": {
+    "file": "pq2-data/battle/table/drops.tsv",
+    "keyItemsFile": "pq2-data/battle/table/key-items.json",
+    "start": 1792
+  },
+  "demonStatDump": {
+    "file": "pq2-data/battle/table/datpersonaformat.bin",
+    "start": 0,
+    "end": -1,
+    "length": 152
+  },
+  "demonSkillDump": {
+    "file": "pq2-data/battle/table/datsubpersonagrowth.bin",
+    "start": 0,
+    "end": -1,
+    "length": 104
+  },
+  "enemyDump": {
+    "file": "pq2-data/battle/table/enemydata.bin",
+    "start": 0,
+    "end": -1,
+    "length": 140
+  },
+  "skillDump": {
+    "file": "pq2-data/battle/table/skilltable.bin",
+    "start": 0,
+    "end": -1,
+    "length": 232
+  },
+  "resistElems": {
+    "0": "Phys",
+    "1": "Fire",
+    "2": "Ice",
+    "3": "Elec",
+    "4": "Wind",
+    "5": "Psy",
+    "6": "Nuke",
+    "7": "Bless",
+    "8": "Curse",
+    "24": "Almighty"
+  },
+  "ailmentElems": {
+    "11": "Sleep",
+    "12": "Panic",
+    "14": "Poison",
+    "16": "Curse",
+    "17": "Para",
+    "22": "Sbind",
+    "21": "Mbind",
+    "23": "Abind",
+    "9":  "Down",
+    "10": "Insta"
+  },
+  "extraElems": {
+    "13": "Stone",
+    "15": "Clock",
+    "18": "InstaBane",
+    "19": "???",
+    "20": "???"
+  },
+  "inheritIds": [
+    "UNUSED",
+    "alm",
+    "phy",
+    "UNUSED",
+    "UNUSED",
+    "ice",
+    "UNUSED",
+    "fir",
+    "UNUSED",
+    "win",
+    "UNUSED",
+    "ele",
+    "UNUSED",
+    "cur",
+    "UNUSED",
+    "ble",
+    "UNUSED",
+    "sup",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "UNUSED",
+    "psy",
+    "UNUSED",
+    "nuk"
+  ]
+}
