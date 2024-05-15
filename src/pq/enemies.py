@@ -120,24 +120,26 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
         drop = DROP_IDS[drops[i]]
         drop_odds[drop] = drops[i + 1] + DROP_TYPES.get(drops[i + 2], drops[i + 2] >> 8)
 
-    # printif_notequal(dname, 'exp', exp, entry['exp'])
+    printif_notequal(dname, 'exp', exp, entry['exp'])
     printif_notequal(dname, 'lvl', lvl, entry['lvl'])
     printif_notequal(dname, 'race', race, entry['race'])
-    printif_notequal(dname, 'stats', stats, entry['stats'][:1] + entry['stats'][3:])
+    printif_notequal(dname, 'stats', stats, entry['stats'])
     printif_notequal(dname, 'skills', skills, entry.get('skills', []))
 
     entry.update({
         'area': entry['area'].replace(',', ', ').replace('  ', ' '),
         'ailments': ailments,
-        'ailmentr': entry.get('ailments', '-'),
         'drops': drop_odds,
         'exp': exp,
         'lvl': lvl,
         # 'race': race,
         'resists': resists,
-        'resistr': entry['resists'],
         'skills': skills,
         'stats': stats
     })
+
+for dname, seen in SEEN.items():
+    if not seen:
+        print('Not seen:', dname)
 
 save_ordered_demons(OLD_DEMONS, 'new-enemy-data.json')

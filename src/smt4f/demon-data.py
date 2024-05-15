@@ -174,4 +174,4 @@ for dname, seen in SEEN_DEMONS.items():
     if not seen:
         print(dname)
 
-save_ordered_demons(OLD_DEMONS, 'demon-data.json')
+save_ordered_demons(OLD_DEMONS, 'new-demon-data.json')

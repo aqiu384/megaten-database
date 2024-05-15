@@ -3,7 +3,7 @@ import struct
 import json
 from shared import load_id_file, printif_notequal, save_ordered_demons
 
-GAME = 'smtsj'
+GAME = 'smtdsj'
 
 with open(f"configs/{GAME}-comp-config.json") as jsonfile:
     COMP_CONFIG = json.load(jsonfile)

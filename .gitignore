@@ -1,2 +1,3 @@
 */*.tsv
 **/__pycache__/
+**/new-*-data.json

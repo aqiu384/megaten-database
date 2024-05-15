@@ -1,0 +1,24 @@
+{
+  "demonData": ["smtsj/data/demon-data.json", "smtsj/data/redux-demon-data.json"],
+  "skillData": ["smtsj/data/skill-data.json"],
+  "demonIds": "smtsj-data/demon-ids.tsv",
+  "skillIds": "smtsj-data/skill-ids.tsv",
+  "raceIds": "smtsj-data/race-ids.tsv",
+  "inCompMax": 2,
+  "demonDump": {
+    "file": "smtdsj-data/Enemy/NKMBaseTable.bin",
+    "start": 48,
+    "length": 104
+  },
+  "sourceDump": {
+    "file": "smtdsj-data/Camp/Unite/InheritTable.bin",
+    "start": 68,
+    "length": 12
+  },
+  "skillDump": {
+    "file": "smtdsj-data/Skill/SkillData.bin",
+    "start": 0,
+    "end": -1,
+    "length": 0
+  }
+}

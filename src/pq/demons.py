@@ -6,6 +6,43 @@ from shared import load_id_file, printif_notequal, save_ordered_demons
 GAME = 'pq'
 INNATES =  [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8]
 
+INHERITS = [
+    "UNUSED",
+    "almpp",
+    "almpn",
+    "baspp",
+    "baspn",
+    "icepp",
+    "icepn",
+    "firpp",
+    "firpn",
+    "winpp",
+    "winpn",
+    "elepp",
+    "elepn",
+    "darpp",
+    "darpn",
+    "ligpp",
+    "ligpn",
+    "almnp",
+    "almnn",
+    "icenp",
+    "icenn",
+    "firnp",
+    "firnn",
+    "winnp",
+    "winnn",
+    "elenp",
+    "elenn",
+    "darnp",
+    "darnn",
+    "lignp",
+    "lignn",
+    "psypp",
+    "UNUSED",
+    "nukpp"
+]
+
 with open(f"configs/{GAME}-comp-config.json") as jsonfile:
     COMP_CONFIG = json.load(jsonfile)
 
@@ -39,7 +76,7 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     zeros = struct.unpack('<71B', line[0x4D:0x94])
 
     race = RACE_IDS[race]
-    inherit = COMP_CONFIG['inheritIds'][inherit]
+    inherit = INHERITS[inherit]
 
     if int(included) < 1:
         continue
@@ -49,7 +86,7 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
 
     printif_notequal(dname, 'lvl', lvl, entry['lvl'])
     printif_notequal(dname, 'race', race, entry['race'])
-    # printif_notequal(dname, 'inherit', inherit, entry['inherit'])
+    printif_notequal(dname, 'inherit', inherit, entry['inherit'])
 
     entry.update({
         'inherit': inherit,
@@ -93,7 +130,7 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
         sname = SKILL_IDS[sname].split('\t')[0]
         skills[sname] = slvl
 
-    # printif_notequal(dname, 'skills', str(skills), str(entry['skills']))
+    printif_notequal(dname, 'skills', str(skills), str(entry['skills']))
     entry['skills'] = skills
 
 for dname, seen in SEEN.items():
