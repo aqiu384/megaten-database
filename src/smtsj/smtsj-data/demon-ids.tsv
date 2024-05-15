@@ -1,3 +1,5 @@
+en	included
+UNUSED	0
 Seraph	1
 Metatron	1
 Sraosha	1
@@ -24,8 +26,8 @@ Thunderbird	1
 Phoenix	1
 Suparna	1
 Hamsa	1
-Armaiti	1
-Sandalphon	1
+Armaiti	2
+Sandalphon	2
 Yggdrasil	1
 Haoma	1
 Kukunochi	1
@@ -61,13 +63,13 @@ Karasu Tengu	1
 Vodyanik	1
 Koppa Tengu	1
 DEMON_063	0
-Kikuri-Hime	1
+Kikuri-Hime	2
 Peri	1
 Sarasvati	1
 Senri	1
 Ame no Uzume	1
 Apsaras	1
-Mada	1
+Mada	2
 Demiurge	1
 Seth	1
 Samael	1
@@ -124,7 +126,7 @@ Pabilsag	1
 Apis	1
 Heqet	1
 DEMON_126	0
-Nadja	1
+Nadja	2
 Heimdall	1
 Hanuman	1
 Cu Chulainn	1
@@ -155,8 +157,8 @@ Nekomata	1
 Inugami	1
 Katakirauwa	1
 Kaso	1
-Master Therion	1
-Tsuchigumo	1
+Master Therion	2
+Tsuchigumo	2
 Gogmagog	1
 Tlaltecuhtli	1
 Titan	1
@@ -166,7 +168,7 @@ Dwarf	1
 Hua Po	1
 Knocker	1
 DEMON_168	0
-Vritra	1
+Vritra	2
 Ananta	1
 Orochi	1
 Gui Xian	1
@@ -175,13 +177,13 @@ Vouivre	1
 Nozuchi	1
 Naga	1
 DEMON_177	0
-Ixtab	1
+Ixtab	2
 Mot	1
 Nergal	1
 Guedhe	1
 Persephone	1
 Hel	1
-Thanatos	1
+Thanatos	2
 DEMON_185	0
 Fenrir	1
 Cabracan	1
@@ -216,7 +218,7 @@ Kartikeya	1
 Wu Kong	1
 Tonatiuh	1
 Ares	1
-Zaou-Gongen	1
+Zaou-Gongen	2
 DEMON_220	0
 Xi Wangmu	1
 Skadi	1
@@ -226,8 +228,8 @@ Hariti	1
 Sedna	1
 Dzelarhons	1
 Pele	1
-Isis	1
-Cybele	1
+Isis	2
+Cybele	2
 Huang Long	1
 Quetzalcoatl	1
 Zhu Yin	1
@@ -253,7 +255,7 @@ Orias	1
 Halphas	1
 Bifrons	1
 Melchom	1
-Nebiros	1
+Nebiros	2
 DEMON_257	0
 Ongyo-Ki	1
 Berserker	1
@@ -274,8 +276,8 @@ Clotho	1
 Yuki Jyorou	1
 Leanan Sidhe	1
 Acheri	1
-Volvo	1
-Kali	1
+Volvo	2
+Kali	2
 Lilith	1
 Wild Hunt	1
 Succubus	1
@@ -284,7 +286,7 @@ Incubus	1
 Fomorian	1
 Lilim	1
 Sandman	1
-Hypnos	1
+Hypnos	2
 DEMON_288	0
 Mara	1
 Surt	1
@@ -293,8 +295,8 @@ Abaddon	1
 King Frost	1
 Loki	1
 Balor	1
-Beelzebub	1
-Vasuki	1
+Beelzebub	2
+Vasuki	2
 Fafnir	1
 Nidhoggr	1
 Mushussu	1
@@ -302,8 +304,8 @@ Kingu	1
 Basilisk	1
 Bai Suzhen	1
 Zhu Tun She	1
-Lucifuge	1
-Belial	1
+Lucifuge	2
+Belial	2
 Legion	1
 Pisaca	1
 Macabre	1
@@ -311,11 +313,11 @@ Inferno	1
 Dybbuk	1
 Poltergeist	1
 DEMON_313	0
-Mad Gasser	1
+Mad Gasser	2
 Doppelganger	1
 Slime	1
-Night Stalker	1
-Jack the Ripper	1
+Night Stalker	2
+Jack the Ripper	2
 Vetala	1
 Kudlak	1
 Strigoii	1
@@ -371,7 +373,7 @@ Attis	1
 Aramisaki	1
 Dionysus	1
 Ogun	1
-Anat	1
+Anat	2
 Alilat	1
 DEMON_376	0
 DEMON_377	0
@@ -409,16 +411,16 @@ DEMON_408	0
 DEMON_409	0
 DEMON_410	0
 DEMON_411	0
-Meta Gore	2
+Meta Gore	3
 DEMON_413	0
-Judge Zelenin	2
-Pillar Zelenin	2
-Awake Jiminez	2
-Mother Mem Aleph	2
-Gore	2
-Jiminez	2
-Soil Jiminez	2
-Empty Mem Aleph	2
+Judge Zelenin	3
+Pillar Zelenin	3
+Awake Jiminez	3
+Mother Mem Aleph	3
+Gore	3
+Jiminez	3
+Soil Jiminez	3
+Empty Mem Aleph	3
 DEMON_422	0
 DEMON_423	0
 DEMON_424	0
@@ -438,31 +440,31 @@ DEMON_437	0
 DEMON_438	0
 DEMON_439	0
 DEMON_440	0
-Norris	2
+Norris	3
 DEMON_442	0
 DEMON_443	0
 DEMON_444	0
-Demonica Jiminez	2
+Demonica Jiminez	3
 DEMON_446	0
-Formless Weak Fire	2
-Formless Weak Ice	2
-Formless Weak Elec	2
-Formless Weak Wind	2
+Formless Weak Fire	3
+Formless Weak Ice	3
+Formless Weak Elec	3
+Formless Weak Wind	3
 DEMON_451	0
 DEMON_452	0
 DEMON_453	0
 DEMON_454	0
 DEMON_455	0
-Strange Demon	2
-Soldier	2
-Sergeant	2
-Jack	2
+Strange Demon	3
+Soldier	3
+Sergeant	3
+Jack	3
 DEMON_460	0
-Ryan	2
+Ryan	3
 DEMON_462	0
 DEMON_463	0
 DEMON_464	0
-McClane	2
+McClane	3
 DEMON_466	0
 DEMON_467	0
 DEMON_468	0
@@ -496,13 +498,13 @@ DEMON_495	0
 DEMON_496	0
 DEMON_497	0
 DEMON_498	0
-Anahita	1
-Forneus	1
-Zeus	1
-Maria	1
-Amon	1
-Shaytan	1
-Demeter	1
+Anahita	2
+Forneus	2
+Zeus	2
+Maria	2
+Amon	2
+Shaytan	2
+Demeter	2
 DEMON_506	0
 DEMON_507	0
 DEMON_508	0
