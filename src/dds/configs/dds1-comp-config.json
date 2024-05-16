@@ -1,0 +1,10 @@
+{
+  "demonIds": "dds1-data/demon-ids.tsv",
+  "skillIds": "dds1-data/skill-ids.tsv",
+  "itemIds": "dds1-data/item-ids.tsv",
+  "demonDump": {
+    "file": "dumps/dds1-demons.bin",
+    "start": 0,
+    "length": 76
+  }
+}

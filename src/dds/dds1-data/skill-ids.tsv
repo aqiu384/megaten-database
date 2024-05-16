@@ -1,0 +1,625 @@
+en	desc
+0x000	RESERVE SKILL
+Agi	Light damage\tFire\t1 enemy
+Agilao	Moderate damage\tFire\t1 enemy
+Agidyne	Heavy damage\tFire\t1 enemy
+Maragi	Light damage\tFire\tAll
+Maragion	Moderate damage\tFire\tAll
+Maragidyne	Heavy damage\tFire\tAll
+Flame Breath	Moderate damage\tFire\tRandom
+0x008	Heavy damage\tFire\tRandom
+0x009	Mega damage\tFire\tAll
+Bufu	Light damage\tIce\t1 enemy
+Bufula	Moderate damage\tIce\t1 enemy
+Bufudyne	Heavy damage\tIce\t1 enemy
+Mabufu	Light damage\tIce\tAll
+Mabufula	Moderate damage\tIce\tAll
+Mabufudyne	Heavy damage\tIce\tAll
+Frost Breath	Moderate damage\tIce\tRandom
+0x011	Heavy damage\tIce\tRandom
+0x012	Mega damage\tIce\tAll
+Zio	Light damage\tElec\t1 enemy
+Zionga	Moderate damage\tElec\t1 enemy
+Ziodyne	Heavy damage\tElec\t1 enemy
+Mazio	Light damage\tElec\tAll
+Mazionga	Moderate damage\tElec\tAll
+Maziodyne	Heavy damage\tElec\tAll
+Bolt Flare	Moderate damage\tElec\tRandom
+0x01A	Heavy damage\tElec\tRandom
+0x01B	Mega damage\tElec\tAll
+Zan	Light damage\tForce\t1 enemy
+Zanma	Moderate damage\tForce\t1 enemy
+Zandyne	Heavy damage\tForce\t1 enemy
+Mazan	Light damage\tForce\tAll
+Mazanma	Moderate damage\tForce\tAll
+Mazandyne	Heavy damage\tForce\tAll
+Shock Wave	Moderate damage\tForce\tRandom
+0x023	Heavy damage\tForce\tRandom
+0x024	Mega damage\tForce\tAll
+Tera	Light damage\tEarth\t1 enemy
+Terazi	Moderate damage\tEarth\t1 enemy
+Teradyne	Heavy damage\tEarth\t1 enemy
+Matera	Light damage\tEarth\tAll
+Materazi	Moderate damage\tEarth\tAll
+Materadyne	Heavy damage\tEarth\tAll
+Avalanche	Moderate damage\tEarth\tRandom
+0x02C	Heavy damage\tEarth\tRandom
+0x02D	Mega damage\tEarth\tAll
+Megido	Moderate damage\tAlmighty\tAll
+Megidola	Heavy damage\tAlmighty\tAll
+Megidolaon	Mega damage\tAlmighty\tAll
+HP Thief	Drain HP\tAlmighty\t1 enemy
+MP Thief	Drain MP\tMute\t1 enemy
+0x033	Drain HP and MP\t1 enemy
+Last Word	Mega damage\tAlmighty\t1 enemy
+Death March	Heavy damage\tForfeit HP\tRandom
+0x036	Heavy damage\tForfeit HP\t1 enemy
+Rage	Add 2 blinking \tturn icons
+Psycho Rage	Add 4 blinking \tturn icons
+Vanity	Inflict ailments\tAlmighty\tAll
+Revert	Chance of forcing\t1 enemy to\trevert to human
+Marevert	Chance of forcing\tall enemies to\trevert to humans
+Hama	Reduce HP by half\tExpel\t1 enemy
+Hamaon	Reduce HP greatly\tExpel\t1 enemy
+Mahama	Reduce HP by half\tExpel\tAll
+Mahamaon	Reduce HP greatly\tExpel\tAll
+Xanadu	Heavy damage\tExpel\tAll
+Mudo	Death (low odds)\t1 enemy
+Mudoon	Death (high odds)\t1 enemy
+Mamudo	Death (low odds)\tAll
+Mamudoon	Death (high odds)\tAll
+Curse	Curse\tDeath type\t1 enemy
+Blood Curse	Curse\tDeath type\tAll
+Stone Gaze	Petrify\tDeath type\t1 enemy
+0x048	Petrify\tDeath type\tAll
+Makajam	Mute\tCurse\t1 enemy
+Makajamon	Mute\tCurse\tAll
+Dream Haze	Induce sleep\tNerve\t1 enemy
+Dormina	Induce sleep\tNerve\tAll
+Calm Death	Kill all \tsleeping enemies\tNerve
+Stun Sphere	Stun\tNerve\t1 enemy
+Stun Wave	Stun\tNerve\tAll
+Foul Breath	Light damage\tPoison\tRandom
+0x051	Poison (high odds)\tAll
+0x052	Heavy damage\tPoison\tAll
+Pulinpa	Panic\t1 enemy
+Tentarafoo	Moderate damage\tPanic\tAll
+Sonic Wave	Panic\tAll
+Marin Karin	Charm\t1 enemy
+Allure	Charm\tAll
+0x058	Damage\tCharm\tAll
+Celestial Ray	Mega dmg/ailments\tAlmighty\tAll
+Cocytus	Moderate damage\tIce\tRandom
+0x05B	RESERVE SKILL
+0x05C	RESERVE SKILL
+0x05D	RESERVE SKILL
+Death Flies	Mega damage\tAlmighty/death\tAll
+Fire of Sinai	Heavy damage\tAlmighty\tRandom
+0x060	RESERVE SKILL
+0x061	RESERVE SKILL
+0x062	RESERVE SKILL
+0x063	RESERVE SKILL
+0x064	RESERVE SKILL
+0x065	RESERVE SKILL
+0x066	RESERVE SKILL
+0x067	RESERVE SKILL
+0x068	RESERVE SKILL
+0x069	RESERVE SKILL
+0x06A	RESERVE SKILL
+0x06B	RESERVE SKILL
+0x06C	RESERVE SKILL
+0x06D	RESERVE SKILL
+0x06E	RESERVE SKILL
+0x06F	RESERVE SKILL
+Body Rush	Light damage\tPhys\t1 enemy
+Needle Rush	Multi-hit\tPhys\t1 enemy
+Poison Dart	Multi-hit\tPhys/poison\t1 enemy
+Venom Claw	Light dmg\tPhys/poison\t1 enemy
+Raving Slash	Light dmg\tPhys/panic\t1 enemy
+Death Spray	Multi-hit\tPhys/curse\t1 enemy
+Stun Needle	Multi-hit\tPhys/stun\t1 enemy
+Mad Rush	Light damage\tPhys\tRandom
+Double Slash	Light damage\tPhys\tRandom
+Hell Thrust	Light damage\tPhys\t1 enemy
+Hell Fang	Moderate damage\tPhys\t1 enemy
+Comatose	Light damage\tPhys/sleep\t1 enemy
+Charm Slash	Moderate dmg\tPhys/charm\t1 enemy
+Sakura Rage	Moderate dmg\tPhys/charm\tRandom
+Power Wave	Moderate damage\tPhys\tAll
+Mind Scream	Moderate damage\tPhys/stun\tAll
+Death Blow	Moderate damage\tPhys/curse\tAll
+Chi Blast	Moderate damage\tPhys\tAll
+Mute Blow	Dmg relative to HP\tMute\t1 enemy
+Skull Cleave	Dmg relative to HP\tPhys\t1 enemy
+Demon Rage	Dmg relative to HP\tPhys\tRandom
+0x085	Heavy damage\tPhys/panic\tRandom
+Vile Blade	Dmg relative to HP\tPhys\tAll
+Venom Fang	Dmg relative to HP\tPoison\tAll
+Genocide	Dmg relative to HP\tPhys\tAll
+Gate of Hell	Dmg relative to HP\tStone\tAll
+Executioner	Mega damage\tPhys\t1 enemy
+Bloodbath	Heavy damage\tPhys\tAll
+Revelation	Heavy damage\tPhys/mute\tAll
+Ragnarok	Heavy dmg/def down\tAlmighty\tAll
+Counter	Randomly counter\tLow odds
+Counterstrike	Randomly counter\tFair odds
+High Counter	Randomly counter\tHigh odds
+0x091	RESERVE SKILL
+0x092	RESERVE SKILL
+0x093	RESERVE SKILL
+0x094	RESERVE SKILL
+0x095	RESERVE SKILL
+0x096	RESERVE SKILL
+0x097	RESERVE SKILL
+0x098	RESERVE SKILL
+0x099	RESERVE SKILL
+0x09A	RESERVE SKILL
+0x09B	RESERVE SKILL
+0x09C	RESERVE SKILL
+0x09D	RESERVE SKILL
+0x09E	RESERVE SKILL
+0x09F	RESERVE SKILL
+Dia	Restore HP \tmoderately\t1 ally
+Diarama	Restore HP greatly\t1 ally
+Diarahan	Restore HP fully\t1 ally
+Media	Restore HP \tmoderately\tParty
+Mediarama	Restore HP greatly\tParty
+Mediarahan	Restore HP fully\tParty
+Patra	Cure charm/sleep/\tpanic\t1 ally
+Me Patra	Cure charm/sleep/\tpanic\tParty
+Closdi	Cure mute\t1 ally
+Posumudi	Cure poison\t1 ally
+0x0AA	Cure charm\t1 ally
+Recarm	Revive target\tSome HP\t1 ally
+Samarecarm	Revive target\tAll HP\t1 ally
+Recarmdra	Restore HP/MP\tSacrifice\tParty
+Salvation	Restore HP/\tcure ailments\tParty
+Makatora	Share 50 MP\tBattle only\t1 ally
+Tarunda	Phys attack down\tAll
+Sukunda	Evade/acc down\tAll
+Rakunda	Defense down\tAll
+Makanda	Magic attack down\tAll
+Dekunda	Cancel -nda\tParty
+Tarukaja	Phys attack up\tParty
+Sukukaja	Evade/acc up\tParty
+Rakukaja	Defense up\tParty
+Makakaja	Magic attack up\tParty
+Dekaja	Cancel -kaja\tAll
+0x0BA	Phys attack \tgreatly down\tAll
+0x0BB	Magic attack \tgreatly down\tAll
+0x0BC	Evade/acc \tgreatly down\tAll
+Taunt	Defense down/\tphys attack up\tAll
+Debilitate	Attack/def/\tevade/acc down\tAll
+Analyze	See enemy info\t1 enemy
+Power Charge	Phys atk dmg \tmore than doubles
+Mind Charge	Mag atk dmg \tmore than doubles
+Retreat	Enemy skill
+Reinforcements	Enemy skill
+0x0C4	Encounter rate down\tuntil next\tMIN Noise
+0x0C5	Encounter rate up\tuntil next\tMIN Noise
+0x0C6	Null damage zones\tuntil next\tMIN Noise
+0x0C7	Unlock blue \tbarriers
+0x0C8	Unlock yellow \tbarriers
+0x0C9	Unlock red \tbarriers
+0x0CA	Attacks decoy\t1 enemy
+Support	Enemy skill
+Backup	Enemy skill
+Summon	Enemy skill
+Achedi	Cure ache\t1 ally
+Paraladi	Cure stun\t1 ally
+Petradi	Cure stone\t1 ally
+Song of Grace	Cure madness\t1 ally
+Song of Grace	Cure madness\t1 ally
+Celestial Gift	RESERVE SKILL
+Cursedi	Uncurse\t1 ally
+Element Core	RESERVE SKILL
+0x0D6	RESERVE SKILL
+0x0D7	RESERVE SKILL
+0x0D8	RESERVE SKILL
+0x0D9	RESERVE SKILL
+0x0DA	RESERVE SKILL
+0x0DB	RESERVE SKILL
+0x0DC	RESERVE SKILL
+0x0DD	RESERVE SKILL
+0x0DE	RESERVE SKILL
+0x0DF	RESERVE SKILL
+Devour	Light damage\tHunt\t1 enemy
+Consume	Heavy damage\tHunt\t1 enemy
+Devil Feast	Fatal (low odds)\tHunt\t1 enemy
+Ingest	Fatal (high odds)\tHunt\t1 enemy
+Feed Frenzy	Light damage\tHunt\tRandom
+Insatiable	Moderate damage\tHunt\tAll
+Great Feast	Fatal (low odds)\tHunt\tAll
+White Banquet	Fatal at MAX Noise\tHunt\tAll
+Black Banquet	Fatal at MIN Noise\tHunt\tAll
+Last Meal	Fatal (high odds)\tHunt\tAll
+0x0EA	RESERVE SKILL
+0x0EB	RESERVE SKILL
+0x0EC	RESERVE SKILL
+0x0ED	RESERVE SKILL
+0x0EE	RESERVE SKILL
+0x0EF	RESERVE SKILL
+0x0F0	RESERVE SKILL
+0x0F1	RESERVE SKILL
+0x0F2	RESERVE SKILL
+0x0F3	RESERVE SKILL
+0x0F4	RESERVE SKILL
+0x0F5	RESERVE SKILL
+0x0F6	RESERVE SKILL
+0x0F7	RESERVE SKILL
+0x0F8	RESERVE SKILL
+0x0F9	RESERVE SKILL
+0x0FA	RESERVE SKILL
+0x0FB	RESERVE SKILL
+0x0FC	RESERVE SKILL
+0x0FD	RESERVE SKILL
+0x0FE	RESERVE SKILL
+0x0FF	RESERVE SKILL
+Javelin Rain	RESERVE SKILL
+Xeros-Beat	RESERVE SKILL
+Heat Wave	RESERVE SKILL
+0x103	RESERVE SKILL
+0x104	RESERVE SKILL
+0x105	RESERVE SKILL
+0x106	RESERVE SKILL
+0x107	RESERVE SKILL
+0x108	RESERVE SKILL
+0x109	RESERVE SKILL
+0x10A	RESERVE SKILL
+0x10B	RESERVE SKILL
+0x10C	RESERVE SKILL
+0x10D	RESERVE SKILL
+0x10E	RESERVE SKILL
+0x10F	RESERVE SKILL
+Ration	Restore 50 HP\t1 ally
+Brave Ration	Restore 150 HP\t1 ally
+Hero Ration	Restore 300 HP\t1 ally
+Sable Pack	Restore 50 HP\tParty
+Saute Box	Restore 150 HP\tParty
+Medical Kit	Restore 150 HP\tParty
+Chakra Drop	Restore 50 MP\t1 ally
+Chakra Pot	Restore 150 MP\t1 ally
+Great Chakra	Restore MP fully\t1 ally
+Soma Droplet	Restore HP/MP \tfully\t1 ally
+Soma	Restore HP/MP \tfully\tParty
+Muscle Drink	Restore HP or MP\t???\t1 ally
+Dis-Ache	Cure ache\t1 ally
+Odd Morsel	Restore some HP\t???\t1 ally
+Moldy Roll	Restore some HP\t???\t1 ally
+Rancid Gravy	Restore some HP\t???\t1 ally
+0x120	RESERVE SKILL
+0x121	RESERVE SKILL
+0x122	RESERVE SKILL
+0x123	RESERVE SKILL
+0x124	RESERVE SKILL
+0x125	RESERVE SKILL
+0x126	RESERVE SKILL
+0x127	RESERVE SKILL
+0x128	RESERVE SKILL
+0x129	RESERVE SKILL
+0x12A	RESERVE SKILL
+0x12B	RESERVE SKILL
+0x12C	RESERVE SKILL
+0x12D	RESERVE SKILL
+0x12E	RESERVE SKILL
+0x12F	RESERVE SKILL
+Bullet	Gun attack
+Charge Ammo	Gun attack\tShock
+Tranq Ammo	Gun attack\tSleep
+Shot Shell	Gun attack
+Nerve Ammo	Gun attack\tPanic
+Frigid Ammo	Gun attack\tFreeze
+Metal Jacket	Gun attack
+Hollow Point	Gun attack
+Charm Ammo	Gun attack\tCharm
+Iron Ammo	Gun attack
+Neutron Ammo	Gun attack\tPoison
+0x13B	Gun attack\tMute
+Silver Ammo	Gun attack
+Forged Ammo	Gun attack
+Dead End	Gun attack\tStone
+0x13F	Gun attack
+Matama	Gun attack
+0x141	RESERVE SKILL
+0x142	RESERVE SKILL
+0x143	RESERVE SKILL
+0x144	RESERVE SKILL
+0x145	RESERVE SKILL
+0x146	RESERVE SKILL
+0x147	RESERVE SKILL
+0x148	RESERVE SKILL
+0x149	RESERVE SKILL
+0x14A	RESERVE SKILL
+0x14B	RESERVE SKILL
+0x14C	RESERVE SKILL
+0x14D	RESERVE SKILL
+0x14E	RESERVE SKILL
+0x14F	RESERVE SKILL
+Void Phys	Null phys attacks\tParty
+Void Fire	Null fire attacks\tParty
+Void Ice	Null ice attacks\tParty
+Void Elec	Null elec attacks\tParty
+Void Force	Null force attacks\tParty
+Void Earth	Null earth attacks\tParty
+Void Expel	Null expel attacks\tParty
+Void Death	Null death attacks\tParty
+Void Charm	Null charm attacks\tParty
+Void Poison	Null poison attacks\tParty
+Void Mute	Null mute attacks\tParty
+Void Panic	Null panic attacks\tParty
+Void Nerve	Null nerve attacks\tParty
+Phys Drain	Drain phys attacks\tParty
+Fire Drain	Drain fire attacks\tParty
+Ice Drain	Drain ice attacks\tParty
+Elec Drain	Drain elec attacks\tParty
+Force Drain	Drain force attacks\tParty
+Earth Drain	Drain earth attacks\tParty
+Phys Drain	Repel phys attacks\tParty
+Fire Repel	Repel fire attacks\tParty
+Ice Repel	Repel ice attacks\tParty
+Elec Repel	Repel elec attacks\tParty
+Force Repel	Repel force attacks\tParty
+Earth Repel	Repel earth attacks\tParty
+Expel Repel	Repel expel attacks\tParty
+Death Repel	Repel death attacks\tParty
+Tetraja	Expel/death \tprotection\tParty
+Phys Repel	Repel phys attacks\tParty
+Magic Repel	Repel magic \tattacks\tParty
+0x16E	Prevent enemy \tfrom escaping
+0x16F	RESERVE SKILL
+Reunite	RESERVE SKILL
+Absorb	RESERVE SKILL
+Cannibalize	RESERVE SKILL
+Cannibalize	RESERVE SKILL
+Cannibalize	RESERVE SKILL
+Death Flies	RESERVE SKILL
+Fire of Sinai	RESERVE SKILL
+Cocytus	RESERVE SKILL
+Frost Rush	RESERVE SKILL
+Hunger Wave	RESERVE SKILL
+Hunger Wave	RESERVE SKILL
+Annihilate	RESERVE SKILL
+HP Thief	RESERVE SKILL
+Attack	RESERVE SKILL
+Attack	RESERVE SKILL
+MP Thief	RESERVE SKILL
+Skewer	Critical likely\tPhys\t1 enemy
+Fire Storm	Fire damage\tAll
+Whirlwind	Critical likely\tPhys\tAll
+Reserve	RESERVE SKILL
+Winds of Hell	Force damage\tSeveral
+Leech	Drain HP\t1 enemy
+Zotzilaha Bane	Drain HP\tTurn into bat\t1 enemy
+Spiral Edge	Force damage\tAll
+Dragon Quake	Earth damage\tAll
+Dragon Thrash	RESERVE SKILL
+Rend	RESERVE SKILL
+Camouflage	RESERVE SKILL
+Hunger Wave	RESERVE SKILL
+Infinite Wind	RESERVE SKILL
+Impale	RESERVE SKILL
+Hima Alaya	RESERVE SKILL
+Vaikunta	RESERVE SKILL
+Bhairava	RESERVE SKILL
+Reserve	RESERVE SKILL
+0x193	RESERVE SKILL
+0x194	RESERVE SKILL
+0x195	RESERVE SKILL
+0x196	RESERVE SKILL
+0x197	RESERVE SKILL
+0x198	RESERVE SKILL
+0x199	RESERVE SKILL
+0x19A	RESERVE SKILL
+0x19B	RESERVE SKILL
+0x19C	RESERVE SKILL
+0x19D	RESERVE SKILL
+0x19E	RESERVE SKILL
+0x19F	RESERVE SKILL
+Item Drop	RESERVE SKILL
+Cannibalize	RESERVE SKILL
+Attack	RESERVE SKILL
+Attack	RESERVE SKILL
+Attack	RESERVE SKILL
+Attack	RESERVE SKILL
+Guard	Defend
+Gaea Rage	RESERVE SKILL
+Celestial Ray	RESERVE SKILL
+Rend	RESERVE SKILL
+Rend	RESERVE SKILL
+Pyriphlegethon	Heavy damage\tFire\tAll
+Seraph Lore	Greatly reduces HP\tAll
+Reincarnate	Heavy damage\tAlmighty\tAll
+Phlegethon	Heavy damage\tFire\tAll
+0x1AF	RESERVE SKILL
+Maragi	Light damage\tFire\tAll
+Maragion	Moderate damage\tFire\tAll
+Maragidyne	Heavy damage\tFire\tAll
+Trisagion	Mega damage\tFire\tAll
+Mabufu	Light damage\tIce\tAll
+Mabufula	Moderate damage\tIce\tAll
+Mabufudyne	Heavy damage\tIce\tAll
+Fimbulvet	Mega damage\tIce\tAll
+Mazio	Light damage\tElec\tAll
+Mazionga	Moderate damage\tElec\tAll
+Maziodyne	Heavy damage\tElec\tAll
+Narukami	Mega damage\tElec\tAll
+Mazan	Light damage\tForce\tAll
+Mazanma	Moderate damage\tForce\tAll
+Mazandyne	Heavy damage\tForce\tAll
+Vayaviya	Mega damage\tForce\tAll
+Matera	Light damage\tEarth\tAll
+Materazi	Moderate damage\tEarth\tAll
+Materadyne	Heavy damage\tEarth\tAll
+Titan	Mega damage\tEarth\tAll
+Vanity	Inflict ailments\tAlmighty\tAll
+Mahama	Reduce HP by half\tExpel\tAll
+Mahamaon	Reduce HP greatly\tExpel\tAll
+Xanadu	Heavy damage\tExpel\tAll
+Mamudo	Death (low odds)\tAll
+Mamudoon	Death (high odds)\tAll
+0x1CA	Moderate damage\tMind/panic\tAll
+0x1CB	Charm\tAll
+0x1CC	Curse\tAll
+0x1CD	Stun\tAll
+0x1CE	Petrify\tAll
+Vile Blade	Dmg relative to HP\tPhys\tAll
+0x1D0	Moderate damage\tPhys\tAll
+Genocide	Dmg relative to HP\tPhys\tAll
+Micro Nova	Light damage\tAlmighty\tAll
+Gang Blast	Light damage\tPhys\tAll
+Crystal Dust	Moderate damage\tIce\tAll
+Sky Thrust	Moderate damage\tForce/stun\tAll
+Triple Threat	Heavy damage\tPhys\tAll
+Millennia Curse	Fatal or curse\tDeath\tAll
+Angelic Grace	Restore HP greatly/\tdefense up\tParty
+0x1D9	Multiple -kaja \teffects\tParty
+Primal Dance	Heavy damage\tPhys\t1 enemy
+Instant Kill	Heavy damage\tPhys\t1 enemy
+Black Sun	Mega damage\tAlmighty\tAll
+Demon Fury	Heavy dmg/def down\tAlmighty\tAll
+Damnation	Reduce HP greatly\tExpel\tAll
+Seraph Grace	Restore HP/\tcure ailments\tParty
+Crossfire	Heavy dmg\tAmmo varies\t1 enemy
+Ice Shot	Ice dmg(S)\tAmmo varies\t1 enemy
+Freeze Shot	Ice dmg(M)\tAmmo varies\t1 enemy
+Blizzard Shot	Ice dmg(L)\tAmmo varies\t1 enemy
+Fire Shot	Fire dmg(S)\tAmmo varies\tAll
+Flame Shot	Fire dmg(M)\tAmmo varies\tAll
+Inferno Shot	Fire dmg(L)\tAmmo varies\tAll
+Earth Shot	Earth dmg(S)\tAmmo varies\t1 enemy
+Quake Shot	Earth dmg(M)\tAmmo varies\t1 enemy
+Seismic Shot	Earth dmg(L)\tAmmo varies\t1 enemy
+Wind Shot	Force dmg(S)\tAmmo varies\tRandom
+Gale Shot	Force dmg(M)\tAmmo varies\tRandom
+Tornado Shot	Force dmg(L)\tAmmo varies\tRandom
+Elec Shot	Elec dmg(S)\tAmmo varies\tRandom
+Thunder Shot	Elec dmg(M)\tAmmo varies\tRandom
+Neutron Shot	Elec dmg(L)\tAmmo varies\tRandom
+0x1F0	Elec dmg(S)\tAmmo varies\tAll
+0x1F1	Elec dmg(M)\tAmmo varies\tAll
+0x1F2	Elec dmg(L)\tAmmo varies\tAll
+Me Patra	Cure panic/charm/\tsleep\tParty
+Makajamon	Mute\tCurse\tAll
+Phys Repel	Repel phys attacks\tParty
+Magic Repel	Repel magic \tattacks\tParty
+Media	Restore HP \tmoderately\tParty
+Mediarama	Restore HP \tmoderately\tParty
+Mediarahan	Restore HP greatly\tParty
+Debilitate	Attack/defense/\tevade/acc down\tAll
+Dekunda	Cancel -nda\tParty
+Dekaja	Cancel -kaja\tAll enemies
+Megido	Moderate damage\tAlmighty\tAll
+Megidola	Heavy damage\tAlmighty\tAll
+Megidolaon	Mega damage\tAlmighty\tAll
+Life Bonus	Raise MAX HP\tby 10%
+Life Gain	Raise MAX HP\tby 20%
+Life Surge	Raise MAX HP\tby 30%
+Mana Bonus	Raise MAX MP\tby 10%
+Mana Gain	Raise MAX MP\tby 20%
+Mana Surge	Raise MAX MP\tby 30%
+Critical	Critical hit rate\tdoubled
+MAX Critical	Critical hit rate\tgreatly increases\tduring MAX Noise
+MIN Critical	Critical hit rate\tgreatly increases\tduring MIN Noise
+0x209	Enemy's defense\tdecreases with\tcritical hit
+0x20A	Enemy panics with\tcritical hit
+0x20B	Enemy stunned\twith critical hit
+0x20C	Enemy petrified\twith critical hit
+Fire Boost	Increases fire\tattack damage
+Ice Boost	Increases ice\tattack damage
+Elec Boost	Increases elec\tattack damage
+Force Boost	Increases force\tattack damage
+Earth Boost	Increases earth\tattack damage
+Fire Amp	Greatly increases\tfire attack damage
+Ice Amp	Greatly increases\tice attack damage
+Elec Amp	Greatly increases\telec attack damage
+Force Amp	Greatly increases\tforce attack damage
+Earth Amp	Greatly increases\tearth attack damage
+0x217	Strengthens\trepelled attacks
+0x218	Doubles strength\tof repelled attacks
+Counter	Randomly counter\tLight damage\tLow odds
+Counterstrike	Randomly counter\tModerate damage\tFair odds
+High Counter	Randomly counter\tHeavy damage\tHigh odds
+0x21C	Phys attack up\twhen hungry
+0x21D	Absorb HP during\tnormal attacks
+Attack All	Normal attack\thits all enemies
+Shared Karma	Gain 1/2 Karma\twhen not in battle
+Mutual Karma	Gain full Karma\twhen not in battle
+Atma Bonus	Increases AP\tgained in battle\tParty
+0x222	Greatly increases\tAP gained in battle\tParty
+0x223	Increases number\tof magic fragments\treceived
+0x224	Greatly increases\tnumber of magic\tfragments received
+Iron Stomach	Null aches after\tsuccessful hunt
+0x226	Encounter\trare demons\tmore often
+0x227	Encounter\trare demons\tless often
+0x228	Increases success\tof devouring\tweak enemies
+Ingest Mana	Some MP restored\tafter successful\thunt
+0x22A	Some MP restored\tafter battle
+Auto Soma	HP/MP fully restored\tafter battle
+Chakra Walk	MP restored\twhile walking\tActive member
+Null Risks	Decreases surprise\tattacks
+First Strike	Increases chance\tof first strike
+Null Critical	Decreases chance\tof being\tcritically hit
+Quick Escape	Increases chance\tof escaping\tfrom battle
+Close Call	Escape death\t1 time\tDemon form only
+Quick Cure	Increases chance\tof recovering from\tailments each turn
+0x233	Decreases\tvulnerability\twhen petrified
+0x234	Less HP required\tfor phys attacks
+0x235	Less MP required\tfor magic attacks
+0x236	Delays hunger
+0x237	Increases failure\trate for\tAtma creation
+0x238	Induces hunger
+0x239	Increases\treceptiveness to\thealing magic
+0x23A	Replaced by\tinactive member\tif killed
+0x23B	Increases HP\trestored after\tattacks
+Phys Resist	Increases tolerance\tto phys attacks\tCan void weakness
+Fire Resist	Increases tolerance\tto fire attacks\tCan void weakness
+Ice Resist	Increases tolerance\tto ice attacks\tCan void weakness
+Elec Resist	Increases tolerance\tto elec attacks\tCan void weakness
+Force Resist	Increases tolerance\tto force attacks\tCan void weakness
+Earth Resist	Increases tolerance\tto earth attacks\tCan void weakness
+Expel Resist	Increases tolerance\tto expel attacks\tCan void weakness
+Death Resist	Increases tolerance\tto death attacks\tCan void weakness
+Null Charm	Nulls charm attacks
+Null Poison	Nulls poison\tattacks
+Null Mute	Nulls mute attacks
+Null Panic	Nulls panic attacks
+Null Nerve	Nulls nerve attacks
+Null Attack	Nulls all attacks\texcept almighty
+Null Sleep	Allows evasion of\tenemy attacks\twhile asleep
+Kill Adjust	Reduces power to\tpreserve enemy's\tlife (1 attack)
+AP Divide	Increases AP gained\tby party after\tsuccessful hunts
+AP Getter	Gain AP when not\tin battle
+Devour Mana	50% of MP restored\tafter successful\thunts
+Null Phys	Nulls phys attacks
+Mana Walk	MP rapidly restored\twhile walking\tActive member
+Null Expel	Nulls expel attacks
+Null Death	Nulls death attacks
+Null Ailment	Nulls nerve/charm/\tmute/poison/\tpanic attacks
+Phys Absorb	Drains phys attacks
+Repel Expel	Repels expel\tattacks
+Repel Death	Repels death\tattacks
+Null Element	Nulls fire/ice\tforce/elec/\tearth attacks
+Repel Element	Repels fire/ice/\tforce/elec/\tearth attacks
+Human Form	Start battles\tin human form
+0x25A	RESERVE SKILL
+0x25B	RESERVE SKILL
+0x25C	RESERVE SKILL
+0x25D	RESERVE SKILL
+0x25E	RESERVE SKILL
+0x25F	RESERVE SKILL
+-nda Skill	RESERVE SKILL
+-kaja Skill	RESERVE SKILL
+E.Repel Skill	RESERVE SKILL
+Void Skill	RESERVE SKILL
+Drain Skill	RESERVE SKILL
+Repel Skill	RESERVE SKILL
+Hunt Skill	RESERVE SKILL
+1-Hit Skill	RESERVE SKILL
+Ailment Skill	RESERVE SKILL
+Mudo Skill	RESERVE SKILL
+Force Skill	RESERVE SKILL
+Stun Skill	RESERVE SKILL
+Megido Skill	RESERVE SKILL
+0x26D	RESERVE SKILL
+0x26E	RESERVE SKILL
+0x26F	RESERVE SKILL

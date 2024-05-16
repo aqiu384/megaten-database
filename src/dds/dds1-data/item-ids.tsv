@@ -1,0 +1,193 @@
+en	desc
+0x000	UNUSED
+Ration	Restore 50 HP\t1 ally
+Brave Ration	Restore 150 HP\t1 ally
+Hero Ration	Restore 300 HP\t1 ally
+Graven Shard	Restore HP (S)\t1 ally\tReusable
+Graven Image	Restore HP (M)\t1 ally\tReusable
+Medical Kit	Restore 150 HP\tParty
+Chakra Drop	Restore 50 MP\t1 ally
+Chakra Elixir	Restore 50 MP\t1 ally\tReusable
+Chakra Pot	Restore 150 MP\t1 ally
+Great Chakra	Restore all MP\tParty
+Soma Drop	Restore all HP/MP\t1 ally
+Soma	Restore all HP/MP\tParty
+Muscle Drink	Restore HP or MP\t???\t1 ally
+Revival Bead	Revive target\tSome HP\t1 ally
+Revival Gem	Revive target\tAll HP\t1 ally
+Revival Orb	Revive 1 ally\tAll HP\tReusable
+0x011	0x011
+0x012	0x012
+Dis-Poison	Cure poison\t1 ally
+Dis-Ache	Cure ache\t1 ally
+Dis-Mute	Cure mute\t1 ally
+Dis-Stun	Cure stun\t1 ally
+Dis-Stone	Cure stone\t1 ally
+Dis-Curse	Uncurse\t1 ally
+Panacea	Cure panic/charm/\nsleep\t1 ally
+Odd Morsel	Restore HP (M)\t???\t1 ally
+Moldy Roll	Restore HP (M)\t???\t1 ally
+Rancid Gravy	Restore HP (M)\t???\t1 ally
+0x01D	UNUSED
+0x01E	UNUSED
+0x01F	UNUSED
+Magic Mirror	Repel magic\tNext turn only
+Attack Mirror	Repel phys attack\tNext turn only
+Dekaja Rock	Cancel -kaja\tAll enemies
+0x023	UNUSED
+Molotov	Light damage\tFire\tAll
+Fire Bomb	Moderate damage\tFire\tAll
+Ice Blast	Light damage\tIce\tAll
+Frost Bomb	Moderate damage\tIce\tAll
+Thunder Rod	Light damage\tElectricity\tAll
+Shock Bomb	Moderate damage\tElectricity\tAll
+Sonic Stone	Light damage\tForce\tAll
+Blast	Moderate damage\tForce\tAll
+Land Mine	Light damage\tEarth\tAll
+Magni Bomb	Moderate damage\tEarth\tAll
+Holy Arrow	Reduce HP by half\tExpel\tAll
+Dark Veil	Death\tAll
+Al Azif	Death (low odds)\tAll\tReusable
+Murder Rock	Death (high odds)\tAll\tReusable
+0x032	UNUSED
+0x033	UNUSED
+Wild Card	Moderate damage\tAlmighty\tAll
+Megido Fire	Almighty damage\tAll\tReusable
+Wild Bomb	Heavy damage\tAlmighty\tAll
+0x037	UNUSED
+Spyglass	See enemy info\t1 enemy\tReusable
+Estoma Spray	Fewer encounters\tTemporary
+Magic Reed	More encounters\tTemporary
+Core Shield	Null damage zone\tTemporary
+Light Ball	UNUSED
+0x03D	UNUSED
+0x03E	UNUSED
+0x03F	UNUSED
+Fire Wall	Null fire attacks\tParty
+Ice Wall	Null ice attacks\tParty
+Bolt Wall	Null elec attacks\tParty
+Wind Wall	Null force attacks\tParty
+Earth Wall	Null earth attacks\tParty
+0x045	UNUSED
+0x046	UNUSED
+0x047	UNUSED
+0x048	UNUSED
+0x049	UNUSED
+0x04A	UNUSED
+0x04B	UNUSED
+0x04C	UNUSED
+0x04D	UNUSED
+0x04E	UNUSED
+0x04F	UNUSED
+Power Noise	Restore all HP/MP\tStrength +2\t1 ally
+Vital Noise	Restore all HP/MP\tVitality +2\t1 ally
+Magic Noise	Restore all HP/MP\tMagic +2\t1 ally
+Quick Noise	Restore all HP/MP\tAgility +2\t1 ally
+Luck Noise	Restore all HP/MP\tLuck +2\t1 ally
+HP Noise	Restore HP/MP\tMax HP +10\t1 ally
+MP Noise	Restore HP/MP\tMax MP +10\t1 ally
+0x057	Dummy Message \n1234567890\n123456
+0x058	Dummy Message \n1234567890\n123456
+0x059	Dummy Message \n1234567890\n123456
+0x05A	Dummy Message \n1234567890\n123456
+0x05B	Dummy Message \n1234567890\n123456
+0x05C	Dummy Message \n1234567890\n123456
+0x05D	Dummy Message \n1234567890\n123456
+0x05E	Dummy Message \n1234567890\n123456
+0x05F	Dummy Message \n1234567890\n123456
+0x060	Dummy Message \n1234567890\n123456
+Devil Cell	Trade for Macca \nat Vendor
+Active Cell	Trade for Macca \nat Vendor
+Error Cell	Trade for Macca \nat Vendor
+Code Cell	Trade for Macca \nat Vendor
+Quantum Cell	Trade for Macca \nat Vendor
+Organic Cell	Trade for Macca \nat Vendor
+Theory Cell	Trade for Macca \nat Vendor
+Logic Cell	Trade for Macca \nat Vendor
+Fusion Cell	Trade for Macca \nat Vendor
+Layer Cell	Trade for Macca \nat Vendor
+Entity Cell	Trade for Macca \nat Vendor
+Jack Cell	Trade for Macca \nat Vendor
+0x06D	Dummy Message \n1234567890\n123456
+0x06E	Dummy Message \n1234567890\n123456
+0x06F	Dummy Message \n1234567890\n123456
+0x070	Dummy Message \n1234567890\n123456
+0x071	Dummy Message \n1234567890\n123456
+0x072	Dummy Message \n1234567890\n123456
+0x073	Dummy Message \n1234567890\n123456
+0x074	Dummy Message \n1234567890\n123456
+0x075	Dummy Message \n1234567890\n123456
+0x076	Dummy Message \n1234567890\n123456
+0x077	Dummy Message \n1234567890\n123456
+0x078	Dummy Message \n1234567890\n123456
+0x079	Dummy Message \n1234567890\n123456
+0x07A	Dummy Message \n1234567890\n123456
+0x07B	Dummy Message \n1234567890\n123456
+0x07C	Dummy Message \n1234567890\n123456
+0x07D	Dummy Message \n1234567890\n123456
+0x07E	Dummy Message \n1234567890\n123456
+0x07F	Dummy Message \n1234567890\n123456
+Blue Key	Destroys \nblue walls
+Yellow Key	Destroys \nyellow walls
+Red Key	Destroys \nred walls
+Tag Ring	Records Macca \nearned in battle
+Crimson Orb	Crimson sphere \nof Feng Huang
+Copper Orb	Earth sphere \nof Gui Xian
+Azure Orb	Azure sphere \nof Long
+White Orb	White sphere \nof Baihu
+Golden Orb	Mysterious \ngold sphere
+Red Ring	Tag Ring with \nblood on it
+Seraph Quill	Steel feather \nof Metatron
+Tyrant Skull	Mysterious \nblack skull
+Wooden Key	Fine-grained \nwooden key
+Metal Key	Key made of steel
+Glass Key	Key made of glass
+Bone Key	Lightweight \nwhite key
+Silver Key	Shiny silver key
+Gold Key	Shiny gold key
+Sugar Key	Useful and \ndelicious!
+Ice Crystal	Ice crystal \nof King Frost
+L Statue Key	Key acquired in \nthe Citadel
+R Statue Key	Key acquired in \nthe Citadel
+Oxygen Tank	Useful when \nscuba diving
+0x097	Dummy Message \n1234567890\n123456
+0x098	Dummy Message \n1234567890\n123456
+0x099	Dummy Message \n1234567890\n123456
+0x09A	Dummy Message \n1234567890\n123456
+0x09B	Dummy Message \n1234567890\n123456
+0x09C	Dummy Message \n1234567890\n123456
+0x09D	Dummy Message \n1234567890\n123456
+0x09E	Dummy Message \n1234567890\n123456
+0x09F	Dummy Message \n1234567890\n123456
+0x0A0	Dummy Message \n1234567890\n123456
+Bullet	Bullet\tAttack power 8
+Charge Shot	Bullet\tShock\tAttack power 24
+Tranq Shot	Bullet\tSleep\tAttack power 48
+Shot Shell	Bullet\tAttack power 16
+Nerve Shot	Bullet\tStun\tAttack power 64
+Frigid Shot	Bullet\tFreeze\tAttack power 32
+Metal Jacket	Bullet\tAttack power 40
+Hollow Point	Bullet\tAttack power 56
+Charm Shot	Bullet\tCharm\tAttack power 104
+Iron Shot	Bullet\tAttack power 80
+Neutron Shot	Bullet\tPoison\tAttack power 88
+Reserve	Dummy Message \n1234567890\n123456
+Silver Shot	Bullet\tAttack power 96
+Forged Shot	Bullet\tAttack power 120
+Dead End	Bullet\tStone\tAttack power 112
+Reserve	Dummy Message \n1234567890\n123456
+Magatama	Bullet\tAttack power 200
+Reserve	Dummy Message \n1234567890\n123456
+0x0B3	Dummy Message \n1234567890\n123456
+0x0B4	Dummy Message \n1234567890\n123456
+0x0B5	Dummy Message \n1234567890\n123456
+0x0B6	Dummy Message \n1234567890\n123456
+0x0B7	Dummy Message \n1234567890\n123456
+0x0B8	Dummy Message \n1234567890\n123456
+0x0B9	Dummy Message \n1234567890\n123456
+0x0BA	Dummy Message \n1234567890\n123456
+0x0BB	Dummy Message \n1234567890\n123456
+0x0BC	Dummy Message \n1234567890\n123456
+0x0BD	Dummy Message \n1234567890\n123456
+0x0BE	Dummy Message \n1234567890\n123456
+0x0BF	UNUSED

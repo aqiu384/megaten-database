@@ -1,0 +1,385 @@
+en	resists
+0x000	Reserved
+Laksmi	Repel: earth/expel_Drain: fire/ice
+Isis	Repel: phys/gun/expel/death_Null: ailments
+Parvati	Repel: expel_Null: force/charm/mute_Weak: ice
+Sati	Weak: ice_Repel: expel_Drain: fire
+Kushinada	Weak: elec/death_Repel: expel_Null: charm
+Sarasvati	Weak: fire_Repel: expel_Null: elec/ailments
+Uzume	Weak: elec/mute_Drain: force_Null: expel
+Pazuzu	Weak: force_Repel: death_Drain: ice/elec
+Ganesha	Strong: fire/earth_Drain: force_Null: ice/elec/expel/death
+Wu Kong	Repel: earth_Drain: fire_Null: phys/gun/expel/death
+Arahabaki	Weak: ice_Null: all except expel/_almighty/ice
+Okuninushi	Weak: poison/nerve_Null: force/expel/death
+Hanuman	Strong: phys_Weak: charm
+Valkyrie	Strong: phys_Weak: mute/panic_Null: fire/expel
+Atavaka	Strong: phys Weak: earth_Repel: expel/death_Null: panic
+Rakshasa	Weak: earth/expel/panic_Repel: ice/death
+Karasu	Weak: ailments_Repel: force_Null: elec
+Hresvelgr	Weak: gun/elec_Repel: ice_Null: earth
+Sparna	Strong: ailments Weak: gun_Repel: force_Null: earth
+Horus	Strong: phys Weak: gun/death_Repel: elec/expel_Null: earth
+Black Ooze	Strong: phys_Weak: elec/earth/expel_Repel: death Drain: fire/ice
+Gurr	Weak: gun/elec/expel_Repel: death_Null: earth
+Virtue	Strong: earth_Weak: elec/death_Repel: expel
+Macha	Strong: earth_Weak: gun/elec_Drain: force
+Principality	Weak: death/mute_Repel: expel
+Garuda	Repel: gun/force/earth_Null: ice/expel/death/_ailments
+Archangel	Strong: phys/earth_Weak: death_Null: expel
+Badb Catha	Strong: phys/force/earth_Weak: gun/fire_Null: death
+Samael	Strng: phys Null: earth_Weak: poison/mute_Repel: elec/expel/death
+Gorgon	Strong: ice/elec/force_Weak: fire_Repel: death
+Jatayu	Weak: gun Null: fire/elec/_expel/ailments_Repel: earth/death
+Yurlungur	Strong: phys/gun/expel/death_Weak: earth/ailments_Repel: fire/ice
+Girimehkala	Repel: phys/gun/expel/death_Drain: fire_Null: ailments
+Nidhoggr	Repel: death_Drain: ice_Null: ailments
+0x023	Weak: death_Repel: expel_Drain: ice
+Tarrasque	Strong: phys_Weak: fire/earth_Null: elec
+Mizuchi	Strong: earth_Weak: fire_Drain: ice Null: phys/death
+Nozuchi	Weak: elec_Drain: force
+Tan-Ki	Strong: phys_Weak: earth/ailments
+Cockatrice	Strong: force_Weak: gun/ice
+Decarabia	Strong: all magic_Weak: expel_Repel: death
+Forneus	Strong: earth_Weak: elec_Repel: fire/ice/death
+Titania	Strong: earth_Weak: ailments_Null: fire/ice/elec/force
+Queen Mab	Strong: fire/ice/elec/force_Repel: earth/death
+Cu Chulainn	Strong: phys/ice/elec/force_Weak: poison/nerve_Null: expel/death
+Baphomet	Strong: ailments_Weak: expel_Null: fire/death
+Succubus	Strong: earth_Weak: elec/expel/mute/_panic/nerve Null: charm
+Jinn	Weak: elec_Drain: force
+Onkot	Strong: phys_Weak: elec/charm/nerve
+Pyro Jack	Weak: ice_Drain: fire
+Blob	Strong: phys_Weak: ice/earth/expel_Null: death
+Apsaras	Weak: fire_Null: elec
+High Pixie	Strong: earth_Drain: elec_Null: expel/death
+Jack Frost	Weak: fire_Drain: ice
+Lilim	Weak: ice_Null: earth
+Slime	Strong: phys_Weak: fire/ice/earth/expel_Null: death
+Pixie	Strong: elec/earth_Null: expel/death
+Taown	Weak: earth_Drain: force
+Catoblepas	Weak: fire_Repel: elec_Null: death/ailments
+0x03C	Weak: elec_Null: ice/expel
+Senri	Weak: elec_Repel: force_Null: expel/charm
+Raiju	Weak: force_Drain: elec_Null: death
+Thoth	Strong: phys_Weak: death_Null: charm/panic/nerve
+Nue	Weak: force/charm_Null: ice/death
+Cai-Zhi	Weak: earth/mute_Null: poison
+Unicorn	Strong: ice/force_Weak: death_Null: expel/charm
+Mothman	Weak: earth_Repel: elec
+Nekomata	Weak: elec_Null: charm
+Kelpie	Strong: earth_Weak: fire_Null: elec
+Shiisaa	Weak: earth_Drain: elec_Null: expel
+Bicorn	Strong: fire/ice/force_Weak: ailments_Drain: elec
+Empusa	Weak: fire_Null: ice
+Isora	Strong: earth_Weak: elec/force_Null: ice
+Alp	Strong: elec/earth
+Ongyo-Ki	Repel: death Weak: gun_Drain: fire/ice/elec_Null: expel/ailments
+Shiki-Ouji	Weak: fire_Repel: expel/death
+Girimehkala	Weak: expel/charm_Repel: phys/gun/death_Drain: fire
+Purski	Weak: elec_Repel: force/expel
+Fuu-Ki	Weak: elec_Null: force/death
+Phantom	Weak: force/expel_Null: phys/gun/death
+Sui-Ki	Strong: ailments_Weak: fire_Null: ice/death
+Turdak	Weak: expel/panic_Null: fire/death
+Kin-Ki	Strong: ailments_Weak: earth_Null: elec/death
+Fomor	Weak: elec/ailments_Null: ice
+Ikusa	Weak: force_Null: death/nerve
+Chatterskull	Strong: force_Weak: fire/expel/charm/panic_Null: ice/earth/death
+Gyu-Ki	Weak: earth_Null: death
+Mou-Ryo	Strong: earth_Weak: ice/expel_Null: fire/death
+Yaka	Weak: ice/expel_Null: fire
+Ghoul	Weak: fire/earth
+Temple Guard	Null: phys/gun/expel/charm
+Kikuri-Hime	Drain: earth_Null: fire/expel/charm/mute
+Naga	Weak: fire_Repel: elec
+Saki Mitama	Strong: fire/ice/elec_Drain: phys/gun Null: force/_earth/expel/death/ailments
+Kusi Mitama	Strong: fire/ice/force_Null: phys/gun/elec/earth/_expel/death/ailments
+Nigi Mitama	Strong: fire/elec/force_Null: phys/gun/ice/earth/_expel/death/ailments
+Ara Mitama	Strong: ice/elec/force_Null: phys/gun/fire/earth/_expel/death/ailments
+Omoikane	Strong: phys/all magic_Null: expel/death/ailments
+Onmoraki	Strong: fire_Weak: ice
+Apis	Weak: earth/death_Repel: fire/ice/elec/force_Null: expel/ailments
+0x065	Reserve
+Preta	Weak: fire/earth
+0x067	Reserve
+0x068	Reserve
+0x069	Reserve
+0x06A	Reserve
+0x06B	Reserve
+0x06C	Reserve
+0x06D	Reserve
+0x06E	Reserve
+0x06F	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+(Reserve)	Reserve
+(Reserve)	Reserve
+(Reserve)	Reserve
+(Reserve)	Reserve
+(Reserve)	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+Reserve	Reserve
+0x0A7	Reserve
+0x0A8	Reserve
+0x0A9	Reserve
+0x0AA	Reserve
+0x0AB	Reserve
+0x0AC	Reserve
+0x0AD	Reserve
+0x0AE	Reserve
+0x0AF	Reserve
+0x0B0	Reserve
+0x0B1	Reserve
+0x0B2	Reserve
+0x0B3	Reserve
+0x0B4	Reserve
+0x0B5	Reserve
+0x0B6	Reserve
+0x0B7	Reserve
+0x0B8	Reserve
+0x0B9	Reserve
+0x0BA	Reserve
+0x0BB	Reserve
+0x0BC	Reserve
+0x0BD	Reserve
+0x0BE	Reserve
+0x0BF	Reserve
+0x0C0	Reserve
+0x0C1	Reserve
+0x0C2	Reserve
+0x0C3	Reserve
+0x0C4	Reserve
+0x0C5	Reserve
+0x0C6	Reserve
+0x0C7	Reserve
+0x0C8	Reserve
+0x0C9	Reserve
+0x0CA	Reserve
+0x0CB	Reserve
+0x0CC	Reserve
+0x0CD	Reserve
+0x0CE	Reserve
+0x0CF	Reserve
+0x0D0	Reserve
+0x0D1	Reserve
+0x0D2	Reserve
+0x0D3	Reserve
+0x0D4	Reserve
+0x0D5	Reserve
+0x0D6	Reserve
+0x0D7	Reserve
+0x0D8	Reserve
+0x0D9	Reserve
+0x0DA	Reserve
+0x0DB	Reserve
+0x0DC	Reserve
+0x0DD	Reserve
+0x0DE	Reserve
+0x0DF	Reserve
+0x0E0	Reserve
+0x0E1	Reserve
+0x0E2	Reserve
+0x0E3	Reserve
+0x0E4	Reserve
+0x0E5	Reserve
+0x0E6	Reserve
+0x0E7	Reserve
+0x0E8	Reserve
+0x0E9	Reserve
+0x0EA	Reserve
+0x0EB	Reserve
+0x0EC	Reserve
+0x0ED	Reserve
+0x0EE	Reserve
+0x0EF	Reserve
+0x0F0	Reserve
+0x0F1	Reserve
+0x0F2	Reserve
+0x0F3	Reserve
+0x0F4	Reserve
+0x0F5	Reserve
+0x0F6	Reserve
+0x0F7	Reserve
+0x0F8	Reserve
+0x0F9	Reserve
+0x0FA	Reserve
+0x0FB	Reserve
+0x0FC	Reserve
+0x0FD	Reserve
+0x0FE	Reserve
+0x0FF	Reserve
+0x100	Reserve
+Hayagriva	Reserve
+Camazotz	Reserve
+Camazotz	Reserve
+Camazotz	Reserve
+Usas	Reserve
+Agni	Reserve
+Rahu (Head)	Reserve
+Rahu (Body)	Reserve
+Metatron	Reserve
+Cerberus (R)	Reserve
+Catoblepas	Reserve
+Isis	Reserve
+Nidhoggr	Reserve
+Ravana	Reserve
+Ravana	Reserve
+Beelzebub	Reserve
+Beelzebub	Reserve
+Orochi	Reserve
+Huang Long	Reserve
+Temple Guard	Reserve
+Vasuki	Reserve
+Garuda	Reserve
+Jatayu	Reserve
+Ananta	Reserve
+Harihara	Reserve
+Harihara	Reserve
+Harihara	Reserve
+Ghoul	Reserve
+Nidhoggr	Reserve
+Cockatrice	Reserve
+Empusa	Reserve
+Tarrasque	Reserve
+Lilim	Reserve
+Gyu-Ki	Reserve
+Macha	Reserve
+Rahu	Reserve
+Jinana	Reserve
+Badb Catha	Reserve
+Apis	Reserve
+Bicorn	Reserve
+Onkot	Reserve
+Uzume	Reserve
+Ikusa	Reserve
+Turdak	Reserve
+Unicorn	Reserve
+Cerberus (C)	Reserve
+Cerberus (L)	Reserve
+Agni	Reserve
+Archangel	Reserve
+Heat	Reserve
+Kelpie	Reserve
+Nue	Reserve
+Onkot	Reserve
+Atavaka	Reserve
+King Frost	Reserve
+Feng Huang	Reserve
+Long	Reserve
+Gui Xian	Reserve
+Baihu	Reserve
+Demi-fiend	Reserve
+Fire Core	Reserve
+Water Core	Reserve
+Elec Core	Reserve
+Wind Core	Reserve
+Earth Core	Reserve
+Gold Core	Reserve
+Jack Frost	Reserve
+Baphomet	Reserve
+Pixie	Strong: elec/earth_Null: expel/death
+Hunter Demon	Reserve
+Jack Frost	Reserve
+Pyro Jack	Reserve
+Valkyrie	Reserve
+Cu Chulainn	Reserve
+Girimehkala	Reserve
+Arahabaki	Reserve
+Pixie	Reserve
+Titania	Reserve
+Parvati	Reserve
+Titania	Reserve
+Cu Chulainn	Reserve
+Jinn	Reserve
+Fomor	Reserve
+Jack Frost	Reserve
+Omoikane	Reserve
+Omoikane	Reserve
+Omoikane	Reserve
+0x158	Reserve
+0x159	Reserve
+0x15A	Reserve
+0x15B	Reserve
+0x15C	Reserve
+0x15D	Reserve
+0x15E	Reserve
+0x15F	Reserve
+0x160	Reserve
+0x161	Reserve
+0x162	Reserve
+0x163	Reserve
+0x164	Reserve
+0x165	Reserve
+0x166	Reserve
+0x167	Reserve
+0x168	Reserve
+0x169	Reserve
+0x16A	Reserve
+0x16B	Reserve
+0x16C	Reserve
+0x16D	Reserve
+0x16E	Reserve
+0x16F	Reserve
+0x170	Reserve
+0x171	Reserve
+0x172	Reserve
+0x173	Reserve
+0x174	Reserve
+0x175	Reserve
+0x176	Reserve
+0x177	Reserve
+0x178	Reserve
+0x179	Reserve
+0x17A	Reserve
+0x17B	Reserve
+0x17C	Reserve
+0x17D	Reserve
+0x17E	Reserve
+0x17F	Reserve
