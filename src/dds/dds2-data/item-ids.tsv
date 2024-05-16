@@ -1,0 +1,257 @@
+en	desc
+0x000	UNUSED
+Ration	Restore 50 HP\t1 ally
+Brave Ration	Restore 150 HP\t1 ally
+Hero Ration	Restore 300 HP\t1 ally
+Graven Shard	Restore HP (S)\t1 ally\tReusable
+Graven Image	Restore HP (M)\t1 ally\tReusable
+Medical Kit	Restore 150 HP\tParty
+Medical Tool	Restore 300 HP\tParty
+Medical Gear	Restore full HP\tParty
+Chakra Drop	Restore 50 MP\t1 ally
+Chakra Elixir	Restore 50 MP\t1 ally\tReusable
+Chakra Pot	Restore 150 MP\t1 ally
+Great Chakra	Restore all MP\tParty
+Soma Drop	Restore all HP/MP\t1 ally
+Soma	Restore all HP/MP\tParty
+Muscle Drink	Restore HP or MP\t???\t1 ally
+Revival Bead	Revive target\tSome HP\t1 ally
+Revival Gem	Revive target\tAll HP\t1 ally
+Revival Orb	Revive 1 ally\tAll HP\tReusable
+Reserve	UNUSED
+reserve	UNUSED
+Dis-Poison	Cure poison\t1 ally
+Dis-Ache	Cure ache\t1 ally
+Dis-Mute	Cure mute\t1 ally
+Dis-Stun	Cure stun\t1 ally
+Dis-Stone	Cure stone\t1 ally
+Dis-Curse	Uncurse\t1 ally
+Panacea	Cure panic/charm/\tsleep\t1 ally
+Odd Morsel	Restore HP (M)\t???\t1 ally
+Moldy Roll	Restore HP (M)\t???\t1 ally
+Rancid Gravy	Restore HP (M)\t???\t1 ally
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Magic Mirror	Repel magic\tNext turn only\tParty
+Attack Mirror	Repel phys attack\tNext turn only\tParty
+Dekaja Rock	Cancel -kaja\tAll enemies
+Reserve	UNUSED
+Molotov	Light damage\tFire\tAll
+Fire Bomb	Moderate damage\tFire\tAll
+Ice Blast	Light damage\tIce\tAll
+Frost Bomb	Moderate damage\tIce\tAll
+Thunder Rod	Light damage\tElectricity\tAll
+Shock Bomb	Moderate damage\tElectricity\tAll
+Sonic Stone	Light damage\tForce\tAll
+Impact Bomb	Moderate damage\tForce\tAll
+Land Mine	Light damage\tEarth\tAll
+Magni Bomb	Moderate damage\tEarth\tAll
+Holy Arrow	Reduce HP by 1/2\tExpel\tAll\t/non-human
+Dark Veil	Death\tAll
+Al Azif	Death (low odds)\tAll\tReusable
+Murder Rock	Death (high odds)\tAll\tReusable
+Reserve	UNUSED
+Reserve	UNUSED
+Wild Card	Moderate damage\tAlmighty\tAll
+Megido Fire	Almighty damage(M)\tAll\tReusable
+Wild Bomb	Heavy damage\tAlmighty\tAll
+Reserve	UNUSED
+Spyglass	See enemy info\t1 enemy\tReusable
+Estoma Spray	Fewer encounters\tTemporary
+Magic Reed	More encounters\tTemporary
+Core Shield	Null damage zone\tTemporary
+Light Ball	Lights up dark areas\tTemporary
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Fire Wall	Null fire attacks\tParty
+Ice Wall	Null ice attacks\tParty
+Bolt Wall	Null elec attacks\tParty
+Wind Wall	Null force attacks\tParty
+Earth Wall	Null earth attacks\tParty
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Crimson Box	Random item\tMay contain \tattack item
+White Box	Random item\tMay contain \tshield item
+Golden Box	Random item\tMay contain \tvaluable item
+Rage	Increases \tturn icons \tby 2
+Impel Stone	Increases blinking \tturn icons by 4
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Reserve	UNUSED
+Power Data	Restore all HP/MP\tStrength +2\t1 ally
+Vital Data	Restore all HP/MP\tVitality +2\t1 ally
+Magic Data	Restore all HP/MP\tMagic +2\t1 ally
+Quick Data	Restore all HP/MP\tAgility +2\t1 ally
+Luck Data	Restore all HP/MP\tLuck +2\t1 ally
+HP Data	Restore HP/MP\tMax HP +10\t1 ally
+MP Data	Restore HP/MP\tMax MP +10\t1 ally
+0x060	Dummy Message\tDebug Message
+Clover	A four-leaf clover\t\tTrade for $ at Mad Mart
+Narcissus	Small white flower\t\tTrade for $ at Mad Mart
+Amaryllis	Bright crimson flower\t\tTrade for $ at Mad Mart
+Daisy	Light purple flower\t\tTrade for $ at Mad Mart
+Rose	Beautiful flower with thorns\t\tTrade for $ at Mad Mart
+Sakura	Cherry blossom\t\tTrade for $ at Mad Mart
+Jasmine	Scented white flower\t\tTrade for $ at Mad Mart
+Manjusaka	Known as flower of heaven\t\tTrade for $ at Mad Mart
+Olive Branch	Symbol of peace\t\tTrade for $ at Mad Mart
+Lotus Seed	It is filled with vitality\t\tTrade for $ at Mad Mart
+Lotus Flower	Flower that bloomed from\t\tthe seed James Mason \tgave Amelia
+0x06C	Dummy Message\tDebug Message
+Cat's Eye	Enhances Karma Ring\t\t+2 Strength
+Tiger's Eye	Enhances Karma Ring\t\t+3 Strength
+Malachite	Enhances Karma Ring\t\t+4 Strength
+Blue Diamond	Enhances Karma Ring\t\t+2 Vitality
+Red Diamond	Enhances Karma Ring\t\t+3 Vitality
+Hope Diamond	Enhances Karma Ring\t\t+4 Vitality
+Yellow Crystal	Enhances Karma Ring\t\t+2 Magic
+Pink Crystal	Enhances Karma Ring\t\t+3 Magic
+Purple Crystal	Enhances Karma Ring\t\t+4 Magic
+Ruby	Enhances Karma Ring\t\t+2 Agility
+Blood Ruby	Enhances Karma Ring\t\t+3 Agility
+Star Ruby	Enhances Karma Ring\t\t+4 Agility
+Pearl	Enhances Karma Ring\t\t+2 Luck
+Scarlet Pearl	Enhances Karma Ring\t\t+3 Luck
+Black Pearl	Enhances Karma Ring\t\t+4 Luck
+Sapphire	Enhances Karma Ring\t\t+3 (Random) to \tSt, Vi, Ma, Ag or Lu
+Pink Sapphire	Enhances Karma Ring\t\t+4 (Random) to \tSt, Vi, Ma, Ag or Lu
+Star Sapphire	Enhances Karma Ring\t\t+5 (Random) to \tSt, Vi, Ma, Ag or Lu
+0x07F	Dummy Message\tDebug Message
+0x080	UNUSED
+Tag Ring	A ring from the Junkyard.\tIt doesn't work anymore.
+Hacking Disk	Allows the user\tto download Mantras.
+Security Card 01	Card acquired in\tthe EGG Installation.
+Security Card 02	Card acquired in\tthe EGG Installation.
+Security Card 03	Card acquired in\tthe EGG Installation,\tlabeled "11771409".
+Security Card 04	Card acquired in\tthe EGG Installation,\tlabeled "40051918".
+Security Card 05	Card acquired in\tthe EGG Installation,\tlabeled "ABYSS".
+Demon Corpse	Demon corpse acquired\tin prison.
+Canned Meat	Canned meat made\tfrom the demon\tcorpse.
+Pinaka	3-headed spear\tacquired\tfrom Parvati.
+Nandaka	Sword acquired\tfrom Narasimha.
+Certificate	Proof of intelligence.\tIt says "You have a\thee-high IQ!"
+Master Key	Key acquired\tfrom the Tribhvana.
+Lv. 1 Key Card	Key obtained from\tLokapala spy.\tOpens B1 gate.
+Lv. 2 Key Card	Key obtained from\tLokapala spy.\tOpens B2 gate.
+Lv. 3 Key Card	Key obtained from\tLokapala spy.\tOpens B3 gate.
+Label	Label of food the\tJailer likes.\tIt says "Red 15".
+Control Room Key	Key acquired in prison.\tUnlocks the control\troom.
+Pinaka	3-headed spear\twith Shiva's power.
+Nandaka	Sword with\tVishnu's power.
+L Statue Key	Key acquired in \tthe Citadel.
+Oxygen Tank	Useful when \tscuba diving.
+Red Key	Dummy Message\tDebug Message
+Blue Key	Dummy Message\tDebug Message
+Yellow Key	Dummy Message\tDebug Message
+0x09A	Dummy Message\tDebug Message
+0x09B	Dummy Message\tDebug Message
+0x09C	Dummy Message\tDebug Message
+0x09D	Dummy message\tDebug Message
+0x09E	Dummy Message\tDebug Message
+0x09F	Dummy Message\tDebug Message
+0x0A0	Dummy Message\tDebug Message
+Bullet	Bullet
+Shot Shell	Bullet
+Charge Shot	Bullet\tShock
+Frigid Shot	Bullet\tFreeze
+Panic Shell	Bullet\tPanic
+Metal Jacket	Bullet
+Tranq Shot	Bullet\tSleep
+Hollow Point	Bullet
+Nerve Shot	Bullet\tStun
+Curse Shot	Bullet\tCurse
+Mute Shot	Bullet\tMute
+Iron Shot	Bullet
+Neutron Shot	Bullet\tPoison
+Silver Shot	Bullet
+Charm Shot	Bullet\tCharm
+Dead End	Bullet\tStone
+Forged Shot	Bullet
+Gospel	Bullet
+Magatama	Bullet
+Pandemonium	Bullet
+0x0B5	Dummy Message\tDebug Message
+0x0B6	Dummy Message\tDebug Message
+0x0B7	Dummy Message\tDebug Message
+0x0B8	Dummy Message\tDebug Message
+0x0B9	Dummy Message\tDebug Message
+0x0BA	Dummy Message\tDebug Message
+0x0BB	Dummy Message\tDebug Message
+0x0BC	Dummy Message\tDebug Message
+0x0BD	Dummy Message\tDebug Message
+0x0BE	Dummy Message\tDebug Message
+0x0BF	Dummy Message\tDebug Message
+0x0C0	Reserve
+Power Ring	Increases strength
+Vital Ring	Increases vitality
+Magic Ring	Increases magic
+Quick Ring	Increases agility
+Luck Ring	Increases luck
+Hi-Power Ring	Increases strength
+Hi-Vital Ring	Increases vitality
+Hi-Magic Ring	Increases magic
+Hi-Quick Ring	Increases agility
+Hi-Luck Ring	Increases luck
+SP Power Ring	Increases strength
+SP Vital Ring	Increases vitality
+SP Magic Ring	Increases magic
+SP Quick Ring	Increases agility
+SP Luck Ring	Increases luck
+Giga-Power Ring	Increases strength
+Giga-Vital Ring	Increases vitality
+Giga-Magic Ring	Increases magic
+Giga-Quick Ring	Increases agility
+Giga-Luck Ring	Increases luck
+Omega-Power Ring	Increases strength
+Omega-Vital Ring	Increases vitality
+Omega-Magic Ring	Increases magic
+Omega-Quick Ring	Increases agility
+Omega Luck Ring	Increases luck
+Phantom Ring	Increases agility in human form
+Protect Ring	Increases defense in human form
+Avoid Ring	Void/miss will end the enemy's turn
+Rich Ring	Increases $ obtained after battle
+Dual Ring	Enables two consecutive actions
+Pass Ring	Pass command will not expend a turn icon
+Change Ring	Revert/Transform command will not expend a turn icon
+Calamity Ring	Draws the enemy's attention in battle
+Shield Ring	Auto-Phys Repel when battle starts
+Speedy Ring	1st person does 2x dmg; dmg down gradually thereafter
+Synchro Ring	Reduces turn icons required for combos
+Demon Ring	Attack command does more damage when cursed
+Ether Ring	Increases HP healed when subject to healing magic
+Gamble Ring	Max damage up, min damage down
+Trick Ring	Auto-Sukukaja/Tarunda when battle starts
+Rage Ring	Auto-Tarukaja/Rakunda when battle starts
+Variable Ring	Randomizes the number of turn icons
+Follow-Up Ring	Reduces turn icon loss from missed attacks
+Block Ring	Reduces turn icon loss from voided attacks
+Turn Ring	Adds one turn icon
+Aura Ring	Increases all stats
+Dragon Ring	Increases resistance to Almighty attacks
+Divine Ring	Repels Expel attacks
+Skull Ring	Repels Death attacks
+Hee-Ho Ring	Nullifies Ice attacks
+Amala Ring	Increases all stats
+Argilla's Tag Ring	Argilla's tag ring from the Junkyard
+Gale's Tag Ring	Gale's tag ring from the Junkyard
+Cielo's Tag Ring	Cielo's tag ring from the Junkyard
+Master Ring	Nullifies all attacks except Almighty
+Berserker Ring	All normal battles will be in Berserk state
+0x0F9	Reserve
+0x0FA	Reserve
+0x0FB	Reserve
+0x0FC	Reserve
+0x0FD	Reserve
+0x0FE	Reserve
+0x0FF	Reserve

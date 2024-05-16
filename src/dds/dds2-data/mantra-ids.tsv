@@ -1,0 +1,177 @@
+en	desc
+0x000	Reserve00
+Fire Spirit	Fire magic skills.
+Fire Demon	Fire magic skills.
+Fire Leader	Fire magic skills.
+Fire Lord	Fire magic skills.
+Fire Emperor	Fire magic skills.
+Fire God	Fire magic skills.
+Sublime Fire	Ultimate fire magic skills.
+Ice Spirit	Ice magic skills.
+Ice Demon	Ice magic skills.
+Ice Leader	Ice magic skills.
+Ice Wolf	Ice magic skills.
+Ice Master	Ice magic skills.
+Ice God	Ice magic skills.
+Sublime Ice	Ultimate ice magic skills.
+Bolt Wizard	Electricity magic skills.
+Bolt Lord	Electricity magic skills.
+Lightning	Electricity magic skills.
+Bolt Emperor	Electricity magic skills.
+Bolt Master	Electricity magic skills.
+Bolt God	Electricity magic skills.
+Sublime Bolt	Ultimate electricity magic skills.
+Dragon	Force magic skills.
+Dragon Lord	Force magic skills.
+Hiten	Force magic skills.
+Sky Dragon	Force magic skills.
+Sky Wizard	Force magic skills.
+Wind God	Force magic skills.
+Sublime Wind	Ultimate force magic skills.
+Earth Spirit	Earth magic skills.
+Earth Shrine	Earth magic skills.
+Earth Temple	Earth magic skills.
+Earth Lord	Earth magic skills.
+Earth Emperor	Earth magic skills.
+Mother Earth	Earth magic skills.
+Sublime Earth	Ultimate earth magic skills.
+Dark Leader	Almighty magic skills.
+Dark Lord	Almighty magic skills.
+Dark King	Almighty magic skills.
+Shura	Physical attack skills.
+Sramana	Physical attack skills.
+Vanquisher	Physical attack skills.
+Violent God	Physical attack skills.
+Cruel Leader	Physical attack skills.
+Warrior King	Physical attack skills.
+Amatsukami	Physical attack skills.
+Demon	Fatal hunt skills.
+Battle Demon	Fatal hunt skills.
+Demon Soldier	Physical attack skills.
+Demon Lord	Fatal hunt skills.
+Devourer	Hunt skills.
+Demon Beast	Hunt skills.
+Holy Beast	Hunt/physical attack skills.
+Godly Beast	Hunt skills.
+Bhikkhuni	Physical attack/auto skills.
+Priestess	Physical attack/auto skills.
+Maiden	Physical attack/auto skills.
+Princess	Physical attack/auto skills.
+Queen	Physical attack/auto skills.
+Goddess	Physical attack/auto skills.
+Angel	Expel magic skills.
+Archangel	Expel magic skills.
+Thrones	Expel magic skills.
+Cherubim	Expel magic skills.
+Seraphim	Expel magic skills.
+Yaksa	Death magic skills.
+Evil Spirit	Death magic skills.
+Dark Spirit	Death magic skills.
+Death	Death magic skills.
+Spirit	Boost magic skills.
+Karma	Boost magic skills.
+Twilight	Boost magic skills.
+Curse	Boost magic skills.
+Arcane	Boost magic skills.
+Illusion	Boost magic skills.
+Protection	Heal magic skills.
+Fallen Hero	Heal magic skills.
+Fierce Spirit	Heal magic skills.
+Calm Spirit	Heal magic skills.
+Progenitor	Heal magic skills.
+Death Spirit	Heal magic skill.
+Hades	Revive magic skill.
+Six Realms	Revive magic skill.
+Destroyer	Ultimate physical attack skills.
+Vicious God	Ultimate heal magic skills.
+Adamant	Ailment-inducing skills.
+Kichijyo	Ailment-inducing skills.
+Vidya Raja	Ailment-inducing skills.
+Holy Leader	Ailment-inducing skills.
+Mukti	Ailment-inducing skills.
+Dark Lord	Ultimate guard skills.
+Evil God	Boost magic skills.
+Formless	Ailment-inducing skills.
+Overlord	Physical attack skills.
+Demon God	Fatal hunt skills.
+World	Revive magic skills.
+0x060	Reserve60
+Root of Evil	Seth's skills.
+Aksara	Shiva's skills.
+Dragonslayer	Michael's skills.
+God of Light	Vishnu's skills.
+Reserve	Reserve65
+Reserve	Reserve66
+Reserve	Reserve67
+Reserve	Reserve68
+Reserve	Reserve69
+Reserve	Reserve6a
+Reserve	Reserve6b
+Reserve	Reserve6c
+Reserve	Reserve6d
+Reserve	Reserve6e
+Reserve	Reserve6f
+Reserve	Reserve70
+Esoteric 1	Karma accrual skill.
+Esoteric 2	Panic-induced/Panic-related skills.
+Esoteric 3	End-of-battle skills.
+Esoteric 4	Level up skills.
+Esoteric 5	Solar Noise-related skills.
+Esoteric 6	Solar Noise-related skills.
+Esoteric 7	Ice magic skills.
+Esoteric 8	Sleep-induced/Sleep-related skills.
+Reserve	Reserve79
+Reserve	Reserve7a
+Reserve	Reserve7b
+Reserve	Reserve7c
+Reserve	Reserve7d
+Reserve	Reserve7e
+Reserve	Reserve7f
+Reserve	Reserve80
+Reserve	Reserve81
+Reserve	Reserve82
+Reserve	Reserve83
+Reserve	Reserve84
+Reserve	Reserve85
+Reserve	Reserve86
+Reserve	Reserve87
+Reserve	Reserve88
+Reserve	Reserve89
+Reserve	Reserve8a
+Reserve	Reserve8b
+Reserve	Reserve8c
+Reserve	Reserve8d
+Enma	Reserve8e
+Fugen	Reserve8f
+Fukuu	Reserve90
+Para1	Reserve91
+Para2	Reserve92
+Para3	Reserve93
+Para4	Reserve94
+Para5	Reserve95
+Para6	Reserve96
+Para7	Reserve97
+Para8	Reserve98
+Para9	Reserve99
+Para10	Reserve9a
+Para11	Reserve9b
+Gouma	Reserve9c
+Haramitsu	Reserve9d
+Shujou	Reserve9e
+Amida	Reserve9f
+Nyorai	Reservea0
+Mujou	Reservea1
+Dokkaku	Reservea2
+Wajou	Reservea3
+Myouga	Reservea4
+Agon	Reservea5
+Higan	Reservea6
+Mumyou	Reservea7
+Bosatsu	Reservea8
+Kisha	Reservea9
+Kenshou	Reserveaa
+Sange	Reserveab
+Hourin	Reserveac
+Miroku	Reservead
+Yougou	Reserveae
+Kokuuzou	Reserveaf

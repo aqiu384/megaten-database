@@ -3,7 +3,7 @@ import struct
 import json
 from shared import load_id_file
 
-GAME = 'dds1'
+GAME = 'dds2'
 
 RES_ELEMS = [
     'phy',
@@ -48,23 +48,6 @@ RES_MODS = {
     1: 5
 }
 
-RACES = [
-    'UNUSED',
-    'Deity',
-    'Evil',
-    'Aerial',
-    'Dragon',
-    'Fiend',
-    'Beast',
-    'Demon',
-    'Cyber',
-    'Mitama',
-    'Asura',
-    'Onmyo',
-    'Core',
-    'King'
-]
-
 GAINS = ['Macca', '???', 'Karma', 'AP Normal', 'AP Hunt', '???']
 
 with open(f"configs/{GAME}-comp-config.json") as jsonfile:
@@ -73,6 +56,7 @@ with open(f"configs/{GAME}-comp-config.json") as jsonfile:
 DEMON_IDS = load_id_file(COMP_CONFIG['demonIds'])
 SKILL_IDS = [x.split('\t')[0] for x in load_id_file(COMP_CONFIG['skillIds'])]
 ITEM_IDS = [x.split('\t')[0] for x in load_id_file(COMP_CONFIG['itemIds'])]
+RACE_IDS = load_id_file(COMP_CONFIG['raceIds'])
 OLD_DEMONS = {}
 
 with open(COMP_CONFIG['demonDump']['file'], 'rb') as binfile:
@@ -94,7 +78,7 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     drop_items = struct.unpack('2B', line[0x3E:0x40])
     drop_odds = struct.unpack('2B', line[0x40:0x42])
 
-    race = RACES[race]
+    race = RACE_IDS[race]
     skills = [SKILL_IDS[x] for x in skills if x != 0]
     drops = {}
     for i in range(2):

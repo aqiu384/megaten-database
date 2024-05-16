@@ -2,9 +2,21 @@
   "demonIds": "dds1-data/demon-ids.tsv",
   "skillIds": "dds1-data/skill-ids.tsv",
   "itemIds": "dds1-data/item-ids.tsv",
+  "raceIds": "dds1-data/race-ids.tsv",
   "demonDump": {
     "file": "dumps/dds1-demons.bin",
     "start": 0,
     "length": 76
+  },
+  "skillDump": {
+    "file": "dumps/dds1-skills.bin",
+    "start": 0,
+    "length": 56
+  },
+  "mantraDump": {
+    "file": "dumps/dds1-mantras.bin",
+    "start": 0,
+    "length": 28,
+    "length2": 84
   }
 }
