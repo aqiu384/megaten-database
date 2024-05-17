@@ -1,0 +1,256 @@
+Blank	Item 300
+Peach Seed	Restores 20HP to an\nally.
+Medicine	Restores 100HP to an\nally.
+Ointment	Restores 200HP to an\nally.
+Antibiotic Gel	Restores 400HP to an\nally.
+Life Stone	Restores 30% of an\nally's max HP.
+Bead	Fully restores an\nally's HP.
+Value Medicine	Restores 100HP to all\nallies.
+Medical Kit	Restores 200HP to all\nallies.
+Macca Leaf	Restores 400HP to all\nallies.
+Bead Chain	Fully restores party's\nHP.
+Soul Drop	Restores 10SP to an\nally.
+Snuff Soul	Restores 50SP to an\nally.
+Chewing Soul	Restores 100SP to an\nally.
+Soul Food	Restores all of an\nally's SP.
+Revival Bead	Revives an ally, and\nrestores 50% of HP.
+Balm of Life	Revives an ally, and\nfully restores HP.
+Royal Jelly	Cures Enervation and\nExhaustion (1 ally).
+Dokudami Tea	Cures Poison (1 ally).
+Mouthwash	Cures Silence\n(1 ally).
+Sedative	Cures Panic, Fear, and\nRage (1 ally).
+Stimulant	Cures Dizzy and Down\n(1 ally).
+Goho-M	Leave the dungeon.
+Vanish Ball	100% chance of escaping\na battle (some battles\nare inescapable).
+Soma	Fully restores\nparty's HP and SP.
+Amrita Soda	Cure all ailments\nbesides Down and\nUnconscious (party).
+Hiranya	Cure all ailments\nbesides Down and\nUnconscious (1 ally).
+Muscle Drink	Restores 100HP to an\nally. It may cause the\nRage ailment.
+Odd Morsel	Restores 100HP to an\nally. It may cause the\nFear ailment.
+Rancid Gravy	Restores 100HP to an\nally. It may cause the\nSilence ailment.
+Moon Tsukubame	Revives all allies with full\nHP and SP if the protagonist\nfalls unconscious.
+Magic Mirror	Barrier that reflects\nmagic one time\n(1 ally).
+Physical Mirror	Barrier that reflects\nphys atk one time\n(1 ally).
+Assault Signal	Briefly raises the\nentire party's\nAttack.
+Super Sonic	Briefly raises the\nentire party's\nEvasion/Hit rate.
+Diamond Shield	Briefly raises the\nentire party's\nDefense.
+Purifying Water	Nullifies stat bonuses\n(all foes).
+Purifying Salt	Nullifies stat\npenalties (party).
+Firecracker	Deals 50 points of Fire\ndamage to 1 enemy.
+San-zun Tama	Deals 50 points of Fire\ndamage to all enemies.
+Ice Cube	Deals 50 points of Ice\ndamage to 1 enemy.
+Dry Ice	Deals 50 points of Ice\ndamage to all enemies.
+Pinwheel	Deals 50 points of Wind\ndamage to 1 enemy.
+Yashichi	Deals 50 points of Wind\ndamage to all enemies.
+Ball Lightning	Deals 50 points of Elec\ndamage to 1 enemy.
+Tesla Coil	Deals 50 points of Elec\ndamage to all enemies.
+Smart Bomb	Deals 100 points of\nnon-elemental damage\nto all enemies.
+Segaki Rice	Casts Hamaon on 1\nenemy.
+Curse Paper	Casts Mudoon on 1\nenemy.
+Hell Magatama	Deals 150 points of\nFire damage to 1 enemy.
+Cyclone Magatama	Deals 150 points of\nWind damage to 1 enemy.
+Frost Magatama	Deals 150 points of\nIce damage to 1 enemy.
+Arc Magatama	Deals 150 points of\nElec damage to 1 enemy.
+Amethyst	A shiny, purple\ngemstone.
+Aquamarine	A transparent,\nlight blue gemstone.
+Emerald	A sparkling, green\ngemstone.
+Onyx	Black gemstone. It's\nGreek for "claw."
+Opal	White gemstone that\nreflects many colors.
+Garnet	Deep violet gemstone.
+Sapphire	Deep blue gemstone.
+Diamond	Beautiful, colorless\ngemstone.
+Turquoise	A bluish-green,\nopaque gemstone.
+Topaz	Pale yellow gemstone.
+Pearl	Shiny, white gemstone.
+Homunculus	Protects self from\ninstant death skills.
+Chest Key	A key to open locked\ntreasure chests.
+Junes Lunch	Junes' bento given to\nyou by Yosuke. Restores\n100HP to an ally.
+Steak Skewer DX	A secret menu item that\nChie gave you. Fully\nrestores an ally's HP.
+Amagi Manju	Special Amagi Inn manju\nYukiko gave you. Fully\nrestores an ally's HP.
+Mom's Lunch	A gorgeous bento that\nKanji gave you. Fully\nrestores an ally's HP.
+Mini Mechavator	Naoto's handmade gadget.\nOne-use item that fully\nrestores an ally's SP.
+Sample Food Set	Teddie gave you this plate\nof appetizers. Restores\n100HP to an ally.
+Cough Drop	A cough drop Yosuke\ngave you. Restores\n10SP to an ally.
+Meat Gum	A pack of gum Chie gave\nyou. Restores 25HP to\nan ally.
+Quelorie Magic	Healthy beverage Yukiko\ngave you. Restores 25HP\nto an ally.
+Bone Senbei	Snack made by Kanji's\nmother. Restores 10HP\nto an ally.
+Milk Chocolate	Candy given to you by\nNaoto. Restores 10SP\nto an ally.
+Yummy Gummy	Cute little candies\nTeddie gave you. Restores\n10SP to an ally.
+Ruby	Deep red gemstone.
+Tater Longs	Crunchy puffed snack. \nRestores all HP of an\nally.
+TaP Soda	Old-fashioned fizzy\nbeverage. Restores 10SP\nto an ally.
+Prize Sticker	A sticker from Tanaka's\nAmazing Commodities.\nMail in three for a prize. 
+Super Croquette	Souzai Daigaku's special\ncroquette. Restores\n50HP to an ally.
+Steak Croquette	A Souzai Daigaku\nspecialty. Restores\n25HP to an ally.
+Steak Skewer	The signature dish of\nSouzai Daigaku. Restores\n50HP to an ally.
+Dr. Salt NEO	An intensely carbonated\nbeverage. Restores 5SP\nto an ally.
+Second Maid	A cold beverage that\ngot heated. Restores\n5SP to an ally.
+The Natural	"Inaba's essence is\nin this can." Restores\n5SP to an ally.
+Orange Smash	A refreshing citrus\nbeverage. Restores 10HP\nto an ally.
+Yukiko's Lunch	Bento made with\naffection. Restores all\nof an ally's SP.
+Chie's Muffin	A lovely, tasty muffin\nChie gave you. Restores\nall of an ally's SP.
+Naoto's Candy	Chocolate filled with\nlove. Restores all of\nan ally's SP.
+Pulsating Stone	A stone that warms up\nwhen held. Restores\n100SP to an ally.
+Mystical Scarab	A charm that Ms. Sofue\ngave you. Restores all\nof an ally's SP.
+Olympic Tape	You received this as a\ngift. Raises party's\nEvasion/Hit rate.
+Uplifting Radio	You received this as a\ngift. Raises the\nparty's Attack.
+Spirit Radio	You received this as a\ngift. Restores all of\nan ally's SP.
+Diet Food	Low calorie, and low in\nnutrition. Restores\n50HP to an ally.
+Slimming Food	The sight of it kills\nyour appetite. Restores\n50HP to an ally.
+Heavy Soup	Soup that is chock full\nof fat. Restores 50HP\nto an ally.
+Giant Candy	A golf ball-sized\njawbreaker. Restores\n50HP to an ally.
+Wasabi Jelly	It's dessert that\nhurts. Restores 50HP to\nan ally.
+Herbal Pill	Weeds from a mountain.\nAll-natural! Restores\n50HP to an ally.
+Longevity Pill	Proven to possibly\nextend life. Restores\n50HP to an ally.
+0x368	Item 368
+Bug Bait	Mysterious bait that attracts\nbugs. Can attract other things\nfrom time to time.
+Luxurious Coffee	Expensive-looking instant\ncoffee you got from the\nowner of Chagall.
+Power Mountain Blend	The luxurious Power\nMountain brand. It has\na bitter power.
+Magic Mountain Blend	The luxurious Magic\nMountain brand. It has\nan intriguing dark flavor.
+Tough Mountain Blend	The luxurious Tough\nMountain brand. It has\na strong aroma.
+Speed Mountain Blend	The luxurious Speed\nMountain brand. It's\nhighly acidic.
+Lucky Mountain Blend	The luxurious Lucky\nMountain brand. Drinking\nit makes you feel happy.
+0x370	Item 370
+Fire Breaker	Nullifies one enemy's\nFire resistance.
+Ice Breaker	Nullifies one enemy's\nIce resistance.
+Wind Breaker	Nullifies one enemy's\nWind resistance.
+Lightning Breaker	Nullifies one enemy's\nElec resistance.
+Sacred Branch	Escape from the dungeon.
+0x376	Item 376
+0x377	Item 377
+0x378	Item 378
+0x379	Item 379
+0x37A	Item 37A
+0x37B	Item 37B
+0x37C	Item 37C
+0x37D	Item 37D
+0x37E	Item 37E
+0x37F	Item 37F
+0x380	Item 380
+0x381	Item 381
+0x382	Item 382
+0x383	Item 383
+0x384	Item 384
+0x385	Item 385
+0x386	Item 386
+0x387	Item 387
+0x388	Item 388
+0x389	Item 389
+0x38A	Item 38A
+0x38B	Item 38B
+Bread Crumbs	When used as bait at the\nriver, can attract Red\nGoldfish or Genji Ayu.
+Tatsuhime Ladybug	When used as bait at the\nriver, can attract Genji\nAyu or Amber Seema.
+Yaso Locust	When used as bait at the\nriver, can attract Amber\nSeema or Inaba Trout.
+Meiou Cricket	When used as bait at the\nriver, can attract Inaba\nTrout or Huge Fish.
+Inaba Jewel Beetle	When used as bait at the\nriver, can attract lots\nof Huge Fish.
+Daimyo Grasshopper	When used as bait at the\nsea, can attract Hachiro\nOctopus.
+Heike Stag Beetle	When used as bait at the\nsea, can attract Hachiro\nOctopus or Meguro Tuna.
+Genji Beetle	When used as bait at the\nsea, can attract lots of\nMeguro Tuna.
+0x394	Item 394
+0x395	Item 395
+0x396	Item 396
+0x397	Item 397
+0x398	Item 398
+0x399	Item 399
+0x39A	Item 39A
+Passion Candy	Candy to show your feelings\nPopular with high school girls.\nRestores 100HP to one ally.
+Sincerity Cookie	Cookies to show your feelings.\nPopular with high school girls.\nRestores 200HP to one ally.
+Love Marshmallow	Marshmallows to show your\nfeelings. Popular with girls.\nRestores 50SP to one ally.
+Rise's Flan	A smooth jelly, full of love.\nFully restores one ally's SP.
+0x39F	Item 39F
+Life Stone	Restores 30% of an\nally's max HP.
+Revival Bead	Revives an ally, and\nrestores 50% of HP.
+Sentou Seed	Restores 20SP to an\nally.
+Sentou Petal	Restores 50SP to all\nallies.
+Sentou Fruit	Fully restores one ally's\nHP and SP.
+Fire Bell	Deals 50 points of Fire\ndamage to 1 enemy.
+Ice Bell	Deals 50 points of Ice\ndamage to 1 enemy.
+Wind Bell	Deals 50 points of Wind\ndamage to 1 enemy.
+Lightning Bell	Deals 50 points of Elec\ndamage to 1 enemy.
+Flame Dotaku	Deals 150 points of Fire\ndamage to 1 enemy.
+Frigid Dotaku	Deals 150 points of Ice\ndamage to 1 enemy.
+Gale Dotaku	Deals 150 points of Wind\ndamage to 1 enemy.
+Bolt Dotaku	Deals 150 points of Elec\ndamage to 1 enemy.
+0x3AD	Item 3AD
+0x3AE	Item 3AE
+Mini Melon Bread	Bite-sized melon bread. \nRestores 10HP to one ally.
+Choco Melon Bread	Brown melon bread with\nchocolate. Restores 50HP\nto one ally.
+Cream Melon Bread	Melon bread with cream\ninside. Restores 25SP\nto one ally.
+Mini Cornet	Bread shaped like a conch\nshell the size of a thumb.\nRestores 10HP to one ally.
+Yakisoba Cornet	Cornet stuffed with yakisoba.\nRestores 50HP to one ally.
+Red Bean Cornet	Cornet with red bean inside.\nRestores 25SP to one ally.
+Mini Anpan	An anpan the size of a\nbaby's fist. Restores\n10HP to one ally.
+Mochi Anpan	Anpan with mochi in the\ncenter. Restores 50HP\nto one ally.
+Cream Anpan	Popular anpan with whipped\ncream. Restores 25SP to\none ally.
+White Karinto	White sugar coated karinto.\nRestores 5SP to one ally.
+Rice Chocolate	Rice coated with chocolate.\nRestores 5SP to one ally.
+Sour Konbu	5 pieces of sour konbu.\nRestores 5SP to one ally.
+Plum Candy	Small plum candy.\nRestores 5SP to one ally.
+Rainbow Konpeito	Pretty konpeito in many colors.\nRestores 5SP to one ally.
+Quelorie Mate	A balanced health bar popular\nwith students and workers.\nRestores 25HP to one ally.
+Corn Potage Cracker	Corn potage-flavored cracker.\nRestores 25HP to one ally.
+Blue Pepper Chips	Super spicy snack with the\nworld's spiciest chili.\nRestores 25HP to one ally.
+Blue Cheese Chips	Chips with a distinct aroma.\nRestores 25HP to one ally.
+Seaweed Cracker	Large cracker with penguin-\nshaped seaweed on it.\nRestores 25HP to one ally.
+Kampo Chocolate	Healthy chocolate with\nkampo ingredients in it.\nRestores 10SP to one ally.
+Checkerboard Cookie	Cute checkerboard cookie.\nRestores 10SP to one ally.
+Caramel Drop	Individually wrapped caramel.\nRestores 10SP to one ally.
+Fruit Candy	Fruit candy in a tin can.\nRestores 10SP to one ally.
+Rich Milk Candy	Soft, sweet, milky candy. \nRestores 10SP to one ally.
+0x3C7	Item 3C7
+0x3C8	Item 3C8
+0x3C9	Item 3C9
+0x3CA	Item 3CA
+0x3CB	Item 3CB
+0x3CC	Item 3CC
+0x3CD	Item 3CD
+0x3CE	Item 3CE
+0x3CF	Item 3CF
+0x3D0	Item 3D0
+0x3D1	Item 3D1
+Angel Statue	A female student from\nyour class asked you to\nfind this statue.
+Demon Statue	A student from Classroom\nBuilding 2F asked you\nto find this statue.
+Ritz Wire	A student from Practice\nBuilding 1F asked you\nto find this wire.
+Trio Wig	An elderly man from the\nriverbank asked you to\nfind this wig.
+Fitting Board	A female student from\nPractice Building 2F\nasked you to find this.
+Old Key	An elderly lady at the\nflood plain asked you\nto find this key.
+Suspicious Pole	The teacher in\nClassroom Building 2F\nasked you to find this.
+Coal	An elderly man in the\nshopping district asked\nyou to find this coal.
+Reflecting Board	A female student from\nPractice Building 2F\nasked you to find this.
+Crooked Cross	A female student from\nyour class asked you to\nfind this cross.
+Grand Horn	An elderly wife in the\nshopping district asked\nyou to find this horn.
+Flower Brooch	A girl at the riverbank\nasked you to find this\nbrooch.
+Charmed Veil	A female student from\nyour class asked you to\nfind this veil.
+Eternal Lamp	An elderly man at the\nflood plain asked you\nto find this lamp.
+Leaf Pochette	A girl at the riverbank\nasked you to find this\npochette.
+Culurium	A teacher in Classroom\nBuilding 2F asked you\nto find this metal.
+Crystal Ball	A teacher in Classroom\nBuilding 3F asked you\nto find this ball.
+Fine Coal	The elderly man in the\nshopping district asked\nyou to find this coal.
+High-Speed Gear	A female student from\nClassroom Building 1F\nasked you to find this.
+Branch Headband	A girl at the riverbank\nasked you to find this\nheadband.
+Training Shell	The principal of the\nschool from 3F asked\nyou to find this shell.
+Animal Guide	A male student from\nyour class asked you to\nfind this book.
+Classy Lumber	A female student from\nPractice Building 2F\nasked you to find this.
+Old Ore	A male student from\nPractice Building 1F\nasked you to find this.
+Modest Lamp	An elderly man at the\nflood plain asked you\nto find this lamp.
+Mori Ranmaru	A man at the flood\nplain asked you to find\nthis sake.
+Sea Guardian	The boss fish of\nShichiri Beach. Restores\nall of one ally's SP.
+Meguro Tuna	It swims all night long,\nnever sleeping. Restores\nall of one ally's HP.
+Drifting Trash	Trash drifting in the ocean.\nIt's a big problem for the\necosystem and environment.
+0x3EF	Item 3EF
+Guardian	The boss fish of\nSamegawa. Restores all\nof one ally's SP.
+Huge Fish	This long fish is tough\nto catch. Restores all\nof one ally's HP.
+Inaba Trout	An unusually active\nfish. Restores 100HP to\nan ally.
+Amber Seema	An unusually slimy\nfish. Restores 50HP to\nan ally.
+Genji Ayu	An annoyingly bright\nfish. Restores 25HP to\nan ally.
+Red Goldfish	An abnormally cute\nfish. Restores 10HP to\nan ally.
+Hachiro Octopus	This eight-legged warrior of\nthe sea tastes great fried.\nRestores 10SP to an ally.
+0x3F7	0x3F7
+Bait	Bait that all fish are\nquite attracted to.
+0x3F9	Item 3F9
+0x3FA	Item 3FA
+0x3FB	Item 3FB
+0x3FC	Item 3FC
+0x3FD	Item 3FD
+0x3FE	Item 3FE
+0x3FF	Item 3FF

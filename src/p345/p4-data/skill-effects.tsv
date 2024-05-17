@@ -1,0 +1,624 @@
+0x000	Blank
+Agi	Deals light Fire\ndamage to 1 foe.
+Agilao	Deals medium Fire\ndamage to 1 foe.
+Agidyne	Deals heavy Fire\ndamage to 1 foe.
+Maragi	Deals light Fire\ndamage to all foes.
+Maragion	Deals medium Fire\ndamage to all foes.
+Maragidyne	Deals heavy Fire\ndamage to all foes.
+Prominence	Deals heavy Fire\ndamage to all foes.
+Ragnarok	Deals severe Fire\ndamage to 1 foe.
+Immortal Flame	Deals severe Fire\ndamage to all foes.
+Tiny Soul Tomato	Skill00A
+Tetracorn	Skill00B
+Run Amok	Skill00C
+Shake Off	Skill00D
+Garu	Deals light Wind\ndamage to 1 foe.
+Garula	Deals medium Wind\ndamage to 1 foe.
+Garudyne	Deals heavy Wind\ndamage to 1 foe.
+Magaru	Deals light Wind\ndamage to all foes.
+Magarula	Deals medium Wind\ndamage to all foes.
+Magarudyne	Deals heavy Wind\ndamage to all foes.
+Divine Vacuum	Deals heavy Wind\ndamage to all foes.
+Panta Rhei	Deals severe Wind\ndamage to 1 foe.
+Hiranya Cabbage	Skill016
+Cry of Denial	Skill017
+Hot Lightning	Skill018
+Draining Fog	Skill019
+Bufu	Deals light Ice\ndamage to 1 foe.
+Bufula	Deals medium Ice\ndamage to 1 foe.
+Bufudyne	Deals heavy Ice\ndamage to 1 foe.
+Mabufu	Deals light Ice\ndamage to all foes.
+Mabufula	Deals medium Ice\ndamage to all foes.
+Mabufudyne	Deals heavy Ice\ndamage to all foes.
+Cocytus Pain	Deals heavy Ice\ndamage to all foes.
+Niflheim	Deals severe Ice\ndamage to 1 foe.
+Bloody Rain	Deals severe Ice\ndamage to all foes.
+Red Paprika	Skill023
+Enclosure Shell	Skill024
+Hot Lightning	Skill025
+Shell of Denial	Skill026
+Zio	Deals light Elec\ndamage to 1 foe.
+Zionga	Deals medium Elec\ndamage to 1 foe.
+Ziodyne	Deals heavy Elec\ndamage to 1 foe.
+Mazio	Deals light Elec\ndamage to all foes.
+Mazionga	Deals medium Elec\ndamage to all foes.
+Maziodyne	Deals heavy Elec\ndamage to all foes.
+Jihad	Deals heavy Elec\ndamage to all foes.
+Thunder Reign	Deals severe Elec\ndamage to 1 foe.
+Bead Melon	Skill02F
+Mid Soul Tomato	Skill030
+Big Soul Tomato	Skill031
+Makaracorn	Skill032
+Megido	Deals medium Almighty\ndamage to all foes.
+Megidola	Deals heavy Almighty\ndamage to all foes.
+Megidolaon	Deals severe Almighty\ndamage to all foes.
+Last Resort	Deals medium Almighty\ndamage to everyone,
+Black Viper	Deals massive Almighty\ndamage to 1 foe.
+Morning Star	Deals massive Almighty\ndamage to all foes.
+White Paprika	Skill039
+Blue Paprika	Skill03A
+Green Paprika	Skill03B
+Blank	Skill03C
+Hama	Light: low chance of\ninstant kill, 1 foe.
+Hamaon	Light: medium chance of\ninstant kill, 1 foe.
+Mahama	Light: low chance of\ninstant kill, all foes.
+Mahamaon	Light: medium chance of\ninstant kill, all foes.
+Eternal White	Light: chance of\nreducing foes to 1/4 HP.
+God's Judgment	Light: chance of\nreducing foes to 1/2 HP.
+Samsara	Light: instant kill to\nall foes with no Light\nresistance.
+Blank	Skill044
+Blank	Skill045
+Blank	Skill046
+Blank	Skill047
+Mudo	Darkness: low chance of\ninstant kill, 1 foe.
+Mudoon	Darkness: medium chance\nof instant kill, 1 foe.
+Mamudo	Darkness: low chance of\ninstant kill, all foes.
+Mamudoon	Darkness: med chance of\ninstant kill, all foes.
+Eternal Black	Darkness: chance of\nreducing foes to 1/4 HP.
+Demonic Judgment	Darkness: chance of\nreducing foes to 1/2 HP.
+Die for Me!	Darkness: instant kill\nto all foes with no\nDarkness resistance.
+Blank	Skill04F
+Blank	Skill050
+Blank	Skill051
+Blank	Skill052
+Pulinpa	Makes 1 foe Panic.
+Tentarafoo	Makes all foes Panic.
+Evil Touch	Instills Fear in 1 foe.
+Evil Smile	Instills Fear in all\nfoes.
+Ghastly Wail	Instantly kills foes\nwho are Feared.
+Balzac	Enrages 1 foe.
+Valiant Dance	Enrages all foes.
+Poisma	Poisons 1 foe.
+Poison Mist	Poisons all foes.
+Soul Break	Exhausts 1 foe.
+Anima Freeze	Exhausts all foes.
+Enervation	Enervates 1 foe.
+Old One	Enervates all foes.
+Galgalim Eyes	Reduces 1 foe's HP to 1\nand has a chance of\nEnervation.
+Makajam	Silences 1 foe.
+Foolish Whisper	Silences all foes.
+Foul Breath	Increases chances of all\nstatus ailments for 1\nfoe (temporary)
+Stagnant Air	Increases chances of all\nstatus ailments for all\nfoes (temporary)
+Life Drain	Drains 1 foe's HP.
+Spirit Drain	Drains 1 foe's SP.
+Life Leech	Drains a large amount\nof 1 foe's HP.
+Spirit Leech	Drains a large amount\nof a foe's SP.
+Judgement	HP of all foes that are\nweark to Light/Darkness\nare reduced to 1.
+Balzac	Enrages 1 target.
+Last Resort	Skill06B
+Last Resort	Skill06C
+Kamui Miracle	Skill06D
+Kamui Miracle	Skill06E
+Kamui Miracle	Skill06F
+Kamui Miracle	Skill070
+Kamui Miracle	Skill071
+Kamui Miracle	Skill072
+Kamui Miracle	Skill073
+Kamui Miracle	Skill074
+Kamui Miracle	Skill075
+Blank	Skill076
+Elemental Break	Skill077
+Bash	Deals light Phys\ndamage to 1 foe.
+Cleave	Deals light Phys\ndamage to 1 foe.
+Assault Dive	Deals light Phys\ndamage to 1 foe.
+Sonic Punch	Deals light Phys\ndamage to 1 foe.
+Double Fangs	Deals light Phys\ndamage to 1 foe 2x.
+Kill Rush	Deals light Phys\ndamage to 1 foe 1x\nto 3x.
+Swift Strike	Deals light Phys\ndamage to all foes 1x\nto 2x.
+Twin Shot	Deals light Phys\ndamage to 1 foe 2x.
+Fatal End	Deals medium Phys\ndamage to 1 foe.
+Mighty Swing	Deals medium Phys\ndamage to 1 foe.
+Torrent Shot	Deals medium Phys\ndamage to 1 foe 2x\nto 3x.
+Heat Wave	Deals medium Phys\ndamage to all enemies.
+Gigantic Fist	Deals heavy Phys\ndamage to 1 foe.
+Blade of Fury	Deals medium Phys\ndamage to all foes\n2x to 4x.
+Deathbound	Deals heavy Phys\ndamage to all foes.
+Arrow Rain	Deals heavy Phys\ndamage to all foes 2x.
+Akasha Arts	Deals heavy Phys\ndamage to all foes 1x\nto 2x.
+Tempest Slash	Deals heavy Phys\ndamage to 1 foe 1x\nto 2x.
+Heaven's Blade	Deals heavy Phys\ndamage to 1 foe.
+Myriad Arrows	Deals heavy Phys\ndamage to all foes 1x\nto 3x.
+God's Hand	Deals severe Phys\ndamage to 1 foe.
+Pralaya	Deals severe Phys damage\nto all foes with a high\nchance of instant kills.
+Primal Force	Deals severe Phys\ndamage to 1 foe.
+Vorpal Blade	Deals heavy Phys\ndamage to all foes.
+Power Slash	Deals medium Phys\ndamage to 1 foe.
+Gale Slash	Deals light Phys\ndamage to all foes.
+Brave Blade	Deals severe Phys\ndamage to 1 foe.
+Herculean Strike	Deals medium Phys\ndamage to all foes.
+Vicious Strike	Deals heavy Phys\ndamage to all foes.
+Single Shot	Deals light Phys\ndamage to 1 foe.
+Skewer	Deals light Phys\ndamage to 1 foe.
+Poison Skewer	Deals light Phys\ndamage to 1 foe with\na chance of Poison.
+Poison Arrow	Deals medium Phys\ndamage to 1 foe with\na chance of Poison.
+Blight	Deals heavy Phys\ndamage to all foes with\na chance of Poison.
+Virus Wave	Deals heavy Phys\ndamage to all foes with\na chance of Poison.
+Skull Cracker	Deals light Phys\ndamage to 1 foe with a\nchance of Panic.
+Mind Slice	Deals medium Phys\ndamage to all foes with\na chance of Panic.
+Hysterical Slap	Deals light Phys\ndamage to 1 foe with a\nchance of Rage.
+Crazy Chain	Deals medium Phys\ndamage to all foes with\na chance of Rage.
+Muzzle Shot	Deals light Phys\ndamage to 1 foe with a\nchance of Silence.
+Seal Bomb	Deals medium Phys\ndamage to all foes with\na chance of Silence.
+Arm Chopper	Deals light Phys\ndamage to 1 foe with a\nchance of Fear.
+Atom Smasher	Deals med Phys damage\nto all foes 1x to 2x\nwith a chance of Fear.
+Cell Breaker	Deals light Phys\ndamage to 1 foe with a\nchance of Enervation.
+Mustard Bomb	Deals medium Phys\ndamage to all foes with\na chance of Enervation.
+Brain Shake	Deals light Phys damage\nto 1 foe 1x to 3x with\na chance of Exhaustion.
+Navas Nebula	Deals medium Phys\ndamage to all foes with\na chance of Exhaustion.
+Golden Right	Deals medium Phys\ndamage to 1 foe with a\nchance of Fear.
+Black Spot	Deals medium Phys\ndamage to 1 foe.
+Rainy Death	Deals heavy Phys\ndamage to 1 foe.
+Hassou Tobi	Deals light Phys\ndamage to all foes 8x.
+Rampage	Deals light Phys\ndamage to all foes\n1x to 3x.
+Aeon Rain	Deals medium Phys\ndamage to all foes\n1x to 3x.
+Agneyastra	Deals heavy Phys\ndamage to all foes\n1x to 3x.
+Cruel Attack	Med Phys dmg, 1 foe.\nBonus damage to foes\nthat are Down.
+Vile Assault	Hvy Phys dmg, 1 foe.\nBonus damage to foes\nthat are Down.
+Rampage	Skill0B0
+Attack Up Support	Skill0B1
+Guard Up Support	Skill0B2
+Agility Up Support	Skill0B3
+Charge Support	Skill0B4
+HP Recovery Support	Skill0B5
+SP Recovery Support	Skill0B6
+Blank	Skill0B7
+Blank	Skill0B8
+Blank	Skill0B9
+Blank	Skill0BA
+Blank	Skill0BB
+Blank	Skill0BC
+Blank	Skill0BD
+Blank	Skill0BD
+Blank	Skill0BF
+Dia	Slightly restores\n1 ally's HP.
+Diarama	Moderately restores\n1 ally's HP.
+Diarahan	Fully restores 1\nally's HP.
+Media	Slightly restores\nparty's HP.
+Mediarama	Moderately restores\nparty's HP.
+Mediarahan	Fully restores\nparty's HP.
+Salvation	Fully restores party's\nHP. Cures ailments.
+Patra	Dispels Panic, Fear,\nand Rage (1 ally).
+Me Patra	Dispels Panic, Fear,\nand Rage (party).
+Re Patra	Recovers 1 ally from\nKnockdown or Dizzy\nstatus.
+Posumudi	Neutralizes Poison\n(1 ally).
+Mutudi	Cures Silence\n(1 ally).
+Enradi	Recovers Exhaustion\n(1 ally).
+Tirundi	Cures Enervation\n(1 ally).
+Nervundi	Cures Enervation/\nExhaustion (1 ally).
+Energy Shower	Cures Enervation/\nExhaustion (party).
+Amrita	Cures all ailments\nexcept Down and KO\n(party).
+Recarm	Revives an ally with\n50% HP.
+Samarecarm	Revives an ally with\nfull HP.
+Tarunda	Decreases 1 foe's Attack\nfor 3 turns.
+Matarunda	Decreases all foes'\nAttack for 3 turns.
+Sukunda	Decreases 1 foe's\nHit/Evasion rates for\n3 turns.
+Masukunda	Decreases all foes'\nHit/Evasion rates for\n3 turns.
+Rakunda	Decreases 1 foe's\nDefense for 3 turns.
+Marakunda	Decreases all foes'\nDefense for 3 turns.
+Dekunda	Nullifies stat\npenalties on party.
+Tarukaja	Increases 1 ally's\nAttack for 3 turns.
+Matarukaja	Increases party's\nAttack for 3 turns.
+Sukukaja	Increases 1 ally's\nHit/Evasion rate for\n3 turns.
+Masukukaja	Increases party's\nHit/Evasion rate for\n3 turns.
+Rakukaja	Increases 1 ally's\nDefense for 3 turns.
+Marakukaja	Increases party's\nDefense for 3 turns.
+Dekaja	Nullifies stat\nbonuses on all foes.
+Heat Riser	Increases Attack,\nDefense, and Hit/Evasion\nrate (1 ally).
+Debilitate	Decreases Attack,\nDefense, and Hit/Evasion\nrate (1 foe).
+Power Charge	Doubles damage of next\nphysical attack.
+Mind Charge	Doubles damage of next\nmagic attack.
+Tetrakarn	Barrier that reflects\nphys dmg once.
+Makarakarn	Barrier that reflects\nmagic dmg once.
+Tetra Break	Negate all foes'\nTetrakarn.
+Makara Break	Negate all foes'\nMakarakarn.
+Tetraja	Nullifies instant kill\nattack once (1 ally).
+Rebellion	Increases Critical\nRate (1 ally).
+Revolution	Increases Critical\nRate (all).
+Fire Break	Nullifies 1 foe's\nFire resistance.
+Ice Break	Nullifies 1 foe's\nIce resistance.
+Wind Break	Nullifies 1 foe's\nWind resistance.
+Elec Break	Nullifies 1 foe's\nElec resistance.
+Red Wall	Add Fire resistance to\n1 ally.
+White Wall	Add Ice resistance to\n1 ally.
+Blue Wall	Add Elec resistance to\n1 ally.
+Green Wall	Add Wind resistance to\n1 ally.
+Trafuri	Enables escape from\nmost battles.
+Recarmdra	Recovers all allies' HP,\nbut caster's HP falls to 1.
+Traesto	Instantly escape from\na dungeon.
+Youthful Wind	Moderately restores party's\nHP and raises Hit/Evasion\nrate for 3 turns.
+Dragon Hustle	Increases party's Attack,\nDefense, and Hit/Evade.
+Burning Petals	Deals severe Fire\ndamage to all foes.
+The Man's Way	May inflict Down/Dizzy\non all foes.
+Kamui Miracle	Anything could happen...
+Shield of Justice	Shields the party from\nall damage once.
+Complete Analysis	View foe's skills and\naffinities, including\nthose you have not tried.
+Blank	Skill0FE
+???	Skill0FF
+100	Special gang bashing 1.
+101	Special gang bashing 2.
+102	Special gang bashing 3.
+Waste Money	Lose money when Panicked.
+Yosuke Strike	Yosuke's special attack.
+Galactic Punt	Chie's special attack.
+Fan Assault	Yukiko's special attack.
+Atomic Press	Kanji's special attack.
+Wild Ways	Teddie's special attack.
+Ultra Trigger	Naoto's special attack.
+Galaxy Kick	Chie's special attack\n(Boss only).
+Full Analysis	Reveals enemy skills and\naffinities you've tried\nwhen using Analyze.
+Third Eye	Shows whether an attack\nwill be effective when\nchoosing a target.
+Weakness Scan	Displays one foe's\nweakness at the start\nof battle.
+Healing Wave	Recovers 5% HP at the\nend of battle.
+Relaxing Wave	Recovers 5% SP at the\nend of battle.
+Analyze	Allows you to analyze\nfoes to find weaknesses.
+Summon	Summon one unit.
+Enemy Radar	Displays foes in a wide\narea of the map, even in\nunexplored areas.
+Treasure Radar	Displays all treasures\non the dungeon map.
+Certain Escape	Allows you to escape\nfrom almost all battles.
+Myriad Truths	The word of power that\nbanishes all the world's\ncurses and falsehoods.
+Cavalry Attack	Skill116
+Cavalry Attack	Skill117
+Cavalry Attack	Skill118
+Cavalry Attack	Skill119
+Cavalry Attack	Skill11A
+Cavalry Attack	Skill11B
+All-Out Boost	Skill11C
+Rise's Revival	Skill11D
+Stamina Song	Party recovers 10% of\nits HP after battle.
+Vigor Song	Party recovers 10% of\nits SP after battle.
+Sarx Drop	Item\nRestores 10HP to an\nally.
+Medicine	Item\nRestores 50HP to an\nally.
+Medical Powder	Item\nRestores 100HP to an\nally.
+Spirit Water	Item\nRestores 200HP to an\nally.
+Life Stone	Item\nRestores 25% of an\nally's max HP.
+Bead	Item\nFully restores an\nally's HP.
+Value Medicine	Item\nRestore 50HP of all\nallies.
+Medical Kit	Item\nRestores 100HP of all\nallies.
+Umugi Water	Item\nRestores 200HP of all\nallies.
+Bead Chain	Item\nFully restores party's\nHP.
+Pneuma Drop	Item\nRestores 10SP to an\nally.
+Snuff Soul	Item\nRestores 50SP to an\nally.
+Chewing Soul	Item\nRestores 100SP to an\nally.
+Precious Egg	Item\nRestores all of an\nally's SP.
+12E	Skill12E
+12F	Skill12F
+130	Skill130
+131	Skill131
+132	Skill132
+133	Skill133
+134	Skill134
+135	Skill135
+136	Skill136
+137	Skill137
+138	Skill138
+139	Skill139
+13A	Skill13A
+13B	Skill13B
+13C	Skill13C
+13D	Skill13D
+13E	Skill13D
+13F	Skill13F
+140	Skill140
+141	Skill141
+142	Skill142
+143	Skill143
+144	Skill144
+145	Skill145
+146	Skill146
+147	Skill147
+148	Skill148
+149	Skill149
+14A	Skill14A
+14B	Skill14B
+14C	Skill14C
+14D	Skill14D
+14E	Skill14E
+14F	Skill14F
+150	Skill150
+151	Skill151
+152	Skill152
+153	Skill153
+154	Skill154
+155	Skill155
+156	Skill156
+157	Skill157
+158	Skill158
+159	Skill159
+15A	Skill15A
+15B	Skill15B
+15C	Skill15C
+Junes Bomber	Skill15D
+Twin Dragons	Skill15E
+Beauty & The Beast	Skill15F
+Wind of Oblivion	Wind damage to 1 foe.
+Bottomless Envy	Phys damage to 1 foe.
+Burn to Ashes	Fire damage to all foes.
+Shivering Rondo	Severely damages foes\nwho are Feared.
+Summon	Summon the prince.
+Summon	Fails to summon the\nprince.
+Forbidden Murmur	Inflict Poison on male\nenemies.
+Roar of Wrath	Inflict Rage on female\nenemies.
+Fanatical Spark	Elec damage to all foes.
+Supreme Insight	Analyze all foes.
+Nihil Hand	Damages and knocks down\nstanding foes. Kills\nfoes that are Dizzy.
+Ultra Charge	Charge power before\nunleashing Evil Hand\nNihil.
+Nullity Guidance	Damage/Dizzy to 1 foe.
+Attack	Phys damage to 1 foe\n(normal).
+Whisper	Barrier assembly\nstage 1.
+Chant	Barrier assembly\nstage 2.
+Prayer	Barrier assembly stage 3.
+Character Setup	Barrier assembly skill\nfor appearance effect.
+Command	Phys damage to 1 foe.
+Command	Almighty damage to\n1 foe.
+Command	Almighty damage to all\nfoes (1 Morale Icons)
+Command	Almighty damage to all\nfoes (2 Morale Icons)
+Command	Almighty damage to all\nfoes (3 Morale Icons)
+Command	Almighty damage to all\nfoes (4 Morale Icons)
+Element Zero	Sets all resistant or\nhigher affinities to\nnormal.
+Mute Ray	Guaranteed Phys damage/\nSilences 1 foe.
+Quad Converge	Change element\nresistances in battle.
+Control	Control one player unit.
+Unerring Justice	Heavy Almighty damage to\nall foes.
+Nebula Oculus	Heavy Almighty damage to\nall foes.
+Quake	Deals Almighty damage to\nall foes with a chance\nof Dizzying.
+Bewildering Fog	Ame No Sagiri becomes\ninvincible. Inflicts\nrandom effects.
+Bewildering Fog	End Mist of Confusion.
+Thousand Curses	Instantly kills units\nwith ailments, including\nDown/Dizzy.
+World's End	Deals heavy Almighty\ndamage to all foes,\ninflicts Enervation.
+Terror Voice	Guaranteed Fear to 1 foe.
+Control	Control 3 player units.
+Fury of Yasogami	Izanami normal attack.
+Bewildering Fog	Skill186
+Summons to Yomi	Skill187
+Kuro Ikazuchi	Skill188
+Oho Ikazuchi	Skill189
+Megidolaon	Skill18A
+Thousand Curses	Skill18B
+18C	Skill18C
+18D	Skill18D
+18E	Skill18E
+18F	Skill18F
+190	Skill190
+191	Skill191
+192	Skill192
+193	Skill193
+194	Skill194
+195	Skill195
+196	Skill196
+197	Skill197
+198	Skill198
+199	Skill199
+19A	Skill19A
+19B	Skill19B
+19C	Skill19C
+19D	Skill19D
+19E	Skill19E
+19F	Skill19F
+1A0	Skill1A0
+1A1	Skill1A1
+1A2	Skill1A2
+1A3	Skill1A3
+1A4	Skill1A4
+1A5	Skill1A5
+1A6	Skill1A6
+1A7	Skill1A7
+1A8	Skill1A8
+1A9	Skill1A9
+1AA	Skill1AA
+1AB	Skill1AB
+1AC	Skill1AC
+1AD	Skill1AD
+1AE	Skill1AE
+1AF	Skill1AF
+1B0	Skill1B0
+1B1	Skill1B1
+1B2	Skill1B2
+1B3	Skill1B3
+1B4	Skill1B4
+1B5	Skill1B5
+1B6	Skill1B6
+1B7	Skill1B7
+Snow Flower Honey	Skill1B8
+Revival Rope	Skill1B9
+Sentou Seed	Skill1BA
+Sentou Petal	Skill1BB
+Sentou Fruit	Skill1BC
+Fire Bell	Skill1BD
+Ice Bell	Skill1BE
+Wind Bell	Skill1BF
+Lightning Bell	Skill1C0
+Flame Dotaku	Skill1C1
+Frigid Dotaku	Skill1C2
+Gale Dotaku	Skill1C3
+Bolt Dotaku	Skill1C4
+1C5	Skill1C5
+1C6	Skill1C6
+1C7	Skill1C7
+1C8	Skill1C8
+1C9	Skill1C9
+1CA	Skill1CA
+1CB	Skill1CB
+1CC	Skill1CC
+1CD	Skill1CD
+1CE	Skill1CE
+1CF	Skill1CF
+1D0	Skill1D0
+1D1	Skill1D1
+1D2	Skill1D2
+1D3	Skill1D3
+1D4	Skill1D4
+1D5	Skill1D5
+1D6	Skill1D6
+1D7	Skill1D7
+Resist Physical	Reduces damage from\nPhys attacks.
+Null Physical	Nullifies damage from\nPhys attacks.
+Repel Physical	Reflects damage from\nPhys attacks.
+Absorb Physical	Absorbs damage from\nPhys attacks.
+Resist Fire	Reduces damage from\nFire attacks.
+Null Fire	Nullifies damage from\nFire attacks.
+Repel Fire	Reflects damage from\nFire attacks.
+Absorb Fire	Absorbs damage from\nFire attacks.
+Resist Ice	Reduces damage from\nIce attacks.
+Null Ice	Nullifies damage from\nIce attacks.
+Repel Ice	Reflects damage from\nIce attacks.
+Absorb Ice	Absorbs damage from\nIce attacks.
+Resist Elec	Reduces damage from\nElec attacks.
+Null Elec	Nullifies damage from\nElec attacks.
+Repel Elec	Reflects damage from\nElec attacks.
+Absorb Elec	Absorbs damage from\nElec attacks.
+Resist Wind	Reduces damage from\nWind attacks.
+Null Wind	Nullifies damage from\nWind attacks.
+Repel Wind	Reflects damage from\nWind attacks.
+Absorb Wind	Absorbs damage from\nWind attacks.
+Resist Light	Reduces chance of KO\nfrom Light attacks.
+Null Light	Nullifies Light attacks.
+Repel Light	Reflects Light attacks.
+Resist Dark	Reduces chance of KO\nfrom Darkness attacks.
+Null Dark	Nullifies Darkness\nattacks.
+Repel Dark	Reflects Darkness\nattacks.
+Null Confuse	Protects user from\nPanic.
+Null Exhaust	Protects user from\nExhaustion.
+Null Mute	Protects user from\nSilence.
+Null Fear	Protects user from\nFear.
+Null Rage	Protects user from\nRage.
+Null Poison	Protects user from\nPoison.
+Null Dizzy	Protects user from\nDizzy.
+Null Enervate	Protects user from\nEnervation.
+Unshaken Will	Protects user from\nPanic/Fear/Silence/\nEnervation/Rage.
+Masakados	Nullifies all attacks\nbut Almighty.
+Dodge Physical	Doubles evasion rate\nagainst Phys attacks.
+Evade Physical	Triples evasion rate\nagainst Phys attacks.
+Dodge Fire	Doubles evasion rate\nagainst Fire attacks.
+Evade Fire	Triples evasion rate\nagainst Fire attacks.
+Dodge Ice	Doubles evasion rate\nagainst Ice attacks.
+Evade Ice	Triples evasion rate\nagainst Ice attacks.
+Dodge Wind	Doubles evasion rate\nagainst Wind attacks.
+Evade Wind	Triples evasion rate\nagainst Wind attacks.
+Dodge Elec	Doubles evasion rate\nagainst Elec attacks.
+Evade Elec	Triples evasion rate\nagainst Elec attacks.
+Angelic Grace	Doubles evasion rate\nagainst all attacks but\nLight/Darkness/Almighty.
+Fire Boost	Strengthens Fire\nattacks by 25%.
+Fire Amp	Strengthens Fire\nattacks by 50%.
+Ice Boost	Strengthens Ice\nattacks by 25%.
+Ice Amp	Strengthens Ice\nattacks by 50%.
+Elec Boost	Strengthens Elec\nattacks by 25%.
+Elec Amp	Strengthens Elec\nattacks by 50%.
+Wind Boost	Strengthens Wind\nattacks by 25%.
+Wind Amp	Strengthens Wind\nattacks by 50%.
+Certain Escape	Allows you to escape\nfrom almost all battles.
+HP Up 1	Increases max HP by 10%.
+HP Up 2	Increases max HP by 20%.
+HP Up 3	Increases max HP by 30%.
+SP Up 1	Increases max SP by 10%.
+SP Up 2	Increases max SP by 20%.
+SP Up 3	Increases max SP by 30%.
+Counter	10% chance of reflecting\nPhys attacks.
+Counterstrike	15% chance of reflecting\nPhys attacks.
+High Counter	20% chance of reflecting\nPhys attacks.
+Regenerate 1	Restores 2% of max HP\neach turn in battle.
+Regenerate 2	Restores 4% of max HP\neach turn in battle.
+Regenerate 3	Restores 6% of max HP\neach turn in battle.
+Invigorate 1	Restores 3 SP\neach turn in battle.
+Invigorate 2	Restores 5 SP\neach turn in battle.
+Invigorate 3	Restores 7 SP\neach turn in battle.
+Growth 1	Persona gains 1/4 EXP\nwhile inactive.
+Growth 2	Persona gains 1/2 EXP\nwhile inactive.
+Growth 3	Persona gains full EXP\nwhile inactive.
+Auto-Tarukaja	Automatic Tarukaja at\nthe start of battle.
+Auto-Rakukaja	Automatic Rakukaja at\nthe start of battle.
+Auto-Sukukaja	Automatic Sukukaja at\nthe start of battle.
+Alertness	Lowers odds of being\ntaken by surprise.
+Sharp Student	Lowers odds of\nsustaining crit dmg.
+Apt Pupil	Increases user's\nCritical Rate.
+Ali Dance	The Hit rate of an\nattacking unit is\nreduced by half.
+Firm Stance	Always take half damage,\nbut you can never evade.
+Spell Master	Halves SP cost for\nmagic skills.
+Arms Master	Halves HP cost for\nphysical skills.
+HP Favor	Max HP doubles,\nmax SP halves.
+SP Favor	Max SP doubles,\nmax HP halves.
+Divine Grace	Effects of healing magic\nare increased by 50%.
+Endure	Restores 1 HP upon\nUnconscious 1x per\nbattle.
+Enduring Soul	Restores all HP upon\nUnconscious 1x per\nbattle.
+Survive Light	50% chance of being\nrevived with 1 HP if\nkilled by Light.
+Survive Dark	50% chance of being\nrevived with 1 HP if\nkilled by Darkness.
+Auto-Maraku	Automatic Marakukaja\nat start of battle.
+Auto-Mataru	Automatic Matarukaja\nat start of battle.
+Auto-Masuku	Automatic Masukukaja\nat start of battle.
+Confuse Boost	Increases odds of\ninflicting Panic.
+Poison Boost	Increases odds of\ninflicting Poison.
+Exhaust Boost	Increases odds of\ninflicting Exhaustion.
+Silence Boost	Increases odds of\ninflicting Silence.
+Fear Boost	Increases odds of\ninflicting Fear.
+Rage Boost	Increases odds of\ninflicting Rage.
+Dizzy Boost	Increases odds of\ninflicting Dizziness\nduring a Knockdown.
+Enervate Boost	Increases odds of\ninflicting Enervation.
+Ailment Boost	Increases odds of\ninflicting any ailment.
+Hama Boost	Increases success rate\nof Light magic.
+Mudo Boost	Increases success rate\nof Darkness magic.
+Endure Light	Automatic revival with\n1 HP when killed by\nLight magic.
+Endure Dark	Automatic revival with\n1 HP when killed by\nDarkness magic.
+Cool Breeze	Restores 8% of HP\nand SP after battle.
+Victory Cry	Fully restores HP and\nSP after battle.
+Resist Poison	Reduces chance of being\nPoisoned.
+Resist Confuse	Reduces chance of being\nPanicked.
+Resist Fear	Reduces chance of being\nFeared.
+Resist Exhaust	Reduces chance of being\nExhausted.
+Resist Enervate	Reduces chance of being\nEnervated.
+Resist Rage	Reduces chance of being\nEnraged.
+Resist Dizzy	Reduces chance of being\nDizzy.
+Resist Mute	Reduces chance of being\nSilenced.
+HP Amp	Increases max HP by 50%.
+SP Amp	Increases max SP by 50%.
+Fast Heal	Time needed to recover\nfrom ailments is halved.
+Insta-Heal	Time needed to recover\nfrom ailments is reduced\nto 1 turn.
+Infinite Endure	Skill251
+Izanami Endure	Skill252
+Alienation Wall	Skill253
+Blank	Skill254
+Blank	Skill255
+Blank	Skill256
+Blank	Skill257
+Blank	Skill258
+Blank	Skill259
+Blank	Skill25A
+Blank	Skill25B
+Blank	Skill25C
+Blank	Skill25D
+Mudo	Skill25E
+Blank	Skill25F
+Blank	Skill260
+Blank	Skill261
+Blank	Skill262
+Blank	Skill263
+Blank	Skill264
+Blank	Skill265
+Blank	Skill266
+Blank	Skill267
+Blank	Skill268
+Blank	Skill269
+Blank	Skill26A
+Blank	Skill26B
+Blank	Skill26C
+Blank	Skill26D
+Blank	Skill26E
+Blank	Skill26F

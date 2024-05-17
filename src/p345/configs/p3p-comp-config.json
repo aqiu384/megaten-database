@@ -5,17 +5,26 @@
   "toolAilments": ["Charm", "Poison", "Distress", "Panic", "Fear", "Rage"],
   "gameResists": ["sla", "str", "pie", "fir", "ice", "ele", "win", "alm", "lig", "dar"],
   "toolResists": ["sla", "str", "pie", "fir", "ice", "ele", "win", "lig", "dar", "alm"],
+  "gameElems": ["UNUSED", "rec", "sup", "spe"],
   "dataBlocks": [
     ["enemyStats", "enemyResists", "demonResists"],
-    ["demonStats", "demonSkills"]
+    ["demonStats", "demonSkills"],
+    ["skillElems", "skillPowers"],
+    ["skillRanks"]
   ],
   "enemyStats": { "begin": "0x00", "count": "0x150", "length": "0x3E" },
   "enemyResists": { "begin": "0x00", "count": "0x150", "length": "0x22" },
   "demonResists": { "begin": "0x00", "count": "0x100", "length": "0x22" },
   "demonStats": { "begin": "0x00", "count": "0x100", "length": "0xE" },
   "demonSkills": { "begin": "0x00", "count": "0x100", "length": "0x46" },
+  "skillElems": { "begin": "0x00", "count": "0x270", "length": "0x02" },
+  "skillPowers": { "begin": "0x00", "count": "0x1D0", "length": "0x28" },
+  "skillRanks": { "begin": "0x00", "count": "0x270", "length": "0x01" },
+  "skillRanksFile": "p3f-skill-ranks.bin",
+  "inCompMax": 3,
   "demonIds": "p3p-demon-ids.tsv",
   "enemyIds": "p3-enemy-ids.tsv",
+  "skillIds": "skill-ids.tsv",
   "skillEffects": "skill-effects.tsv",
   "itemsBegin": "0x500",
   "resistLvls": {

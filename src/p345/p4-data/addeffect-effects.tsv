@@ -1,0 +1,197 @@
+addeffect_000	None 
+addeffect_001	+1 Strength
+addeffect_002	+2 Strength
+addeffect_003	+3 Strength
+addeffect_004	+4 Strength
+addeffect_005	+5 Strength
+addeffect_006	+1 Endurance
+addeffect_007	+2 Endurance
+addeffect_008	+3 Endurance
+addeffect_009	+4 Endurance
+addeffect_010	+5 Endurance
+addeffect_011	+1 Magic
+addeffect_012	+2 Magic
+addeffect_013	+3 Magic
+addeffect_014	+4 Magic
+addeffect_015	+5 Magic
+addeffect_016	+1 Agility
+addeffect_017	+2 Agility
+addeffect_018	+3 Agility
+addeffect_019	+4 Agility
+addeffect_020	+5 Agility
+addeffect_021	+1 Luck
+addeffect_022	+2 Luck
+addeffect_023	+3 Luck
+addeffect_024	+4 Luck
+addeffect_025	+5 Luck
+addeffect_026	+10 HP
+addeffect_027	+20 HP
+addeffect_028	+30 HP
+addeffect_029	+40 HP
+addeffect_030	+50 HP
+addeffect_031	+10 SP
+addeffect_032	+20 SP
+addeffect_033	+30 SP
+addeffect_034	+40 SP
+addeffect_035	+50 SP
+addeffect_036	+Panic (low odds)
+addeffect_037	+Panic (med odds)
+addeffect_038	+Panic (high odds)
+addeffect_039	+Poison (low odds)
+addeffect_040	+Poison (med odds)
+addeffect_041	+Poison (high odds)
+addeffect_042	+Fear (low odds)
+addeffect_043	+Fear (med odds)
+addeffect_044	+Fear (high odds)
+addeffect_045	+Rage (low odds)
+addeffect_046	+Rage (med odds)
+addeffect_047	+Rage (high odds)
+addeffect_048	+Dizzy (low odds)
+addeffect_049	+Dizzy (med odds)
+addeffect_050	+Dizzy (high odds)
+addeffect_051	+Exhaustion (low odds)
+addeffect_052	+Exhaustion (med odds)
+addeffect_053	+Exhaustion (high odds)
+addeffect_054	+Enervate (low odds)
+addeffect_055	+Enervate (med odds)
+addeffect_056	+Enervate (high odds)
+addeffect_057	+Silence (low odds)
+addeffect_058	+Silence (med odds)
+addeffect_059	+Silence (high odds)
+addeffect_060	+Critical Rate up (low)
+addeffect_061	+Critical Rate up (med)
+addeffect_062	+Critical Rate up (high)
+addeffect_063	+1 to all stats
+addeffect_064	+2 to all stats
+addeffect_065	+3 to all stats
+addeffect_066	+4 to all stats
+addeffect_067	+5 to all stats
+addeffect_068	+25% Fire damage
+addeffect_069	+25% Ice damage
+addeffect_070	+25% Elec damage
+addeffect_071	+25% Wind damage
+addeffect_072	Counter phys (low odds)
+addeffect_073	Counter phys (med odds)
+addeffect_074	Counter phys (high odds)
+addeffect_075	+Resist Panic
+addeffect_076	+Resist Poison
+addeffect_077	+Resist Fear
+addeffect_078	+Resist Rage
+addeffect_079	+Resist Dizziness
+addeffect_080	+Resist Exhaustion
+addeffect_081	+Resist Enervate
+addeffect_082	+Resist Silence
+addeffect_083	+Auto-Tarukaja
+addeffect_084	+Auto-Rakukaja
+addeffect_085	+Auto-Sukukaja
+addeffect_086	+10 Strength
+addeffect_087	+10 Endurance
+addeffect_088	+10 Magic
+addeffect_089	+10 Agility
+addeffect_090	+10 Luck
+addeffect_091	+100 HP
+addeffect_092	+All ailments (low)
+addeffect_093	+All ailments (med)
+addeffect_094	+All ailments (high)
+addeffect_095	+Reduce phys damage 10%
+addeffect_096	+Reduce phys damage 20%
+addeffect_097	+Reduce phys damage 30%
+addeffect_098	+Reduce Fire damage 10%
+addeffect_099	+Reduce Fire damage 20%
+addeffect_100	+Reduce Fire damage 30%
+addeffect_101	+Reduce Ice damage 10%
+addeffect_102	+Reduce Ice damage 20%
+addeffect_103	+Reduce Ice damage 30%
+addeffect_104	+Reduce Wind damage 10%
+addeffect_105	+Reduce Wind damage 20%
+addeffect_106	+Reduce Wind damage 30%
+addeffect_107	+Reduce Elec damage 10%
+addeffect_108	+Reduce Elec damage 20%
+addeffect_109	+Reduce Elec damage 30%
+addeffect_110	+Reduce spell damage 10%
+addeffect_111	+Reduce spell damage 20%
+addeffect_112	+Reduce spell damage 30%
+addeffect_113	+Reduce Stumble (med)
+addeffect_114	+Reduce Stumble (low)
+addeffect_115	+Reduce Stumble (high)
+addeffect_116	+Evade phys (med)
+addeffect_117	+Evade phys (low)
+addeffect_118	+Evade phys (high)
+addeffect_119	+Evade Fire (med)
+addeffect_120	+Evade Fire (low)
+addeffect_121	+Evade Fire (high)
+addeffect_122	+Evade Ice (med)
+addeffect_123	+Evade Ice (low)
+addeffect_124	+Evade Ice (high)
+addeffect_125	+Evade Wind (med)
+addeffect_126	+Evade Wind (low)
+addeffect_127	+Evade Wind (high)
+addeffect_128	+Evade Elec (med)
+addeffect_129	+Evade Elec (low)
+addeffect_130	+Evade Elec (high)
+addeffect_131	+Evade Spell (med)
+addeffect_132	+Evade Spell (low)
+addeffect_133	+Evade Spell (high)
+addeffect_134	+50% EXP
+addeffect_135	None
+addeffect_136	Charisma
+addeffect_137	None
+addeffect_138	+100 SP
+addeffect_139	+10 to all stats
+addeffect_140	None
+addeffect_141	None
+addeffect_142	None
+addeffect_143	None
+addeffect_144	+Resist Fire
+addeffect_145	+Resist Ice
+addeffect_146	+Resist Wind
+addeffect_147	+Resist Elec
+addeffect_148	+Repel Fire
+addeffect_149	+Repel Ice
+addeffect_150	+Repel Wind
+addeffect_151	+Repel Elec
+addeffect_152	+Absorb Fire
+addeffect_153	+Absorb Ice
+addeffect_154	+Absorb Wind
+addeffect_155	+Absorb Elec
+addeffect_156	None
+addeffect_157	None
+addeffect_158	None
+addeffect_159	None
+addeffect_160	None
+addeffect_161	None
+addeffect_162	None
+addeffect_163	None
+addeffect_164	None
+addeffect_165	None
+addeffect_166	None
+addeffect_167	None
+addeffect_168	None
+addeffect_169	None
+addeffect_170	None
+addeffect_171	None
+addeffect_172	None
+addeffect_173	None
+addeffect_174	None
+addeffect_175	None
+addeffect_176	None
+addeffect_177	None
+addeffect_178	None
+addeffect_179	None
+addeffect_180	None
+addeffect_181	None
+addeffect_182	None
+addeffect_183	None
+addeffect_184	None
+addeffect_185	None
+addeffect_186	None
+addeffect_187	None
+addeffect_188	None
+addeffect_189	Strengthens Fire attacks
+addeffect_190	Strengthens Ice attacks
+addeffect_191	Strengthens Wind attacks
+addeffect_192	Strengthens Elec attacks
+addeffect_193	Reduces Fire damage
+addeffect_194	Reduces Ice damage
+addeffect_195	Reduces Wind damage
+addeffect_196	Reduces Elec damage

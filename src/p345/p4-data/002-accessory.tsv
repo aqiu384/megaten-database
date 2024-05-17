@@ -1,0 +1,256 @@
+Blank	blank
+Wristwatch	A men's wristwatch.
+Plain Ring	A ring with a simple\ndesign.
+Aluminum Badge	A badge with a cute\ndesign.
+Hair Band	A headband to keep\nhair in order.
+Spiral Earrings	A pair of simple but\nstylish silver earrings.
+Silver Locket	A locket attached to a\nweathered chain.
+Bear Ears	A headband with fuzzy\nbear ears.
+Ribbon	A plain, cute ribbon.
+0x209	Accessory 209
+Worn Rosary	This rusted bracelet no\nlonger has any effects.
+Fire Vow	Increases Fire damage\nby 10%.
+Flame Vow	Increases Fire damage\nby 20%.
+Blaze Vow	Increases Fire damage\nby 30%.
+Oven Vow	Increases Fire damage\nby 40%.
+Kagutsuchi Vow	Increases Fire damage\nby 50%.
+Ice Vow	Increases Ice damage\nby 10%.
+Snow Vow	Increases Ice damage\nby 20%.
+Blizzard Vow	Increases Ice damage\nby 30%.
+Icicle Vow	Increases Ice damage\nby 40%.
+Kuraokami Vow	Increases Ice damage\nby 50%.
+Wind Vow	Increases Wind damage\nby 10%.
+Gust Vow	Increases Wind damage\nby 20%.
+Storm Vow	Increases Wind damage\nby 30%.
+Gale Vow	Increases Wind damage\nby 40%.
+Shinatobe Vow	Increases Wind damage\nby 50%.
+Thunder Vow	Increases Electricity\ndamage by 10%.
+Spark Vow	Increases Electricity\ndamage by 20%.
+Volt Vow	Increases Electricity\ndamage by 30%.
+Lightning Vow	Increases Electricity\ndamage by 40%.
+Takefutsu Vow	Increases Electricity\ndamage by 50%.
+Worn Talisman	This damaged talisman no\nlonger has any effects.
+Fire Pin	Reduces Fire damage\nby 10%.
+Flame Pin	Reduces Fire damage\nby 20%.
+Blaze Pin	Reduces Fire damage\nby 30%.
+Oven Pin	Reduces Fire damage\nby 40%.
+Kagutsuchi Pin	Reduces Fire damage\nby 50%.
+Ice Pin	Reduces Ice damage\nby 10%.
+Snow Pin	Reduces Ice damage\nby 20%.
+Blizzard Pin	Reduces Ice damage\nby 30%.
+Icicle Pin	Reduces Ice damage\nby 40%.
+Kuraokami Pin	Reduces Ice damage\nby 50%.
+Wind Pin	Reduces Wind damage\nby 10%.
+Gust Pin	Reduces Wind damage\nby 20%.
+Storm Pin	Reduces Wind damage\nby 30%.
+Gale Pin	Reduces Wind damage\nby 40%.
+Shinatobe Pin	Reduces Wind damage\nby 50%.
+Thunder Pin	Reduces Electricity\ndamage by 10%.
+Spark Pin	Reduces Electricity\ndamage by 20%.
+Volt Pin	Reduces Electricity\ndamage by 30%.
+Lightning Pin	Reduces Electricity\ndamage by 40%.
+Takefutsu Pin	Reduces Electricity\ndamage by 50%.
+Worn Evil Eye	Dried Evil Eye
+Marksman Eye 1	Raises Hit Rate by 10%.
+Marksman Eye 2	Raises Hit Rate by 20%.
+Marksman Eye 3	Raises Hit Rate by 30%.
+Marksman Eye 4	Raises Hit Rate by 40%.
+Marksman Eye 5	Raises Hit Rate by 50%.
+Old Prayer Beads	Several broken beads.
+Sight Beads 1	Raises Evasion Rate\nby 10%.
+Sight Beads 2	Raises Evasion Rate\nby 20%.
+Sight Beads 3	Raises Evasion Rate\nby 30%.
+Sight Beads 4	Raises Evasion Rate\nby 40%.
+Sight Beads 5	Raises Evasion Rate\nby 50%.
+Disinfectant	Reduces the chance\nof Poison.
+Tranquil Buddha	Reduces the chance\nof Panic.
+Bravery Vessel	Reduces the chance\nof Fear.
+Healthy Recipe	Reduces the chance\nof Exhaustion.
+Kid's Hachimaki	Reduces the chance\nof Enervation.
+Cool Beads	Reduces the chance\nof Rage.
+Safety Belt	Reduces the chance\nof Dizziness.
+Disguise Mask	Reduces the chance\nof Silence.
+Gas Mask	Prevents Poison.
+Confusion Hat	Prevents Panic.
+Bold Ball	Prevents Fear.
+Healthy Homa	Prevents Exhaustion.
+Pitch Pipes	Prevents Enervation.
+Frozen Rose	Prevents Rage.
+Alarm Clock	Prevents Dizziness.
+Mask of Truth	Prevents Silence.
+Book of Ruin	Status ailments last\nhalf as long.
+Book of Serenity	Status ailments are\nrecovered in one turn.
+Book of the Void	Nullifies Panic, Fear,\nSilence, Enervation,\nand Rage.
+White Feather	Increases resistance\nto Light.
+Black Feather	Increases resistance\nto Darkness.
+Falcon Eye	Raises Evasion Rate\nto physical attacks.
+Eagle Eye	Greatly raises Evasion\nRate to physical\nattacks.
+Fire Suppressor	Raises Evasion Rate\nto Fire attacks.
+Eye of Flame	Greatly raises Evasion\nRate to Fire attacks.
+Ice Suppressor	Raises Evasion Rate\nto Ice attacks.
+Eye of Ice	Greatly raises Evasion\nRate to Ice attacks.
+Wind Suppressor	Raises Evasion Rate\nto Wind attacks.
+Eye of Wind	Greatly raises Evasion\nRate to Wind attacks.
+Volt Suppressor	Raises Evasion Rate\nto Electric attacks.
+Eye of Thunder	Greatly raises Evasion\nRate to Electric\nattacks.
+Omnipotent Orb	Nullifies all attacks\nexcept Almighty.
+Cat Whisker	Raises Evasion Rate\nto magic attacks.
+0x261	Accessory 261
+0x262	Accessory 262
+0x263	Accessory 263
+0x264	Accessory 264
+0x265	Accessory 265
+0x266	Accessory 266
+Revenge Ring	10% chance of countering\na physical attack.
+Reprisal Chain	15% chance of countering\na physical attack.
+Retribution Mask	20% chance of countering\na physical attack.
+Land Badge	Restores 2% HP at the\nstart of the wearer's\nturn in battle.
+Earth Badge	Restores 4% HP at the\nstart of the wearer's\nturn in battle.
+Space Badge	Restores 6% HP at the\nstart of the wearer's\nturn in battle.
+Mage's Mark	Restores 3 SP at the\nstart of the wearer's\nturn in battle.
+Sorcerer's Mark	Restores 5 SP at the\nstart of the wearer's\nturn in battle.
+Wizard's Mark	Restores 7 SP at the\nstart of the wearer's\nturn in battle.
+Awareness Note	Lowers the enemy's\nchance of having a\npreemptive attack.
+Sigma Drive	Lowers chances of being\ncritically hit.
+Omega Drive	Increases chance of\ndealing critical hits.
+Barbaric Bracers	Doubles chance of\ndodging attacks.
+Divine Pillar	Lowers damage taken,\nbut prevents dodging.
+Chakra Ring	Halves SP cost when\nusing magic skills.
+Rudra Ring	Halves HP cost when\nusing physical skills.
+Blessed Hands	Increases effects of\nhealing spells by 50%.
+Patient Collar	Restores 1 HP when\nHP reaches 0. One use.
+Rebirth Prophecy	Restores full HP when\nHP reaches 0. One use.
+Headband	Increases Strength\nby 1.
+Power Belt	Increases Strength\nby 2.
+Power Tasuki	Increases Strength\nby 3.
+Spirit Hachimaki	Increases Strength\nby 4.
+Festival Drum	Increases Strength\nby 5.
+Power Muscle	Increases Strength\nby 10.
+Lizard Charm	Increases Magic by 1.
+Crow Charm	Increases Magic by 2.
+Bat Charm	Increases Magic by 3.
+Black Cat Charm	Increases Magic by 4.
+Witch Charm	Increases Magic by 5.
+Demon Charm	Increases Magic by 10.
+Amulet	Increases Endurance\nby 1.
+Talisman	Increases Endurance\nby 2.
+Guard Amulet	Increases Endurance\nby 3.
+Iron Charm	Increases Endurance\nby 4.
+Guard Rosary	Increases Endurance\nby 5.
+Defense Essence	Increases Endurance\nby 10.
+Feather Strap	Increases Agility\nby 1.
+Wing Strap	Increases Agility\nby 2.
+Flight Strap	Increases Agility\nby 3.
+Steed Strap	Increases Agility\nby 4.
+Pegasus Strap	Increases Agility\nby 5.
+Speed Star	Increases Agility\nby 10.
+Lucky Coin	Increases Luck by 1.
+Rabbit Foot	Increases Luck by 2.
+Silver Spoon	Increases Luck by 3.
+Maneki Neko	Increases Luck by 4.
+Wooden Ebisu	Increases Luck by 5.
+Lucky Seven	Increases Luck by 10.
+Feng Shui Brace	All stats are increased\nby 1.
+Kimyaku Brace	All stats are increased\nby 2.
+Ryumyaku Brace	All stats are increased\nby 3.
+Reisen Brace	All stats are increased\nby 4.
+Ouryu Brace	All stats are increased\nby 5.
+God's Love	All stats are increased\nby 10.
+Vigor Fob	Increases max HP by 10%.
+Life Fob	Increases max HP by 20%.
+Amaterasu Fob	Increases max HP by 30%.
+Plum Potpourri	Increases max SP by 10%.
+Soul Potpourri	Increases max SP by 20%.
+Moon Potpourri	Increases max SP by 30%.
+Fire Bangle	Increases Fire damage\nby 25%.
+Agni Bangle	Increases Fire damage\nby 50%.
+Ice Bangle	Increases Ice damage\nby 25%.
+Varuna Bangle	Increases Ice damage\nby 50%.
+Thunder Bangle	Increases Electricity\ndamage by 25%.
+Indra Bangle	Increases Electricity\ndamage by 50%.
+Wind Bangle	Increases Wind damage\nby 25%.
+Vayu Bangle	Increases Wind damage\nby 50%.
+0x2AC	Accessory 2AC
+Parting Stone	A tubular black ornament.\nIt recovers 8 SP on each\nof the wearer's turns.
+0x2AE	0x2AE
+Pain Stone	A tubular white ornament.\nIt recovers 10 SP on each\nof the wearer's turns.
+Grief Stone	A tubular golden ornament.\nIt recovers 12 SP on each\nof the wearer's turns.
+Sorrow Stone	A tubular brassy ornament.\nIt recovers 14 SP on each\nof the wearer's turns.
+Love Stone	A tubular pink ornament.\nIt recovers 16 SP on each\nof the wearer's turns.
+Suffering Stone	A tubular maroon ornament.\nIt recovers 18 SP on each\nof the wearer's turns.
+Anger Stone	A tubular cyan ornament.\nIt recovers 20 SP on each\nof the wearer's turns.
+Loneliness Stone	A tubular cobalt ornament.\nIt recovers 22 SP on each\nof the wearer's turns.
+Invitation Stone	A tubular purple ornament.\nIt recovers 24 SP on each\nof the wearer's turns.
+0x2B7	Accessory_2B7
+0x2B8	Accessory_2B8
+0x2B9	Accessory_2B9
+0x2BA	Accessory_2BA
+0x2BB	Accessory_2BB
+0x2BC	Accessory_2B7
+0x2BD	Accessory_2BD
+0x2BE	Accessory_2BE
+0x2BF	Accessory_2BF
+0x2C0	Accessory_2C0
+0x2C1	Accessory_2C1
+0x2C2	Accessory_2C2
+0x2C3	Accessory_2C3
+0x2C4	Accessory_2C4
+0x2C5	Accessory_2C5
+0x2C6	Accessory_2C6
+0x2C7	Accessory_2C7
+0x2C8	Accessory_2C8
+0x2C9	Accessory_2C9
+0x2CA	Accessory_2CA
+0x2CB	Accessory_2CB
+0x2CC	Accessory_2CC
+0x2CD	Accessory_2CD
+0x2CE	Accessory_2CE
+0x2CF	Accessory_2CF
+0x2D0	Accessory_2D0
+0x2D1	Accessory_2D1
+0x2D2	Accessory_2D2
+0x2D3	Accessory_2D3
+0x2D4	Accessory_2D4
+0x2D5	Accessory_2D5
+0x2D6	Accessory_2D6
+0x2D7	Accessory_2D7
+0x2D8	Accessory_2D8
+0x2D9	Accessory_2D9
+0x2DA	Accessory_2DA
+0x2DB	Accessory_2DB
+0x2DC	Accessory_2DC
+0x2DD	Accessory_2DD
+0x2DE	Accessory_2DE
+0x2DF	Accessory_2DF
+0x2E0	Accessory_2E0
+0x2E1	Accessory_2E1
+0x2E2	Accessory_2E2
+0x2E3	Accessory_2E3
+0x2E4	Accessory_2E4
+0x2E5	Accessory_2E5
+0x2E6	Accessory_2E6
+0x2E7	Accessory_2E7
+0x2E8	Accessory_2E8
+0x2E9	Accessory_2E9
+0x2EA	Accessory_2EA
+0x2EB	Accessory_2EB
+0x2EC	Accessory_2EC
+0x2ED	Accessory_2ED
+0x2EE	Accessory_2EE
+0x2EF	Accessory_2EF
+0x2F0	Accessory_2F0
+0x2F1	Accessory_2F1
+Portrait Medal	A medal from Nanako.\nIncreases Strength by 5.
+Paper Armband	A bracelet from Nanako.\nIncreases all stats by 5.
+Bead Ring	A ring from Nanako.\nIncreases Evasion\nagainst magic.
+Partial Award	Nanako's certificate.\nRestores 1 HP when\nHP reaches 0. One use.
+Reader King	Proof of a well-read\nindividual. Increases\nMagic by 10.
+Macho Medal	Reminder of a night\nwith the guys. Increases\nphysical resistance.
+Fluffy Muffler	A Christmas present from\nChie. Increases Ice\nresistance.
+Leather Keychain	A Christmas present from\nYukiko. Increases Fire\nresistance.
+Silver Bangle	A Christmas present from\nRise. Increases max SP\nby 50%.
+Handmade Watch	A Christmas present from\nNaoto. Increases chances\nof status effects.
+Rugged Ring	A Christmas present from\nAi. Increases effects\nof healing spells.
+Fancy Mini-Car	A Christmas present from\nYumi. Increases success\nrate of Mudo spells.
+Hand-Knit Mitten	A Christmas present from\nAyane. Increases success\nrate of Hama spells.
+0x2FF	Accessory 2FF
