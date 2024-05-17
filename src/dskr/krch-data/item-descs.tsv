@@ -1,0 +1,257 @@
+en	desc
+Item 000	Item Help 000
+Medicine	Restore 75 HP: 1 ally
+Ox Bezoar	Restore 250 HP: 1 ally. \nSaid to be an aphrodisiac
+Life Stone	Restore HP (M): 1 ally
+Muscle Drink	Restore HP (L) with side effects: \n1 ally
+Bead	Restore full HP: 1 ally
+Bead of Life	Restore all HP: entire party
+Chakra Chip	Restore MP (S): 1 ally
+Chakra Drop	Restore MP (M): 1 ally
+Chakra Pot	Restore all MP: 1 ally
+Great Chakra	Restore all MP: entire party
+Soma Drop	Restore all HP and MP: 1 ally
+Soma	Restore all HP and MP: \nentire party
+Anti-Poison	Cure poison: 1 ally
+Anti-Mute	Cure mute: 1 ally
+Anti-Stone	Cure stone: 1 ally
+Anti-Mind	Cure sleep, panic, charm and rage: \n1 ally
+Jin Dan	Revive with (S) HP recovery: \n1 ally
+Balm of Life	Revive with full HP recovery: \n1 ally
+St Incense	Increase Strength by 1: 1 ally
+Ma Incense	Increase Magic by 1: 1 ally
+Vi Incense	Increase Vitality by 1: 1 ally
+Lu Incense	Increase Luck by 1: 1 ally
+"Mansaku" Sake	Increase demon's Loyalty (S): \n1 ally
+"Homura" Sake	Increase Pyro demon's Loyalty (M): \n1 ally
+"Fubuki" Sake	Increase Frost demon's Loyalty (M): \n1 ally
+"Raiden" Sake	Increase Volt demon's Loyalty (M): \n1 ally
+"Arashi" Sake	Increase Wind demon's Loyalty (M): \n1 ally
+"Gouriki" Sake	Increase Fury demon's Loyalty (M): \n1 ally
+"Yamiyo" Sake	Increase Pagan demon's Loyalty (M): \n1 ally
+"Takumi" Sake	Increase Skill demon's Loyalty (M): \n1 ally
+"Shishiou" Sake	Increase demon's Loyalty (M): \n1 ally
+"Kotetsu" Sake	Increase demon's Loyalty (L): \n1 ally
+Reserve	Reserve
+Attract Water	Briefly increases encounter rate
+Repulse Water	Briefly decreases encounter rate
+Foxtail	An irresistible grass toy for a cat
+Sealed Letter	A binding contract from \nthe Demon Lord
+Smoke Ball	Instantly escape from battle
+Purity Charm	A talisman said to expel evil
+Item 028	Item help 028
+Item 029	Item help 029
+Item 02A	Item help 02A
+Item 02B	Item help 02B
+Item 02C	Item help 02C
+Item 02D	Item help 02D
+Item 02E	Item help 0E
+Item 02F	Item help 02F
+Item 030	Item help 030
+Item 031	Item help 031
+Item 032	Item help 032
+Item 033	Item help 033
+Item 034	Item help 034
+Item 035	Item help 035
+Item 036	Item help 036
+Item 037	Item help 037
+Item 038	Item help 038
+Item 039	Item help 039
+Item 03A	Item help 03A
+Item 03B	Item help 03B
+Item 03C	Item help 03C
+Item 03D	Item help 03D
+Item 03E	Item help 03E
+Item 03F	Item help 03F
+Wood Ornament	Fetches a hefty sum at Konnou-Ya
+Asuka Mirror	Fetches a hefty sum at Konnou-Ya
+Rakuyou Chalice	Fetches a hefty sum at Konnou-Ya
+Javanese Figure	Fetches a hefty sum at Konnou-Ya
+Roman Coin	Fetches a hefty sum at Konnou-Ya
+Persian Vase	Fetches a hefty sum at Konnou-Ya
+Theban Jar	Fetches a hefty sum at Konnou-Ya
+Cretan Goddess	Fetches a hefty sum at Konnou-Ya
+Babylon Tablet	Fetches a hefty sum at Konnou-Ya
+Giza Mask	Fetches a hefty sum at Konnou-Ya
+Stag Beetle	Fetches a hefty sum at Konnou-Ya
+Beetle	Fetches a hefty sum at Konnou-Ya
+Dainty Snack	A popular bar snack. Demons like \nit, too.
+Twig	A plain old twig. There's no use \nfor it.
+Old Underwear	A garment favored by virgins \nlong ago.
+Item 04F	Item help 04F
+Normal	Power: 12
+Heavy	Power: 25
+Fatal	Power: 40
+Fire	Power: 6  Extra effect: Burn
+Ice	Power: 6  Extra effect: Freeze
+Elec	Power: 6  Extra effect: Shock
+Force	Power: 6  Extra effect: Impede
+Phys	Power: 6  Extra effect: Dizzy
+Death	Power: 6  Extra effect: Stun
+Charm	Power: 8  Extra effect: Charm
+Sleep	Power: 8  Extra effect: Sleep
+Panic	Power: 8  Extra effect: Panic
+Mute	Power: 8  Extra effect: Mute
+Poison	Power: 8  Extra effect: Poison
+Stone	Power: 8  Extra effect: Stone
+Item 05F	Item help 05F
+Normal Clip	Increases Normal Bullet capacity
+Heavy Clip	Increases Heavy Bullet capacity
+Fatal Clip	Increases Fatal Bullet capacity
+Fire Clip	Increases Fire Bullet capacity
+Ice Clip	Increases Ice Bullet capacity
+Elec Clip	Increases Elec Bullet capacity
+Force Clip	Increases Force Bullet capacity
+Phys Clip	Increases Phys Bullet capacity
+Death Clip	Increases Death Bullet capacity
+Charm Clip	Increases Charm Bullet capacity
+Sleep Clip	Increases Sleep Bullet capacity
+Panic Clip	Increases Panic Bullet capacity
+Mute Clip	Increases Mute Bullet capacity
+Poison Clip	Increases Poison Bullet capacity
+Stone Clip	Increases Stone Bullet capacity
+Aurora Clip	An infinite supply of Normal Bullets
+Youtou Kuzunoha	Item help 070
+Nameless Gun	Item help 071
+Prototype Gun	Item help 072
+Item 073	Item help 073
+Item 074	Item help 074
+Item 075	Item help 075
+Item 076	Item help 076
+Item 077	Item help 077
+Item 078	Item help 078
+Item 079	Item help 079
+Item 07A	Item help 07A
+Item 07B	Item help 07B
+Item 07C	Item help 07C
+Item 07D	Item help 07D
+Item 07E	Item help 07E
+Item 07F	Item help 07F
+Valhalla Soda	Strangely-colored soda. \nDrinking it has mysterious effects.
+Magical Soda	Strangely-colored soda. \nDrinking it has mysterious effects.
+Muscle Soda	Strangely-colored soda. \nDrinking it has mysterious effects.
+Miracle Soda	Strangely-colored soda. \nDrinking it has mysterious effects.
+Doctor Soda	Strangely-colored soda. \nDrinking it has mysterious effects.
+Dragon Soda	Strangely-colored soda. \nDrinking it has mysterious effects.
+Mandra Soda	Strangely-colored soda. \nDrinking it has mysterious effects.
+Valhalla Nectar	Strangely-colored soda. \nDrinking it has mysterious effects.
+Magical Nectar	Strangely-colored soda. \nDrinking it has mysterious effects.
+Muscle Nectar	Strangely-colored soda. \nDrinking it has mysterious effects.
+Miracle Nectar	Strangely-colored soda. \nDrinking it has mysterious effects.
+Elixir Pop	Strangely-colored soda. \nDrinking it has mysterious effects.
+Midas Pop	Strangely-colored soda. \nDrinking it has mysterious effects.
+Harvest Pop	Strangely-colored soda. \nDrinking it has mysterious effects.
+Deus Pop	Strangely-colored soda. \nDrinking it has mysterious effects.
+Item 08F	Item help 08F
+Butterfly Brooch	A brooch dropped by the kidnapped girl
+Photo of Kaya	A photo of Kaya Daidouji
+Kaya's Diary	Kaya Daidouji's diary
+Lucky Charm	An old charm that's been worn out
+Rickshaw Knob	A piece of a rickshaw handle
+Dragon Tiles	Tiles used for mahjong
+Number Tiles	Tiles used for mahjong
+Scoring Sticks	Items used for mahjong
+Four Wind Tiles	Tiles used for mahjong
+Mahjong Tiles	Items used for mahjong
+Streetcar Pass	Allows the holder to ride the streetcar for free
+Cuff Link	Master Daidouji's cuff link
+Ring of Memories	The ring the Owner of Ryugu got from Elfman
+Tae's Camera	The camera Tae is always carrying around
+Ammunition Box	The goods Narumi ordered from Konnou-Ya
+Earth Prism	One of the four prisms. Represents earth
+Flame Prism	One of the four prisms. Represents fire
+Water Prism	One of the four prisms. Represents water
+Amatsu Kanagi	Yatagarasu's sacred treasure
+Lock Pick	A tool used to open locks. Use them responsibly
+Ice Cream	A cold, sweet dessert
+Syrup	Sweet, thick sauce for cooking
+White Shard	A shard that looks fixable
+Blue Shard	A shard that looks fixable
+Red Shard	A shard that looks fixable
+Blood Chrysoberyl	A gem used to break the seal at the factory
+Fried Tofu	Portions of food for foxes
+Reserve	Reserve
+Sword of Kashima	A sword to awaken the guardian of the Earth Prism
+Report Page 1	Sadakichi's report on the Super Soldier Project
+Report Page 2	Sadakichi's report on the Super Soldier Project
+Report Page 3	Sadakichi's report on the Super Soldier Project
+Report Page 4	Sadakichi's report on the Super Soldier Project
+Report Page 5	Sadakichi's report on the Super Soldier Project
+Report Page 6	Sadakichi's report on the Super Soldier Project
+Report Page 7	Sadakichi's report on the Super Soldier Project
+Report Page 8	Sadakichi's report on the Super Soldier Project
+Shiomitsu Orb	An ocean-blue gem
+Chigaeshi Orb	A blood-red gem
+Red Wine	Wine from Provence, France
+Flute of Rhone	An old flute used to call the Large Tarrasque
+Pricey Beer	A full-bodied beer
+Vodka	Imported specially from Russia
+Prophetic Book	A book prophesying many disasters
+Staff of Death	A staff that emits ominous energy
+Bancho Uniform	A cloak and hat Detective Kazama used to wear
+Mystic Eye	A mirror that can see demons' abilities
+Phantom Skull	Required credentials to meet the Demon Lord
+Tyrant Spawn	Required credentials to meet the Demon Lord
+Emblem of Hell	Required credentials to meet the Demon Lord
+SS Project Report	All the details of the Super Soldier Project
+Photo of Red Cape	The photo of the Red Cape that Tae snapped
+Photo of Shizu	A photo of the eloped Shizu
+Kiyoshi's Cane	The cane Kiyoshi always had with him
+Photo of Tae	Tae and an Army soldier in the Dark Realm
+Item 0C7	Item help 0C7
+Item 0C8	Item help 0C8
+Item 0C9	Item help 0C9
+Item 0CA	Item help 0CA
+Item 0CB	Item help 0CB
+Item 0CC	Item help 0CC
+Item 0CD	Item help 0CD
+Item 0CE	Item help 0CE
+Item 0CF	Item help 0CF
+Item 0D0	Item help 0D0	
+Item 0D1	Item help 0D1	
+Item 0D2	Item help 0D2	
+Item 0D3	Item help 0D3	
+Item 0D4	Item help 0D4	
+Item 0D5	Item help 0D5	
+Item 0D6	Item help 0D6	
+Item 0D7	Item help 0D7	
+Item 0D8	Item help 0D8	
+Item 0D9	Item help 0D9	
+Item 0DA	Item help 0DA	
+Item 0DB	Item help 0DB	
+Item 0DC	Item help 0DC	
+Item 0DD	Item help 0DD	
+Item 0DE	Item help 0DE	
+Item 0DF	Item help 0DF	
+Item 0E0	Item help 0E0	
+Item 0E1	Item help 0E1	
+Item 0E2	Item help 0E2	
+Item 0E3	Item help 0E3	
+Item 0E4	Item help 0E4	
+Item 0E5	Item help 0E5	
+Item 0E6	Item help 0E6	
+Item 0E7	Item help 0E7	
+Item 0E8	Item help 0E8	
+Item 0E9	Item help 0E9	
+Item 0EA	Item help 0EA	
+Item 0EB	Item help 0EB	
+Item 0EC	Item help 0EC	
+Item 0ED	Item help 0ED	
+Item 0EE	Item help 0EE	
+Item 0EF	Item help 0EF	
+Item 0F0	Item help 0F0	
+Item 0F1	Item help 0F1	
+Item 0F2	Item help 0F2	
+Item 0F3	Item help 0F3	
+Item 0F4	Item help 0F4	
+Item 0F5	Item help 0F5	
+Item 0F6	Item help 0F6	
+Item 0F7	Item help 0F7	
+Item 0F8	Item help 0F8	
+Item 0F9	Item help 0F9	
+Item 0FA	Item help 0FA	
+Item 0FB	Item help 0FB	
+Item 0FC	Item help 0FC	
+Item 0FD	Item help 0FD	
+Item 0FE	Item help 0FE	
+Item 0FF	Item help 0FF	

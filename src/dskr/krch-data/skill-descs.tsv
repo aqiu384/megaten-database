@@ -1,0 +1,513 @@
+en	desc
+0x000	Skill Help 000
+Agi	Single light Fire dmg\n+burn  Single target
+Agidyne	Single heavy Fire dmg\n+burn  Area:target
+Maragi	Single medium Fire dmg\n+burn  Area:self(S)
+Maragidyne	Single heavy Fire dmg\n+burn  Area:self(M)
+Blaze	Single medium Fire dmg\n+burn  3-way shot
+Hellfire	Multiple light Fire dmg\n+burn  Single target
+Fire Breath	Multiple heavy Fire dmg\n+burn  Line
+Fireball	Piercing mega Fire dmg\n+burn  Single target
+R	Skill Help 009
+R	Skill Help 00A
+R	Skill Help 00B
+R	Skill Help 00C
+R	Skill Help 00D
+R	Skill Help 00E
+R	Skill Help 00F
+Bufu	Single light Ice dmg\n+freeze  Single target
+Bufudyne	Single heavy Ice dmg\n+freeze  Area:target
+Mabufu	Single medium Ice dmg\n+freeze  Area:self(S)
+Mabufudyne	Single heavy Ice dmg\n+freeze  Area:self(M)
+Frostbite	Single medium Ice dmg\n+freeze  3-way shot
+Cocytus	Multiple light Ice dmg\n+freeze  Single target
+Glacial Blast	Multiple heavy Ice dmg\n+freeze  Line
+Frozen Lance	Piercing mega Ice dmg\n+freeze  Single target
+R	Skill Help 018
+R	Skill Help 019
+R	Skill Help 01A
+R	Skill Help 01B
+R	Skill Help 01C
+R	Skill Help 01D
+R	Skill Help 01E
+R	Skill Help 01F
+Zio	Single light Elec dmg\n+shock  Single target
+Ziodyne	Single heavy Elec dmg\n+shock  Area:target
+Mazio	Single medium Elec dmg\n+shock  Area:self(S)
+Maziodyne	Single heavy Elec dmg\n+shock  Area:self(M)
+Spark	Single medium Elec dmg\n+shock  3-way shot
+Bolt Storm	Multiple light Elec dmg\n+shock  Single target
+Shock Wave	Multiple heavy Elec dmg\n+shock  Line
+Thunderbolt	Piercing mega Elec dmg\n+shock  Single target
+R	Skill Help 028
+R	Skill Help 029
+R	Skill Help 02A
+R	Skill Help 02B
+R	Skill Help 02C
+R	Skill Help 02D
+R	Skill Help 02E
+R	Skill Help 02F
+Zan	Single light Force dmg\n+impede  Single target
+Zandyne	Single heavy Force dmg\n+impede  Area:target
+Mazan	Single medium Force dmg\n+impede  Area:self(S)
+Mazandyne	Single heavy Force dmg\n+impede  Area:self(M)
+Flurry	Single medium Force dmg\n+impede  3-way shot
+Tempest	Multiple light Force dmg\n+impede  Single target
+Wind Cutter	Multiple heavy Force dmg\n+impede  Line
+Hurricane	Piercing mega Force dmg\n+impede  Single target
+Flurry	Skill Help 038
+R	Skill Help 039
+R	Skill Help 03A
+R	Skill Help 03B
+R	Skill Help 03C
+R	Skill Help 03D
+R	Skill Help 03E
+R	Skill Help 03F
+Astral Burst	Single mega Almighty dmg  \nArea:self(L)
+R	Skill Help 041
+R	Skill Help 042
+R	Skill Help 043
+R	Skill Help 044
+R	Skill Help 045
+R	Skill Help 046
+R	Skill Help 047
+R	Skill Help 048
+R	Skill Help 049
+R	Skill Help 04A
+Maragidyne	Skill Help 04B
+Mabufudyne	Skill Help 04C
+Maziodyne	Skill Help 04D
+Mazandyne	Skill Help 04E
+Mamudo	Skill Help 04F
+Mudo	Death:HP halved\n+stun  Single target
+Mamudo	Death:HP halved\n+stun  Area:self(S)
+R	Skill Help 052
+R	Skill Help 053
+R	Skill Help 054
+R	Skill Help 055
+R	Skill Help 056
+R	Skill Help 057
+R	Skill Help 058
+R	Skill Help 059
+R	Skill Help 05A
+R	Skill Help 05B
+R	Skill Help 05C
+R	Skill Help 05D
+R	Skill Help 05E
+R	Skill Help 05F
+Marin Karin	Single light Mind dmg\n+charm  Area:self(S)
+Dormina	Single light Mind dmg\n+sleep  Area:self(S)
+Pulinpa	Single light Mind dmg\n+panic  Single target
+Makajam	Single light Mind dmg\n+mute  Single target
+Petra	Single light Mind dmg\n+stone  Line
+R	Skill Help 065
+R	Skill Help 066
+R	Skill Help 067
+R	Skill Help 068
+R	Skill Help 069
+R	Skill Help 06A
+R	Skill Help 06B
+R	Skill Help 06C
+R	Skill Help 06D
+R	Skill Help 06E
+R	Skill Help 06F
+Dia	Restores HP moderately  \n1 ally
+Diarama	Restores HP greatly  \n1 ally
+Diarahan	Restores HP fully  \n1 ally
+Media	Restores HP moderately  \nAll
+Patra	Cures ailment  \n1 ally
+Dia Aura	Restores HP gradually  \n1 ally
+Recarm	Revives target with \nsome HP  1 ally
+Samarecarm	Revives target with \nfull HP  1 ally
+R	Skill Help 078
+R	Skill Help 079
+R	Skill Help 07A
+R	Skill Help 07B
+R	Skill Help 07C
+R	Skill Help 07D
+R	Skill Help 07E
+R	Skill Help 07F
+Tarukaja	Raises Phys attack for \nthe entire battle  All
+Makakaja	Raises Magic attack for \nthe entire battle  All
+Rakukaja	Raises defense for \nthe entire battle  All
+War Cry	Boosts Phys attack for \na short time  All
+Makara Aura	Boosts Magic defense for \na short time  All
+Tetra Aura	Boosts Phys defense for \na short time  All
+R	Skill Help 086
+R	Skill Help 087
+R	Skill Help 088
+R	Skill Help 089
+R	Skill Help 08A
+R	Skill Help 08B
+R	Skill Help 08C
+R	Skill Help 08D
+R	Skill Help 08E
+R	Skill Help 08F
+Tiger Thrust	Raidou sword thrust
+Raidou Combo 1	Raidou combo 1st hit
+Raidou Combo 2	Raidou combo 2nd hit
+Raidou Combo 3	Raidou combo 3rd hit
+Dragon Cyclone	Raidou charge attack
+Strike	Normal attack
+Combo	Multiple light Phys dmg\n+dizzy  Single target
+Mighty Blow	Single heavy Phys dmg\n+dizzy  Single target
+Frenzy	Single medium Phys dmg\n+dizzy  Area:self(M)
+Berserker	Single light Phys dmg\n+rage  Single target
+Venomstrike	Single light Phys dmg\n+poison  Single target
+Winged Fury	Single medium Phys dmg\n+dizzy  Arc
+Rush	Single mega Phys dmg\n+dizzy  Line
+Cross Slash	Single mega Phys dmg\n+dizzy  Cross
+Fiery Spiral	Single mega Phys dmg\n+burn  Area:self(M)
+Frigid Spin	Single mega Phys dmg\n+freeze  Area:self(M)
+Voltaic Ring	Single mega Phys dmg\n+shock  Area:self(M)
+Gale Slash	Single mega Phys dmg\n+impede  Area:self(M)
+Vile Storm	Single mega Phys dmg\n+stun  Area:self(M)
+Raging Blast	Single mega Phys dmg\n+knockback  Area:self(L)
+Triple Hit 1	Skill Help 0A4
+Triple Hit 2	Skill Help 0A5
+Triple Hit 3	Skill Help 0A6
+R	Skill Help 0A7
+R	Skill Help 0A8
+R	Skill Help 0A9
+R	Skill Help 0AA
+R	Skill Help 0AB
+R	Skill Help 0AC
+R	Skill Help 0AD
+R	Skill Help 0AE
+R	Skill Help 0AF
+Normal Bullet	Single light Gun dmg  \nSingle target
+Heavy Bullet	Single medium Gun dmg  \nSingle target
+Fatal Bullet	Single heavy Gun dmg  \nSingle target
+Fire Bullet	Single light Gun dmg\n+burn  Single target
+Ice Bullet	Single light Gun dmg\n+freeze  Single target
+Elec Bullet	Single light Gun dmg\n+shock  Single target
+Force Bullet	Single light Gun dmg\n+impede  Single target
+Phys Bullet	Single light Gun dmg\n+dizzy  Single target
+Death Bullet	Single light Gun dmg\n+stun  Single target
+Charm Bullet	Single light Gun dmg\n+charm(low)  Single target
+Sleep Bullet	Single light Gun dmg\n+sleep(low)  Single target
+Panic Bullet	Single light Gun dmg\n+panic(low)  Single target
+Mute Bullet	Single light Gun dmg\n+mute(low)  Single target
+Poison Bullet	Single light Gun dmg\n+poison(low)  Single target
+Stone Bullet	Single light Gun dmg\n+stone(low)  Single target
+Flame Shot	Single mega Gun dmg\n+burn  Single target
+Freeze Shot	Single mega Gun dmg\n+freeze  Single target
+Shock Shot	Single mega Gun dmg\n+shock  Single target
+Blast Shot	Single mega Gun dmg\n+impede  Single target
+Bane Shot	Single mega Gun dmg\n+stun  Single target
+R	Skill Help 0C4
+R	Skill Help 0C5
+R	Skill Help 0C6
+R	Skill Help 0C7
+R	Skill Help 0C8
+R	Skill Help 0C9
+R	Skill Help 0CA
+R	Skill Help 0CB
+R	Skill Help 0CC
+R	Skill Help 0CD
+R	Skill Help 0CE
+R	Skill Help 0CF
+Null Fire	Nullifies Fire attacks \nfor a short time  All
+Null Ice	Nullifies Ice attacks \nfor a short time  All
+Null Elec	Nullifies Elec attacks \nfor a short time  All
+Null Force	Nullifies Force attacks \nfor a short time  All
+Null Phys	Nullifies Phys attacks \nfor a short time  All
+Null Death	Nullifies Death attacks \nfor a short time  All
+Null Mind	Nullifies Mind attacks \nfor a short time  All
+Fire Drain	Drains Fire attacks \nfor a short time  All
+Ice Drain	Drains Ice attacks \nfor a short time  All
+Elec Drain	Drains Elec attacks \nfor a short time  All
+Force Drain	Drains Force attacks \nfor a short time  All
+Phys Drain	Drains Phys attacks \nfor a short time  All
+Freeze Time	Stops all enemies' \nmovement for a short time
+Gathering	Calls for reinforcements
+R	Skill Help 0DE
+R	Skill Help 0DF
+R	Skill Help 0E0
+R	Skill Help 0E1
+R	Skill Help 0E2
+R	Skill Help 0E3
+Soulless Beam	Skill Help 0E4
+Soulless Beam	Skill Help 0E5
+Battleship dead	Skill Help 0E6
+Submerge near	Skill Help 0E7
+Surface near	Skill Help 0E8
+Submerge far	Skill Help 0E9
+Surface far	Skill Help 0EA
+Soulless Beam	Skill Help 0EB
+Right arm dead	Skill Help 0EC
+Left arm dead	Skill Help 0ED
+Final form wait	Skill Help 0EE
+Final form morph	Skill Help 0EF
+Retribution	Chance of heavy Almighty \ndmg upon death  Area:self
+First Aid	Restores HP after battle\n(Raidou and self)
+Regenerate	Restores HP gradually  \nArea:self
+Hex	High chance of countering \nfor 1/2 dmg
+Curse	High chance of countering \nfor all dmg
+Endure	High chance of escaping \ndeath(once per battle)
+Fast Escape	Allows quicker escape\n(must be summoned)
+Money Find	Increases money earned\n(must be summoned)
+Item Find	Increases item chance\n(must be summoned)
+Quick Study	Increases Exp earned\n(must be summoned)
+Devotion	Increases Loyalty earned\n(must be summoned)
+Life Bonus	Raises MAX HP by 10%
+Life Gain	Raises MAX HP by 20%
+Life Surge	Raises MAX HP by 30%
+Mana Bonus	Raises MAX MP by 10%
+Mana Gain	Raises MAX MP by 20%
+Mana Surge	Raises MAX MP by 30%
+Hero's Might	Chance of increasing \nPhys attack dmg
+Mage's Craft	Chance of increasing \nMagic attack dmg
+Fire Boost	Increases Fire \nattack dmg
+Ice Boost	Increases Ice \nattack dmg
+Elec Boost	Increases Elec \nattack dmg
+Force Boost	Increases Force \nattack dmg
+Heal Boost	Increases healing abilty
+Mind Boost	Increases chance of Mind \nailment attack
+Fire Resist	Halves Fire dmg taken  \nCan void weakness
+Ice Resist	Halves Ice dmg taken  \nCan void weakness
+Elec Resist	Halves Elec dmg taken  \nCan void weakness
+Force Resist	Halves Force dmg taken  \nCan void weakness
+Phys Resist	Halves Phys dmg taken  \nCan void weakness
+R	Skill Help 10E
+R	Skill Help 10F
+R	Skill Help 110
+R	Skill Help 111
+R	Skill Help 112
+R	Skill Help 113
+R	Skill Help 114
+R	Skill Help 115
+R	Skill Help 116
+R	Skill Help 117
+R	Skill Help 118
+R	Skill Help 119
+R	Skill Help 11A
+R	Skill Help 11B
+R	Skill Help 11C
+Knockback	Skill Help 11D
+Touch Damage	Skill Help 11E
+Confine Fail	Skill Help 11F
+Program	Skill Help 120
+Ailment Burn	Skill Help 121
+Ailment Freeze	Skill Help 122
+Ailment Shock	Skill Help 123
+Ailment Impede	Skill Help 124
+Ailment Dizzy	Skill Help 125
+Ailment Stun	Skill Help 126
+Ailment Poison	Skill Help 127
+Ailment Sleep	Skill Help 128
+Ailment Panic	Skill Help 129
+Ailment Charm	Skill Help 12A
+Ailment Mute	Skill Help 12B
+Ailment Rage	Skill Help 12C
+R	Skill Help 12D
+R	Skill Help 12E
+R	Skill Help 12F
+R	Skill Help 130
+R	Skill Help 131
+R	Skill Help 132
+R	Skill Help 133
+R	Skill Help 134
+R	Skill Help 135
+R	Skill Help 136
+R	Skill Help 137
+R	Skill Help 138
+R	Skill Help 139
+R	Skill Help 13A
+R	Skill Help 13B
+R	Skill Help 13C
+R	Skill Help 13D
+R	Skill Help 13E
+R	Skill Help 13F
+Medicine	Skill Help 140
+Ox Bezoar	Skill Help 141
+Life Stone	Skill Help 142
+Muscle Drink	Skill Help 143
+Bead	Skill Help 144
+Bead of Life	Skill Help 145
+Chakra Chip	Skill Help 146
+Chakra Drop	Skill Help 147
+Chakra Pot	Skill Help 148
+Great Chakra	Skill Help 149
+Soma Drop	Skill Help 14A
+Soma	Skill Help 14B
+Anti-Poison	Skill Help 14C
+Anti-Mute	Skill Help 14D
+Anti-Stone	Skill Help 14E
+Anti-Mind	Skill Help 14F
+Jin Dan	Skill Help 150
+Balm of Life	Skill Help 151
+St Incense	Skill Help 152
+Ma Incense	Skill Help 153
+Vi Incense	Skill Help 154
+Lu Incense	Skill Help 155
+"Mansaku" Sake	Skill Help 156
+"Homura" Sake	Skill Help 157
+"Fubuki" Sake	Skill Help 158
+"Raiden" Sake	Skill Help 159
+"Arashi" Sake	Skill Help 15A
+"Gouriki" Sake	Skill Help 15B
+"Yamiyo" Sake	Skill Help 15C
+"Takumi" Sake	Skill Help 15D
+"Shishiou" Sake	Skill Help 15E
+"Kotetsu" Sake	Skill Help 15F
+R	Blank
+Repulse Water	Blank
+Attract Water	Blank
+Foxtail	Blank
+Secret Handbook	Blank
+Smoke Ball	Blank
+R	Blank
+R	Blank
+Valhalla Soda	Blank
+Magical Soda	Blank
+Muscle Soda	Blank
+Miracle Soda	Blank
+Doctor Soda	Blank
+Dragon Soda	Blank
+Mandra Soda	Blank
+Valhalla Nectar	Blank
+Magical Nectar	Blank
+Muscle Nectar	Blank
+Miracle Nectar	Blank
+Elixir Ginger Ale	Blank
+Midas Ginger Ale	Blank
+Harvest Ginger Ale	Blank
+Deus Ginger Ale	Blank
+R	Blank
+R	Blank
+R	Blank
+R	Blank
+R	Blank
+R	Blank
+R	Blank
+R	Blank
+R	Blank
+Agi	Blank
+Agidyne	Blank
+Blaze	Blank
+Hellfire	Blank
+Bufu	Blank
+Bufudyne	Blank
+Frostbite	Blank
+Cocytus	Blank
+Zio	Blank
+Ziodyne	Blank
+Spark	Blank
+Bolt Storm	Blank
+Zan	Blank
+Zandyne	Blank
+Flurry	Blank
+Tempest	Blank
+Mudo	Blank
+Marin Karin	Blank
+Dormina	Blank
+Pulinpa	Blank
+Makajam	Blank
+Petra	Blank
+Media	Blank
+Agi check	Blank
+Slip fire check	Blank
+Multi fire check	Blank
+Escape	Blank
+Self-explode	Blank
+RESERVE	Blank
+RESERVE	Blank
+Abi/Naga dead	Blank
+Abi/Naga teleport	Blank
+Yomi-kugutsu escape	Blank
+Roundhouse	Blank
+Barrage	Blank
+Rapidfire	Blank
+Melee	Blank
+Agi	Blank
+Punch	Blank
+One-two	Blank
+Rush	Blank
+Frustration	Blank
+Teleport	Blank
+Doubt Beam	Blank
+Anger Blast	Blank
+Justification	Blank
+Okiku attack	Blank
+Cherno attack	Blank
+Trailing Death	Blank
+Spinning Death	Blank
+Megido	Blank
+Streaming Death	Blank
+Naga attack	Blank
+Abi attack	Blank
+Teleport	Blank
+Azusa-yumi	Blank
+Nubatama	Blank
+Amatobi	Blank
+Wind Cutter	Blank
+Cursed Emission	Blank
+Cursed Bolt	Blank
+Mishaguji attack	Blank
+Mishaguji tail	Blank
+Ageless Sleep	Blank
+Triple Shot	Blank
+Super Wave	Blank
+Summon Hiruko	Blank
+Anakashiko	Blank
+Tamayura	Blank
+Kaya Combo 1	Blank
+Kaya Combo 2	Blank
+Kaya Combo 3	Blank
+Kaya Thrust	Blank
+Kaya Cyclone	Blank
+Super Cannon	Blank
+Super Cannon L	Blank
+Super Cannon	Blank
+Minion Summon	Blank
+Rapidfire	Blank
+Barrage	Blank
+Magatsu Crush	Blank
+Soulless Cannon	Blank
+Magatsu Crush	Blank
+Soulless Rain	Blank
+Tentacle Whip	Blank
+Turdak dead	Blank
+Ichimokuren dead	Blank
+Red Cape teleport	Blank
+Rasputin attack	Blank
+Explode	Blank
+Soulless Beam	Blank
+Gang/Yakuza dead	Blank
+Red Cape dead	Blank
+Matryoshka summon	Blank
+Matryoshka in	Blank
+Naga dead	Blank
+Abi dead	Blank
+Hitokoto Morph 1	Blank
+Hitokoto Morph 2	Blank
+Hitokoto Morph 3	Blank
+Hitokoto dead	Blank
+Prism boss dead	Blank
+Munakata dead	Blank
+Yaso dead	Blank
+Shoot	Blank
+Teleport	Blank
+Teleport	Blank
+Okiku appear	Blank
+Cherno-mob dead	Blank
+Cherno-boss dead	Blank
+Rasputin incap	Blank
+Rasputin dead	Blank
+Anzu fly	Blank
+Mishaguji dead	Blank
+Yaso right dead	Blank
+Yaso left dead	Blank
+Arahabaki dead	Blank
+Tai-itsu dead	Blank
+Tai-itsu barrier	Blank
+Tai-itsu barrier off	Blank
+Oboro dead	Blank
+Red Cape escape	Blank
+Summon	Blank
+Samurai Frost	Blank
+R	Blank
+R	Blank
+R	Blank
+R	Blank

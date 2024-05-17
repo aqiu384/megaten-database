@@ -15,6 +15,7 @@
   "enemyStats": { "begin": "0x00", "count": "0x30F", "length": "0x44" },
   "demonStats": { "begin": "0x00", "count": "0x1D0", "length": "0xE" },
   "demonSkills": { "begin": "0x00", "count": "0x1D0", "length": "0x46" },
+  "skillPowers": { "begin": "0x00", "count": "0x320", "length": "0x30" },
   "demonIds": "p5r-demon-ids.tsv",
   "enemyIds": "p5r-enemy-ids.tsv",
   "skillEffects": "skill-effects.tsv",

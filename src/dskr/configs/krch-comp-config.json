@@ -1,0 +1,19 @@
+{
+  "demonIds": "krch-data/demon-ids.tsv",
+  "skillIds": "krch-data/skill-descs.tsv",
+  "demonSkillDump": {
+    "file": "dumps/krch-demons.bin",
+    "start": 0,
+    "length": 112
+  },
+  "demonResistDump": {
+    "file": "dumps/krch-demons.bin",
+    "start": 37632,
+    "length": 64
+  },  
+  "skillDump": {
+    "file": "dumps/krch-skills.bin",
+    "start": 0,
+    "length": 52
+  }
+}

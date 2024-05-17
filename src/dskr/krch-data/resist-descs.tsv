@@ -1,0 +1,352 @@
+AISYOHELP_000	Aisho Help 000
+AISYOHELP_001	Weak:ice Drain:fire
+AISYOHELP_002	Weak:ice Strong:fire \nNull:gun/mind/death
+AISYOHELP_003	Weak:ice Strong:fire/mind \nNull:gun
+AISYOHELP_004	Weak:ice Drain:fire
+AISYOHELP_005	Weak:ice/death \nDrain:gun/fire
+AISYOHELP_006	Weak:ice \nNull:elec/force/death \nDrain:fire
+AISYOHELP_007	Weak:fire Null:gun/death \nDrain:force
+AISYOHELP_008	Weak:ice \nStrong:gun/elec/mind \nNull:fire Drain:death
+AISYOHELP_009	Weak:fire Strong:ice/mind \nNull:death
+AISYOHELP_00A	Weak:fire Null:ice
+AISYOHELP_00B	Weak:fire Drain:ice
+AISYOHELP_00C	Weak:fire \nStrong:phys/ice/elec
+AISYOHELP_00D	Weak:ice Null:fire
+AISYOHELP_00E	Weak:phys \nNull:fire/ice/elec/force/\ndeath
+AISYOHELP_00F	Weak:fire Strong:elec \nNull:ice
+AISYOHELP_010	Weak:fire/force \nStrong:phys/ice Null:death
+AISYOHELP_011	Weak:fire Strong:ice \nNull:gun/death
+AISYOHELP_012	Weak:elec Drain:ice/gun
+AISYOHELP_013	Weak:force Null:death \nDrain:elec
+AISYOHELP_014	Weak:ice Null:gun \nDrain:elec
+AISYOHELP_015	Weak:fire Strong:force \nNull:elec
+AISYOHELP_016	Weak:ice/force \nStrong:phys/elec
+AISYOHELP_017	Weak:force Strong:phys \nDrain:elec
+AISYOHELP_018	Weak:force/death \nStrong:phys/elec
+AISYOHELP_019	Weak:ice Strong:phys/mind \nNull:elec/death
+AISYOHELP_01A	Weak:force Drain:elec
+AISYOHELP_01B	Weak:fire Strong:elec/force
+AISYOHELP_01C	Weak:fire/death Null:force \nDrain:elec
+AISYOHELP_01D	Weak:fire/elec Strong:force \nNull:gun/mind/death
+AISYOHELP_01E	Weak:death \nStrong:fire/ice/elec/force
+AISYOHELP_01F	Weak:elec Drain:force
+AISYOHELP_020	Weak:death \nStrong:fire/ice/elec/force
+AISYOHELP_021	Weak:all
+AISYOHELP_022	Weak:elec Null:fire
+AISYOHELP_023	Weak:elec Null:force
+AISYOHELP_024	Weak:death Null:force
+AISYOHELP_025	Weak:ice/force Null:death
+AISYOHELP_026	Weak:elec Strong:phys
+AISYOHELP_027	Weak:fire/force \nStrong:phys
+AISYOHELP_028	Weak:force Strong:mind
+AISYOHELP_029	Weak:elec Drain:death
+AISYOHELP_02A	Weak:force
+AISYOHELP_02B	Weak:force Strong:phys \nNull:gun Drain:ice
+AISYOHELP_02C	Weak:fire Strong:ice \nNull:death
+AISYOHELP_02D	Weak:ice Drain:fire
+AISYOHELP_02E	Weak:death \nStrong:phys/ice/force
+AISYOHELP_02F	Weak:elec Strong:phys \nNull:mind/death
+AISYOHELP_030	Weak:ice Strong:phys \nNull:death Drain:fire
+AISYOHELP_031	Weak:fire/force \nNull:death Drain:ice
+AISYOHELP_032	Weak:fire
+AISYOHELP_033	Weak:phys/force \nNull:death Drain:fire
+AISYOHELP_034	Weak:fire/ice
+AISYOHELP_035	Weak:fire Null:ice
+AISYOHELP_036	Weak:fire Null:death \nDrain:elec
+AISYOHELP_037	Weak:elec Drain:death
+AISYOHELP_038	Weak:ice Null:phys
+AISYOHELP_039	Weak:force Null:phys/death
+AISYOHELP_03A	Strong:phys/ice/elec/force \nNull:mind Drain:death
+AISYOHELP_03B	Weak:fire Strong:mind \nNull:ice
+AISYOHELP_03C	Weak:elec Strong:mind \nDrain:death
+AISYOHELP_03D	Weak:phys/death \nDrain:fire/ice/elec/\nforce/mind
+AISYOHELP_03E	Weak:death Strong:mind
+AISYOHELP_03F	Weak:fire Strong:ice/elec \nNull:death
+AISYOHELP_040	Weak:elec Strong:mind \nNull:force
+AISYOHELP_041	Null:mind Drain:gun
+AISYOHELP_042	Null:mind Drain:ice
+AISYOHELP_043	Weak:elec Strong:mind \nDrain:force
+AISYOHELP_044	Weak:ice Strong:fire/elec \nNull:death
+AISYOHELP_045	Null:death
+AISYOHELP_046	Strong:gun Null:death
+AISYOHELP_047	Weak:ice Null:fire
+AISYOHELP_048	Null:ice Drain:phys
+AISYOHELP_049	Null:elec Drain:mind
+AISYOHELP_04A	Null:force Drain:death
+AISYOHELP_04B	Null:fire
+AISYOHELP_04C	Aisho Help 04C
+AISYOHELP_04D	Aisho Help 04D
+AISYOHELP_04E	Aisho Help 04E
+AISYOHELP_04F	Aisho Help 04F
+AISYOHELP_050	Aisho Help 050
+AISYOHELP_051	Weak:ice Drain:fire
+AISYOHELP_052	Weak:ice Strong:fire \nNull:gun/mind/death
+AISYOHELP_053	Weak:ice Strong:fire/mind \nNull:gun
+AISYOHELP_054	Weak:ice Drain:fire
+AISYOHELP_055	Weak:ice/death \nDrain:gun/fire
+AISYOHELP_056	Weak:ice \nNull:elec/force/death \nDrain:fire
+AISYOHELP_057	Weak:fire Null:gun/death \nDrain:force
+AISYOHELP_058	Weak:ice \nStrong:gun/elec/mind \nNull:fire Drain:death
+AISYOHELP_059	Weak:fire Strong:ice/mind \nNull:death
+AISYOHELP_05A	Weak:fire Null:ice
+AISYOHELP_05B	Weak:fire Drain:ice
+AISYOHELP_05C	Weak:fire \nStrong:phys/ice/elec
+AISYOHELP_05D	Weak:ice Null:fire
+AISYOHELP_05E	Weak:phys \nNull:fire/ice/elec/force/\ndeath
+AISYOHELP_05F	Weak:fire Strong:elec \nNull:ice
+AISYOHELP_060	Weak:fire/force \nStrong:phys/ice Null:death
+AISYOHELP_061	Weak:fire Strong:ice \nNull:gun/death
+AISYOHELP_062	Weak:elec Drain:ice/gun
+AISYOHELP_063	Weak:force Null:death \nDrain:elec
+AISYOHELP_064	Weak:ice Null:gun \nDrain:elec
+AISYOHELP_065	Weak:fire Strong:force \nNull:elec
+AISYOHELP_066	Weak:ice/force \nStrong:phys/elec
+AISYOHELP_067	Weak:force \nStrong:phys Drain:elec
+AISYOHELP_068	Weak:force/death \nStrong:phys/elec
+AISYOHELP_069	Weak:ice Strong:phys/mind \nNull:elec/death
+AISYOHELP_06A	Weak:force Drain:elec
+AISYOHELP_06B	Weak:fire Strong:elec/force
+AISYOHELP_06C	Weak:fire/death Null:force \nDrain:elec
+AISYOHELP_06D	Weak:fire/elec Strong:force \nNull:gun/mind/death
+AISYOHELP_06E	Weak:death \nStrong:fire/ice/elec/force
+AISYOHELP_06F	Weak:elec Drain:force
+AISYOHELP_070	Weak:death \nStrong:fire/ice/elec/force
+AISYOHELP_071	Weak:all
+AISYOHELP_072	Weak:elec Null:fire
+AISYOHELP_073	Weak:elec Null:force
+AISYOHELP_074	Weak:death Null:force
+AISYOHELP_075	Weak:ice/force Null:death
+AISYOHELP_076	Weak:elec Strong:phys
+AISYOHELP_077	Weak:fire/force \nStrong:phys
+AISYOHELP_078	Weak:force Strong:mind
+AISYOHELP_079	Weak:elec Drain:death
+AISYOHELP_07A	Weak:force
+AISYOHELP_07B	Weak:force Strong:phys \nNull:gun Drain:ice
+AISYOHELP_07C	Weak:fire Strong:ice \nNull:death
+AISYOHELP_07D	Weak:ice Drain:fire
+AISYOHELP_07E	Weak:death \nStrong:phys/ice/force
+AISYOHELP_07F	Weak:elec Strong:phys \nNull:mind/death
+AISYOHELP_080	Weak:ice Strong:phys \nNull:death Drain:fire
+AISYOHELP_081	Weak:fire/force \nNull:death Drain:ice
+AISYOHELP_082	Weak:fire
+AISYOHELP_083	Weak:phys/force \nNull:death Drain:fire
+AISYOHELP_084	Weak:fire/ice
+AISYOHELP_085	Weak:fire Null:ice
+AISYOHELP_086	Weak:fire Null:death \nDrain:elec
+AISYOHELP_087	Weak:elec Drain:death
+AISYOHELP_088	Weak:ice Null:phys
+AISYOHELP_089	Weak:force \nNull:phys/mind/death
+AISYOHELP_08A	Strong:gun/fire/ice/elec/force \nNull:mind Drain:death
+AISYOHELP_08B	Weak:fire Strong:mind \nNull:ice
+AISYOHELP_08C	Weak:elec Strong:mind \nDrain:death
+AISYOHELP_08D	Weak:phys/death \nDrain:fire/ice/elec/\nforce/mind
+AISYOHELP_08E	Weak:death Strong:mind
+AISYOHELP_08F	Weak:fire Strong:ice/elec \nNull:death
+AISYOHELP_090	Weak:elec Strong:mind \nNull:force
+AISYOHELP_091	Weak:fire/ice/force/elec/\ndeath Strong:phys \nNull:mind Drain:gun
+AISYOHELP_092	Weak:fire Strong:ice/elec
+AISYOHELP_093	Weak:fire Strong:ice/elec
+AISYOHELP_094	Weak:fire Strong:ice/elec
+AISYOHELP_095	Weak:fire Strong:ice/elec
+AISYOHELP_096	Weak:elec Strong:mind \nDrain:force
+AISYOHELP_097	Aisho Help 097
+AISYOHELP_098	Weak:ice
+AISYOHELP_099	Null:mind Drain:ice
+AISYOHELP_09A	Null:death
+AISYOHELP_09B	Strong:fire Null:death
+AISYOHELP_09C	Weak:ice Strong:fire/elec \nNull:death
+AISYOHELP_09D	Strong:gun Null:death
+AISYOHELP_09E	Weak:ice Null:fire
+AISYOHELP_09F	Aisho Help 09F
+AISYOHELP_0A0	Weak:fire Strong:ice/elec
+AISYOHELP_0A1	Weak:fire Strong:ice/elec
+AISYOHELP_0A2	Weak:ice Null:fire
+AISYOHELP_0A3	Weak:fire Null:death \nDrain:elec
+AISYOHELP_0A4	Weak:fire \nStrong:phys/ice/elec \nNull:death
+AISYOHELP_0A5	Weak:fire/force \nNull:death Drain:ice
+AISYOHELP_0A6	Weak:fire/force
+AISYOHELP_0A7	Weak:fire Strong:ice/elec
+AISYOHELP_0A8	Weak:fire Null:death Drain:ice
+AISYOHELP_0A9	Weak:fire Null:death Drain:ice
+AISYOHELP_0AA	Weak:force Strong:phys \nNull:gun Drain:ice
+AISYOHELP_0AB	Weak:elec Null:force
+AISYOHELP_0AC	Weak:fire Strong:ice/elec
+AISYOHELP_0AD	Weak:ice
+AISYOHELP_0AE	Weak:force Strong:phys \nDrain:elec
+AISYOHELP_0AF	Weak:force Null:death \nDrain:elec
+AISYOHELP_0B0	Weak:elec Drain:ice/gun
+AISYOHELP_0B1	Weak:fire Drain:ice
+AISYOHELP_0B2	Weak:ice Strong:phys \nNull:death Drain:fire
+AISYOHELP_0B3	Weak:ice Drain:fire
+AISYOHELP_0B4	Weak:phys \nNull:fire/ice/elec/force/\ndeath Drain:mind
+AISYOHELP_0B5	Weak:fire/force \nStrong:phys/ice Null:death
+AISYOHELP_0B6	Weak:death
+AISYOHELP_0B7	Weak:ice Null:gun \nDrain:elec
+AISYOHELP_0B8	Weak:fire Null:death \nDrain:elec
+AISYOHELP_0B9	Weak:force Strong:phys \nNull:gun Drain:ice
+AISYOHELP_0BA	Weak:fire Strong:ice/elec
+AISYOHELP_0BB	Weak:fire Strong:force \nNull:elec
+AISYOHELP_0BC	Weak:elec
+AISYOHELP_0BD	Weak:gun
+AISYOHELP_0BE	Weak:fire
+AISYOHELP_0BF	Weak:ice
+AISYOHELP_0C0	Weak:force
+AISYOHELP_0C1	Weak:elec
+AISYOHELP_0C2	Weak:gun
+AISYOHELP_0C3	Weak:fire
+AISYOHELP_0C4	Weak:ice
+AISYOHELP_0C5	Weak:elec
+AISYOHELP_0C6	Weak:gun
+AISYOHELP_0C7	Weak:gun
+AISYOHELP_0C8	Weak:gun
+AISYOHELP_0C9	Weak:fire
+AISYOHELP_0CA	Weak:ice
+AISYOHELP_0CB	Weak:elec
+AISYOHELP_0CC	Weak:force
+AISYOHELP_0CD	Weak:phys
+AISYOHELP_0CE	Weak:gun
+AISYOHELP_0CF	Weak:fire
+AISYOHELP_0D0	Weak:ice
+AISYOHELP_0D1	Weak:elec
+AISYOHELP_0D2	Weak:force
+AISYOHELP_0D3	Weak:phys
+AISYOHELP_0D4	Weak:gun
+AISYOHELP_0D5	Weak:phys/force \nNull:death Drain:fire
+AISYOHELP_0D6	Weak:death \nStrong:phys/ice/force
+AISYOHELP_0D7	Weak:ice Drain:fire
+AISYOHELP_0D8	Weak:ice Drain:fire
+AISYOHELP_0D9	Weak:fire Strong:ice/elec
+AISYOHELP_0DA	Weak:fire Strong:ice/elec
+AISYOHELP_0DB	Weak:ice
+AISYOHELP_0DC	Weak:fire Strong:ice/mind \nNull:death
+AISYOHELP_0DD	Weak:elec Strong:mind \nDrain:death
+AISYOHELP_0DE	Weak:elec Strong:phys
+AISYOHELP_0DF	Weak:fire Strong:force \nNull:elec
+AISYOHELP_0E0	Weak:phys/force \nNull:death Drain:fire
+AISYOHELP_0E1	Weak:elec Strong:mind \nDrain:force
+AISYOHELP_0E2	Weak:ice/force Null:death
+AISYOHELP_0E3	Weak:elec Drain:death
+AISYOHELP_0E4	Weak:fire/force \nNull:death Drain:ice
+AISYOHELP_0E5	Weak:elec Drain:force
+AISYOHELP_0E6	Weak:fire Strong:ice/mind \nNull:death
+AISYOHELP_0E7	Weak:ice Null:fire
+AISYOHELP_0E8	Weak:force \nNull:phys/mind/death
+AISYOHELP_0E9	Weak:fire Strong:ice/elec
+AISYOHELP_0EA	Weak:force/death \nStrong:phys/elec
+AISYOHELP_0EB	Weak:fire/force \nStrong:phys/ice Null:death
+AISYOHELP_0EC	Weak:ice Null:phys
+AISYOHELP_0ED	Aisho Help 0ED
+AISYOHELP_0EE	Aisho Help 0EE
+AISYOHELP_0EF	Aisho Help 0EF
+AISYOHELP_0F0	Aisho Help 0F0
+AISYOHELP_0F1	Aisho Help 0F1
+AISYOHELP_0F2	Weak:phys \nNull:fire/ice/elec/force/\ndeath Drain:mind
+AISYOHELP_0F3	Weak:ice Null:phys
+AISYOHELP_0F4	Weak:force
+AISYOHELP_0F5	Aisho Help 0F5
+AISYOHELP_0F6	Aisho Help 0F6
+AISYOHELP_0F7	Aisho Help 0F7
+AISYOHELP_0F8	Aisho Help 0F8
+AISYOHELP_0F9	Aisho Help 0F9
+AISYOHELP_0FA	Aisho Help 0FA
+AISYOHELP_0FB	Aisho Help 0FB
+AISYOHELP_0FC	Aisho Help 0FC
+AISYOHELP_0FD	Aisho Help 0FD
+AISYOHELP_0FE	Aisho Help 0FE
+AISYOHELP_0FF	Aisho Help 0FF
+AISYOHELP_100	Aisho Help 100
+AISYOHELP_101	Aisho Help 101
+AISYOHELP_102	Aisho Help 102
+AISYOHELP_103	Aisho Help 103
+AISYOHELP_104	Aisho Help 104
+AISYOHELP_105	Weak:all
+AISYOHELP_106	Weak:elec \nfire/ice/force \nNull:gun/death
+AISYOHELP_107	Weak:all
+AISYOHELP_108	Weak:force \nNull:phys/mind/death
+AISYOHELP_109	Aisho Help 109
+AISYOHELP_10A	Aisho Help 10A
+AISYOHELP_10B	Weak:ice Strong:mind \nNull:gun/elec/death
+AISYOHELP_10C	Weak:fire Strong:ice/elec \nNull:death
+AISYOHELP_10D	Weak:ice Strong:fire/elec \nNull:death
+AISYOHELP_10E	Normal resistance
+AISYOHELP_10F	Normal resistance
+AISYOHELP_110	Strong:fire Null:death
+AISYOHELP_111	Strong:fire Null:death
+AISYOHELP_112	Strong:fire Null:death
+AISYOHELP_113	Strong:phys Null:mind
+AISYOHELP_114	Strong:phys Null:mind
+AISYOHELP_115	Strong:phys Null:mind
+AISYOHELP_116	Strong:phys Null:mind
+AISYOHELP_117	Strong:phys Null:mind
+AISYOHELP_118	Strong:phys Null:mind
+AISYOHELP_119	Strong:phys Null:mind
+AISYOHELP_11A	Null:mind
+AISYOHELP_11B	Null:mind
+AISYOHELP_11C	Null:mind
+AISYOHELP_11D	Weak:ice Null:death Drain:force
+AISYOHELP_11E	Weak:elec Null:death Drain:force
+AISYOHELP_11F	Aisho Help 11F
+AISYOHELP_120	Weak:phys/death Strong:gun \nNull:mind Drain:force
+AISYOHELP_121	Weak:fire Null:death Drain:force
+AISYOHELP_122	Weak:elec Null:fire/death
+AISYOHELP_123	Weak:fire/ice/elec/force \nStrong:phys Null:gun/death
+AISYOHELP_124	Normal resistance
+AISYOHELP_125	Weak:ice/force
+AISYOHELP_126	Normal resistance
+AISYOHELP_127	Aisho Help 127
+AISYOHELP_128	Aisho Help 128
+AISYOHELP_129	Weak:elec Null:fire/death
+AISYOHELP_12A	Weak:fire/force
+AISYOHELP_12B	Strong:fire Null:death
+AISYOHELP_12C	Weak:elec \nStrong:fire/ice/force \nNull:gun/death
+AISYOHELP_12D	Weak:all
+AISYOHELP_12E	Weak:all
+AISYOHELP_12F	Weak:force Strong:phys \nNull:gun Drain:ice
+AISYOHELP_130	Weak:ice Strong:fire/elec \nNull:death
+AISYOHELP_131	Weak:fire Strong:ice/elec \nNull:death
+AISYOHELP_132	Weak:fire Null:death Drain:force
+AISYOHELP_133	Weak:elec Null:death Drain:force
+AISYOHELP_134	Weak:ice Null:death Drain:force
+AISYOHELP_135	Weak:phys/death Strong:gun \nNull:mind Drain:force
+AISYOHELP_136	Weak:ice Strong:mind \nNull:gun/elec/death
+AISYOHELP_137	Strong:phys Null:mind
+AISYOHELP_138	Aisho Help 138
+AISYOHELP_139	Aisho Help 139
+AISYOHELP_13A	Aisho Help 13A
+AISYOHELP_13B	Aisho Help 13B
+AISYOHELP_13C	Aisho Help 13C
+AISYOHELP_13D	Aisho Help 13D
+AISYOHELP_13E	Aisho Help 13E
+AISYOHELP_13F	Aisho Help 13F
+AISYOHELP_140	Aisho Help 140
+AISYOHELP_141	Aisho Help 141
+AISYOHELP_142	Aisho Help 142
+AISYOHELP_143	Aisho Help 143
+AISYOHELP_144	Aisho Help 144
+AISYOHELP_145	Aisho Help 145
+AISYOHELP_146	Aisho Help 146
+AISYOHELP_147	Aisho Help 147
+AISYOHELP_148	Aisho Help 148
+AISYOHELP_149	Aisho Help 149
+AISYOHELP_14A	Aisho Help 14A
+AISYOHELP_14B	Aisho Help 14B
+AISYOHELP_14C	Aisho Help 14C
+AISYOHELP_14D	Aisho Help 14D
+AISYOHELP_14E	Aisho Help 14E
+AISYOHELP_14F	Aisho Help 14F
+AISYOHELP_150	Normal resistance
+AISYOHELP_151	Strong:fire
+AISYOHELP_152	Strong:ice
+AISYOHELP_153	Strong:elec
+AISYOHELP_154	Strong:force
+AISYOHELP_155	Strong:phys
+AISYOHELP_156	Strong:death
+AISYOHELP_157	Strong:mind
+AISYOHELP_158	Aisho Help 158
+AISYOHELP_159	Aisho Help 159
+AISYOHELP_15A	Aisho Help 15A
+AISYOHELP_15B	Aisho Help 15B
+AISYOHELP_15C	Aisho Help 15C
+AISYOHELP_15D	Aisho Help 15D
+AISYOHELP_15E	Aisho Help 15E
+AISYOHELP_15F	Aisho Help 15F
