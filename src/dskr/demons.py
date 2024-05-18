@@ -3,7 +3,7 @@ import struct
 import json
 from shared import load_id_file, save_ordered_demons
 
-GAME = 'krch'
+GAME = 'krao'
 
 RES_LVLS = {
     0: '-',
@@ -40,7 +40,7 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     skills = { SKILL_IDS[x]: SKILL_LVLS[i] for i, x in enumerate(skills) if x != 0 }
     for sname, slvl in skills.items():
         if 1 <= slvl:
-            slvl += lvl
+            skills[sname] = lvl + slvl
 
     if int(included) != 1:
         continue

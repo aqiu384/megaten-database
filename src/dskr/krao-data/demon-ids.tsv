@@ -1,0 +1,577 @@
+en	included
+Raidou	0
+Ukobach	1
+Pyro Jack	1
+Orthrus	1
+Oshichi	1
+Sati	1
+Gdon	1
+Throne	1
+Cerberus	1
+Muspell	1
+Belial	1
+Onmoraki	1
+Enku	1
+Vritra	1
+Mada	1
+Kagutsuchi	1
+Asura	1
+Lucifer	1
+Pyro reserve 1	0
+Pyro reserve 2	0
+Pyro reserve 3	0
+Pyro reserve 4	0
+Azumi	1
+Jack Frost	1
+Raiho	1
+Jubokko	1
+Oukuninushi	1
+Raja Naga	1
+Tarrasque	1
+Ouyamatsumi	1
+Arahabaki	1
+Orochi	1
+Preta	1
+Chou-keshin	1
+Pabilsag	1
+Alraune	1
+Black Ooze	1
+Long	1
+Basilisk	1
+Arioch	1
+Alraune	1
+Frost reserve 1	0
+Frost reserve 3	0
+Frost reserve 4	0
+Agathion	1
+Raiju	1
+Tsuchigumo	1
+Oboroguruma	1
+Nue	1
+Parvati	1
+Mishaguji	1
+Oumitsunu	1
+Thor	1
+Koropokkur	1
+Makami	1
+Nandi	1
+Cybele	1
+Baek Yong	1
+Barong	1
+Astaroth	1
+Vishnu	1
+Volt reserve 1	0
+Volt reserve 2	0
+Volt reserve 3	0
+Volt reserve 4	0
+Poltergeist	1
+Moh Shuvuu	1
+Anzu	1
+Feng Huang	1
+Ichimokuren	1
+Kurama	1
+Hitokotonusi	1
+Power	1
+Sandalphon	1
+Angel	1
+Archangel	1
+Decarabia	1
+Kohryu	1
+Dominion	1
+Camael	1
+Ophanim	1
+Metatron	1
+Wind reserve 1	0
+Wind reserve 2	0
+Wind reserve 3	0
+Wind reserve 4	0
+Obariyon	1
+Turdak	1
+Oni	1
+Lamia	1
+Chernobog	1
+Yoshitsune	1
+Ikusa	1
+Triglav	1
+Rakshasa	1
+Shouten	1
+Siegfried	1
+Susano-o	1
+Slime	1
+Gozuki	1
+Mezuki	1
+Nezha	1
+Atavaka	1
+Fenrir	1
+Cu Chulainn	1
+Mahakala	1
+Shiva	1
+Masakado	1
+Wind reserve 1	0
+Wind reserve 2	0
+Wind reserve 3	0
+Wind reserve 4	0
+Alp	1
+Mokoi	1
+Okiku-mushi	1
+Ghoul	1
+Utai-gaikotsu	1
+Nebiros	1
+Gashadokuro	1
+Incubus	1
+Lilith	1
+Beelzebub	1
+Sandman	1
+Inugami	1
+Lilim	1
+Jorougumo	1
+Black Frost	1
+Arachne	1
+Rangda	1
+Mot	1
+Mara	1
+Pagan reserve 1	0
+Pagan reserve 2	0
+Pagan reserve 3	0
+Pagan reserve 4	0
+Ippon-datara	1
+Leanan Sidhe	1
+Nekomata	1
+Thoth	1
+Nagasunehiko	1
+Abihiko	1
+Scathach	1
+Kudan	1
+Futsunushi	1
+Legion	1
+Legion	1
+Legion	1
+Legion	1
+Legion	1
+Pixie	1
+Blob	1
+Selket	1
+Oberon	1
+Titania	1
+Tam Lin	1
+Mikaboshi	1
+Taotie	1
+Belphegor	1
+High Pixie	1
+Tam Lin	1
+Skill reserve 3	0
+Skill reserve 4	0
+Undine	1
+Sylph	1
+Aquans	1
+Aeros	1
+Flaemis	1
+Erthys	1
+Spirit reserve 1	0
+Spirit reserve 2	0
+Spirit reserve 3	0
+Spirit reserve 4	0
+Kusi Mitama	1
+Ara Mitama	1
+Nigi Mitama	1
+Saki Mitama	1
+Mitama reserve 1	0
+Mitama reserve 2	0
+Mitama reserve 3	0
+Mitama reserve 4	0
+Alice	1
+White Rider	1
+Red Rider	1
+Black Rider	1
+Pale Rider	1
+Kageboushi	1
+Binbou-gami	1
+Yakubyou-gami	1
+Fiend reserve 1	0
+Fiend reserve 2	0
+Fiend reserve 3	0
+Fiend reserve 4	0
+Zombie	1
+Zombie Officer	1
+Zombie Guard	1
+Zombie Lady	1
+Red Cape	1
+Yomi-kugutsu	1
+Yomi-kugutsu	1
+Yomi-kugutsu	1
+Hiruko	1
+Nesting Doll	1
+Nesting Skull	1
+City reserve 1	0
+City reserve 2	0
+City reserve 3	0
+City reserve 4	0
+0x0cf	0
+Ukobach	2
+Pyro Jack	2
+Orthrus	2
+Oshichi	2
+Sati	2
+Gdon	2
+Throne	2
+Cerberus	2
+Muspell	2
+Belial	2
+Onmoraki	2
+Enku	2
+Vritra	2
+Mada	2
+Kagutsuchi	2
+Asura	2
+Lucifer	2
+Pyro reserve 1	0
+Pyro reserve 2	0
+Pyro reserve 3	0
+Pyro reserve 4	0
+Azumi	2
+Jack Frost	2
+Raiho	2
+Jubokko	2
+Oukuninushi	2
+Raja Naga	2
+Tarrasque	2
+Ouyamatsumi	2
+Arahabaki	2
+Orochi	2
+Preta	2
+Chou-keshin	2
+Pabilsag	2
+Alraune	2
+Black Ooze	2
+Long	2
+Basilisk	2
+Arioch	2
+Frost reserve 1	0
+Frost reserve 2	0
+Frost reserve 3	0
+Frost reserve 4	0
+Agathion	2
+Raiju	2
+Tsuchigumo	2
+Rumored Oboroguruma	2
+Nue	2
+Parvati	2
+Mishaguji	2
+Oumitsunu	2
+Thor	2
+Koropokkur	2
+Makami	2
+Nandi	2
+Cybele	2
+Baek Yong	2
+Barong	2
+Astaroth	2
+Vishnu	2
+Volt reserve 1	0
+Volt reserve 2	0
+Volt reserve 3	0
+Volt reserve 4	0
+Poltergeist	2
+Moh Shuvuu	2
+Anzu	2
+Feng Huang	2
+Ichimokuren	2
+Kurama	2
+Hitokotonusi	2
+Power	2
+Sandalphon	2
+Angel	2
+Archangel	2
+Decarabia	2
+Kohryu	2
+Dominion	2
+Camael	2
+Ophanim	2
+Metatron	2
+Wind reserve 1	0
+Wind reserve 2	0
+Wind reserve 3	0
+Wind reserve 4	0
+Obariyon	2
+Turdak	2
+Oni	2
+Lamia	2
+Chernobog	2
+Yoshitsune	2
+Ikusa	2
+Triglav	2
+Rakshasa	2
+Shouten	2
+Siegfried	2
+Susano-o	2
+Slime	2
+Gozuki	2
+Mezuki	2
+Nezha	2
+Atavaka	2
+Fenrir	2
+Cu Chulainn	2
+Mahakala	2
+Shiva	2
+Masakado	2
+Fury reserve 1	0
+Fury reserve 2	0
+Fury reserve 3	0
+Fury reserve 4	0
+Alp	2
+Mokoi	2
+Okiku-mushi	2
+Ghoul	2
+Utai-gaikotsu	2
+Nebiros	2
+Gashadokuro	2
+Incubus	2
+Lilith	2
+Beelzebub	2
+Sandman	2
+Inugami	2
+Lilim	2
+Jorougumo	2
+Black Frost	2
+Arachne	2
+Rangda	2
+Mot	2
+Mara	2
+Pagan reserve 1	0
+Pagan reserve 2	0
+Pagan reserve 3	0
+Pagan reserve 4	0
+Ippon-datara	2
+Leanan Sidhe	2
+Nekomata	2
+Thoth	2
+Nagasunehiko	2
+Abihiko	2
+Scathach	2
+Kudan	2
+Futsunushi	2
+Legion	2
+Legion (Normal)	2
+Legion (Physical)	2
+Legion (Heal)	2
+Legion (Magic)	2
+Pixie	2
+Blob	2
+Selket	2
+Oberon	2
+Titania	2
+Tam Lin	2
+Mikaboshi	2
+Taotie	2
+Belphegor	2
+High Pixie	2
+Skill reserve 2	0
+Skill reserve 3	0
+Skill reserve 4	0
+Undine	2
+Sylph	2
+Aquans	2
+Aeros	2
+Flaemis	2
+Erthys	2
+Spirit reserve 1	0
+Spirit reserve 2	0
+Spirit reserve 3	0
+Spirit reserve 4	0
+Kusi Mitama	2
+Ara Mitama	2
+Nigi Mitama	2
+Saki Mitama	2
+Mitama reserve 1	0
+Mitama reserve 2	0
+Mitama reserve 3	0
+Mitama reserve 4	0
+Alice	2
+White Rider	2
+Red Rider	2
+Black Rider	2
+Pale Rider	2
+Kageboushi	2
+Binbou-gami	2
+Yakubyou-gami	2
+Fiend reserve 1	0
+Fiend reserve 2	0
+Fiend reserve 3	0
+Fiend reserve 4	0
+Zombie	2
+Zombie Officer	2
+Zombie Guard	2
+Zombie Lady	2
+Red Cape	2
+Yomi-kugutsu	2
+Yomi-kugutsu	2
+Yomi-kugutsu	2
+Hiruko	2
+Nesting Doll	2
+Nesting Skull	2
+City reserve 1	0
+City reserve 2	0
+City reserve 3	0
+City reserve 4	0
+Luck Locust	2
+Lucky Bug	2
+Blessed Bug	2
+0x1a1	0
+0x1a2	0
+0x1a3	0
+0x1a4	0
+0x1a5	0
+0x1a6	0
+0x1a7	0
+0x1a8	0
+0x1a9	0
+0x1aa	0
+0x1ab	0
+0x1ac	0
+0x1ad	0
+0x1ae	0
+0x1af	0
+0x1b0	0
+Mishaguji	2
+Hat-Wearing Figure	2
+Jiromaru	2
+Taromaru	2
+Black Mask	2
+Masked Man	2
+Dahn	2
+Tentomaru	2
+Dahn the Direct	2
+Akane the Patient	2
+Lucifer	2
+Lucifer	2
+Jiromaru	2
+Grey Mask	2
+Jiromaru	2
+Lord Tento	2
+Apollyon	2
+Apollyon	2
+Geirin Kuzunoha	2
+Predecessor Geirin	2
+Psycho Apollyon	2
+Apollyon	2
+Shinado	2
+Shinado	2
+Predecessor Shadow	2
+Lucifer	2
+Lucifer	2
+Lucifer	2
+Lucifer	2
+Shinado Pillar	2
+Shinado	2
+Preta Form	2
+Enku Form	2
+Koropokkur	2
+Pixie	2
+Ichimokuren	2
+Binbou-gami	2
+Binbou-gami	2
+Binbou-gami	2
+White Rider	2
+Kageboushi	2
+Red Rider	2
+Binbou-gami	2
+Yakubyou-gami	2
+Yakubyou-gami	2
+Yakubyou-gami	2
+Black Rider	2
+Baek Yong	2
+Long	2
+Vritra	2
+Great Kohryu	2
+Mikaboshi	2
+Pale Rider	2
+White Rider	2
+Red Rider	2
+Black Rider	2
+Pale Rider	2
+Ophanim	2
+Camael	2
+Astaroth	2
+Kageboushi	2
+Kageboushi	2
+Arioch	2
+Beelzebub	2
+Mara	2
+White Rider	2
+Red Rider	2
+Black Rider	2
+Pale Rider	2
+Gold Mask	2
+Rumored Makami	2
+Mot	2
+Masakado	2
+Rumored Basilisk	2
+Gozuki	2
+Mezuki	2
+Oberon	2
+Titania	2
+Jack Frost	2
+Oumitsunu	2
+Jack Frost	2
+Jorougumo	2
+Kagutsuchi	2
+Rangda	2
+Rumored Oboroguruma	2
+Taromaru	2
+Dahn	2
+Cerberus	2
+Parvati	2
+Taromaru	2
+Psycho Apollyon	2
+Cybele	2
+Atavaka	2
+Jack Frost	2
+Jumbo Frost	2
+Obariyon	2
+Obariyon	2
+Nekomata	2
+Moh Shuvuu	2
+Leanan Sidhe	2
+Okiku-mushi	2
+Shouten	2
+Lamia	2
+Taromaru	2
+Black Mask	2
+Arachne	2
+Lilith	2
+Lamia	2
+Mot	2
+Yomi-kugutsu 1	2
+Yomi-kugutsu 2	2
+Yomi-kugutsu 3	2
+Rumored Obariyon	2
+Feng Huang	2
+Ikusa	2
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0
+0x200	0

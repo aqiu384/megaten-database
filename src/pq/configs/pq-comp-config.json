@@ -5,6 +5,7 @@
   "demonIds": "pq-data/battle/table/personanametable.tsv",
   "enemyIds": "pq-data/battle/table/enemynametable.tsv",
   "skillIds": "pq-data/battle/table/skillnametable.tsv",
+  "partyIds": "pq-data/battle/table/party.tsv",
   "raceIds": "pq-data/battle/table/races.tsv",
   "itemIds": {
     "file": "pq-data/battle/table/drops.tsv",
@@ -22,6 +23,14 @@
     "start": 0,
     "end": -1,
     "length": 72
+  },
+  "partyDump": {
+    "file": "pq-data/battle/table/datmainpersonagrowth.bin",
+    "start": 0,
+    "end": -1,
+    "length": 2876,
+    "skillLength": 4,
+    "statStart": 132
   },
   "enemyDump": {
     "file": "pq-data/battle/table/enemydata.bin",

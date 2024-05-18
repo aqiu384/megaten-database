@@ -1,6 +1,6 @@
 {
-  "demonData": ["p4-demon-data.json"],
-  "enemyData": ["p4-enemy-data.json"],
+  "demonData": ["p4/data/demon-data.json"],
+  "enemyData": ["p4/data/enemy-data.json"],
   "gameAilments": ["Panic", "Poison", "Fear", "Rage", "Dizzy", "Exhaustion", "Enervation", "Mute"],
   "toolAilments": ["Panic", "Poison", "Fear", "Rage", "Dizzy", "Exhaustion", "Enervation", "Mute"],
   "gameResists": ["phy", "fir", "ice", "ele", "win", "alm", "lig", "dar"],
@@ -8,7 +8,7 @@
   "gameElems": ["rec", "sup", "spe"],
   "dataBlocks": [
     ["enemyStats", "enemyResists", "demonResists"],
-    ["demonStats", "demonSkills"],
+    ["demonStats", "demonSkills", "partySkills"],
     ["skillElems", "skillPowers"],
     ["skillRanks"]
   ],
@@ -17,16 +17,17 @@
   "demonResists": { "begin": "0x00", "count": "0x100", "length": "0x20" },
   "demonStats": { "begin": "0x00", "count": "0x100", "length": "0xE" },
   "demonSkills": { "begin": "0x00", "count": "0x100", "length": "0x46" },
+  "partySkills": { "begin": "0x00", "count": "0x10", "length": "0x26E" },
   "skillElems": { "begin": "0x00", "count": "0x240", "length": "0x02" },
   "skillPowers": { "begin": "0x00", "count": "0x1B8", "length": "0x28" },
   "skillRanks": { "begin": "0x00", "count": "0x240", "length": "0x01" },
+  "includedMax": 1,
   "skillRanksFile": "p4-skill-ranks.bin",
-  "inCompMax": 1,
   "demonIds": "p4-demon-ids.tsv",
   "enemyIds": "p4-enemy-ids.tsv",
   "skillIds": "p4-skill-ids.tsv",
   "skillEffects": "p4-skill-ids.tsv",
-  "itemsBegin": "0x0",
+  "itemsBegin": "0x300",
   "resistLvls": {
     "0": "-",
     "1": "n",

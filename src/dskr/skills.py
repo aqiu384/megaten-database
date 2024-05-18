@@ -3,7 +3,7 @@ import struct
 import json
 from shared import load_id_file
 
-GAME = 'krch'
+GAME = 'krao'
 
 ELEM_IDS = {
     0: 'spe',
@@ -17,11 +17,7 @@ ELEM_IDS = {
     128: 'min',
     256: 'alm',
     512: 'rec',
-    1024: 'spe',
-    4352: 'spe',
-    8448: 'spe',
-    16640: 'spe',
-    33024: 'spe'
+    1024: 'spe'
 }
 
 with open(f"configs/{GAME}-comp-config.json") as jsonfile:
@@ -39,13 +35,16 @@ END_OFFSET = START_OFFSET + len(SKILL_IDS) * LINE_LEN
 
 for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     line = NEW_SKILLS[line_start:line_start + LINE_LEN]
-    sname, included = SKILL_IDS[s_id].split('\t')
+    sname, included, desc = SKILL_IDS[s_id].split('\t')
 
     cost_type, cost, elem = struct.unpack('<3H', line[0x00:0x06])
     min_hit, max_hit = struct.unpack('<2B', line[0x10:0x12])
     power, = struct.unpack('<B', line[0x18:0x19])
+    elem = ELEM_IDS.get(elem, 'spe')
 
-    elem = ELEM_IDS[elem]
+    if int(included) != 1:
+        continue
+
     entry = {
         'cost': cost,
         'elem': elem,

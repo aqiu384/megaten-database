@@ -25,7 +25,7 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
     elem_flag = elem >> 8
     elem = 0xFF & elem
 
-    if included == 0 or COMP_CONFIG['inCompMax'] < included:
+    if included == 0 or COMP_CONFIG['includedMax'] < included:
         continue
 
     elem = 'pas' if elem_flag == 2 or elem == 255 else ELEM_IDS[elem]
@@ -46,7 +46,7 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
     ailment, = struct.unpack('<B', line[0x1C:0x1D])
     crit, = struct.unpack('<B', line[0x25:0x26])
 
-    if included == 0 or COMP_CONFIG['inCompMax'] < included:
+    if included == 0 or COMP_CONFIG['includedMax'] < included:
         continue
 
     OLD_SKILLS[sname].update({

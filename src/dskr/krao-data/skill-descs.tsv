@@ -1,0 +1,1281 @@
+en	inlcuded	desc
+0x000	0	Skill Help 000
+Agi	1	Light Fire dmg to an enemy \tStun: Short
+Agidyne	1	Heavy Splash Fire dmg \tStun: Long
+Maragi	1	Medium Fire dmg to an area \tStun: Med
+Maragidyne	1	Heavy Fire dmg to an area \tStun: Long
+Agirati	1	Medium Fire dmg, 3-way spread \t+Burn
+Hellfire	1	Light multi-hit Fire dmg \t+Burn
+Fire Breath	1	Heavy Piercing multi-hit \tFire dmg Stun: Med
+Hellfire	1	Severe Piercing Fire dmg \tStun: Extreme
+Lethal Flame	0	Skill Help 009
+R	0	Skill Help 00A
+R	0	Skill Help 00B
+R	0	Skill Help 00C
+R	0	Skill Help 00D
+R	0	Skill Help 00E
+R	0	Skill Help 00F
+Bufu	1	Light Ice dmg to an enemy \tStun: Short
+Bufudyne	1	Heavy Splash Ice dmg \tStun: Long
+Mabufu	1	Medium Ice dmg to an area \tStun: Med
+Mabufudyne	1	Heavy Ice dmg to an area \tStun: Long
+Bufurati	1	Medium Ice dmg, 3-way spread \t+Freeze
+Cocytus	1	Light multi-hit Ice dmg \t+Freeze
+Glacial Blast	1	Heavy Piercing multi-hit \tIce dmg Stun: Med
+Cocytus	1	Severe Piercing Ice dmg \tStun: Extreme
+R	0	Skill Help 018
+R	0	Skill Help 019
+R	0	Skill Help 01A
+R	0	Skill Help 01B
+R	0	Skill Help 01C
+R	0	Skill Help 01D
+R	0	Skill Help 01E
+R	0	Skill Help 01F
+Zio	1	Light Elec dmg to an enemy \tStun: Short
+Ziodyne	1	Heavy Splash Elec dmg \tStun: Long
+Mazio	1	Medium Elec dmg to an area \tStun: Med
+Maziodyne	1	Heavy Elec dmg to an area \tStun: Long
+Ziorati	1	Medium Elec dmg, 3-way spread \t+Shock
+Thunderbolt	1	Light multi-hit Elec dmg \t+Shock
+Shock Wave	1	Heavy Piercing multi-hit \tElec dmg Stun: Med
+Thunderbolt	1	Severe Piercing Elec dmg \tStun: Extreme
+R	0	Skill Help 028
+R	0	Skill Help 029
+R	0	Skill Help 02A
+R	0	Skill Help 02B
+R	0	Skill Help 02C
+R	0	Skill Help 02D
+R	0	Skill Help 02E
+R	0	Skill Help 02F
+Zan	1	Light Force dmg to an enemy \tStun: Short
+Zandyne	1	Heavy Splash Force dmg \tStun: Long
+Mazan	1	Medium Force dmg to an area \tStun: Med
+Mazandyne	1	Heavy Force dmg to an area \tStun: Long
+Zanrati	1	Medium Force dmg, 3-way spread \t+Impede
+Tempest	1	Light multi-hit Force dmg \t+Impede
+Wind Cutter	1	Heavy Piercing multi-hit \tForce dmg Stun: Med
+Tempest	1	Severe Piercing Force dmg \tStun: Extreme
+Flurry	0	Skill Help 038
+R	0	Skill Help 039
+R	0	Skill Help 03A
+R	0	Skill Help 03B
+R	0	Skill Help 03C
+R	0	Skill Help 03D
+R	0	Skill Help 03E
+R	0	Skill Help 03F
+Megidolaon	1	Severe Almighty dmg to all foes
+R	0	Skill Help 041
+R	0	Skill Help 042
+R	0	Skill Help 043
+R	0	Skill Help 044
+R	0	Skill Help 045
+R	0	Skill Help 046
+R	0	Skill Help 047
+R	0	Skill Help 048
+R	0	Skill Help 049
+R	0	Skill Help 04A
+Maragidyne	0	Skill Help 04B
+Mabufudyne	0	Skill Help 04C
+Maziodyne	0	Skill Help 04D
+Mazandyne	0	Skill Help 04E
+Mamudo	0	Skill Help 04F
+Mudo	1	Single target Death attack, \thalves HP Stun: Med
+Mamudo	1	Area Death attack, halves \tHP Stun: Med
+Mamudoon	1	Area Death attack, instantly \tlethal
+R	0	Skill Help 053
+R	0	Skill Help 054
+R	0	Skill Help 055
+R	0	Skill Help 056
+R	0	Skill Help 057
+R	0	Skill Help 058
+R	0	Skill Help 059
+R	0	Skill Help 05A
+R	0	Skill Help 05B
+R	0	Skill Help 05C
+R	0	Skill Help 05D
+R	0	Skill Help 05E
+R	0	Skill Help 05F
+Marin Karin	1	Light Mind dmg to an area \t+Charm(Med)
+Dormina	1	Light Mind dmg to an area \t+Sleep(Med)
+Pulinpa	1	Light Mind dmg to an area \t+Panic(Med)
+Makajam	1	Light Mind dmg to an area \t+Mute(Med)
+Petra	1	Light Mind dmg to an area \t+Stone(Low)
+R	0	Skill Help 065
+R	0	Skill Help 066
+R	0	Skill Help 067
+R	0	Skill Help 068
+R	0	Skill Help 069
+R	0	Skill Help 06A
+R	0	Skill Help 06B
+R	0	Skill Help 06C
+R	0	Skill Help 06D
+R	0	Skill Help 06E
+R	0	Skill Help 06F
+Dia	1	Slightly restores HP  \t1 ally
+Diarama	1	Moderately restores HP  \t1 ally
+Diarahan	1	Fully restores HP  \t1 ally
+Media	1	Slightly restores HP \tAll allies
+Patra	1	Cures Sleep, Panic, Charm, \tand Dizzy  1 ally
+Dia Aura	1	Gradually slightly restores HP \t1 ally
+Recarm	1	Revives target with some HP \t1 ally
+Samarecarm	1	Revives target with full HP \t1 ally
+State of Bliss	1	Gradually moderately restores HP \t1 ally
+Mediarama	1	Moderately restores HP \tAll allies
+R	0	Skill Help 07A
+R	0	Skill Help 07B
+R	0	Skill Help 07C
+R	0	Skill Help 07D
+R	0	Skill Help 07E
+R	0	Skill Help 07F
+Tarukaja	1	Raises Phys attack until \tbattle ends  All allies
+Makakaja	1	Raises Magic attack until \tbattle ends  All allies
+Rakukaja	1	Raises Defense until battle \tends  All allies
+War Cry	1	Briefly boosts Phys attack \tAll allies
+Makara Aura	1	Briefly boosts Magic defense \tAll allies
+Tetra Aura	1	Briefly boosts Phys defense \tAll allies
+Dekaja	1	Void stat boosts on all \tfoes
+R	0	Skill Help 087
+R	0	Skill Help 088
+R	0	Skill Help 089
+R	0	Skill Help 08A
+R	0	Skill Help 08B
+R	0	Skill Help 08C
+R	0	Skill Help 08D
+R	0	Skill Help 08E
+R	0	Skill Help 08F
+Tiger Thrust	1	Raidou's sword thrust
+Raidou Combo 1	1	Raidou's combo, 1st hit
+Raidou Combo 2	1	Raidou's combo, 2nd hit
+Raidou Combo 3	1	Raidou's combo, 3rd hit
+Dragon Cyclone	1	Raidou's charge attack
+Strike	1	Normal attack
+Combo	1	Light multi-hit Phys dmg \t+Dizzy(Low)
+Mighty Blow	1	Heavy Phys dmg to an enemy \t+Dizzy(Med)
+Frenzy	1	Light Phys dmg to an area \t+Dizzy(Low)
+Berserker	1	Light Phys dmg to an enemy \t+Rage
+Venomstrike	1	Light Phys dmg to an enemy \t+Poison(Med)
+Winged Fury	1	Medium Phys dmg, arc attack \t+Dizzy(Low)
+Rush	1	Light Phys dmg, dash attack \t+Dizzy(Low)
+Cross Slash	1	Heavy Phys dmg to all enemies \t+Dizzy(Low)
+Fiery Spiral	1	Area severe Phys dmg \t+Burn
+Frigid Spin	1	Area severe Phys dmg\t+Freeze
+Voltaic Ring	1	Area severe Phys dmg\t+Shock
+Gale Slash	1	Area severe Phys dmg\t+Impede
+Vile Storm	1	Area severe Phys dmg \t+Stun
+Raging Blast	1	Severe Phys dmg to all enemies \t+Dizzy(Med)
+Triple Hit 1	0	Skill Help 0A4
+Triple Hit 2	0	Skill Help 0A5
+Triple Hit 3	0	Skill Help 0A6
+Ogre Slash	0	Skill Help 0A7
+Mad Rush	1	Medium Phys dmg, dash attack \t+Dizzy(Low)
+R	0	Skill Help 0A9
+R	0	Skill Help 0AA
+R	0	Skill Help 0AB
+R	0	Skill Help 0AC
+R	0	Skill Help 0AD
+R	0	Skill Help 0AE
+R	0	Skill Help 0AF
+Normal Bullet	1	Light Gun dmg to an enemy
+Heavy Bullet	1	Single medium Gun dmg
+Fatal Bullet	1	Single heavy Gun dmg
+Fire Bullet	1	Single light Gun dmg \t+Burn
+Ice Bullet	1	Single light Gun dmg \t+Freeze
+Elec Bullet	1	Single light Gun dmg \t+Shock
+Force Bullet	1	Single light Gun dmg \t+Impede
+Phys Bullet	1	Single light Gun dmg \t+Dizzy
+Death Bullet	1	Single light Gun dmg \t+Stun
+Charm Bullet	1	Single light Gun dmg \t+Charm(low)
+Sleep Bullet	1	Single light Gun dmg \t+Sleep(low)
+Panic Bullet	1	Single light Gun dmg \t+Panic(low)
+Mute Bullet	1	Single light Gun dmg \t+Mute(low)
+Poison Bullet	1	Single light Gun dmg \t+Poison(low)
+Stone Bullet	1	Single light Gun dmg \t+Stone(low)
+Flame Shot	1	Single severe Gun dmg \t+Burn
+Freeze Shot	1	Single severe Gun dmg \t+Freeze
+Shock Shot	1	Single severe Gun dmg \t+Shock
+Blast Shot	1	Single severe Gun dmg \t+Impede
+Bane Shot	1	Single severe Gun dmg \t+Stun
+R	0	Skill Help 0C4
+R	0	Skill Help 0C5
+R	0	Skill Help 0C6
+R	0	Skill Help 0C7
+R	0	Skill Help 0C8
+R	0	Skill Help 0C9
+R	0	Skill Help 0CA
+R	0	Skill Help 0CB
+R	0	Skill Help 0CC
+R	0	Skill Help 0CD
+R	0	Skill Help 0CE
+R	0	Skill Help 0CF
+Null Fire	1	Briefly nullify Fire dmg \tAll allies
+Null Ice	1	Briefly nullify Ice dmg \tAll allies
+Null Elec	1	Briefly nullify Elec dmg \tAll allies
+Null Force	1	Briefly nullify Wind dmg \tAll allies
+Null Phys	1	Briefly nullify Phys dmg \tAll allies
+Null Death	1	Briefly nullify Death dmg \tAll allies
+Null Mind	1	Briefly nullify Mind dmg \tAll allies
+Fire Drain	1	Briefly drain Fire dmg \tAll allies
+Ice Drain	1	Briefly drain Ice dmg \tAll allies
+Elec Drain	1	Briefly drain Elec dmg \tAll allies
+Force Drain	1	Briefly drain Wind dmg \tAll allies
+Phys Drain	1	Briefly drain Phys dmg \tAll allies
+Freeze Time	1	Briefly stops all enemies' \tmovement
+Summon	1	Call for reinforcements
+R	0	Skill Help 0CE
+Death Drain	1	Briefly drain Death dmg \tAll allies
+R	0	Skill Help 0E0
+R	0	Skill Help 0E1
+R	0	Skill Help 0E2
+R	0	Skill Help 0E3
+Soulless Beam	0	Skill Help 0E4
+Soulless Beam	0	Skill Help 0E5
+Battleship dead	0	Skill Help 0E6
+Submerge near	0	Skill Help 0E7
+Surface near	0	Skill Help 0E8
+Submerge far	0	Skill Help 0E9
+Surface far	0	Skill Help 0EA
+Soulless Beam	0	Skill Help 0EB
+Right arm dead	0	Skill Help 0EC
+Left arm dead	0	Skill Help 0ED
+Final form wait	0	Skill Help 0EE
+Final form morph	0	Skill Help 0EF
+Retribution	1	Chance of heavy Almighty area dmg upon death
+First Aid	1	Restores HP after battle (Raidou and self)
+Hex	1	Restores HP gradually Area:self
+Dragon's Fury	1	High chance of countering with half dmg taken
+Capital's Fury	1	High chance of countering with all dmg taken
+Endure	1	Revive with 1 HP (once per battle)
+Fast Escape	1	Escape quicker if skill holder is present
+Money Find	1	Increases money earned (must be summoned)
+Item Find	1	Increases item drops (must be summoned)
+Quick Study	1	Increases EXP earned (must be summoned)
+Devotion	1	Increases Loyalty earned (must be summoned)
+Life Bonus	1	Raises MAX HP by 10%
+Life Gain	1	Raises MAX HP by 20%
+Life Surge	1	Raises MAX HP by 30%
+Mana Bonus	1	Raises MAX MP by 10%
+Mana Gain	1	Raises MAX MP by 20%
+Mana Surge	1	Raises MAX MP by 30%
+Hero's Might	1	Chance of increasing Phys attack dmg
+Mage's Craft	1	Chance of increasing Magic attack dmg
+Fire Boost	1	Increases Fire attack dmg
+Ice Boost	1	Increases Ice attack dmg
+Elec Boost	1	Increases Elec attack dmg
+Force Boost	1	Increases Force attack dmg
+Heal Boost	1	Increases healing ability
+Mind Boost	1	Increases chance of Mind ailment attack
+Fire Resist	1	Halves Fire dmg taken  Can void Weakness
+Ice Resist	1	Halves Ice dmg taken  Can void Weakness
+Elec Resist	1	Halves Elec dmg taken  Can void Weakness
+Force Resist	1	Halves Force dmg taken  Can void Weakness
+Phys Resist	1	Halves Phys dmg taken  Can void Weakness
+Pagan Shield	0	Skill Help 10E
+Mind Resist	0	Skill Help 10F
+R	0	Skill Help 110
+R	0	Skill Help 111
+R	0	Skill Help 112
+R	0	Skill Help 113
+R	0	Skill Help 114
+R	0	Skill Help 115
+R	0	Skill Help 116
+R	0	Skill Help 117
+R	0	Skill Help 118
+R	0	Skill Help 119
+R	0	Skill Help 11A
+R	0	Skill Help 11B
+R	0	Skill Help 11C
+Knockback	0	Skill Help 11D
+Touch Damage	0	Skill Help 11E
+Confine Fail	0	Skill Help 11F
+Program	0	Skill Help 120
+Burn Ailment	0	Skill Help 121
+Freeze Ailment	0	Skill Help 122
+Shock Ailment	0	Skill Help 123
+Impede Ailment	0	Skill Help 124
+Dizzy Ailment	0	Skill Help 125
+Stun Ailment	0	Skill Help 126
+Poison Ailment	0	Skill Help 127
+Sleep Ailment	0	Skill Help 128
+Panic Ailment	0	Skill Help 129
+Charm Ailment	0	Skill Help 12A
+Mute Ailment	0	Skill Help 12B
+Rage Ailment	0	Skill Help 12C
+R	0	Skill Help 12D
+R	0	Skill Help 12E
+R	0	Skill Help 12F
+R	0	Skill Help 130
+R	0	Skill Help 131
+R	0	Skill Help 132
+R	0	Skill Help 133
+R	0	Skill Help 134
+R	0	Skill Help 135
+R	0	Skill Help 136
+R	0	Skill Help 137
+R	0	Skill Help 138
+R	0	Skill Help 139
+R	0	Skill Help 13A
+R	0	Skill Help 13B
+R	0	Skill Help 13C
+R	0	Skill Help 13D
+R	0	Skill Help 13E
+R	0	Skill Help 13F
+Medicine	0	Skill Help 140
+Ox Bezoar	0	Skill Help 141
+Life Stone	0	Skill Help 142
+Muscle Drink	0	Skill Help 143
+Bead	0	Skill Help 144
+Bead of Life	0	Skill Help 145
+Chakra Chip	0	Skill Help 146
+Chakra Drop	0	Skill Help 147
+Chakra Pot	0	Skill Help 148
+Great Chakra	0	Skill Help 149
+Soma Drop	0	Skill Help 14A
+Soma	0	Skill Help 14B
+Anti-Poison	0	Skill Help 14C
+Anti-Mute	0	Skill Help 14D
+Anti-Stone	0	Skill Help 14E
+Anti-Mind	0	Skill Help 14F
+Jin Dan	0	Skill Help 150
+Balm of Life	0	Skill Help 151
+St Incense	0	Skill Help 152
+Ma Incense	0	Skill Help 153
+Vi Incense	0	Skill Help 154
+Lu Incense	0	Skill Help 155
+Mansaku Sake	0	Skill Help 156
+Homura Sake	0	Skill Help 157
+Fubuki Sake	0	Skill Help 158
+Raiden Sake	0	Skill Help 159
+Arashi Sake	0	Skill Help 15A
+Gouriki Sake	0	Skill Help 15B
+Yamiyo Sake	0	Skill Help 15C
+Takumi Sake	0	Skill Help 15D
+Shishiou Sake	0	Skill Help 15E
+Kotetsu Sake	0	Skill Help 15F
+R	0	Light mind dmg\t+charm Area:self (M)
+Repulse Water	0	Light mind dmg\t+sleep Area:self (M)
+Attract Water	0	Single light Mind dmg\t+panic  Single target
+Foxtail	0	Single light Mind dmg\t+mute  Single target
+Secret Handbook	0	Single light Mind dmg\t+stone  Line
+Smoke Ball	0	Skill Help 065
+Birdlime	0	Skill Help 066
+Great Birdlime	0	Skill Help 067
+Valhalla Soda	0	Skill Help 068
+Magical Soda	0	Skill Help 069
+Muscle Soda	0	Skill Help 06A
+Miracle Soda	0	Skill Help 06B
+Doctor Soda	0	Skill Help 06C
+Dragon Soda	0	Skill Help 06D
+Mandra Soda	0	Skill Help 06E
+Valhalla Nectar	0	Skill Help 06F
+Magical Nectar	0	Restores HP by little  \t1 ally
+Muscle Nectar	0	Restores HP moderately  \t1 ally
+Miracle Nectar	0	Restores HP fully  \t1 ally
+Elixir Pop	0	Restores HP by little  \tAll
+Midas Pop	0	Cures ailment  \t1 ally
+Harvest Pop	0	Restores little HP gradually  \t1 ally
+Deus Pop	0	Revives target with \tsome HP  1 ally
+Heal	0	Revives target with \tfull HP  1 ally
+Insect Cage	0	Skill Help 078
+Luck Locust SM	0	Skill Help 079
+Luck Locust MD	0	Skill Help 07A
+Luck Locust LG	0	Skill Help 07B
+Great Life Stone	0	Skill Help 07C
+Mystic Life Stone	0	Skill Help 07D
+R	0	Skill Help 07E
+R	0	Skill Help 07F
+Agi	0	Raises Phys attack for \tthe entire battle  All
+Agidyne	0	Raises Magic attack for \tthe entire battle  All
+Blaze	0	Raises defense for \tthe entire battle  All
+Hellfire	0	Boosts Phys attack for \ta short time  All
+Bufu	0	Boosts Magic defense for \ta short time  All
+Bufudyne	0	Boosts Phys defense for \ta short time  All
+Frostbite	0	Void stat boosts on all foes
+Cocytus	0	Skill Help 087
+Zio	0	Skill Help 088
+Ziodyne	0	Skill Help 089
+Spark	0	Skill Help 08A
+Bolt Storm	0	Skill Help 08B
+Zan	0	Skill Help 08C
+Zandyne	0	Skill Help 08D
+Flurry	0	Skill Help 08E
+Tempest	0	Skill Help 08F
+Mudo	0	Raidou sword thrust
+Marin Karin	0	Raidou combo 1st hit
+Dormina	0	Raidou combo 2nd hit
+Pulinpa	0	Raidou combo 3rd hit
+Makajam	0	Raidou charge attack
+Petra	0	Normal attack
+Media	0	Multiple light Phys dmg\t+dizzy  Single target
+Agi check	0	Single heavy Phys dmg\t+dizzy  Single target
+Slip fire check	0	Single medium Phys dmg\t+dizzy  Area:self(M)
+Multi fire check	0	Single light Phys dmg\t+rage  Single target
+Escape	0	Single light Phys dmg\t+poison  Single target
+Self-explode	0	Single medium Phys dmg\t+dizzy  Arc
+RESERVE	0	Single mega Phys dmg\t+dizzy  Line
+RESERVE	0	Single mega Phys dmg\t+dizzy  Cross
+Abi/Naga dead	0	Single mega Phys dmg\t+burn  Area:self(M)
+Abi/Naga teleport	0	Single mega Phys dmg\t+freeze  Area:self(M)
+Yomi-kugutsu escape	0	Single mega Phys dmg\t+shock  Area:self(M)
+Roundhouse	0	Light multi-hit Phys dmg \t+Dizzy(Low)
+Barrage	0	Area multi-hit Heavy Gun dmg
+Rapidfire	0	Medium linear multi-hit Gun dmg \t+Panic(Low)
+Melee	0	Light linear multi-hit Phys dmg \t+Panic(Med)
+Agi	0	Skill Help 0A5
+Punch	0	Skill Help 0A6
+One-two	0	Skill Help 0A7
+Rush	0	Skill Help 0A8
+Frustration	0	Skill Help 0A9
+Teleport	0	Skill Help 0AA
+Doubt Beam	0	Medium multi-hit Mind dmg \t+Panic/dizzy(High)
+Anger Blast	0	Skill Help 0AC
+Justification	0	Moderately restores HP \tof the caster
+Okiku attack	0	Skill Help 0AE
+Cherno attack	0	Skill Help 0AF
+Trailing Death	0	Single light Gun dmg
+Spinning Death	0	Medium Phys dmg to an enemy \t+Mute(High)
+Megido	0	Heavy Almighty dmg to an area
+Streaming Death	0	Light linear multi-hit Death dmg \t+Poison(High)
+Naga attack	0	Light Gun dmg to an enemy \t+freeze  Single target
+Abi attack	0	Single light Gun dmg\t+shock  Single target
+Teleport	0	Single light Gun dmg\t+impede  Single target
+Azusa-yumi	0	Single light Gun dmg\t+dizzy  Single target
+Nubatama	0	Single light Gun dmg\t+stun  Single target
+Amatobi	0	Single light Gun dmg\t+charm(Low)  Single target
+Wind Cutter	0	Single light Gun dmg\t+sleep(Low)  Single target
+Cursed Emission	0	Medium Almighty dmg to an enemy \t+Dizzy(High)
+Cursed Bolt	0	Heavy Mind dmg, 5-way spread \t+Charm(High)
+Mishaguji attack	0	Single light Gun dmg\t+poison(low)  Single target
+Mishaguji tail	0	Single light Gun dmg\t+stone(low)  Single target
+Ageless Sleep	0	Single mega Gun dmg\t+burn  Single target
+Triple Shot	0	Single mega Gun dmg\t+freeze  Single target
+Super Wave	0	Single mega Gun dmg\t+shock  Single target
+Summon Hiruko	0	Single mega Gun dmg\t+impede  Single target
+Anakashiko	0	Single mega Gun dmg\t+stun  Single target
+Tamayura	0	Skill Help 0C4
+Kaya Combo 1	0	Skill Help 0C5
+Kaya Combo 2	0	Skill Help 0C6
+Kaya Combo 3	0	Skill Help 0C7
+Kaya Thrust	0	Skill Help 0C8
+Kaya Cyclone	0	Skill Help 0C9
+Super Cannon	0	Skill Help 0CA
+Super Cannon L	0	Skill Help 0CB
+Super Cannon	0	Skill Help 0CC
+Minion Summon	0	Skill Help 0CD
+Rapidfire	0	Skill Help 0CE
+Barrage	0	Skill Help 0CF
+Magatsu Crush	0	Nullifies Fire dmg for a short time \tAll allies
+Soulless Cannon	0	Nullifies Ice dmg for a short time\tAll allies
+Magatsu Crush	0	Nullifies Elec dmg for a short time\tAll allies
+Soulless Rain	0	Nullifies Force dmg for a short time\tAll allies
+Tentacle Whip	0	Nullifies Phys dmg for a short time\tAll allies
+Turdak dead	0	Nullifies Death dmg for a short time\tAll allies
+Ichimokuren dead	0	Nullifies Mind dmg for a short time\tAll allies
+Red Cape teleport	0	Absorb Fire dmg for a short time\tAll allies
+Rasputin attack	0	Absorb Ice dmg for a short time\tAll allies
+Explode	0	Absorb Elec dmg for a short time\tAll allies
+Soulless Beam	0	Absorb Force dmg for a short time\tAll allies
+Gang/Yakuza dead	0	Absorb Phys dmg for a short time\tAll allies
+Red Cape dead	0	Stops all enemies' \tmovement for a short time
+Matryoshka summon	0	Calls for reinforcements
+Matryoshka in	0	Skill Help 0DE
+Naga dead	0	Skill Help 0DF
+Abi dead	0	Skill Help 0E0
+Hitokoto Morph 1	0	Skill Help 0E1
+Hitokoto Morph 2	0	Skill Help 0E2
+Hitokoto Morph 3	0	Skill Help 0E3
+Hitokoto dead	0	Skill Help 0E4
+Prism boss dead	0	Skill Help 0E5
+Munakata dead	0	Skill Help 0E6
+Yaso dead	0	Skill Help 0E7
+Shoot	0	Heavy Gun dmg to an enemy
+Teleport	0	Skill Help 0E9
+Teleport	0	Skill Help 0EA
+Okiku appear	0	Skill Help 0EB
+Cherno-mob dead	0	Skill Help 0EC
+Cherno-boss dead	0	Skill Help 0ED
+Rasputin incap	0	Skill Help 0EE
+Rasputin dead	0	Skill Help 0EF
+Anzu fly	0	High chance of heavy Almighty \tarea dmg upon death
+Mishaguji dead	0	Restores HP after battle\t(Raidou and self)
+Yaso right dead	0	Restores HP gradually  \tArea:self
+Yaso left dead	0	High chance of countering \tfor 1/2 dmg
+Arahabaki dead	0	High chance of countering \tfor all dmg
+Tai-itsu dead	0	High chance of escaping \tdeath(once per battle)
+Tai-itsu barrier	0	Allows quicker escape\t(must be summoned)
+Tai-itsu barrier off	0	Increases money earned\t(must be summoned)
+Oboro dead	0	Increases item chance\t(must be summoned)
+Red Cape escape	0	Increases Exp earned\t(must be summoned)
+Summon	0	Increases Loyalty earned\t(must be summoned)
+Samurai Frost	0	Raises MAX HP by 10%
+Summon Undead	0	Raises MAX HP by 20%
+Begin Starvation	0	Raises MAX HP by 30%
+Near Death Experience	0	Raises MAX MP by 10%
+Victory of Fire	0	Raises MAX MP by 20%
+Glare	0	Not enough MAG!
+R	0	Wrong weapon type!
+Rapid Zio	0	Status ailment prevents its use!
+Breath Charge	0	Dummy
+Breath	0	Dummy
+Null Fire	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+R	0	Dummy
+Agi Storm	0	Rapid Agi Help Test
+Agirati	0	Light Fire dmg, 3-way spread \tStun: Med
+Random Hefty Blaze	0	Dummy
+Random Agidyne	0	Dummy
+Inferno	0	Dummy
+Hefty Blaze	0	Dummy
+R0x216	0	Dummy
+R0x217	0	Dummy
+R0x218	0	Dummy
+R0x219	0	Dummy
+R0x21a	0	Dummy
+R0x21b	0	Dummy
+R0x21c	0	Dummy
+R0x21d	0	Dummy
+R0x21e	0	Dummy
+R0x21f	0	Dummy
+Bufu Storm	0	Dummy
+Bufurati	0	Light Ice dmg, 3-way spread \tStun: Med
+Random Snowstorm	0	Dummy
+Random Bufudyne	0	Dummy
+Terror Blizzard	0	Dummy
+Snowstorm	0	Dummy
+Mabufudyne	0	Dummy
+Mabufu	0	Dummy
+R0x228	0	Dummy
+R0x229	0	Dummy
+R0x22a	0	Dummy
+R0x22b	0	Dummy
+R0x22c	0	Dummy
+R0x22d	0	Dummy
+R0x22e	0	Dummy
+R0x22f	0	Dummy
+Zio Storm	0	Dummy
+Ziorati	0	Light Elec dmg, 3-way spread \tStun: Med
+Random Thunder	0	Dummy
+Random Ziodyne	0	Dummy
+Thunderbolt	0	Dummy
+Thunder	0	Dummy
+R0x236	0	Dummy
+R0x237	0	Dummy
+R0x238	0	Dummy
+R0x239	0	Dummy
+R0x23a	0	Dummy
+R0x23b	0	Dummy
+R0x23c	0	Dummy
+R0x23d	0	Dummy
+R0x23e	0	Dummy
+R0x23f	0	Dummy
+Zan Storm	0	Dummy
+Zanrati	0	Light Force dmg, 3-way spread \tStun: Med
+Random Tornado	0	Dummy
+Random Zandyne	0	Dummy
+Evil Hurricane	0	Dummy
+Tornado	0	Dummy
+R0x246	0	Dummy
+R0x247	0	Dummy
+Pyro Loyal Drink	0	Dummy
+Frost Loyal Drink	0	Dummy
+Volt Loyal Drink	0	Dummy
+Wind Loyal Drink	0	Dummy
+Skill Loyal Drink	0	Dummy
+Pagan Loyal Drink	0	Dummy
+Fury Loyal Drink	0	Dummy
+Fiend Loyal Drink	0	Dummy
+Urban Legend Loyal Drink	0	Dummy
+Spirit Loyal Drink	0	Dummy
+Mitama Loyal Drink	0	Dummy
+Boycott Recover Drink	0	Dummy
+R0x254	0	Dummy
+R0x255	0	Dummy
+R0x256	0	Dummy
+R0x257	0	Dummy
+R0x258	0	Dummy
+R0x259	0	Dummy
+R0x25a	0	Dummy
+R0x25b	0	Dummy
+R0x25c	0	Dummy
+R0x25d	0	Dummy
+R0x25e	0	Dummy
+R0x25f	0	Dummy
+Mudo Storm	0	Dummy
+Random Mudo	0	Dummy
+Soul Balance	0	Medium chance of Instant death \tAll enemies
+R0x263	0	Dummy
+R0x264	0	Dummy
+R0x265	0	Dummy
+R0x266	0	Dummy
+R0x267	0	Dummy
+R0x268	0	Dummy
+R0x269	0	Dummy
+R0x26a	0	Dummy
+R0x26b	0	Dummy
+R0x26c	0	Dummy
+R0x26d	0	Dummy
+R0x26e	0	Dummy
+R0x26f	0	Dummy
+R0x270	0	Dummy
+R0x271	0	Dummy
+R0x272	0	Dummy
+R0x273	0	Dummy
+R0x274	0	Dummy
+R0x275	0	Dummy
+R0x276	0	Dummy
+R0x277	0	Dummy
+R0x278	0	Dummy
+R0x279	0	Dummy
+R0x27a	0	Dummy
+R0x27b	0	Dummy
+R0x27c	0	Dummy
+R0x27d	0	Dummy
+R0x27e	0	Dummy
+R0x27f	0	Dummy
+R0x280	0	Dummy
+R0x281	0	Dummy
+R0x282	0	Dummy
+R0x283	0	Dummy
+R0x284	0	Dummy
+R0x285	0	Dummy
+R0x286	0	Dummy
+R0x287	0	Dummy
+R0x288	0	Dummy
+R0x289	0	Dummy
+R0x28a	0	Dummy
+R0x28b	0	Dummy
+R0x28c	0	Dummy
+R0x28d	0	Dummy
+R0x28e	0	Dummy
+R0x28f	0	Dummy
+Makara Aura 2	0	Dummy
+Tetra Aura 2	0	Dummy
+Tarukajaon	0	Raises Phys attack until \tbattle ends  All allies
+Makakajaon	0	Raises Magic attack until \tbattle ends  All allies
+Rakukajaon	0	Raises defense until battle \tends  All allies
+Tetrakarn	0	Reflect Phys attacks for \ta short time  All allies
+R0x296	0	Dummy
+R0x297	0	Dummy
+R0x298	0	Dummy
+R0x299	0	Dummy
+R0x29a	0	Dummy
+R0x29b	0	Dummy
+R0x29c	0	Dummy
+Lethal Shot	0	Dummy
+Critical Shot	0	Dummy
+Reload	0	Dummy
+Air Slash	0	Dummy
+Pierce Slash	0	Dummy
+Spinning Kick	0	Dummy
+Sword Guard	0	Dummy
+Dragon Fang	0	Dummy
+Storm Stab	0	Dummy
+Brutal Pierce	0	Dummy
+Staff Guard	0	Dummy
+Diamond Crush	0	Dummy
+Pierce Crush	0	Dummy
+Axe Guard	0	Dummy
+Infinite Cut	0	Dummy
+Infinite Slash	0	Dummy
+Headcrush	1	Medium Phys dmg to all \t+dizzy(High)
+Freeze Slash	1	Mega Ice dmg to all \tStun: Short Type: Blade
+Blizzard Slash	1	Ultra Ice dmg to all \tStun: Short Type: Blade
+Agnostic Crush	1	Mega Death dmg to all \tStun: Short Type: Axe
+Skeptic Crush	1	Ultra Death dmg to all \tStun: Short Type: Axe
+Fire Slash	1	Heavy Fire dmg to all \tStun: Short Type: Blade
+Bolt Slash	1	Heavy Elec dmg to all \tStun: Short Type: Blade
+Gale Stab	1	Heavy Force dmg to all \tStun: Short Type: Spear
+Cyclone Stab	1	Severe Force dmg to all \tStun: Short Type: Spear
+Bolt Spear	0	Dummy
+Thunder Stab	1	Ultra Elec dmg to all \tStun: Short Type: Spear
+Ice Slash	1	Heavy Ice dmg to all \tStun: Short Type: Blade
+Scorch Slash	1	Mega Fire dmg to all \tStun: Short Type: Blade
+Flare Slash	1	Ultra Fire dmg to all \tStun: Short Type: Blade
+Electric Crush	1	Mega Elec dmg to all \tStun: Short Type: Axe
+Cyclone Stab	1	Mega Force dmg to all \tStun: Short Type: Spear
+Heretic Crush	1	Heavy Death dmg to all \tStun: Short Type: Axe
+Pyro Blade	1	Imbue Raidou's sword with Fire \tDuration: Short
+Pyro Killer	1	Imbue Raidou's sword with Fire \tDuration: Long
+Pyro Destroyer	0	Dummy
+Frost Sword	1	Imbue Raidou's sword with Ice \tDuration: Short
+Frost Killer	1	Imbue Raidou's sword with Ice \tDuration: Long
+Frost Destroyer	0	Dummy
+Volt Sword	1	Imbue Raidou's sword with Elec \tDuration: Short
+Volt Killer	1	Imbue Raidou's sword with Elec \tDuration: Long
+Volt Destroyer	0	Dummy
+Wind Sword	1	Imbue Raidou's sword with Force \tDuration: Short
+Wind Killer	1	Imbue Raidou's sword with Force \tDuration: Long
+Wind Destroyer	0	Dummy
+Pagan Sword	1	Imbue Raidou's sword with Death \tDuration: Short
+Pagan Killer	1	Imbue Raidou's sword with Death \tDuration: Long
+Pagan Destroyer	0	Dummy
+R0x2cd	0	Dummy
+R0x2ce	0	Dummy
+R0x2cf	0	Dummy
+R0x2d0	0	Dummy
+R0x2d1	0	Dummy
+R0x2d2	0	Dummy
+R0x2d3	0	Dummy
+R0x2d4	0	Dummy
+R0x2d5	0	Dummy
+R0x2d6	0	Dummy
+R0x2d7	0	Dummy
+R0x2d8	0	Dummy
+R0x2d9	0	Dummy
+R0x2da	0	Dummy
+R0x2db	0	Dummy
+R0x2dc	0	Dummy
+R0x2dd	0	Dummy
+R0x2de	0	Dummy
+R0x2df	0	Dummy
+Metal Bullet	1	Increases gun attack dmg \tDuration: Short
+Ice Bullet	1	Adds Ice dmg to gun attacks \tDuration: Short
+Death Bullet	1	Adds Death dmg to gun attacks \tDuration: Short
+Charm Bullet	0	Dummy
+Megido Fire	1	Adds Heavy Almighty dmg to \tgun attacks
+20mm Bullet	0	Dummy
+Force Bullet	1	Adds Force dmg to gun \tattacks Duration: Short
+Elec Bullet	1	Adds Elec dmg to gun \tattacks Duration: Short
+Mag Bullet	1	Greatly increases gun attack \tdmg Duration: Short
+Poison Bullet	0	Dummy
+Shot Bullet	1	Gun attacks will hit a \twider area
+Fire Bullet	1	Adds Fire dmg to gun \tattacks Duration: Short
+Sleep Bullet	0	Dummy
+Stone Bullet	0	Dummy
+Mute Bullet	0	Dummy
+Genocide	0	Dummy
+R0x2f0	0	Dummy
+R0x2f1	0	Dummy
+R0x2f2	0	Dummy
+R0x2f3	0	Dummy
+R0x2f4	0	Dummy
+R0x2f5	0	Dummy
+R0x2f6	0	Dummy
+R0x2f7	0	Dummy
+R0x2f8	0	Dummy
+R0x2f9	0	Dummy
+R0x2fa	0	Dummy
+R0x2fb	0	Dummy
+R0x2fc	0	Dummy
+R0x2fd	0	Dummy
+R0x2fe	0	Dummy
+R0x2ff	0	Dummy
+Pyro Shield	1	Briefly reduces Fire dmg taken \t+Absorb MAG All Allies
+Frost Shield	1	Briefly reduces Ice dmg taken \t+Absorb MAG All Allies
+Volt Shield	1	Briefly reduces Elec dmg taken \t+Absorb MAG All Allies
+Wind Shield	1	Briefly reduces Force dmg taken \t+Absorb MAG All Allies
+Fury Shield	1	Briefly reduces Phys dmg taken\t+Absorb MAG All Allies
+Take Down	0	Dummy
+Nemesis	0	Dummy
+Eternal Rest	1	High chance of Instant death \tto all sleeping foes
+Lay Waste	1	Mega Almighty dmg to all \tpoisoned foes
+Pagan Shield	1	Briefly reduces Death dmg taken\t+Absorb MAG All Allies
+Mind Resist	0	Dummy
+R0x30b	0	Dummy
+R0x30c	0	Dummy
+R0x30d	0	Dummy
+R0x30e	0	Dummy
+R0x30f	0	Dummy
+Pyro Feast	1	Strengthens Fire attacks
+Frost Feast	1	Strengthens Ice attacks
+Volt Feast	1	Strengthens Elec attacks
+Wind Feast	1	Strengthens Force attacks
+Fury Feast	1	Strengthens Phys attacks
+Pagan Feast	1	Strengthens Pagan attacks
+Skill Feast	1	Strengthens Skill attacks
+Pyro Weakness	1	Halve Fire attacks
+Frost Weakness	1	Halve Ice attacks
+Volt Weakness	1	Halve Elec attacks
+Wind Weakness	1	Halve Force attacks
+Fury Weakness	1	Halve Phys attacks
+Pagan Weakness	1	Halve Pagan attacks
+Skill Weakness	1	Halve Skill attacks
+Demonic Trap	1	Extends the stun duration caused
+Insect Caller	1	Raises Luck Locust encounter rate
+Demon Incense	1	Drops Luck Locust encounter rate
+Desperate Power	1	Raises Fiend encounter rate
+Unreachable Soul	1	Drops Fiend encounter rate
+R0x323	0	Dummy 323
+Merchant Search	0	Dummy 324
+Beast Instinct	1	Boosts Strength, drops Vitality
+Archangel Soul	1	Boosts Magic, drops Luck
+Ogre Stamina	1	Boosts Vitality, drops Magic
+Angel Mercy	1	Boosts Luck, drops Strength
+Power Chakra	1	Boosts Strength by 3
+Magic Chakra	1	Boosts Magic by 3
+Halve Death	1	Death dmg -50%, negates Death stun
+Halve Mind	1	Halves susceptability to ailments
+Stamina Chakra	1	Boosts Vitality by 3
+Luck Chakra	1	Boosts Luck by 3
+Magic Boost	1	Reduce MAG usage for skills
+Sink or Swim	1	Boosts critical rate and accuracy
+R0x331	0	Dummy 331
+R0x332	0	Dummy 332
+Halve Mortal	1	Halves chance of instant death
+Null Mortal	1	Prevents instant death
+Orienteering	1	Possessor won't get lost
+Death Boost	1	Boosts Death attacks
+Midnight Sin	1	Boosts ailment infliction chance
+Venom Skin	1	Chance to counter with Poison
+Drowsy Skin	1	Chance to counter with Sleep
+Silent Skin	1	Chance to counter with Mute
+???	1	Chance to counter with Panic
+Vengeance Seal	1	Revive with 50% HP on death \t(once per battle)
+First Aid	1	Recover some HP (self) \tafter battle
+Whimsy Aid	1	Recover own HP after battle \tdepending on Luck
+Money-Getter	1	Find money while walking
+Gold Rush	1	Find more money while walking
+Finders Keepers	1	Find items while walking
+Item Gatherer	1	Find more items while walking
+Treasure Hunter	1	Find materials while walking
+Treasure Caller	1	Find more materials while walking
+Goddess' Steps	1	Regain HP when the moon phase \t changes
+Gaea's Steps	1	Regain HP when the moon phase \t changes, depending on Luck
+Agni's Blessing	1	Boosts all stats by 3
+Moonlight Rage	1	Boosts Strength during Full Moon
+Shadow Cover	1	All dmg taken except Almighty is \treduced during New Moon
+Lunar Strength	1	Boosts Strength and reduces all \tdmg taken during Full Moon
+Skill Extension	1	Extends duration of skills
+Skill Extension +	1	Greatly extends duration of skills
+Drain	1	MAG absorption rate increases
+Lucky Strike	1	Raise critical chances on normal \tattacks
+R0x34F	0	Dummy 34f
+R0x350	0	Dummy 350
+R0x351	0	Dummy 351
+Adoration	1	Increases Loyalty earned after \tbattle
+Appraisal	1	Increases the chance of earning \ta rare item after battle
+Hoarder	1	Increases money earned after \tbattle
+Packrat	1	Increases the chance of earning \titems after battle
+EXP Boost	1	Small increase to Exp earned \tafter battle
+EXP Boost+	1	Increases Exp earned after battle
+EXP Boost++	1	Greatly increases Exp earned \tafter battle
+Generosity	1	Doubles the gift given by the demon
+Generosity+	1	Triples the gift given by the demon
+Bargain Master	1	Doubles the items gained through \tdemon conversation
+Growth	1	Obtain Exp when not summoned
+Lucky Capote	1	Nullify the dmg dealt, depending \ton Luck
+R0x35E	1	High chance of Heavy Almighty \tarea dmg upon death
+R0x35F	0	Dummy 35f
+Scratch	0	Dummy 360
+Arrival	0	Dummy 361
+Spare Motion	0	Dummy 362
+Dead	0	Dummy 363
+Hopper Kick	0	Dummy 364
+Hopper Kick	0	Dummy 365
+Wing Flap	0	Dummy 366
+Tackle	0	Dummy 367
+Overdrive	0	Dummy 368
+Bug Breath	0	Dummy 369
+Sonic Wave	0	Dummy 36a
+???	0	Dummy 36b
+Wing Flap	0	Dummy 36c
+Tackle	0	Dummy 36d
+R0x36E	0	Dummy 36e
+R0x36F	0	Dummy 36f
+R0x370	0	Dummy 370
+R0x371	0	Dummy 371
+R0x372	0	Dummy 372
+Sneak Attack	0	Dummy 373
+R0x374	0	Dummy 374
+Disturbance	0	Dummy 375
+R0x376	0	Dummy 376
+R0x377	0	Dummy 377
+Luck Eater's Song	0	Dummy 378
+Assassin's Song	0	Dummy 379
+Jiraiya	0	Dummy 37a
+R0x37B	0	Dummy 37b
+Normal Attack	0	Dummy 37c
+R0x37D	0	Dummy 37d
+R0x37E	0	Dummy 37e
+R0x37F	0	Dummy 37f
+Poison Smash	0	Dummy 380
+Burning Resolve	0	Dummy 381
+Heart Clutch	0	Dummy 382
+Healing Song	0	Dummy 383
+Demon Hunt	0	Dummy 384
+R0x385	0	Dummy 385
+99 Needles	0	Dummy 386
+Accursed Word	0	Dummy 387
+Piercing Cry	0	Dummy 388
+Strength Song	0	Dummy 389
+Bug Regulation	0	Dummy 38a
+Assassin Song	0	Dummy 38b
+Fusion Attack	0	Dummy 38c
+R0x38d	0	Dummy 38d
+R0x38e	0	Dummy 38e
+R0x38f	0	Dummy 38f
+Wing Flap	0	Dummy 390
+Charge	0	Dummy 391
+Wind Cutter	0	Dummy 392
+Tento Cannon	0	Dummy 393
+Dia	0	Dummy 394
+Dead	0	Dummy 395
+Scratch	0	Dummy 396
+Arrival	0	Dummy 397
+7 Years' Pain	0	Dummy 398
+R0x399	0	Dummy 399
+R0x39a	0	Dummy 39a
+R0x39b	0	Dummy 39b
+R0x39c	0	Dummy 39c
+R0x39d	0	Dummy 39d
+R0x39e	0	Dummy 39e
+R0x39f	0	Dummy 39f
+Phys Grant: Give	0	Dummy 3a0
+Phys Grant: Get	0	Dummy 3a1
+Frost Grant: Give	0	Dummy 3a2
+Frost Grant: Get	0	Dummy 3a3
+Death Grant: Give	0	Dummy 3a4
+Death Grant: Get	0	Dummy 3a5
+Charm Grant: Give	0	Dummy 3a6
+Charm Grant: Get	0	Dummy 3a7
+Almighty Grant: Give	0	Dummy 3a8
+Almighty Grant: Get	0	Dummy 3a9
+Force Grant: Give	0	Dummy 3aa
+Force Grant: Get	0	Dummy 3ab
+Volt Grant: Give	0	Dummy 3ac
+Volt Grant: Get	0	Dummy 3ad
+Fatal Grant: Give	0	Dummy 3ae
+Fatal Grant: Get	0	Dummy 3af
+Poison Grant: Give	0	Dummy 3b0
+Poison Grant: Get	0	Dummy 3b1
+Fire Grant: Give	0	Dummy 3b2
+Fire Grant: Get	0	Dummy 3b3
+Sleep Grant: Give	0	Dummy 3b4
+Sleep Grant: Get	0	Dummy 3b5
+Stone Grant: Give	0	Dummy 3b6
+Stone Grant: Get	0	Dummy 3b7
+Mute Grant: Give	0	Dummy 3b8
+Mute Grant: Get	0	Dummy 3b9
+MAG Give	0	Dummy 3ba
+MAG Get	0	Dummy 3bb
+R0x3bc	0	Dummy 3bc
+R0x3bd	0	Dummy 3bd
+R0x3be	0	Dummy 3be
+R0x3bf	0	Dummy 3bf
+Delicacy	1	Weak against Phys dmg but if \tremembered for a while...
+Awaken	1	Drain Phys dmg
+Timidity	1	Weak against Fire/Ice/Elec/Force \tbut if remembered for a while...
+Bravery	1	Greatl reduce Fire/Ice/Elec/Force \tdmg taken
+Fragile Heart	1	Weak against Mind/Death but \tif remembered for a while...
+Tenacious Soul	1	Red. Mind/Death dmg taken \tailment inf., void Ins. Death
+Frailty Curse	1	Reduce St/Ma/Vi/Lu but if \tremembered for a while...
+Demon's Blessing	1	Boosts all stats
+Rope-A-Dope	1	Halves the dmg of all attacks but \tif remembered for a while...
+Destructive Joy	1	Boosts the power of all attacks
+Bad Attitude	1	Frequently earn Protest and earn \tless Loyalty, however...
+True Feelings	1	Halves Fire/Ice/Elec/Force dmg \t taken
+Familial Bonds	1	Raises the second demon's defense \twhen two demons are summoned
+Encouragement	1	Raises the second demon's attack \twhen two demons are summoned
+Affection	1	Raises the second demon's Magic \twhen two demons are summoned
+Furious Mind	1	Constantly engraged when in \tbattle
+Co-Enablers	0	Dummy 3d0
+Auto-Heal	1	Fully recover HP after battle
+R0x3d2	0	Dummy 3d2
+R0x3d3	0	Dummy 3d3
+R0x3d4	0	Dummy 3d4
+R0x3d5	0	Dummy 3d5
+R0x3d6	0	Dummy 3d6
+R0x3d7	0	Dummy 3d7
+R0x3d8	0	Dummy 3d8
+R0x3d9	0	Dummy 3d9
+R0x3da	0	Dummy 3da
+R0x3db	0	Dummy 3db
+R0x3dc	0	Dummy 3dc
+R0x3dd	0	Dummy 3dd
+R0x3de	0	Dummy 3de
+R0x3df	0	Dummy 3df
+Scratch	0	Dummy 3e0
+Arrival	0	Dummy 3e1
+Spare Motion	0	Dummy 3e2
+Dead	0	Dummy 3e3
+Hopper Kick	0	Dummy 3e4
+Hopper Kick	0	Dummy 3e5
+Flap Wings	0	Dummy 3e6
+Tackle	0	Dummy 3e7
+Overdrive	0	Dummy 3e8
+Bug Breath	0	Dummy 3e9
+Sonic Wave	0	Dummy 3ea
+Roar	0	Dummy 3eb
+Flap Wings	0	Dummy 3ec
+Tackle	0	Dummy 3ed
+7 Years' Pain	0	Dummy 3ee
+R0x3ef	0	Dummy 3ef
+Civil War	0	Dummy 3f0
+R0x3f1	0	Dummy 3f1
+7 Years' Pain	0	Dummy 3f2
+Medusa's Eye	0	Dummy 3f3
+MAG Release Effect 1	0	Dummy 3f4
+MAG Release Fade Out	0	Dummy 3f5
+Pyro Effect Background	0	Dummy 3f6
+Frost Effect Background	0	Dummy 3f7
+Volt Effect Background	0	Dummy 3f8
+Wind Effect Background	0	Dummy 3f9
+Death Effect Background	0	Dummy 3fa
+R0x3fb	0	Dummy 3fb
+R0x3fc	0	Dummy 3fc
+R0x3fd	0	Dummy 3fd
+R0x3fe	0	Dummy 3fe
+R0x3ff	0	Dummy 3ff
+------	1	---
+Apollyon Killer	1	Able to deal damage to Apollyon
+Odor	0	Dummy 402
+Bug Hater	0	Dummy 403
+Fearless	0	Dummy 404
+Wild Guess	0	Dummy 405
+Battle Mania	0	Dummy 406
+Peace Lover	0	Dummy 407
+Mana Bonus	1	Boosts Max MAG
+MAG Boost+	0	Dummy 409
+Mana Surge	1	Greatly boosts Max MAG
+Drain	1	Boosts MAG absorption rate
+MAG Minister	0	Dummy 40c
+Super Drain	1	Greatly boosts MAG absorption rate
+Counterstrike	0	Dummy 40e
+Salvation	0	Dummy 40f
+Halve Fire	1	Halves Fire dmg taken
+Halve Ice	1	Halves Ice dmg taken
+Halve Elec	1	Halves Elec dmg taken
+Halve Force	1	Halves Force dmg taken
+Halve Phys	1	Halves Phys dmg taken
+Halve Death	0	Dummy 415
+Halve Mind	0	Dummy 416
+Halve Mortal	0	Dummy 417
+Null Mortal	1	Void Instant death attacks
+1/2 Ice/Force	1	Halves Ice/Force dmg taken
+1/2 Fire/Elec	1	Halves Fire/Elec dmg taken
+1/2 Mind/Death	1	Halves Mind/Death dmg
+Fire Boost	1	Boosts Fire attack dmg
+Ice Boost	1	Boosts Ice attack dmg
+Elec Boost	1	Boosts Elec attack dmg
+Force Boost	1	Boosts Force attack dmg
+Death Boost	1	Boosts Death attack dmg
+Item Bonus	1	Boosts the effectiveness of \trecovery items
+Ailment Boost	1	Boosts the chance to inflict \tailments
+Conversationalist	0	Dummy 423
+Demon Hunt	0	Dummy 424
+Identify	0	Dummy 425
+Identify+	0	Dummy 426
+Diligence	0	Dummy 427
+Payoff	0	Dummy 428
+Collector	0	Dummy 429
+Charisma	0	Dummy 42a
+Life Bonus	0	Dummy 42b
+Life Gain	0	Dummy 42c
+Life Surge	0	Dummy 42d
+Proof of Trust	0	Dummy 42e
+Loyalty Boost	1	Boosts the damage of a combination \tattack
+Shining Star	1	Boosts attack at max HP
+Endure	1	High chance of withstanding a \tdeathblow (once per battle)
+Vengeance Seal	1	Revive with 1/2 max HP (once per battle)
+Victory Cry	0	Dummy 433
+Celebration	0	Dummy 434
+Heal MAG	1	Regain a bit of MAG after battle
+Heal MAG+	1	Regain a lot of MAG after battle
+Hex	1	Regenerates HP of Raidou and \tsummoned demons
+Divine Heal	0	Dummy 438
+Splinter	0	Dummy 439
+Defense Master	0	Dummy 43a
+Guard Bonus	1	Dmg taken while blocking is \tgreatly reduced
+Reincarnation	1	Revive with full HP (once per battle)
+Lunatic	1	Boosts attack during Full and \tNew Moon phases
+R0x43e	0	Dummy 43e
+R0x43f	0	Dummy 43f
+Hopping	0	Dummy 440
+Hopper Kick	0	Dummy 441
+Death Shot	0	Dummy 442
+Death Cutter	0	Dummy 443
+Wing Flap	0	Dummy 444
+Medusa's Eye	0	Dummy 445
+Stone Needle	0	Dummy 446
+Stone Needle	0	Dummy 447
+Stone Needle	0	Dummy 448
+Stone Needle	0	Dummy 449
+Stone Needle	0	Dummy 44a
+Stone Needle	0	Dummy 44b
+Sheathe Tail	0	Dummy 44c
+Acid	0	Dummy 44d
+Pest Megidola	0	Dummy 44e
+Spare Motion	0	Dummy 44f
+Poison Thrust	0	Dummy 450
+Poison Thrust	0	Dummy 451
+Poison Thrust	0	Dummy 452
+Poison Thrust	0	Dummy 453
+Poison Thrust	0	Dummy 454
+Psycho Smash	0	Dummy 455
+Psycho Crush	0	Dummy 456
+Wing Flap	0	Dummy 457
+Scowl	0	Dummy 458
+Venom Tear	0	Dummy 459
+Take Down	0	Dummy 45a
+R0x45b	0	Dummy 45b
+R0x45c	0	Dummy 45c
+R0x45d	0	Dummy 45d
+R0x45e	0	Dummy 45e
+R0x45f	0	Dummy 45f
+Mute Beam	0	Dummy 460
+Dissolution	0	Dummy 461
+Star's Funeral	0	Dummy 462
+Demonic Star	0	Dummy 463
+Dekaja	0	Dummy 464
+Diarama	0	Dummy 465
+Warp (Disappear)	0	Dummy 466
+Warp (Appear)	0	Dummy 467
+Spare Motion	0	Dummy 468
+Tetrakarn	0	Dummy 469
+Grudge Sword	0	Dummy 46a
+Flying Head	0	Dummy 46b
+R0x46c	0	Dummy 46c
+R0x46d	0	Dummy 46d
+R0x46e	0	Dummy 46e
+R0x46f	0	Dummy 46f
+Roughhouse	0	Dummy 470
+Petra Eye	0	Dummy 471
+King's Yell	0	Dummy 472
+Maragidyne	0	Dummy 473
+Evil Gleam	0	Dummy 474
+Diarama	0	Dummy 475
+Holy Light	0	Dummy 476
+Gathering	0	Dummy 477
+Overlord Call	0	Dummy 478
+Spare Motion (Casting Spell)	0	Dummy 479
+Armageddon	0	Dummy 47a
+R0x47b	0	Dummy 47b
+Arrogance	0	Dummy 47c
+Summon	0	Dummy 47d
+Warp (Disappear)	0	Dummy 47e
+Warp (Appear)	0	Dummy 47f
+Agidyne	0	Dummy 480
+Ziodyne	0	Dummy 481
+Coercion	0	Dummy 482
+Poison Punch	0	Dummy 483
+Poison Punch	0	Dummy 484
+Lay Waste	0	Dummy 485
+Tarukajaon	0	Dummy 486
+Makakajaon	0	Dummy 487
+Dead	0	Dummy 488
+Spare Motion (Casting Spell)	0	Dummy 489
+Attack	0	Dummy 48a
+R0x48b	0	Dummy 48b
+Megidola	0	Dummy 48c
+Dormina	0	Dummy 48d
+Eternal Rest	0	Dummy 48e
+Makara Aura 2	0	Dummy 48f
+Take Down	0	Dummy 490
+Dekaja	0	Dummy 491
+Diarama	0	Dummy 492
+Dead	0	Dummy 493
+Spare Motion (Casting Spell)	0	Dummy 494
+Attack	0	Dummy 495
+R0x496	0	Dummy 496
+Fusion Magic	0	Dummy 497
+Dead	0	Dummy 498
+Dodge	0	Dummy 499
+Wild Punch	0	Dummy 49a
+Rawhide	0	Dummy 49b
+Tombstone	0	Dummy 49c
+Quick & Dead	0	Dummy 49d
+Summon Demon	0	Dummy 49e
+Bite the Bullet	0	Dummy 49f
+Cold Shot	0	Dummy 4a0
+Buster Shot	0	Dummy 4a1
+Red Sun	0	Dummy 4a2
+Spare Motion	0	Dummy 4a3
+Challenge	0	Dummy 4a4
+???	0	Dummy 4a5
+Slice and Dice	0	Dummy 4a6
+Pyro Blade	0	Dummy 4a7
+Headcrush	0	Dummy 4a8
+Dismiss Demon	0	Dummy 4a9
+Gun Attack	0	Dummy 4aa
+Dodge	0	Dummy 4ab
+Escape	0	Dummy 4ac
+R0x4ad	0	Dummy 4ad
+R0x4ae	0	Dummy 4ae
+Dragon Fang	0	Dummy 4af
+Storm Stab	0	Dummy 4b0
+Volt Sword	0	Dummy 4b1
+R0x4b2	0	Dummy 4b2
+R0x4b3	0	Dummy 4b3
+Diamond Crush	0	Dummy 4b4
+Wind Blade	0	Dummy 4b5
+Megidolaon	0	Dummy 4b6
+R0x4b7	0	Dummy 4b7
+R0x4b8	0	Dummy 4b8
+Dodge	0	Dummy 4b9
+Slice and Dice	0	Dummy 4ba
+Dragon Fang	0	Dummy 4bb
+Pike Rain	0	Dummy 4bc
+Mega Smash	0	Dummy 4bd
+Headcrush	0	Dummy 4be
+Demon Tamper	0	Dummy 4bf
+Summon Phantom	0	Dummy 4c0
+Astral Burst	0	Dummy 4c1
+Type Shift	0	Dummy 4c2
+Heat Wave	0	Dummy 4c3
+Raijin Slash	0	Dummy 4c4
+Fuujin Slash	0	Dummy 4c5
+Tumble Damage	0	Dummy 4c6
+Dead	0	Dummy 4c7
+Type Shift	0	Dummy 4c8
+Peel-off 1	0	Dummy 4c9
+Peel-off 2	0	Dummy 4ca
+Peel-off 3	0	Dummy 4cb
+Warp (Disappear)	0	Dummy 4cc
+Warp (Appear)	0	Dummy 4cd
+Tumble Standby	0	Dummy 4ce
+Tumble (Recover)	0	Dummy 4cf
+Spare Motion	0	Dummy 4d0
+Corona Pillars	0	Dummy 4d1
+Judgement	0	Dummy 4d3
+Mazandyne	0	Dummy 4d3
+Plasma	0	Dummy 4d4
+Prominence	0	Dummy 4d5
+R0x4d6	0	Dummy 4d6
+Tumble Damage	0	Dummy 4d7
+Dead	0	Dummy 4d8
+Dead (Standby)	0	Dummy 4d9
+Warp (Disappear)	0	Dummy 4da
+Warp (Appear)	0	Dummy 4db
+Tumble Standby	0	Dummy 4dc
+Tumble (Recover)	0	Dummy 4dd
+Spare Motion	0	Dummy 4de
+Judging Eye	0	Dummy 4df
+Maragidyne	0	Dummy 4e0
+Maziodyne	0	Dummy 4e1
+Plasma	0	Dummy 4e2
+Diarama	0	Dummy 4e3
+Akane Megido	0	Dummy 4e4
+???	0	Dummy 4e5
+Electrify 1	0	Dummy 4e6
+Electrify 2	0	Dummy 4e7
+Electrify 3	0	Dummy 4e8
+Bloody Inferno	0	Dummy 4e9
+Super Hurricane	0	Dummy 4ea
+Bullet Rain	0	Dummy 4eb
+Divine Thunder	0	Dummy 4ec
+Negative Soul	0	Dummy 4ed
+R0x4ee	0	Dummy 4ee
+R0x4ef	0	Dummy 4ef
+Fade out	0	Dummy 4f0
+Fade in	0	Dummy 4f1
+Money Rain	0	Dummy 4f2
+Money Rain 2	0	Dummy 4f3
+Money Rain 3	0	Dummy 4f4
+Money Rain 4	0	Dummy 4f5
+Hover	0	Dummy 4f6
+Healing Song	0	Dummy 4f7
+Venomstrike	0	Dummy 4f8
+R0x4f9	0	Dummy 4f9
+R0x4fa	0	Dummy 4fa
+R0x4fb	0	Dummy 4fb
+R0x4fc	0	Dummy 4fc
+MAG Release (L)	0	Dummy 4fd
+MAG Release (M)	0	Dummy 4fe
+MAG Release (S)	0	Dummy 4ff

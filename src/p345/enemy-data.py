@@ -3,13 +3,14 @@ import struct
 import json
 from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
 
-GAME_PREFIX = 'p5r'
+GAME_PREFIX = 'p4g'
 GAME_TYPE = GAME_PREFIX[:2]
 COMP_CONFIG = load_comp_config(f"configs/{GAME_PREFIX}-comp-config.json")
+DATA_DIR = '../../../megaten-fusion-tool/src/app/{}'
 TOOL_DEMONS = {}
 
 for fname in COMP_CONFIG['enemyData']:
-    with open(f"configs/{fname}") as jsonfile:
+    with open(DATA_DIR.format(fname)) as jsonfile:
         TOOL_DEMONS.update(json.load(jsonfile))
 with open(f"dumps/{GAME_PREFIX}-enemy-data.bin", 'rb') as binfile:
     GAME_ENEMIES = binfile.read()

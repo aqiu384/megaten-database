@@ -870,37 +870,37 @@ Kakoi Kuzushi	BLANK
 Resist Fire	Increases resistance to Fire attacks. Nullifies weakness.
 Null Fire	Nullifies Fire attacks.
 Repel Fire	Reflects Fire attacks.
-Absorb Fire	Absorbs damage from Fire attacks.
+Drain Fire	Absorbs damage from Fire attacks.
 Null Curse Insta-kill	Nullifies Mudo attacks.
 Resist Ice	Increases resistance to Ice attacks. Nullifies weakness.
 Null Ice	Nullifies Ice attacks.
 Repel Ice	Reflects Ice attacks.
-Absorb Ice	Absorbs damage from Ice attacks.
+Drain Ice	Absorbs damage from Ice attacks.
 +15% EXP	EXP gained in battle increased by 15%.
 Resist Wind	Increases resistance to Wind attacks. Nullifies weakness.
 Null Wind	Nullifies Wind attacks.
 Repel Wind	Reflects Wind attacks.
-Absorb Wind	Absorbs damage from Wind attacks.
+Drain Wind	Absorbs damage from Wind attacks.
 All-Out Attack Boost	Increases strength of All-Out Attacks.
 Resist Elec	Increases resistance to Elec attacks. Nullifies weakness.
 Null Elec	Nullifies Elec attacks.
 Repel Elec	Reflects Elec attacks.
-Absorb Elec	Absorbs damage from Elec attacks.
+Drain Elec	Absorbs damage from Elec attacks.
 Money Boost	Increases money gained by 15%.
 Resist Bless	Increases resistance to Bless attacks. Nullifies weakness.
 Null Bless	Nullifies Bless attacks.
 Repel Bless	Reflects Bless attacks.
-Absorb Bless	Absorbs damage from Bless attacks.
+Drain Bless	Absorbs damage from Bless attacks.
 Hide	Decreases chance of being targeted by foes.
 Resist Curse	Increases resistance to Curse attacks. Nullifies weakness.
 Null Curse	Nullifies Curse attacks.
 Repel Curse	Reflects Curse attacks.
-Absorb Curse	Absorbs damage from Curse attacks.
+Drain Curse	Absorbs damage from Curse attacks.
 Life Boost	Increases max SP by 20.
 Resist Phys	Increases resistance to Phys attacks. Nullifies weakness.
 Null Phys	Nullifies Phys attacks.
 Repel Phys	Reflects Phys attacks.
-Absorb Phys	Absorbs damage from Phys attacks.
+Drain Phys	Absorbs damage from Phys attacks.
 Null Bless/Curse	Nullifies Bless/Curse skills.
 Ailment Boost	Increases chance of inflicting ailments.
 Hama Boost	Increases success rate of Hama skills.
@@ -956,12 +956,12 @@ Trigger Happy	Increases chance of Critical from Gun attacks.
 Resist Nuke	Increases resistance to Nuke attacks. Nullifies weakness.
 Null Nuke	Nullifies Nuke attacks.
 Repel Nuke	Reflects Nuke attacks.
-Absorb Nuke	Absorbs damage from Nuke attacks.
+Drain Nuke	Absorbs damage from Nuke attacks.
 RESERVE	BLANK
 Resist Psy	Increases resistance to Psy attacks. Nullifies weakness.
 Null Psy	Nullifies Psy attacks.
 Repel Psy	Reflects Psy attacks.
-Absorb Psy	Absorbs damage from Psy attacks.
+Drain Psy	Absorbs damage from Psy attacks.
 RESERVE	BLANK
 Nuke Boost	Strengthens Nuke skills by 25%.
 Nuke Amp	Strengthens Nuke skills by 50%. Can stack.

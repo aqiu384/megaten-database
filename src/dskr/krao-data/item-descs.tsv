@@ -1,0 +1,513 @@
+en	desc
+000	NOT USED Item Help 000
+Medicine	Restore 120 HP: 1 ally \tMAX: 99
+Ox Bezoar	Restore 350 HP: 1 ally \tMAX: 12
+Life Stone	Restore 25% of HP: 1 ally \tMAX: 24
+Muscle Drink	Restore 60% of HP with side \teffects: 1 ally \tMAX: 12
+Bead	Restore full HP: 1 ally \tMAX: 9
+Bead of Life	Restore all HP: entire party \tMAX: 9
+Chakra Chip	NOT USED Restore MAG (S)
+Chakra Drop	NOT USED Restore MAG (M)
+Chakra Pot	NOT USED Restore MAG (L)
+Great Chakra	NOT USED Restore all MAG
+Soma Drop	NOT USED Restore all HP and MAG: 1 ally
+Soma	Restore all MAG \tMAX: 1
+Anti-Poison	Cure poison: 1 ally \tMAX: 9
+Anti-Mute	Cure mute: 1 ally \tMAX: 9
+Anti-Stone	Cure stone: 1 ally \tMAX: 9
+Anti-Mind	Cure sleep, panic, charm and rage: \t1 ally \tMAX: 9
+Jin Dan	Revive with (S) HP recovery: \t1 ally \tMAX: 9
+Balm of Life	Revive with full HP recovery: \t1 ally \tMAX: 9
+St Incense	Increase Strength by 1: 1 ally \tMAX: 99
+Ma Incense	Increase Magic by 1: 1 ally \tMAX: 99
+Vi Incense	Increase Vitality by 1: 1 ally \tMAX: 99
+Lu Incense	Increase Luck by 1: 1 ally \tMAX: 99
+Mansaku Sake	Increase demon's Loyalty (S): \t1 ally \tMAX: 99
+Homura Sake	Increase Pyro demon's Loyalty (M): \t1 ally \tMAX: 99
+Fubuki Sake	Increase Frost demon's Loyalty (M): \t1 ally \tMAX: 99
+Raiden Sake	Increase Volt demon's Loyalty (M): \t1 ally \tMAX: 99
+Arashi Sake	Increase Wind demon's Loyalty (M): \t1 ally \tMAX: 99
+Gouriki Sake	Increase Fury demon's Loyalty (M): \t1 ally \tMAX: 99
+Yamiyo Sake	Increase Pagan demon's Loyalty (M): \t1 ally \tMAX: 99
+Takumi Sake	Increase Skill demon's Loyalty (M): \t1 ally \tMAX: 99
+Shishiou Sake	Increase demon's Loyalty (M): \t1 ally \tMAX: 99
+Kotetsu Sake	Increase demon's Loyalty (L): \t1 ally \tMAX: 99
+Reserve	NOT USED RESERVE
+Attract Water	Briefly increases encounter rate \tMAX: 99
+Repulse Water	Briefly decreases encounter rate \tMAX: 99
+Foxtail	A grass toy that cats love \tMAX: 99
+Sealed Letter	NOT USED A binding contract from \tthe Demon Lord
+Smoke Ball	Instantly escape from battle \tMAX: 9
+Commendation	Reward from Yatagarasu. \tFetches a high price \tMAX: 1
+Conversation	NOT USED Item Help 028
+Birdlime	Used to capture Luck Locusts \tMAX: 99
+Great Birdlime	NOT USED Used to capture Luck Locusts: High Chance
+Insect Cage	Houses one Luck Locust
+Luck Locust	An insect that brings good fortune
+Summoner Badge	Reward from Yatagarasu. \tFetches a high price \tMAX: 1
+Explorer Badge	Reward from Yatagarasu. \tFetches a high price \tMAX: 1
+Amethyst	A gemstone that signifies honesty \tMAX: 99
+Aquamarine	A gemstone that signifies bravery \tMAX: 99
+Emerald	A gemstone that signifies happiness \tMAX: 99
+Onyx	A gemstone that signifies trust \tMAX: 99
+Opal	A gemstone that signifies joy \tMAX: 99
+Garnet	A gemstone that signifies friendship \tMAX: 99
+Sapphire	A gemstone that signifies virtue \tMAX: 99
+Diamond	A gemstone that signifies love \tMAX: 99
+Turquoise	A gemstone that signifies safety \tMAX: 99
+Topaz	A gemstone that signifies hope \tMAX: 99
+Pearl	A gemstone that signifies purity \tMAX: 99
+Ruby	A gemstone that signifies passion \tMAX: 99
+Great Stone	NOT USED Item Help 03B
+Mystic Stone	NOT USED Item Help 03C
+Tae Sticker	A sticker from Tae. If you \tcollect them... \tMAX: 99
+Uranus Stone	A jewel that emits mystic radiance \tMAX: 99
+Cursed Plate	Plate used in black magic rituals \tMAX: 99
+Wood Ornament	Ornately carved button. Fetches a high \tMAX: 99
+Asuka Mirror	Made of a special alloy. Fetches a high \tMAX: 99
+Rakuyou Chalice	An ancient wine cup. Fetches a high price \tMAX: 99
+Javanese Figure	Carving of a sacred bird. Fetches a high \tMAX: 99
+Roman Coin	Engraved with a portrait. Fetches a high \tMAX: 99
+Persian Vase	Rare, shining pottery. Fetches a high \tMAX: 99
+Theban Jar	Was once widely used. Fetches a high \tMAX: 99
+Cretan Goddess	An ivory statue. Fetches a high price \tMAX: 99
+Babylon Tablet	Contains lost knowledge. Fetches a high \tMAX: 99
+Giza Mask	Made of shimmering gold. Fetches a high \tMAX: 99
+Stag Beetle	A rare insect. Fetches a high price \tMAX: 99
+Beetle	Popular among kids. Fetches a high price \tMAX: 99
+Dainty Snack	A popular bar snack. Demons like \tit, too \tMAX: 99
+Twig	A plain old twig. There's no use \tfor it \tMAX: 99
+Old Underwear	A garment favored by virgins \tlong ago \tMAX: 99
+Item 04F	NOT USED Item Help 04F
+Normal	NOT USED Power: 12
+Heavy	NOT USED Power: 25
+Fatal	NOT USED Power: 40
+Fire	NOT USED Power: 6  Extra effect: Burn
+Ice	NOT USED Power: 6  Extra effect: Freeze
+Elec	NOT USED Power: 6  Extra effect: Shock
+Force	NOT USED Power: 6  Extra effect: Impede
+Phys	NOT USED Power: 6  Extra effect: Dizzy
+Death	NOT USED Power: 6  Extra effect: Stun
+Charm	NOT USED Power: 8  Extra effect: Charm
+Sleep	NOT USED Power: 8  Extra effect: Sleep
+Panic	NOT USED Power: 8  Extra effect: Panic
+Mute	NOT USED Power: 8  Extra effect: Mute
+Poison	NOT USED Power: 8  Extra effect: Poison
+Stone	NOT USED Power: 8  Extra effect: Stone
+Item 05F	NOT USED Item help 05F
+Normal Clip	NOT USED Increases Normal Bullet capacity
+Heavy Clip	NOT USED Increases Heavy Bullet capacity
+Fatal Clip	NOT USED Increases Fatal Bullet capacity
+Fire Clip	NOT USED Increases Fire Bullet capacity
+Ice Clip	NOT USED Increases Ice Bullet capacity
+Elec Clip	NOT USED Increases Elec Bullet capacity
+Force Clip	NOT USED Increases Force Bullet capacity
+Phys Clip	NOT USED Increases Phys Bullet capacity
+Death Clip	NOT USED Increases Death Bullet capacity
+Charm Clip	NOT USED Increases Charm Bullet capacity
+Sleep Clip	NOT USED Increases Sleep Bullet capacity
+Panic Clip	NOT USED Increases Panic Bullet capacity
+Mute Clip	NOT USED Increases Mute Bullet capacity
+Poison Clip	NOT USED Increases Poison Bullet capacity
+Stone Clip	NOT USED Increases Stone Bullet capacity
+Aurora Clip	NOT USED An infinite supply of Normal Bullets
+Youtou Kuzunoha	NOT USED Item help 070
+Nameless Gun	NOT USED Item help 071
+Prototype Gun	NOT USED Item help 072
+Item 073	NOT USED Item help 073
+Item 074	NOT USED Item help 074
+Item 075	NOT USED Item help 075
+Item 076	NOT USED Item help 076
+Item 077	NOT USED Item help 077
+Item 078	NOT USED Item help 078
+Item 079	NOT USED Item help 079
+Item 07A	NOT USED Item help 07A
+Item 07B	NOT USED Item help 07B
+Item 07C	NOT USED Item help 07C
+Item 07D	NOT USED Item help 07D
+Item 07E	NOT USED Item help 07E
+Item 07F	NOT USED Item help 07F
+Valhalla Soda	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Magical Soda	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Muscle Soda	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Miracle Soda	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Doctor Soda	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Dragon Soda	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Mandra Soda	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Valhalla Nectar	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Magical Nectar	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Muscle Nectar	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Miracle Nectar	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Elixir Pop	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Midas Pop	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Harvest Pop	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Deus Pop	NOT USED Strangely-colored soda. \tDrinking it has mysterious effects.
+Item 08F	NOT USED Item help 08F
+Zero	Sword help
+Renki	Pow: 100 Ma+1 \tSkill: None
+Himezuru	Pow: 140 Vi+1 Ma+1 \tSkill: Mana Bonus
+Bizen-osafune	Pow: 150 Ma+1 Lu+1 \tSkill: Item Bonus
+32 Gunto	Pow: 120 St+2 \tSkill: None
+Kanesada	Pow: 170 Ma+1 Vi+1 Lu+1 \tSkill: Res. Ice/Force Dmg. Taken
+Kotetsu	Pow: 840 Ma+2 \tSkill: Fire Boost
+Nagamitsu	Pow: 200 St+3 \tSkill: Drain
+Kogarasumaru	Pow: 205 Ma+1 Vi+2 Lu+1 \tSkill: Force Boost
+Muramasa	Pow: 210 Ma+2 Lu+1 \tSkill: Ice Boost
+Kiyotsune	Pow: 230 HP +10 Ma +1 \tSkill: A Sign of Revenge
+Kogitsune	Pow: 220 Ma+2 Vi+2 Lu+1 \tSkill: Void Instant Death
+Kogitsune Kage	Pow: 230 Ma+2 Vi+3 \tSkill: Guard Bonus
+Masamune	Pow: 240 Ma+3 Lu+1 \tSkill: Mana Bonus
+Usumidori	Pow: 255 Ma+2 Lu+2 \tSkill: Resist Fire/Elec Dmg. Taken
+Nagamichi	Pow: 260 HP+10 St+4 \tSkill: Death Bonus
+Shishiou	Pow: 280 HP+10 St+3 Lu+2 \tSkill: Heal MAG
+Raikiri	Pow: 250 Ma+2 Vi+2 Lu+2 \tSkill: Elec Boost
+Plasma Sword	Pow: 260 Ma+3 Vi+3 \tSkill: Res. Ice/Force Dmg. Taken
+Kanshou	Pow: 260 Ma+3 Lu+2 \tSkill: Item Bonus
+Bakuya	Pow: 275 Ma+3 Lu+3 \tSkill: Hex
+Doujigiri	Pow: 280 HP+20 St+4 \tSkill: Drain
+Seimitsu	Pow: 300 HP+20 St+4 Ma+2 \tSkill: Reduce Phys. Dmg. Taken
+Sol Blade	Pow: 275 Ma+2 Vi+3 Lu+2 \tSkill: Mana Surge
+Luna Blade	Pow: 285 Ma+3 Vi+4 Lu+1 \tSkill: Hex
+Gae Bolg	Pow: 310 Vi+7 Lu+2 \tSkill: Resist Mental/Death Effects
+Kusanagi	Pow: 285 Ma+4 Lu+2 \tSkill: Fire Boost
+Onigiri	Pow: 300 Ma+4 Lu+3 \tSkill: Resist Fire/Elec Dmg.
+Kurikara	Pow: 320 Ma+7 Lu+3 \tSkill: Resist Mental/Death Effects
+Ameno-ohabari	Pow: 305 HP+20 St+5 \tSkill: Elec Boost
+Vanargand	Pow: 325 HP+20 St+4 Lu+2 \tSkill: Heal MAG
+Balmung	Pow: 340 HP+30 St+7 Lu+4 \tSkill: Death Boost
+Futsu Mitama	Pow: 320 Ma+3 Vi+4 Lu+2 \tSkill: Guard Bonus
+Pinaka	Pow: 330 Ma+4 Vi+4 Lu+1 \tSkill: Force Boost
+Murakumo	Pow: 330 Ma+4 Lu+3 \tSkill: Void Instant Death
+Kikouseiken	Pow: 345 Ma+5 Lu+3 \tSkill: Ice Boost
+Totsuka	Pow: 350 HP+30 St+6 \tSkill: Reduce Phys. Dmg. Taken
+Mjolnir	Pow: 365 HP+30 St+5 Ma+3 \tSkill: Heal MAG +
+Tsukikage	Pow: 360 Ma+4 VI+5 Lu+2 \tSkill: Great Drain
+Kagutsuchi	Pow: 390 Ma+6 Lu+4 \tSkill: Res. Fire/Elec Dmg. Taken
+Youkou Haken	Pow: 410 HP+40 St+6 Ma+3 \tSkill: Loyalty Boost
+Youmetsutou	Pow: 277 HP+20 Lu+5 \tSkill: Apollyon Killer
+Mokushitou	Pow: 366 HP+30 Lu+8 \tSkill: Reincarnation
+Koumatou	Pow: 444 HP+40 Lu+10 \tSkill: Lunatic
+Shichishitou	Pow: 210 Vi+4 Ma+1 \tSkill: Guard Bonus
+Tentei Sword	Pow: 280 Ma+3 Lu+3 \tSkill: Item Bonus
+Laevateinn	Pow: 350 Ma+5 Lu+4 \tSkill: Drain
+Ameno-nuboko	Pow: 375 Ma+3 Vi+5 Lu+4 \tSkill: Loyalty Boost
+Masakados	Pow: 450 HP+50 All Stats+5 \tSkill: Great Drain
+Akatsuki	Pow: 460 St+9 Ma+10 HP+50 \tSkill: Shining Star
+Mitsurugi	Pow: 440 St+7 Lu+8 HP+35 \tSkill: Reincarnation
+Longinus	Pow: 380 Vi+6 Ma+4 Lu+3 \tSkill: Lunatic
+Shichiseiken	Sword Help
+Zankanken	Sword Help
+Murasame	Sword Help
+Nenekiri	Sword Help
+Nihil	Sword Help
+Kousetsu	Sword Help
+Higekiri	Sword Help
+Kumogiri	Sword Help
+Byakko	Sword Help
+Kenunmaru	Sword Help
+Konryumaru	Sword Help
+Koteitou	Sword Help
+Nagamichi	Sword Help
+Kunizuna	Sword Help
+Mitsuyo	Sword Help
+Hizamaru	Sword Help
+Shugotou	Sword Help
+Brionac	Sword Help
+Munechika	Sword Help
+Doujigiri	Sword Help
+Tsunetsugu	Sword Help
+Raijin	Sword Help
+Ameno-ohabari	Sword Help
+Yaegaki	Sword Help
+Seikou	Sword Help
+Kiten	Sword Help
+Seigatou	Sword Help
+Kunimuke	Sword Help
+Kamudo	Sword Help
+Item 0E1	NOT USED Item Help 0E1
+Item 0E2	NOT USED Item Help 0E2
+Item 0E3	NOT USED Item Help 0E3
+Item 0E4	NOT USED Item Help 0E4
+Item 0E5	NOT USED Item Help 0E5
+Item 0E6	NOT USED Item Help 0E6
+Item 0E7	NOT USED Item Help 0E7
+Item 0E8	NOT USED Item Help 0E8
+Item 0E9	NOT USED Item Help 0E9
+Item 0EA	NOT USED Item Help 0EA
+Item 0EB	NOT USED Item Help 0EB
+Item 0EC	NOT USED Item Help 0EC
+Item 0ED	NOT USED Item Help 0ED
+Item 0EE	NOT USED Item Help 0EE
+Item 0EF	NOT USED Item Help 0EF
+Item 0F0	NOT USED Item Help 0F0
+Item 0F1	NOT USED Item Help 0F1
+Item 0F2	NOT USED Item Help 0F2
+Item 0F3	NOT USED Item Help 0F3
+Item 0F4	NOT USED Item Help 0F4
+Item 0F5	NOT USED Item Help 0F5
+Item 0F6	NOT USED Item Help 0F6
+Item 0F7	NOT USED Item Help 0F7
+Item 0F8	NOT USED Item Help 0F8
+Item 0F9	NOT USED Item Help 0F9
+Item 0FA	NOT USED Item Help 0FA
+Item 0FB	NOT USED Item Help 0FB
+Item 0FC	NOT USED Item Help 0FC
+Item 0FD	NOT USED Item Help 0FD
+Item 0FE	NOT USED Item Help 0FE
+Item 0FF	NOT USED Item Help 0FF
+Item 100	NOT USED Item Help 100
+Item 101	NOT USED Item Help 101
+Item 102	NOT USED Item Help 102
+Item 103	NOT USED Item Help 103
+Item 104	NOT USED Item Help 104
+Item 105	NOT USED Item Help 105
+Item 106	NOT USED Item Help 106
+Item 107	NOT USED Item Help 107
+Item 108	NOT USED Item Help 108
+Item 109	NOT USED Item Help 109
+Item 10A	NOT USED Item Help 10A
+Item 10B	NOT USED Item Help 10B
+Item 10C	NOT USED Item Help 10C
+Item 10D	NOT USED Item Help 10D
+Item 10E	NOT USED Item Help 10E
+Item 10F	NOT USED Item Help 10F
+Pyro Steel	Crystallized Pyro demon soul. \tLow value \tMAX: 99
+Pyro Bronze	Crystallized Pyro demon soul. \tMed value \tMAX: 99
+Pyro Silver	Crystallized Pyro demon soul. \tHigh value \tMAX: 99
+Pyro Gold	Crystallized Pyro demon soul. \tVery high value \tMAX: 99
+Red Soul	NOT USED Item Help 114
+Pyro Crystal	NOT USED Item Help 115
+Flame Magatama	NOT USED Item Help 116
+Frost Steel	Crystallized Frost demon soul. \tLow value \tMAX: 99
+Frost Bronze	Crystallized Frost demon soul. \tMed value \tMAX: 99
+Frost Silver	Crystallized Frost demon soul. \tHigh value \tMAX: 99
+Frost Gold	Crystallized Frost demon soul. \tVery high value \tMAX: 99
+Blue Soul	NOT USED Item Help 11B
+Frost Crystal	NOT USED Item Help 11C
+Ice Magatama	NOT USED Item Help 11D
+Volt Steel	Crystallized Volt demon soul. \tLow value \tMAX: 99
+Volt Bronze	Crystallized Volt demon soul. \tMed value \tMAX: 99
+Volt Silver	Crystallized Volt demon soul. \tHigh value \tMAX: 99
+Volt Gold	Crystallized Volt demon soul. \tVery high value \tMAX: 99
+Yellow Soul	NOT USED Item Help 122
+Volt Crystal	NOT USED Item Help 123
+Shock Magatama	NOT USED Item Help 124
+Wind Steel	Crystallized Wind demon soul. \tLow value \tMAX: 99
+Wind Bronze	Crystallized Wind demon soul. \tMed value \tMAX: 99
+Wind Silver	Crystallized Wind demon soul. \tHigh value \tMAX: 99
+Wind Gold	Crystallized Wind demon soul. \tVery high value \tMAX: 99
+Green Soul	NOT USED Item Help 129
+Wind Crystal	NOT USED Item Help 12A
+Gust Magatama	NOT USED Item Help 12B
+Fury Steel	Crystallized Fury demon soul. \tLow value \tMAX: 99
+Fury Bronze	Crystallized Fury demon soul. \tMed value \tMAX: 99
+Fury Silver	Crystallized Fury demon soul. \tHigh value \tMAX: 99
+Fury Gold	Crystallized Fury demon soul. \tVery high value \tMAX: 99
+Shizu's Umbrella	An umbrella handmade by Shizu \tMAX: 99
+Ukemochi Liver	An animal liver, believed to \tgrant longevity \tMAX: 99
+Rusted Screw	Very high tech, but very poorly \tmaintained \tMAX: 99
+Pagan Steel	Crystallized Pagan demon soul. \tLow value \tMAX: 99
+Pagan Bronze	Crystallized Pagan demon soul. \tMed value \tMAX: 99
+Pagan Silver	Crystallized Pagan demon soul. \tHigh value \tMAX: 99
+Pagan Gold	Crystallized Pagan demon soul. \tVery high value \tMAX: 99
+Amulet	A charm to protect the wearer \tduring rituals \tMAX: 99
+Talisman	NOT USED Item Help 138
+Pentagram	NOT USED Item Help 139
+Skill Steel	Crystallized Skill demon soul. \tLow value \tMAX: 99
+Skill Bronze	Crystallized Skill demon soul. \tMed value \tMAX: 99
+Skill Silver	Crystallized Skill demon soul. \tHigh value \tMAX: 99
+Skill Gold	Crystallized Skill demon soul. \tVery high value \tMAX: 99
+Damascus Steel	NOT USED Item Help 13E
+Axion	NOT USED Item Help 13F
+Aboitakara	NOT USED Item Help 140
+Plastic	High-tech material from a foreign \tcountry \tMAX: 99
+Element #115	A chemical substance that glows \tsilvery-white \tMAX: 99
+Moon Chip	A rock fragment that fell from \tthe heavens \tMAX: 99
+Homusubi Crystal	Burning crystal imbued with \tHomusubi's power \tMAX: 99
+Light Steel	An ancient ore containing divine \tMAX: 99
+Shadow Magatama	A magatama containing lunar \tMAX: 99
+Victory Crown	Received from the White Rider \tMAX: 99
+Strife Blade	Received from the Red Rider \tMAX: 99
+Aletia	A mysterious material that \tsignifies truth \tMAX: 99
+Sessho-Seki	A legendary stone that drains \tvitality \tMAX: 99
+Onogoro Ore	A rare mineral only found on \tOnogoro Island \tMAX: 99
+Mirror of Sun	A divine mirror containing the \tsun's power \tMAX: 99
+Nous	Unknown material that signifies \tintelligence \tMAX: 99
+Blaze Steel	Legendary ore given to the \tCapital's guardians \tMAX: 99
+Hunger Scale	Received from the Black Rider \tMAX: 99
+Mortal Seal	Received from the Pale Rider \tMAX: 99
+Pentagram	A mystic star-shaped crest \tMAX: 99
+Serpent Sphere	NOT USED Item Help 152
+Inferno Sphere	NOT USED Item Help 153
+Lava Sphere	NOT USED Item Help 154
+Cursed Gear	NOT USED Item Help 155
+Dummy Item	NOT USED Item Help 156
+Death's Scythe	NOT USED Item Help 157
+Yomotsu-hegui	NOT USED Item Help 158
+Hihi-irokane	NOT USED Item Help 159
+Philosopher Stone	A treasure highly valued by \talchemists \tMAX: 99
+Demon's vessel	NOT USED Item Help 15B
+Book of Isaiah	NOT USED Item Help 15C
+Book of Ezekiel	NOT USED Item Help 15D
+Book of Jeremiah	NOT USED Item Help 15E
+Book of Enoch	NOT USED Item Help 15F
+Brahmaa Sutra	NOT USED Item Help 160
+Mobile Megido Extractor	NOT USED Item Help 161
+Asura Statue	NOT USED Item Help 162
+Behead Spoon	NOT USED Item Help 163
+Rikutou	NOT USED Item Help 164
+Megin Gjord	NOT USED Item Help 165
+Golden Ring	NOT USED Item Help 166
+Shadow Throne	NOT USED Item Help 167
+Tamahagane	NOT USED Item Help 168
+Scale Crackers	NOT USED Item Help 169
+Humanized Cyborg Demon	NOT USED Item Help 16A
+Humanized Archangel	NOT USED Item Help 16B
+Humanized Demon Lord	NOT USED Item Help 16C
+Humanized Goddess	NOT USED Item Help 16D
+Humanized Fairy	NOT USED Item Help 16E
+Humanized Demon	NOT USED Item Help 16F
+Takemikazuchi Talisman	NOT USED Item Help 170
+Sword Accessory	NOT USED Item Help 171
+Kotodama	NOT USED Item Help 172
+Item 173	NOT USED Item Help 173
+Item 174	NOT USED Item Help 174
+Item 175	NOT USED Item Help 175
+Item 176	NOT USED Item Help 176
+Item 177	NOT USED Item Help 177
+Item 178	NOT USED Item Help 178
+Pyro Loyal Drink	NOT USED Raises loyalty of Pyro demon. 1 ally
+Frost Loyal Drink	NOT USED Raises loyalty of Frost demon. 1 ally
+Volt Loyal Drink	NOT USED Raises loyalty of Volt demon. 1 ally
+Wind Loyal Drink	NOT USED Raises loyalty of Wind demon. 1 ally
+Fury Loyal Drink	NOT USED Raises loyalty of Skill demon. 1 ally
+Fury Loyal Drink	NOT USED Raises loyalty of Pagan demon. 1 ally
+Pagen Loyal Drink	NOT USED Raises loyalty of Fury demon. 1 ally
+Fiend Loyal Drink	NOT USED Raises loyalty of Fiend demon. 1 ally
+Magatsu Loyal Drink	NOT USED Raises loyalty of Magatsu demon. 1 ally
+Spirit Loyal Drink	NOT USED Raises loyalty of Spirit demon. 1 ally
+Mitama Loyal Drink	NOT USED Raises loyalty of Mitama demon. 1 ally
+Kagura Flute	Cures a demon of Protest status \tMAX: 9
+Old Frost Boycott	NOT USED Recovers Boycott of Frost demon.
+Old Volt Boycott	NOT USED Recovers Boycott of Volt demon.
+Old Wind Boycott	NOT USED Recovers Boycott of Wind demon.
+Old Fury Boycott	NOT USED Recovers Boycott of Skill demon.
+Old Fury Boycott	NOT USED Recovers Boycott of Pagan demon.
+Old Pagen Boycott	NOT USED Recovers Boycott of Fury demon.
+Old Fiend Boycott	NOT USED Recovers Boycott of Fiend demon.
+Old Urban Legend Boycott	NOT USED Recovers Boycott of Urban Legend demon.
+Old Spirit Boycott	NOT USED Recovers Boycott of Spirit demon.
+Old Mitama Boycott	NOT USED Recovers Boycott of Mitama demon.
+Recover Old Boycott	NOT USED Item Help 18F
+Tento Talisman	A permit approved by Lord Tento
+Ancient Scripture	Details of Tsukigata Village's legend
+Tento Crest	The Tsukigata clan crest
+Red-Black Pill	Poison pill received from Tasuke
+Rickshaw Knob	NOT USED A piece of a rickshaw handle.
+Dragon Tiles	Pieces used in Mahjong
+Number Tiles	Pieces used in Mahjong
+Scoring Sticks	Pieces used in Mahjong
+Four Wind Tiles	Pieces used in Mahjong
+Mahjong Tiles	NOT USED Items used for mahjong.
+Streetcar Pass	Grants the holder free streetcar rides
+Hiranya	A pendant believed to emit mysterious power
+Ring of Memories	NOT USED The ring the Owner of Ryugu got from Elfman
+Used Camera	A beat-up camera from Victor. 1925 model
+Ammunition Box	NOT USED The goods Narumi ordered from Konnou-Ya
+Earth Prism	NOT USED One of the four prisms. Represents earth
+Flame Prism	NOT USED One of the four prisms. Represents fire
+Water Prism	NOT USED One of the four prisms. Represents water
+Amatsu Kanagi	Yatagarasu's sacred treasure
+Metal Fixtures	May be used to repair something
+Ice Cream	NOT USED A cold, sweet dessert
+Syrup	NOT USED Sweet, thick sauce for cooking
+White Shard	NOT USED A shard that looks fixable
+Blue Shard	NOT USED A shard that looks fixable
+Red Shard	NOT USED A shard that looks fixable
+Blood Chrysoberyl	NOT USED A gem used to break the seal at the factory
+Fried Tofu	NOT USED Portions of food for foxes
+Reserve	NOT USED Item Help 1AB
+Sword of Kashima	NOT USED A sword to awaken the guardian of the Earth Prism
+Report Page 1	NOT USED Sadakichi's report on the Super Soldier Project
+Report Page 2	NOT USED Sadakichi's report on the Super Soldier Project
+Report Page 3	NOT USED Sadakichi's report on the Super Soldier Project
+Report Page 4	NOT USED Sadakichi's report on the Super Soldier Project
+Report Page 5	NOT USED Sadakichi's report on the Super Soldier Project
+Report Page 6	NOT USED Sadakichi's report on the Super Soldier Project
+Report Page 7	NOT USED Sadakichi's report on the Super Soldier Project
+Report Page 8	NOT USED Sadakichi's report on the Super Soldier Project
+Shiomitsu Orb	NOT USED An ocean-blue gem
+Chigaeshi Orb	NOT USED A blood-red gem
+Red Wine	NOT USED Wine from Provence, France
+Flute of Rhone	An old flute used to call the Large Tarrasque
+Pricey Beer	NOT USED A full-bodied beer
+Vodka	NOT USED Imported specially from Russia
+Prophetic Book	NOT USED A book prophesying many disasters
+Staff of Death	A staff that emits ominous energy
+Bancho Uniform	NOT USED A cloak and hat Detective Kazama used to wear
+Mystic Eye	NOT USED A mirror that can see demons' abilities
+Phantom Skull	NOT USED Required credentials to meet the Demon Lord
+Tyrant Spawn	NOT USED Required credentials to meet the Demon Lord
+Emblem of Hell	NOT USED Required credentials to meet the Demon Lord
+SS Project Report	NOT USED All the details of the Super Soldier Project
+Photo of Red Cape	NOT USED The photo of the Red Cape that Tae snapped
+Photo of Shizu	NOT USED A photo of the eloped Shizu
+Kiyoshi's Cane	NOT USED A cane Kiyoshi always carries around
+Photo of Tae	NOT USED Tae and an Army soldier in the Dark Realm
+Silvervine	NOT USED Item Help 0C7
+Golden Spoon	NOT USED Item Help 0C8
+Crossdresser Key	NOT USED Item Help 0C9
+Tae Sticker	NOT USED Sticker from Tae. If you collect them... 
+Thunder Taiko	A drum used to summon Great Kohryu
+Tesseract Box	Enables Raidou to teleport to the \tGouma-Den
+Small Kimono	An outfit left behind by Nagi's \tdemon
+Evil Sign	NOT USED Item Help 0CE
+Nous	NOT USED Item Help 0CF
+Morning Star	NOT USED Item Help 0D0
+Uka Talisman	A special talisman from Ukemochi \tno Kami
+Shrine Photo	Slightly unfocused shot of \tthe Nameless Shrine
+Tsukigata Photo	Tsukigata Village seen from \ta high vantage point
+Faerie Photo	Showcases the photographer's \tavant-garde style
+Inari Photo	The fox at Ishigami Inari Shrine \tis smiling
+Abaddon Photo	A photograph of an enigmatic \tdimension
+Kuroi Photo	Kuroi's eyes are half-shut in \tthe photo
+Scholar Photo	A dandy middle-aged man stands \tin the center
+Actress Photo	A photo of a famous actress, but...
+Moonlight Herbs	Herbs that grow only during a \tfull moon
+Mugshot Herbs	Herbs that look like a human face
+Senju Herbs	Herbs in shapes of hands
+Fickle Dew	Draught that makes the user \tirresistable
+Cultural Theory	An ancient civilization's \tcompilation of taboos
+Healing Bell	Restores the HP of Raidou and \tnearby demons
+Mind Mirror	Increase Raidou's MAG absorption \trate in battle
+Tatsumi's Hair	Needed to transform into Tatsumi
+Kamanari's Hair	Needed to transform into Kamanari
+Antoine's Fur	Needed to transform into a dog
+Shizu's Hair	Needed to transform into Shizu
+Merchant's Hair	Needed to transform into the \towner of Konnou-Ya
+Geirin's Blood	Needed to transform into Geirin
+Blonde Hair	Needed to transform into the \tblonde foreigner
+H's Hair	NOT USED Item Help 0E8
+I's Hair	NOT USED Item Help 0E9
+J's Hair	NOT USED Item Help 0EA
+K's Hair	NOT USED Item Help 0EB
+L's Hair	NOT USED Item Help 0EC
+M's Hair	NOT USED Item Help 0ED
+N's Hair	NOT USED Item Help 0EE
+O's Hair	NOT USED Item Help 0EF
+P's Hair	NOT USED Item Help 1F0
+Storehouse Key	NOT USED Item Help 1F1
+Lord Tento Key	NOT USED Item Help 1F2
+Fiend Repellant 1	NOT USED Item Help 1F3
+Fiend Repellant 2	NOT USED Item Help 1F4
+Akane's Letter 2	NOT USED Item Help 1F5
+Photo of Dahn	Photograph of a man Raidou is after
+Smoked Salmon	A tasty, foreign food given by \tVictor
+Croquette	Crispy potato snack filled with \taffection
+Shattered Cage	Pieces of an insect cage. Found \twhere Tatsumi vanished
+Tsukigata Gift	NOT USED Item Help 1FA
+Akane's Letter	A letter written by Akane, \taddressed to Dahn
+Dahn's Key	NOT USED Item Help 1FC
+Mottled Skin	Torn-off remnant of Apollyon
+Pojitrawn Crystal	Substance made from crystallized \tfortune
+Shukukon-Seki	A magical stone formed from \tcompressed souls

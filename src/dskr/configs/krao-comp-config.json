@@ -1,0 +1,19 @@
+{
+  "demonIds": "krao-data/demon-ids.tsv",
+  "skillIds": "krao-data/skill-descs.tsv",
+  "demonSkillDump": {
+    "file": "dumps/krao-demons.bin",
+    "start": 0,
+    "length": 148
+  },
+  "demonResistDump": {
+    "file": "dumps/krao-demons.bin",
+    "start": 85248,
+    "length": 64
+  },  
+  "skillDump": {
+    "file": "dumps/krao-skills.bin",
+    "start": 0,
+    "length": 64
+  }
+}

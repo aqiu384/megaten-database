@@ -61,25 +61,26 @@ def load_comp_config(fname):
 
     return comp_config
 
-def check_resists(game_data, tool_data, demon_ids, stat_config, comp_config):
+def check_resists(game_data, tool_data, demon_ids, stat_config, comp_config, big_endian=False):
     resists_len = len(comp_config['gameResists'])
     ailments_len = len(comp_config['gameAilments'])
     resist_order = comp_config['resistOrder']
     ailment_order = comp_config['ailmentOrder']
     resist_lvls = comp_config['resistLvls']
     resist_mods = comp_config['resistMods']
+    endi = '>' if big_endian else '<'
 
     for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end'], stat_config['length'])):
         line = game_data[line_start:line_start + stat_config['length']]
         dname, in_comp = demon_ids[d_id].split('\t')
 
-        if int(in_comp) < 1:
+        if int(in_comp) != 1:
             continue
 
         demon = tool_data[dname]
 
-        full_resists = struct.unpack(f"<{resists_len}H", line[:2*resists_len])
-        full_ailments = struct.unpack(f"<{ailments_len}H", line[2*resists_len:2*(resists_len + ailments_len)])
+        full_resists = struct.unpack(f"{endi}{resists_len}H", line[:2*resists_len])
+        full_ailments = struct.unpack(f"{endi}{ailments_len}H", line[2*resists_len:2*(resists_len + ailments_len)])
 
         resists = ''.join(resist_lvls[full_resists[x] >> 8] for x in resist_order)
         ailments = ''.join(resist_lvls[full_ailments[x] >> 8] for x in ailment_order)
