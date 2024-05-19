@@ -1,0 +1,28 @@
+{
+  "demonStatDump": {
+    "file": "dumps/demon-stats.bin",
+    "start": 60,
+    "length": 384
+  },
+  "demonResistDump": {
+    "file": "dumps/demon-resists.bin",
+    "length": 64,
+    "count": 448
+  },
+  "demonSkillDump": {
+    "file": "dumps/demon-skills.bin",
+    "length": 102,
+    "count": 224
+  },
+  "magatamaStatDump": {
+    "file": "dumps/magatama-stats.bin",
+    "length": 66,
+    "count": 28
+  },
+  "skillPowerDump": {
+    "file": "dumps/skill-powers.bin",
+    "elementLength": 8,
+    "length": 60,
+    "count": 288
+  }
+}
