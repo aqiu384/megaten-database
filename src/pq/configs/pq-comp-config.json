@@ -2,6 +2,7 @@
   "demonData": ["pq/data/demon-data.json"],
   "enemyData": ["pq/data/enemy-data.json"],
   "skillData": ["pq/data/skill-data.json"],
+  "skillCodes": "pq/data/skill-codes.json",
   "demonIds": "pq-data/battle/table/personanametable.tsv",
   "enemyIds": "pq-data/battle/table/enemynametable.tsv",
   "skillIds": "pq-data/battle/table/skillnametable.tsv",
