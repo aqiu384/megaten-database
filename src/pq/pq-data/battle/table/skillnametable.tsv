@@ -7,7 +7,7 @@ Agidyne	1
 Maragi	1
 Maragion	1
 Maragidyne	1
-Fire Spray	0
+Fire Spray	1
 Ragnarok	1
 BLANK	0
 BLANK	0
@@ -19,7 +19,7 @@ Garudyne	1
 Magaru	1
 Magarula	1
 Magarudyne	1
-Cyclone	0
+Cyclone	1
 Panta Rhei	1
 BLANK	0
 BLANK	0
@@ -33,7 +33,7 @@ Mabufula	1
 Mabufudyne	1
 Icy Paradise	1
 Niflheim	1
-Frozen Spear	0
+Frozen Spear	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -47,7 +47,7 @@ Maziodyne	1
 BLANK	0
 Thunder Reign	1
 Keraunos	1
-Thunder Clap	0
+Thunder Clap	1
 BLANK	0
 BLANK	0
 Megido	1
@@ -141,7 +141,7 @@ Swift Strike	1
 Frost Edge	1
 Zanshinken	1
 Zanshin Strike	0
-Death Needle	0
+Death Needle	1
 Guillotine	1
 Tempest Slash	1
 Bolt Strike	1
@@ -158,7 +158,7 @@ Primal Force	1
 Heavy Shot	1
 Broadshot	1
 Myriad Arrows	1
-Punishment	0
+Punishment	1
 Assault Dive	1
 Sleeper Punch	1
 Teardrop	1
@@ -185,12 +185,12 @@ Arrow Rain	1
 Aeon Rain	1
 Blinding Slice	0
 Toxic Slice	1
-Dream Slice	0
+Dream Slice	1
 Stunning Slice	1
-Bane Slice	0
+Bane Slice	1
 Gurentou	1
 Tousatsujin	1
-Raikouzan	0
+Raikouzan	1
 Jinpugeki	1
 Shinkuuha	1
 Resseiha	1
@@ -203,30 +203,30 @@ Gokuentou	1
 Hientou	1
 Reppu Strike	1
 Kamikaze Strike	1
-Hex Slice	0
-Soul Slice	0
+Hex Slice	1
+Soul Slice	1
 BLANK	0
 Physical End	0
 Support Start	0
 Dia	1
 Diarama	1
 Diarahan	1
-Recovery 	0
-Life Goblet	0
+Recovery	1
+Life Goblet	1
 Media	1
 Mediarama	1
 Mediarahan	1
 Recarm	1
 Samarecarm	1
 Treatment	0
-Renewal	0
+Renewal	1
 Patra	1
-Refresh	0
+Refresh	1
 Me Patra	1
 Mutudi	1
-Becalm	0
+Becalm	1
 Mamutudi	0
-Amrita	0
+Amrita	1
 BLANK	0
 BLANK	0
 Bestial Roar	1
@@ -240,9 +240,9 @@ Safeguard	1
 Body Shield	1
 Life Wall	1
 True Warden	0
-Holy Blessing	0
-Guiding Sword	0
-Guarding Staff	0
+Holy Blessing	1
+Guiding Sword	1
+Guarding Staff	1
 Spotter	0
 Critical Eye	1
 Makara Boost	0
@@ -289,16 +289,16 @@ Sukukaja	1
 Tarunda	1
 Rakunda	1
 Sukunda	1
-Debilitate	0
-Heat Riser	0
+Debilitate	1
+Heat Riser	1
 Mind's Eye	1
-Door of Hades	0
+Door of Hades	1
 Call to Hades	0
-Calamity Seed	0
+Calamity Seed	1
 Calamity Advent	0
-Lunar Blessing	0
+Lunar Blessing	1
 BLANK	0
-Healing Harp	0
+Healing Harp	1
 Healing Harp	0
 Lightning Smash	1
 Thunder Smash	1
@@ -332,12 +332,12 @@ BLANK	0
 BLANK	0
 Harvest Prayer	1
 Cornucopia	1
-Healing Tide	0
+Healing Tide	1
 Healing Tide	0
 Renewal Ray	1
 Renewal Aura	1
-Healing Breeze	0
-Spotlight	0
+Healing Breeze	1
+Spotlight	1
 Yomi Return	1
 Third Eye	0
 Orb of Resolve	1
@@ -350,9 +350,9 @@ Calming Lull	1
 Spotter	1
 Magic Mallet	1
 Fanfare	0
-Into the Void	0
-Tidal Wave	0
-Oracle	0
+Into the Void	1
+Tidal Wave	1
+Oracle	1
 Oracle	0
 Oracle	0
 Oracle	0
@@ -360,7 +360,7 @@ Oracle	0
 Oracle	0
 Healing Breeze	0
 Absolute Camera	0
-Prayer	0
+Prayer	1
 Vigilant Sonar	0
 Treasure Hunter	1
 Fortune Hunter	1
@@ -370,7 +370,7 @@ Clairvoyance	1
 Farsight	1
 Purifying Rain	1
 Material Cache	0
-Zero Set	0
+Zero Set	1
 Eternal Melody	1
 Lavish Gift	0
 Holy Gift	0
@@ -472,11 +472,11 @@ Heroic Pose	0
 Hermit Arts	0
 Hermit Mastery	0
 Bloody Vanguard	1
-Deadly Vanguard	0
+Deadly Vanguard	1
 Empress Arts	0
 Empress Mastery	0
-Squire Card	0
-Knight Card	0
+Squire Card	1
+Knight Card	1
 Soldier Arts	0
 Soldier Mastery	0
 Kung Fu Arts	0
@@ -486,7 +486,7 @@ Wild Arts +	0
 Brave Soul	0
 Brave Soul +	0
 Rebel Spirit	1
-Uprising	0
+Uprising	1
 Circle Master	0
 Circle Virtuoso	0
 Brawler Arts	0
@@ -498,9 +498,9 @@ Stance Virtuoso	0
 Raging Lion	0
 Raging Lion +	0
 Heroic Gemini	1
-Golden Gemini	0
+Golden Gemini	1
 Runic Shield	1
-Aegis Shield	0
+Aegis Shield	1
 Swordbreaker	1
 BLANK	0
 BLANK	0
@@ -508,13 +508,13 @@ First Star	1
 Binding Hands	1
 Restoring Touch	1
 Warrior Title	1
-Conqueror Title	0
+Conqueror Title	1
 Conqueror Arts	0
 Healing Hand	1
 Dia Guard	0
 Diarama Guard	0
 Colossal Swing	1
-Whirlwind Swing	0
+Whirlwind Swing	1
 Golden Link	1
 Perception	0
 Forked Spear	1
@@ -523,7 +523,7 @@ Endure	1
 Nature's Grace	0
 Immunity Buffer	1
 Lemegeton	1
-Platinum Coin	0
+Platinum Coin	1
 Absorb Fire	1
 Absorb Wind	1
 Absorb Ice	1
@@ -545,14 +545,14 @@ Death's Scythe	1
 Impure Reach	1
 BLANK	0
 Circle Recovery	1
-King Card	0
-Inferno Boost	0
-Tornado Boost	0
-Powerhouse	0
+King Card	1
+Inferno Boost	1
+Tornado Boost	1
+Powerhouse	1
 BLANK	0
 SP Focus	0
 BLANK	0
-Target Boost	0
+Target Boost	1
 Attack Boost I	0
 Attack Boost II	0
 Attack Boost III	0
@@ -562,7 +562,7 @@ Defense Boost III	0
 Element Boost I	0
 Element Boost II	0
 Element Boost III	0
-Serene Journey	0
+Serene Journey	1
 Serene Quest	0
 Serene Pilgrimage	0
 Double Link	1
@@ -706,7 +706,7 @@ End	0
 Ailment Boost	0
 Ailment Surge	0
 Raging Fists	1
-Furious Fists	0
+Furious Fists	1
 Punisher	1
 BLANK	0
 BLANK	0
@@ -774,7 +774,7 @@ Agidyne	0
 Maragi	0
 Maragion	0
 Maragidyne	0
-Fire Dance	0
+Fire Dance	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -784,7 +784,7 @@ Garudyne	0
 Magaru	0
 Magarula	0
 Magarudyne	0
-Wind Dance	0
+Wind Dance	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -795,7 +795,7 @@ Mabufu	0
 Mabufula	0
 Mabufudyne	0
 Absolute Zero	0
-Ice Dance	0
+Ice Dance	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -806,7 +806,7 @@ Mazio	0
 Mazionga	0
 Maziodyne	0
 Keraunos	0
-Elec Dance	0
+Elec Dance	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -832,8 +832,8 @@ BLANK	0
 BLANK	0
 Poisma	0
 Poison Breath	0
-Stona	0
-Stone Mist	0
+Stona	1
+Stone Mist	1
 Dormina	0
 Lullaby Song	0
 Pulinpa	0
@@ -843,14 +843,14 @@ BLANK	0
 Evil Touch	0
 Evil Smile	0
 Shibaboo	0
-Binding Cry	0
+Binding Cry	1
 Makajam	0
-Silent Song	0
+Silent Song	1
 Disarm	0
-Muscle Down	0
-Scarecrow	0
-Spiderweb	0
-Self-Destruct	0
+Muscle Down	1
+Scarecrow	1
+Spiderweb	1
+Self-Destruct	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -900,50 +900,50 @@ Fang Smash	0
 Kidney Smash	0
 Cleave	0
 Twin Slash	0
-Lunge	0
+Lunge	1
 Double Shot	0
 Mighty Swing	0
-Hard Slash	0
-Charge Shot	0
-Stab Shower	0
+Hard Slash	1
+Charge Shot	1
+Stab Shower	1
 Frost Edge	0
 Guillotine	0
 Tempest Slash	0
 Lightning Smash	0
-Drain Touch	0
+Drain Touch	1
 Gigantic Fist	0
 Single Shot	0
-Thorn Shackles	0
-Thorn Cuffs	0
-Thorn Chains	0
+Thorn Shackles	1
+Thorn Cuffs	1
+Thorn Chains	1
 Assault Shot	0
 Primal Force	0
 Heavy Shot	0
 Broadshot	0
 Myriad Arrows	0
-Megaton Press	0
+Megaton Press	1
 Brain Shake	0
 Stardrop	0
 Buchikamashi	0
-Spin Slash	0
+Spin Slash	1
 Blade of Fury	0
 Tousatsujin	0
 Vorpal Blade	0
-Crazed Slash	0
+Crazed Slash	1
 Skull Cracker	0
 Scorching Blast	0
 Heat Wave	0
-Megaton Slam	0
+Megaton Slam	1
 Megaton Slam	0
 Blinding Slice	0
 Toxic Slice	0
 Dream Slice	0
 Stunning Slice	0
 Bane Slice	0
-Mow Down	0
+Mow Down	1
 Deathbound	0
-Torrent Shot	0
-Rampage	0
+Torrent Shot	1
+Rampage	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -1014,10 +1014,10 @@ Marakukaja	0
 Masukukaja	0
 Power Charge	0
 Mind Charge	0
-Fire Corrosion	0
-Ice Corrosion	0
-Elec Corrosion	0
-Wind Corrosion	0
+Fire Corrosion	1
+Ice Corrosion	1
+Elec Corrosion	1
+Wind Corrosion	1
 BLANK	0
 BLANK	0
 Matarunda	0
@@ -1078,16 +1078,16 @@ Elec Boost	0
 Wind Boost	0
 Trick Step	0
 Recovery Up	0
-Phys Boost	0
-Phys Boost II	0
-Magic Boost	0
-Magic Boost II	0
-Wide Effect	0
-Wide Effect II	0
-Wide Effect III	0
-Double Action	0
-Double Action II	0
-Double Action III	0
+Phys Boost	1
+Phys Boost II	1
+Magic Boost	1
+Magic Boost II	1
+Wide Effect	1
+Wide Effect II	1
+Wide Effect III	1
+Double Action	1
+Double Action II	1
+Double Action III	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -1184,11 +1184,11 @@ BLANK	0
 BLANK	0
 BLANK	0
 BLANK	0
-Soldier Summon	0
+Soldier Summon	1
 Reinforcements	0
 BLANK	0
-Holy Wrath	0
-Vow	0
+Holy Wrath	1
+Vow	1
 BLANK	0
 BLANK	0
 BLANK	0
@@ -1198,16 +1198,16 @@ BLANK	0
 BLANK	0
 BLANK	0
 BLANK	0
-Drastic Measure	0
+Drastic Measure	1
 Endure	0
-Rabbit's Foot	0
-Deafening Roar	0
+Rabbit's Foot	1
+Deafening Roar	1
 BLANK	0
-Gears of Time	0
-Time Warp	0
+Gears of Time	1
+Time Warp	1
 Death Sentence	0
-Time Reversal	0
-Time Stop	0
+Time Reversal	1
+Time Stop	1
 BLANK	0
 UNKNOWN	0
 BLANK	0
