@@ -22,7 +22,7 @@ COMMON_KEYS = {
     539: ('mod', SAME_FUN)
 }
 
-GAME = 'pq'
+GAME = 'pq2'
 
 with open(f"configs/{GAME}-comp-config.json") as jsonfile:
     COMP_CONFIG = json.load(jsonfile)
@@ -45,7 +45,8 @@ COMMON_SKILLS = { 'Name': {
     'targ': 'Target',
     'add': 'Add Eff',
     'eff': 'Effect',
-    'desc': 'Description'
+    'desc': 'Description',
+    'card': 'Card'
 } }
 
 for fname in COMP_CONFIG['skillData']:
@@ -82,7 +83,8 @@ for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
             'rank': (90 if sname in SKILL_CODES else 99) if 'unique' in OLD_SKILLS[sname] else 0,
             'elem': OLD_SKILLS[sname]['elem'],
             'targ': OLD_SKILLS[sname].get('target', ''),
-            'desc': OLD_SKILLS[sname]['effect']
+            'desc': OLD_SKILLS[sname]['effect'],
+            'card': OLD_SKILLS[sname].get('card', '')
         }
 
     for i in range(0, TRAIT_LEN << 3, TRAIT_LEN):
@@ -104,7 +106,7 @@ for sname, seen in SEEN.items():
         print('Not seen:', sname)
 
 LINES = []
-DISPLAY_KEYS = ['elem', 'rank', 'cost', 'pow', 'min', 'max', 'acc', 'crit', 'mod', 'targ', 'add', 'eff', 'desc']
+DISPLAY_KEYS = ['elem', 'rank', 'cost', 'pow', 'min', 'max', 'acc', 'crit', 'mod', 'targ', 'add', 'eff', 'desc', 'card']
 for sname, entry in COMMON_SKILLS.items():
     if sname in SEEN:
         LINES.append('\t'.join([str(entry['id']), sname, '\t'.join(str(entry.get(x, 0)) for x in DISPLAY_KEYS)]))

@@ -1,6 +1,6 @@
 {
   "demonData": ["desu1/data/van-demon-data.json", "desu1/data/ove-demon-data.json"],
-  "skillData": ["desu1/data/ove-skill-data.json"],
+  "skillData": ["desu1/data/van-skill-data.json", "desu1/data/ove-skill-data.json"],
   "demonIds": "data/dso-demons.tsv",
   "raceIds": "data/dso-races.tsv",
   "skillIds": {

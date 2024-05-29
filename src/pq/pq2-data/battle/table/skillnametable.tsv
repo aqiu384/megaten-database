@@ -221,11 +221,11 @@ Samarecarm	1
 Treatment	0
 Renewal	0
 Patra	1
-Refresh	0
+Refresh	1
 Me Patra	1
 Mutudi	1
 Becalm	0
-Mamutudi	0
+Mamutudi	1
 Amrita	1
 BLANK	0
 BLANK	0
@@ -243,9 +243,9 @@ Blank	0
 Holy Blessing	0
 Warrior Song	0
 Strike Guard	0
-Rebel Vanguard	0
+Rebel Vanguard	1
 Critical Eye	1
-Revolt Vanguard	0
+Revolt Vanguard	1
 Matarukaja	1
 Marakukaja	1
 Masukukaja	1
@@ -276,7 +276,7 @@ Dekaja	1
 Dekunda	1
 Blank	0
 Psy Screen	1
-Nuclear Screen	0
+Nuclear Screen	1
 Fire Screen	1
 Wind Screen	1
 Ice Screen	1
@@ -312,14 +312,14 @@ Blank	0
 BLANK	0
 BLANK	0
 Blank	0
+True Analysis	1
 True Analysis	0
-True Analysis	0
+Zero Shift	1
 Zero Shift	0
-Zero Shift	0
-Encore	0
+Encore	1
 Encore	0
 Unused SP Skill	0
-Oracle	0
+Oracle	1
 All-out Attack	0
 Sutakora Foot	0
 Analyze	0
@@ -329,15 +329,15 @@ Heroic Wind	1
 Unyielding Heart	0
 Let Me Reach Them	0
 Hikari's Feelings	0
-Healing Tide	0
+Healing Tide	1
 Harvest Prayer	1
 Cornucopia	0
 Healing Tide	0
 Blank	0
 Renewal Ray	1
 Renewal Aura	0
-Mini Recovery	0
-Spotlight	0
+Mini Recovery	1
+Spotlight	1
 Yomi Return	1
 Third Eye	0
 Orb of Resolve	1
@@ -349,7 +349,7 @@ Safety Prayer	1
 Calming Lull	1
 Spotter	1
 Magic Mallet	1
-Final Guard	0
+Final Guard	1
 Final Guard	0
 Tidal Wave	0
 Oracle	0
@@ -361,7 +361,7 @@ Oracle	0
 Mini Recovery	0
 UNUSED_Absolute Camera	0
 Prayer	0
-Sneak Guide	0
+Sneak Guide	1
 Treasure Hunter	1
 Fortune Hunter	1
 Faerie's Vigil	1
@@ -369,17 +369,17 @@ Tengu's Vigil	1
 Clairvoyance	1
 Farsight	1
 Purifying Rain	1
-Treasure Skimmer	0
+Treasure Skimmer	1
 Zero Set	0
 Eternal Melody	1
-On Stage	0
-Escape Route	0
+On Stage	1
+Escape Route	1
 Hikari's Cheer	0
-Risk Management	0
+Risk Management	1
 Hunting Prayer	1
 Endless Bounty	0
-Third Eye	0
-Cheer March	0
+Third Eye	1
+Cheer March	1
 Paths of Light	1
 Roads of Light	1
 Blank	0
@@ -476,7 +476,7 @@ Deadly Vanguard	0
 Empress Arts	0
 Empress Mastery	0
 Squire Card	0
-Fool Card	0
+Fool Card	1
 Soldier Arts	0
 Soldier Mastery	0
 Kung Fu Arts	0
@@ -499,8 +499,8 @@ Raging Lion+	0
 Heroic Gemini	1
 Golden Gemini	0
 Runic Shield	1
-Aegis Shield	0
-Swordbreaker	0
+Aegis Shield	1
+Swordbreaker	1
 Bind Arts	1
 Bind Arts+	1
 First Star	1
@@ -520,7 +520,7 @@ Combo Arts	1
 Combo Arts+	1
 Dodge Arts	1
 Dodge Arts+	1
-Trick Step	0
+Trick Step	1
 Immunity Buffer	1
 Lemegeton	0
 Repulse Mist	0
@@ -545,13 +545,13 @@ Ambush Arts+	1
 Ailment Arts	1
 Ailment Arts+	1
 Circle Recovery	1
-Judgment Card	0
+Judgment Card	1
 Inferno Boost	1
 Tornado Boost	1
 SP Focus	0
 Critical Arts	0
 Critical Arts+	0
-Queen's Pierce	0
+Queen's Pierce	1
 Attack Boost I	0
 Attack Boost II	0
 Attack Boost III	0
@@ -561,7 +561,7 @@ Defense Boost III	0
 Affinity Boost I	0
 Affinity Boost II	0
 Affinity Boost III	0
-Serene Stroll	0
+Serene Stroll	1
 Serene Quest	0
 Serene Pilgrimage	0
 Double Link	1
@@ -594,7 +594,7 @@ Endure	1
 Null Hex	1
 Null Paralysis	0
 Keburi no Sue	0
-Masochist Lash	0
+Masochist Lash	1
 Masochist Lash	0
 Null M-Bind	1
 Null S-Bind	1
@@ -724,7 +724,7 @@ Null Insta-kill	0
 Null Ailments	0
 Null Binds	0
 Blank	0
-Return from Yomi	0
+Return from Yomi	1
 Triple Link	1
 Quadruple Link	1
 Infinite Link	1
@@ -738,32 +738,32 @@ Overheat	0
 Overheat End	0
 Vow End	0
 Blank	0
-Nuclear Boost	0
+Nuclear Boost	1
 Psy Boost	1
 Bless Boost	1
 Curse Boost	1
-Nuclear Amp	0
+Nuclear Amp	1
 Psy Amp	1
 Bless Amp	1
 Curse Amp	1
 Kunai Dance	0
-Kunai Dance	0
+Kunai Dance	1
+Intercept Fire	1
 Intercept Fire	0
-Intercept Fire	0
+Called Shot	1
 Called Shot	0
-Called Shot	0
-Sonic Rush	0
+Sonic Rush	1
 Sonic Rush	0
 Blank	0
 Ailment Boost	0
 Ailment Surge	0
-Raging Fists	0
-Furious Fists	0
+Raging Fists	1
+Furious Fists	1
 Bound Arts	1
 Bound Arts+	1
+Mistress Lash	1
 Mistress Lash	0
-Mistress Lash	0
-Protecting Sword	0
+Protecting Sword	1
 Ice-Fire Ankh	0
 Wnd-Elec Ankh	0
 Barrier Tech	0
@@ -776,7 +776,7 @@ Maragion	1
 Maragidyne	1
 Fire Dance	1
 Flame Dance	1
-Inferno Dance	0
+Inferno Dance	1
 Blank	0
 Garu	1
 Garula	1
@@ -808,7 +808,7 @@ Maziodyne	1
 Keraunos	0
 Elec Dance	1
 Bolt Dance	1
-Storm Dance	0
+Storm Dance	1
 Blank	0
 Megido	1
 Megidola	1
@@ -843,7 +843,7 @@ Blank	0
 Evil Touch	1
 Evil Smile	1
 Shibaboo	1
-Binding Cry	0
+Binding Cry	1
 Makajam	1
 Silent Song	1
 Disarm	1
@@ -851,7 +851,7 @@ Muscle Down	1
 Scarecrow	1
 Spiderweb	0
 Self-Destruct	1
-Bunny Slumber	0
+Bunny Slumber	1
 Kouha	1
 Kouga	1
 Kougaon	1
@@ -929,7 +929,7 @@ Spin Slash	0
 Blade of Fury	1
 Tousatsujin	1
 Vorpal Blade	1
-Crazed Slash	0
+Crazed Slash	1
 Headbutt	1
 Scorching Blast	1
 Heat Wave	1
@@ -945,29 +945,29 @@ Deathbound	1
 Torrent Shot	0
 Rampage	1
 Buchikamashi	1
-Egg Bomb	0
-Burst Arm	0
-Supersonic Hero	0
-Kamoshida Kick	0
-Carrot Gun	0
-Carrot Bomb	0
+Egg Bomb	1
+Burst Arm	1
+Supersonic Hero	1
+Kamoshida Kick	1
+Carrot Gun	1
+Carrot Bomb	1
 Mow Down	1
 Supersonic Hero	0
 Scepter Strike	1
 End Shot	1
-Scarlet Laser	0
-Barrage	0
+Scarlet Laser	1
+Barrage	1
 Berserk Frenzy	1
 Sabaton Slice	1
-Crushing Strike	0
+Crushing Strike	1
 Hassou Tobi	1
 God's Hand	1
 Eliminate	0
-Leg Eraser	0
-Power Eraser	0
-Head Eraser	0
-Weapon Breaker	0
-Tail Whip	0
+Leg Eraser	1
+Power Eraser	1
+Head Eraser	1
+Weapon Breaker	1
+Tail Whip	1
 Blank	0
 BLANK	0
 BLANK	0
@@ -997,7 +997,7 @@ BLANK	0
 BLANK	0
 BLANK	0
 Bestial Roar	1
-Nasty Taunt	0
+Nasty Taunt	1
 Blank	0
 Rampart	0
 Safeguard	1
@@ -1037,13 +1037,13 @@ Tarunda	1
 Rakunda	1
 Sukunda	1
 Blank	0
-Hypercharge	0
-Absolute Power	0
+Hypercharge	1
+Absolute Power	1
 War Cry	0
-Psych Up	0
+Psych Up	1
 Mow Down	1
-Wild Rush	0
-Riot Run	0
+Wild Rush	1
+Riot Run	1
 Sukukaja	1
 Double Sukukaja	0
 Triple Sukukaja	0
@@ -1103,17 +1103,17 @@ Nuke Turbo	1
 Bless Turbo	1
 Curse Turbo	1
 Blank	0
-Resonance	0
-Telepathic Bond	0
-Aspiring Heart	0
-Great Unity Link	0
+Resonance	1
+Telepathic Bond	1
+Aspiring Heart	1
+Great Unity Link	1
 Ironfist Style	0
-Ironfist Style	0
+Ironfist Style	1
 Effortless Style	0
-Effortless Style	0
+Effortless Style	1
 War Cry	0
-Psy Drain	0
-Nuclear Drain	0
+Psy Drain	1
+Nuclear Drain	1
 Blank	0
 BLANK	0
 BLANK	0
@@ -1189,13 +1189,13 @@ Reinforcements	0
 BLANK	0
 Holy Wrath	0
 Vow	0
-Piercing Rapier	0
+Piercing Rapier	1
 Tempest Dance	0
 Tempest Dance	0
-Wind Fang	0
-Swift Fang	0
-Gale Fang	0
-Tempest Fang	0
+Wind Fang	1
+Swift Fang	1
+Gale Fang	1
+Tempest Fang	1
 Blank	0
 BLANK	0
 Drastic Measure	0
@@ -1230,10 +1230,10 @@ Megidolaon	1
 BLANK	0
 BLANK	0
 Blank	0
-Flame Tempest	0
-Frost Tempest	0
-Saint Tempest	0
-Umbral Tempest	0
+Flame Tempest	1
+Frost Tempest	1
+Saint Tempest	1
+Umbral Tempest	1
 Blank	0
 Saint Spear	0
 Air Slice	0
@@ -1247,11 +1247,11 @@ Frost Aura	0
 Saint Aura	0
 Umbral Aura	0
 Blank	0
-Rage	0
-Origin Strike	0
+Rage	1
+Origin Strike	1
 Blank	0
-Retake	0
-Time Accelerate	0
+Retake	1
+Time Accelerate	1
 Blank	0
 Kamoshidaman!	0
 RESERVE SKILL	0
@@ -1428,47 +1428,47 @@ Vengeful Melee	1
 Divine Strike	0
 Supreme Strike	0
 Heaven's Strike	0
-Dream Needle	0
-Machismo Wall	0
+Dream Needle	1
+Machismo Wall	1
+Cost Cutter	1
 Cost Cutter	0
-Cost Cutter	0
+Called Homerun	1
 Called Homerun	0
-Called Homerun	0
-Kunai Backup	0
+Kunai Backup	1
 Kunai Backup	0
 Voltaic Surge	0
 Deflector Shot	0
-Deflector Shot	0
-Sleuth Insight	0
+Deflector Shot	1
+Sleuth Insight	1
+Counter Stance	1
 Counter Stance	0
-Counter Stance	0
-Machismo Barrier	0
+Machismo Barrier	1
+Rush Stance	1
 Rush Stance	0
-Rush Stance	0
-Counter Bash	0
+Counter Bash	1
 Counter Bash	0
 Taunt Counter	0
-Empress Pierce	0
-Unlimiter	0
-Full Throttle	0
+Empress Pierce	1
+Unlimiter	1
+Full Throttle	1
 Lucky Punch	1
 Miracle Punch	1
 Taunt Counter	0
 Blank	0
-Counter Style	0
-Revenge Style	0
-Snacking Art	0
-Snack Expertise	0
-Detective's Ban	0
-Kitty Step	0
-Axe Guard	0
-Illusive Dance	0
-Mirage Dance	0
-Immunity Bod	0
+Counter Style	1
+Revenge Style	1
+Snacking Art	1
+Snack Expertise	1
+Detective's Ban	1
+Kitty Step	1
+Axe Guard	1
+Illusive Dance	1
+Mirage Dance	1
+Immunity Bod	1
 Empress Pierce	0
-Paradise Stroll	0
-Veteran's Aura	0
-Aegis Shielding	0
+Paradise Stroll	1
+Veteran's Aura	1
+Aegis Shielding	1
 Regenerate 1	1
 Regenerate 2	1
 Regenerate 3	1
@@ -1481,10 +1481,10 @@ Punishing Bite	1
 Punishing End	1
 Saint's Touch	1
 Arm Crusher	1
-Axe Bulwark	0
+Axe Bulwark	1
+Cost Reduction	1
 Cost Reduction	0
-Cost Reduction	0
-Invincible Bod	0
+Invincible Bod	1
 Power Knack	1
 Power Talent	1
 Power Genius	1
