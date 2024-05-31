@@ -369,7 +369,7 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 0	未使用	未使用	미사용	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用	未使用
 3	Skeptical Tiara	不信のティアラ	불신의 티아라	怀疑之宝冠	不信后冠	Zweifelnde Tiara	Tiara escéptica	Tiare sceptique	Tiara scettica	Sceptyczna tiara	Tiara Cética	Скептическая тиара	Şüpheci Taç
-3	Priestess	プリーステス	프리스테스	女教皇	女教皇	Hohepriesterin	Sacerdotisa	La Papesse	Papessa	Kapłanka	Sacerdotisa	Верховная жрица	Azize
+3	Priestess A	プリーステス	프리스테스	女教皇	女教皇	Hohepriesterin	Sacerdotisa	La Papesse	Papessa	Kapłanka	Sacerdotisa	Верховная жрица	Azize
 3	Despairing Tiara	失望のティアラ	실망의 티아라	失望之宝冠	失望后冠	Verzweifelnde Tiara	Tiara desesperada	Tiare du désespoir	Tiara della disperazione	Rozpaczająca tiara	Tiara Desesperada	Отчаявшаяся тиара	Çaresiz Taç
 3	Loathsome Tiara	憎悪のティアラ	증오의 티아라	憎恶之宝冠	憎惡后冠	Abscheuliche Tiara	Tiara repugnante	Tiare détestable	Tiara ripugnante	Odrażająca tiara	Tiara Odiosa	Омерзительная тиара	Nefret Dolu Taç
 3	Empress A	エンプレス	엠프레스	女皇	女皇	Herrscherin	Emperatriz	L'Impératrice	Imperatrice	Cesarzowa	Imperatriz	Императрица	İmparatoriçe
@@ -379,15 +379,15 @@ flag	en	ja	ko	zh-Hans	zh-Hant	de	es	fr	it	pl	pt	ru	tr
 3	Emperor B	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
 3	Emperor C	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
 3	Emperor D	エンペラー	엠퍼러	皇帝	皇帝	Herrscher	Emperador	L'Empereur	Imperatore	Cesarz	Imperador	Император	İmparator
-3	Hierophant	ハイエロファント	하이어러팬트	教皇	教皇	Hierophant	Hierofante	Le Pape	Ierofante	Kapłan	Hierofante	Верховный жрец	Aziz
-3	Lovers	ラヴァーズ	러버즈	恋爱	戀愛	Liebende	Amantes	L'Amoureux	Amanti	Kochankowie	Enamorados	Влюбленные	Aşıklar
-3	Chariot	チャリオッツ	채리엇	战车	戰車	Wagen	Carro	Le Chariot	Carro	Rydwan	Carro	Колесница	Araba
-3	Justice	ジャスティス	저스티스	正义	正義	Gerechtigkeit	Justicia	La Justice	Giustizia	Sprawiedliwość	Justiça	Правосудие	Adalet
+3	Hierophant A	ハイエロファント	하이어러팬트	教皇	教皇	Hierophant	Hierofante	Le Pape	Ierofante	Kapłan	Hierofante	Верховный жрец	Aziz
+3	Lovers A	ラヴァーズ	러버즈	恋爱	戀愛	Liebende	Amantes	L'Amoureux	Amanti	Kochankowie	Enamorados	Влюбленные	Aşıklar
+3	Chariot A	チャリオッツ	채리엇	战车	戰車	Wagen	Carro	Le Chariot	Carro	Rydwan	Carro	Колесница	Araba
+3	Justice A	ジャスティス	저스티스	正义	正義	Gerechtigkeit	Justicia	La Justice	Giustizia	Sprawiedliwość	Justiça	Правосудие	Adalet
 3	Tank-Form Shadow	戦車型シャドウ	전차형 섀도	战车型暗影	戰車型陰影	Panzerschatten	Sombra en forma de tanque	Ombre en forme de tank	Ombra carro armato	Cień czołgu	Sombra-tanque	Тень в виде танка	Tank Biçimindeki Gölge
-3	Hermit	ハーミット	허미트	隐者	隱士	Eremit	Ermitaño	L'Hermite	Eremita	Eremita	Eremita	Отшельник	Ermiş
-3	Fortune	フォーチュン	포츈	命运	命運	Omikuji	Fortuna	La Roue de Fortune	Divinazione	Przepowiednia	Sorte	Предсказание	Kader Çarkı
-3	Strength	ストレングス	스트렝스	力量	力量	Stärke	Fuerza	La Force	Forza	Siła	Força	Сила	Güç
-3	Hanged Man	ハングドマン	행드맨	倒悬者	倒懸者	Gehängter	Ahorcado	Le Pendu	Appeso	Wisielec	Enforcado	Повешенный	Asılan Adam
+3	Hermit A	ハーミット	허미트	隐者	隱士	Eremit	Ermitaño	L'Hermite	Eremita	Eremita	Eremita	Отшельник	Ermiş
+3	Fortune A	フォーチュン	포츈	命运	命運	Omikuji	Fortuna	La Roue de Fortune	Divinazione	Przepowiednia	Sorte	Предсказание	Kader Çarkı
+3	Strength A	ストレングス	스트렝스	力量	力量	Stärke	Fuerza	La Force	Forza	Siła	Força	Сила	Güç
+3	Hanged Man A	ハングドマン	행드맨	倒悬者	倒懸者	Gehängter	Ahorcado	Le Pendu	Appeso	Wisielec	Enforcado	Повешенный	Asılan Adam
 3	Statue A	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
 3	Statue B	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel
 3	Statue C	石像	석상	石像	石像	Statue	Estatua	Statue	Statua	Posąg	Estátua	Статуя	Heykel

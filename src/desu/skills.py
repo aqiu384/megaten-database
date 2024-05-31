@@ -1,10 +1,10 @@
 #!/usr/bin/python3
+import sys
 import struct
 import json
 from shared import load_id_file
 
-GAME = 'ds2br'
-
+GAME = sys.argv[1]
 OLD_SKILLS = {}
 ELEMS = ['phy', 'fir', 'ice', 'ele', 'for', 'mys', 'spe']
 AILMENTS = {
