@@ -1,10 +1,12 @@
 {
   "demonData": ["p5r/data/demon-data.json"],
   "enemyData": ["p5r/data/enemy-data.json"],
-  "gameAilments": ["Dizzy", "Panic", "Fear", "Forget", "Hunger", "Sleep", "Rage", "Despair"],
-  "toolAilments": ["Dizzy", "Panic", "Fear", "Forget", "Hunger", "Sleep", "Rage", "Despair"],
+  "skillData": ["p5/data/skill-data.json", "p5r/data/skill-data.json"],
+  "gameAilments": ["Dizzy", "Panic", "Fear", "Forget", "Hunger", "Sleep", "Rage", "Despair", "Brainwash"],
+  "toolAilments": ["Dizzy", "Panic", "Fear", "Forget", "Hunger", "Sleep", "Rage", "Despair", "Brainwash"],
   "gameResists": ["phy", "gun", "fir", "ice", "ele", "win", "psy", "nuk", "ble", "cur", "alm"],
   "toolResists": ["phy", "gun", "fir", "ice", "ele", "win", "psy", "nuk", "ble", "cur", "alm"],
+  "gameElems": ["rec", "sup"],
   "dataBlocks": [
     ["enemyResists"],
     ["demonResists", "enemyStats"],
@@ -21,7 +23,7 @@
   "includedMax": 2,
   "demonIds": "p5r-demon-ids.tsv",
   "enemyIds": "p5r-enemy-ids.tsv",
-  "skillEffects": "skill-effects.tsv",
+  "skillIds": "skill-effects.tsv",
   "itemsBegin": "0x0",
   "resistLvls": {
     "0": "-",

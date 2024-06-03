@@ -26,7 +26,7 @@ Mabufudyne	Heavy Ice dmg to all foes. Chance of inflicting Freeze.
 Bufu	BLANK
 Mabufu	BLANK
 Snow Ball	BLANK
-Megidolaon	BLANK
+Megidolaon A	BLANK
 Garu	Light Wind dmg to one foe.
 Garula	Medium Wind dmg to one foe.
 Garudyne	Heavy Wind dmg to one foe.
@@ -709,7 +709,7 @@ Shining Arrows	Light Bless dmg to all foes 4-8 times.
 Beast Weaver	Colossal Phys dmg to one foe. Decreases Attack.
 Titanomachia	Severe Fire dmg to all foes, with high chance of Fear.
 Abyssal Wings	Severe Curse dmg to all foes.
-Oratario	Fully restores HP and removes all stat debuffs for all allies.
+Oratorio	Fully restores HP and removes all stat debuffs for all allies.
 Myriad Truths	Heavy Almighty dmg to all foes 3 times.
 Neo Cadenza	Restores 50% HP and increases ATK/DEF/ ACC/EV for allies.
 Akashic Arts	Severe Phys dmg to all foes with high chance of Critical 1-2 times.
