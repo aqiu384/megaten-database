@@ -1,0 +1,68 @@
+en	desc
+DUMMY	DUMMY
+Sleep	Cannot perform any actions and attacks cannot be evaded. Sleep state will be lifted when damaged.
+Confusion	Chance of ignoring orders. May attack allies or do nothing.
+Charm	Chance of ignoring orders. May aid enemies or do nothing.
+Seal	All skills besides attack become unusable.
+Poison	Receive damage after performing an action.
+Mud	Removes 1 Press Turn Icon before next action. Cannot be overwritten by other ailments and cannot be healed.
+Shroud	Receive MP damage before performing an action. Cannot be overwritten by other ailments and cannot be healed with skills and items.
+Incapacitated	Unable to participate in battle. Does not heal after battle and can only be cured by healing at a leyline fount or by using recovery items or skills.
+009	009
+010	010
+011	011
+Mirage	Greatly decreases hit rate of attacks. May attack a target that wasn't specified.
+Attack Up	Increases attack damage. (Turns remaining: <program 0>)
+Defense Up	Decreases damage received when attacked. (Turns remaining: <program 0>)
+Accuracy/Evasion Up	Increases hit rate and chance to avoid attacks. (Turns remaining: <program 0>)
+Attack Down	Decreases attack damage. (Turns remaining: <program 0>)
+Defense Down	Increases damage received when attacked. (Turns remaining: <program 0>)
+Accuracy/Evasion Down	Decreases hit rate and chance to avoid attacks. (Turns remaining: <program 0>)
+Repel Phys	Physical attacks are temporarily repelled. Effect disappears upon activation.
+Repel Magic	Fire, Ice, Elec, Force, Light, and Dark attacks are temporarily repelled. Effect disappears upon activation.
+021	021
+Phys Charge	Increases Strength-based attack damage. Effect remains until use.
+Magic Charge	Increases Magic-based attack damage. Effect remains until use.
+Critical Charge	Strength-based attack guaranteed Critical. Effect remains until use.
+Recovery Charge	Increases recovery effect of healing skills and heals above MAX HP. Effect remains until use.
+Pierce Charge	Increases attack damage and adds a Pierce effect. Effect remains until use.
+Taunt	Increases the chance of being targeted by an enemy. (Turns remaining: <program 0>)
+No Changes	No changes have occurred.
+Damage Down	Decreases damage received when attacked.
+Damage Down EX	Greatly decreases damage taken.
+Pierce Charge EX	Greatly increases attack damage and adds a Pierce effect. Effect remains until use.
+Omagatoki: Critical	All attacks, including magic attacks, guaranteed Critical.
+Omagatoki: Pierce	All attacks gain Pierce effect.
+Omagatoki: Hit	Greatly increases attack Accuracy and ailment efficacy.
+Omagatoki: Adversity	Attack damage and recovery skill output increases with lower HP.
+Omagatoki: Free	All skills costs to 1 MP.
+Omagatoki: Doubler	Greatly increases the effects of stat buffs/debuffs to self.
+Omagatoki: Dance	Multi-hit attacks will hit the maximum number of times.
+Omagatoki: Sincerity	Forgives up to 2 failures in a demon conversation.
+Omagatoki: Savage	All skills costs twice the MP but deal double the damage.
+Omagatoki: Luck	Greatly increases EXP and Macca earned if battle ends within the turn.
+Omagatoki: Potential	All skill potentials are raised to the max.
+Omagatoki: Accumulate	All charge effects remain until use.
+Phys Nullify	Physical attacks are temporarily nullified. Effect disappears upon activation.
+Fire Nullify	Fire attacks are temporarily nullified. Effect disappears upon activation.
+Ice Nullify	Ice attacks are temporarily nullified. Effect disappears upon activation.
+Elec Nullify	Electric attacks are temporarily nullified. Effect disappears upon activation.
+Force Nullify	Force attacks are temporarily nullified. Effect disappears upon activation.
+Light Nullify	Light attacks are temporarily nullified. Effect disappears upon activation.
+Dark Nullify	Dark attacks are temporarily nullified. Effect disappears upon activation.
+Omagatoki: Critical	All attacks, including magic attacks, guaranteed Critical next turn.
+Attack Up EX	Greatly increases attack damage. (Turns remaining: <program 0>)
+Defense Up EX	Greatly decreases damage received when attacked. (Turns remaining: <program 0>)
+Accuracy/Evasion Up EX	Greatly increases Accuracy/Evasion. (Turns remaining: <program 0>)
+Attack Down EX	Greatly decreases attack damage. (Turns remaining: <program 0>)
+Defense Down EX	Greatly increases damage received when attacked. (Turns remaining: <program 0>)
+Accuracy/Evasion Down EX	Greatly decreases Accuracy/Evasion. (Turns remaining: <program 0>)
+Omagatoki: Pierce	During the next turn, all attacks will gain Pierce effect.
+Successive Strikes	Next attack skill will be performed 4 times consecutively. Effect remains until used.
+Absolute Evasion	Guarantees evasion from 1 attack. Effect remains until used.
+Omagatoki: Exploit	Increases damage when striking a target's weakness.
+Omagatoki: Bounty	Guarantees defeated enemies will drop items.
+Omagatoki: Momentum	Adds a Press Turn Icon for every defeated enemy.
+Omagatoki: Conserve	Press Turn Icon consumption is reduced by half.
+Omagatoki: Strategize	Changing party members or passing a turn will not consume a Press Turn Icon.
+Magatsuhi Amassed	Magatsuhi has been collected in preparation to unleash a Magatsuhi Skill.

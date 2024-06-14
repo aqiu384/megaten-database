@@ -250,7 +250,7 @@ Donum Magici	Greatly increases damage of the next Magic-based attack on <skill_t
 Taunt	Raises chances of being targeted by foes for 3 turns.
 Omagatoki: Savage	All skills of <skill_tgt> will cost twice the MP but deal double the damage for 1 turn.
 Toxic Spray	Chance of inflicting <skill_bst 0> to <skill_tgt> and lowers Defense by 1 rank for 3 turns.
-Souffle D'éclair	(Unique) Severe <skill_elm 0> attack to <skill_tgt>.
+Souffle D'eclair	(Unique) Severe <skill_elm 0> attack to <skill_tgt>.
 Hellish Slash	(Unique) <skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>. Low Accuracy.
 Harvest Dance	(Unique) Low HP recovery to <skill_tgt> and raises Defense by 2 ranks for 3 turns.
 Mirage Shot	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.

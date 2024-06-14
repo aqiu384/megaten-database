@@ -2,6 +2,7 @@
 import struct
 
 LINE_LEN = 0xC0
+LINE_LEN = 0xC4
 START_OFFSET = 0x65
 END_OFFSET = START_OFFSET + 400 * LINE_LEN
 SKILL_TYPES = {
@@ -22,6 +23,7 @@ USE_TYPES = {
     0: 'Support',
     4: 'Recovery',
     5: 'Ailment',
+    257: 'USE_257',
     1282: 'Attack'
 }
 
@@ -208,8 +210,7 @@ def printif_notequal(dname, field, lhs, rhs):
     if str(lhs) != str(rhs):
         print(dname, field, lhs, rhs)
 
-for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
-    s_id = s_id + 1
+def print_active(s_id, line_start):
     line = NEW_SKILLS[line_start:line_start + LINE_LEN]
     sname, desc = SKILL_IDS[s_id].split('\t')
 
@@ -232,7 +233,7 @@ for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     use_type = USE_TYPES[use_type]
     target = TARGETS[target]
     usage = USAGES[usage]
-    damages = DAMAGES[damages]
+    damages = DAMAGES[damages] if damages < len(DAMAGES) else 'unk_dmg'
     does_dmg = 100 if dmg > 0 else 0
     ailments = [AILMENTS[i] for i, x in enumerate(ailments) if x > 0]
 
@@ -252,29 +253,40 @@ for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     talisman = talisman_flag * 1000 + talisman
 
     mod_flags = struct.unpack('<BBBB', line[0xA8:0xAC])
-    mod_flags = [MOD_FLAGS[x] for x in mod_flags if x > 0]
+    mod_flags = [MOD_FLAGS.get(x, f"mod_{x}") for x in mod_flags if x > 0]
+    mod_adds = [f"{heal_base},{heal_perc}%,{absorb_hp},{absorb_mp}"]
+
 
     for i in range(2):
         mod_cond, mod_ailment, mod_adjust, _, mod_power = struct.unpack('<BBBBL', line[0xAC + 8*i:0xB4 + 8*i])
         mod_cond = MOD_CONDS[mod_cond]
         mod_ailment = AILMENTS[mod_ailment - 1] if mod_ailment > 0 else 'None'
         mod_adjust = MOD_ADJUSTS[mod_adjust]
-    
+        mod_str = f"{mod_power}|{mod_adjust}|{mod_cond}{mod_ailment}"
+        if mod_str != '0|None|NoneNone':
+            mod_adds.append(mod_str)
+
     unks_mods = list(struct.unpack('<BBBB', line[0xBC:0xC0]))
 
     printif_notequal(sname, 's_id', s_id, new_s_id)
-    printif_notequal(sname, 'n100', 100, n100)
+    # printif_notequal(sname, 'n100', 100, n100)
     # printif_notequal(sname, 'does_dmg', does_dmg, new_does_dmg)
     # printif_notequal(sname, 'zero', 0, zero)
     # printif_notequal(sname, 'elem_two', elem_two, elem)
-    stats = [rank, cost, mod_power, min_hits, max_hits, acc, crit, ail_hit]
-    prefix = [f"{s_id:03}", sname, elem, str(target)]
-    suffix = [str(ailments), str(mod_flags), '-', desc]
-    print('\t'.join(prefix + [str(x) for x in stats] + suffix))
+    stats = [rank, cost, dmg, min_hits, max_hits, acc, crit, ail_hit]
+    prefix = [f"{s_id:03}", sname, icon_one, str(target)]
+    suffix = [str(ailments), str(mod_flags), str(mod_adds), desc]
+
+    if sname != desc:
+        print('\t'.join(prefix + [str(x) for x in stats] + suffix))
+
+for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
+    print_active(s_id + 1, line_start)
 
 LINE_LEN = 0x68
+LINE_LEN = 0x6C
 START_OFFSET = END_OFFSET + 0x10
-END_OFFSET = START_OFFSET + 150 * LINE_LEN
+END_OFFSET = START_OFFSET + 400 * LINE_LEN
 
 for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     s_id = s_id + 401
@@ -285,9 +297,16 @@ for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     hp, mp, proc = struct.unpack('<3B', line[0x30:0x33])
     elem, res_lvl = struct.unpack('<2B', line[0x41:0x43])
     rank, = struct.unpack('<B', line[0x59:0x5A])
-    target1, boost1, target2, boost2 = struct.unpack('<4B', line[0x64:0x68])
+    target1, boost1, target2, boost2 = struct.unpack('<4H', line[0x64:0x6C])
 
     printif_notequal(sname, 's_id', s_id, new_s_id)
 
     if sname != desc:
-        print(sname, hp, mp, proc, elem, res_lvl, rank, target1, boost1, target2, boost2, desc)
+        print(f"{s_id:03}", sname, hp, mp, proc, elem, res_lvl, rank, target1, boost1, target2, boost2, desc, sep='\t')
+
+LINE_LEN = 0xC4
+START_OFFSET = 0x1E2E5
+END_OFFSET = START_OFFSET + 150 * LINE_LEN
+
+for s_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
+    print_active(s_id + 801, line_start)
