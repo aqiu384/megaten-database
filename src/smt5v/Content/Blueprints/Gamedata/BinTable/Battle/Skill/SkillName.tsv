@@ -254,7 +254,7 @@ Souffle D'eclair	(Unique) Severe <skill_elm 0> attack to <skill_tgt>.
 Hellish Slash	(Unique) <skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>. Low Accuracy.
 Harvest Dance	(Unique) Slight HP recovery to <skill_tgt> and raises Defense by 2 ranks for 3 turns.
 Mirage Shot	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Moonlight Frost	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Moonlight Frost A	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Stormcaller Song	(Unique) <skill_minhit>~<skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>.
 Karnak	(Unique) Heavy <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
 Acrobat Kick	Weak <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
@@ -335,11 +335,11 @@ Tornado of God	Severe <skill_elm 0> attack to <skill_tgt>.
 Cold Dark Matter	Raises Defense to the max for 3 turns.
 Hot Dark Matter	Raises Attack to the max for 3 turns.
 Freikugel A	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
-Gaea Rage	Severe <skill_elm 0> attack to <skill_tgt>.
+Gaea Rage B	Severe <skill_elm 0> attack to <skill_tgt>.
 Magma Axis	<skill_minhit>~<skill_maxhit> medium <skill_elm 0> attacks to <skill_tgt>. Ignores affinity resistance and Pierces through.
-Javelin Rain	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
+Javelin Rain A	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Xeros Beat	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Deadly Fury	Severe <skill_elm 0> attack to <skill_tgt>.
+Deadly Fury A	Severe <skill_elm 0> attack to <skill_tgt>.
 Wild Dance	Chance of inflicting <skill_bst 0> to <skill_tgt>.
 Contempt of God	Adds 2 Press Turn Icons to user's next turn.
 Holy Crucifixion	Lowers all stats of <skill_tgt> to the minimum for 3 turns.
@@ -371,9 +371,9 @@ Light Block	Nullifies a Light attack against <skill_tgt> once for 1 turn.
 Dark Block	Nullifies a Dark attack against <skill_tgt> once for 1 turn.
 Freikugel B	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
 Gaea Rage A	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
-Javelin Rain A	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Deadly Fury A	(Nahobino) Medium <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
-Chaotic Will	(Unique) Chance of instakill to <skill_tgt>. Foe's Press Turn Icons will be halved next turn.
+Javelin Rain	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
+Deadly Fury	(Nahobino) Medium <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
+Chaotic Will A	(Unique) Chance of instakill to <skill_tgt>. Foe's Press Turn Icons will be halved next turn.
 375	375
 376	376
 377	377
@@ -393,8 +393,8 @@ Evil Gleam	Chance of inflicting <skill_bst 0> to <skill_tgt>.
 391	391
 Sonic Boom	Medium <skill_elm 0> attack to <skill_tgt>.
 393	393
-Gaea Rage B	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
-Chaotic Will A	(Nahobino) Chance of instakill to <skill_tgt>. Foe's Press Turn Icons will be halved next turn.
+Gaea Rage	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Chaotic Will	(Nahobino) Chance of instakill to <skill_tgt>. Foe's Press Turn Icons will be halved next turn.
 396	396
 Javelin Rain B	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Deadly Fury B	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
@@ -923,7 +923,7 @@ Elusive Eclipse A	920
 Evergreen Dance	(Nahobino) Greatly fills the Magatsuhi Gauge. (Once per turn)
 Inflaming Divinity	(Nahobino) Raises all stats of <skill_tgt> by 2 ranks for 3 turns.
 Heavenly Ikuyumi	(Nahobino) Medium to severe <skill_elm 0> attack to <skill_tgt>. Damage increases based on the number of debuffs on the target.
-Moonlight Frost A	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Moonlight Frost	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Lunar Hurricane	(Nahobino) Multiple weak Strength-based <skill_elm 0> attacks to <skill_tgt>. Number of hits depends on user's and target's Agility.
 Luminescent Mirage	(Nahobino) Guarantees evasion from 1 attack for <skill_tgt> for 1 turn.
 Lunation Flux	(Nahobino) Slight MP recovery to <skill_tgt>. Does not consume a Press Turn Icon.
