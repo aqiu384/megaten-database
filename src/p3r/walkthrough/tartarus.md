@@ -375,17 +375,16 @@
 {{ enemy_stats('Ultimate Adversary') }}
 {{ enemy_resists('Ultimate Adversary') }}
 #### Equipment
+* Run through Shuffle Time on the upper floors of Adamah I to get a Cup J that gives Self Charge + Concentrate
 * Lucifer's Blade
 * Armor of Light
 * Shoes of Bane
 * Incense Box
+* Beelzebub
 #### Persona Loadout
 * Messiah
   * Learned: Salvation, Invigorate 3, Invigorate 2, Null Phys
   * Inherited: Matarukaja, Marakukaja, Masukukaja, Spell Master
-* Lucifer
-  * Learned: Inferno, Magic Mastery, Diamond Dust, Resist Phys
-  * Inherited: Spell Master, Victory Cry, Thunder Reign, Garudyne
 * Beelzebub
   * Learned: Maeigaon, Dark Amp, Dark Boost
   * Inherited: Spell Master, Auto Mataru, Auto Maraku, Auto Masuku, Auto Rebellion
@@ -403,25 +402,25 @@
 #### Example Playthrough
 | Her Persona | Your Persona | Your Skill | Your Dmg | Her HP | Her 1st Skill | Her 2nd Skill |
 | --- | --- | --- | --- | --- | --- | --- |
-| - | Masakado | Debilitate |  | 20000 | Inferno | Slash Attack |
+| - | Masakado | Debilitate | - | 20000 | Inferno | Slash Attack |
 | Surt | Thanatos | Trickster | 2673 | 17327 | Rakukaja | Diamond Dust |
-| Jack Frost | Masakado | Concentrate |  | 17327 | Thunder Reign | God's Hand |
-| Thor | Masakado | Heat Riser |  | 17327 | Charge | Primal Force |
-| Cu Chulainn | Thanatos | - |  | 17327 | Divine Judgement | Kougaon |
-| Metatron | Masakado | Debilitate |  | 17327 | Die For Me! | Eigaon |
-| Alice | Masakado | Heat Riser |  | 17327 | Rakunda | Eerie Sound |
+| Jack Frost | Masakado | Concentrate | - | 17327 | Thunder Reign | God's Hand |
+| Thor | Masakado | Heat Riser | - | 17327 | Charge | Primal Force |
+| Cu Chulainn | Thanatos | - | - | 17327 | Divine Judgement | Kougaon |
+| Metatron | Masakado | Debilitate | - | 17327 | Die For Me! | Eigaon |
+| Alice | Masakado | Heat Riser | - | 17327 | Rakunda | Eerie Sound |
 | Nebiros | Thanatos | Trickster | 2618 | 14709 | Concentrate | Megidolaon |
-| Masakado | Masakado | Debilitate |  | 14709 | Inferno | Slash Attack |
-| Surt | Chi You | Diarahan |  | 14709 | Concentrate | Diamond Dust |
-| Jack Frost | Masakado | Heat Riser |  | 14709 | Thunder Reign | God's Hand |
-| Thor | Masakado | Debilitate |  | 14709 | Charge | Primal Force |
+| Masakado | Masakado | Debilitate | - | 14709 | Inferno | Slash Attack |
+| Surt | Chi You | Diarahan | - | 14709 | Concentrate | Diamond Dust |
+| Jack Frost | Masakado | Heat Riser | - | 14709 | Thunder Reign | God's Hand |
+| Thor | Masakado | Debilitate | - | 14709 | Charge | Primal Force |
 | Cu Chulainn | Thanatos | Trickster | 1295 | 13414 | Divine Judgement | Kougaon |
-| Metatron | Masakado | Concentrate |  | 13414 | Die For Me! | Eigaon |
-| Alice | Chi You | Diarahan |  | 13414 | Rakunda | Sexy Dance |
+| Metatron | Masakado | Concentrate | - | 13414 | Die For Me! | Eigaon |
+| Alice | Chi You | Diarahan | - | 13414 | Rakunda | Sexy Dance |
 | Nebiros | Masakado | Megidolaon Gem | 200 | 13214 | Concentrate | Megidolaon |
-| Masakado | Masakado | Heat Riser |  | 13214 | Concentrate | Inferno |
-| Surt | Masakado | Debilitate |  | 13214 | Rakunda | Ice Age |
-| Jack Frost | Chi You | God's Hand | 1040 | 12174 | - | Concentrate |
+| Masakado | Masakado | Heat Riser | - | 13214 | Concentrate | Inferno |
+| Surt | Masakado | Debilitate | - | 13214 | Rakunda | Ice Age |
+| Jack Frost | Chi You | God's Hand | 1040 | 12174 | Rakunda | Concentrate |
 | Pixie | Thanatos | Morning Star | 1377 | 10797 | Megidolaon (9999 HP) | Charge |
-| Pixie | Rangda | Rakunda Gem | 1261 | 9536 | God's Hand (Repelled) | Megidolaon (9999 HP) |
+| Pixie | Rangda | Atrophying Sutra | 1261 | 9536 | God's Hand (Repelled) | Megidolaon (9999 HP) |
 | Pixie | Rangda | Armageddon | 9999 | 0 | - | - |

@@ -37,7 +37,7 @@
 | Full Moon | Despairing Tiara | 8 | 0 | 100 | 500 | - |
 | Full Moon | Loathsome Tiara | 8 | 0 | 100 | 500 | - |
 | Full Moon | Skeptical Tiara | 8 | 0 | 100 | 100 | - |
-| Full Moon | Priestess | 11 | 1500 | 700 | 500 | High Priestess Tarot (100%) |
+| Full Moon | Priestess A | 11 | 1500 | 700 | 500 | High Priestess Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@
 | Full Moon | Despairing Tiara | w | - | - | w | - | - | - | * | * | n | n | n | n | n | n |
 | Full Moon | Loathsome Tiara | - | - | w | - | - | - | w | * | * | n | n | n | n | n | n |
 | Full Moon | Skeptical Tiara | - | - | - | s | w | w | s | * | * | n | n | n | n | n | n |
-| Full Moon | Priestess | - | - | - | v | n | * | - | * | * | n | n | n | n | n | n |
+| Full Moon | Priestess A | - | - | - | v | n | * | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -244,8 +244,8 @@
 | 61-68 | Phantom Master | 22 | 176 | 278 | 40 | Lord's Candlestick (35%), Onyx (10%) |
 | 63-68 | Killing Hand | 22 | 148 | 251 | 40 | Assailant's Choker (35%), Amethyst (10%) |
 | 65-68 | Enslaved Beast | 23 | 222 | 285 | 50 | Servant's Fur (30%), Onyx (15%) |
-| Full Moon | Hierophant | 25 | 12605 | 2200 | 999 | Hierophant Tarot (100%) |
-| Full Moon | Lovers | 26 | 13655 | 4500 | 999 | Lovers Tarot (100%) |
+| Full Moon | Hierophant A | 25 | 12605 | 2200 | 999 | Hierophant Tarot (100%) |
+| Full Moon | Lovers A | 26 | 13655 | 4500 | 999 | Lovers Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -271,8 +271,8 @@
 | 61-68 | Phantom Master | - | - | - | - | - | n | - | z | n | - | - | - | - | s | - |
 | 63-68 | Killing Hand | - | - | - | - | n | - | w | n | - | v | v | v | v | v | v |
 | 65-68 | Enslaved Beast | - | - | - | w | - | - | - | - | - | v | v | v | v | v | v |
-| Full Moon | Hierophant | - | - | - | - | - | - | - | n | n | n | n | n | n | n | n |
-| Full Moon | Lovers | - | * | t | n | * | t | - | * | * | n | n | n | n | n | n |
+| Full Moon | Hierophant A | - | - | - | - | - | - | - | n | n | n | n | n | n | n | n |
+| Full Moon | Lovers A | - | * | t | n | * | t | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -353,8 +353,8 @@
 | P2 | Shouting Tiara B | 33 | 0 | 957 | 999 | Shrieking Tiara (100%) |
 | P2 | Magical Magus C | 34 | 0 | 420 | 999 | Cap of Wizardry (100%) |
 | P2 | Rampage Drive B | 34 | 3214 | 420 | 999 | Ruinous Rotary Leg (100%) |
-| Full Moon | Chariot | 34 | 11785 | 2100 | 999 | Chariot Tarot (100%) |
-| Full Moon | Justice | 34 | 11785 | 900 | 999 | Justice Tarot (100%) |
+| Full Moon | Chariot A | 34 | 11785 | 2100 | 999 | Chariot Tarot (100%) |
+| Full Moon | Justice A | 34 | 11785 | 900 | 999 | Justice Tarot (100%) |
 | Full Moon | Tank-Form Shadow | 34 | 0 | 3000 | 999 | - |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
@@ -390,8 +390,8 @@
 | P2 | Shouting Tiara B | - | w | - | n | - | s* | - | * | * | - | n | - | n | n | n |
 | P2 | Magical Magus C | - | - | - | t | t* | t* | t | t* | t* | n | n | n | n | n | n |
 | P2 | Rampage Drive B | t | t | t | - | * | * | - | * | * | n | n | n | n | n | n |
-| Full Moon | Chariot | t | t | t | - | - | - | - | * | * | n | n | n | n | n | n |
-| Full Moon | Justice | - | - | - | t | t* | t* | t | t* | t* | n | n | n | n | n | n |
+| Full Moon | Chariot A | t | t | t | - | - | - | - | * | * | n | n | n | n | n | n |
+| Full Moon | Justice A | - | - | - | t | t* | t* | t | t* | t* | n | n | n | n | n | n |
 | Full Moon | Tank-Form Shadow | t | t | t | t | t* | t* | t | t* | t* | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
@@ -484,7 +484,7 @@
 | P3 | Muttering Tiara E | 39 | 0 | 620 | 999 | Hushing Tiara (100%) |
 | P3 | Silent Book C | 39 | 0 | 620 | 999 | Book of Secrets (100%) |
 | P3 | Platinum Dice B | 41 | 3131 | 1600 | 999 | Platinum Dice (100%) |
-| Full Moon | Hermit | 41 | 34445 | 8000 | 999 | Hermit Tarot (100%) |
+| Full Moon | Hermit A | 41 | 34445 | 8000 | 999 | Hermit Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -518,7 +518,7 @@
 | P3 | Muttering Tiara E | - | - | - | - | - | - | n | - | w | n | n | - | n | n | n |
 | P3 | Silent Book C | - | - | - | - | n | - | w | - | - | n | n | - | n | n | n |
 | P3 | Platinum Dice B | n | - | - | - | - | n | - | n | n | n | n | n | n | n | n |
-| Full Moon | Hermit | - | - | - | - | - | n | n | * | n | n | n | n | n | n | n |
+| Full Moon | Hermit A | - | - | - | - | - | n | n | * | n | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -609,8 +609,8 @@
 | P1 | Dogmatic Tower B | 48 | 1615 | 1408 | 999 | Crown of Obstinacy (100%) |
 | P2 | Natural Dancer B | 48 | 1211 | 1300 | 999 | Balloon of Unity (100%) |
 | P3 | Vehement Idol B | 48 | 4038 | 2215 | 999 | Throne of Mania (100%) |
-| Full Moon | Fortune | 48 | 47385 | 2500 | 999 | Fortune Tarot (100%) |
-| Full Moon | Strength | 48 | 0 | 5500 | 999 | Strength Tarot (100%) |
+| Full Moon | Fortune A | 48 | 47385 | 2500 | 999 | Fortune Tarot (100%) |
+| Full Moon | Strength A | 48 | 0 | 5500 | 999 | Strength Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -645,8 +645,8 @@
 | P1 | Dogmatic Tower B | - | - | n | - | - | w | - | n | * | n | - | n | n | n | n |
 | P2 | Natural Dancer B | - | - | - | s | - | s | n | * | * | n | - | - | s | n | n |
 | P3 | Vehement Idol B | - | - | - | - | s | - | - | * | n | n | n | - | n | n | n |
-| Full Moon | Fortune | - | w | - | d | d | w | d | d | * | n | n | n | n | n | n |
-| Full Moon | Strength | t* | r | t* | - | * | * | - | * | * | n | n | n | n | n | n |
+| Full Moon | Fortune A | - | w | - | d | d | w | d | d | * | n | n | n | n | n | n |
+| Full Moon | Strength A | t* | r | t* | - | * | * | - | * | * | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -754,7 +754,7 @@
 | Full Moon | Jin A | 56 | 32343 | 2300 | 999 | - |
 | Full Moon | Statue G | 56 | 0 | 500 | 999 | - |
 | Full Moon | Takaya A | 56 | 32343 | 2500 | 999 | - |
-| Full Moon | Hanged Man | 57 | 67040 | 8000 | 999 | Hanged Man Tarot (100%) |
+| Full Moon | Hanged Man A | 57 | 67040 | 8000 | 999 | Hanged Man Tarot (100%) |
 #### Enemy Resistances
 | Floors | Name | Sl | St | Pi | Fi | Ic | El | Wi | Li | Da | Ch | Po | Di | Co | Fe | Ra |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -799,7 +799,7 @@
 | Full Moon | Jin A | - | - | - | r | * | * | - | * | r | n | n | n | n | n | n |
 | Full Moon | Statue G | t* | t* | t* | t* | t* | t* | t* | t* | t* | n | n | n | n | n | n |
 | Full Moon | Takaya A | - | - | - | - | * | * | - | r | d | n | n | n | n | n | n |
-| Full Moon | Hanged Man | - | t* | - | n | * | * | - | * | r | n | n | n | n | n | n |
+| Full Moon | Hanged Man A | - | t* | - | n | * | * | - | * | r | n | n | n | n | n | n |
 #### Chests
 | Floors | Chest | Drops |
 | --- | --- | --- |
@@ -1358,17 +1358,16 @@
 | 4P | Elizabeth I | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |
 | 4P | Elizabeth J | n | n | n | n | n | n | n | n | n | n | n | n | n | n | n |
 #### Equipment
+* Run through Shuffle Time on the upper floors of Adamah I to get a Cup J that gives Self Charge + Concentrate
 * Lucifer's Blade
 * Armor of Light
 * Shoes of Bane
 * Incense Box
+* Beelzebub
 #### Persona Loadout
 * Messiah
   * Learned: Salvation, Invigorate 3, Invigorate 2, Null Phys
   * Inherited: Matarukaja, Marakukaja, Masukukaja, Spell Master
-* Lucifer
-  * Learned: Inferno, Magic Mastery, Diamond Dust, Resist Phys
-  * Inherited: Spell Master, Victory Cry, Thunder Reign, Garudyne
 * Beelzebub
   * Learned: Maeigaon, Dark Amp, Dark Boost
   * Inherited: Spell Master, Auto Mataru, Auto Maraku, Auto Masuku, Auto Rebellion
@@ -1386,25 +1385,25 @@
 #### Example Playthrough
 | Her Persona | Your Persona | Your Skill | Your Dmg | Her HP | Her 1st Skill | Her 2nd Skill |
 | --- | --- | --- | --- | --- | --- | --- |
-| - | Masakado | Debilitate |  | 20000 | Inferno | Slash Attack |
+| - | Masakado | Debilitate | - | 20000 | Inferno | Slash Attack |
 | Surt | Thanatos | Trickster | 2673 | 17327 | Rakukaja | Diamond Dust |
-| Jack Frost | Masakado | Concentrate |  | 17327 | Thunder Reign | God's Hand |
-| Thor | Masakado | Heat Riser |  | 17327 | Charge | Primal Force |
-| Cu Chulainn | Thanatos | - |  | 17327 | Divine Judgement | Kougaon |
-| Metatron | Masakado | Debilitate |  | 17327 | Die For Me! | Eigaon |
-| Alice | Masakado | Heat Riser |  | 17327 | Rakunda | Eerie Sound |
+| Jack Frost | Masakado | Concentrate | - | 17327 | Thunder Reign | God's Hand |
+| Thor | Masakado | Heat Riser | - | 17327 | Charge | Primal Force |
+| Cu Chulainn | Thanatos | - | - | 17327 | Divine Judgement | Kougaon |
+| Metatron | Masakado | Debilitate | - | 17327 | Die For Me! | Eigaon |
+| Alice | Masakado | Heat Riser | - | 17327 | Rakunda | Eerie Sound |
 | Nebiros | Thanatos | Trickster | 2618 | 14709 | Concentrate | Megidolaon |
-| Masakado | Masakado | Debilitate |  | 14709 | Inferno | Slash Attack |
-| Surt | Chi You | Diarahan |  | 14709 | Concentrate | Diamond Dust |
-| Jack Frost | Masakado | Heat Riser |  | 14709 | Thunder Reign | God's Hand |
-| Thor | Masakado | Debilitate |  | 14709 | Charge | Primal Force |
+| Masakado | Masakado | Debilitate | - | 14709 | Inferno | Slash Attack |
+| Surt | Chi You | Diarahan | - | 14709 | Concentrate | Diamond Dust |
+| Jack Frost | Masakado | Heat Riser | - | 14709 | Thunder Reign | God's Hand |
+| Thor | Masakado | Debilitate | - | 14709 | Charge | Primal Force |
 | Cu Chulainn | Thanatos | Trickster | 1295 | 13414 | Divine Judgement | Kougaon |
-| Metatron | Masakado | Concentrate |  | 13414 | Die For Me! | Eigaon |
-| Alice | Chi You | Diarahan |  | 13414 | Rakunda | Sexy Dance |
+| Metatron | Masakado | Concentrate | - | 13414 | Die For Me! | Eigaon |
+| Alice | Chi You | Diarahan | - | 13414 | Rakunda | Sexy Dance |
 | Nebiros | Masakado | Megidolaon Gem | 200 | 13214 | Concentrate | Megidolaon |
-| Masakado | Masakado | Heat Riser |  | 13214 | Concentrate | Inferno |
-| Surt | Masakado | Debilitate |  | 13214 | Rakunda | Ice Age |
-| Jack Frost | Chi You | God's Hand | 1040 | 12174 | - | Concentrate |
+| Masakado | Masakado | Heat Riser | - | 13214 | Concentrate | Inferno |
+| Surt | Masakado | Debilitate | - | 13214 | Rakunda | Ice Age |
+| Jack Frost | Chi You | God's Hand | 1040 | 12174 | Rakunda | Concentrate |
 | Pixie | Thanatos | Morning Star | 1377 | 10797 | Megidolaon (9999 HP) | Charge |
-| Pixie | Rangda | Rakunda Gem | 1261 | 9536 | God's Hand (Repelled) | Megidolaon (9999 HP) |
+| Pixie | Rangda | Atrophying Sutra | 1261 | 9536 | God's Hand (Repelled) | Megidolaon (9999 HP) |
 | Pixie | Rangda | Armageddon | 9999 | 0 | - | - |

@@ -158,7 +158,6 @@
 ---
 #### Sun 4/26
 ##### Daytime
-* Your Room > TV Shopping: Rose Bouquet, Luxury Chocolate x2 (Y2980)
 * Hierophant Rank 2
 ##### Evening
 * Tartarus
@@ -226,9 +225,10 @@
 #### Sun 5/3
 ##### Daytime
 * Constitution Day
+* Your Room > TV Shopping: Rose Bouquet, Luxury Chocolate x2 (Y2980)
 * Hierophant Rank 3
 ##### Evening
-* Check fridge > Instant Ramen x2
+* Check fridge > Chilled Taiyaki
 * Iwatodai Strip Mall 2F > Wakatsu > Prodigy Platter (Y680) (Academics +3, 2 notes)
 * **Academics Lv. 2**
 ---
@@ -403,9 +403,6 @@
 * TV Shopping: All-Purpose Apron, Umugi Water x2 (Y5980)
 * Moon Rank 4
 ##### Evening
-* Gardening unlocked
-* Iwatodai Dorms Roof > Twilight Fragment x1
-* Achievement: Eagle Eye
 * Request #8: Experiment with fortune telling.
   * Club Escapade > Fortune Teller > Rarity Fortune (Y3000)
   * Completes once you defeat a Rare Shadow in Tartarus
@@ -457,6 +454,9 @@
   * Proto-Choker
 * Chariot Rank 3 (Needs matching persona)
 ##### Evening
+* Gardening unlocked
+* Iwatodai Dorms Roof > Twilight Fragment x1
+* Achievement: Eagle Eye
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
 ---
 #### Tue 5/26
@@ -516,7 +516,7 @@
 ##### After School
 * Chariot Rank 5
 ##### Evening
-* Check fridge > Precious Egg
+* Check fridge > Instant Ramen x2
 * Seafood Full Course (Y900) (Academics +4, 2 notes)
 ---
 #### Tue 6/2
@@ -681,7 +681,7 @@
 ##### After School
 * Fortune Rank 1
 ##### Evening
-* Check fridge > Chilled Taiyaki
+* Check fridge > Precious Egg
 * Akihiko Cooking 1
   * Talk to Akihiko at the counter
 ---
@@ -1019,11 +1019,11 @@
 #### Thu 7/30
 ##### Evening
 * Check fridge > Chilled Taiyaki, Umugi Water
-* Tower Rank 3
+* Priestess Reading 3 (Academics +2, 1 note)
 ---
 #### Fri 7/31
 ##### Evening
-* Tower Rank 4
+* Tower Rank 3
 
 ### August
 #### Sat 8/1
@@ -1090,7 +1090,7 @@
 ##### Daytime
 * Star Rank 1
 ##### Evening
-* Tower Rank 5
+* Tower Rank 4
 * Death Rank 5: Auto
 ---
 #### Sat 8/8
@@ -1195,14 +1195,15 @@
 * Hierophant Rank 4
 ##### Evening
 * Takaya Link 2: Auto
-* Priestess Reading 3 (Academics +2, 1 note)
+* Koromaru Brushing 1
+  * Koromaru by the stairs
 ---
 #### Fri 8/21
 ##### Daytime
 * Strength Movies (Courage +4, 2 notes)
   * Accept invite on phone
 ##### Evening
-* Tower Rank 6
+* Tower Rank 5
 ---
 #### Sat 8/22
 ##### Daytime
@@ -1213,6 +1214,7 @@
 ---
 #### Sun 8/23
 ##### Daytime
+* TV Shopping: Soul Spinach Sprout x2, Buff Potato Sprout x3 (Y2980)
 * Justice Movies (Charm +4, 2 notes)
   * Accept invite on phone
 ##### Evening
@@ -1230,7 +1232,7 @@
 * Akihiko Movies (Courage +4, 2 notes)
   * Invite Akihiko to movies
 ##### Evening
-* Devil Rank 5
+* Junpei Gardening 3
 ---
 #### Wed 8/26
 ##### Daytime
@@ -1255,7 +1257,7 @@
   * Invite Aigis to movies
 ##### Evening
 * Ken Joins
-* Tower Rank 7
+* Tower Rank 6
 ---
 #### Sat 8/29
 ##### Daytime
@@ -1289,7 +1291,7 @@
 * Nurse's Office > Nurse Lecture 1
 * Temperance Rank 2
 ##### Evening
-* Devil Rank 6
+* Devil Rank 5
 ---
 #### Wed 9/2
 ##### Evening
@@ -1442,8 +1444,7 @@
 ##### After School
 * Justice Rank 5
 ##### Evening
-* Koromaru Brushing 1
-  * Koromaru by the stairs
+* Koromaru Brushing 2
 ---
 #### Fri 9/18
 ##### After School
@@ -1496,7 +1497,7 @@
   * Choice 1: Wait a minute.
 * Lovers Rank 4
 ##### Evening
-* Koromaru Brushing 2
+* Koromaru Brushing 3
 ---
 #### Fri 9/25
 ##### After School
@@ -1511,7 +1512,7 @@
 * Priestess Rank 10
 ##### Evening
 * **Put Lukewarm Taiyaki in fridge**
-* Junpei Gardening 3
+* Shinjiro Cooking 3
 ---
 #### Sun 9/27
 ##### Daytime
@@ -1534,7 +1535,7 @@
 ##### After School
 * Temperance Rank 5
 ##### Evening
-* Shinjiro Cooking 3
+* Priestess Gardening 3
 ---
 #### Wed 9/30
 ##### After School
@@ -1583,7 +1584,7 @@
 ##### After School
 * Lovers Rank 7 (Needs matching persona)
 ##### Evening
-* Devil Rank 7
+* Devil Rank 6
 ---
 #### Sun 10/4
 ##### Evening
@@ -1610,7 +1611,7 @@
 * Koromaru Link 4 (Courage +2)
   * Iwatodai Dorms Front Door > Koromaru
 ##### Evening
-* Devil Rank 8
+* Devil Rank 7
 * Death Rank 8: Auto
 ---
 #### Wed 10/7
@@ -1627,8 +1628,8 @@
 * Club Escapade Vendor
   * Buy up to Turquoise x10
   * Buy Platinum Brooch
-* Elizabeth > Talk
-  * Trade Platinum Brooch for Master Incense
+* Elizabeth > Talk repeatedly
+  * Trade Platinum Brooch for Master Incense x2
 * Mayoido Antiques
   * Trade Garnet x5, Turquoise x10 for Invigorate 3
 * Club Escapade > Assassin Site Note (Y8000)
@@ -1739,13 +1740,13 @@
 ##### After School
 * Justice Rank 7 (Needs matching persona)
 ##### Evening
-* Koromaru Brushing 3
+* Tower Rank 7
 ---
 #### Fri 10/23
 ##### Class
 * Stay awake (Academics +2, 1 note)
 ##### After School
-* Temperance Rank 9
+* Emperor Rank 5
 ##### Evening
 * Ken DVDs 3 (Courage +2, 1 note)
 ---
@@ -1767,7 +1768,7 @@
 ##### Class
 * Choice 2: Izumo. (Charm +2, 1 note)
 ##### After School
-* Emperor Rank 5
+* Emperor Rank 6
 ##### Evening
 * Check fridge > Doctor in Jelly
 * Club Escapade > History Website Note (Y8000)
@@ -1775,13 +1776,13 @@
 ---
 #### Tue 10/27
 ##### After School
-* Temperance Rank 10
+* Temperance Rank 9
 ##### Evening
-* Priestess Gardening 3
+* Devil Rank 8
 ---
 #### Wed 10/28
 ##### After School
-* Emperor Rank 6
+* Emperor Rank 7
 ##### Evening
 * You're the Answer (Y3000) (Academics +4, 2 notes)
 ---
@@ -1797,7 +1798,7 @@
 ##### Class
 * Choice 1: Beta-amylase. (Charm +2, 1 note)
 ##### After School
-* Emperor Rank 7
+* Emperor Rank 8
 ##### Evening
 * Gamble Fortune
 * Tartarus
@@ -1831,7 +1832,7 @@
 ---
 #### Mon 11/2
 ##### After School
-* Emperor Rank 8
+* Emperor Rank 9
 ##### Evening
 * Net Cafe > Part-Time Master (Y8000)
   * Earn more from working part-time jobs
@@ -2012,6 +2013,7 @@
 * TV Shopping: Garnet x3, Opal x2 (Y49800)
 * Sun Rank 7
 ##### Evening
+* Prepare for battle
 * Ken Cooking 1
   * Talk to Ken at the counter
 ---
@@ -2020,7 +2022,6 @@
 * Labor Thanksgiving Day
 * Hanged Rank 8
 ##### Evening
-* Prepare for battle
 * Work at Chagall (-Y4300) (Courage +1, Charm +1, 1 note)
 ---
 #### Tue 11/24
@@ -2059,8 +2060,9 @@
 ##### Class
 * Choice 1: The cherry blossom. (Charm +2, 1 note)
 ##### After School
-* Emperor Rank 9
+* Emperor Rank 10
 ##### Evening
+* Revival Event: Auto
 * Work at Chagall (-Y4800) (Courage +1, Charm +1, 1 note)
 
 ### December
@@ -2079,18 +2081,16 @@
   * Harabah I 198 > Chest > Old Document 08
 * Request #84: Create a Persona with Tempest Slash.
   * Mishaguji x Ganesha = Chernobog (Tempest Slash)
-* Request #85: Create a Persona with Auto-Maraku.
-  * Level up Hecatoncheires high enough (Auto Maraku)
 * Request #86: Fusion Series #8: Death, Alice
   * Wait until your level is high enough
 * Request #88: Defeat a Greedy Shadow.
   * Defeat the Greedy Shadow in Harabah, the fifth block of Tartarus, and bring back 1 Gold Medal.
 * Request #89: Bring me a Rai Kunimitsu.
-  * Harabah I ??? > 3-lock Chest > Rai Kunimitsu
+  * Harabah I 184 > 3-lock Chest > Rai Kunimitsu
 ---
 #### Wed 12/2
 ##### After School
-* Emperor Rank 10
+* Temperance Rank 10
 ##### Evening
 * Work at Chagall (-Y4800) (Courage +1, Charm +1, 1 note)
 ---
@@ -2101,6 +2101,8 @@
 ---
 #### Fri 12/4
 ##### Elizabeth Requests
+* Request #85: Create a Persona with Auto-Maraku.
+  * Level up Hecatoncheires high enough (Auto Maraku)
 * Request #97: Bring me my Christmas present.
   * Deadline: Fri 12/25
   * Iwatodai Strip Mall 2F > Talk to NPC > Show Thank-You Note
@@ -2297,7 +2299,7 @@
   * Have a Loki at level 75 or higher
   * Suzaku x Pazuzu + SL Bonus EXP = Loki Lv. 74, then card on Growth 3
 * Request #90: Bring me a Dojigiri Yasutsuna.
-  * Harabah II ??? > 3-lock Chest > Rai Kunimitsu
+  * Harabah II 212 > 3-lock Chest > Dojigiri Yasutsuna
 ---
 #### Thu 12/31
 ##### Daytime
@@ -2332,6 +2334,11 @@
 ##### Evening
 * Gamble Fortune
 * Tartarus
+  * Obtain Gold Quartz x12
+  * Obtain Ruby x15
+  * Obtain Diamond x15
+  * Level up Lucifer to obtain Fallen Angel Wing x1
+  * Level up Messiah to obtain Savior's Augite x1
 * Request #98: Fusion Series #10: Tower, Masakado
   * Siegfried (Charge) x Vasuki = Koumokuten (Charge)
   * Zouchouten x Jikokuten x Koumokuten (Charge) x Bishamonten = Masakado (Charge)
@@ -2346,7 +2353,10 @@
 #### Tue 1/5
 ##### Daytime
 * Request #91: Bring me a Tonbo-kiri.
-  * Mayoido Antiques > Trade ??? x1, ??? x1
+  * Mayoido Antiques > Trade for Prime Nihil Blade x1, Diamond x5, Gold Quartz x2
+* Request #101: Take out the ultimate adversary.
+  * Lucifer's Blade > Mayoido Antiques > Trade for Dead Moon's Husk x1, Fallen Angel Wing x1, Gold Quartz x10, Ruby x10
+  * Armor of Light > Mayoido Antiques > Trade for Dead Moon's Husk x1, Savior's Augite x1, Diamond x10, Ruby x5
 * Koromaru Link 5
   * Iwatodai Dorms Front Door > Koromaru
 ##### Evening
@@ -2409,8 +2419,7 @@
 ##### After School
 * Aeon Rank 4
 ##### Evening
-* Takaya Link 4
-  * Club Escapade > Talk to Suspicious Man > Agree to meet
+* Free Time
 ---
 #### Thu 1/14
 ##### After School
@@ -2425,7 +2434,8 @@
 * Junpei Link 5
   * Gekkoukan Classroom > Talk to Junpei
 ##### Evening
-* Free Time
+* Takaya Link 4
+  * Club Escapade > Talk to Suspicious Man > Agree to meet
 ---
 #### Sat 1/16
 ##### After School
@@ -2441,7 +2451,7 @@
 ---
 #### Mon 1/18
 ##### Class
-* Choice ?: Circe. (Charm +2, 1 note)
+* Choice 2: Circe. (Charm +2, 1 note)
 ##### After School
 * Aeon Rank 7
 ##### Evening
@@ -2484,7 +2494,7 @@
 ##### After School
 * Free Time
 ##### Evening
-* Check fridge > Chilled Taiyaki
+* Check fridge > Chilled Taiyaki, Doctor in Jelly
 * Justice Walk
 ---
 #### Sun 1/24

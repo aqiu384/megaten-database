@@ -798,7 +798,7 @@
 | 12/11 | Choice 2: Lives |
 | 12/22 | Choice 1: Euphori |
 | 1/8 | Choice 3: The underworld |
-| 1/18 | Choice ?: Circe |
+| 1/18 | Choice 2: Circe |
 
 #### Exam Answers
 * Scoring Top of the Class by having the prequisite Academics and all correct answers will grant Charm +4 once exam results are out
@@ -1757,9 +1757,9 @@
 #### Chilled Taiyaki Opportunities
 | Fridge Date | Result |
 | --- | --- |
-| 5/2 | Instant Ramen x2 |
-| 5/31 | Precious Egg |
-| 6/16 | Chilled Taiyaki |
+| 5/2 | Chilled Taiyaki |
+| 5/31 | Instant Ramen x2 |
+| 6/16 | Precious Egg |
 | 6/30 | Chilled Taiyaki |
 | 7/29 | Chilled Taiyaki + Umugi Water |
 | 8/27 | Chilled Taiyaki |
@@ -1770,4 +1770,4 @@
 | 12/10 | Chilled Taiyaki |
 | 12/23 | Chilled Taiyaki + YABA Chocolate |
 | 1/9 | Chilled Taiyaki + Umugi Water |
-| 1/22 | Chilled Taiyaki |
+| 1/22 | Chilled Taiyaki + Doctro in Jelly |
