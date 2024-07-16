@@ -27,7 +27,8 @@
   "enemyIds": "p4-enemy-ids.tsv",
   "skillIds": "p4-skill-ids.tsv",
   "skillEffects": "p4-skill-ids.tsv",
-  "itemsBegin": "0x300",
+  "itemEffects": "../p4-item-effects.tsv",
+  "itemsBegin": "-1",
   "resistLvls": {
     "0": "-",
     "1": "n",

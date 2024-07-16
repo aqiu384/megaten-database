@@ -3,10 +3,11 @@ import struct
 import json
 from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
 
-GAME_PREFIX = 'p4g'
+GAME_PREFIX = 'p3p'
 GAME_TYPE = GAME_PREFIX[:2]
 COMP_CONFIG = load_comp_config(f"configs/{GAME_PREFIX}-comp-config.json")
 DATA_DIR = '../../../megaten-fusion-tool/src/app/{}'
+NORM_ATKS = { 0: 'Slash Attack', 350: 'Pierce Attack', 351: 'Strike Attack' }
 TOOL_DEMONS = {}
 
 for fname in COMP_CONFIG['enemyData']:
@@ -19,7 +20,7 @@ datasets = []
 
 with open(f"{GAME_TYPE}-data/{COMP_CONFIG['enemyIds']}") as tsvfile:
     DEMON_IDS = ['BLANK\t0'] + [x.strip() for x in tsvfile]
-for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv', 'item-effects.tsv']:
+for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv', COMP_CONFIG['itemEffects']]:
     with open(f"{GAME_TYPE}-data/{fname}") as tsvfile:
         datasets.append(['BLANK'] + [x.strip().split('\t')[0] for x in tsvfile])
 
@@ -51,24 +52,23 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
         innate = struct.unpack('<8H', line[0x0E:0x1E])
         exp, yen = struct.unpack('<2H', line[0x1E:0x22])
         drops = struct.unpack('<8H', line[0x22:0x32])
+        quest_drop = struct.unpack('<3H', line[0x32:0x38])
+        norm_hit, norm_pwr = struct.unpack('<2H', line[0x38:0x3C])
 
     if GAME_TYPE == 'p3':
         temp = exp
         exp = yen
         yen = temp
+        norm_elem = struct.unpack('<1H', line[0x3C:0x3E])[0]
+        norm_atk = NORM_ATKS[norm_elem]
+        if norm_atk not in demon['skills']:
+            print(dname, 'norm_atk', norm_atk)
 
     printif_notequal(dname, 'race', demon['race'].replace(' P', ''), RACE_IDS[race_id])
     printif_notequal(dname, 'lvl', demon['lvl'], dlvl)
     printif_notequal(dname, 'stats', demon['stats'], list(stats))
     printif_notequal(dname, 'exp', demon['exp'], exp)
     printif_notequal(dname, 'yen', demon.get('price', 0), yen)
-
-    if ' P' in demon['race']:
-        continue
-
-    innate = [SKILL_IDS[s_id] for s_id in innate if s_id != 0]
-    old_skills = demon['skills'][1 if GAME_TYPE == 'p3' else 0:]
-    printif_notequal(dname, 'skills', old_skills, innate)
 
     old_drops = demon.get('gem', '-').split(', ')
     if 'material' in demon:
@@ -81,10 +81,20 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
 
         i_id -= COMP_CONFIG['itemsBegin']
         i_chance *= 0.5
-        iname = ITEM_IDS[i_id]
+        if i_id < 0 or len(ITEM_IDS) < i_id:
+            print(dname, 'unk_drop', i_id, i_chance)
+            continue
 
+        iname = ITEM_IDS[i_id]
         if iname not in old_drops:
-            print(dname, 'drop', iname, old_drops)
+            print(dname, 'drop', iname, i_chance, old_drops)
+
+    if ' P' in demon['race']:
+        continue
+
+    innate = [SKILL_IDS[s_id] for s_id in innate if s_id != 0]
+    old_skills = demon['skills'][1 if GAME_TYPE == 'p3' else 0:]
+    printif_notequal(dname, 'skills', old_skills, innate)
 
 if GAME_PREFIX == 'p5r':
     with open(f"dumps/{GAME_PREFIX}-enemy-resists.bin", 'rb') as binfile:

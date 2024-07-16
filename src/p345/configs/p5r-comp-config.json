@@ -24,6 +24,8 @@
   "demonIds": "p5r-demon-ids.tsv",
   "enemyIds": "p5r-enemy-ids.tsv",
   "skillIds": "skill-effects.tsv",
+  "skillEffects": "skill-effects.tsv",
+  "itemEffects": "item-effects.tsv",
   "itemsBegin": "0x0",
   "resistLvls": {
     "0": "-",
