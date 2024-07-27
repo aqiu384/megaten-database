@@ -3,6 +3,8 @@ import struct
 import json
 
 INNATES = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2]
+ALIGNS1 = ['???', 'Neutral', 'Light', 'Dark']
+ALIGNS2 = ['???', 'Neutral', '???', '???', 'Law', 'Chaos']
 
 RESIST_LVLS = {
     0: 'n',
@@ -87,6 +89,8 @@ MAGIC_COMP = (0, 1, 1, 0, 98, 0, 5, 100, 70, 100, 0)
 
 with open('Content/Blueprints/Gamedata/BinTable/Devil/NKMBaseTable.bin', 'rb') as binfile:
     NEW_DEMONS = binfile.read()
+with open('../../../megaten-fusion-tool/src/app/smt5/data/alignments.json') as jsonfile:
+    RACE_ALIGNS = json.load(jsonfile)
 
 def save_ordered_demons(demons, fname):
     for entry in demons.values():
@@ -114,7 +118,8 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     dname = DEMON_IDS[d_id]
 
     d_id2, order_comp, race = struct.unpack('<LLB', line[0x00:0x09])
-    unk_race = struct.unpack('<7BL', line[0x09:0x14])
+    unk_race = struct.unpack('<6B', line[0x09:0x0F])
+    align1, align2 = struct.unpack('<BL', line[0x0F:0x14])
     lvl, in_comp = struct.unpack('<LB', line[0x14:0x19])
     magic_comp = struct.unpack('<7B4L', line[0x19:0x30])
     race = RACE_IDS[race]
@@ -146,6 +151,9 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
         if learned[i + 1] > 0:
             skills[SKILL_IDS[learned[i + 1]]] = learned[i]
 
+    align = f"{ALIGNS1[align1]}-{ALIGNS2[align2]}"
+
+    printif_notequal(dname, 'align', RACE_ALIGNS.get(dname, RACE_ALIGNS[race]), align)
     printif_notequal(dname, 'd_id2', d_id, d_id2)
     # printif_notequal(dname, 'magic_comp', MAGIC_COMP, magic_comp)
 

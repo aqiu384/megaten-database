@@ -2,11 +2,15 @@
 import struct
 import json
 import os
+from math import floor
 
 LINE_LEN = 0xB4
 START_OFFSET = 0x30
 END_OFFSET = START_OFFSET + 1200 * LINE_LEN
 OLD_AILMENTS = ['Bind', 'Charm', 'Daze', 'Mute', 'Panic', 'Poison', 'Sick', 'Sleep']
+ALIGNS1 = ['???', 'Neutral', 'Light', 'Dark']
+ALIGNS2 = ['???', 'Neutral', '???', '???', 'Law', 'Chaos']
+MP_TYPES = [0, 0, 0, 0, 1, 0, 0, 3, 0, 0, 0, 4, 5]
 
 RESIST_LVLS = {
     0: '-',
@@ -48,6 +52,8 @@ AILMENT_ORDER = [AILMENTS.index(x) for x in OLD_AILMENTS]
 
 with open('../../../megaten-fusion-tool/src/app/smt4f/data/demon-data.json') as jsonfile:
     OLD_DEMONS = json.load(jsonfile)
+with open('../../../megaten-fusion-tool/src/app/smt4/data/alignments.json') as jsonfile:
+    RACE_ALIGNS = json.load(jsonfile)
 with open('data/demon-ids.tsv') as tsvfile:
     DEMON_IDS = ['BLANK\t0'] + [x.strip() for x in tsvfile]
 with open('data/skill-ids.tsv') as tsvfile:
@@ -102,18 +108,27 @@ def check_demon_data(fname, start_offset, end_offset, line_len):
 
         race_id = struct.unpack('<1L', line[0x02:0x06])[0]
         dlvl = struct.unpack('<1H', line[0x06:0x08])[0]
-        stats = struct.unpack('<5H', line[0x1E:0x28])
+        align1, align2 = struct.unpack('<2B', line[0x08:0x0A])
+        stats = struct.unpack('<2H2B5H', line[0x18:0x28])
         innate = struct.unpack('<8H', line[0x40:0x50])
         learned = struct.unpack('<16H', line[0x50:0x70])
         full_resists = struct.unpack('<8H', line[0x70:0x80])
         full_ailments = struct.unpack('<13H', line[0x80:0x9A])
         full_affinities = struct.unpack('<16b', line[0xA2:0xB2])
 
-        printif_notequal(dname, 'd_id', d_id, new_d_id)
-        printif_notequal(dname, 'race', demon['race'], RACE_IDS[race_id])
-        printif_notequal(dname, 'lvl', demon['lvl'], dlvl)
-        printif_notequal(dname, 'stats', demon['stats'][2:], list(stats))
+        race = RACE_IDS[race_id]
+        align = f"{ALIGNS1[align1]}-{ALIGNS2[align2]}"
+        hp = stats[0] + (dlvl - 1) * stats[2]
+        mp = stats[1] + (dlvl - 1) * MP_TYPES[stats[3]]
+        new_stats = [hp, mp] + list(stats[4:])
 
+        printif_notequal(dname, 'align', RACE_ALIGNS.get(dname, RACE_ALIGNS[race]), align)
+        printif_notequal(dname, 'd_id', d_id, new_d_id)
+        printif_notequal(dname, 'race', demon['race'], race)
+        printif_notequal(dname, 'lvl', demon['lvl'], dlvl)
+        printif_notequal(dname, 'stats', demon['stats'], new_stats)
+
+        demon['stats'] = list(stats)
         resists = ''.join(RESIST_LVLS[x >> 10] for x in full_resists)
         ailments = ''.join(RESIST_LVLS[full_ailments[x] >> 10] for x in AILMENT_ORDER)
         affinities = list(full_affinities[:8]) + [full_affinities[x] for x in (8, 12, 10, 14)]
