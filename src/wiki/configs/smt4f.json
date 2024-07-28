@@ -1,0 +1,58 @@
+{
+  "dataDirs": [
+    "../../../megaten-fusion-tool/src/app/smt4/data/",
+    "../../../megaten-fusion-tool/src/app/smt4f/data/"
+  ],
+  "demonDatas": ["1/demon-data.json"],
+  "skillDatas": ["1/skill-data.json"],
+  "alignments": ["0/alignments.json"],
+  "evolutions": ["1/evolutions.json"],
+  "fusionPrereqs": ["1/fusion-prereqs.json"],
+  "specialRecipes": ["1/special-recipes.json"],
+  "params": {
+    "template": "SMT4A Party Stats",
+    "skillTemplate": "Skill|SMT4A",
+    "race": "race",
+    "lvl": "level",
+    "alignment": "alignment",
+    "cost": "cost",
+    "smt4fBaseStats": ["hp", "mp", "st", "dx", "ma", "ag", "lu"],
+    "fusionPrereq": "fusioncondition",
+    "specialRecipe": "location",
+    "evolution": ["evolvefrom" ,"fromlevel", "evolveto", "tolevel"],
+    "resistElems": ["physical", "gun", "fire", "ice", "elec", "force", "light", "dark"],
+    "resistFracs": ["phys", "gun", "fire", "ice", "elec", "force", "light", "dark"],
+    "ailmentFracs": ["bind", "charm", "daze", "mute", "panic", "poison", "sick", "sleep"],
+    "affinityElems": ["saphysical", "sagun" ,"safire", "saice", "saelec", "saforce", "salight", "sadark", "almighty", "ailment", "heal", "support"],
+    "smt4Attack": ["element", "hit", "target"],
+    "affinitySkills": ["phy", "gun", "fir", "ice", "ele", "for", "lig", "dar", "alm", "ail", "rec", "sup"],
+    "resistElemCodes": {
+      "X": "Wk",
+      "W": "Wk",
+      "w": "Wk",
+      "-": "-",
+      "s": "Rs",
+      "n": "Nu",
+      "r": "Rp",
+      "d": "Dr"
+    },
+    "resistFracCodes": {
+      "X": 3,
+      "W": 2,
+      "w": 1.25,
+      "-": 1,
+      "s": 0.5,
+      "n": 1,
+      "r": 1,
+      "d": 1
+    },
+    "ailmentFracCodes": {
+      "X": 3,
+      "W": 2,
+      "w": 1.25,
+      "-": 1,
+      "s": 0.5,
+      "n": 0
+    }
+  }
+}

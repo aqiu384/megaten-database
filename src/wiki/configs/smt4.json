@@ -1,0 +1,56 @@
+{
+  "dataDirs": [
+    "../../../megaten-fusion-tool/src/app/smt4/data/"
+  ],
+  "demonDatas": ["0/demon-data.json"],
+  "skillDatas": ["0/skill-data.json"],
+  "alignments": ["0/alignments.json"],
+  "evolutions": ["0/evolutions.json"],
+  "fusionPrereqs": ["0/fusion-prereqs.json"],
+  "specialRecipes": ["0/special-recipes.json"],
+  "params": {
+    "template": "SMT4 Party Stats",
+    "skillTemplate": "Skill|SMT4",
+    "race": "race",
+    "lvl": "level",
+    "alignment": "alignment",
+    "cost": "cost",
+    "smt4BaseStats": ["hp", "mp", "st", "dx", "ma", "ag", "lu"],
+    "fusionPrereq": "fusioncondition",
+    "specialRecipe": "location",
+    "evolution": ["evolvefrom" ,"fromlevel", "evolveto", "tolevel"],
+    "resistElems": ["physical", "gun", "fire", "ice", "elec", "force", "light", "dark"],
+    "resistFracs": ["phys", "gun", "fire", "ice", "elec", "force", "light", "dark"],
+    "ailmentFracs": ["bind", "panic", "poison", "sick", "sleep"],
+    "smt4Attack": ["element", "hit", "target"],
+    "skills": "skills",
+    "resistElemCodes": {
+      "X": "Wk",
+      "W": "Wk",
+      "w": "Wk",
+      "-": "-",
+      "s": "Rs",
+      "n": "Nu",
+      "r": "Rp",
+      "d": "Dr"
+    },
+    "resistFracCodes": {
+      "X": 3,
+      "W": 2,
+      "w": 1.25,
+      "-": 1,
+      "s": 0.5,
+      "n": 1,
+      "r": 1,
+      "d": 1
+    },
+    "ailmentFracCodes": {
+      "X": 3,
+      "W": 2,
+      "w": 1.25,
+      "-": 1,
+      "s": 0.5,
+      "n": 0
+    }
+  }
+}
