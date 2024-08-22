@@ -19,7 +19,7 @@ def load_data(dataset):
 
 demon_data = load_data('demonDatas')
 skill_data = load_data('skillDatas')
-align_data = load_data('alignmentDatas')
+alignments = load_data('alignments')
 evolve_to = load_data('evolutions')
 fusion_prereqs = load_data('fusionPrereqs')
 special_recipes = load_data('specialRecipes')
@@ -31,7 +31,7 @@ skill_elems = { skill: AFFINITY_ELEMS.index(elem) if elem in AFFINITY_ELEMS else
 evolve_from = { result['result']: { 'ingred': ingred, 'lvl': result['lvl'] } for ingred, result in evolve_to.items() }
 
 def format_align(demon):
-    align = align_data.get(demon['name'], align_data.get(demon['race'], ''))
+    align = alignments.get(demon['name'], alignments.get(demon['race'], ''))
     return f"|{comp_params['alignment']}={align}" if align != '' else ''
 
 def format_base_stats(demon):
@@ -141,20 +141,21 @@ def format_smt4_attack(demon):
     return '\n'.join(lines)
 
 def format_skills(demon):
-    skills = [(sname, slvl) for sname, slvl in demon['skills'].items()]
-    lines = [f"{{{{{comp_params['skillTemplate']}|{sname}|{'-' if slvl < 2 else slvl}}}}}" for sname, slvl in skills]
+    skills = [(sname, '-' if slvl < 2 else floor(slvl)) for sname, slvl in demon['skills'].items()]
+    lines = [f"{{{{Skill|{comp_params['abbr']}|{sname}|{slvl}}}}}" for sname, slvl in skills]
     return '|skills=' + '\n'.join(lines)
 
 def format_affinity_skills(demon):
     affinities = demon['affinities'] + [0]
     skills = [(sname, affinities[skill_elems[sname]], '-' if slvl < 2 else floor(slvl)) for sname, slvl in demon['skills'].items()]
-    lines = [f"{{{{{comp_params['skillTemplate']}|{sname}{format_affinity_lvl(saffinity)}|{slvl}}}}}" for sname, saffinity, slvl in skills]
+    lines = [f"{{{{Skill|{comp_params['abbr']}|{sname}{format_affinity_lvl(saffinity)}|{slvl}}}}}" for sname, saffinity, slvl in skills]
     return '|skills=' + '\n'.join(lines)
 
 PARAM_FORMATS = {
+    'lvl': lambda demon: f"|{comp_params['lvl']}={demon['lvl']}",
     'race': lambda demon: f"|{comp_params['race']}={demon['race']}",
     'alignment': format_align,
-    'lvl': lambda demon: f"|{comp_params['lvl']}={demon['lvl']}",
+    'speech': lambda demon: f"|{comp_params['speech']}={demon['speech']}",
     'cost': lambda demon: f"|{comp_params['cost']}={2 * demon['price']}",
     'baseStats': format_base_stats,
     'smt4BaseStats': format_smt4_base_stats,
@@ -171,12 +172,12 @@ PARAM_FORMATS = {
     'affinitySkills': format_affinity_skills
 }
 
-for dname, entry in sorted(demon_data.items(), key=lambda x: x[1]['lvl'], reverse=True):
+for dname, entry in sorted(demon_data.items(), key=lambda x: x[1]['lvl']):
     race = entry['race']
     entry['name'] = dname
     if race != RACE:
         continue
-    lines = [dname, '{{' + comp_params['template']]
+    lines = ['\n', dname, f"==={{{{Link|Game|{comp_params['abbr']}}}}}===", f"{{{{{comp_params['abbr']} Party Stats"]
     for param, format in PARAM_FORMATS.items():
         if param in comp_params:
             lines.append(format(entry))
