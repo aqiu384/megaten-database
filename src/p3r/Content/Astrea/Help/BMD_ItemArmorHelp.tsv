@@ -1,0 +1,513 @@
+id	en
+Item_000	未使用
+Item_001	A simple, clean-looking shirt.
+Item_002	A pink cardigan made of wool.
+Item_003	A formal, navy blue shirt to pair with a suit.
+Item_004	A sleeveless, red vest designed for ease of movement.
+Item_005	A frilled blouse made with high-end materials.
+Item_006	An aqua blue shirt that keeps the wearer's neck warm.
+Item_007	Armor for Aigis. Fit to cover a mechanical body.
+Item_008	A hooded, zip-up sweatshirt well-suited for any season.
+Item_009	Basic dog clothes with a simple design.
+Item_00A	A long, thick coat for staying warm even in the dead of winter.
+Item_00B	A durable, highly elastic shirt.
+Item_00C	A lightweight protector. Keeps the chest well-\nguarded.
+Item_00D	A comfortable suit made of soft material.
+Item_00E	A durable shirt made from bulletproof material.
+Item_00F	A practical shirt optimized for field combat.
+Item_010	A traditional martial arts uniform. Permitted only to masters.
+Item_011	A soft overcoat that gently envelops the body.
+Item_012	Sturdy metal armor with some decent heft.
+Item_013	A remarkably versatile apron fit for anything, from cooking to combat.
+Item_014	A durable sash made of tiger hide. Softens the force of blows.
+Item_015	A bulletproof vest that is difficult to penetrate.
+Item_016	Armor that enables survival of a single instakill attack with 1 HP.
+Item_017	A robe covered in sutras. Said to confer holy power upon the wearer.
+Item_018	A vest that resists Fire damage for 3 turns at the start of battle.
+Item_019	Knickers worn by manly heroes of the past. Instills boldness.
+Item_01A	A cloak made of special fabric. Imbued with the essence of fallen tears.
+Item_01B	A robe fashioned with sorcery that conjures up an invisible shield.
+Item_01C	Wards off disaster. Medium chance to counter physical attacks.
+Item_01D	A haori patterned with rivulets of blood. Harbors an unsettling power.
+Item_01E	Very heavy but durable armor.
+Item_01F	Traditional men's summer clothing, but with cutting-\nedge camouflage.
+Item_020	A leopard-print dress shirt evoking plaintive lamentations.
+Item_021	Victory-vying garment that temporarily raises the wearer's critical rate.
+Item_022	A leather jacket that lets the wearer survive death with 1 HP once per battle.
+Item_023	A resplendent piece of armor adorned with beautiful decorations.
+Item_024	A suit made of resilient material. High chance to counter physical attacks.
+Item_025	A bra with several spikes attached. Raises Attack at the start of battle.
+Item_026	A vest woven of cloth as black as the pitiless depths.
+Item_027	Extremely sturdy armor said to have been made from OOPArts.
+Item_028	A sacred coat with an ornate rose motif.
+Item_029	A bulky suit that amplifies one's strength.
+Item_02A	Refined-looking armor with silver decorations.
+Item_02B	A holy robe blessed by a pope.
+Item_02C	Armor that withstands attacks well. Some say it will last an eternity.
+Item_02D	A savior's armor. Restores all HP upon death once per battle.
+Item_02E	Armor inscribed with engravings that protect the wearer from magic.
+Item_02F	A vest that kindles nostalgia with its 8-bit design.
+Item_030	A shirt for bodybuilders. The wearer becomes unfazed by temptation.
+Item_031	Fills the wearer with a burning passion no chill can extinguish.
+Item_032	A letterman jacket for baseball legends. Junpei likes to wear it.
+Item_033	A jacket so full of holes, anyone willing to wear it fears nothing.
+Item_034	A robe yellowed with age. Radiates mysterious power.
+Item_035	Holy armor worn by angels in battle.
+Item_036	A sturdy vest that holds up to all manner of destructive forces.
+Item_037	A cape that captures the imagination of children. Amada loves it.
+Item_038	Special fibers keep the wearer insulated from the cold. Perfect for Sanada.
+Item_039	Armor worn by the water god. Highly resistant to flames.
+Item_03A	A heavy-duty vest made to be impenetrable.
+Item_03B	An odd-looking robe that a wizard might wear.
+Item_03C	Heavy armor that can withstand devastating blows.
+Item_03D	A brilliant, blood-red cape. Gracefully leads the bull astray.
+Item_03E	Lingerie popular among women. Restores a tiny bit of SP each turn.
+Item_03F	Heavy armor that is difficult to mar with a blade.
+Item_040	A graceful scarf, always billowing in the wind. Fitting for Mitsuru.
+Item_041	A parka made of fire-resistant tanned leather.
+Item_042	Armor for Aigis. Fully covers and protects the torso.
+Item_043	Armor for Aigis. A lightweight vest for improved mobility.
+Item_044	Armor for Aigis. Made of firm steel.
+Item_045	Armor for Aigis. Imbued with the essence of fallen tears.
+Item_046	Armor for Aigis. The steel surface area has been expanded.
+Item_047	Armor for Aigis. Harbors unsettling power, evoking rivulets of blood.
+Item_048	Enhanced armor for Aigis. Simple but robust.
+Item_049	Enhanced armor for Aigis. Plaintive lamentations dwell within.
+Item_04A	Enhanced armor for Aigis. Made by attaching smaller armor plates together.
+Item_04B	Special armor for Aigis. Its matte finish is as black as the pitiless depths.
+Item_04C	Enhanced armor for Aigis. Made of cemented carbide.
+Item_04D	Sacred armor for Aigis with an ornate rose motif.
+Item_04E	Specialized armor for Aigis. Nullifies all status ailments.
+Item_04F	未使用
+Item_050	Enhanced armor for Aigis. Covers the entire body in hard steel.
+Item_051	Special armor for Aigis, yellowed with age. Emits a mysterious power.
+Item_052	Prototype armor for Aigis. Discontinued after its pilot phase.
+Item_053	A dog suit that restores 1 HP upon death once per battle.
+Item_054	A dog suit with slightly increased durability.
+Item_055	A special leather dog suit. Imbued with the essence of fallen tears.
+Item_056	A dog suit made of metal. Fairly heavy, but very durable.
+Item_057	A dog suit that harbors unsettling power, evoking rivulets of blood.
+Item_058	A dog suit made of titanium. Strong, yet light.
+Item_059	A leopard-print dog suit. Plaintive lamentations dwell within.
+Item_05A	A stylish dog suit with a cross design on it.
+Item_05B	A dog suit made of cloth as black as the pitiless depths.
+Item_05C	A mechanized dog suit that temporarily raises Attack and critical rate.
+Item_05D	A sharp-looking dog suit that's been dyed black.
+Item_05E	A sacred dog suit with an ornate rose motif.
+Item_05F	An enigmatic dog suit that emits a mysterious light.
+Item_060	A glowing dog suit that shines through even the darkest of nights.
+Item_061	A dog suit yellowed with age. Radiates mysterious power.
+Item_062	A starry dog suit. Raises Attack when on the receiving end of a Shift.
+Item_063	A dog suit enhanced to the limit. Restores HP and SP each turn.
+Item_064	未使用
+Item_065	未使用
+Item_066	未使用
+Item_067	未使用
+Item_068	未使用
+Item_069	未使用
+Item_06A	未使用
+Item_06B	未使用
+Item_06C	未使用
+Item_06D	未使用
+Item_06E	未使用
+Item_06F	未使用
+Item_070	未使用
+Item_071	未使用
+Item_072	未使用
+Item_073	未使用
+Item_074	The haori of choice for masterful samurai.
+Item_075	A pretty, pink coat made of sturdy materials.
+Item_076	A tough vest that is somewhat bulletproof.
+Item_077	未使用
+Item_078	Work clothes that resist Wind damage for 3 turns at the start of battle.
+Item_079	A beautiful cloak said to ward off disease.
+Item_07A	Winter-ready black tights. Quickly recover from status ailments.
+Item_07B	Armor worn by a fallen aristocrat. Nullifies mental ailments.
+Item_07C	A shining, yellow dress that stems the flow of electricity.
+Item_07D	Comfy clothing featuring a cute mascot for Makoto.
+Item_07E	A warm, stylish dress. A perfect fit for Yukari.
+Item_07F	A vest inscribed with mysterious letters.
+Item_080	未使用
+Item_081	未使用
+Item_082	未使用
+Item_083	未使用
+Item_084	未使用
+Item_085	未使用
+Item_086	未使用
+Item_087	未使用
+Item_088	未使用
+Item_089	未使用
+Item_08A	未使用
+Item_08B	未使用
+Item_08C	未使用
+Item_08D	未使用
+Item_08E	未使用
+Item_08F	未使用
+Item_090	未使用
+Item_091	未使用
+Item_092	未使用
+Item_093	未使用
+Item_094	未使用
+Item_095	未使用
+Item_096	Heavy armor for Aigis. Medium chance to Repel physical attacks.
+Item_097	Artistic armor for Aigis. Inspired by a legendary hero.
+Item_098	Ultra-durable armor for Aigis. Boasts consummate resilience.
+Item_099	Flanked equipment for Aigis. Enhances combat features.
+Item_09A	未使用
+Item_09B	未使用
+Item_09C	未使用
+Item_09D	未使用
+Item_09E	未使用
+Item_09F	未使用
+Item_0A0	Armor for Metis. Inlaid with mother of pearl.
+Item_0A1	Armor for Metis. Lustrous as porcelain.
+Item_0A2	Armor for Metis. Made with specialty fibers.
+Item_0A3	Armor for Metis. Fashioned after knightly garb.
+Item_0A4	Armor for Metis. Imbued with the essence of fallen tears.
+Item_0A5	Armor for Metis. The product of fine craftsmanship.
+Item_0A6	Armor for Metis. Harbors unsettling power, evoking rivulets of blood.
+Item_0A7	Armor for Metis. Made of divine scales.
+Item_0A8	Armor for Metis, resistant to blades. Reminiscent of a legendary warrior.
+Item_0A9	Armor for Metis. Said to contain the life force of a god.
+Item_0AA	Armor for Metis. Plaintive lamentations dwell within.
+Item_0AB	Armor for Metis. Composed of precious metals, high in defense.
+Item_0AC	Fine armor for Metis. Layers of lacquer provide great insulation.
+Item_0AD	Special armor for Metis. Its matte finish is as black as the pitiless depths.
+Item_0AE	Armor for Metis. Made of special material that is highly durable and rigid.
+Item_0AF	Armor for Metis. So wicked that it keeps other evils at bay.
+Item_0B0	Lightweight armor for Metis. Minimizes load to support high demands.
+Item_0B1	Armor for Metis. Electronically repels some physical attacks.
+Item_0B2	Armor for Metis. Houses the vigor of a great conqueror.
+Item_0B3	Special armor for Metis, yellowed with age. Emits a mysterious power.
+Item_0B4	Sacred armor for Metis with an ornate rose motif.
+Item_0B5	A cloak made of special fabric. Imbued with the essence of fallen tears.
+Item_0B6	A cloak made of special fabric. Imbued with the essence of fallen tears.
+Item_0B7	A haori patterned with rivulets of blood. Harbors an unsettling power.
+Item_0B8	A haori patterned with rivulets of blood. Harbors an unsettling power.
+Item_0B9	A leopard-print dress shirt evoking plaintive lamentations.
+Item_0BA	A leopard-print dress shirt evoking plaintive lamentations.
+Item_0BB	A leopard-print dress shirt evoking plaintive lamentations.
+Item_0BC	A vest woven of cloth as black as the pitiless depths.
+Item_0BD	A vest woven of cloth as black as the pitiless depths.
+Item_0BE	A vest woven of cloth as black as the pitiless depths.
+Item_0BF	A robe yellowed with age. Radiates mysterious power.
+Item_0C0	A robe yellowed with age. Radiates mysterious power.
+Item_0C1	A robe yellowed with age. Radiates mysterious power.
+Item_0C2	A sacred coat with an ornate rose motif.
+Item_0C3	A sacred coat with an ornate rose motif.
+Item_0C4	A sacred coat with an ornate rose motif.
+Item_0C5	Armor for Aigis. Imbued with the essence of fallen tears.
+Item_0C6	Armor for Aigis. Imbued with the essence of fallen tears.
+Item_0C7	Armor for Aigis. Harbors unsettling power, evoking rivulets of blood.
+Item_0C8	Armor for Aigis. Harbors unsettling power, evoking rivulets of blood.
+Item_0C9	Enhanced armor for Aigis. Plaintive lamentations dwell within.
+Item_0CA	Enhanced armor for Aigis. Plaintive lamentations dwell within.
+Item_0CB	Enhanced armor for Aigis. Plaintive lamentations dwell within.
+Item_0CC	Special armor for Aigis. Its matte finish is as black as the pitiless depths.
+Item_0CD	Special armor for Aigis. Its matte finish is as black as the pitiless depths.
+Item_0CE	Special armor for Aigis. Its matte finish is as black as the pitiless depths.
+Item_0CF	Special armor for Aigis, yellowed with age. Emits a mysterious power.
+Item_0D0	Special armor for Aigis, yellowed with age. Emits a mysterious power.
+Item_0D1	Special armor for Aigis, yellowed with age. Emits a mysterious power.
+Item_0D2	Sacred armor for Aigis with an ornate rose motif.
+Item_0D3	Sacred armor for Aigis with an ornate rose motif.
+Item_0D4	Sacred armor for Aigis with an ornate rose motif.
+Item_0D5	A special leather dog suit. Imbued with the essence of fallen tears.
+Item_0D6	A special leather dog suit. Imbued with the essence of fallen tears.
+Item_0D7	A dog suit that harbors unsettling power, evoking rivulets of blood.
+Item_0D8	A dog suit that harbors unsettling power, evoking rivulets of blood.
+Item_0D9	A leopard-print dog suit. Plaintive lamentations dwell within.
+Item_0DA	A leopard-print dog suit. Plaintive lamentations dwell within.
+Item_0DB	A leopard-print dog suit. Plaintive lamentations dwell within.
+Item_0DC	A dog suit made of cloth as black as the pitiless depths.
+Item_0DD	A dog suit made of cloth as black as the pitiless depths.
+Item_0DE	A dog suit made of cloth as black as the pitiless depths.
+Item_0DF	A dog suit yellowed with age. Radiates mysterious power.
+Item_0E0	A dog suit yellowed with age. Radiates mysterious power.
+Item_0E1	A dog suit yellowed with age. Radiates mysterious power.
+Item_0E2	A sacred dog suit with an ornate rose motif.
+Item_0E3	A sacred dog suit with an ornate rose motif.
+Item_0E4	A sacred dog suit with an ornate rose motif.
+Item_0E5	Armor for Metis. Imbued with the essence of fallen tears.
+Item_0E6	Armor for Metis. Imbued with the essence of fallen tears.
+Item_0E7	Armor for Metis. Harbors unsettling power, evoking rivulets of blood.
+Item_0E8	Armor for Metis. Harbors unsettling power, evoking rivulets of blood.
+Item_0E9	Armor for Metis. Plaintive lamentations dwell within.
+Item_0EA	Armor for Metis. Plaintive lamentations dwell within.
+Item_0EB	Armor for Metis. Plaintive lamentations dwell within.
+Item_0EC	Special armor for Metis. Its matte finish is as black as the pitiless depths.
+Item_0ED	Special armor for Metis. Its matte finish is as black as the pitiless depths.
+Item_0EE	Special armor for Metis. Its matte finish is as black as the pitiless depths.
+Item_0EF	Special armor for Metis, yellowed with age. Emits a mysterious power.
+Item_0F0	Special armor for Metis, yellowed with age. Emits a mysterious power.
+Item_0F1	Special armor for Metis, yellowed with age. Emits a mysterious power.
+Item_0F2	Sacred armor for Metis with an ornate rose motif.
+Item_0F3	Sacred armor for Metis with an ornate rose motif.
+Item_0F4	Sacred armor for Metis with an ornate rose motif.
+Item_0F5	未使用
+Item_0F6	未使用
+Item_0F7	未使用
+Item_0F8	未使用
+Item_0F9	未使用
+Item_0FA	未使用
+Item_0FB	未使用
+Item_0FC	未使用
+Item_0FD	未使用
+Item_0FE	未使用
+Item_0FF	未使用
+Item_100	未使用
+Item_101	未使用
+Item_102	未使用
+Item_103	未使用
+Item_104	未使用
+Item_105	未使用
+Item_106	未使用
+Item_107	未使用
+Item_108	未使用
+Item_109	未使用
+Item_10A	未使用
+Item_10B	未使用
+Item_10C	未使用
+Item_10D	未使用
+Item_10E	未使用
+Item_10F	未使用
+Item_110	未使用
+Item_111	未使用
+Item_112	未使用
+Item_113	未使用
+Item_114	未使用
+Item_115	未使用
+Item_116	未使用
+Item_117	未使用
+Item_118	未使用
+Item_119	未使用
+Item_11A	未使用
+Item_11B	未使用
+Item_11C	未使用
+Item_11D	未使用
+Item_11E	未使用
+Item_11F	未使用
+Item_120	未使用
+Item_121	未使用
+Item_122	未使用
+Item_123	未使用
+Item_124	未使用
+Item_125	未使用
+Item_126	未使用
+Item_127	未使用
+Item_128	未使用
+Item_129	未使用
+Item_12A	未使用
+Item_12B	未使用
+Item_12C	未使用
+Item_12D	未使用
+Item_12E	未使用
+Item_12F	未使用
+Item_130	未使用
+Item_131	未使用
+Item_132	未使用
+Item_133	未使用
+Item_134	未使用
+Item_135	未使用
+Item_136	未使用
+Item_137	未使用
+Item_138	未使用
+Item_139	未使用
+Item_13A	未使用
+Item_13B	未使用
+Item_13C	未使用
+Item_13D	未使用
+Item_13E	未使用
+Item_13F	未使用
+Item_140	未使用
+Item_141	未使用
+Item_142	未使用
+Item_143	未使用
+Item_144	未使用
+Item_145	未使用
+Item_146	未使用
+Item_147	未使用
+Item_148	未使用
+Item_149	未使用
+Item_14A	未使用
+Item_14B	未使用
+Item_14C	未使用
+Item_14D	未使用
+Item_14E	未使用
+Item_14F	未使用
+Item_150	未使用
+Item_151	未使用
+Item_152	未使用
+Item_153	未使用
+Item_154	未使用
+Item_155	未使用
+Item_156	未使用
+Item_157	未使用
+Item_158	未使用
+Item_159	未使用
+Item_15A	未使用
+Item_15B	未使用
+Item_15C	未使用
+Item_15D	未使用
+Item_15E	未使用
+Item_15F	未使用
+Item_160	未使用
+Item_161	未使用
+Item_162	未使用
+Item_163	未使用
+Item_164	未使用
+Item_165	未使用
+Item_166	未使用
+Item_167	未使用
+Item_168	未使用
+Item_169	未使用
+Item_16A	未使用
+Item_16B	未使用
+Item_16C	未使用
+Item_16D	未使用
+Item_16E	未使用
+Item_16F	未使用
+Item_170	未使用
+Item_171	未使用
+Item_172	未使用
+Item_173	未使用
+Item_174	未使用
+Item_175	未使用
+Item_176	未使用
+Item_177	未使用
+Item_178	未使用
+Item_179	未使用
+Item_17A	未使用
+Item_17B	未使用
+Item_17C	未使用
+Item_17D	未使用
+Item_17E	未使用
+Item_17F	未使用
+Item_180	未使用
+Item_181	未使用
+Item_182	未使用
+Item_183	未使用
+Item_184	未使用
+Item_185	未使用
+Item_186	未使用
+Item_187	未使用
+Item_188	未使用
+Item_189	未使用
+Item_18A	未使用
+Item_18B	未使用
+Item_18C	未使用
+Item_18D	未使用
+Item_18E	未使用
+Item_18F	未使用
+Item_190	未使用
+Item_191	未使用
+Item_192	未使用
+Item_193	未使用
+Item_194	未使用
+Item_195	未使用
+Item_196	未使用
+Item_197	未使用
+Item_198	未使用
+Item_199	未使用
+Item_19A	未使用
+Item_19B	未使用
+Item_19C	未使用
+Item_19D	未使用
+Item_19E	未使用
+Item_19F	未使用
+Item_1A0	未使用
+Item_1A1	未使用
+Item_1A2	未使用
+Item_1A3	未使用
+Item_1A4	未使用
+Item_1A5	未使用
+Item_1A6	未使用
+Item_1A7	未使用
+Item_1A8	未使用
+Item_1A9	未使用
+Item_1AA	未使用
+Item_1AB	未使用
+Item_1AC	未使用
+Item_1AD	未使用
+Item_1AE	未使用
+Item_1AF	未使用
+Item_1B0	未使用
+Item_1B1	未使用
+Item_1B2	未使用
+Item_1B3	未使用
+Item_1B4	未使用
+Item_1B5	未使用
+Item_1B6	未使用
+Item_1B7	未使用
+Item_1B8	未使用
+Item_1B9	未使用
+Item_1BA	未使用
+Item_1BB	未使用
+Item_1BC	未使用
+Item_1BD	未使用
+Item_1BE	未使用
+Item_1BF	未使用
+Item_1C0	未使用
+Item_1C1	未使用
+Item_1C2	未使用
+Item_1C3	未使用
+Item_1C4	未使用
+Item_1C5	未使用
+Item_1C6	未使用
+Item_1C7	未使用
+Item_1C8	未使用
+Item_1C9	未使用
+Item_1CA	未使用
+Item_1CB	未使用
+Item_1CC	未使用
+Item_1CD	未使用
+Item_1CE	未使用
+Item_1CF	未使用
+Item_1D0	未使用
+Item_1D1	未使用
+Item_1D2	未使用
+Item_1D3	未使用
+Item_1D4	未使用
+Item_1D5	未使用
+Item_1D6	未使用
+Item_1D7	未使用
+Item_1D8	未使用
+Item_1D9	未使用
+Item_1DA	未使用
+Item_1DB	未使用
+Item_1DC	未使用
+Item_1DD	未使用
+Item_1DE	未使用
+Item_1DF	未使用
+Item_1E0	未使用
+Item_1E1	未使用
+Item_1E2	未使用
+Item_1E3	未使用
+Item_1E4	未使用
+Item_1E5	未使用
+Item_1E6	未使用
+Item_1E7	未使用
+Item_1E8	未使用
+Item_1E9	未使用
+Item_1EA	未使用
+Item_1EB	未使用
+Item_1EC	未使用
+Item_1ED	未使用
+Item_1EE	未使用
+Item_1EF	未使用
+Item_1F0	未使用
+Item_1F1	未使用
+Item_1F2	未使用
+Item_1F3	未使用
+Item_1F4	未使用
+Item_1F5	未使用
+Item_1F6	未使用
+Item_1F7	未使用
+Item_1F8	未使用
+Item_1F9	未使用
+Item_1FA	未使用
+Item_1FB	未使用
+Item_1FC	未使用
+Item_1FD	未使用
+Item_1FE	未使用
+Item_1FF	未使用

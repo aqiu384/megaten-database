@@ -1,0 +1,1025 @@
+id	en
+MSG_0001	未使用1
+MSG_0002	未使用2
+MSG_0003	未使用3
+MSG_0004	未使用4
+MSG_0005	未使用5
+MSG_0006	未使用6
+MSG_0007	未使用7
+MSG_0008	未使用8
+MSG_0009	未使用9
+MSG_0010	Deals weak Fire damage to 1 foe.
+MSG_0011	Deals medium Fire damage to 1 foe.
+MSG_0012	Deals heavy Fire damage to 1 foe.
+MSG_0013	Deals weak Fire damage to all foes.
+MSG_0014	Deals medium Fire damage to all foes.
+MSG_0015	Deals heavy Fire damage to all foes.
+MSG_0016	Deals severe Fire damage to 1 foe.
+MSG_0017	未使用17
+MSG_0018	Deals heavy Fire damage to all foes. Low chance of inflicting Charm.
+MSG_0019	未使用19
+MSG_0020	Deals weak Ice damage to 1 foe. Low chance of inflicting Freeze.
+MSG_0021	Deals medium Ice damage to 1 foe. Low chance of inflicting Freeze.
+MSG_0022	Deals heavy Ice damage to 1 foe. Low chance of inflicting Freeze.
+MSG_0023	Deals weak Ice damage to all foes. Low chance of inflicting Freeze.
+MSG_0024	Deals medium Ice damage to all foes. Low chance of inflicting Freeze.
+MSG_0025	Deals heavy Ice damage to all foes. Low chance of inflicting Freeze.
+MSG_0026	Deals severe Ice damage to 1 foe. Medium chance of inflicting Freeze.
+MSG_0027	未使用27
+MSG_0028	未使用28
+MSG_0029	未使用29
+MSG_0030	Deals weak Wind damage to 1 foe.
+MSG_0031	Deals medium Wind damage to 1 foe.
+MSG_0032	Deals heavy Wind damage to 1 foe.
+MSG_0033	Deals weak Wind damage to all foes.
+MSG_0034	Deals medium Wind damage to all foes.
+MSG_0035	Deals heavy Wind damage to all foes.
+MSG_0036	Deals severe Wind damage to 1 foe.
+MSG_0037	未使用37
+MSG_0038	未使用38
+MSG_0039	未使用39
+MSG_0040	Deals weak Electric damage to 1 foe. Low chance of inflicting Shock.
+MSG_0041	Deals medium Electric damage to 1 foe. Low chance of inflicting Shock.
+MSG_0042	Deals heavy Electric damage to 1 foe. Low chance of inflicting Shock.
+MSG_0043	Deals weak Electric damage to all foes. Low chance of inflicting Shock.
+MSG_0044	Deals medium Electric damage to all foes. Low chance of inflicting Shock.
+MSG_0045	Deals heavy Electric damage to all foes. Low chance of inflicting Shock.
+MSG_0046	Deals severe Electric damage to 1 foe. Medium chance of inflicting Shock.
+MSG_0047	未使用47
+MSG_0048	未使用48
+MSG_0049	未使用49
+MSG_0050	Low chance of Light instakill to 1 foe.
+MSG_0051	Medium chance of Light instakill to 1 foe.
+MSG_0052	Low chance of Light instakill to all foes.
+MSG_0053	Medium chance of Light instakill to all foes.
+MSG_0054	High chance of Light instakill to all foes.
+MSG_0055	未使用55
+MSG_0056	Deals weak Light damage to 1 foe.
+MSG_0057	Deals medium Light damage to 1 foe.
+MSG_0058	Deals heavy Light damage to 1 foe.
+MSG_0059	Deals weak Light damage to all foes.
+MSG_0060	Deals medium Light damage to all foes.
+MSG_0061	Deals heavy Light damage to all foes.
+MSG_0062	Light attack that reduces HP of 1 foe by 50%.
+MSG_0063	未使用63
+MSG_0064	Low chance of Dark instakill to 1 foe.
+MSG_0065	Medium chance of Dark instakill to 1 foe.
+MSG_0066	Low chance of Dark instakill to all foes.
+MSG_0067	Medium chance of Dark instakill to all foes.
+MSG_0068	High chance of Dark instakill to all foes.
+MSG_0069	未使用69
+MSG_0070	Deals weak Dark damage to 1 foe.
+MSG_0071	Deals medium Dark damage to 1 foe.
+MSG_0072	Deals heavy Dark damage to 1 foe.
+MSG_0073	Deals weak Dark damage to all foes.
+MSG_0074	Deals medium Dark damage to all foes.
+MSG_0075	Deals heavy Dark damage to all foes.
+MSG_0076	Dark attack that reduces HP of 1 foe by 50%.
+MSG_0077	未使用77
+MSG_0078	Deals medium Almighty damage to all foes.
+MSG_0079	Deals heavy Almighty damage to all foes.
+MSG_0080	Deals severe Almighty damage to all foes.
+MSG_0081	Deals massive Almighty damage to 1 foe.
+MSG_0082	Deals massive Almighty damage to all foes.
+MSG_0083	未使用83
+MSG_0084	未使用84
+MSG_0085	High chance of Poison to 1 foe.
+MSG_0086	Medium chance of Poison to all foes.
+MSG_0087	High chance of Charm to 1 foe.
+MSG_0088	Medium chance of Charm to all foes.
+MSG_0089	High chance of Distress to 1 foe.
+MSG_0090	Medium chance of Distress to all foes.
+MSG_0091	High chance of Confuse to 1 foe.
+MSG_0092	Medium chance of Confuse to all foes.
+MSG_0093	High chance of Fear to 1 foe.
+MSG_0094	Medium chance of Fear to all foes.
+MSG_0095	High chance of Rage to 1 foe.
+MSG_0096	Medium chance of Rage to all foes.
+MSG_0097	未使用97
+MSG_0098	未使用98
+MSG_0099	未使用99
+MSG_0100	Instakill all foes afflicted with Fear.
+MSG_0101	Increase chance of inflicting ailments to 1 foe.
+MSG_0102	Increase chance of inflicting ailments to all combatants.
+MSG_0103	Drain some HP from 1 foe, restoring the user's HP.
+MSG_0104	Drain some SP from 1 foe, restoring the user's SP.
+MSG_0105	Medium Almighty damage with medium chance of Poison to all foes.
+MSG_0106	未使用106
+MSG_0107	未使用107
+MSG_0108	未使用108
+MSG_0109	未使用109
+MSG_0110	Deals weak Slash damage to 1 foe.
+MSG_0111	Deals medium Slash damage to 1 foe. Low chance of inflicting Fear.
+MSG_0112	Deals weak Slash damage to 1 foe (1-4 hits).
+MSG_0113	Deals weak Slash damage to all foes.
+MSG_0114	Deals weak Slash damage to all foes (2-4 hits).
+MSG_0115	Deals heavy Slash damage to all foes.
+MSG_0116	Deals severe Slash damage to 1 foe.
+MSG_0117	Deals severe Slash damage to all foes.
+MSG_0118	Deals severe Slash damage to 1 foe. High chance of critical.
+MSG_0119	Deals medium Slash damage to 1 foe.
+MSG_0120	Deals medium Slash damage to 1 foe.
+MSG_0121	Deals medium Slash damage to all foes. Low chance of Confuse.
+MSG_0122	未使用122
+MSG_0123	未使用123
+MSG_0124	未使用124
+MSG_0125	Deals weak Strike damage to 1 foe.
+MSG_0126	Deals medium Strike damage to 1 foe.
+MSG_0127	Deals heavy Strike damage to 1 foe.
+MSG_0128	Deals weak Strike damage to all foes (1-2 hits).
+MSG_0129	Deals heavy Strike damage to all foes.
+MSG_0130	Deals heavy Strike damage to all foes.
+MSG_0131	Deals massive Strike damage to 1 foe.
+MSG_0132	Deals heavy Strike damage to all foes (1-2 hits).
+MSG_0133	Deals weak Strike damage to 1 foe. Low chance of inflicting Distress.
+MSG_0134	未使用134
+MSG_0135	未使用135
+MSG_0136	未使用136
+MSG_0137	未使用137
+MSG_0138	未使用138
+MSG_0139	Deals weak Pierce damage to 1 foe.
+MSG_0140	Deals weak Pierce damage to 1 foe. Low chance of Charm.
+MSG_0141	Deals weak Pierce damage to 1 foe (2-4 hits).
+MSG_0142	Deals heavy Pierce damage to 1 foe. More if foe is downed.
+MSG_0143	Deals weak Pierce damage to all foes (1-4 hits).
+MSG_0144	Deals weak Pierce damage to all foes (2-5 hits).
+MSG_0145	Deals medium Pierce damage to 1 foe. More if foe is downed.
+MSG_0146	Deals severe Pierce damage to 1 foe.
+MSG_0147	Deals severe Pierce damage to all foes. Medium chance of Fear.
+MSG_0148	Deals heavy Pierce damage to 1 foe. Medium chance of Poison.
+MSG_0149	未使用149
+MSG_0150	未使用150
+MSG_0151	未使用151
+MSG_0152	未使用152
+MSG_0153	未使用153
+MSG_0154	未使用154
+MSG_0155	Slightly restores 1 ally's HP.
+MSG_0156	Moderately restores 1 ally's HP.
+MSG_0157	Fully restores 1 ally's HP.
+MSG_0158	未使用158
+MSG_0159	未使用159
+MSG_0160	Slightly restores party's HP.
+MSG_0161	Moderately restores party's HP.
+MSG_0162	Fully restores party's HP.
+MSG_0163	Fully restores party's HP and cures all ailments besides KO.
+MSG_0164	未使用164
+MSG_0165	Revives 1 fallen ally with 50% HP.
+MSG_0166	Revives 1 fallen ally with full HP.
+MSG_0167	Fully restores party's HP. User's HP is reduced to 1.
+MSG_0168	未使用168
+MSG_0169	未使用169
+MSG_0170	Cures Distress/Confuse/\nCharm/Rage/Fear\nfor 1 ally.
+MSG_0171	Cures Distress/Confuse/\nCharm/Rage/Fear\nfor all allies.
+MSG_0172	Cures Freeze/Shock/\nPoison/Down/Dizzy\nfor 1 ally.
+MSG_0173	Cures Freeze/Shock/\nPoison/Down/Dizzy\nfor all allies.
+MSG_0174	未使用174
+MSG_0175	未使用175
+MSG_0176	Cures all ailments besides KO for all allies.
+MSG_0177	Cures all ailments besides KO for 1 ally.
+MSG_0178	未使用178
+MSG_0179	未使用179
+MSG_0180	Raises 1 ally's Attack for 3 turns.
+MSG_0181	Raises 1 ally's Defense for 3 turns.
+MSG_0182	Raises 1 ally's Accuracy/Evasion for 3 turns.
+MSG_0183	未使用183
+MSG_0184	未使用184
+MSG_0185	Raises party's Attack for 3 turns.
+MSG_0186	Raises party's Defense for 3 turns.
+MSG_0187	Raises party's Accuracy/Evasion for 3 turns.
+MSG_0188	Raises 1 ally's Attack, Defense, and Accuracy/Evasion for 3 turns.
+MSG_0189	未使用189
+MSG_0190	Lowers 1 foe's Attack for 3 turns.
+MSG_0191	Lowers 1 foe's Defense for 3 turns.
+MSG_0192	Lowers 1 foe's Accuracy/Evasion for 3 turns.
+MSG_0193	未使用193
+MSG_0194	未使用194
+MSG_0195	Lowers all foes' Attack for 3 turns.
+MSG_0196	Lowers all foes' Defense for 3 turns.
+MSG_0197	Lowers all foes' Accuracy/Evasion for 3 turns.
+MSG_0198	Lowers 1 foe's Attack, Defense, and Accuracy/Evasion for 3 turns.
+MSG_0199	未使用199
+MSG_0200	Nullify stat buffs for all foes.
+MSG_0201	Nullify stat debuffs for all allies.
+MSG_0202	未使用202
+MSG_0203	未使用203
+MSG_0204	未使用204
+MSG_0205	Next physical attack will deal more than double the damage.
+MSG_0206	Next magic attack will deal more than double the damage.
+MSG_0207	Consumes HP to increase critical rate and next physical attack damage.
+MSG_0208	未使用208
+MSG_0209	未使用209
+MSG_0210	Raises 1 ally's critical rate for 3 turns.
+MSG_0211	Greatly raises all allies and foes' critical rate for 3 turns.
+MSG_0212	未使用212
+MSG_0213	未使用213
+MSG_0214	未使用214
+MSG_0215	Erect a barrier for 1 ally that repels 1 physical attack.
+MSG_0216	Erect a barrier for 1 ally that repels 1 (non-\nAlmighty) magic attack.
+MSG_0217	未使用217
+MSG_0218	未使用218
+MSG_0219	未使用219
+MSG_0220	Negate Fire resistance of all foes for 3 turns.
+MSG_0221	Negate Ice resistance of all foes for 3 turns.
+MSG_0222	Negate Wind resistance of all foes for 3 turns.
+MSG_0223	Negate Electric resistance of all foes for 3 turns.
+MSG_0224	未使用224
+MSG_0225	未使用225
+MSG_0226	未使用226
+MSG_0227	未使用227
+MSG_0228	未使用228
+MSG_0229	未使用229
+MSG_0230	Massive Almighty damage and medium chance of Dark instakill to all foes.
+MSG_0231	Deals severe Electric damage to all foes. Low chance of inflicting Shock.
+MSG_0232	Deals severe Wind damage to all foes.
+MSG_0233	Deals severe Fire damage to all foes.
+MSG_0234	Deals severe Ice damage to all foes. Low chance of inflicting Freeze.
+MSG_0235	Deals severe Almighty damage to all foes.
+MSG_0236	Deals severe Pierce damage to 1 foe. High chance of critical.
+MSG_0237	Deals massive Almighty damage to 1 foe. More if foe is downed.
+MSG_0238	Medium Slash damage to all foes (2 hits). High chance of critical.
+MSG_0239	Deals medium Slash damage to 1 foe (2 hits).
+MSG_0240	Heavy Dark damage with medium chance of Fear or Confuse to all foes.
+MSG_0241	Deals weak Light damage to all foes (4-8 hits).
+MSG_0242	未使用242
+MSG_0243	未使用243
+MSG_0244	未使用244
+MSG_0245	Fully reveal the affinities of 1 foe.
+MSG_0246	Return to the Desert of Doors.
+MSG_0247	Prevents detection by enemies until entering battle or changing floors.
+MSG_0248	Fully reveals the current floor and provides a shortcut to the next floor.
+MSG_0249	Raises party's Defense and Accuracy/Evasion in the next battle.
+MSG_0250	Inflicts Distress on all foes on the current floor.
+MSG_0251	未使用251
+MSG_0252	未使用252
+MSG_0253	未使用253
+MSG_0254	未使用254
+MSG_0255	未使用255
+MSG_0256	未使用256
+MSG_0257	未使用257
+MSG_0258	未使用258
+MSG_0259	未使用259
+MSG_0260	Restores 50% HP and raises Accuracy/Evasion for all allies.
+MSG_0261	Deals medium Almighty damage to all foes. High chance of inflicting Down.
+MSG_0262	Heavy Ice damage to all foes, ignoring resistances. Medium chance of Freeze.
+MSG_0263	Next physical/magic attack will deal more than double damage for 1 ally.
+MSG_0264	Deals severe Slash damage to all foes, ignoring resistances.
+MSG_0265	Massive Almighty damage to all foes. High chance of inflicting an ailment.
+MSG_0266	Ultimate Almighty damage to all foes, but reduces user's HP and SP to 1.
+MSG_0267	Medium Pierce damage to all foes, ignoring resistances. High chance of crit.
+MSG_0268	Heavy Dark damage to all foes, ignoring resistances. High chance of Charm.
+MSG_0269	Massive Pierce damage to 1 foe, ignoring resistances. High chance of Fear.
+MSG_0270	未使用270
+MSG_0271	未使用271
+MSG_0272	未使用272
+MSG_0273	未使用273
+MSG_0274	未使用274
+MSG_0275	未使用275
+MSG_0276	未使用276
+MSG_0277	未使用277
+MSG_0278	未使用278
+MSG_0279	未使用279
+MSG_0280	Deals severe Wind damage to 1 foe, ignoring resistances.
+MSG_0281	Deals severe Slash damage to 1 foe, ignoring resistances.
+MSG_0282	Heavy Elec damage to all foes, ignoring resistances. Low chance to Shock.
+MSG_0283	Severe Ice damage to 1 foe, ignoring resistances. High chance to Freeze.
+MSG_0284	Grants 1 random positive effect to all allies.
+MSG_0285	Heavy Pierce dmg to all foes, ignoring resistances. Ignores orders for a time.
+MSG_0286	Deals severe Light damage to 1 foe, ignoring resistances.
+MSG_0287	Deals severe Dark damage to 1 foe, ignoring resistances.
+MSG_0288	Deals severe Strike damage to 1 foe, ignoring resistances.
+MSG_0289	Heavy Strike dmg to all foes, ignoring resistances. Ignores orders for a time.
+MSG_0290	未使用290
+MSG_0291	未使用291
+MSG_0292	Next magic attack will deal more than double the damage for all allies.
+MSG_0293	Massive Fire damage to 1 foe, ignoring resistances. Fully restores user's HP.
+MSG_0294	Severe Elec damage to 1 foe, ignoring resistances. High chance of Shock.
+MSG_0295	Massive Almighty damage to 1 foe and lowers all of their stats.
+MSG_0296	Grants 1 random enhanced positive effect to all allies.
+MSG_0297	Deals severe Pierce damage to 1 foe, ignoring resistances.
+MSG_0298	Revives party, fully restores allies' HP, and will reflect 1 attack.
+MSG_0299	Next physical attack will deal more than double the damage for all allies.
+MSG_0300	Deals severe Strike damage to 1 foe, ignoring resistances.
+MSG_0301	未使用301
+MSG_0302	未使用302
+MSG_0303	未使用303
+MSG_0304	未使用304
+MSG_0305	未使用305
+MSG_0306	未使用306
+MSG_0307	未使用307
+MSG_0308	未使用308
+MSG_0309	未使用309
+MSG_0310	未使用310
+MSG_0311	未使用311
+MSG_0312	未使用312
+MSG_0313	未使用313
+MSG_0314	未使用314
+MSG_0315	未使用315
+MSG_0316	未使用316
+MSG_0317	未使用317
+MSG_0318	未使用318
+MSG_0319	未使用319
+MSG_0320	未使用320
+MSG_0321	未使用321
+MSG_0322	未使用322
+MSG_0323	未使用323
+MSG_0324	未使用324
+MSG_0325	未使用325
+MSG_0326	未使用326
+MSG_0327	未使用327
+MSG_0328	未使用328
+MSG_0329	未使用329
+MSG_0330	未使用330
+MSG_0331	未使用331
+MSG_0332	未使用332
+MSG_0333	未使用333
+MSG_0334	未使用334
+MSG_0335	未使用335
+MSG_0336	未使用336
+MSG_0337	未使用337
+MSG_0338	未使用338
+MSG_0339	未使用339
+MSG_0340	未使用340
+MSG_0341	未使用341
+MSG_0342	未使用342
+MSG_0343	未使用343
+MSG_0344	未使用344
+MSG_0345	未使用345
+MSG_0346	未使用346
+MSG_0347	未使用347
+MSG_0348	未使用348
+MSG_0349	未使用349
+MSG_0350	未使用350
+MSG_0351	未使用351
+MSG_0352	未使用352
+MSG_0353	未使用353
+MSG_0354	未使用354
+MSG_0355	未使用355
+MSG_0356	未使用356
+MSG_0357	未使用357
+MSG_0358	未使用358
+MSG_0359	未使用359
+MSG_0360	未使用360
+MSG_0361	未使用361
+MSG_0362	未使用362
+MSG_0363	未使用363
+MSG_0364	未使用364
+MSG_0365	未使用365
+MSG_0366	未使用366
+MSG_0367	未使用367
+MSG_0368	未使用368
+MSG_0369	未使用369
+MSG_0370	未使用370
+MSG_0371	未使用371
+MSG_0372	未使用372
+MSG_0373	未使用373
+MSG_0374	未使用374
+MSG_0375	未使用375
+MSG_0376	未使用376
+MSG_0377	未使用377
+MSG_0378	未使用378
+MSG_0379	未使用379
+MSG_0380	未使用380
+MSG_0381	未使用381
+MSG_0382	未使用382
+MSG_0383	未使用383
+MSG_0384	未使用384
+MSG_0385	未使用385
+MSG_0386	未使用386
+MSG_0387	未使用387
+MSG_0388	未使用388
+MSG_0389	未使用389
+MSG_0390	未使用390
+MSG_0391	Unleashes the power within to seal Nyx.
+MSG_0392	未使用392
+MSG_0393	未使用393
+MSG_0394	未使用394
+MSG_0395	未使用395
+MSG_0396	未使用396
+MSG_0397	未使用397
+MSG_0398	未使用398
+MSG_0399	未使用399
+MSG_0400	未使用400
+MSG_0401	未使用401
+MSG_0402	未使用402
+MSG_0403	未使用403
+MSG_0404	未使用404
+MSG_0405	未使用405
+MSG_0406	未使用406
+MSG_0407	未使用407
+MSG_0408	未使用408
+MSG_0409	未使用409
+MSG_0410	未使用410
+MSG_0411	未使用411
+MSG_0412	未使用412
+MSG_0413	未使用413
+MSG_0417	未使用417
+MSG_0414	未使用414
+MSG_0415	未使用415
+MSG_0416	未使用416
+MSG_0418	未使用418
+MSG_0419	未使用419
+MSG_0420	未使用420
+MSG_0421	未使用421
+MSG_0422	未使用422
+MSG_0423	未使用423
+MSG_0424	未使用424
+MSG_0425	未使用425
+MSG_0426	未使用426
+MSG_0427	未使用427
+MSG_0428	未使用428
+MSG_0429	未使用429
+MSG_0430	未使用430
+MSG_0431	未使用431
+MSG_0432	未使用432
+MSG_0433	未使用433
+MSG_0434	未使用434
+MSG_0435	未使用435
+MSG_0436	未使用436
+MSG_0437	未使用437
+MSG_0438	未使用438
+MSG_0439	未使用439
+MSG_0440	未使用440
+MSG_0441	未使用441
+MSG_0442	未使用442
+MSG_0443	未使用443
+MSG_0444	未使用444
+MSG_0445	未使用445
+MSG_0446	未使用446
+MSG_0447	未使用447
+MSG_0448	未使用448
+MSG_0449	未使用449
+MSG_0450	未使用450
+MSG_0451	未使用451
+MSG_0452	未使用452
+MSG_0453	未使用453
+MSG_0454	未使用454
+MSG_0455	未使用455
+MSG_0456	未使用456
+MSG_0457	未使用457
+MSG_0458	未使用458
+MSG_0459	未使用459
+MSG_0460	未使用460
+MSG_0461	未使用461
+MSG_0462	未使用462
+MSG_0463	未使用463
+MSG_0464	未使用464
+MSG_0465	未使用465
+MSG_0466	未使用466
+MSG_0467	未使用467
+MSG_0468	未使用468
+MSG_0469	未使用469
+MSG_0470	未使用470
+MSG_0471	未使用471
+MSG_0472	未使用472
+MSG_0473	未使用473
+MSG_0474	未使用474
+MSG_0475	未使用475
+MSG_0476	未使用476
+MSG_0477	未使用477
+MSG_0478	未使用478
+MSG_0479	未使用479
+MSG_0480	未使用480
+MSG_0481	未使用481
+MSG_0482	未使用482
+MSG_0483	未使用483
+MSG_0484	未使用484
+MSG_0485	未使用485
+MSG_0486	未使用486
+MSG_0487	未使用487
+MSG_0488	未使用488
+MSG_0489	未使用489
+MSG_0490	未使用490
+MSG_0491	未使用491
+MSG_0492	未使用492
+MSG_0493	未使用493
+MSG_0494	未使用494
+MSG_0495	未使用495
+MSG_0496	未使用496
+MSG_0497	未使用497
+MSG_0498	未使用498
+MSG_0499	未使用499
+MSG_0500	未使用500
+MSG_0501	未使用501
+MSG_0502	未使用502
+MSG_0503	未使用503
+MSG_0504	未使用504
+MSG_0505	未使用505
+MSG_0506	未使用506
+MSG_0507	未使用507
+MSG_0508	未使用508
+MSG_0509	未使用509
+MSG_0510	未使用510
+MSG_0511	未使用511
+MSG_0512	未使用512
+MSG_0513	未使用513
+MSG_0514	未使用514
+MSG_0515	未使用515
+MSG_0516	未使用516
+MSG_0517	未使用517
+MSG_0518	未使用518
+MSG_0519	未使用519
+MSG_0520	未使用520
+MSG_0521	未使用521
+MSG_0522	未使用522
+MSG_0523	未使用523
+MSG_0524	未使用524
+MSG_0525	未使用525
+MSG_0526	未使用526
+MSG_0527	未使用527
+MSG_0528	未使用528
+MSG_0529	未使用529
+MSG_0530	未使用530
+MSG_0531	未使用531
+MSG_0532	未使用532
+MSG_0533	未使用533
+MSG_0534	未使用534
+MSG_0535	未使用535
+MSG_0536	未使用536
+MSG_0537	未使用537
+MSG_0538	未使用538
+MSG_0539	未使用539
+MSG_0540	未使用540
+MSG_0541	未使用541
+MSG_0542	未使用542
+MSG_0543	未使用543
+MSG_0544	未使用544
+MSG_0545	未使用545
+MSG_0546	未使用546
+MSG_0547	未使用547
+MSG_0548	未使用548
+MSG_0549	未使用549
+MSG_0550	未使用550
+MSG_0551	未使用551
+MSG_0552	未使用552
+MSG_0553	未使用553
+MSG_0554	未使用554
+MSG_0555	未使用555
+MSG_0556	未使用556
+MSG_0557	未使用557
+MSG_0558	未使用558
+MSG_0559	未使用559
+MSG_0560	未使用560
+MSG_0561	未使用561
+MSG_0562	未使用562
+MSG_0563	未使用563
+MSG_0564	未使用564
+MSG_0565	未使用565
+MSG_0566	未使用566
+MSG_0567	未使用567
+MSG_0568	未使用568
+MSG_0569	未使用569
+MSG_0570	未使用570
+MSG_0571	未使用571
+MSG_0572	未使用572
+MSG_0573	未使用573
+MSG_0574	未使用574
+MSG_0575	未使用575
+MSG_0576	未使用576
+MSG_0577	未使用577
+MSG_0578	未使用578
+MSG_0579	未使用579
+MSG_0580	未使用580
+MSG_0581	未使用581
+MSG_0582	未使用582
+MSG_0583	未使用583
+MSG_0584	未使用584
+MSG_0585	未使用585
+MSG_0586	未使用586
+MSG_0587	未使用587
+MSG_0588	未使用588
+MSG_0589	未使用589
+MSG_0590	未使用590
+MSG_0591	未使用591
+MSG_0592	未使用592
+MSG_0593	未使用593
+MSG_0594	未使用594
+MSG_0595	未使用595
+MSG_0596	未使用596
+MSG_0597	未使用597
+MSG_0598	未使用598
+MSG_0599	未使用599
+MSG_0600	未使用600
+MSG_0601	未使用601
+MSG_0602	未使用602
+MSG_0603	未使用603
+MSG_0604	未使用604
+MSG_0605	未使用605
+MSG_0606	未使用606
+MSG_0607	未使用607
+MSG_0608	未使用608
+MSG_0609	未使用609
+MSG_0610	未使用610
+MSG_0611	未使用611
+MSG_0612	未使用612
+MSG_0613	未使用613
+MSG_0614	未使用614
+MSG_0615	未使用615
+MSG_0616	未使用616
+MSG_0617	未使用617
+MSG_0618	未使用618
+MSG_0619	未使用619
+MSG_0620	未使用620
+MSG_0621	未使用621
+MSG_0622	未使用622
+MSG_0623	未使用623
+MSG_0624	未使用624
+MSG_0625	未使用625
+MSG_0626	未使用626
+MSG_0627	未使用627
+MSG_0628	未使用628
+MSG_0629	未使用629
+MSG_0630	未使用630
+MSG_0631	未使用631
+MSG_0632	未使用632
+MSG_0633	未使用633
+MSG_0634	未使用634
+MSG_0635	未使用635
+MSG_0636	未使用636
+MSG_0637	未使用637
+MSG_0638	未使用638
+MSG_0639	未使用639
+MSG_0640	未使用640
+MSG_0641	未使用641
+MSG_0642	未使用642
+MSG_0643	未使用643
+MSG_0644	未使用644
+MSG_0645	未使用645
+MSG_0646	未使用646
+MSG_0647	未使用647
+MSG_0648	未使用648
+MSG_0649	未使用649
+MSG_0650	未使用650
+MSG_0651	未使用651
+MSG_0652	未使用652
+MSG_0653	未使用653
+MSG_0654	未使用654
+MSG_0655	未使用655
+MSG_0656	未使用656
+MSG_0657	未使用657
+MSG_0658	未使用658
+MSG_0659	未使用659
+MSG_0660	未使用660
+MSG_0661	未使用661
+MSG_0662	未使用662
+MSG_0663	未使用663
+MSG_0664	未使用664
+MSG_0665	未使用665
+MSG_0666	未使用666
+MSG_0667	未使用667
+MSG_0668	未使用668
+MSG_0669	未使用669
+MSG_0670	未使用670
+MSG_0671	未使用671
+MSG_0672	未使用672
+MSG_0673	未使用673
+MSG_0674	未使用674
+MSG_0675	未使用675
+MSG_0676	未使用676
+MSG_0677	未使用677
+MSG_0678	未使用678
+MSG_0679	未使用679
+MSG_0680	未使用680
+MSG_0681	未使用681
+MSG_0682	未使用682
+MSG_0683	未使用683
+MSG_0684	未使用684
+MSG_0685	未使用685
+MSG_0686	未使用686
+MSG_0687	未使用687
+MSG_0688	未使用688
+MSG_0689	未使用689
+MSG_0690	未使用690
+MSG_0691	未使用691
+MSG_0692	未使用692
+MSG_0693	未使用693
+MSG_0694	未使用694
+MSG_0695	未使用695
+MSG_0696	未使用696
+MSG_0697	未使用697
+MSG_0698	未使用698
+MSG_0699	未使用699
+MSG_0700	Increase resistance to Slash damage. Negates Slash weakness.
+MSG_0701	Nullify Slash damage.
+MSG_0702	Reflect Slash damage back to the foe.
+MSG_0703	Absorb incoming Slash damage so that it heals instead of harms.
+MSG_0704	Increase resistance to Strike damage. Negates Strike weakness.
+MSG_0705	Nullify Strike damage.
+MSG_0706	Reflect Strike damage back to the foe.
+MSG_0707	Absorb incoming Strike damage so that it heals instead of harms.
+MSG_0708	Increase resistance to Pierce damage. Negates Pierce weakness.
+MSG_0709	Nullify Pierce damage.
+MSG_0710	Reflect Pierce damage back to the foe.
+MSG_0711	Absorb incoming Pierce damage so that it heals instead of harms.
+MSG_0712	Increase resistance to Fire damage. Negates Fire weakness.
+MSG_0713	Nullify Fire damage.
+MSG_0714	Reflect Fire damage back to the foe.
+MSG_0715	Absorb incoming Fire damage so that it heals instead of harms.
+MSG_0716	Increase resistance to Ice damage. Negates Ice weakness.
+MSG_0717	Nullify Ice damage.
+MSG_0718	Reflect Ice damage back to the foe.
+MSG_0719	Absorb incoming Ice damage so that it heals instead of harms.
+MSG_0720	Increase resistance to Wind damage. Negates Wind weakness.
+MSG_0721	Nullify Wind damage.
+MSG_0722	Reflect Wind damage back to the foe.
+MSG_0723	Absorb incoming Wind damage so that it heals instead of harms.
+MSG_0724	Increase resistance to Electric damage. Negates Electric weakness.
+MSG_0725	Nullify Electric damage.
+MSG_0726	Reflect Electric damage back to the foe.
+MSG_0727	Absorb incoming Electric damage so that it heals instead of harms.
+MSG_0728	Increase resistance to Light damage. Negates Light weakness.
+MSG_0729	Nullify Light damage and instakills.
+MSG_0730	Reflect Light damage and instakills back to the foe.
+MSG_0731	Absorb incoming Light damage so that it heals instead of harms.
+MSG_0732	Increase resistance to Dark damage. Negates Dark weakness.
+MSG_0733	Nullify Dark damage and instakills.
+MSG_0734	Reflect Dark damage and instakills back to the foe.
+MSG_0735	Absorb incoming Dark damage so that it heals instead of harms.
+MSG_0736	未使用736
+MSG_0737	未使用737
+MSG_0738	Decrease chances of being afflicted with Dizzy.
+MSG_0739	Protects completely from being afflicted with Dizzy.
+MSG_0740	Decrease chances of being afflicted with Poison.
+MSG_0741	Protects completely from being afflicted with Poison.
+MSG_0742	Decrease chances of being afflicted with Charm.
+MSG_0743	Protects completely from being afflicted with Charm.
+MSG_0744	Decrease chances of being afflicted with Distress.
+MSG_0745	Protects completely from being afflicted with Distress.
+MSG_0746	Decrease chances of being afflicted with Confuse.
+MSG_0747	Protects completely from being afflicted with Confuse.
+MSG_0748	Decrease chances of being afflicted with Fear.
+MSG_0749	Protects completely from being afflicted with Fear.
+MSG_0750	Decrease chances of being afflicted with Rage.
+MSG_0751	Protects completely from being afflicted with Rage.
+MSG_0752	Decrease chances of being afflicted with Freeze.
+MSG_0753	Protects completely from being afflicted with Freeze.
+MSG_0754	Decrease chances of being afflicted with Shock.
+MSG_0755	Protects completely from being afflicted with Shock.
+MSG_0756	Protects completely from\nDistress/Confuse/Charm/\nRage/Fear.
+MSG_0757	Decrease chances of being afflicted with any ailment except Dizzy.
+MSG_0758	未使用758
+MSG_0759	Increase Evasion against Slash skills.
+MSG_0760	Greatly increase Evasion against Slash skills. Does not stack.
+MSG_0761	Increase Evasion against Strike skills.
+MSG_0762	Greatly increase Evasion against Strike skills. Does not stack.
+MSG_0763	Increase Evasion against Pierce skills.
+MSG_0764	Greatly increase Evasion against Pierce skills. Does not stack.
+MSG_0765	Increase Evasion against Fire skills.
+MSG_0766	Greatly increase Evasion against Fire skills. Does not stack.
+MSG_0767	Increase Evasion against Ice skills.
+MSG_0768	Greatly increase Evasion against Ice skills. Does not stack.
+MSG_0769	Increase Evasion against Wind skills.
+MSG_0770	Greatly increase Evasion against Wind skills. Does not stack.
+MSG_0771	Increase Evasion against Electric skills.
+MSG_0772	Greatly increase Evasion against Electric skills. Does not stack.
+MSG_0773	Increase Evasion against non-instakill Light skills.
+MSG_0774	Greatly increase Evasion against non-instakill Light skills. Does not stack.
+MSG_0775	Increase Evasion against non-instakill Dark skills.
+MSG_0776	Greatly increase Evasion against non-instakill Dark skills. Does not stack.
+MSG_0777	未使用777
+MSG_0778	未使用778
+MSG_0779	10% chance of reflecting physical skills.
+MSG_0780	15% chance of reflecting physical skills. Does not stack.
+MSG_0781	20% chance of reflecting physical skills. Does not stack.
+MSG_0782	未使用782
+MSG_0783	未使用783
+MSG_0784	Automatically recover 2% of max HP each turn in battle.
+MSG_0785	Automatically recover 4% of max HP each turn in battle.
+MSG_0786	Automatically recover 6% of max HP each turn in battle.
+MSG_0787	未使用787
+MSG_0788	Automatically recover 3 SP each turn in battle.
+MSG_0789	Automatically recover 5 SP each turn in battle.
+MSG_0790	Automatically recover 7 SP each turn in battle.
+MSG_0791	未使用791
+MSG_0792	Automatically strengthen Slash skills by 25%.
+MSG_0793	Automatically strengthen Slash skills by 50%. Can stack.
+MSG_0794	Automatically strengthen Strike skills by 25%.
+MSG_0795	Automatically strengthen Strike skills by 50%. Can stack.
+MSG_0796	Automatically strengthen Pierce skills by 25%.
+MSG_0797	Automatically strengthen Pierce skills by 50%. Can stack.
+MSG_0798	Automatically strengthen Fire skills by 25%.
+MSG_0799	Automatically strengthen Fire skills by 50%. Can stack.
+MSG_0800	Automatically strengthen Ice skills by 25%.
+MSG_0801	Automatically strengthen Ice skills by 50%. Can stack.
+MSG_0802	Automatically strengthen Wind skills by 25%.
+MSG_0803	Automatically strengthen Wind skills by 50%. Can stack.
+MSG_0804	Automatically strengthen Electric skills by 25%.
+MSG_0805	Automatically strengthen Electric skills by 50%. Can stack.
+MSG_0806	Automatically strengthen Light skills by 25%.
+MSG_0807	Automatically strengthen Light skills by 50%. Can stack.
+MSG_0808	Automatically strengthen Dark skills by 25%.
+MSG_0809	Automatically strengthen Dark skills by 50%. Can stack.
+MSG_0810	未使用810
+MSG_0811	Slightly increase chances of inflicting Dizzy.
+MSG_0812	Increase chances of inflicting Poison.
+MSG_0813	Increase chances of inflicting Charm.
+MSG_0814	Increase chances of inflicting Distress.
+MSG_0815	Increase chances of inflicting Confuse.
+MSG_0816	Increase chances of inflicting Fear.
+MSG_0817	Increase chances of inflicting Rage.
+MSG_0818	Increase chances of inflicting Freeze.
+MSG_0819	Increase chances of inflicting Shock.
+MSG_0820	Increase chances of inflicting ailments.
+MSG_0821	Increase chances of instakill with Hama skills.
+MSG_0822	Increase chances of instakill with Mudo skills.
+MSG_0823	未使用823
+MSG_0824	未使用824
+MSG_0825	Temporarily raises user's Attack at the start of battle.
+MSG_0826	Temporarily raises user's Defense at the start of battle.
+MSG_0827	Temporarily raises user's Accuracy/Evasion at the start of battle.
+MSG_0828	Temporarily raises party's Attack at the start of battle.
+MSG_0829	Temporarily raises party's Defense at the start of battle.
+MSG_0830	Temporarily raises party's Accuracy/Evasion at the start of battle.
+MSG_0831	Temporarily raises user's critical rate at the start of battle.
+MSG_0832	未使用832
+MSG_0833	Halves the chance of taking a critical hit.
+MSG_0834	Doubles the chance of dealing a critical hit.
+MSG_0835	Survive a fatal blow with 1 HP remaining.
+MSG_0836	Survive a fatal blow with HP fully recovered.
+MSG_0837	未使用837
+MSG_0838	Recover 8% of max HP and SP after winning a battle.
+MSG_0839	Fully recover HP and SP after winning a battle.
+MSG_0840	未使用840
+MSG_0841	Greatly increases the effect of healing skills.
+MSG_0842	Raises Evasion against Fire/Ice/Wind/Electric/ Light/Dark skills.
+MSG_0843	Raises Attack while afflicted with Rage.
+MSG_0844	Raises Evasion against Slash/Strike/Pierce skills.
+MSG_0845	Earn 25% EXP, even when not participating in battle.
+MSG_0846	Earn 50% EXP, even when not participating in battle.
+MSG_0847	Earn 100% EXP, even when not participating in battle.
+MSG_0848	Greatly reduces the hit rate of incoming attacks.
+MSG_0849	Reduces incoming damage by half, but cannot dodge any attacks.
+MSG_0850	Medium chance to survive 1 Light instakill attack with 1 HP remaining.
+MSG_0851	Automatically survive 1 Light instakill attack with 1 HP remaining.
+MSG_0852	Medium chance to survive 1 Dark instakill attack with 1 HP remaining.
+MSG_0853	Automatically survive 1 Dark instakill attack with 1 HP remaining.
+MSG_0854	Automatically survive 1 magic instakill attack with 1 HP remaining.
+MSG_0855	未使用855
+MSG_0856	Reduces the HP cost of physical skills by half.
+MSG_0857	Reduces the SP cost of magic skills by half.
+MSG_0858	未使用858
+MSG_0859	未使用859
+MSG_0860	未使用860
+MSG_0861	未使用861
+MSG_0862	未使用862
+MSG_0863	Automatically strengthen Almighty skills by 25%.
+MSG_0864	Automatically strengthen Almighty skills by 50%. Can stack.
+MSG_0865	Automatically strengthen non-Almighty magic skills by 25%. Can stack.
+MSG_0866	Automatically strengthen non-Almighty magic skills by 50%. Can stack.
+MSG_0867	未使用867
+MSG_0868	未使用868
+MSG_0869	Halves the time needed to recover from ailments.
+MSG_0870	Recover from ailments in 1 turn.
+MSG_0871	Increase resistance to physical damage. Negates physical weaknesses.
+MSG_0872	Nullify physical damage.
+MSG_0873	未使用873
+MSG_0874	未使用874
+MSG_0875	Automatically strengthen Slash skills by 75%. Can stack.
+MSG_0876	Automatically strengthen Strike skills by 75%. Can stack.
+MSG_0877	Automatically strengthen Pierce skills by 75%. Can stack.
+MSG_0878	Automatically strengthen Fire skills by 75%. Can stack.
+MSG_0879	Automatically strengthen Ice skills by 75%. Can stack.
+MSG_0880	Automatically strengthen Electric skills by 75%. Can stack.
+MSG_0881	Automatically strengthen Wind skills by 75%. Can stack.
+MSG_0882	Automatically strengthen Light skills by 75%. Can stack.
+MSG_0883	Automatically strengthen Dark skills by 75%. Can stack.
+MSG_0884	Raises critical rate.
+MSG_0885	Greatly raises critical rate.
+MSG_0886	Resists Fire for 3 turns at the start of battle.
+MSG_0887	Resists Ice for 3 turns at the start of battle.
+MSG_0888	Resists Electric for 3 turns at the start of battle.
+MSG_0889	Resists Wind for 3 turns at the start of battle.
+MSG_0890	When Shifting to an ally, that ally recovers 5 SP.
+MSG_0891	Recover 5 SP when on the receiving end of a Shift.
+MSG_0892	Recover 8 SP when on the receiving end of a Shift.
+MSG_0893	Attack up by 10% until end of turn when on the receiving end of a Shift.
+MSG_0894	Attack up by 20% until end of turn when on the receiving end of a Shift.
+MSG_0895	Doubles the effects of Life Drain and Spirit Drain.
+MSG_0896	Increases power of attacks that target 1 foe by 15%.
+MSG_0897	Increases power of attacks that target all foes by 15%.
+MSG_0898	未使用898
+MSG_0899	未使用899
+MSG_0900	未使用900
+MSG_0901	Increases damage when striking a foe's weakness.
+MSG_0902	Greatly increases damage when striking a foe's weakness.
+MSG_0903	Reduces the SP cost of recovery skills to 50% of their normal SP cost.
+MSG_0904	Reduces the SP cost of recovery skills to 25% of their normal SP cost.
+MSG_0905	Raises critical rate and increases critical hit strength.
+MSG_0906	Greatly raises critical rate and greatly increases critical hit strength.
+MSG_0907	Increases the effects of buffs on self.
+MSG_0908	Greatly increases the effects of buffs on self.
+MSG_0909	Raises critical rate on foes with ailments (with Mitsuru in battle).
+MSG_0910	Greatly raises critical rate on foes with ailments (with Mitsuru in battle).
+MSG_0911	Reduces damage taken when an ally's weakness is struck.
+MSG_0912	Greatly reduces damage taken when an ally's weakness is struck.
+MSG_0913	Strengthens physical skills.
+MSG_0914	Greatly strengthens physical skills.
+MSG_0915	Automatically recover 5 SP each turn in battle.
+MSG_0916	Automatically recover 10 SP each turn in battle.
+MSG_0917	Lowers Accuracy/Evasion of 1 random foe for 3 turns when a battle starts.
+MSG_0918	Lowers Accuracy/Evasion of all foes for 3 turns when a battle starts.
+MSG_0919	Temporarily raises user's Attack and Defense at the start of battle.
+MSG_0920	Temporarily raises all of user's stats at the start of battle.
+MSG_0921	Attack up by 20% until end of turn when receiving a Shift from Aigis.
+MSG_0922	Attack up by 40% until end of turn when receiving a Shift from Aigis.
+MSG_0923	未使用923
+MSG_0924	未使用924
+MSG_0925	未使用925
+MSG_0926	未使用926
+MSG_0927	未使用927
+MSG_0928	未使用928
+MSG_0929	未使用929
+MSG_0930	未使用930
+MSG_0931	未使用931
+MSG_0932	未使用932
+MSG_0933	未使用933
+MSG_0934	未使用934
+MSG_0935	未使用935
+MSG_0936	未使用936
+MSG_0937	未使用937
+MSG_0938	未使用938
+MSG_0939	未使用939
+MSG_0940	未使用940
+MSG_0941	未使用941
+MSG_0942	未使用942
+MSG_0943	未使用943
+MSG_0944	未使用944
+MSG_0945	未使用945
+MSG_0946	未使用946
+MSG_0947	未使用947
+MSG_0948	未使用948
+MSG_0949	未使用949
+MSG_0950	未使用950
+MSG_0951	未使用951
+MSG_0952	未使用952
+MSG_0953	未使用953
+MSG_0954	未使用954
+MSG_0955	未使用955
+MSG_0956	未使用956
+MSG_0957	未使用957
+MSG_0958	未使用958
+MSG_0959	未使用959
+MSG_0960	未使用960
+MSG_0961	未使用961
+MSG_0962	未使用962
+MSG_0963	未使用963
+MSG_0964	未使用964
+MSG_0965	未使用965
+MSG_0966	未使用966
+MSG_0967	未使用967
+MSG_0968	未使用968
+MSG_0969	未使用969
+MSG_0970	未使用970
+MSG_0971	未使用971
+MSG_0972	未使用972
+MSG_0973	未使用973
+MSG_0974	未使用974
+MSG_0975	未使用975
+MSG_0976	未使用976
+MSG_0977	未使用977
+MSG_0978	未使用978
+MSG_0979	未使用979
+MSG_0980	未使用980
+MSG_0981	未使用981
+MSG_0982	未使用982
+MSG_0983	未使用983
+MSG_0984	未使用984
+MSG_0985	未使用985
+MSG_0986	未使用986
+MSG_0987	未使用987
+MSG_0988	未使用988
+MSG_0989	未使用989
+MSG_0990	未使用990
+MSG_0991	未使用991
+MSG_0992	未使用992
+MSG_0993	未使用993
+MSG_0994	未使用994
+MSG_0995	未使用995
+MSG_0996	未使用996
+MSG_0997	未使用997
+MSG_0998	未使用998
+MSG_0999	未使用999
+MSG_1000	未使用1000
+MSG_1001	未使用1001
+MSG_1002	未使用1002
+MSG_1003	未使用1003
+MSG_1004	未使用1004
+MSG_1005	未使用1005
+MSG_1006	未使用1006
+MSG_1007	未使用1007
+MSG_1008	未使用1008
+MSG_1009	未使用1009
+MSG_1010	未使用1010
+MSG_1011	未使用1011
+MSG_1012	未使用1012
+MSG_1013	未使用1013
+MSG_1014	未使用1014
+MSG_1015	未使用1015
+MSG_1016	未使用1016
+MSG_1017	未使用1017
+MSG_1018	未使用1018
+MSG_1019	未使用1019
+MSG_1020	未使用1020
+MSG_1021	未使用1021
+MSG_1022	未使用1022
+MSG_1023	未使用1023
+MSG_1024	未使用1024

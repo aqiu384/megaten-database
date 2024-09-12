@@ -1,0 +1,1025 @@
+id	en
+Item_000	未使用
+Item_001	Restores 50 HP to 1 ally.
+Item_002	Restores 100 HP to 1 ally.
+Item_003	Fully restores HP to 1 ally.
+Item_004	Fully restores HP to all allies.
+Item_005	In battle, restores 150 HP to 1 ally. Low chance of a side effect.
+Item_006	In battle, restores 150 HP to 1 ally. Low chance of a side effect.
+Item_007	In battle, restores 150 HP to 1 ally. Low chance of a side effect.
+Item_008	Restores 100 HP to all allies.
+Item_009	Not octopus. Restores 100 HP to 1 ally. Low chance of a side effect.
+Item_00A	Deep-fried bread with a classic Showa era flavor. Restores 20 HP to 1 ally.
+Item_00B	Shaped like a crab, but doesn't taste like one. Restores 20 HP to 1 ally.
+Item_00C	A roll with white, black, and red cream. Restores 20 HP to 1 ally.
+Item_00D	Bread with a hint of melon fragrance. Restores 20 HP to 1 ally.
+Item_00E	A hot ticket item on campus. Restores 20 HP to 1 ally.
+Item_00F	A filling sandwich. Perfect for lunch! Restores 75 HP to 1 ally.
+Item_010	A Japanese treat with red bean paste and cinnamon. Restores 50 HP to 1 ally.
+Item_011	A thinly sliced turnip that's been pickled. Restores 50 HP to 1 ally.
+Item_012	Spiky candies. Restores 50 HP to 1 ally.
+Item_013	A rice cracker associated with the Shinsengumi. Restores 50 HP to 1 ally.
+Item_014	Smells so bad that your appetite disappears. Restores 50 HP to 1 ally.
+Item_015	Tastes so good that you may overindulge. Restores 50 HP to 1 ally.
+Item_016	100% veggies. Restores 50 HP to 1 ally.
+Item_017	Keeps your skin young, but may cause acne. Restores 50 HP to 1 ally.
+Item_018	Packs a punch, delivered straight to the muscles. Restores 50 HP to 1 ally.
+Item_019	Insect food made edible for humans. Restores 50 HP to 1 ally.
+Item_01A	Clears your mind and enhances your memory. Restores 50 HP to 1 ally.
+Item_01B	Expensive, but tastes just like Hagakure's. Restores 100 HP to 1 ally.
+Item_01C	Restores 30% of maximum HP to 1 ally.
+Item_01D	未使用
+Item_01E	Restores 50 HP to all allies.
+Item_01F	Restores 100 HP to all allies.
+Item_020	Restores 50 HP to all allies.
+Item_021	Restores 200 HP to all allies.
+Item_022	Restores 200 HP to 1 ally.
+Item_023	Restores 200 HP to 1 ally.
+Item_024	Restores 200 HP to all allies.
+Item_025	A high-end chocolate that's not overly sweet. Restores 30 SP to 1 ally.
+Item_026	Restores 50 SP to 1 ally.
+Item_027	Restores 100 SP to 1 ally.
+Item_028	Fully restores SP to 1 ally.
+Item_029	Fully restores HP and SP to all allies.
+Item_02A	Beverage imported from Jamaica. Restores 10 HP to 1 ally.
+Item_02B	Popular tea often auctioned online. Restores 10 HP to 1 ally.
+Item_02C	A mildly bitter beverage with a flavorful kick. Restores 5 SP to 1 ally.
+Item_02D	Famous coffee mixed with cough syrup. Restores 10 HP to 1 ally.
+Item_02E	Comes in 12 different varieties. Restores 10 HP to 1 ally.
+Item_02F	Extensively purified tap water. Restores 10 HP to 1 ally.
+Item_030	Salty soda. Popular, but an acquired taste. Restores 10 HP to 1 ally.
+Item_031	Soda with the slogan, "Kist my full moon!" Restores 10 HP to 1 ally.
+Item_032	A disturbingly yellow soft drink. Restores 5 SP to 1 ally.
+Item_033	Tea that tastes great, despite its name. Restores 10 HP to 1 ally.
+Item_034	Keeps you going for 24 hours straight. Restores 10 HP to 1 ally.
+Item_035	Soft drink coveted by old-\nschool gamers. Restores 10 HP to 1 ally.
+Item_036	Soda that simply reeks. Restores 10 HP to 1 ally.
+Item_037	Blended fruit juice. It's huge! Restores 10 HP to 1 ally.
+Item_038	Vegetable juice that will rev your engine. Restores 10 HP to 1 ally.
+Item_039	Sports drink with tons of supplements added. Fully restores SP to 1 ally.
+Item_03A	Restores 10 SP to 1 ally.
+Item_03B	An elegant curry with a rich flavor. Restores 50 SP to 1 ally.
+Item_03C	A sports drink filled with chemicals. Restores 10 SP to 1 ally.
+Item_03D	An oh-so-sweet can of red bean soup. Fully restores SP to 1 ally.
+Item_03E	未使用
+Item_03F	Cures Poison for 1 ally.
+Item_040	Cures Rage for 1 ally.
+Item_041	Cures Charm for 1 ally.
+Item_042	Cures Distress/Confuse/\nCharm/Rage/Fear for 1\nally.
+Item_043	Cures Distress/Confuse/\nCharm/Rage/Fear for all\nallies.
+Item_044	Cures all ailments besides KO for all allies.
+Item_045	Revives 1 fallen ally with 50% HP.
+Item_046	Revives 1 fallen ally with full HP.
+Item_047	Cures Freeze/Shock/\nPoison/Down/Dizzy\nfor 1 ally.
+Item_048	未使用
+Item_049	Cures Distress for 1 ally.
+Item_04A	Cures Confuse for 1 ally.
+Item_04B	Cures Fear for 1 ally.
+Item_04C	Cures Distress/Confuse/\nCharm/Rage/Fear for 1\nally.
+Item_04D	Cures Freeze/Shock/\nPoison/Down/Dizzy\nfor 1 ally.
+Item_04E	Cures Freeze/Shock/\nPoison/Down/Dizzy\nfor all allies.
+Item_04F	Cures all ailments besides KO for 1 ally.
+Item_050	Revives 1 fallen ally with 50% HP.
+Item_051	Cures Freeze for 1 ally.
+Item_052	Cures Shock for 1 ally.
+Item_053	Cures Down or Dizzy for 1 ally.
+Item_054	未使用
+Item_055	Hoity-toity cat food for fine felines.
+Item_056	Drink at your own risk!
+Item_057	Revives 1 fallen ally with full HP.
+Item_058	Fully restores HP and cures all ailments besides KO for all allies.
+Item_059	A nutritious mandarin. Cures all ailments besides KO for all allies.
+Item_05A	Cures Distress/Confuse/\nCharm/Rage/Fear for all\nallies.
+Item_05B	Cures Freeze/Shock/\nPoison/Down/Dizzy\nfor all allies.
+Item_05C	未使用
+Item_05D	未使用
+Item_05E	A cookie Fuuka made. Supposedly edible. Fully restores HP to 1 ally.
+Item_05F	This cake is chock-full of chocolate. Fully restores SP to 1 ally.
+Item_060	Fragrant and sparkling. Fully restores HP and SP to all allies.
+Item_061	Yuko's special compress. Revives 1 fallen ally with full HP.
+Item_062	未使用
+Item_063	Raises a Persona's Strength by 1. Can be used on an ally's Persona.
+Item_064	Raises a Persona's Strength by 2. Can be used on an ally's Persona.
+Item_065	Raises a Persona's Strength by 3. Can be used on an ally's Persona.
+Item_066	Raises a Persona's Luck by 1. Can be used on an ally's Persona.
+Item_067	Raises a Persona's Endurance by 1. Can be used on an ally's Persona.
+Item_068	Raises a Persona's Endurance by 2. Can be used on an ally's Persona.
+Item_069	Raises a Persona's Endurance by 3. Can be used on an ally's Persona.
+Item_06A	Raises a Persona's Luck by 2. Can be used on an ally's Persona.
+Item_06B	Raises a Persona's Magic by 1. Can be used on an ally's Persona.
+Item_06C	Raises a Persona's Magic by 2. Can be used on an ally's Persona.
+Item_06D	Raises a Persona's Magic by 3. Can be used on an ally's Persona.
+Item_06E	Raises a Persona's Luck by 3. Can be used on an ally's Persona.
+Item_06F	Raises a Persona's Agility by 1. Can be used on an ally's Persona.
+Item_070	Raises a Persona's Agility by 2. Can be used on an ally's Persona.
+Item_071	Raises a Persona's Agility by 3. Can be used on an ally's Persona.
+Item_072	Raises all of a Persona's stats by 1. Can be used on an ally's Persona.
+Item_073	A bundle of beautiful roses. Might please someone.
+Item_074	A graceful potted tree. Might please someone.
+Item_075	Easy to take care of. Might please someone.
+Item_076	An elegant flower vase. Might please someone.
+Item_077	An expensive luxury brand perfume. Might please someone.
+Item_078	A high-end designer wallet. Might please someone.
+Item_079	A high-end designer watch. Might please someone.
+Item_07A	A high-end designer handbag. Might please someone.
+Item_07B	A cute stuffed animal. Might please someone.
+Item_07C	Her hair really grows! Might please someone.
+Item_07D	Look inside and see a colorful world! Might please someone.
+Item_07E	A doll that looks eerily alive. Might please someone.
+Item_07F	A piggy bank shaped like a deity. Might please someone.
+Item_080	A doll in the likeness of an adorable mascot. Might please someone.
+Item_081	A fancy leather book jacket. Might please someone.
+Item_082	Came with your paper fortune. Might please someone.
+Item_083	未使用
+Item_084	未使用
+Item_085	未使用
+Item_086	未使用
+Item_087	未使用
+Item_088	未使用
+Item_089	未使用
+Item_08A	未使用
+Item_08B	White flowers that Junpei was gazing at. Might please someone.
+Item_08C	A robot popular among young boys. Might please someone.
+Item_08D	A tool for grinding up herbs to make medicine. Might please someone.
+Item_08E	未使用
+Item_08F	未使用
+Item_090	A dish cooked with Yukari. Restores 100 HP to all allies.
+Item_091	A gem of a dish cooked with Yukari. Restores 200 HP to all allies.
+Item_092	A manly meal cooked with Sanada. Raises party's Attack for 3 turns.
+Item_093	A manly meal cooked with Sanada. Raises all of 1 ally's stats for 3 turns.
+Item_094	Coffee brewed with Amada. Restores 100 SP to 1 ally.
+Item_095	Top-notch coffee brewed with Amada. Restores all SP to 1 ally.
+Item_096	Tea served by Mitsuru. Restores 200 HP to 1 ally.
+Item_097	Tea time snacks made with Mitsuru. Fully restores HP to 1 ally.
+Item_098	Aragaki's special pork cutlet bowl. Fully restores HP to 1 ally.
+Item_099	A dish made from the soul with Aragaki. Fully restores HP to all allies.
+Item_09A	Tea specially prepared by Mitsuru. Fully restores HP to 1 ally.
+Item_09B	未使用
+Item_09C	未使用
+Item_09D	未使用
+Item_09E	未使用
+Item_09F	未使用
+Item_0A0	未使用
+Item_0A1	未使用
+Item_0A2	Enables escape from most battles.
+Item_0A3	Barrier that repels 1 (non-\nAlmighty) magic attack for 1 ally.
+Item_0A4	Barrier that repels 1 physical attack for 1 ally.
+Item_0A5	Nullifies stat buffs for all foes.
+Item_0A6	Nullifies stat debuffs for all allies.
+Item_0A7	Takes the hit for 1 instakill attack.
+Item_0A8	未使用
+Item_0A9	Deals 100 Fire damage to 1 foe.
+Item_0AA	Deals 50 Fire damage to all foes.
+Item_0AB	Deals 100 Ice damage to 1 foe. Low chance of inflicting Freeze.
+Item_0AC	Deals 50 Ice damage to all foes. Low chance of inflicting Freeze.
+Item_0AD	Deals 100 Electric damage to 1 foe. Low chance of inflicting Shock.
+Item_0AE	Deals 50 Electric damage to all foes. Low chance of inflicting Shock.
+Item_0AF	Deals 100 Wind damage to 1 foe.
+Item_0B0	Deals 50 Wind damage to all foes.
+Item_0B1	Deals 100 Almighty damage to all foes.
+Item_0B2	Deals 200 Almighty damage to all foes.
+Item_0B3	Medium chance of Light instakill to 1 foe.
+Item_0B4	Medium chance of Dark instakill to 1 foe.
+Item_0B5	Raises party's Attack for 3 turns.
+Item_0B6	Raises party's Accuracy/Evasion for 3 turns.
+Item_0B7	Raises party's Defense for 3 turns.
+Item_0B8	Deals 150 Fire damage to 1 foe.
+Item_0B9	Deals 150 Ice damage to 1 foe. Low chance of inflicting Freeze.
+Item_0BA	Deals 150 Electric damage to 1 foe. Low chance of inflicting Shock.
+Item_0BB	Deals 150 Wind damage to 1 foe.
+Item_0BC	Grown with care. Restores 100 HP to 1 ally.
+Item_0BD	Grown with care. Restores 150 HP to 1 ally.
+Item_0BE	Grown with care. Restores 50 HP to 1 ally.
+Item_0BF	Grown with care. Restores 50 HP to all allies.
+Item_0C0	Grown with care. Restores 200 HP to 1 ally.
+Item_0C1	Grown with care. Raises 1 ally's Attack for 3 turns.
+Item_0C2	Grown with care. Raises 1 ally's Accuracy/Evasion for 3 turns.
+Item_0C3	Grown with care. Raises 1 ally's Defense for 3 turns.
+Item_0C4	Grown with care. Raises party's Attack for 3 turns.
+Item_0C5	Grown with care. Raises all of 1 ally's stats for 3 turns.
+Item_0C6	Grown with care. Cures\nFreeze/Shock/Poison/\nDown/Dizzy for 1 ally.
+Item_0C7	Grown with care. Cures\nDistress/Confuse/Charm/\nRage/Fear for all allies.
+Item_0C8	Grown with care. Cures\nDistress/Confuse/Charm/\nRage/Fear for 1 ally.
+Item_0C9	Grown with care. Cures\nFreeze/Shock/Poison/\nDown/Dizzy for all allies.
+Item_0CA	Grown with care. Cures all ailments besides KO for 1 ally.
+Item_0CB	Grown with care. Restores 30 SP to 1 ally.
+Item_0CC	Grown with care. Restores 50 SP to 1 ally.
+Item_0CD	Grown with care. Restores 10 SP to 1 ally.
+Item_0CE	Grown with care. Restores 30 SP to all allies.
+Item_0CF	Grown with care. Restores 100 SP to 1 ally.
+Item_0D0	Grown with care. Restores 100 HP and 30 SP to 1 ally.
+Item_0D1	Grown with care. Restores 150 HP and 50 SP to 1 ally.
+Item_0D2	Grown with care. Restores 100 HP and 10 SP to 1 ally.
+Item_0D3	Grown with care. Restores 100 HP and 30 SP to all allies.
+Item_0D4	Grown with care. Restores 200 HP and 100 SP to 1 ally.
+Item_0D5	Grown with care. Next physical attack will do more than double the damage.
+Item_0D6	Grown with care. Next magic attack will do more than double the damage.
+Item_0D7	Grown with care. Repels 1 physical attack for 1 ally.
+Item_0D8	Grown with care. Repels 1 magic attack for 1 ally.
+Item_0D9	Grown with care. Revives 1 fallen ally with full HP.
+Item_0DA	未使用
+Item_0DB	未使用
+Item_0DC	未使用
+Item_0DD	未使用
+Item_0DE	未使用
+Item_0DF	未使用
+Item_0E0	未使用
+Item_0E1	未使用
+Item_0E2	未使用
+Item_0E3	未使用
+Item_0E4	未使用
+Item_0E5	未使用
+Item_0E6	未使用
+Item_0E7	未使用
+Item_0E8	未使用
+Item_0E9	未使用
+Item_0EA	未使用
+Item_0EB	未使用
+Item_0EC	未使用
+Item_0ED	未使用
+Item_0EE	Deals 100 Light damage to 1 foe.
+Item_0EF	Deals 50 Light damage to all foes.
+Item_0F0	Deals 100 Dark damage to 1 foe.
+Item_0F1	Deals 50 Dark damage to all foes.
+Item_0F2	Deals 150 Light damage to 1 foe.
+Item_0F3	Deals 150 Dark damage to 1 foe.
+Item_0F4	Raises 1 ally's ATK/DEF/ Accuracy/Evasion for 3 turns.
+Item_0F5	Lowers 1 foe's ATK/DEF/ Accuracy/Evasion for 3 turns.
+Item_0F6	Lowers all foes' Attack for 3 turns.
+Item_0F7	Lowers all foes' Defense for 3 turns.
+Item_0F8	Lowers all foes' Accuracy/Evasion for 3 turns.
+Item_0F9	A blindingly bright flashlight. Deals 50 Light damage to all foes.
+Item_0FA	Deals 50 Ice damage to all foes. Low chance of inflicting Freeze.
+Item_0FB	Strangely-shaped corn. Repels 1 physical attack for 1 ally.
+Item_0FC	Oddly-colored corn. Repels 1 magic attack for 1 ally.
+Item_0FD	A ball that emits a dazzling light. Enables escape from most battles.
+Item_0FE	未使用
+Item_0FF	未使用
+Item_100	未使用
+Item_101	未使用
+Item_102	未使用
+Item_103	未使用
+Item_104	未使用
+Item_105	未使用
+Item_106	未使用
+Item_107	未使用
+Item_108	未使用
+Item_109	未使用
+Item_10A	未使用
+Item_10B	未使用
+Item_10C	未使用
+Item_10D	未使用
+Item_10E	未使用
+Item_10F	未使用
+Item_110	未使用
+Item_111	Will grow a tomato rich in nutrients.
+Item_112	Will grow a potato that enhances battle ability.
+Item_113	Will grow an onion that rapidly cures ailments.
+Item_114	Will grow spinach that heals the soul.
+Item_115	Will grow a tomato that ensures vitality.
+Item_116	Changes qualities based on how it is cared for.
+Item_117	未使用
+Item_118	未使用
+Item_119	未使用
+Item_11A	未使用
+Item_11B	A glowing fragment of unknown origin. Cannot be sold.
+Item_11C	未使用
+Item_11D	未使用
+Item_11E	未使用
+Item_11F	未使用
+Item_120	未使用
+Item_121	未使用
+Item_122	未使用
+Item_123	未使用
+Item_124	未使用
+Item_125	未使用
+Item_126	未使用
+Item_127	未使用
+Item_128	未使用
+Item_129	未使用
+Item_12A	未使用
+Item_12B	未使用
+Item_12C	A staple of the Umiushi menu. Restores 20 HP to 1 ally.
+Item_12D	A hearty and satisfying dish. Raises 1 ally's Attack for 3 turns.
+Item_12E	Can take a while to eat it all. Raises 1 ally's Defense for 3 turns.
+Item_12F	A brisk dish. Raises 1 ally's Accuracy/Evasion for 3 turns.
+Item_130	Has a tasteful mix of sweetness and saltiness. Restores 100 HP to 1 ally.
+Item_131	Heats you up when eaten. Raises all of 1 ally's stats for 3 turns.
+Item_132	A beef bowl with a variety of toppings. Restores 50 HP to all allies.
+Item_133	The broth goes perfectly with white rice. Restores 150 HP to 1 ally.
+Item_134	For a body that won't lose to laziness. Nullify stat debuffs for all allies.
+Item_135	A set of 4 probiotic drinks. Restores 10 SP to all allies.
+Item_136	A fresh, lemon-based drink. A bit watery. Restores 10 HP to 1 ally.
+Item_137	Water that tastes like happiness. Restores 5 SP to 1 ally.
+Item_138	A white, fish-shaped cake that tastes better after cooling in the refrigerator.
+Item_139	Healthy jelly. Cures\nFreeze/Shock/Poison/\nDown/Dizzy for 1 ally.
+Item_13A	Calming chocolate. Cures\nDistress/Confuse/Charm/\nRage/Fear for 1 ally.
+Item_13B	Chewy, chilled, and delicious. Restores 100 HP to 1 ally.
+Item_13C	A fruit with a sweet aroma. Cures all ailments besides KO for 1 ally.
+Item_13D	Sweets loved by the royal family. Restores 50 HP to all allies.
+Item_13E	No additives or colorings used. Tastes dense. Restores 5 SP to 1 ally.
+Item_13F	A pear that fills your mouth with sweet juice. Fully restores HP to 1 ally.
+Item_140	Spooky candy popular with children. Restores 20 HP to 1 ally.
+Item_141	An apple that sparkles like the rainbow. Fully restores HP to all allies.
+Item_142	未使用
+Item_143	未使用
+Item_144	未使用
+Item_145	未使用
+Item_146	未使用
+Item_147	未使用
+Item_148	未使用
+Item_149	未使用
+Item_14A	未使用
+Item_14B	未使用
+Item_14C	未使用
+Item_14D	未使用
+Item_14E	未使用
+Item_14F	未使用
+Item_150	未使用
+Item_151	未使用
+Item_152	未使用
+Item_153	未使用
+Item_154	未使用
+Item_155	未使用
+Item_156	未使用
+Item_157	未使用
+Item_158	未使用
+Item_159	未使用
+Item_15A	未使用
+Item_15B	未使用
+Item_15C	未使用
+Item_15D	未使用
+Item_15E	PC software for learning manners that will charm others.
+Item_15F	PC software for helping you attain a beautiful body via watching videos.
+Item_160	PC software for learning the arts of seduction and sweet talking.
+Item_161	PC software for learning about a variety of subjects.
+Item_162	PC software for learning English through pictures and images.
+Item_163	PC software for cultivating your thinking power.
+Item_164	PC software for children. Adults need courage to play this.
+Item_165	PC software that requires courage to defeat zombies through typing.
+Item_166	PC software for living out the valorous feats of a Sengoku-era general.
+Item_167	PC software that uses videos to teach the best form to increase speed.
+Item_168	A note with the URL of a site that studies ninja skills for greater agility.
+Item_169	PC software for learning servicing skills to help you earn a higher hourly wage.
+Item_16A	PC software for learning skills to increase the yield of your vegetable garden.
+Item_16B	PC software for learning how to effectively strengthen your muscles.
+Item_16C	PC software for learning how to build up muscle by using your mind.
+Item_16D	PC software for growing your mind through meditation.
+Item_16E	PC software for training your mental strength through expert methods.
+Item_16F	For those who love beef bowls. Has a membership code for the official site.
+Item_170	A note with the URL of a message board full of rumors about Iwatodai.
+Item_171	A note with the URL of a covert site about a familiar school.
+Item_172	A note with the URL of a blog written by devoted vegetable garden lovers.
+Item_173	A note with the URL of a matchmaking site with a prepaid Offering Pass.
+Item_174	A note with the URL of a revenge request site that has stirred up a buzz.
+Item_175	A note with the URL of a blog whose author writes fanatically about Nyx.
+Item_176	A note with the URL of a site featuring videos on taking down enemies.
+Item_177	A note with the URL of a site detailing how to fatally strike your enemy.
+Item_178	A note with the URL of a site for posting anecdotes of inspiring people.
+Item_179	未使用
+Item_17A	未使用
+Item_17B	未使用
+Item_17C	Looks like mechanical parts engraved with "ASI."
+Item_17D	Specialized parts that enhance Aigis's capabilities.
+Item_17E	Specialized parts that enhance Aigis's capabilities.
+Item_17F	Specialized parts that enhance Aigis's capabilities.
+Item_180	Specialized parts that enhance Aigis's capabilities.
+Item_181	未使用
+Item_182	未使用
+Item_183	未使用
+Item_184	未使用
+Item_185	未使用
+Item_186	An investigator struggles to solve a case while navigating his chaotic personal life.
+Item_187	A recount of a certain woman's journey to prevail over her painful reality.
+Item_188	A compilation of intense matches in a variety of fighting styles.
+Item_189	A set of various spices in assorted bottles. They give off an exotic scent.
+Item_18A	A self-improvement book essential for those who wish to get stronger.
+Item_18B	A fitness guide containing information to be mastered. Only for advanced students.
+Item_18C	A soul-crushingly difficult PC game.
+Item_18D	A cute toy that is a delight for dogs. Makes a sound when pressed.
+Item_18E	A workbook designed to test one's skill in basic math.
+Item_18F	The joys of working out are plain to see thanks to the man's beaming smile on the cover.
+Item_190	A notebook formatted to keep inventories.
+Item_191	A heavily damaged book. The spine has fallen off.
+Item_192	A decently-sized bone. It's not clear what animal it came from.
+Item_193	Very expensive dog food. Irresistible to dogs with a good sense of smell.
+Item_194	An appliance used for brewing coffee.
+Item_195	A binder of "About Me" pages that friends can fill out together.
+Item_196	未使用
+Item_197	未使用
+Item_198	未使用
+Item_199	未使用
+Item_19A	未使用
+Item_19B	未使用
+Item_19C	未使用
+Item_19D	未使用
+Item_19E	未使用
+Item_19F	未使用
+Item_1A0	未使用
+Item_1A1	未使用
+Item_1A2	未使用
+Item_1A3	未使用
+Item_1A4	未使用
+Item_1A5	未使用
+Item_1A6	未使用
+Item_1A7	未使用
+Item_1A8	未使用
+Item_1A9	未使用
+Item_1AA	未使用
+Item_1AB	未使用
+Item_1AC	未使用
+Item_1AD	未使用
+Item_1AE	未使用
+Item_1AF	未使用
+Item_1B0	未使用
+Item_1B1	未使用
+Item_1B2	未使用
+Item_1B3	未使用
+Item_1B4	未使用
+Item_1B5	未使用
+Item_1B6	未使用
+Item_1B7	未使用
+Item_1B8	未使用
+Item_1B9	未使用
+Item_1BA	未使用
+Item_1BB	未使用
+Item_1BC	未使用
+Item_1BD	未使用
+Item_1BE	未使用
+Item_1BF	未使用
+Item_1C0	未使用
+Item_1C1	未使用
+Item_1C2	未使用
+Item_1C3	未使用
+Item_1C4	未使用
+Item_1C5	未使用
+Item_1C6	未使用
+Item_1C7	未使用
+Item_1C8	未使用
+Item_1C9	未使用
+Item_1CA	未使用
+Item_1CB	未使用
+Item_1CC	未使用
+Item_1CD	未使用
+Item_1CE	未使用
+Item_1CF	未使用
+Item_1D0	未使用
+Item_1D1	未使用
+Item_1D2	未使用
+Item_1D3	未使用
+Item_1D4	未使用
+Item_1D5	未使用
+Item_1D6	未使用
+Item_1D7	未使用
+Item_1D8	未使用
+Item_1D9	未使用
+Item_1DA	未使用
+Item_1DB	未使用
+Item_1DC	未使用
+Item_1DD	未使用
+Item_1DE	未使用
+Item_1DF	未使用
+Item_1E0	未使用
+Item_1E1	未使用
+Item_1E2	未使用
+Item_1E3	未使用
+Item_1E4	未使用
+Item_1E5	未使用
+Item_1E6	未使用
+Item_1E7	未使用
+Item_1E8	未使用
+Item_1E9	未使用
+Item_1EA	未使用
+Item_1EB	未使用
+Item_1EC	未使用
+Item_1ED	未使用
+Item_1EE	未使用
+Item_1EF	未使用
+Item_1F0	未使用
+Item_1F1	未使用
+Item_1F2	未使用
+Item_1F3	未使用
+Item_1F4	未使用
+Item_1F5	未使用
+Item_1F6	未使用
+Item_1F7	未使用
+Item_1F8	未使用
+Item_1F9	未使用
+Item_1FA	未使用
+Item_1FB	未使用
+Item_1FC	未使用
+Item_1FD	未使用
+Item_1FE	未使用
+Item_1FF	未使用
+Item_200	未使用
+Item_201	未使用
+Item_202	未使用
+Item_203	未使用
+Item_204	未使用
+Item_205	未使用
+Item_206	未使用
+Item_207	未使用
+Item_208	未使用
+Item_209	未使用
+Item_20A	未使用
+Item_20B	未使用
+Item_20C	未使用
+Item_20D	未使用
+Item_20E	未使用
+Item_20F	未使用
+Item_210	未使用
+Item_211	未使用
+Item_212	未使用
+Item_213	未使用
+Item_214	未使用
+Item_215	未使用
+Item_216	未使用
+Item_217	未使用
+Item_218	未使用
+Item_219	未使用
+Item_21A	未使用
+Item_21B	未使用
+Item_21C	未使用
+Item_21D	未使用
+Item_21E	未使用
+Item_21F	未使用
+Item_220	未使用
+Item_221	未使用
+Item_222	未使用
+Item_223	未使用
+Item_224	未使用
+Item_225	未使用
+Item_226	未使用
+Item_227	未使用
+Item_228	未使用
+Item_229	未使用
+Item_22A	未使用
+Item_22B	未使用
+Item_22C	未使用
+Item_22D	未使用
+Item_22E	未使用
+Item_22F	未使用
+Item_230	未使用
+Item_231	未使用
+Item_232	未使用
+Item_233	未使用
+Item_234	未使用
+Item_235	未使用
+Item_236	未使用
+Item_237	未使用
+Item_238	未使用
+Item_239	未使用
+Item_23A	未使用
+Item_23B	未使用
+Item_23C	未使用
+Item_23D	未使用
+Item_23E	未使用
+Item_23F	未使用
+Item_240	未使用
+Item_241	未使用
+Item_242	未使用
+Item_243	未使用
+Item_244	未使用
+Item_245	未使用
+Item_246	未使用
+Item_247	未使用
+Item_248	未使用
+Item_249	未使用
+Item_24A	未使用
+Item_24B	未使用
+Item_24C	未使用
+Item_24D	未使用
+Item_24E	未使用
+Item_24F	未使用
+Item_250	未使用
+Item_251	未使用
+Item_252	未使用
+Item_253	未使用
+Item_254	未使用
+Item_255	未使用
+Item_256	未使用
+Item_257	未使用
+Item_258	未使用
+Item_259	未使用
+Item_25A	未使用
+Item_25B	未使用
+Item_25C	未使用
+Item_25D	未使用
+Item_25E	未使用
+Item_25F	未使用
+Item_260	未使用
+Item_261	未使用
+Item_262	未使用
+Item_263	未使用
+Item_264	未使用
+Item_265	未使用
+Item_266	未使用
+Item_267	未使用
+Item_268	未使用
+Item_269	未使用
+Item_26A	未使用
+Item_26B	未使用
+Item_26C	未使用
+Item_26D	未使用
+Item_26E	未使用
+Item_26F	未使用
+Item_270	未使用
+Item_271	未使用
+Item_272	未使用
+Item_273	未使用
+Item_274	未使用
+Item_275	未使用
+Item_276	未使用
+Item_277	未使用
+Item_278	未使用
+Item_279	未使用
+Item_27A	未使用
+Item_27B	未使用
+Item_27C	未使用
+Item_27D	未使用
+Item_27E	未使用
+Item_27F	未使用
+Item_280	未使用
+Item_281	未使用
+Item_282	未使用
+Item_283	未使用
+Item_284	未使用
+Item_285	未使用
+Item_286	未使用
+Item_287	未使用
+Item_288	未使用
+Item_289	未使用
+Item_28A	未使用
+Item_28B	未使用
+Item_28C	未使用
+Item_28D	未使用
+Item_28E	未使用
+Item_28F	未使用
+Item_290	未使用
+Item_291	未使用
+Item_292	未使用
+Item_293	未使用
+Item_294	未使用
+Item_295	未使用
+Item_296	未使用
+Item_297	未使用
+Item_298	未使用
+Item_299	未使用
+Item_29A	未使用
+Item_29B	未使用
+Item_29C	未使用
+Item_29D	未使用
+Item_29E	未使用
+Item_29F	未使用
+Item_2A0	未使用
+Item_2A1	未使用
+Item_2A2	未使用
+Item_2A3	未使用
+Item_2A4	未使用
+Item_2A5	未使用
+Item_2A6	未使用
+Item_2A7	未使用
+Item_2A8	未使用
+Item_2A9	未使用
+Item_2AA	未使用
+Item_2AB	未使用
+Item_2AC	未使用
+Item_2AD	未使用
+Item_2AE	未使用
+Item_2AF	未使用
+Item_2B0	未使用
+Item_2B1	未使用
+Item_2B2	未使用
+Item_2B3	未使用
+Item_2B4	未使用
+Item_2B5	未使用
+Item_2B6	未使用
+Item_2B7	未使用
+Item_2B8	未使用
+Item_2B9	未使用
+Item_2BA	未使用
+Item_2BB	未使用
+Item_2BC	未使用
+Item_2BD	未使用
+Item_2BE	未使用
+Item_2BF	未使用
+Item_2C0	未使用
+Item_2C1	未使用
+Item_2C2	未使用
+Item_2C3	未使用
+Item_2C4	未使用
+Item_2C5	未使用
+Item_2C6	未使用
+Item_2C7	未使用
+Item_2C8	未使用
+Item_2C9	未使用
+Item_2CA	未使用
+Item_2CB	未使用
+Item_2CC	未使用
+Item_2CD	未使用
+Item_2CE	未使用
+Item_2CF	未使用
+Item_2D0	未使用
+Item_2D1	未使用
+Item_2D2	未使用
+Item_2D3	未使用
+Item_2D4	未使用
+Item_2D5	未使用
+Item_2D6	未使用
+Item_2D7	未使用
+Item_2D8	未使用
+Item_2D9	未使用
+Item_2DA	未使用
+Item_2DB	未使用
+Item_2DC	未使用
+Item_2DD	未使用
+Item_2DE	未使用
+Item_2DF	未使用
+Item_2E0	未使用
+Item_2E1	未使用
+Item_2E2	未使用
+Item_2E3	未使用
+Item_2E4	未使用
+Item_2E5	未使用
+Item_2E6	未使用
+Item_2E7	未使用
+Item_2E8	未使用
+Item_2E9	未使用
+Item_2EA	未使用
+Item_2EB	未使用
+Item_2EC	未使用
+Item_2ED	未使用
+Item_2EE	未使用
+Item_2EF	未使用
+Item_2F0	未使用
+Item_2F1	未使用
+Item_2F2	未使用
+Item_2F3	未使用
+Item_2F4	未使用
+Item_2F5	未使用
+Item_2F6	未使用
+Item_2F7	未使用
+Item_2F8	未使用
+Item_2F9	未使用
+Item_2FA	未使用
+Item_2FB	未使用
+Item_2FC	未使用
+Item_2FD	未使用
+Item_2FE	未使用
+Item_2FF	未使用
+Item_300	未使用
+Item_301	未使用
+Item_302	未使用
+Item_303	未使用
+Item_304	未使用
+Item_305	未使用
+Item_306	未使用
+Item_307	未使用
+Item_308	未使用
+Item_309	未使用
+Item_30A	未使用
+Item_30B	未使用
+Item_30C	未使用
+Item_30D	未使用
+Item_30E	未使用
+Item_30F	未使用
+Item_310	未使用
+Item_311	未使用
+Item_312	未使用
+Item_313	未使用
+Item_314	未使用
+Item_315	未使用
+Item_316	未使用
+Item_317	未使用
+Item_318	未使用
+Item_319	未使用
+Item_31A	未使用
+Item_31B	未使用
+Item_31C	未使用
+Item_31D	未使用
+Item_31E	未使用
+Item_31F	未使用
+Item_320	未使用
+Item_321	未使用
+Item_322	未使用
+Item_323	未使用
+Item_324	未使用
+Item_325	未使用
+Item_326	未使用
+Item_327	未使用
+Item_328	未使用
+Item_329	未使用
+Item_32A	未使用
+Item_32B	未使用
+Item_32C	未使用
+Item_32D	未使用
+Item_32E	未使用
+Item_32F	未使用
+Item_330	未使用
+Item_331	未使用
+Item_332	未使用
+Item_333	未使用
+Item_334	未使用
+Item_335	未使用
+Item_336	未使用
+Item_337	未使用
+Item_338	未使用
+Item_339	未使用
+Item_33A	未使用
+Item_33B	未使用
+Item_33C	未使用
+Item_33D	未使用
+Item_33E	未使用
+Item_33F	未使用
+Item_340	未使用
+Item_341	未使用
+Item_342	未使用
+Item_343	未使用
+Item_344	未使用
+Item_345	未使用
+Item_346	未使用
+Item_347	未使用
+Item_348	未使用
+Item_349	未使用
+Item_34A	未使用
+Item_34B	未使用
+Item_34C	未使用
+Item_34D	未使用
+Item_34E	未使用
+Item_34F	未使用
+Item_350	未使用
+Item_351	未使用
+Item_352	未使用
+Item_353	未使用
+Item_354	未使用
+Item_355	未使用
+Item_356	未使用
+Item_357	未使用
+Item_358	未使用
+Item_359	未使用
+Item_35A	未使用
+Item_35B	未使用
+Item_35C	未使用
+Item_35D	未使用
+Item_35E	未使用
+Item_35F	未使用
+Item_360	未使用
+Item_361	未使用
+Item_362	未使用
+Item_363	未使用
+Item_364	未使用
+Item_365	未使用
+Item_366	未使用
+Item_367	未使用
+Item_368	未使用
+Item_369	未使用
+Item_36A	未使用
+Item_36B	未使用
+Item_36C	未使用
+Item_36D	未使用
+Item_36E	未使用
+Item_36F	未使用
+Item_370	未使用
+Item_371	未使用
+Item_372	未使用
+Item_373	未使用
+Item_374	未使用
+Item_375	未使用
+Item_376	未使用
+Item_377	未使用
+Item_378	未使用
+Item_379	未使用
+Item_37A	未使用
+Item_37B	未使用
+Item_37C	未使用
+Item_37D	未使用
+Item_37E	未使用
+Item_37F	未使用
+Item_380	未使用
+Item_381	未使用
+Item_382	未使用
+Item_383	未使用
+Item_384	未使用
+Item_385	未使用
+Item_386	未使用
+Item_387	未使用
+Item_388	未使用
+Item_389	未使用
+Item_38A	未使用
+Item_38B	未使用
+Item_38C	未使用
+Item_38D	未使用
+Item_38E	未使用
+Item_38F	未使用
+Item_390	未使用
+Item_391	未使用
+Item_392	未使用
+Item_393	未使用
+Item_394	未使用
+Item_395	未使用
+Item_396	未使用
+Item_397	未使用
+Item_398	未使用
+Item_399	未使用
+Item_39A	未使用
+Item_39B	未使用
+Item_39C	未使用
+Item_39D	未使用
+Item_39E	未使用
+Item_39F	未使用
+Item_3A0	未使用
+Item_3A1	未使用
+Item_3A2	未使用
+Item_3A3	未使用
+Item_3A4	未使用
+Item_3A5	未使用
+Item_3A6	未使用
+Item_3A7	未使用
+Item_3A8	未使用
+Item_3A9	未使用
+Item_3AA	未使用
+Item_3AB	未使用
+Item_3AC	未使用
+Item_3AD	未使用
+Item_3AE	未使用
+Item_3AF	未使用
+Item_3B0	未使用
+Item_3B1	未使用
+Item_3B2	未使用
+Item_3B3	未使用
+Item_3B4	未使用
+Item_3B5	未使用
+Item_3B6	未使用
+Item_3B7	未使用
+Item_3B8	未使用
+Item_3B9	未使用
+Item_3BA	未使用
+Item_3BB	未使用
+Item_3BC	未使用
+Item_3BD	未使用
+Item_3BE	未使用
+Item_3BF	未使用
+Item_3C0	未使用
+Item_3C1	未使用
+Item_3C2	未使用
+Item_3C3	未使用
+Item_3C4	未使用
+Item_3C5	未使用
+Item_3C6	未使用
+Item_3C7	未使用
+Item_3C8	未使用
+Item_3C9	未使用
+Item_3CA	未使用
+Item_3CB	未使用
+Item_3CC	未使用
+Item_3CD	未使用
+Item_3CE	未使用
+Item_3CF	未使用
+Item_3D0	未使用
+Item_3D1	未使用
+Item_3D2	未使用
+Item_3D3	未使用
+Item_3D4	未使用
+Item_3D5	未使用
+Item_3D6	未使用
+Item_3D7	未使用
+Item_3D8	未使用
+Item_3D9	未使用
+Item_3DA	未使用
+Item_3DB	未使用
+Item_3DC	未使用
+Item_3DD	未使用
+Item_3DE	未使用
+Item_3DF	未使用
+Item_3E0	未使用
+Item_3E1	未使用
+Item_3E2	未使用
+Item_3E3	未使用
+Item_3E4	未使用
+Item_3E5	未使用
+Item_3E6	未使用
+Item_3E7	未使用
+Item_3E8	未使用
+Item_3E9	未使用
+Item_3EA	未使用
+Item_3EB	未使用
+Item_3EC	未使用
+Item_3ED	未使用
+Item_3EE	未使用
+Item_3EF	未使用
+Item_3F0	未使用
+Item_3F1	未使用
+Item_3F2	未使用
+Item_3F3	未使用
+Item_3F4	未使用
+Item_3F5	未使用
+Item_3F6	未使用
+Item_3F7	未使用
+Item_3F8	未使用
+Item_3F9	未使用
+Item_3FA	未使用
+Item_3FB	未使用
+Item_3FC	未使用
+Item_3FD	未使用
+Item_3FE	未使用
+Item_3FF	未使用
