@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import struct
 import json
+from shared import load_demons, load_skills
 
 INNATES = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2]
 ALIGNS1 = ['???', 'Neutral', 'Light', 'Dark']
@@ -78,18 +79,20 @@ def load_id_file(fname):
         next(tsvfile)
         return [x.split('\t')[0].strip() for x in tsvfile]
 
-with open('../smt5/new-demon-data.json') as jsonfile:
+with open('../../../megaten-fusion-tool/src/app/smt5/data/demon-data.json') as jsonfile:
     VAN_DEMONS = json.load(jsonfile)
+with open('../../../megaten-fusion-tool/src/app/smt5v/data/demon-data.json') as jsonfile:
+    OLD_DEMONS = json.load(jsonfile)
+with open('../../../megaten-fusion-tool/src/app/smt5v/data/innate-skills.json') as jsonfile:
+    OLD_INNATES = json.load(jsonfile)
 
 RACE_IDS = load_id_file('Common/DevilRace.tsv')
-DEMON_IDS = load_id_file('Common/CharacterName.tsv')
-SKILL_IDS = load_id_file('Battle/Skill/SkillName.tsv')
+DEMON_IDS = [x.split('\t')[0] for x in load_demons()]
+SKILL_IDS = [x.split('\t')[0] for x in load_skills()]
 LINE_LEN = 0x1C4
 LINE_LEN = 0x1D0
 START_OFFSET = 0x55
 END_OFFSET = START_OFFSET + 1201 * LINE_LEN
-OLD_DEMONS = {}
-OLD_INNATES = {}
 MAGIC_COMP = (0, 1, 1, 0, 98, 0, 5, 100, 70, 100, 0)
 
 with open('Content/Blueprints/Gamedata/BinTable/Devil/NKMBaseTable.bin', 'rb') as binfile:
@@ -177,9 +180,10 @@ for d_id, line_start in enumerate(range(START_OFFSET, END_OFFSET, LINE_LEN)):
     if ailments != '------':
         entry['ailments'] = ailments
 
-    van_entry = json.dumps(VAN_DEMONS.get(dname, {}), sort_keys=True)
-    fes_entry = json.dumps(entry, sort_keys=True)
-    if van_entry != fes_entry:
+    van_entry = VAN_DEMONS.get(dname, { 'price': 0 })
+    entry['price'] = van_entry['price']
+    if json.dumps(van_entry, sort_keys=True) != json.dumps(entry, sort_keys=True):
+        entry['price'] = OLD_DEMONS[dname]['price']
         OLD_DEMONS[dname] = entry
 
     OLD_INNATES[dname] = SKILL_IDS[trait]

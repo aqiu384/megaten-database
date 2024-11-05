@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import struct
+from shared import load_skills
 
 LINE_LEN = 0xC0
 LINE_LEN = 0xC4
@@ -197,14 +198,11 @@ MOD_ADJUSTS = {
 }
 
 RESIST_LVLS = ['RESIST_1', 'RESIST_2', 'Null', 'Repel']
-
 USAGES = ['Boss', 'Field', 'Battle', 'Everywhere']
+SKILL_IDS = load_skills()
 
 with open('Content/Blueprints/Gamedata/BinTable/Battle/Skill/SkillData.bin', 'rb') as binfile:
     NEW_SKILLS = binfile.read()
-with open('Content/Blueprints/Gamedata/BinTable/Battle/Skill/SkillName.tsv') as tsvfile:
-    next(tsvfile)
-    SKILL_IDS = [x.strip() for x in tsvfile]
 
 def printif_notequal(dname, field, lhs, rhs):
     if str(lhs) != str(rhs):

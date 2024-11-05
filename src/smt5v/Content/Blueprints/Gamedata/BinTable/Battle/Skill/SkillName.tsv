@@ -102,10 +102,10 @@ Diarahan	Full HP recovery to <skill_tgt>.
 Media	Slight HP recovery to <skill_tgt>.
 Mediarama	Moderate HP recovery to <skill_tgt>.
 Mediarahan	Full HP recovery to <skill_tgt>.
-Dia A	Slight HP recovery to <skill_tgt>.
-Diarama A	Moderate HP recovery to <skill_tgt>.
-Media A	Slight HP recovery to <skill_tgt>.
-Mediarama A	Moderate HP recovery to <skill_tgt>.
+Dia	Slight HP recovery to <skill_tgt>.
+Diarama	Moderate HP recovery to <skill_tgt>.
+Media	Slight HP recovery to <skill_tgt>.
+Mediarama	Moderate HP recovery to <skill_tgt>.
 Patra	Cures status ailments for <skill_tgt>.
 Me Patra	Cures status ailments for <skill_tgt>.
 Twilight Wave	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
@@ -116,7 +116,7 @@ Accursed Poison	High chance of inflicting an ailment to <skill_tgt> and lowers a
 Rasetsu Feast	Lowers all stats to the minimum for <skill_tgt> for 3 turns.
 Recarm	Revive one ally with half HP.
 Samarecarm	Revive one ally with full HP.
-Heavenly Counter A	117
+Heavenly Counter	117
 Tarukaja	Raises Attack of <skill_tgt> by 1 rank for 3 turns.
 Matarukaja	Raises Attack of <skill_tgt> by 1 rank for for 3 turns.
 Fairy Banquet	Raises all stats of <skill_tgt> to the max for 3 turns.
@@ -189,8 +189,8 @@ Blight	<skill_minhit>~<skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>. 
 Omagatoki: Free	All skills of <skill_tgt> will cost 1 MP for 1 turn.
 Dark Sword	<skill_maxhit> medium <skill_elm 0> attacks to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Mist Rush	<skill_minhit>~<skill_maxhit> medium <skill_elm 0> attacks to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Counter A	190
-Retaliate A	191
+Counter	190
+Retaliate	191
 Catastrophe	Severe <skill_elm 0> attack to <skill_tgt>.
 Omagatoki: Doubler	Makes buffs and debuffs twice as effective for <skill_tgt> for 1 turn.
 Figment Slash	Severe <skill_elm 0> attack to <skill_tgt>. Low accuracy, but always lands Critical hits.
@@ -250,15 +250,15 @@ Donum Magici	Greatly increases damage of the next Magic-based attack for <skill_
 Taunt	Draws enemy hostility for 3 turns.
 Omagatoki: Savage	All skills of <skill_tgt> will cost twice the MP but deal double the damage for 1 turn.
 Toxic Spray	Chance of inflicting <skill_bst 0> to <skill_tgt> and lowers Defense by 1 rank for 3 turns.
-Souffle D'eclair	(Unique) Severe <skill_elm 0> attack to <skill_tgt>.
+Souffle D'éclair	(Unique) Severe <skill_elm 0> attack to <skill_tgt>.
 Hellish Slash	(Unique) <skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>. Low Accuracy.
 Harvest Dance	(Unique) Slight HP recovery to <skill_tgt> and raises Defense by 2 ranks for 3 turns.
 Mirage Shot	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Moonlight Frost A	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Moonlight Frost	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Stormcaller Song	(Unique) <skill_minhit>~<skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>.
 Karnak	(Unique) Heavy <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
 Acrobat Kick	Weak <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
-Heliopolis Dawn A	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Heliopolis Dawn	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Fierce Roar	Draws enemy hostility, but raises user's Defense by 1 rank for 3 turns.
 Tandava	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Lowers Defense to the minimum for 3 turns.
 Hellish Spurt	(Unique) Medium <skill_elm 0> attack to <skill_tgt>.
@@ -276,7 +276,7 @@ Sacrifice of Clay	(Unique) Heavy <skill_elm 0> attack to <skill_tgt>. Lowers Att
 Omagatoki: Luck	EXP and Macca earned greatly increased if the battle ends on this turn.
 Preach	(Unique) Chance of inflicting <skill_bst 0>/<skill_bst 1>/<skill_bst 2> to <skill_tgt>.
 Golden Apple	(Unique) Slight HP recovery to <skill_tgt> and raises all stats by 1 rank for 3 turns.
-Matriarch's Love A	(Unique) Moderate HP recovery and removes ailments and debuffs for <skill_tgt>.
+Matriarch's Love	(Unique) Moderate HP recovery and removes ailments and debuffs for <skill_tgt>.
 Red Capote	(Unique) Raises Accuracy/Evasion of <skill_tgt> by 2 ranks for 3 turns.
 Matriarch's Love	(Unique) Moderate HP recovery and removes ailments and debuffs for <skill_tgt>.
 Humble Blessing	(Unique) Slight HP recovery to <skill_tgt>.
@@ -287,14 +287,14 @@ Galvanic Slash	Heavy Strength-based <skill_elm 0> attack to <skill_tgt>.
 Electrify	Greatly increases the damage of the next Rising Storm Dragon for <skill_tgt>.
 Rising Storm Dragon	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Attack	287
-Charge A	Greatly increases the damage of the next Strength-based attack for <skill_tgt>.
+Charge	Greatly increases the damage of the next Strength-based attack for <skill_tgt>.
 Babylon Curse	Weak <skill_elm 0> attack to <skill_tgt>. Chance of inflicting Mud.
 290	290
 Silt of Ruin	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Lowers Accuracy/Evasion by 1 rank for 3 turns.
 Sakanagi	(Nahobino) Medium Strength-based <skill_elm 0> attack to <skill_tgt>.
 Divine Arrowfall	(Nahobino) Heavy <skill_elm 0> attack to <skill_tgt>.
 Murakumo	(Nahobino) Severe Strength-based <skill_elm 0> attack to <skill_tgt>. Greater effect if Critical.
-Red Capote A	(Unique) Raises Accuracy/Evasion of <skill_tgt> by 2 ranks for 3 turns.
+Red Capote	(Unique) Raises Accuracy/Evasion of <skill_tgt> by 2 ranks for 3 turns.
 Meditation	(Unique) Weak <skill_elm 0> HP/MP drain attack to <skill_tgt>.
 Hell Burner	(Unique) Heavy <skill_elm 0> attack to <skill_tgt>.
 Aramasa	(Nahobino) <skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>.
@@ -312,8 +312,8 @@ Omagatoki: Potential	Increases all potentials to the max for <skill_tgt> for 1 t
 Miracle Water	(Nahobino) Slight HP recovery to <skill_tgt>.
 Revival Chant	(Nahobino) Summons 1 ally at full HP. Effective on incapacitated members as well.
 Dreadful Gleam	Heavy <skill_elm 0> attack to <skill_tgt>. Ignores affinity and Pierces through. Chance of inflicting <skill_bst 0>.
-Dreadful Gleam A	Heavy Electric attack to all foes. Ignores affinity and Pierces through. Chance of inflicting Seal.
-Harvest Dance A	(Unique) Slight HP recovery to <skill_tgt> and raises Defense by 2 ranks for 3 turns.
+Dreadful Gleam	Heavy Electric attack to all foes. Ignores affinity and Pierces through. Chance of inflicting Seal.
+Harvest Dance	(Unique) Slight HP recovery to <skill_tgt> and raises Defense by 2 ranks for 3 turns.
 Toxic Breath	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Call Angel	Summons a demon.
 Call Soldiers	Summons a demon.
@@ -321,7 +321,7 @@ Call Souls	Summons a demon.
 Call Evil	Summons a demon.
 Purgatorium	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Impetus	Severe <skill_elm 0> attack to <skill_tgt>.
-Mesektet's Path A	Counters all attacks with a weak Almighty attack for 1 turn. Counterattack also inflicts Shroud.
+Mesektet's Path	Counters all attacks with a weak Almighty attack for 1 turn. Counterattack also inflicts Shroud.
 323	323
 324	324
 Death Flies	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Chance of instakill when striking weakness.
@@ -334,12 +334,12 @@ Lightning of God	Severe <skill_elm 0> attack to <skill_tgt>.
 Tornado of God	Severe <skill_elm 0> attack to <skill_tgt>.
 Cold Dark Matter	Raises Defense to the max for 3 turns.
 Hot Dark Matter	Raises Attack to the max for 3 turns.
-Freikugel A	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
-Gaea Rage B	Severe <skill_elm 0> attack to <skill_tgt>.
+Freikugel	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
+Gaea Rage	Severe <skill_elm 0> attack to <skill_tgt>.
 Magma Axis	<skill_minhit>~<skill_maxhit> medium <skill_elm 0> attacks to <skill_tgt>. Ignores affinity resistance and Pierces through.
-Javelin Rain A	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
+Javelin Rain	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Xeros Beat	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Deadly Fury A	Severe <skill_elm 0> attack to <skill_tgt>.
+Deadly Fury	Severe <skill_elm 0> attack to <skill_tgt>.
 Wild Dance	Chance of inflicting <skill_bst 0> to <skill_tgt>.
 Contempt of God	Adds 2 Press Turn Icons to user's next turn.
 Holy Crucifixion	Lowers all stats of <skill_tgt> to the minimum for 3 turns.
@@ -347,21 +347,21 @@ Holy Crucifixion	Lowers all stats of <skill_tgt> to the minimum for 3 turns.
 Omagatoki: Charge	All charge effects will remain for <skill_tgt> until the next turn.
 346	346
 Falling Star	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
-Falling Star A	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Falling Star	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Morning Star	Severe <skill_elm 0> attack to <skill_tgt>.
-Attack A	350
+Attack	350
 351	351
-Dia B	Slight HP recovery to <skill_tgt>.
-Diarama B	Moderate HP recovery to <skill_tgt>.
-Media B	Slight HP recovery to <skill_tgt>.
-Mediarama B	Moderate HP recovery to <skill_tgt>.
-Electrify A	Greatly increases the damage of the next Rising Storm Dragon for <skill_tgt>.
+Dia	Slight HP recovery to <skill_tgt>.
+Diarama	Moderate HP recovery to <skill_tgt>.
+Media	Slight HP recovery to <skill_tgt>.
+Mediarama	Moderate HP recovery to <skill_tgt>.
+Electrify	Greatly increases the damage of the next Rising Storm Dragon for <skill_tgt>.
 True Replication	Creates a replica.
 False Replication	Creates a replica.
-Rising Storm Dragon A	359
-Rising Storm Dragon B	360
-Rising Storm Dragon C	361
-Rising Storm Dragon D	362
+Rising Storm Dragon	359
+Rising Storm Dragon	360
+Rising Storm Dragon	361
+Rising Storm Dragon	362
 Phys Block	Nullifies a Physical attack against <skill_tgt> once for 1 turn.
 Fire Block	Nullifies a Fire attack against <skill_tgt> once for 1 turn.
 Ice Block	Nullifies an Ice attack against <skill_tgt> once for 1 turn.
@@ -369,23 +369,23 @@ Elec Block	Nullifies an Electric attack against <skill_tgt> once for 1 turn.
 Force Block	Nullifies a Force attack against <skill_tgt> once for 1 turn.
 Light Block	Nullifies a Light attack against <skill_tgt> once for 1 turn.
 Dark Block	Nullifies a Dark attack against <skill_tgt> once for 1 turn.
-Freikugel B	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
-Gaea Rage A	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Freikugel	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
+Gaea Rage	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Javelin Rain	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Deadly Fury	(Nahobino) Medium <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
-Chaotic Will A	(Unique) Chance of instakill to <skill_tgt>. Foe's Press Turn Icons will be halved next turn.
+Chaotic Will	(Unique) Chance of instakill to <skill_tgt>. Foe's Press Turn Icons will be halved next turn.
 375	375
 376	376
 377	377
 Madness Glint	(Unique) <skill_minhit>~<skill_maxhit> weak <skill_elm 0> attacks to <skill_tgt>. Chance of inflicting <skill_bst 1> or <skill_bst 0>.
 Panta Spane	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Lowers Attack/Defense by 1 rank for 3 turns.
 Magatsuhi Harvest	380
-Dia C	Slight HP recovery to <skill_tgt>.
-Diarama C	Moderate HP recovery to <skill_tgt>.
-Media C	Slight HP recovery to <skill_tgt>.
-Mediarama C	Moderate HP recovery to <skill_tgt>.
-Dia D	Slight HP recovery to <skill_tgt>.
-Diarama D	Moderate HP recovery to <skill_tgt>.
+Dia	Slight HP recovery to <skill_tgt>.
+Diarama	Moderate HP recovery to <skill_tgt>.
+Media	Slight HP recovery to <skill_tgt>.
+Mediarama	Moderate HP recovery to <skill_tgt>.
+Dia	Slight HP recovery to <skill_tgt>.
+Diarama	Moderate HP recovery to <skill_tgt>.
 387	387
 Violent Rage	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Pandemonic Crush	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Lowers Defense by 1 rank for 3 turns.
@@ -396,8 +396,8 @@ Sonic Boom	Medium <skill_elm 0> attack to <skill_tgt>.
 Gaea Rage	(Nahobino) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Chaotic Will	(Nahobino) Chance of instakill to <skill_tgt>. Foe's Press Turn Icons will be halved next turn.
 396	396
-Javelin Rain B	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Deadly Fury B	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
+Javelin Rain	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
+Deadly Fury	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Always lands Critical hits.
 Great Lament	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Greater effect if the target has an ailment. Chance of inflicting <skill_bst 0> or <skill_bst 1>.
 400	400
 Resist Phys	Strengthens resistance to Physical skills.
@@ -510,7 +510,7 @@ High Almighty Pleroma	Greatly increases Almighty attack damage.
 508	508
 509	509
 Impaler's Revenge	Chance of granting Impaler's Animus after user's attack has been Nulled/Drained/Repelled.
-Lightning Pulse A	Counter with a weak Electric attack when a Thunder Bit is defeated.
+Lightning Pulse	Counter with a weak Electric attack when a Thunder Bit is defeated.
 512	512
 513	513
 514	514
@@ -616,7 +616,7 @@ Bountiful Earth	While in the active party, if an ally's Defense is raised by 2 r
 Divined Fortune	While in the active party, if an ally's Accuracy/Evasion is raised by 2 ranks, their Critical Rate will be increased.
 One-Foot Hop	While in the active party, reduces damage against and raises Evasion for allies who draw enemy hostility.
 Spirited Synergy	While in the active party, allies who draw enemy hostility may survive a fatal blow with 1 HP.
-Affable Hospitality	While in the active party, allies in battle will gain the same support effects as user.
+Affable Hospitality	While in the active party, allies summoned in battle will gain the same support effects as user.
 Saint's Prayer	While in the active party, allies in battle will recover from ailments when returning to the stock.
 Ailed Resurgence	While in the active party, increases damage for allies that have ailments.
 Willpower	While in the active party, allies afflicted with Charm will be more likely to perform the correct action.
@@ -700,18 +700,18 @@ Bit Conversion	At the start of user's turn, raises all stats by a number of rank
 Cleansing Jolt	At the start of user's turn, cures ally Nuwa's ailments.
 Star Fragment	If user does not receive damage on a turn, adds 1 Press Turn Icon at the start of the next turn.
 Mitama Soul	Randomizes weakness at the start of battle.
-Qaditsu Mandate	While in the active party, reduces damage taken for Qaditsu demon allies.
-Qaditsu Artifice	While in the active party, attacks, including Magic, may become Critical hits for Qaditsu demon allies.
-Qaditsu Deception	While in the active party, raises Accuracy/Evasion for Qaditsu demon allies.
-Qaditsu Savagery	While in the active party, increases Critical Rate for Qaditsu demon allies.
+Qadištu Mandate	While in the active party, reduces damage taken for Qadištu demon allies.
+Qadištu Artifice	While in the active party, attacks, including Magic, may become Critical hits for Qadištu demon allies.
+Qadištu Deception	While in the active party, raises Accuracy/Evasion for Qadištu demon allies.
+Qadištu Savagery	While in the active party, increases Critical Rate for Qadištu demon allies.
 Mother Goddess's Love	Increases healing skill effects based on how low user's HP is.
 Musmahhu	When user's HP reaches 0, drains HP from Tiamat and revives with full HP.
 World Ingurgitation	At the start of user's turn, weaknesses struck on the previous turn will have their affinity resistances changed to Drain.
 Oath of Plenteousness	When all stats are raised, greatly increases the amount of HP or MP restored by user's healing skills.
-Qaditsu Cohort	While in the active party, grants a Pierce effect against foes that have ailments for user and Qaditsu demon allies.
-Dawn of Demise	While in the active party, grants a Pierce effect and increases Critical Rate for all allies.
+Qadištu Cohort	While in the active party, grants a Pierce effect against foes that have ailments for user and Qadištu demon allies.
+Dawn of Demise	While in the active party, increases Critical Rate and grants a Pierce effect to the standard attack for all allies.
 Magatsuhi Thriftiness	While in the active party, very slightly decreases the amount of Magatsuhi consumed when an ally uses a Magatsuhi Skill.
-712	712
+Might of Dawn	When user receives an attack with a Pierce effect, counter with a heavy Light attack with a Pierce effect. May inflict Mirage.
 713	713
 714	714
 715	715
@@ -825,11 +825,11 @@ Fountain of Chaos	Severe level-based <skill_elm 0> attack to <skill_tgt> and rem
 Omagatoki: Momentum	Adds 1 Press Turn Icon for every defeated foe for <skill_tgt> for 1 turn.
 Omagatoki: Conserve	Press Turn Icon consumption is reduced by half for <skill_tgt> for 1 turn.
 Omagatoki: Strategize	Changing party members or passing a turn will not consume a Press Turn Icon for <skill_tgt> for 1 turn.
-Qaditsu Entropy	<skill_maxhit> heavy level-based <skill_elm 0> attacks to <skill_tgt>. High chance of inflicting Charm. Large HP recovery to all allies.
+Qadištu Entropy	<skill_maxhit> heavy level-based <skill_elm 0> attacks to <skill_tgt>. High chance of inflicting Charm. Large HP recovery to all allies.
 827	827
 828	828
 829	829
-Gaea Rage C	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
+Gaea Rage	(Unique) Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Glacial Dragon Spiral	(Unique) Weak <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through.
 Mirage Assailment	(Unique) Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
 Entangling Tendrils	(Unique) Chance of inflicting <skill_bst 0> to <skill_tgt>. Lowers Attack by 1 rank for 3 turns.
@@ -837,25 +837,25 @@ Entangling Tendrils	(Unique) Chance of inflicting <skill_bst 0> to <skill_tgt>. 
 835	835
 Jack Agilao	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Lowers Attack by 1 rank for 3 turns.
 Gale Charge	(Unique) <skill_minhit> medium Strength-based <skill_elm 0> attack to a random foe. Always lands Critical hits.
-838	838
+Haze Invocation	Summons heat haze born from Marici.
 Maiden's Morsel	(Unique) Medium <skill_elm 0> HP/MP drain attack to <skill_tgt>. Greater effect if target is afflicted with Charm.
-840	840
+Might of Dawn	840
 Gae Bolg	(Unique) Medium Strength-based <skill_elm 0> attack with Pierce effect to <skill_tgt>. Always lands Critical hits.
-Shield of God A	Greatly decreases damage to <skill_tgt> until the next turn.
-Impaler's Glory A	Greatly increases the damage of the next attack of <skill_tgt> and adds Pierce effect.
+Shield of God	Greatly decreases damage to <skill_tgt> until the next turn.
+Impaler's Glory	Greatly increases the damage of the next attack of <skill_tgt> and adds Pierce effect.
 Hell Gaze	(Unique) Medium <skill_elm 0> attack with Pierce effect to <skill_tgt>. High chance of instakill when striking weakness.
-845	845
+Formless Arrows	(Unique) <skill_minhit> weak <skill_elm 0> attacks to <skill_tgt>. Greater effect if target is afflicted with Mirage.
 846	846
 847	847
-Freikugel C	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
-Recalcitrant Execution A	(Unique) Severe Strength-based <skill_elm 0> attack to <skill_tgt>. Greater effect if Critical.
-Diarama E	Moderate HP recovery to 1 ally.
+Freikugel	Severe Strength-based <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
+Recalcitrant Execution	(Unique) Severe Strength-based <skill_elm 0> attack to <skill_tgt>. Greater effect if Critical.
+Diarama	Moderate HP recovery to 1 ally.
 Dance of Mara	(Unique) Chance of inflicting <skill_bst 0> to <skill_tgt>. Very high chance of instakill when target is afflicted with Charm.
-Mediarama D	Moderate HP recovery to all allies.
+Mediarama	Moderate HP recovery to all allies.
 Deicidal Poison	(Unique) High chance of inflicting <skill_bst 0> to <skill_tgt>. Lowers Accuracy/Evasion by 2 ranks for 3 turns.
 Shadow Summoning	Summons a shadow of one of Samael's partners.
 Sakuya Sakura	(Unique) Slight HP and MP recovery to <skill_tgt> and raises all stats by 1 rank for 3 turns.
-Sakuya Sakura A	(Unique) Slight HP and MP recovery to <skill_tgt> and raises all stats by 1 rank for 3 turns.
+Sakuya Sakura	(Unique) Slight HP and MP recovery to <skill_tgt> and raises all stats by 1 rank for 3 turns.
 Blossoming Sakura	Moderate HP and MP recovery to <skill_tgt> and raises all stats to the max for 3 turns.
 Heliopolis Dawn	(Unique) Severe <skill_elm 0> attack with Pierce effect to <skill_tgt>. Lowers Attack by 1 rank for 3 turns.
 859	859
@@ -866,7 +866,7 @@ Seething Mansemat	Weak <skill_elm 0> attack to <skill_tgt>. Always lands Critica
 Untainted Wind	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>. Lowers all stats by 2 ranks for 3 turns.
 Boundless Sea	Severe <skill_elm 0> attack to <skill_tgt>. Ignores affinity resistance and Pierces through. Removes stat buffs.
 Annihilation Ray	Severe <skill_elm 0> attack to <skill_tgt>.
-Annihilation Ray A	867
+Annihilation Ray	867
 King of Tales	(Unique) Draws enemy hostility to <skill_tgt>, but raises Attack to the max for 3 turns.
 What Comes After Four	(Unique) Weak <skill_elm 0> attack to <skill_tgt>. Chance of instakill.
 Good Cheer	(Unique) Removes status ailments and debuffs for <skill_tgt>.
@@ -886,40 +886,40 @@ Ice Shard	Weak <skill_elm 0> attack to <skill_tgt>.
 Light Shard	Weak <skill_elm 0> attack to <skill_tgt>. Chance of instakill when striking weakness.
 Sleep Gem	Chance of inflicting <skill_bst 0> to <skill_tgt>.
 Revival Bead	Revive one ally with half HP.
-Sun's Radiance A	(Unique) Moderate HP recovery and cures ailments for <skill_tgt>.
-Diamrita A	Moderate HP recovery and cures ailments for <skill_tgt>.
-Qaditsu Entropy A	<skill_maxhit> heavy level-based <skill_elm 0> attacks to <skill_tgt>. High chance of inflicting Charm. Large HP recovery to all allies.
+Sun's Radiance	(Unique) Moderate HP recovery and cures ailments for <skill_tgt>.
+Diamrita	Moderate HP recovery and cures ailments for <skill_tgt>.
+Qadištu Entropy	<skill_maxhit> heavy level-based <skill_elm 0> attacks to <skill_tgt>. High chance of inflicting Charm. Large HP recovery to all allies.
 890	890
-Honey Trap A	891
-Vinyl Bomb A	892
-Adversary A	893
+Honey Trap	891
+Vinyl Bomb	892
+Adversary	893
 Golden Ring	894
-Burning Aspiration A	895
-Wrath of Oyamatsumi A	896
-Guardian Beast A	897
-Tempest A	898
-Righteous Sentence A	899
-Death's Door A	900
+Burning Aspiration	895
+Wrath of Oyamatsumi	896
+Guardian Beast	897
+Tempest	898
+Righteous Sentence	899
+Death's Door	900
 Primordial Parturition	Revive and summon 1 ally with half HP.
-Bufu A	Weak <skill_elm 0> attack to <skill_tgt>.
-Rakunda A	Lowers Defense of <skill_tgt> by 1 rank for 3 turns.
-Gram Slice A	Weak <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
-Charge B	Greatly increases the damage of the next Strength-based attack for <skill_tgt>.
-Bufula A	Medium <skill_elm 0> attack to <skill_tgt>.
-Qaditsu Entropy B	907
-Carnage Fang A	(Unique) Heavy <skill_elm 0> attack to <skill_tgt>. Greater effect if Critical.
-Sun's Radiance B	(Unique) Moderate HP recovery and cures ailments for <skill_tgt>.
-Witness Me A	(Unique) Draws enemy hostility, but raises user's Accuracy/Evasion by 2 ranks for 3 turns.
-Hama A	Weak <skill_elm 0> attack to <skill_tgt>. Chance of instakill when striking weakness.
-Mahamaon A	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of instakill when striking weakness.
-Mirage Shot A	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Zanma A	Medium <skill_elm 0> attack to <skill_tgt>.
-Trafuri A	Guarantees escape from escapable battles.
-Cautious Cheer A	(Unique) Raises Defense/Accuracy/Evasion of <skill_tgt> by 1 rank for 3 turns.
-Toxic Cloud A	Chance of inflicting <skill_bst 0> to <skill_tgt>.
+Bufu	Weak <skill_elm 0> attack to <skill_tgt>.
+Rakunda	Lowers Defense of <skill_tgt> by 1 rank for 3 turns.
+Gram Slice	Weak <skill_elm 0> attack to <skill_tgt>. High chance of landing Critical hits.
+Charge	Greatly increases the damage of the next Strength-based attack for <skill_tgt>.
+Bufula	Medium <skill_elm 0> attack to <skill_tgt>.
+Qadištu Entropy	907
+Carnage Fang	(Unique) Heavy <skill_elm 0> attack to <skill_tgt>. Greater effect if Critical.
+Sun's Radiance	(Unique) Moderate HP recovery and cures ailments for <skill_tgt>.
+Witness Me	(Unique) Draws enemy hostility, but raises user's Accuracy/Evasion by 2 ranks for 3 turns.
+Hama	Weak <skill_elm 0> attack to <skill_tgt>. Chance of instakill when striking weakness.
+Mahamaon	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of instakill when striking weakness.
+Mirage Shot	(Unique) Medium <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
+Zanma	Medium <skill_elm 0> attack to <skill_tgt>.
+Trafuri	Guarantees escape from escapable battles.
+Cautious Cheer	(Unique) Raises Defense/Accuracy/Evasion of <skill_tgt> by 1 rank for 3 turns.
+Toxic Cloud	Chance of inflicting <skill_bst 0> to <skill_tgt>.
 Paraselene Blur	(Nahobino) <skill_maxhit> medium Strength-based <skill_elm 0> attacks to <skill_tgt>. (Only usable after evading an attack the previous turn)
 Megido Ark	(Unique) Medium to severe <skill_elm 0> attack to <skill_tgt>. Damage increases based on the number of foes.
-Elusive Eclipse A	920
+Elusive Eclipse	920
 Evergreen Dance	(Nahobino) Greatly fills the Magatsuhi Gauge. (Once per turn)
 Inflaming Divinity	(Nahobino) Raises all stats of <skill_tgt> by 2 ranks for 3 turns.
 Heavenly Ikuyumi	(Nahobino) Medium to severe <skill_elm 0> attack to <skill_tgt>. Damage increases based on the number of debuffs on the target.
@@ -929,24 +929,24 @@ Luminescent Mirage	(Nahobino) Guarantees evasion from 1 attack for <skill_tgt> f
 Lunation Flux	(Nahobino) Slight MP recovery to <skill_tgt>. Does not consume a Press Turn Icon.
 Omnipotent Succession	Causes the next attack of <skill_tgt> to be performed 4 times consecutively.
 Riberama	Prevents enemies from fleeing in the field and increases chance of consecutive encounters until the next new moon.
-Megido Ark A	(Unique) Medium to severe <skill_elm 0> attack to <skill_tgt>. Damage increases based on the number of foes.
+Megido Ark	(Unique) Medium to severe <skill_elm 0> attack to <skill_tgt>. Damage increases based on the number of foes.
 Magatsuhi Plunder	Drain HP from <skill_tgt>. User's affinity resistances, skills, and Magatsuhi Skills will change depending on the drained ally.
 932	932
-Magatsuhi Harvest A	933
-Big Bang A	Severe level-based <skill_elm 0> attack to <skill_tgt>.
-Freikugel EX A	Severe level-based <skill_elm 0> attack to <skill_tgt>.
-Soul Drain A	Heavy level-based <skill_elm 0> HP/MP drain attack to <skill_tgt>.
-Twilight Wave A	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
-Eternal Prayer A	Fully restores HP and cures ailments for <skill_tgt>.
-Waters of Youth A	Fully restores HP and MP for <skill_tgt>.
-Accursed Poison A	High chance of inflicting an ailment to <skill_tgt> and lowers all stats by 1 rank for 3 turns.
-Rasetsu Feast A	Lowers all stats of <skill_tgt> to the minimum for 3 turns.
-Fairy Banquet A	Raises all stats of <skill_tgt> to the max for 3 turns.
-Shield of God B	Greatly decreases damage to <skill_tgt> until the next turn.
-Impaler's Glory B	Greatly increases the damage of the next attack of <skill_tgt> and adds Pierce effect.
-Dekajaon A	Removes all stat buff effects on <skill_tgt>, and returns ailment resistances to their original states.
+Magatsuhi Harvest	933
+Big Bang	Severe level-based <skill_elm 0> attack to <skill_tgt>.
+Freikugel EX	Severe level-based <skill_elm 0> attack to <skill_tgt>.
+Soul Drain	Heavy level-based <skill_elm 0> HP/MP drain attack to <skill_tgt>.
+Twilight Wave	Heavy <skill_elm 0> attack to <skill_tgt>. Chance of inflicting <skill_bst 0>.
+Eternal Prayer	Fully restores HP and cures ailments for <skill_tgt>.
+Waters of Youth	Fully restores HP and MP for <skill_tgt>.
+Accursed Poison	High chance of inflicting an ailment to <skill_tgt> and lowers all stats by 1 rank for 3 turns.
+Rasetsu Feast	Lowers all stats of <skill_tgt> to the minimum for 3 turns.
+Fairy Banquet	Raises all stats of <skill_tgt> to the max for 3 turns.
+Shield of God	Greatly decreases damage to <skill_tgt> until the next turn.
+Impaler's Glory	Greatly increases the damage of the next attack of <skill_tgt> and adds Pierce effect.
+Dekajaon	Removes all stat buff effects on <skill_tgt>, and returns ailment resistances to their original states.
 Call Allies	946
 947	947
 948	948
 949	949
-Magatsuhi Harvest B	950
+Magatsuhi Harvest	950

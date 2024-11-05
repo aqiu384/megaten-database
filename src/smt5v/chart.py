@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import struct
 import json
+from shared import load_demons
 
 ELEMS = [
     'Erthys',
@@ -55,7 +56,7 @@ def load_id_file(fname):
         return [x.split('\t')[0].strip() for x in tsvfile]
 
 RACE_IDS = load_id_file('Common/DevilRace.tsv')
-DEMON_IDS = load_id_file('Common/CharacterName.tsv')
+DEMON_IDS = [x.split('\t')[0] for x in load_demons()]
 DIFF_RACE_START = 0x85
 SAME_RACE_START = 0xA25
 ELEMENT_START = 0xAB5
