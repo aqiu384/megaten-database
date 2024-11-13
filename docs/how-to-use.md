@@ -187,20 +187,24 @@
 | <-9  | 25%     |
 
 ### Filling the Magtsuhi Gauge
-| Condition                 | Fill |
-| ------------------------- | ---- |
-| Red Magatsuhi Pickup      | 1%   |
-| End Turn (Minimum)        | 15%  |
-| End Turn (Maximum)        | 25%  |
-| Forestall                 | 20%  |
-| Constant Vigiliance       | 15%  |
-| Embolden                  | 5%   |
-| Vengeful Opportunist      | 3%   |
-| Fell Swoop                | 1%   |
-| Counter Incentive: Resist | 3%   |
-| Counter Incentive: Null   | 10%  |
-| Unyielding Will           | 5%   |
-| Vengeance                 | 30%  |
+| Condition                    | Fill |
+| ---------------------------- | ---- |
+| Red Magatsuhi Pickup         | 1%   |
+| End Turn (Min)               | 15%  |
+| End Turn (Max)               | 25%  |
+| Forestall                    | 20%  |
+| Constant Vigiliance          | 15%  |
+| Embolden                     | 5%   |
+| Vengeful Opportunist         | 3%   |
+| Vengeful Opportunist (SMT5V) | 2%   |
+| Fell Swoop                   | 1%   |
+| Counter Incentive: Resist    | 3%   |
+| Counter Incentive: Null      | 10%  |
+| Unyielding Will              | 5%   |
+| Vengeance                    | 30%  |
+| Vengeance (SMT5V)            | 15%  |
+| Skillful Conservation (Min)  | 8%   |
+| Skillful Conservation (Max)  | 15%  |
 
 ### Ailments
 * Sleep
