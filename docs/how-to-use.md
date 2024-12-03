@@ -85,6 +85,21 @@
 * https://erikku.github.io/smt4tool/
 * https://gamefaqs.gamespot.com/3ds/672441-shin-megami-tensei-iv/faqs/67766
 
+### Skills That Cannot Be Whispered
+* Estoma Sword
+* Inferno of God
+* Fallen Grace
+* Hailstorm of God
+* Lamentation
+* Tornado of God
+* Serpent of Sheol
+* Lightning of God
+* Kannuki-Throw
+* Damnation
+* Gaea Rage
+* Curse Thy Enemy
+* Guardian's Eye
+
 ### Fusion Accident Skill Inheritance
 * If demons A x B = C, but produces a fusion accident resulting in D instead
   * D's first 4 skills will be the highest ranked from the combined ABCD skill pool

@@ -16,7 +16,7 @@ ELEMS = [
 ]
 
 with open('../../../megaten-fusion-tool/src/app/smt4/data/skill-data.json') as jsonfile:
-    OLD_SKILLS = { x['name']: x for x in json.load(jsonfile) }
+    OLD_SKILLS = { x['a'][0]: x for x in json.load(jsonfile).values() }
 with open('data/skill-ids.tsv') as tsvfile:
     SKILL_IDS = ['BLANK'] + [x.strip() for x in tsvfile]
 
@@ -60,12 +60,15 @@ def parse_active_skills(fname, start_offset, end_offset, line_len):
         cost += 1000
 
         entry = OLD_SKILLS[sname]
-        printif_notequal(sname, 'cost', cost, entry.get('cost', 0))
-        stats = [entry['rank'], cost, pwr, min_hit, max_hit, acc, crit, ail_acc]
+        printif_notequal(sname, 'cost', cost, entry['b'][1])
+        old_rank = entry['b'][0]
+        if 0 < old_rank and sum(whispers) == 0:
+            print(sname, sum(whispers))
+        stats = [entry['b'][0], cost, pwr, min_hit, max_hit, acc, crit, ail_acc]
         prefix = [sname, elem, entry.get('target', '-')]
         suffix = [str(ailment), '-', '-', entry.get('effect', '-')]
         NEW_SKILLS[f"{s_id:03}"] = prefix + [str(x) for x in stats] + suffix
-        print(heal_pwr, s_id, sname)
+        # print(heal_pwr, s_id, sname)
 
 def parse_passive_skills(fname, start_offset, end_offset, line_len):
     with open(fname, 'rb') as binfile:
@@ -87,11 +90,11 @@ def parse_passive_skills(fname, start_offset, end_offset, line_len):
 
         entry = OLD_SKILLS[sname]
         SEEN_SKILLS[sname] = True
-        stats = [entry['rank']] + [0] * 7
+        stats = [entry['b'][0]] + [0] * 7
         prefix = [sname, 'pas', '-']
         suffix = ['-', '-', '-', entry.get('effect', '-')]
         NEW_SKILLS[f"{s_id:03}"] = prefix + [str(x) for x in stats] + suffix
-        print(unk_parts, s_id, sname)
+        # print(unk_parts, s_id, sname)
 
 parse_active_skills('data/battle/SkillData.bin', START_OFFSET, END_OFFSET, LINE_LEN)
 
