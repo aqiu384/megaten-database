@@ -86,18 +86,25 @@
 * https://gamefaqs.gamespot.com/3ds/672441-shin-megami-tensei-iv/faqs/67766
 
 ### Skills That Cannot Be Whispered
-* Estoma Sword
-* Inferno of God
-* Fallen Grace
-* Hailstorm of God
-* Lamentation
-* Tornado of God
-* Serpent of Sheol
-* Lightning of God
 * Kannuki-Throw
+* Inferno of God
+* Breath
+* Hailstorm of God
+* Lightning of God
+* Tornado of God
+* Curse Thy Enemy
+* Serpent of Sheol
+* Fallen Grace
 * Damnation
 * Gaea Rage
-* Curse Thy Enemy
+* Cough
+* Pandemic Bomb
+* Shivering Taboo
+* Lamentation
+* Recarmdra
+* Sabbatma
+* Estoma Sword
+* Invitation
 * Guardian's Eye
 
 ### Fusion Accident Skill Inheritance
