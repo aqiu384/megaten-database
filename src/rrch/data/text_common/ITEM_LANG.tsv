@@ -1,0 +1,329 @@
+id	EN	JA	ZH	CH	DE	ES	FR	IT
+ITEM_L0001	Medicine	傷薬	伤药	傷藥	Medizin	Medicina	Médicament	Medicina
+ITEM_L0002	Ox Bezoar	牛黄丹	牛黄丹	牛黃丹	Ochsen-Bezoar	Bezoar boyante	Bézoard de bœuf	Bezoar del bue
+ITEM_L0003	Life Stone	魔石	魔石	魔石	Lebensstein	Piedra vital	Pierre de vie	Pietra vitale
+ITEM_L0004	Muscle Drink	マッスルドリンコ	肌肉饮料	肌肉飲料	Proteinshake	Batido de proteínas	Boisson énergisante	Bevanda energetica
+ITEM_L0005	Bead	宝玉	宝玉	寶玉	Perle	Abalorio	Perle	Perlina
+ITEM_L0006	Bead of Life	生玉	生玉	生玉	Perle des Lebens	Abalorio de vida	Perle de vie	Perlina vitale
+ITEM_L0007	Chakra Chip	チャクラチップ	脉轮片	脈輪碎片	Chakra-Chip	Esquirla de chakra	Fragment de chakra	Scheggia di chakra
+ITEM_L0008	Chakra Drop	チャクラドロップ	脉轮滴	脈輪露	Chakra-Tropfen	Gota de chakra	Goutte de chakra	Goccia di chakra
+ITEM_L0009	???	？？？	？？？	？？？	???	¿?	???	???
+ITEM_L0012	Soma	ソーマ	苏摩	蘇摩	Soma	Soma	Soma	Soma
+ITEM_L0013	Anti-Poison	解毒符	解毒符	解毒符	Anti-Gift	Antiveneno	Anti-poison	Anti-veleno
+ITEM_L0014	Anti-Mute	解封符	解封符	解封符	Anti-Stumm	Antimudez	Anti-mutisme	Anti-silenzio
+ITEM_L0015	Anti-Stone	解石符	解石符	解石符	Anti-Stein	Antipetrificación	Anti-pétrification	Anti-pietra
+ITEM_L0016	Anti-Mind	鎮心符	镇心符	鎮心符	Anti-Verstand	Antimente	Anti-mental	Anti-mente
+ITEM_L0017	Jin Dan	金丹	金丹	金丹	Jin Dan	Jin Dan	Jin Dan	Jin Dan
+ITEM_L0018	Balm of Life	反魂香	返魂香	返魂香	Balsam des Lebens	Bálsamo vital	Baume de vie	Balsamo vitale
+ITEM_L0019	St Incense	力の香	力之香	力之香	St-Räucherstäbchen	Incienso de fuerza	Encens de Fo	Incenso Fz
+ITEM_L0020	Ma Incense	魔力の香	魔之香	魔力之香	Ma-Räucherstäbchen	Incienso de magia	Encens de Ma	Incenso Ma
+ITEM_L0021	Vi Incense	耐力の香	耐之香	耐力之香	Vi-Räucherstäbchen	Incienso de vitalidad	Encens de Vi	Incenso Vi
+ITEM_L0022	Lu Incense	運の香	运之香	運之香	Lu-Räucherstäbchen	Incienso de suerte	Encens de Ch	Incenso Fr
+ITEM_L0023	"Mansaku" Sake	清酒まんさく	清酒万作	清酒萬作	Mansaku-Sake	Sake mansaku	Saké « Mansaku »	Sakè "Mansaku"
+ITEM_L0024	"Homura" Sake	銘酒ほむら	铭酒烈焰	銘酒焰	Homura-Sake	Sake homura	Saké « Homura »	Sakè "Homura"
+ITEM_L0025	"Fubuki" Sake	銘酒ふぶき	铭酒吹雪	銘酒吹雪	Fubuki-Sake	Sake fubuki	Saké « Fubuki »	Sakè "Fubuki"
+ITEM_L0026	"Raiden" Sake	銘酒らいでん	铭酒雷电	銘酒雷電	Raiden-Sake	Sake raiden	Saké « Raiden »	Sakè "Raiden"
+ITEM_L0027	"Arashi" Sake	銘酒あらし	铭酒暴风	銘酒嵐	Arashi-Sake	Sake arashi	Saké « Arashi »	Sakè "Arashi"
+ITEM_L0028	"Gouriki" Sake	銘酒ごうりき	铭酒刚力	銘酒剛力	Gouriki-Sake	Sake gouriki	Saké « Gouriki »	Sakè "Gouriki"
+ITEM_L0029	"Yamiyo" Sake	銘酒やみなで	铭酒暗抚	銘酒闇撫	Yamiyo-Sake	Sake yamiyo	Saké « Yamiyo »	Sakè "Yamiyo"
+ITEM_L0030	"Takumi" Sake	銘酒たくみ	铭酒巧匠	銘酒匠	Takumi-Sake	Sake takumi	Saké « Takumi »	Sakè "Takumi"
+ITEM_L0031	"Shishiou" Sake	濁酒からじし	浊酒唐狮子	濁酒唐獅子	Shishiou-Sake	Sake shishiou	Saké « Shishiou »	Sakè "Shishiou"
+ITEM_L0032	"Kotetsu" Sake	秘蔵濁酒まさむね	秘藏浊酒正宗	秘藏濁酒正宗	Kotetsu-Sake	Sake kotetsu	Saké « Kotetsu »	Sakè "Kotetsu"
+ITEM_L0034	Attract Water	集魔の水	聚魔水	集魔之水	Anziehungswasser	Atracción de agua	Attir'eau	Attira-demoni
+ITEM_L0035	Repulse Water	退魔の水	退魔水	退魔之水	Abstoßungswasser	Repulsión de agua	Repouss'eau	Repellente
+ITEM_L0036	Foxtail	ねこじゃらし	狗尾草	狗尾草	Fuchsschwanz	Cola de zorro	Sétaire	Coda di volpe
+ITEM_L0038	Smoke Ball	特製煙幕	特制烟幕	特製煙幕	Rauchball	Bomba de humo	Boule fumigène	Sfera fumogena
+ITEM_L0039	Purity Charm	浴油の御札	浴油灵符	浴油神符	Amulett der Reinheit	Amuleto de pureza	Charme de pureté	Talismano di Purezza
+ITEM_L0064	Wood Ornament	キョウトの古根付	京都的古根付	京都古根附	Holzornament	Adorno de madera	Ornement en bois	Ornamento in legno
+ITEM_L0065	Asuka Mirror	アスカの古鏡	飞鸟的古镜	飛鳥古鏡	Asuka-Spiegel	Espejo Asuka	Miroir d'Asuka	Specchio di Asuka
+ITEM_L0066	Rakuyou Chalice	ラクヨウの玉杯	洛阳的玉杯	洛陽玉杯	Rakuyou-Kelch	Cáliz Rakuyo	Calice de Rakuyou	Calice Rakuyou
+ITEM_L0067	Javanese Figure	ジャワの浮彫	爪哇的浮雕	爪哇浮雕	Javanische Figur	Figura javanesa	Figurine javanaise	Statuetta giavanese
+ITEM_L0068	Roman Coin	ローマの銀貨	罗马的银币	羅馬銀幣	Römische Münze	Moneda romana	Pièce romaine	Moneta romana
+ITEM_L0069	Persian Vase	ペルシアの彩陶器	波斯的彩陶器	波斯彩陶	Persische Vase	Jarrón persa	Vase perse	Vaso persiano
+ITEM_L0070	Theban Jar	テーベの石壷	底比斯的石壶	底比斯石壺	Thebanisches Gefäß	Vasija tebana	Jarre thébaine	Giara tebana
+ITEM_L0071	Cretan Goddess	クレタの女神像	克里特的女神像	克里特女神像	Kretische Göttin	Diosa cretense	Déesse crétoise	Dea cretese
+ITEM_L0072	Babylon Tablet	バビロンの石板	巴比伦的石板	巴比倫石板	Babylon-Tafel	Tabla babilónica	Tablette babylonienne	Tavoletta babilonese
+ITEM_L0073	Giza Mask	ギザの黄金面	吉萨的黄金面具	吉薩黃金面具	Gizeh-Maske	Máscara de Giza	Masque de Gizeh	Maschera di Giza
+ITEM_L0074	Stag Beetle	オオクワガタ	大锹甲	大鍬形蟲	Hirschkäfer	Ciervo volante	Lucane	Cervo volante
+ITEM_L0075	Beetle	カブトムシ	独角仙	獨角仙	Käfer	Escarabajo	Scarabée	Coleottero
+ITEM_L0076	Dainty Snack	珍味のおつまみ	下酒珍味	下酒珍饈	Leckerer Snack	Tentempié exquisito	Petit en-cas	Merendina delicata
+ITEM_L0077	Twig	こえだ	小树枝	小樹枝	Zweig	Rama	Brindille	Rametto
+ITEM_L0078	Old Underwear	古びたこしまき	古旧夏装	舊腰卷	Alte Unterwäsche	Ropa interior vieja	Sous-vêtement ancien	Intimo antico
+ITEM_L0128	Valhalla Soda	バルハラソーダ	瓦尔哈拉苏打	瓦爾哈拉汽水	Walhalla-Limonade	Refresco del Valhalla	Soda Valhalla	Soda del Valhalla
+ITEM_L0129	Magical Soda	マジカルソーダ	魔法苏打	魔法汽水	Magische Limonade	Refresco mágico	Soda magique	Soda magica
+ITEM_L0130	Muscle Soda	マッスルソーダ	肌肉苏打	肌肉汽水	Muskel-Limonade	Refresco musculoso	Soda énergisant	Soda energetica
+ITEM_L0131	Miracle Soda	ミラクルソーダ	奇迹苏打	奇蹟汽水	Wunder-Limonade	Refresco milagroso	Soda miracle	Soda miracolosa
+ITEM_L0132	Doctor Soda	ドクトルソーダ	医师苏打	醫師汽水	Arzt-Limonade	Refresco medicinal	Soda médicinal	Soda medica
+ITEM_L0133	Dragon Soda	ドラコントソーダ	银莲果苏打	人面子汽水	Drachen-Limonade	Refresco dragontino	Soda draconique	Soda draconica
+ITEM_L0134	Mandra Soda	マンドラソーダ	曼德拉苏打	曼德拉汽水	Mandra-Limonade	Refresco mandra	Soda Mandra	Soda Mandra
+ITEM_L0135	Valhalla Nectar	バルハラネクトル	瓦尔哈拉神酒	瓦爾哈拉蜜酒	Walhalla-Nektar	Néctar del Valhalla	Nectar Valhalla	Nettare del Valhalla
+ITEM_L0136	Magical Nectar	マジカルネクトル	魔法神酒	魔法蜜酒	Magischer Nektar	Néctar mágico	Nectar magique	Nettare magico
+ITEM_L0137	Muscle Nectar	マッスルネクトル	肌肉神酒	肌肉蜜酒	Muskel-Nektar	Néctar musculoso	Nectar énergisant	Nettare energetico
+ITEM_L0138	Miracle Nectar	ミラクルネクトル	奇迹神酒	奇蹟蜜酒	Wunder-Nektar	Néctar milagroso	Nectar miracle	Nettare miracoloso
+ITEM_L0139	Elixir Pop	エリキシルニッキ	不死药肉桂水	萬靈藥香桂	Elixier-Pop	Gaseosa elixir	Limonade élixir	Bibita elisir
+ITEM_L0140	Midas Pop	ミダスニッキ	迈达斯肉桂水	米達斯香桂	Midas-Pop	Gaseosa de Midas	Limonade Midas	Bibita di Mida
+ITEM_L0141	Harvest Pop	クベラニッキ	俱毗罗肉桂水	俱毗羅香桂	Ernte-Pop	Gaseosa de cosecha	Limonade récolte	Bibita del raccolto
+ITEM_L0142	Deus Pop	デウスニッキ	德乌斯肉桂水	天神香桂	Deus-Pop	Gaseosa Deus	Limonade Deus	Bibita divina
+ITEM_L0144	Zero	刀零	刀零	刀零	Zero	Cero	Zéro	Zero
+ITEM_L0145	Renki	練気刀	练气刀	練氣刀	Renki	Renki	Renki	Renki
+ITEM_L0146	Himezuru	姫鶴一文字	姬鹤一文字	姬鶴一文字	Himezuru	Himezuru	Himezuru	Himezuru
+ITEM_L0147	Bizen-Osafune	備前長船	备前长船	備前長船	Bizen-Osafune	Bizen-Osafune	Bizen-Osafune	Bizen-Osafune
+ITEM_L0148	Type 32 Gunto	三十二年式軍刀	三十二年式军刀	三十二年式軍刀	Gunto Typ 32	Gunto de tipo 32	Gunto type 32	Gunto tipo 32
+ITEM_L0149	Kanesada	関兼定	关兼定	關兼定	Kanesada	Kanesada	Kanesada	Kanesada
+ITEM_L0150	Kotetsu	銘刀虎徹	铭刀虎彻	銘刀虎徹	Kotetsu	Kotetsu	Kotetsu	Kotetsu
+ITEM_L0151	Nagamitsu	大般若長光	大般若长光	大般若長光	Nagamitsu	Nagamitsu	Nagamitsu	Nagamitsu
+ITEM_L0152	Kogarasumaru	小烏丸	小乌丸	小烏丸	Kogarasumaru	Kogarasumaru	Kogarasumaru	Kogarasumaru
+ITEM_L0153	Muramasa	妖刀村正	妖刀村正	妖刀村正	Muramasa	Muramasa	Muramasa	Muramasa
+ITEM_L0154	Kiyotsune	仁王清綱	仁王清纲	仁王清綱	Kiyotsune	Kiyotsune	Kiyotsune	Kiyotsune
+ITEM_L0155	Kogitsune	小狐丸	小狐丸	小狐丸	Kogitsune	Kogitsune	Kogitsune	Kogitsune
+ITEM_L0156	Kogitsune Kage	小狐丸影	小狐丸影	小狐丸影	Kogitsune Kage	Kogitsune Kage	Kogitsune Kage	Kogitsune Kage
+ITEM_L0157	Masamune	無想正宗	无想正宗	無想正宗	Masamune	Masamune	Masamune	Masamune
+ITEM_L0158	Usumidori	吼刀薄緑	吼刀薄绿	吼刀薄綠	Usumidori	Usumidori	Usumidori	Usumidori
+ITEM_L0159	Nagamichi	剛刀長道	刚刀长道	剛刀長道	Nagamichi	Nagamichi	Nagamichi	Nagamichi
+ITEM_L0160	Shishiou	破邪獅子王	破邪狮子王	破邪獅子王	Shishiou	Shishiou	Shishiou	Shishiou
+ITEM_L0161	Raikiri	天破雷切	天破雷切	天破雷切	Raikiri	Raikiri	Raikiri	Raikiri
+ITEM_L0162	Plasma Sword	プラズマソード	电浆剑	電漿劍	Plasmaschwert	Espada de plasma	Épée à plasma	Spada al plasma
+ITEM_L0163	Kanshou	陽剣干将	阳剑干将	陽劍干將	Kanshou	Kanshou	Kanshou	Kanshou
+ITEM_L0164	Bakuya	陰剣莫耶	阴剑莫邪	陰劍莫邪	Bakuya	Bakuya	Bakuya	Bakuya
+ITEM_L0165	Doujigiri	童子切安綱	童子切安纲	童子切安綱	Doujigiri	Doujigiri	Doujigiri	Doujigiri
+ITEM_L0166	Seimitsu	星光破山剣	星光破山剑	星光破山劍	Seimitsu	Seimitsu	Seimitsu	Seimitsu
+ITEM_L0167	Sol Blade	ソルブレード	日光剑	太陽刀	Solklinge	Espada solar	Lame solaire	Lama solare
+ITEM_L0168	Luna Blade	ルナブレード	月光剑	月亮刀	Lunaklinge	Espada lunar	Lame lunaire	Lama lunare
+ITEM_L0169	Gae Bolg	ゲイボルグ	迦耶伯格	蓋伯格	Gae Bolg	Gae Bolg	Gae bolga	Gae Bolg
+ITEM_L0170	Kusanagi	草薙の剣	草薙剑	草薙劍	Kusanagi	Kusanagi	Kusanagi	Kusanagi
+ITEM_L0171	Onigiri	鬼切の太刀	鬼切太刀	鬼切太刀	Onigiri	Onigiri	Onigiri	Onigiri
+ITEM_L0172	Kurikara	倶利伽羅の剣	俱利伽罗剑	俱利伽羅劍	Kurikara	Kurikara	Kurikara	Kurikara
+ITEM_L0173	Ameno-Ohabari	天之尾羽張	天之尾羽张	天之尾羽張	Ameno-Ohabari	Ameno-Ohabari	Ameno-Ohabari	Ameno-Ohabari
+ITEM_L0174	Vanargand	ヴァナルガンド	瓦纳嘉德	芬里爾	Vanargand	Vanargand	Vanargand	Vanargand
+ITEM_L0175	Balmung	バルムンク	巴鲁姆克	巴爾蒙克	Balmung	Balmung	Balmung	Balmung
+ITEM_L0176	Futsu Mitama	布都御霊	布都御灵	布都御靈	Futsu Mitama	Futsu Mitama	Futsu Mitama	Futsu Mitama
+ITEM_L0177	Trishula	トリシュウラ	三叉戟	三叉戟	Trishula	Trishula	Trishula	Trishula
+ITEM_L0178	Murakumo	天叢雲	天丛云	天叢雲	Murakumo	Murakumo	Murakumo	Murakumo
+ITEM_L0179	Kikouseiken	輝煌星剣	辉煌星剑	輝煌星劍	Kikouseiken	Kikouseiken	Kikouseiken	Kikouseiken
+ITEM_L0180	Totsuka	十束剣	十束剑	十束劍	Totsuka	Totsuka	Totsuka	Totsuka
+ITEM_L0181	Mjolnir	ミョルニル	妙尔尼尔	妙爾尼爾	Mjolnir	Mjolnir	Mjöllnir	Mjollnir
+ITEM_L0182	Tsukikage	霧氷月影	雾冰月影	霧冰月影	Tsukikage	Tsukikage	Tsukikage	Tsukikage
+ITEM_L0183	Kagutsuchi	秘剣ヒノカグツチ	秘剑火之迦具土	秘劍火之迦具土	Kagutsuchi	Kagutsuchi	Kagutsuchi	Kagutsuchi
+ITEM_L0184	Youkou Haken	陽皇覇剣	阳皇霸剑	陽皇霸劍	Youkou Haken	Youkou Haken	Youkou Haken	Youkou Haken
+ITEM_L0188	Shichishitou	七支刀	七支刀	七支刀	Shichishitou	Shichishitou	Shichishitou	Shichishitou
+ITEM_L0189	Tentei Sword	天帝の剣	天帝剑	天帝劍	Tenteischwert	Espada Tentei	Épée de Tentei	Spada Tentei
+ITEM_L0190	Laevateinn	レーヴァテイン	雷瓦汀	雷瓦汀	Laevateinn	Laevateinn	Laevateinn	Laevateinn
+ITEM_L0191	Ameno-Nuboko	天沼矛	天沼矛	天沼矛	Ameno-Nuboko	Ameno-Nuboko	Ameno-Nuboko	Ameno-Nuboko
+ITEM_L0194	Mitsurugi	天御剣	天御剑	天御劍	Mitsurugi	Mitsurugi	Mitsurugi	Mitsurugi
+ITEM_L0195	Longinus	ロンギヌス	朗基努斯	朗基努斯	Longinus	Longinos	Sainte Lance	Longino
+ITEM_L0196	Fujimasa	霊刀藤正	灵刀藤正	靈刀藤正	Fujimasa	Fujimasa	Fujimasa	Fujimasa
+ITEM_L0272	Pyro Steel	紅蓮魔鋼	红莲魔钢	紅蓮魔鋼	Pyrostahl	Acero ígneo	Acier ardent	Acciaio fiammante
+ITEM_L0273	Pyro Bronze	紅蓮幻銅	红莲幻铜	紅蓮幻銅	Pyrobronze	Bronce ígneo	Bronze ardent	Bronzo fiammante
+ITEM_L0274	Pyro Silver	紅蓮霊銀	红莲灵银	紅蓮靈銀	Pyrosilber	Plata ígnea	Argent ardent	Argento fiammante
+ITEM_L0275	Pyro Gold	紅蓮神金	红莲神金	紅蓮神金	Pyrogold	Oro ígneo	Or ardent	Oro fiammante
+ITEM_L0279	Frost Steel	銀氷魔鋼	银冰魔钢	銀冰魔鋼	Froststahl	Acero gélido	Acier givré	Acciaio gelido
+ITEM_L0280	Frost Bronze	銀氷幻銅	银冰幻铜	銀冰幻銅	Frostbronze	Bronce gélido	Bronze givré	Bronzo gelido
+ITEM_L0281	Frost Silver	銀氷霊銀	银冰灵银	銀冰靈銀	Frostsilber	Plata gélida	Argent givré	Argento gelido
+ITEM_L0282	Frost Gold	銀氷神金	银冰神金	銀冰神金	Frostgold	Oro gélido	Or givré	Oro gelido
+ITEM_L0286	Volt Steel	雷電魔鋼	雷电魔钢	雷電魔鋼	Stromstahl	Acero voltaico	Acier voltaïque	Acciaio voltaico
+ITEM_L0287	Volt Bronze	雷電幻銅	雷电幻铜	雷電幻銅	Strombronze	Bronce voltaico	Bronze voltaïque	Bronzo voltaico
+ITEM_L0288	Volt Silver	雷電霊銀	雷电灵银	雷電靈銀	Stromsilber	Plata voltaica	Argent voltaïque	Argento voltaico
+ITEM_L0289	Volt Gold	雷電神金	雷电神金	雷電神金	Stromgold	Oro voltaico	Or voltaïque	Oro voltaico
+ITEM_L0293	Wind Steel	疾風魔鋼	疾风魔钢	疾風魔鋼	Windstahl	Acero de viento	Acier du vent	Acciaio ventoso
+ITEM_L0294	Wind Bronze	疾風幻銅	疾风幻铜	疾風幻銅	Windbronze	Bronce de viento	Bronze du vent	Bronzo ventoso
+ITEM_L0295	Wind Silver	疾風霊銀	疾风灵银	疾風靈銀	Windsilber	Plata de viento	Argent du vent	Argento ventoso
+ITEM_L0296	Wind Gold	疾風神金	疾风神金	疾風神金	Windgold	Oro de viento	Or du vent	Oro ventoso
+ITEM_L0300	Fury Steel	蛮力魔鋼	蛮力魔钢	蠻力魔鋼	Zornstahl	Acero furiente	Acier furieux	Acciaio furioso
+ITEM_L0301	Fury Bronze	蛮力幻銅	蛮力幻铜	蠻力幻銅	Zornbronze	Bronce furiente	Bronze furieux	Bronzo furioso
+ITEM_L0302	Fury Silver	蛮力霊銀	蛮力灵银	蠻力靈銀	Zornsilber	Plata furiente	Argent furieux	Argento furioso
+ITEM_L0303	Fury Gold	蛮力神金	蛮力神金	蠻力神金	Zorngold	Oro furiente	Or furieux	Oro furioso
+ITEM_L0307	Pagan Steel	外法魔鋼	外法魔钢	外法魔鋼	Paganer Stahl	Acero pagano	Acier païen	Acciaio pagano
+ITEM_L0308	Pagan Bronze	外法幻銅	外法幻铜	外法幻銅	Pagane Bronze	Bronce pagano	Bronze païen	Bronzo pagano
+ITEM_L0309	Pagan Silver	外法霊銀	外法灵银	外法靈銀	Paganes Silber	Plata pagana	Argent païen	Argento pagano
+ITEM_L0310	Pagan Gold	外法神金	外法神金	外法神金	Paganes Gold	Oro pagano	Or païen	Oro pagano
+ITEM_L0311	Amulet	アミュレット	祛邪符	避邪物	Amulett	Amuleto	Amulette	Amuleto
+ITEM_L0314	Skill Steel	技芸魔鋼	技艺魔钢	技藝魔鋼	Skill-Stahl	Acero diestro	Acier de comp.	Acciaio abile
+ITEM_L0315	Skill Bronze	技芸幻銅	技艺幻铜	技藝幻銅	Skill-Bronze	Bronce diestro	Bronze de comp.	Bronzo abile
+ITEM_L0316	Skill Silver	技芸霊銀	技艺灵银	技藝靈銀	Skill-Silber	Plata diestra	Argent de comp.	Argento abile
+ITEM_L0317	Skill Gold	技芸神金	技艺神金	技藝神金	Skill-Gold	Oro diestro	Or de comp.	Oro abile
+ITEM_L0321	Plastic	プラスチック	塑料	塑膠	Plastik	Plástico	Plastique	Plastica
+ITEM_L0322	Element	元素１１５	元素115	元素115	Element Nr. 115	Elemento	Élément n° 115	Elemento 115
+ITEM_L0323	Moon Chip	月の石片	月球石块	月之石片	Mondchip	Esquirla lunar	Fragment de Lune	Scheggia lunare
+ITEM_L0324	Homusubi Crystal	ホムスビの首	火产灵的首级	火產靈頭顱	Homusubi-Kristall	Cristal Homusubi	Cristal d'Homosubi	Cristallo Homusubi
+ITEM_L0325	Light Steel	光明焔鋼	光明焰钢	光明焰鋼	Lichtstahl	Acero ligero	Acier lumineux	Acciaio lucente
+ITEM_L0326	Shadow Magatama	太陰の勾玉	太阴勾玉	太陰勾玉	Schatten-Magatama	Magatama sombrío	Magatama d'ombre	Magatama dell'ombra
+ITEM_L0327	Victory Crown	勝利の冠	胜利之冠	勝利之冠	Siegeskrone	Corona de victoria	Couronne de victoire	Corona della vittoria
+ITEM_L0328	Strife Blade	争乱の御剣	战乱宝剑	爭亂御劍	Streitklinge	Espada de combate	Lame de lutte	Lama del conflitto
+ITEM_L0329	Aletia	アレティア	阿勒忒娅	阿勒西亞	Aletia	Aletia	Aletia	Aletia
+ITEM_L0330	Sessho-Seki	殺生石	杀生石	殺生石	Sessho-Seki	Sessho-Seki	Sessho-Seki	Sessho-Seki
+ITEM_L0331	Onogoro Ore	オノゴロ産鉄鉱石	淤能棋吕产铁矿石	淤能碁呂產鐵礦石	Onogoro-Erz	Mena de Onogoro	Minerai d'Onogoro	Minerale di Onogoro
+ITEM_L0332	Mirror of Sun	日輪の神鏡	日轮神镜	日輪神鏡	Spiegel der Sonne	Espejo solar	Miroir du soleil	Specchio del Sole
+ITEM_L0335	Hunger Scale	飢餓の天秤	饥荒天平	飢餓天秤	Hungerwaage	Balanza del hambre	Échelle de la faim	Bilancia della fame
+ITEM_L0336	Mortal Seal	死病の刻印	死病刻印	死病刻印	Sterblichensiegel	Sello mortal	Sceau mortel	Sigillo mortale
+ITEM_L0337	Pentagram	ペンタグラム	五角星	五芒星	Pentagramm	Pentagrama	Pentagramme	Pentagramma
+ITEM_L0400	Butterfly Brooch	揚羽蝶のブローチ	凤蝶胸针	鳳蝶胸針	Schmetterlingsbrosche	Broche de mariposa	Broche papillon	Spilla a farfalla
+ITEM_L0401	Photo of Kaya	伽耶の写真	伽耶的照片	伽耶的照片	Foto von Kaya	Foto de Kaya	Photo de Kaya	Foto di Kaya
+ITEM_L0402	Kaya's Diary	伽耶の日記	伽耶的日记	伽耶的日記	Kayas Tagebuch	Diario de Kaya	Journal de Kaya	Diario di Kaya
+ITEM_L0403	Lucky Charm	ボロボロのお守り	破破烂烂的护身符	破爛護身符	Glücksanhänger	Amuleto de suerte	Porte-bonheur	Portafortuna
+ITEM_L0404	Rickshaw Knob	人力車の石突	人力车的脚撑	人力車的石突	Rikscha-Knopf	Pomo de rickshaw	Poignée de pousse-pousse	Manopola di risciò
+ITEM_L0405	Dragon Tiles	放浪の三元牌	流浪的三元牌	放浪三元牌	Drachenkacheln	Fichas de dragón	Tuiles Dragons	Tessere drago
+ITEM_L0406	Number Tiles	哭きの数牌	哭泣的数牌	哭泣數牌	Zahlenkacheln	Fichas con números	Tuiles numérales	Tessere numeriche
+ITEM_L0407	Scoring Sticks	テツヤする点棒	熬夜的点棒	通宵點棒	Ritzstöcke	Palos de puntos	Bâtonnets de comptage	Stecche da punti
+ITEM_L0408	Four Wind Tiles	アカギれ四風牌	龟裂的四风牌	龜裂四風牌	Vier-Winde-Kacheln	Cuatro fichas de viento	Quatre tuiles vent	Tessere quattro venti
+ITEM_L0409	Mahjong Tiles	麻雀牌	麻将牌	麻將牌	Mahjong-Kacheln	Fichas de mahjong	Tuiles de mah-jong	Tessere da mahjong
+ITEM_L0410	Streetcar Pass	車掌のパス	乘务员的通行证	車掌通行證	Straßenbahnticket	Pase de tranvía	Passe de tram	Pass per tram
+ITEM_L0411	Cuff Link	カフスボタン	袖扣	袖扣	Manschettenknöpfe	Gemelo	Bouton de manchette	Gemello
+ITEM_L0412	Ring of Memories	思い出の指輪	充满回忆的戒指	紀念戒指	Ring der Erinnerungen	Anillo de los recuerdos	Anneau des souvenirs	Anello dei ricordi
+ITEM_L0413	Tae's Camera	タヱのカメラ	妙的相机	多惠的照相機	Taes Kamera	Cámara de Tae	Appareil photo de Tae	Fotocamera di Tae
+ITEM_L0414	Ammunition Box	弾薬箱	弹药箱	彈藥箱	Munitionskiste	Caja de munición	Boîte de munitions	Scatola di munizioni
+ITEM_L0415	Earth Prism	地の角柱	地之角柱	地之角柱	Erdprisma	Prisma terrestre	Prisme de terre	Prisma della terra
+ITEM_L0416	Flame Prism	火の角柱	火之角柱	火之角柱	Flammenprisma	Prisma flamígero	Prisme de feu	Prisma della fiamma
+ITEM_L0417	Water Prism	水の角柱	水之角柱	水之角柱	Wasserprisma	Prisma acuático	Prisme d'eau	Prisma dell'acqua
+ITEM_L0418	Amatsu Kanagi	天津金木	天津金木	天津金木	Amatsu Kanagi	Amatsu Kanagi	Amatsu Kanagi	Amatsu Kanagi
+ITEM_L0419	Lockpick	開錠用工具	开锁工具	開鎖工具	Dietrich	Ganzúa	Crochet	Grimaldello
+ITEM_L0420	Ice Cream	アイスクリン	冰淇淋	冰淇淋	Eiscreme	Helado	Crème glacée	Gelato
+ITEM_L0421	Syrup	黒蜜	黑糖蜜	黑糖蜜	Sirup	Sirope	Sirop	Sciroppo
+ITEM_L0422	White Shard	白い石片	白色石块	白色石片	Weißer Splitter	Fragmento blanco	Éclat blanc	Frammento bianco
+ITEM_L0423	Blue Shard	青い石片	蓝色石块	藍色石片	Blauer Splitter	Fragmento azul	Éclat bleu	Frammento blu
+ITEM_L0424	Red Shard	赤い石片	红色石块	紅色石片	Roter Splitter	Fragmento rojo	Éclat rouge	Frammento rosso
+ITEM_L0425	Blood Chrysoberyl	真紅の金緑石	深红的金绿宝石	深紅金綠石	Blut-Chrysoberyll	Crisolita de sangre	Chrysobéryl de sang	Crisoberillo sanguigno
+ITEM_L0426	Fried Tofu	あぶらあげ	油炸豆腐	油炸豆皮	Gebratener Tofu	Tofu frito	Tofu frit	Tofu fritto
+ITEM_L0428	Sword of Kashima	鹿島大明神の御剣	鹿岛大明神的宝剑	鹿島大明神御劍	Schwert von Kashima	Espada de Kashima	Épée de Kashima	Spada di Kashima
+ITEM_L0429	Report Page 1	定吉の報告書１	定吉的报告书1	定吉的報告書1	Berichtseite 1	Página del informe 1	Rapport page 1	Rapporto pagina 1
+ITEM_L0430	Report Page 2	定吉の報告書２	定吉的报告书2	定吉的報告書2	Berichtseite 2	Página del informe 2	Rapport page 2	Rapporto pagina 2
+ITEM_L0431	Report Page 3	定吉の報告書３	定吉的报告书3	定吉的報告書3	Berichtseite 3	Página del informe 3	Rapport page 3	Rapporto pagina 3
+ITEM_L0432	Report Page 4	定吉の報告書４	定吉的报告书4	定吉的報告書4	Berichtseite 4	Página del informe 4	Rapport page 4	Rapporto pagina 4
+ITEM_L0433	Report Page 5	定吉の報告書５	定吉的报告书5	定吉的報告書5	Berichtseite 5	Página del informe 5	Rapport page 5	Rapporto pagina 5
+ITEM_L0434	Report Page 6	定吉の報告書６	定吉的报告书6	定吉的報告書6	Berichtseite 6	Página del informe 6	Rapport page 6	Rapporto pagina 6
+ITEM_L0435	Report Page 7	定吉の報告書７	定吉的报告书7	定吉的報告書7	Berichtseite 7	Página del informe 7	Rapport page 7	Rapporto pagina 7
+ITEM_L0436	Report Page 8	定吉の報告書８	定吉的报告书8	定吉的報告書8	Berichtseite 8	Página del informe 8	Rapport page 8	Rapporto pagina 8
+ITEM_L0437	Shiomitsu Orb	シオミツの玉	满潮之玉	潮滿珠	Shiomitsu-Kugel	Orbe Shiomitsu	Orbe de Shiomitsu	Sfera di Shiomitsu
+ITEM_L0438	Chigaeshi Orb	血返しの玉	返血之玉	血返珠	Chigaeshi-Kugel	Orbe Chigaeshi	Orbe de Chigaeshi	Sfera di Chigaeshi
+ITEM_L0439	Red Wine	洋食屋の赤ワイン	西餐厅的红葡萄酒	洋食餐廳的紅酒	Rotwein	Vino tinto	Vin rouge	Vino rosso
+ITEM_L0440	Flute of Rhone	ローヌの笛	罗讷之笛	隆河之笛	Flöte der Rhone	Flauta de Ródano	Flûte du Rhône	Flauto del Rodano
+ITEM_L0441	Pricey Beer	値のはるビール	昂贵的啤酒	高價啤酒	Teures Bier	Cerveza cara	Bière coûteuse	Birra costosa
+ITEM_L0442	Vodka	減り気味ウォッカ	少了一点的伏特加	少了一點的伏特加	Wodka	Vodka	Vodka	Vodka
+ITEM_L0443	Prophetic Book	予言書	预言书	預言書	Prophetisches Buch	Libro profético	Livre prophétique	Libro profetico
+ITEM_L0444	Staff of Death	死気の杖	死气杖	死氣之杖	Stab des Todes	Báculo de la muerte	Bâton de la mort	Bastone della morte
+ITEM_L0445	Bancho Uniform	無頼漢の証	恶棍的证明	浪子的證明	Bancho-Uniform	Uniforme de bancho	Uniforme de bancho	Uniforme Bancho
+ITEM_L0446	Mystic Eye	魔眼鏡	魔眼镜	魔眼鏡	Mystisches Auge	Ojo místico	Œil mystique	Occhio mistico
+ITEM_L0447	Phantom Skull	悪霊の頭蓋	恶灵头颅	惡靈顱骨	Phantomschädel	Calavera fantasmal	Crâne fantôme	Teschio fantasma
+ITEM_L0448	Tyrant Spawn	覇王の魔卵	霸王魔卵	霸王魔卵	Tyrannenbrut	Prole del tirano	Apparition du tyran	Prole del tiranno
+ITEM_L0449	Emblem of Hell	獄界の紋章	狱界纹章	獄界紋章	Emblem der Hölle	Símbolo infernal	Emblème de l'enfer	Emblema infernale
+ITEM_L0450	SS Project Report	超力兵団計画資料	超力兵团计划文件	超力兵團計畫資料	ÜS-Projektbericht	Informe del proyecto SS	Rapport sur le projet SE	Rapporto Progetto SS
+ITEM_L0451	Photo of Red Cape	赤マントの写真	红斗篷的照片	紅披風的照片	Foto des Roten Umhangs	Foto de Caparroja	Photo de Caperouge	Foto del Mantello Rosso
+ITEM_L0452	Photo of Shizu	シズの写真	静的照片	靜的照片	Foto von Shizu	Foto de Shizu	Photo de Shizu	Foto di Shizu
+ITEM_L0453	Kiyoshi's Cane	清のステッキ	清的拐杖	清的拐杖	Kiyoshis Stock	Bastón de Kiyoshi	Canne de Kiyoshi	Bastone di Kiyoshi
+ITEM_L0454	Photo of Tae	タヱと軍人の写真	妙和军人的照片	多惠與軍人的照片	Foto von Tae	Foto de Tae	Photo de Tae	Foto di Tae
+ITEM_L0455	Auspicious Medaille	吉祥メダイユ	吉祥圣牌	吉祥徽章	Verheißungsvolle Medaille	Medallón sospechoso	Médaille de bon augure	Medaglia benaugurale
+ITEM_L0456	Plastic Toy	セルロイドの玩具	赛璐珞玩具	賽璐珞塑膠玩具	Plastikspielzeug	Juguete de plástico	Jouet en plastique	Giocattolo di plastica
+ITEM_L0457	Luxury Eel	極上鰻	极品鳗鱼	極致鰻魚	Unagi	Anguila de lujo	Anguille de luxe	Anguilla pregiata
+ITEM_L0512	Book of Agi	アギの書	亚基之书	亞基之書	Buch Agi	Libro de Agi	Livre Agi	Libro di Agi
+ITEM_L0513	Book of Agidyne	アギダインの書	亚基达因之书	亞基達因之書	Buch Agidyne	Libro de Agidyne	Livre Agidyne	Libro di Agidyne
+ITEM_L0514	Book of Maragi	マハ・ラギの書	玛哈·拉基之书	瑪哈．拉基之書	Buch Maragi	Libro de Maragi	Livre Maragi	Libro di Maragi
+ITEM_L0515	Book of Maragidyne	マハ・ラギダインの書	玛哈·拉基达因之书	瑪哈．拉基達因之書	Buch Maragidyne	Libro de Maragidyne	Livre Maragidyne	Libro di Maragidyne
+ITEM_L0516	Book of Blaze	砲火の書	炮火之书	砲火之書	Buch der Flammen	Libro de Llamarada	Livre Embrasement	Libro di Fulgore
+ITEM_L0517	Book of Hellfire	地獄の業火の書	地狱业火之书	地獄業火之書	Buch des Höllenfeuers	Libro de Fuego del averno	Livre Feu de l'enfer	Libro di Fuoco infernale
+ITEM_L0518	Book of Fire Breath	ファイアブレスの書	火焰吐息之书	火焰之息之書	Buch des Feueratems	Libro de Aliento ígneo	Livre Souffle de feu	Libro di Soffio ardente
+ITEM_L0519	Book of Agirati	アギ・ラティの書	亚基·拉提之书	亞基．拉堤之書	Buch Agirati	Libro de Agirati	Livre Agirati	Libro di Agirati
+ITEM_L0525	Book of Bufu	ブフの書	布芙之书	布芙之書	Buch Bufu	Libro de Bufu	Livre Bufu	Libro di Bufu
+ITEM_L0526	Book of Bufudyne	ブフダインの書	布芙达因之书	布芙達因之書	Buch Bufudyne	Libro de Bufudyne	Livre Bufudyne	Libro di Bufudyne
+ITEM_L0527	Book of Mabufu	マハ・ブフの書	玛哈·布芙之书	瑪哈．布芙之書	Buch Mabufu	Libro de Mabufu	Livre Mabufu	Libro di Mabufu
+ITEM_L0528	Book of Mabufudyne	マハ・ブフダインの書	玛哈·布芙达因之书	瑪哈．布芙達因之書	Buch Mabufudyne	Libro de Mabufudyne	Livre Mabufudyne	Libro di Mabufudyne
+ITEM_L0529	Book of Cocytus	コキュートスの書	悲叹冥河之书	悲嘆冥河之書	Buch Kokytos	Libro de Cocito	Livre Cocyte	Libro di Cocito
+ITEM_L0530	Book of Glacial Blast	絶対零度の書	绝对零度之书	絕對零度之書	Buch des Gletscherstoßes	Libro de Estallido glacial	Livre Explosion glaciale	Libro di Urto glaciale
+ITEM_L0531	Book of Frostbite	雪華の書	雪华之书	雪花之書	Buch der Erfrierung	Libro de Hipotermia	Livre Gelures	Libro di Gelone
+ITEM_L0532	Book of Bufurati	ブフ・ラティの書	布芙·拉提之书	布芙．拉堤之書	Buch Bufurati	Libro de Bufurati	Livre Bufurati	Libro di Bufurati
+ITEM_L0538	Book of Zio	ジオの書	吉欧之书	吉歐之書	Buch Zio	Libro de Zio	Livre Zio	Libro di Zio
+ITEM_L0539	Book of Ziodyne	ジオダインの書	吉欧达因之书	吉歐達因之書	Buch Ziodyne	Libro de Ziodyne	Livre Ziodyne	Libro di Ziodyne
+ITEM_L0540	Book of Mazio	マハ・ジオの書	玛哈·吉欧之书	瑪哈．吉歐之書	Buch Mazio	Libro de Mazio	Livre Mazio	Libro di Mazio
+ITEM_L0541	Book of Maziodyne	マハ・ジオダインの書	玛哈·吉欧达因之书	瑪哈．吉歐達因之書	Buch Maziodyne	Libro de Maziodyne	Livre Maziodyne	Libro di Maziodyne
+ITEM_L0542	Book of Spark	飛電の書	飞电之书	飛電之書	Buch des Funkens	Libro de Chispa	Livre Étincelle	Libro di Scintilla
+ITEM_L0543	Book of Bolt Storm	大放電の書	大放电之书	大放電之書	Buch des Bolzensturms	Libro de Tormenta eléctrica	Livre Orage d'éclairs	Libro di Tempesta di lampi
+ITEM_L0544	Book of Shock Wave	ショックウェーブの書	震荡波之书	脈衝波浪之書	Buch der Schockwelle	Libro de Onda eléctrica	Livre Onde de choc	Libro di Onda d'urto
+ITEM_L0545	Book of Ziorati	ジオ・ラティの書	吉欧·拉提之书	吉歐．拉堤之書	Buch Ziorati	Libro de Ziorati	Livre Ziorati	Libro di Ziorati
+ITEM_L0551	Book of Zan	ザンの書	赞之书	贊之書	Buch Zan	Libro de Zan	Livre Zan	Libro di Zan
+ITEM_L0552	Book of Zandyne	ザンダインの書	赞达因之书	贊達因之書	Buch Zandyne	Libro de Zandyne	Livre Zandyne	Libro di Zandyne
+ITEM_L0553	Book of Mazan	マハ・ザンの書	玛哈·赞之书	瑪哈．贊之書	Buch Mazan	Libro de Mazan	Livre Mazan	Libro di Mazan
+ITEM_L0554	Book of Mazandyne	マハ・ザンダインの書	玛哈·赞达因之书	瑪哈．贊達因之書	Buch Mazandyne	Libro de Mazandyne	Livre Mazandyne	Libro di Mazandyne
+ITEM_L0555	Book of Tempest	テンペストの書	暴风之书	暴風之書	Buch des Sturms	Libro de Tempestad	Livre Tempête	Libro di Tempesta
+ITEM_L0556	Book of Wind Cutter	真空刃の書	真空刃之书	真空刃之書	Buch des Windschneiders	Libro de Filo de viento	Livre Bourrasque	Libro di Tagliavento
+ITEM_L0557	Book of Flurry	竜巻の書	龙卷之书	龍捲之書	Buch des Windstoßes	Libro de Nevisca	Livre Déchaînement	Libro di Turbinio
+ITEM_L0558	Book of Zanrati	ザン・ラティの書	赞·拉提之书	贊．拉堤之書	Buch Zanrati	Libro de Zanrati	Livre Zanrati	Libro di Zanrati
+ITEM_L0564	Book of Mudo	ムドの書	姆多之书	姆多之書	Buch Mudo	Libro de Mudo	Livre Mudo	Libro di Mudo
+ITEM_L0565	Book of Mamudo	マハ・ムドの書	玛哈·姆多之书	瑪哈．姆多之書	Buch Mamudo	Libro de Mamudo	Livre Mamudo	Libro di Mamudo
+ITEM_L0566	Book of Mamudoon	マハ・ムドオンの書	玛哈·姆多翁之书	瑪哈．姆多翁之書	Buch Mamudoon	Libro de Mamudoon	Livre Mamudoon	Libro di Mamudoon
+ITEM_L0572	Book of Marin Karin	マリンカリンの書	马琳卡琳之书	馬琳卡琳之書	Buch Marin Karin	Libro de Marin Karin	Livre Marin Karin	Libro di Marin Karin
+ITEM_L0573	Book of Dormina	ドルミナーの書	永眠之书	永眠之書	Buch Dormina	Libro de Dormina	Livre Dormina	Libro di Dormina
+ITEM_L0574	Book of Pulinpa	プリンパの書	普林帕之书	普林帕之書	Buch Pulinpa	Libro de Pulinpa	Livre Pulinpa	Libro di Pulinpa
+ITEM_L0575	Book of Makajam	マカジャマの書	玛卡加玛之书	瑪卡加瑪之書	Buch Makajam	Libro de Makajam	Livre Makajam	Libro di Makajam
+ITEM_L0576	Book of Petra	ペトラの書	佩特拉之书	沛特拉之書	Buch Petra	Libro de Petra	Livre Petra	Libro di Petra
+ITEM_L0582	Book of Combo	連撃の書	连击之书	連擊之書	Buch der Kombos	Libro de Combo	Livre Combo	Libro di Combo
+ITEM_L0583	Book of Venomstrike	瘴毒撃の書	瘴毒击之书	瘴毒擊之書	Buch des Giftschlags	Libro de Golpe venenoso	Livre Frappe venimeuse	Libro di Colpo venefico
+ITEM_L0584	Book of Winged Fury	鷹円弾の書	鹰圆弹之书	鷹圓彈之書	Buch des geflügelten Zorns	Libro de Furia alada	Livre Furie ailée	Libro di Furia alata
+ITEM_L0585	Book of Berserker	逆鱗撃の書	逆鳞击之书	逆鱗擊之書	Buch des Berserkers	Libro de Berserker	Livre Ravageur	Libro di Berserker
+ITEM_L0586	Book of Frenzy	大暴れの書	大闹一通之书	天翻地覆之書	Buch der Raserei	Libro de Frenesí	Livre Frénésie	Libro di Frenesia
+ITEM_L0587	Book of Mighty Blow	雄渾撃の書	雄浑击之书	雄渾擊之書	Buch des mächtigen Hiebs	Libro de Golpe potente	Livre Coup puissant	Libro di Colpo possente
+ITEM_L0588	Book of Mad Rush	猛突進の書	凶猛突击之书	猛烈衝撞之書	Buch des wahnsinnigen Rausches	Libro de Acometida descabellada	Livre Course effrénée	Libro di Carica folle
+ITEM_L0593	Book of Dia	ディアの書	迪亚之书	迪亞之書	Buch Dia	Libro de Dia	Livre Dia	Libro di Dia
+ITEM_L0594	Book of Diarama	ディアラマの書	迪亚拉玛之书	迪亞拉瑪之書	Buch Diarama	Libro de Diarama	Livre Diarama	Libro di Diarama
+ITEM_L0595	Book of Diarahan	ディアラハンの書	迪亚拉翰之书	迪亞拉翰之書	Buch Diarahan	Libro de Diarahan	Livre Diarahan	Libro di Diarahan
+ITEM_L0596	Book of Media	メ・ディアの書	梅·迪亚之书	梅．迪亞之書	Buch Media	Libro de Media	Livre Media	Libro di Media
+ITEM_L0597	Book of Patra	パトラの書	帕特拉之书	帕特拉之書	Buch Patra	Libro de Patra	Livre Patra	Libro di Patra
+ITEM_L0598	Book of Dia Aura	ディアオーラの書	迪亚场之书	迪亞奧拉之書	Buch der Dia-Aura	Libro de Aura Dia	Livre Aura Dia	Libro di Dia Aura
+ITEM_L0599	Book of Recarm	リカームの書	利卡姆之书	利卡姆之書	Buch Recarm	Libro de Recarm	Livre Recarm	Libro di Recarm
+ITEM_L0600	Book of Samarecarm	サマリカームの書	萨玛利卡姆之书	薩瑪利卡姆之書	Buch Samarecarm	Libro de Samarecarm	Livre Samarecarm	Libro di Samarecarm
+ITEM_L0601	Book of State of Bliss	至福のひとときの書	至福一刻之书	片刻的幸福時光之書	Buch der Glückseligkeit	Libro de Éxtasis	Livre Euphorie	Libro di Stato di grazia
+ITEM_L0607	Book of Tarukaja	タル・カジャの書	塔尔·卡加之书	塔爾．卡加之書	Buch Tarukaja	Libro de Tarukaja	Livre Tarukaja	Libro di Tarukaja
+ITEM_L0608	Book of Makakaja	マカ・カジャの書	玛卡·卡加之书	瑪卡．卡加之書	Buch Makakaja	Libro de Makakaja	Livre Makakaja	Libro di Makakaja
+ITEM_L0609	Book of Rakukaja	ラク・カジャの書	拉库·卡加之书	拉庫．卡加之書	Buch Rakukaja	Libro de Rakukaja	Livre Rakukaja	Libro di Rakukaja
+ITEM_L0610	Book of War Cry	雄叫びの書	咆哮之书	咆哮之書	Buch des Kriegsschreis	Libro de Grito de guerra	Livre Cri de guerre	Libro di Grido di guerra
+ITEM_L0611	Book of Makara Aura	マカラオーラの書	玛卡拉场之书	瑪卡拉奧拉之書	Buch der Makara-Aura	Libro de Aura Makara	Livre Aura Makara	Libro di Makara Aura
+ITEM_L0612	Book of Tetra Aura	テトラオーラの書	提特拉场之书	提特拉奧拉之書	Buch der Tetra-Aura	Libro de Aura Tetra	Livre Aura Tetra	Libro di Tetra Aura
+ITEM_L0613	Book of Tarukajaon	タル・カジャオンの書	塔尔·卡加翁之书	塔爾．卡加翁之書	Buch Tarukajaon	Libro de Tarukajaon	Livre Tarukajaon	Libro di Tarukajaon
+ITEM_L0614	Book of Makakajaon	マカ・カジャオンの書	玛卡·卡加翁之书	瑪卡．卡加翁之書	Buch Makakajaon	Libro de Makakajaon	Livre Makakajaon	Libro di Makakajaon
+ITEM_L0615	Book of Rakukajaon	ラク・カジャオンの書	拉库·卡加翁之书	拉庫．卡加翁之書	Buch Rakukajaon	Libro de Rakukajaon	Livre Rakukajaon	Libro di Rakukajaon
+ITEM_L0616	Book of Dekaja	デ・カジャの書	迪·卡加之书	迪．卡加之書	Buch Dekaja	Libro de Dekaja	Livre Dekaja	Libro di Dekaja
+ITEM_L0617	Book of Tetrakarn	テトラカーンの書	提特拉康之书	提特拉康之書	Buch Tetrakarn	Libro de Tetrakarn	Livre Tetrakarn	Libro di Tetrakarn
+ITEM_L0697	Book of Life Bonus	一分の活脈の書	一分活脉之书	一分活脈之書	Buch des Lebensbonus	Libro de Extra de vida	Livre Bonus de vie	Libro di Vita bonus
+ITEM_L0698	Book of Life Gain	二分の活脈の書	二分活脉之书	二分活脈之書	Buch des Lebenszugewinns	Libro de Aumento de vida	Livre Gain de vie	Libro di Vita plus
+ITEM_L0699	Book of Life Surge	三分の活脈の書	三分活脉之书	三分活脈之書	Buch des Lebensschubs	Libro de Fuente de vida	Livre Bouffée de vie	Libro di Vita extra
+ITEM_L0700	Book of Fire Boost	火炎高揚の書	火焰高昂之书	火焰激昂之書	Buch des Feuer-Boosts	Libro de Potenciación de fuego	Livre Boost feu	Libro di Potenzia fuoco
+ITEM_L0701	Book of Ice Boost	氷結高揚の書	冰冻高昂之书	冰凍激昂之書	Buch des Eis-Boosts	Libro de Potenciación de hielo	Livre Boost glace	Libro di Potenzia ghiaccio
+ITEM_L0702	Book of Elec Boost	電撃高揚の書	电击高昂之书	電擊激昂之書	Buch des Elektro-Boosts	Libro de Potenciación de electricidad	Livre Boost foudre	Libro di Potenzia elettricità
+ITEM_L0703	Book of Force Boost	衝撃高揚の書	冲击高昂之书	衝擊激昂之書	Buch des Kraftschubs	Libro de Potenciación de fuerza	Livre Boost force	Libro di Potenzia forza
+ITEM_L0704	Book of Heal Boost	回復高揚の書	恢复高昂之书	恢復激昂之書	Buch des Heilungsschubs	Libro de Potenciación de cura	Livre Boost soin	Libro di Potenzia cura
+ITEM_L0705	Book of Magic Boost	魔脈高揚の書	魔脉高昂之书	魔脈激昂之書	Buch des Magie-Boosts	Libro de Potenciación de magia	Livre Boost magie	Libro di Potenzia magia
+ITEM_L0706	Book of Mind Boost	付着高揚の書	附着高昂之书	附加激昂之書	Buch des Verstand-Boosts	Libro de Potenciación de mente	Livre Boost mental	Libro di Potenzia mente
+ITEM_L0707	Book of Resist Fire	火炎半減の書	火焰减半之书	火焰減半之書	Buch „Feuer widerstehen“	Libro de Resistir fuego	Livre Résistance feu	Libro di Resisti fuoco
+ITEM_L0708	Book of Resist Ice	氷結半減の書	冰冻减半之书	冰凍減半之書	Buch „Eis widerstehen“	Libro de Resistir hielo	Livre Résistance glace	Libro di Resisti ghiaccio
+ITEM_L0709	Book of Resist Elec	電撃半減の書	电击减半之书	電擊減半之書	Buch „Elektro widerstehen“	Libro de Resistir electricidad	Livre Résistance foudre	Libro di Resisti elettricità
+ITEM_L0710	Book of Resist Force	衝撃半減の書	冲击减半之书	衝擊減半之書	Buch „Kraft widerstehen“	Libro de Resistir fuerza	Livre Résistance force	Libro di Resisti forza
+ITEM_L0711	Book of Resist Phys	物理半減の書	物理减半之书	物理減半之書	Buch „Körp. widerstehen“	Libro de Resistir físico	Livre Résistance physique	Libro di Resisti fisico
+ITEM_L0712	Book of Halve Death	呪殺半減の書	咒杀减半之书	咒殺減半之書	Buch „Tod halbieren“	Libro de Reducir muerte	Livre Demi-mort	Libro di Dimezza morte
+ITEM_L0713	Book of Halve Mind	精神半減の書	精神减半之书	精神減半之書	Buch „Verstand halbieren“	Libro de Reducir mente	Livre Demi-mental	Libro di Dimezza mente
+ITEM_L0714	Book of Halve Mortal	即死半減の書	即死减半之书	即死減半之書	Buch „Sterblichkeit halbieren“	Libro de Reducir mortal	Livre Demi-mortel	Libro di Dimezza letalità
+ITEM_L0715	Book of Null Mortal	即死無効の書	即死无效之书	即死無效之書	Buch „Sterblichkeit annullieren“	Libro de Anular mortal	Livre Annulation mortel	Libro di Annulla letalità
+ITEM_L0716	Book of Strength Chakra	力のチャクラの書	力之脉轮之书	力之脈輪之書	Buch des Stärke-Chakras	Libro de Chakra de fuerza	Livre Chakra de force	Libro di Chakra della forza
+ITEM_L0717	Book of Magic Chakra	魔のチャクラの書	魔之脉轮之书	魔之脈輪之書	Buch des Magie-Chakras	Libro de Chakra de magia	Livre Chakra de magie	Libro di Chakra della magia
+ITEM_L0718	Book of Vitality Chakra	耐のチャクラの書	耐之脉轮之书	抗之脈輪之書	Buch des Vitalität-Chakras	Libro de Chakra de vitalidad	Livre Chakra de vitalité	Libro di Chakra della vitalità
+ITEM_L0719	Book of Luck Chakra	運のチャクラの書	运之脉轮之书	運之脈輪之書	Buch des Glücks-Chakras	Libro de Chakra de suerte	Livre Chakra de chance	Libro di Chakra della fortuna
+ITEM_L0720	Book of Agni's Blessing	アグニ開眼の書	阿耆尼开眼之书	阿耆尼開眼之書	Buch von Agnis Segen	Libro de Bendición de Agni	Livre Bénédiction d'Agni	Libro di Benedizione di Agni
+ITEM_L0721	Book of Spirit Drain	吸魔の書	吸魔之书	吸魔之書	Buch „Geist entziehen“	Libro de Absorción de espíritu	Livre Siphon spirituel	Libro di Assorbi spirito
+ITEM_L0722	Book of Retribution	死なばもろともの書	同归于尽之书	同歸於盡之書	Buch der Vergeltung	Libro de Castigo	Livre Rétribution	Libro di Castigo
+ITEM_L0723	Book of Skill Extension	ファイの時報の書	斐之报时之书	法伊的報時之書	Buch der Skill-Erweiterung	Libro de Extensión de habilidad	Livre Extension de comp.	Libro di Estendi abilità
+ITEM_L0724	Book of Sink or Swim	一か八かの書	不成功便成仁之书	孤注一擲之書	Buch „Kopfsprung“	Libro de Todo o nada	Livre Couler ou nager	Libro di Nuota o affonda
+ITEM_L0725	Book of Unrelenting Focus	会心フォーエバーの書	会心永恒之书	恆久會心之書	Buch des Gnadenlosen Fokus	Libro de Concentración constante	Livre Concentration totale	Libro della Concentrazione costante
+ITEM_L0727	Book of Endure	食いしばりの書	咬紧牙关之书	強忍之書	Buch des Aushaltens	Libro de Último aliento	Livre Résilience	Libro di Stoicismo
+ITEM_L0728	Book of Vengeance Seal	報復の狼煙の書	报复的烽火之书	報復狼煙之書	Buch des Rache-Siegels	Libro de Sello de la venganza	Livre Sceau de vengeance	Libro di Sigillo di vendetta
+ITEM_L0729	Book of Fast Escape	逃走加速の書	逃跑加速之书	加速逃走之書	Buch der schnellen Flucht	Libro de Huida rápida	Livre Fuite rapide	Libro di Fuga rapida
+ITEM_L0730	Book of Exp Boost	経験豊穣の書	经验丰盈之书	經驗豐收之書	Buch des EP-Boosts	Libro de Potenciación de EXP	Livre Boost d'expérience	Libro di Potenzia PE
+ITEM_L0731	Book of Growth	見覚えの成長の書	以看代练的成长之书	旁觀成長之書	Buch des Wachstums	Libro de Crecimiento	Livre de Croissance	Libro di Crescita
+ITEM_L0733	Book of Whimsical Aid	気まぐれ医術の書	无常医术之书	難以捉摸的醫術之書	Buch der Launischen Hilfe	Libro de Ayuda caprichosa	Livre Aide fantasque	Libro di Soccorso bizzarro
+ITEM_L0734	Book of Loose Change	ゼニ・ガットメンの書	金龟招财之书	拾金者之書	Buch des Kleingelds	Libro de Calderilla	Livre Petite monnaie	Libro di Spiccioli
+ITEM_L0735	Book of Scavenger	ヒロ右衛門の書	捡漏卫门之书	拾右衛門之書	Buch des Sammelns	Libro de Carroñero	Livre Fouineur	Libro di Recuperatore
+ITEM_L0736	???	？？？	？？？	？？？	???	¿?	???	???
+ITEM_L0737	???	？？？	？？？	？？？	???	¿?	???	???
+ITEM_L0738	???	？？？	？？？	？？？	???	¿?	???	???
+ITEM_L0739	???	？？？	？？？	？？？	???	¿?	???	???
+ITEM_L0740	Book of Money Find	金銭加増の書	金钱增加之书	金錢增加之書	Buch „Geld finden“	Libro de Buscadinero	Livre Découverte d'argent	Libro di Trova denaro
+ITEM_L0741	Book of Item Find	宝珠加増の書	宝珠增加之书	寶珠增加之書	Buch „Item finden“	Libro de Buscaobjetos	Livre Découverte d'objet	Libro di Trova oggetto
+ITEM_L0742	Book of Devotion	憧れのキミの書	爱慕之人之书	憧憬的你之書	Buch der Hingabe	Libro de Devoción	Livre Dévotion	Libro di Devozione
+ITEM_L0752	Thin Grimoire	魔導書・薄	魔导书·薄	魔導書．薄	Dünnes Grimoire	Grimorio fino	Petit grimoire	Grimorio sottile
+ITEM_L0753	Thick Grimoire	魔導書・厚	魔导书·厚	魔導書．厚	Dickes Grimoire	Grimorio grueso	Grand grimoire	Grimorio spesso
+ITEM_L0760	???	？？？	？？？	？？？	???	¿?	???	???

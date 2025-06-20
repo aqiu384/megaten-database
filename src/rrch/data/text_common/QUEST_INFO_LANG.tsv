@@ -1,0 +1,25 @@
+id	EN
+QUEST_INFO_L0000	Case file load increased.
+QUEST_INFO_L0001	Case file complete!
+QUEST_INFO_L0002	Obtained <COLOR 4><V 0><COLOR 0> x<V 1>!
+QUEST_INFO_L0003	Obtained <COLOR 4><V 0> yen<COLOR 0>!
+QUEST_INFO_L0004	Earned <COLOR 4><V 0> EXP<COLOR 0>!
+QUEST_INFO_L0005	Received <COLOR 4><V 0> Loyalty<COLOR 0>!
+QUEST_INFO_L0006	<COLOR 4><V 0><COLOR 0> capacity is already full...
+QUEST_INFO_L0008	No case files nearby.
+QUEST_INFO_L0009	The treasure hoard can now be reached by riding the Big Tarrasque.
+QUEST_INFO_L0010	Hayataro of the <DEP_03>Volt Order has been unlocked for fusion!
+QUEST_INFO_L0011	Yoshitsune of the <DEP_05>Fury Order has been unlocked for fusion!
+QUEST_INFO_L0012	Kudan of the <DEP_07>Skill Order has been unlocked for fusion!
+QUEST_INFO_L0013	Alice of the <DEP_06>Pagan Order has been unlocked for fusion!
+QUEST_INFO_L0014	Mot of the <DEP_06>Pagan Order has been unlocked for fusion!
+QUEST_INFO_L0015	Belphegor of the <DEP_07>Skill Order has been unlocked for fusion!
+QUEST_INFO_L0016	Beelzebub of the <DEP_06>Pagan Order has been unlocked for fusion!
+QUEST_INFO_L0017	Asura of the <DEP_01>Pyro Order has been unlocked for fusion!
+QUEST_INFO_L0018	Raiho of the <DEP_02>Frost Order has been unlocked for fusion!
+QUEST_INFO_L0019	Sword Skill capacity has been increased to 7!
+QUEST_INFO_L0020	Sword Skill capacity has been increased to 8!
+QUEST_INFO_L0021	> The maximum capacity has already been reached...
+QUEST_INFO_L0022	> Raidou obtained <COLOR 4><V 0><COLOR 0> x<V 1>.
+QUEST_INFO_L0023	> Raidou obtained <COLOR 4><V 0> yen<COLOR 0>.
+QUEST_INFO_L0024	Select a demon to hand over.

@@ -1,0 +1,353 @@
+ailmentNames:
+  inputPath: data/text_common/temp/BADST_{}.asset
+  outputPath: data/text_common/BADST_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+caseFileNames:
+  inputPath: data/text_common/temp/QUEST_TITLE_{}.asset
+  outputPath: data/text_common/QUEST_TITLE_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+caseFileUnlocks:
+  inputPath: data/text_common/temp/QUEST_INFO_{}.asset
+  outputPath: data/text_common/QUEST_INFO_LANG.tsv
+  languages: ["EN"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+demonNames:
+  inputPath: data/text_common/temp/DEVIL_{}.asset
+  outputPath: data/text_common/DEVIL_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+elementNames:
+  inputPath: data/text_common/temp/AISYO_{}.asset
+  outputPath: data/text_common/AISYO_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+investigateSkillNames:
+  inputPath: data/text_common/temp/MAPSKIL_{}.asset
+  outputPath: data/text_common/MAPSKIL_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+itemEffects:
+  inputPath: data/text_common/temp/ITEMHELP_{}.asset
+  outputPath: data/text_common/ITEMHELP_LANG.tsv
+  languages: ["EN"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+itemNames:
+  inputPath: data/text_common/temp/ITEM_{}.asset
+  outputPath: data/text_common/ITEM_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+raceNames:
+  inputPath: data/text_common/temp/RACE_{}.asset
+  outputPath: data/text_common/RACE_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+skillEffects:
+  inputPath: data/text_common/temp/SKILLHELP_{}.asset
+  outputPath: data/text_common/SKILLHELP_LANG.tsv
+  languages: ["EN"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+skillNames:
+  inputPath: data/text_common/temp/SKILL_{}.asset
+  outputPath: data/text_common/SKILL_LANG.tsv
+  languages: ["EN", "JA", "ZH", "CH", "DE", "ES", "FR", "IT"]
+  nullValues: ["ER100"]
+  rowLocationNesting: ["MonoBehaviour", "_TextMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+confineDrops:
+  inputPath: data/battle/temp/sb_devilhuumaitem.json
+  outputPath: data/battle/sb_devilhuuumaitem.tsv
+  rowLocationNesting: ["m_Structure", "_devilhuumaitem"]
+  colFormat:
+    gageNo:
+    failureRitu:
+    failureKind:
+    failureNum:
+    getItem:
+      datatype: stringList
+      length: 5
+      key: getItem
+    getRitu:
+      datatype: stringList
+      length: 5
+      key: getRitu
+demonData:
+  inputPath: data/battle/temp/sb_devilformat.json
+  outputPath: data/battle/sb_devilformat.tsv
+  rowLocationNesting: ["m_Structure", "_devilformat"]
+  colFormat:
+    stflg:
+    exsts:
+    level:
+    minorno:
+    minorno_d:
+    bunriid:
+    aishou:
+    kuda_id:
+    seikaku:
+    magcost:
+    atkpower:
+    actcounter:
+    hp:
+    maxhp:
+    mp:
+    maxmp:
+    str:
+    vit:
+    tec:
+    luck:
+    haveskill:
+      datatype: stringList
+      length: 16
+      key: skill
+    memskill:
+      datatype: objectList
+      length: 2
+      format:
+        level: memskilllevel
+        skill: memskillid
+    setmotionno:
+    keisyo_type:
+    keisyo_form:
+    getexp:
+    getmoney:
+    getmag:
+    getchuusei:
+    item:
+      datatype: objectList
+      length: 4
+      format:
+        itemid: itemid
+        para: itempara
+        per: itemper
+    frid_area_r:
+    enmy_area_r:
+    kucyo:
+    huumaID:
+    level_sa:
+    damage_per:
+    talkskill:
+    character:
+    mskskill:
+    boudbgn:
+    attrinvtime:
+    vice_val:
+    weak_shild_count:
+    weak_shild_config:
+    atk_raito:
+    s_wince:
+    l_wince:
+goumadenDemonOrder:
+  inputPath: data/goh_src/temp/gohDevilNameSortTbl.json
+  outputPath: data/goh_src/gohDevilNameSortTbl.tsv
+  rowLocationNesting: ["m_Structure", "nameIdList"]
+  colFormat:
+    name:
+    devilId:
+    nameId:
+      datatype: stringList
+      length: 13
+      key: nameId
+goumadenDemonUnlocks:
+  inputPath: data/goh_src/temp/gohEventDevilTbl.json
+  outputPath: data/goh_src/gohEventDevilTbl.tsv
+  rowLocationNesting: ["m_Structure", "_gohEventDevilTbl"]
+  colFormat:
+    Flag:
+    DevilID:
+    Type:
+itemData:
+  inputPath: data/battle/temp/sb_itemtbl.json
+  outputPath: data/battle/sb_itemtbl.tsv
+  rowLocationNesting: ["m_Structure", "_itemtbl"]
+  colFormat:
+    usetype:
+    flg:
+    side:
+    type:
+    sklid:
+    gold:
+    max_num:
+    iconType:
+    sortid:
+    sortSub:
+    sortKon:
+    sortMasyou:
+levelupGifts:
+  inputPath: data/datatbl/temp/RstLvUpDevilGiftTbl.json
+  outputPath: data/datatbl/RstLvUpDevilGiftTbl.tsv
+  rowLocationNesting: ["m_Structure", "giftList"]
+  colFormat:
+    ItemID:
+    Rate:
+    Level:
+    NumMax:
+skillData:
+  inputPath: data/battle/temp/sb_skilltbl.json
+  outputPath: data/battle/sb_skilltbl.tsv
+  rowLocationNesting: ["m_Structure", "_skilltbl"]
+  colFormat:
+    s_type:
+    para:
+    attr:
+    attrtime:
+    transfer:
+    type:
+    area:
+    useflg:
+    count:
+    flg:
+    n0:
+    n1:
+    max_damage:
+    muteki_time:
+    badst:
+    percentage:
+    para2:
+    equipID:
+    hitbk_cnt:
+    hitbk_rate:
+    flg2:
+    weapontype:
+    fuyoeff:
+    shild_dmg:
+    light_attack_mag:
+    sortId:
+    sortType:
+    coolTime:
+    wincePow:
+resistData:
+  inputPath: data/battle/temp/sb_aisyotbl.json
+  outputPath: data/battle/sb_aisyotbl.tsv
+  rowLocationNesting: ["m_Structure", "_aisyotbl"]
+  colFormat:
+    para:
+      datatype: stringList
+      length: 16
+      key: resist
+questData:
+  inputPath: data/quest_data/temp/QuestDataTable.json
+  outputPath: data/quest_data/QuestDataTable.tsv
+  rowLocationNesting: ["m_Structure", "_arrQuest"]
+  colFormat:
+    ID:
+    type:
+    stFlag:
+      datatype: stringList
+      length: 4
+      key: stFlag
+    edFlag:
+      datatype: stringList
+      length: 4
+      key: edFlag
+    nItemID:
+      datatype: stringList
+      length: 5
+      key: nItemID
+    nItemNum:
+      datatype: stringList
+      length: 5
+      key: nItemNum
+    nDevilID:
+      datatype: stringList
+      length: 3
+      key: nDevilID
+    nKatana:
+      datatype: stringList
+      length: 6
+      key: nKatana
+    encountID:
+      datatype: stringList
+      length: 3
+      key: encountID
+    rItemID:
+      datatype: stringList
+      length: 5
+      key: rItemID
+    rItemNum:
+      datatype: stringList
+      length: 5
+      key: rItemNum
+    rDevilFlag:
+      datatype: stringList
+      length: 2
+      key: rDevilFlag
+    rMoney:
+    rKatana:
+    category:
+weaponData:
+  inputPath: data/battle/temp/sb_weapontbl.json
+  outputPath: data/battle/sb_weapontbl.tsv
+  rowLocationNesting: ["m_Structure", "_weapontbl"]
+  colFormat:
+    m_atk:
+    m_type:
+    m_paraBns:
+      datatype: stringDict
+      format:
+        hp: hp
+        maxhp: maxhp
+        mp: mp
+        maxmp: maxmp
+        str: str
+        vit: vit
+        tec: tec
+        luck: luck
+    m_hojo:
+    BaseItem:
+      datatype: stringList
+      length: 7
+      key: BaseItem
+    Material:
+      datatype: objectList
+      length: 4
+      format:
+        Item: MaterialID
+        Num: MaterialNum
+    gold:
+    effectcolor:
+    treeStage:
+    branchNo:

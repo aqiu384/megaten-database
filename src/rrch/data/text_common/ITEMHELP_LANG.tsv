@@ -1,0 +1,328 @@
+id	EN
+ITEMHELP_L0001	Restores 120 HP to 1 ally. Can carry 99.
+ITEMHELP_L0002	Restores 350 HP to 1 ally. Can carry 12.
+ITEMHELP_L0003	Restores 25% of max HP to 1 ally. Can carry 24.
+ITEMHELP_L0004	Restores 60% of max HP to 1 ally, with side effects. Can carry 12.
+ITEMHELP_L0005	Restores full HP to 1 ally. Can carry 9.
+ITEMHELP_L0006	Restores full HP to party. Can carry 9.
+ITEMHELP_L0007	Moderately restores Raidou's MAG. Can carry 30.
+ITEMHELP_L0008	Fully restores Raidou's MAG. Can carry 30.
+ITEMHELP_L0009	(Data for downloadable content not found.)
+ITEMHELP_L0012	Fully restores Raidou's HP and MAG. Can carry 9.
+ITEMHELP_L0013	Cures Poison for 1 ally. Can carry 9.
+ITEMHELP_L0014	Cures Mute for 1 ally. Can carry 9.
+ITEMHELP_L0015	Cures Stone for 1 ally. Can carry 9.
+ITEMHELP_L0016	Cures Sleep, Confuse, Charm, Dizzy, or Rage for 1 ally. Can carry 9.
+ITEMHELP_L0017	Revives a demon with slightly restored HP. Can carry 9.
+ITEMHELP_L0018	Revives a demon with fully restored HP. Can carry 9.
+ITEMHELP_L0019	Increases Strength by 1 for 1 ally. Can carry 99.
+ITEMHELP_L0020	Increases Magic by 1 for 1 ally. Can carry 99.
+ITEMHELP_L0021	Increases Vitality by 1 for 1 ally. Can carry 99.
+ITEMHELP_L0022	Increases Luck by 1 for 1 ally. Can carry 99.
+ITEMHELP_L0023	Slightly increases a demon's Loyalty. Can carry 99.
+ITEMHELP_L0024	Moderately increases a Pyro Order demon's Loyalty. Can carry 99.
+ITEMHELP_L0025	Moderately increases a Frost Order demon's Loyalty. Can carry 99.
+ITEMHELP_L0026	Moderately increases a Volt Order demon's Loyalty. Can carry 99.
+ITEMHELP_L0027	Moderately increases a Wind Order demon's Loyalty. Can carry 99.
+ITEMHELP_L0028	Moderately increases a Fury Order demon's Loyalty. Can carry 99.
+ITEMHELP_L0029	Moderately increases a Pagan Order demon's Loyalty. Can carry 99.
+ITEMHELP_L0030	Moderately increases a Skill Order demon's Loyalty. Can carry 99.
+ITEMHELP_L0031	Moderately increases a demon's Loyalty. Can carry 99.
+ITEMHELP_L0032	Greatly increases a demon's Loyalty. Can carry 99.
+ITEMHELP_L0034	Increases encounter rate until the next new moon. Can carry 99.
+ITEMHELP_L0035	Decreases encounter rate until the next new moon. Can carry 99.
+ITEMHELP_L0036	A grass toy that is irresistible to cats. Can carry 99.
+ITEMHELP_L0038	Enables instant escape from battle. Can carry 9.
+ITEMHELP_L0039	A talisman said to expel evil. Can carry 9.
+ITEMHELP_L0064	An ornately carved piece. Fetches a high price. Can carry 99.
+ITEMHELP_L0065	Made of a special alloy. Fetches a high price. Can carry 99.
+ITEMHELP_L0066	An ancient wine cup. Fetches a high price. Can carry 99.
+ITEMHELP_L0067	A carving of a sacred bird. Fetches a high price. Can carry 99.
+ITEMHELP_L0068	Engraved with a portrait. Fetches a high price. Can carry 99.
+ITEMHELP_L0069	Rare, shining pottery. Fetches a high price. Can carry 99.
+ITEMHELP_L0070	Was once widely used. Fetches a high price. Can carry 99.
+ITEMHELP_L0071	An ivory statue. Fetches a high price. Can carry 99.
+ITEMHELP_L0072	Contains lost knowledge. Fetches a high price. Can carry 99.
+ITEMHELP_L0073	Made of shimmering gold. Fetches a high price. Can carry 99.
+ITEMHELP_L0074	A rare insect. Can carry 99.
+ITEMHELP_L0075	Popular among children. Can carry 99.
+ITEMHELP_L0076	A popular bar snack. Demons enjoy it too. Can carry 99.
+ITEMHELP_L0077	A plain old twig. There's no use for it. Can carry 99.
+ITEMHELP_L0078	A garment favored by virgins long ago. Can carry 99.
+ITEMHELP_L0128	Increases Strength by 3 until the next new moon.
+ITEMHELP_L0129	Increases Magic by 3 until the next new moon.
+ITEMHELP_L0130	Increases Vitality by 3 until the next new moon.
+ITEMHELP_L0131	Increases Luck by 3 until the next new moon.
+ITEMHELP_L0132	Restores 30% of max HP.
+ITEMHELP_L0133	Increases Strength and Vitality by 3 until the next new moon.
+ITEMHELP_L0134	Increases Magic and Luck by 3 until the next new moon.
+ITEMHELP_L0135	Increases Strength by 5 until the next new moon.
+ITEMHELP_L0136	Increases Magic by 5 until the next new moon.
+ITEMHELP_L0137	Increases Vitality by 5 until the next new moon.
+ITEMHELP_L0138	Increases Luck by 5 until the next new moon.
+ITEMHELP_L0139	Restores full HP.
+ITEMHELP_L0140	Increases money earned from battles until the next new moon.
+ITEMHELP_L0141	Increases items dropped from battles until the next new moon.
+ITEMHELP_L0142	Increases Strength, Magic, Vitality, and Luck by 5 until the next new moon.
+ITEMHELP_L0145	Attack 100 | Ma +1
+ITEMHELP_L0146	Attack 150 | Vi +1 | Ma +1
+ITEMHELP_L0147	Attack 150 | Ma +1 | Lu +1
+ITEMHELP_L0148	Attack 150 | St +2
+ITEMHELP_L0149	Attack 180 | Ma +1 | Vi +1 | Lu +1
+ITEMHELP_L0150	Attack 180 | Ma +2 | Lu +1
+ITEMHELP_L0151	Attack 180 | St +3
+ITEMHELP_L0152	Attack 210 | Ma +1 | Vi +2 | Lu +1
+ITEMHELP_L0153	Attack 210 | Ma +2 | Lu +2
+ITEMHELP_L0154	Attack 210 | HP +10 | St +3
+ITEMHELP_L0155	Attack 240 | Ma +2 | Vi +2 | Lu +1
+ITEMHELP_L0156	Attack 240 | Ma +1 | Vi +3 | Lu +1
+ITEMHELP_L0157	Attack 240 | Ma +2 | Lu +3
+ITEMHELP_L0158	Attack 255 | Ma +3 | Lu +2
+ITEMHELP_L0159	Attack 240 | HP +20 | St +3
+ITEMHELP_L0160	Attack 240 | HP +10 | St +4
+ITEMHELP_L0161	Attack 270 | Ma +3 | Vi +2 | Lu +2
+ITEMHELP_L0162	Attack 270 | Ma +2 | Vi +3 | Lu +2
+ITEMHELP_L0163	Attack 270 | Ma +3 | Lu +4
+ITEMHELP_L0164	Attack 300 | Ma +5 | Lu +4
+ITEMHELP_L0165	Attack 270 | HP +30 | St +4
+ITEMHELP_L0166	Attack 270 | HP +20 | St +5
+ITEMHELP_L0167	Attack 300 | Ma +4 | Vi +3 | Lu +2
+ITEMHELP_L0168	Attack 300 | Ma +3 | Vi +4 | Lu +2
+ITEMHELP_L0169	Attack 340 | St +2 | Ma +5 | Vi +4 | Lu +2
+ITEMHELP_L0170	Attack 300 | Ma +4 | Lu +5
+ITEMHELP_L0171	Attack 300 | Ma +5 | Lu +4
+ITEMHELP_L0172	Attack 330 | Ma +5 | Lu +6
+ITEMHELP_L0173	Attack 300 | HP +30 | St +5 | Ma +1
+ITEMHELP_L0174	Attack 300 | HP +20 | St +6 | Ma +1
+ITEMHELP_L0175	Attack 340 | HP +30 | St +7 | Lu +3
+ITEMHELP_L0176	Attack 330 | St +1 | Ma +4 | Vi +3 | Lu +3
+ITEMHELP_L0177	Attack 330 | St +1 | Ma +3 | Vi +4 | Lu +3
+ITEMHELP_L0178	Attack 360 | Ma +6 | Lu +7
+ITEMHELP_L0179	Attack 330 | Ma +6 | Lu +5
+ITEMHELP_L0180	Attack 330 | HP +30 | St +6 | Ma +2
+ITEMHELP_L0181	Attack 330 | HP +20 | St +7 | Ma +2
+ITEMHELP_L0182	Attack 360 | St +2 | Ma +3 | Vi +5 | Lu +3
+ITEMHELP_L0183	Attack 360 | Ma +7 | Lu +6
+ITEMHELP_L0184	Attack 360 | HP +30 | St +8 | Ma +2
+ITEMHELP_L0188	Attack 200 | St +1 | Ma +1 | Vi +1 | Lu +1
+ITEMHELP_L0189	Attack 270 | St +2 | Ma +2 | Vi +2 | Lu +2
+ITEMHELP_L0190	Attack 340 | St +3 | Ma +3 | Vi +3 | Lu +3
+ITEMHELP_L0191	Attack 410 | St +4 | Ma +4 | Vi +4 | Lu +4
+ITEMHELP_L0194	Attack 360 | HP +40 | St +7 | Ma +2
+ITEMHELP_L0195	Attack 360 | St +2 | Ma +5 | Vi +3 | Lu +3
+ITEMHELP_L0196	Attack 340 | St +4 | Ma +4 | Vi +4 | Lu +4
+ITEMHELP_L0272	A crystallized Pyro Order demon soul. Low value. Can carry 99.
+ITEMHELP_L0273	A crystallized Pyro Order demon soul. Moderate value. Can carry 99.
+ITEMHELP_L0274	A crystallized Pyro Order demon soul. High value. Can carry 99.
+ITEMHELP_L0275	A crystallized Pyro Order demon soul. Immense value. Can carry 99.
+ITEMHELP_L0279	A crystallized Frost Order demon soul. Low value. Can carry 99.
+ITEMHELP_L0280	A crystallized Frost Order demon soul. Moderate value. Can carry 99.
+ITEMHELP_L0281	A crystallized Frost Order demon soul. High value. Can carry 99.
+ITEMHELP_L0282	A crystallized Frost Order demon soul. Immense value. Can carry 99.
+ITEMHELP_L0286	A crystallized Volt Order demon soul. Low value. Can carry 99.
+ITEMHELP_L0287	A crystallized Volt Order demon soul. Moderate value. Can carry 99.
+ITEMHELP_L0288	A crystallized Volt Order demon soul. High value. Can carry 99.
+ITEMHELP_L0289	A crystallized Volt Order demon soul. Immense value. Can carry 99.
+ITEMHELP_L0293	A crystallized Wind Order demon soul. Low value. Can carry 99.
+ITEMHELP_L0294	A crystallized Wind Order demon soul. Moderate value. Can carry 99.
+ITEMHELP_L0295	A crystallized Wind Order demon soul. High value. Can carry 99.
+ITEMHELP_L0296	A crystallized Wind Order demon soul. Immense value. Can carry 99.
+ITEMHELP_L0300	A crystallized Fury Order demon soul. Low value. Can carry 99.
+ITEMHELP_L0301	A crystallized Fury Order demon soul. Moderate value. Can carry 99.
+ITEMHELP_L0302	A crystallized Fury Order demon soul. High value. Can carry 99.
+ITEMHELP_L0303	A crystallized Fury Order demon soul. Immense value. Can carry 99.
+ITEMHELP_L0307	A crystallized Pagan Order demon soul. Low value. Can carry 99.
+ITEMHELP_L0308	A crystallized Pagan Order demon soul. Moderate value. Can carry 99.
+ITEMHELP_L0309	A crystallized Pagan Order demon soul. High value. Can carry 99.
+ITEMHELP_L0310	A crystallized Pagan Order demon soul. Immense value. Can carry 99.
+ITEMHELP_L0311	A charm used to protect the wearer during rituals. Can carry 99.
+ITEMHELP_L0314	A crystallized Skill Order demon soul. Low value. Can carry 99.
+ITEMHELP_L0315	A crystallized Skill Order demon soul. Moderate value. Can carry 99.
+ITEMHELP_L0316	A crystallized Skill Order demon soul. High value. Can carry 99.
+ITEMHELP_L0317	A crystallized Skill Order demon soul. Immense value. Can carry 99.
+ITEMHELP_L0321	High-tech material from a foreign country. Can carry 99.
+ITEMHELP_L0322	A chemical substance that glows silvery white. Can carry 99.
+ITEMHELP_L0323	A rock fragment that fell from the heavens. Can carry 99.
+ITEMHELP_L0324	A burning crystal imbued with Homusubi's power. Can carry 99.
+ITEMHELP_L0325	An ancient ore containing divine flame. Can carry 99.
+ITEMHELP_L0326	A magatama containing lunar power. Can carry 99.
+ITEMHELP_L0327	Received from the White Rider. Can carry 99.
+ITEMHELP_L0328	Received from the Red Rider. Can carry 99.
+ITEMHELP_L0329	A mysterious material that signifies truth. Can carry 99.
+ITEMHELP_L0330	A legendary stone that drains life force. Can carry 99.
+ITEMHELP_L0331	A rare mineral only found on Onogoro Island. Can carry 99.
+ITEMHELP_L0332	A divine mirror containing the sun's power. Can carry 99.
+ITEMHELP_L0335	A black symbol of disaster possessed by a Fiend. Can carry 99.
+ITEMHELP_L0336	A pale symbol of disaster possessed by a Fiend. Can carry 99.
+ITEMHELP_L0337	A mystic, star-shaped crest. Can carry 99.
+ITEMHELP_L0400	A brooch dropped by the kidnapped girl.
+ITEMHELP_L0401	A photo of Kaya Daidouji.
+ITEMHELP_L0402	Kaya Daidouji's diary.
+ITEMHELP_L0403	A worn-out old charm.
+ITEMHELP_L0404	A piece of a rickshaw handle.
+ITEMHELP_L0405	Tiles used for mahjong.
+ITEMHELP_L0406	Tiles used for mahjong.
+ITEMHELP_L0407	Items used for mahjong.
+ITEMHELP_L0408	Tiles used for mahjong.
+ITEMHELP_L0409	Items used for mahjong.
+ITEMHELP_L0410	Allows the holder to ride the streetcars for free.
+ITEMHELP_L0411	A cuff link from the head of the Daidouji household.
+ITEMHELP_L0412	The ring Elfman gave to the owner of Ryugu.
+ITEMHELP_L0413	The camera that Tae is always carrying around.
+ITEMHELP_L0414	The goods Narumi ordered from Konnou-ya.
+ITEMHELP_L0415	One of the three prisms. Represents earth.
+ITEMHELP_L0416	One of the three prisms. Represents fire.
+ITEMHELP_L0417	One of the three prisms. Represents water.
+ITEMHELP_L0418	Yatagarasu's sacred treasure.
+ITEMHELP_L0419	A tool used to open locks. Use responsibly.
+ITEMHELP_L0420	A cold, sweet dessert.
+ITEMHELP_L0421	A useful ingredient for making sweets and confectionaries.
+ITEMHELP_L0422	A shard that seems fixable.
+ITEMHELP_L0423	A shard that seems fixable.
+ITEMHELP_L0424	A shard that seems fixable.
+ITEMHELP_L0425	A gem used to break the seal at the factory.
+ITEMHELP_L0426	Portions of food for foxes.
+ITEMHELP_L0428	A sword used for awakening the guardian of the Earth Prism.
+ITEMHELP_L0429	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0430	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0431	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0432	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0433	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0434	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0435	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0436	Sadakichi's report on the Super Soldier Project.
+ITEMHELP_L0437	An ocean-blue gem.
+ITEMHELP_L0438	A blood-red gem.
+ITEMHELP_L0439	Wine from Provence, France.
+ITEMHELP_L0440	An old flute used to call the Big Tarrasque.
+ITEMHELP_L0441	A full-bodied beer that seems to have been made very long ago.
+ITEMHELP_L0442	Someone has taken a swig of this already, but the Big Tarrasque might enjoy it.
+ITEMHELP_L0443	A book prophesying many disasters.
+ITEMHELP_L0444	A staff that emits ominous energy.
+ITEMHELP_L0445	A cloak and hat Detective Kazama used to wear.
+ITEMHELP_L0446	A mirror that reveals demons' abilities.
+ITEMHELP_L0447	Proof of one's worthiness to meet the Demon Lord.
+ITEMHELP_L0448	Proof of one's worthiness to meet the Demon Lord.
+ITEMHELP_L0449	Proof of one's worthiness to meet the Demon Lord.
+ITEMHELP_L0450	Contains all the details of the Super Soldier Project.
+ITEMHELP_L0451	The photo Tae snapped of the Red Cape.
+ITEMHELP_L0452	A photo of the eloped Shizu.
+ITEMHELP_L0453	The cane that Kiyoshi always carried with him.
+ITEMHELP_L0454	A photo of Tae and an Army soldier slipping into the Dark Realm.
+ITEMHELP_L0455	A commemorative gift for purging all Aril Rifts in the Capital.
+ITEMHELP_L0456	A toy made of innovative materials for the modern era.
+ITEMHELP_L0457	A Tokyo-style luxury eel.
+ITEMHELP_L0512	A strange tome that teaches a demon <SKL_09>Agi (Light Fire attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0513	A strange tome that teaches a demon <SKL_09>Agidyne (Heavy Fire attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0514	A strange tome that teaches a demon <SKL_09>Maragi (Medium Fire attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0515	A strange tome that teaches a demon <SKL_09>Maragidyne (Heavy Fire attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0516	A strange tome that teaches a demon <SKL_09>Blaze (Medium Fire attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0517	A strange tome that teaches a demon <SKL_09>Hellfire (Heavy Fire attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0518	A strange tome that teaches a demon <SKL_09>Fire Breath (Light Fire attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0519	A strange tome that teaches a demon <SKL_09>Agirati (Light Fire attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0525	A strange tome that teaches a demon <SKL_10>Bufu (Light Ice attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0526	A strange tome that teaches a demon <SKL_10>Bufudyne (Heavy Ice attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0527	A strange tome that teaches a demon <SKL_10>Mabufu (Medium Ice attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0528	A strange tome that teaches a demon <SKL_10>Mabufudyne (Heavy Ice attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0529	A strange tome that teaches a demon <SKL_10>Cocytus (Heavy Ice attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0530	A strange tome that teaches a demon <SKL_10>Glacial Blast (Light Ice attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0531	A strange tome that teaches a demon <SKL_10>Frostbite (Medium Ice attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0532	A strange tome that teaches a demon <SKL_10>Bufurati (Light Ice attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0538	A strange tome that teaches a demon <SKL_11>Zio (Light Electric attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0539	A strange tome that teaches a demon <SKL_11>Ziodyne (Heavy Electric attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0540	A strange tome that teaches a demon <SKL_11>Mazio (Medium Electric attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0541	A strange tome that teaches a demon <SKL_11>Maziodyne (Heavy Electric attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0542	A strange tome that teaches a demon <SKL_11>Spark (Medium Electric attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0543	A strange tome that teaches a demon <SKL_11>Bolt Storm (Heavy Electric attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0544	A strange tome that teaches a demon <SKL_11>Shock Wave (Light Electric attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0545	A strange tome that teaches a demon <SKL_11>Ziorati (Light Electric attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0551	A strange tome that teaches a demon <SKL_12>Zan (Light Force attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0552	A strange tome that teaches a demon <SKL_12>Zandyne (Heavy Force attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0553	A strange tome that teaches a demon <SKL_12>Mazan (Medium Force attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0554	A strange tome that teaches a demon <SKL_12>Mazandyne (Heavy Force attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0555	A strange tome that teaches a demon <SKL_12>Tempest (Heavy Force attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0556	A strange tome that teaches a demon <SKL_12>Wind Cutter (Light Force attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0557	A strange tome that teaches a demon <SKL_12>Flurry (Medium Force attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0558	A strange tome that teaches a demon <SKL_12>Zanrati (Light Force attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0564	A strange tome that teaches a demon <SKL_13>Mudo (Death attack to 1 target | Halves target's HP | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0565	A strange tome that teaches a demon <SKL_13>Mamudo (Death attack to a medium area around self | Halves target's HP | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0566	A strange tome that teaches a demon <SKL_13>Mamudoon (Death attack to a medium area around self | Moderate chance to instakill | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0572	A strange tome that teaches a demon <SKL_14>Marin Karin (Light Mind attack to a medium area around self | Moderate chance to inflict Charm | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0573	A strange tome that teaches a demon <SKL_14>Dormina (Light Mind attack to a medium area around self | Moderate chance to inflict Sleep | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0574	A strange tome that teaches a demon <SKL_14>Pulinpa (Light Mind attack to a medium area around self | Moderate chance to inflict Confuse | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0575	A strange tome that teaches a demon <SKL_14>Makajam (Light Mind attack to a medium area around self | Moderate chance to inflict Mute | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0576	A strange tome that teaches a demon <SKL_14>Petra (Light Mind attack to a medium area around self | Low chance to inflict Stone | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0582	A strange tome that teaches a demon <SKL_07>Combo (Light Physical attack to 1 target | Multi-hit | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0583	A strange tome that teaches a demon <SKL_07>Venomstrike (Medium Physical attack to 1 target | Moderate chance to inflict Poison | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0584	A strange tome that teaches a demon <SKL_07>Winged Fury (Medium Physical attack in an arc | Ignores resistances | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0585	A strange tome that teaches a demon <SKL_07>Berserker (Heavy Physical attack to 1 target | Moderate chance to inflict Rage | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0586	A strange tome that teaches a demon <SKL_07>Frenzy (Medium Physical attack to a large area around self | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0587	A strange tome that teaches a demon <SKL_07>Mighty Blow (Heavy Physical attack to 1 target | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0588	A strange tome that teaches a demon <SKL_07>Mad Rush (Light Physical attack | Multi-hit | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0593	A strange tome that teaches a demon <SKL_16>Dia (Slightly restores HP to 1 ally | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0594	A strange tome that teaches a demon <SKL_16>Diarama (Moderately restores HP to 1 ally | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0595	A strange tome that teaches a demon <SKL_16>Diarahan (Fully restores HP to 1 ally | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0596	A strange tome that teaches a demon <SKL_16>Media (Slightly restores HP to party | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0597	A strange tome that teaches a demon <SKL_16>Patra (Heals ailments except Stun and other special ailments | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0598	A strange tome that teaches a demon <SKL_16>Dia Aura (Temporarily grants light HP regeneration for 1 ally | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0599	A strange tome that teaches a demon <SKL_16>Recarm (Revives 1 ally with slightly restored HP | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0600	A strange tome that teaches a demon <SKL_16>Samarecarm (Revives 1 ally with fully restored HP | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0601	A strange tome that teaches a demon <SKL_16>State of Bliss (Temporarily grants moderate HP regeneration for 1 ally | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0607	A strange tome that teaches a demon <SKL_01>Tarukaja (Raises physical attack power of party until battle ends | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0608	A strange tome that teaches a demon <SKL_01>Makakaja (Raises magic attack power of party until battle ends | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0609	A strange tome that teaches a demon <SKL_01>Rakukaja (Raises defense power of party until battle ends | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0610	A strange tome that teaches a demon <SKL_01>War Cry (Temporarily greatly raises physical attack power of party | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0611	A strange tome that teaches a demon <SKL_01>Makara Aura (Temporarily greatly raises magic defense power of party | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0612	A strange tome that teaches a demon <SKL_01>Tetra Aura (Temporarily greatly raises physical defense power of party | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0613	A strange tome that teaches a demon <SKL_01>Tarukajaon (Greatly raises physical attack power of party until battle ends | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0614	A strange tome that teaches a demon <SKL_01>Makakajaon (Greatly raises magic attack power of party until battle ends | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0615	A strange tome that teaches a demon <SKL_01>Rakukajaon (Greatly raises defense power of party until battle ends | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0616	A strange tome that teaches a demon <SKL_01>Dekaja (Dispels stat buffs on all foes | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0617	A strange tome that teaches a demon <SKL_01>Tetrakarn (Temporarily repels physical attacks against party | MAG: <V 1>). Can carry 99.
+ITEMHELP_L0697	A strange tome that teaches a demon <SKL_06>Life Bonus (Increases max HP by 10%). Can carry 99.
+ITEMHELP_L0698	A strange tome that teaches a demon <SKL_06>Life Gain (Increases max HP by 20%). Can carry 99.
+ITEMHELP_L0699	A strange tome that teaches a demon <SKL_06>Life Surge (Increases max HP by 30%). Can carry 99.
+ITEMHELP_L0700	A strange tome that teaches a demon <SKL_06>Fire Boost (Boosts Fire attack power). Can carry 99.
+ITEMHELP_L0701	A strange tome that teaches a demon <SKL_06>Ice Boost (Boosts Ice attack power). Can carry 99.
+ITEMHELP_L0702	A strange tome that teaches a demon <SKL_06>Elec Boost (Boosts Electric attack power). Can carry 99.
+ITEMHELP_L0703	A strange tome that teaches a demon <SKL_06>Force Boost (Boosts Force attack power). Can carry 99.
+ITEMHELP_L0704	A strange tome that teaches a demon <SKL_06>Heal Boost (Boosts effectiveness of healing skills). Can carry 99.
+ITEMHELP_L0705	A strange tome that teaches a demon <SKL_06>Magic Boost (Reduces MAG consumption when using skills). Can carry 99.
+ITEMHELP_L0706	A strange tome that teaches a demon <SKL_06>Mind Boost (Boosts chance of inflicting Mind ailments). Can carry 99.
+ITEMHELP_L0707	A strange tome that teaches a demon <SKL_06>Resist Fire (Halves Fire damage taken | Overrides Fire weakness). Can carry 99.
+ITEMHELP_L0708	A strange tome that teaches a demon <SKL_06>Resist Ice (Halves Ice damage taken | Overrides Ice weakness). Can carry 99.
+ITEMHELP_L0709	A strange tome that teaches a demon <SKL_06>Resist Elec (Halves Electric damage taken | Overrides Electric weakness). Can carry 99.
+ITEMHELP_L0710	A strange tome that teaches a demon <SKL_06>Resist Force (Halves Force damage taken | Overrides Force weakness). Can carry 99.
+ITEMHELP_L0711	A strange tome that teaches a demon <SKL_06>Resist Phys (Halves Physical damage taken | Overrides Physical weakness). Can carry 99.
+ITEMHELP_L0712	A strange tome that teaches a demon <SKL_06>Halve Death (Halves chance of being hit with Death attacks | Overrides Death weakness). Can carry 99.
+ITEMHELP_L0713	A strange tome that teaches a demon <SKL_06>Halve Mind (Halves Mind damage taken | Halves chance of being afflicted with Mind ailments). Can carry 99.
+ITEMHELP_L0714	A strange tome that teaches a demon <SKL_06>Halve Mortal (Halves chance of sustaining an instakill). Can carry 99.
+ITEMHELP_L0715	A strange tome that teaches a demon <SKL_06>Null Mortal (Prevents chance of sustaining an instakill). Can carry 99.
+ITEMHELP_L0716	A strange tome that teaches a demon <SKL_06>Strength Chakra (Increases Strength by 3). Can carry 99.
+ITEMHELP_L0717	A strange tome that teaches a demon <SKL_06>Magic Chakra (Increases Magic by 3). Can carry 99.
+ITEMHELP_L0718	A strange tome that teaches a demon <SKL_06>Vitality Chakra (Increases Vitality by 3). Can carry 99.
+ITEMHELP_L0719	A strange tome that teaches a demon <SKL_06>Luck Chakra (Increases Luck by 3). Can carry 99.
+ITEMHELP_L0720	A strange tome that teaches a demon <SKL_06>Agni's Blessing (Increases all stats by 3). Can carry 99.
+ITEMHELP_L0721	A strange tome that teaches a demon <SKL_06>Spirit Drain (Increases MAG drain amount). Can carry 99.
+ITEMHELP_L0722	A strange tome that teaches a demon <SKL_06>Retribution (High chance to trigger a heavy Almighty attack to an area around self upon death). Can carry 99.
+ITEMHELP_L0723	A strange tome that teaches a demon <SKL_06>Skill Extension (Increases the amount of time support skills affect allies and continuous recovery skills affect self). Can carry 99.
+ITEMHELP_L0724	A strange tome that teaches a demon <SKL_06>Sink or Swim (Greatly increases critical rate for basic attacks, but adds a low chance to miss). Can carry 99.
+ITEMHELP_L0725	A strange tome that teaches a demon <SKL_06>Unrelenting Focus (Increases critical rate for basic attacks). Can carry 99.
+ITEMHELP_L0727	A strange tome that teaches a demon <SKL_06>Endure (Revive with 1 HP upon death once per battle). Can carry 99.
+ITEMHELP_L0728	A strange tome that teaches a demon <SKL_06>Vengeance Seal (Revive with half HP upon death once per battle). Can carry 99.
+ITEMHELP_L0729	A strange tome that teaches a demon <SKL_06>Fast Escape (Enables easier escape from battles the user participates in). Can carry 99.
+ITEMHELP_L0730	A strange tome that teaches a demon <SKL_06>Exp Boost (Increases EXP earned by the user). Can carry 99.
+ITEMHELP_L0731	A strange tome that teaches a demon <SKL_06>Growth (Acquire EXP even when not summoned in battle). Can carry 99.
+ITEMHELP_L0733	A strange tome that teaches a demon <SKL_06>Whimsical Aid (Restores HP to self after winning a battle with amount restored influenced by Luck). Can carry 99.
+ITEMHELP_L0734	A strange tome that teaches a demon <SKL_06>Loose Change (Chance to occasionally find money while walking). Can carry 99.
+ITEMHELP_L0735	A strange tome that teaches a demon <SKL_06>Scavenger (Chance to somewhat frequently find money while walking). Can carry 99.
+ITEMHELP_L0736	(Data for downloadable content not found.)
+ITEMHELP_L0737	(Data for downloadable content not found.)
+ITEMHELP_L0738	(Data for downloadable content not found.)
+ITEMHELP_L0739	(Data for downloadable content not found.)
+ITEMHELP_L0740	A strange tome that teaches a demon <SKL_06>Money Find (Increases money earned from battles the user participates in). Can carry 99.
+ITEMHELP_L0741	A strange tome that teaches a demon <SKL_06>Item Find (Increases items dropped from battles the user participates in). Can carry 99.
+ITEMHELP_L0742	A strange tome that teaches a demon <SKL_06>Devotion (Increases Loyalty earned from battles the user participates in). Can carry 99.
+ITEMHELP_L0752	Grants 25% of the EXP required to level up. Can carry 99.
+ITEMHELP_L0753	Grants 100% of the EXP required to level up. Can carry 99.
+ITEMHELP_L0760	(Data for downloadable content not found.)

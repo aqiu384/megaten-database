@@ -1,0 +1,298 @@
+id	EN	JA	ZH	CH	DE	ES	FR	IT
+SKILL_L0001	Agi	アギ	亚基	亞基	Agi	Agi	Agi	Agi
+SKILL_L0002	Agidyne	アギダイン	亚基达因	亞基達因	Agidyne	Agidyne	Agidyne	Agidyne
+SKILL_L0003	Maragi	マハ・ラギ	玛哈·拉基	瑪哈．拉基	Maragi	Maragi	Maragi	Maragi
+SKILL_L0004	Maragidyne	マハ・ラギダイン	玛哈·拉基达因	瑪哈．拉基達因	Maragidyne	Maragidyne	Maragidyne	Maragidyne
+SKILL_L0005	Blaze	砲火	炮火	砲火	Flammen	Llamarada	Embrasement	Fulgore
+SKILL_L0006	Hellfire	地獄の業火	地狱业火	地獄業火	Höllenfeuer	Fuego del averno	Feu de l'enfer	Fuoco infernale
+SKILL_L0007	Fire Breath	ファイアブレス	火焰吐息	火焰之息	Feueratem	Aliento ígneo	Souffle de feu	Soffio ardente
+SKILL_L0008	Pyro Sign	紅蓮印	红莲印	紅蓮印	Pyrozeichen	Presagio ígneo	Symbole de flamme	Segno fiammante
+SKILL_L0016	Bufu	ブフ	布芙	布芙	Bufu	Bufu	Bufu	Bufu
+SKILL_L0017	Bufudyne	ブフダイン	布芙达因	布芙達因	Bufudyne	Bufudyne	Bufudyne	Bufudyne
+SKILL_L0018	Mabufu	マハ・ブフ	玛哈·布芙	瑪哈．布芙	Mabufu	Mabufu	Mabufu	Mabufu
+SKILL_L0019	Mabufudyne	マハ・ブフダイン	玛哈·布芙达因	瑪哈．布芙達因	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne
+SKILL_L0020	Frostbite	雪華	雪华	雪花	Erfrierung	Hipotermia	Gelures	Gelone
+SKILL_L0021	Cocytus	コキュートス	悲叹冥河	悲嘆冥河	Kokytos	Cocito	Cocyte	Cocito
+SKILL_L0022	Glacial Blast	絶対零度	绝对零度	絕對零度	Gletscherstoß	Estallido glacial	Explosion glaciale	Urto glaciale
+SKILL_L0023	Frost Sign	銀氷印	银冰印	銀冰印	Frostzeichen	Presagio gélido	Symbole de givre	Segno glaciale
+SKILL_L0032	Zio	ジオ	吉欧	吉歐	Zio	Zio	Zio	Zio
+SKILL_L0033	Ziodyne	ジオダイン	吉欧达因	吉歐達因	Ziodyne	Ziodyne	Ziodyne	Ziodyne
+SKILL_L0034	Mazio	マハ・ジオ	玛哈·吉欧	瑪哈．吉歐	Mazio	Mazio	Mazio	Mazio
+SKILL_L0035	Maziodyne	マハ・ジオダイン	玛哈·吉欧达因	瑪哈．吉歐達因	Maziodyne	Maziodyne	Maziodyne	Maziodyne
+SKILL_L0036	Spark	飛電	飞电	飛電	Funken	Chispa	Étincelle	Scintilla
+SKILL_L0037	Bolt Storm	大放電	大放电	大放電	Bolzensturm	Tormenta eléctrica	Orage d'éclairs	Tempesta di lampi
+SKILL_L0038	Shock Wave	ショックウェーブ	震荡波	脈衝波浪	Schockwelle	Onda eléctrica	Onde de choc	Onda d'urto
+SKILL_L0039	Volt Sign	雷電印	雷电印	雷電印	Stromzeichen	Presagio voltaico	Symbole de volt	Segno voltaico
+SKILL_L0048	Zan	ザン	赞	贊	Zan	Zan	Zan	Zan
+SKILL_L0049	Zandyne	ザンダイン	赞达因	贊達因	Zandyne	Zandyne	Zandyne	Zandyne
+SKILL_L0050	Mazan	マハ・ザン	玛哈·赞	瑪哈．贊	Mazan	Mazan	Mazan	Mazan
+SKILL_L0051	Mazandyne	マハ・ザンダイン	玛哈·赞达因	瑪哈．贊達因	Mazandyne	Mazandyne	Mazandyne	Mazandyne
+SKILL_L0052	Flurry	竜巻	龙卷	龍捲	Windstoß	Nevisca	Déchaînement	Turbinio
+SKILL_L0053	Tempest	テンペスト	暴风	暴風	Sturm	Tempestad	Tempête	Tempesta
+SKILL_L0054	Wind Cutter	真空刃	真空刃	真空刃	Windschneider	Filo de viento	Bourrasque	Tagliavento
+SKILL_L0055	Wind Sign	疾風印	疾风印	疾風印	Windzeichen	Presagio ventoso	Symbole de vent	Segno ventoso
+SKILL_L0056	Flurry	竜巻	龙卷	龍捲	Windstoß	Nevisca	Déchaînement	Turbinio
+SKILL_L0064	Starbound Blades	スバルノキッサキ	昴之刀锋	昴之鋒刃	Sternenklingen	Espadas estelares	Lames stellaires	Lame stellari
+SKILL_L0065	Megidolaon	メギドラオン	米吉多拉翁	米吉多拉翁	Megidolaon	Megidolaon	Megidolaon	Megidolaon
+SKILL_L0075	Maragidyne	マハ・ラギダイン	玛哈·拉基达因	瑪哈．拉基達因	Maragidyne	Maragidyne	Maragidyne	Maragidyne
+SKILL_L0076	Mabufudyne	マハ・ブフダイン	玛哈·布芙达因	瑪哈．布芙達因	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne
+SKILL_L0077	Maziodyne	マハ・ジオダイン	玛哈·吉欧达因	瑪哈．吉歐達因	Maziodyne	Maziodyne	Maziodyne	Maziodyne
+SKILL_L0078	Mazandyne	マハ・ザンダイン	玛哈·赞达因	瑪哈．贊達因	Mazandyne	Mazandyne	Mazandyne	Mazandyne
+SKILL_L0079	Mamudo	マハ・ムド	玛哈·姆多	瑪哈．姆多	Mamudo	Mamudo	Mamudo	Mamudo
+SKILL_L0080	Mudo	ムド	姆多	姆多	Mudo	Mudo	Mudo	Mudo
+SKILL_L0081	Mamudo	マハ・ムド	玛哈·姆多	瑪哈．姆多	Mamudo	Mamudo	Mamudo	Mamudo
+SKILL_L0082	Mamudoon	マハ・ムドオン	玛哈·姆多翁	瑪哈．姆多翁	Mamudoon	Mamudoon	Mamudoon	Mamudoon
+SKILL_L0096	Marin Karin	マリンカリン	马琳卡琳	馬琳卡琳	Marin Karin	Marin Karin	Marin Karin	Marin Karin
+SKILL_L0097	Dormina	ドルミナー	永眠	永眠	Dormina	Dormina	Dormina	Dormina
+SKILL_L0098	Pulinpa	プリンパ	普林帕	普林帕	Pulinpa	Pulinpa	Pulinpa	Pulinpa
+SKILL_L0099	Makajam	マカジャマ	玛卡加玛	瑪卡加瑪	Makajam	Makajam	Makajam	Makajam
+SKILL_L0100	Petra	ペトラ	佩特拉	沛特拉	Petra	Petra	Petra	Petra
+SKILL_L0112	Dia	ディア	迪亚	迪亞	Dia	Dia	Dia	Dia
+SKILL_L0113	Diarama	ディアラマ	迪亚拉玛	迪亞拉瑪	Diarama	Diarama	Diarama	Diarama
+SKILL_L0114	Diarahan	ディアラハン	迪亚拉翰	迪亞拉翰	Diarahan	Diarahan	Diarahan	Diarahan
+SKILL_L0115	Media	メ・ディア	梅·迪亚	梅．迪亞	Media	Media	Media	Media
+SKILL_L0116	Patra	パトラ	帕特拉	帕特拉	Patra	Patra	Patra	Patra
+SKILL_L0117	Dia Aura	ディアオーラ	迪亚场	迪亞奧拉	Dia-Aura	Aura Dia	Aura Dia	Dia Aura
+SKILL_L0118	Recarm	リカーム	利卡姆	利卡姆	Recarm	Recarm	Recarm	Recarm
+SKILL_L0119	Samarecarm	サマリカーム	萨玛利卡姆	薩瑪利卡姆	Samarecarm	Samarecarm	Samarecarm	Samarecarm
+SKILL_L0120	State of Bliss	至福のひととき	至福一刻	片刻的幸福時光	Glückseligkeit	Éxtasis	Euphorie	Stato di grazia
+SKILL_L0121	Mediarama	メ・ディアラマ	梅·迪亚拉玛	梅．迪亞拉瑪	Mediarama	Mediarama	Mediarama	Mediarama
+SKILL_L0128	Tarukaja	タル・カジャ	塔尔·卡加	塔爾．卡加	Tarukaja	Tarukaja	Tarukaja	Tarukaja
+SKILL_L0129	Makakaja	マカ・カジャ	玛卡·卡加	瑪卡．卡加	Makakaja	Makakaja	Makakaja	Makakaja
+SKILL_L0130	Rakukaja	ラク・カジャ	拉库·卡加	拉庫．卡加	Rakukaja	Rakukaja	Rakukaja	Rakukaja
+SKILL_L0131	War Cry	雄叫び	咆哮	咆哮	Kriegsschrei	Grito de guerra	Cri de guerre	Grido di guerra
+SKILL_L0132	Makara Aura	マカラオーラ	玛卡拉场	瑪卡拉奧拉	Makara-Aura	Aura Makara	Aura Makara	Makara Aura
+SKILL_L0133	Tetra Aura	テトラオーラ	提特拉场	提特拉奧拉	Tetra-Aura	Aura Tetra	Aura Tetra	Tetra Aura
+SKILL_L0134	Dekaja	デ・カジャ	迪·卡加	迪．卡加	Dekaja	Dekaja	Dekaja	Dekaja
+SKILL_L0144	Tiger Thrust	修羅虎突き	修罗虎突刺	修羅虎突刺	Tigerstoß	Envite atigrado	Fente du tigre	Slancio della tigre
+SKILL_L0145	Raidou Combo 1	煉獄撃：刃	炼狱击：刃	煉獄擊：刃	Raidou-Kombo 1	Combo de Raidou 1	Combo Raidou 1	Combo Raidou 1
+SKILL_L0146	Raidou Combo 2	煉獄撃：壊	炼狱击：坏	煉獄擊：壞	Raidou-Kombo 2	Combo de Raidou 2	Combo Raidou 2	Combo Raidou 2
+SKILL_L0147	Raidou Combo 3	煉獄撃：塵	炼狱击：尘	煉獄擊：塵	Raidou-Kombo 3	Combo de Raidou 3	Combo Raidou 3	Combo Raidou 3
+SKILL_L0148	Dragon Cyclone	羅刹龍転斬	罗刹龙转斩	羅剎龍轉斬	Drachenzyklon	Ciclón dragontino	Cyclone du dragon	Ciclone draconico
+SKILL_L0149	Strike	打撃	打击	打擊	Schlag	Golpe	Frappe	Sferzata
+SKILL_L0150	Combo	連撃	连击	連擊	Kombo	Combo	Combo	Combo
+SKILL_L0151	Mighty Blow	雄渾撃	雄浑击	雄渾擊	Mächtiger Hieb	Golpe potente	Coup puissant	Colpo possente
+SKILL_L0152	Frenzy	大暴れ	大闹一通	天翻地覆	Raserei	Frenesí	Frénésie	Frenesia
+SKILL_L0153	Berserker	逆鱗撃	逆鳞击	逆鱗擊	Berserker	Berserker	Ravageur	Berserker
+SKILL_L0154	Venomstrike	瘴毒撃	瘴毒击	瘴毒擊	Giftschlag	Golpe venenoso	Frappe venimeuse	Colpo venefico
+SKILL_L0155	Winged Fury	鷹円弾	鹰圆弹	鷹圓彈	Geflügelter Zorn	Furia alada	Furie ailée	Furia alata
+SKILL_L0156	Carom Striker	撞球遊戯	台球游戏	撞球遊戲	Karambolage	Golpe carambola	Carambolage	Carambola
+SKILL_L0157	Menacing Blade	鬼面抜打	鬼面拔刀斩	鬼面突襲	Bedrohliche Klinge	Filo amenazante	Lame menaçante	Lama minacciosa
+SKILL_L0158	Empty Wave	虚空斬波	虚空斩波	虛空斬波	Leere Welle	Ola vacía	Onde du néant	Ondata vuota
+SKILL_L0163	Heat Wave	ヒートウェイブ	灼热波浪	灼熱波浪	Hitzewelle	Ola de calor	Onde brûlante	Ondata di calore
+SKILL_L0167	Ogre Slash	羅刹飛討撃	罗刹飞讨击	羅剎飛討擊	Oger-Schnitt	Tajo del ogro	Taillade de l'ogre	Fendente orchesco
+SKILL_L0168	Mad Rush	猛突進	凶猛突击	猛烈衝撞	Wilder Rausch	Acom. descabellada	Course effrénée	Carica folle
+SKILL_L0176	Normal Bullet	通常弾	普通弹	一般彈	Normale Kugel	Bala normal	Balle normale	Proiettile normale
+SKILL_L0191	Exorcising Shell	降伏弾	降伏弹	降伏彈	Austreibungshülle	Proyectil exorcizante	Tir d'exorcisation	Guscio esorcizzante
+SKILL_L0208	Infallible Command	十全なる悪魔使役	十全驱使恶魔	萬全操控惡魔	Unfehlbarer Befehl	Orden infalible	Ordre infaillible	Ordine infallibile
+SKILL_L0212	Null Phys	物理無効	物理无效	物理無效	Körp. annullieren	Anulación física	Annulation physique	Annulla fisico
+SKILL_L0220	Freeze Time	終止時報	终止报时	報時停止	Zeit einfrieren	Tiempo gélido	Gel temporel	Congelatempo
+SKILL_L0221	Summon	召し寄せ	召来	傳喚	Beschwören	Invocar	Invocation	Evoca
+SKILL_L0223	Drain Death	呪殺吸収	咒杀吸收	咒殺吸收	Tod entziehen	Absorber muerte	Absorption mort	Assorbi morte
+SKILL_L0228	Soulless Beam	超力殺線	超力杀线	超力殺線	Seelenloser Strahl	Rayo desalmado	Rayon sans âme	Raggio senz'anima
+SKILL_L0229	Soulless Beam	超力殺線	超力杀线	超力殺線	Seelenloser Strahl	Rayo desalmado	Rayon sans âme	Raggio senz'anima
+SKILL_L0235	Soulless Beam	超力殺線	超力杀线	超力殺線	Seelenloser Strahl	Rayo desalmado	Rayon sans âme	Raggio senz'anima
+SKILL_L0240	Retribution	死なばもろとも	同归于尽	同歸於盡	Vergeltung	Castigo	Rétribution	Castigo
+SKILL_L0241	First Aid	医術の心得	医术心得	醫術的訣竅	Erste Hilfe	Primeros auxilios	Premiers soins	Primo soccorso
+SKILL_L0242	Hex	験気	康复	康復	Verhexen	Maleficio	Maléfice	Maleficio
+SKILL_L0245	Endure	食いしばり	咬紧牙关	強忍	Aushalten	Último aliento	Résilience	Stoicismo
+SKILL_L0246	Fast Escape	逃走加速	逃跑加速	加速逃走	Schnelle Flucht	Huida rápida	Fuite rapide	Fuga rapida
+SKILL_L0247	Money Find	金銭加増	金钱增加	金錢增加	Geld finden	Buscadinero	Découverte d'argent	Trova denaro
+SKILL_L0248	Item Find	宝珠加増	宝珠增加	寶珠增加	Item finden	Buscaobjetos	Découverte d'objet	Trova oggetto
+SKILL_L0250	Devotion	憧れのキミ	爱慕之人	憧憬的你	Hingabe	Devoción	Dévotion	Devozione
+SKILL_L0251	Life Bonus	一分の活脈	一分活脉	一分活脈	Lebensbonus	Extra de vida	Bonus de vie	Vita bonus
+SKILL_L0252	Life Gain	二分の活脈	二分活脉	二分活脈	Lebenszugewinn	Aumento de vida	Gain de vie	Vita plus
+SKILL_L0253	Life Surge	三分の活脈	三分活脉	三分活脈	Lebensschub	Fuente de vida	Bouffée de vie	Vita extra
+SKILL_L0254	Mana Bonus	一分の魔脈	一分魔脉	一分魔脈	Mana-Bonus	Extra de maná	Bonus de mana	Mana bonus
+SKILL_L0255	Mana Gain	二分の魔脈	二分魔脉	二分魔脈	Mana-Zugewinn	Aumento de maná	Gain de mana	Mana plus
+SKILL_L0256	Mana Surge	三分の魔脈	三分魔脉	三分魔脈	Mana-Schub	Fuente de maná	Bouffée de mana	Mana extra
+SKILL_L0257	Hero's Might	豪傑の転心	豪杰转心	豪傑轉心	Heldenmacht	Poder del héroe	Puissance héroïque	Potenza eroica
+SKILL_L0258	Mage's Craft	魔弾の射手	魔弹射手	魔彈射手	Magierhandwerk	Destreza del mago	Savoir-faire magique	Ingegno del mago
+SKILL_L0259	Fire Boost	火炎高揚	火焰高昂	火焰激昂	Feuer-Boost	Pot. de fuego	Boost feu	Potenzia fuoco
+SKILL_L0260	Ice Boost	氷結高揚	冰冻高昂	冰凍激昂	Eis-Boost	Pot. de hielo	Boost glace	Potenzia ghiaccio
+SKILL_L0261	Elec Boost	電撃高揚	电击高昂	電擊激昂	Elektro-Boost	Pot. de electricidad	Boost foudre	Potenzia elettricità
+SKILL_L0262	Force Boost	衝撃高揚	冲击高昂	衝擊激昂	Kraftschub	Pot. de fuerza	Boost force	Potenzia forza
+SKILL_L0263	Heal Boost	回復高揚	恢复高昂	恢復激昂	Heilungsschub	Pot. de cura	Boost soin	Potenzia cura
+SKILL_L0264	Mind Boost	付着高揚	附着高昂	附加激昂	Verstand-Boost	Pot. de mente	Boost mental	Potenzia mente
+SKILL_L0265	Resist Fire	火炎半減	火焰减半	火焰減半	Feuer widerst.	Resistir fuego	Résist. feu	Resisti fuoco
+SKILL_L0266	Resist Ice	氷結半減	冰冻减半	冰凍減半	Eis widerstehen	Resistir hielo	Résist. glace	Resisti ghiaccio
+SKILL_L0267	Resist Elec	電撃半減	电击减半	電擊減半	Elektro widerstehen	Resistir electr.	Résist. foudre	Resisti elettricità
+SKILL_L0268	Resist Force	衝撃半減	冲击减半	衝擊減半	Kraft widerstehen	Resistir fuerza	Résist. force	Resisti forza
+SKILL_L0269	Resist Phys	物理半減	物理减半	物理減半	Körp. widerstehen	Resistir físico	Résist. physique	Resisti fisico
+SKILL_L0270	Halve Death	呪殺半減	咒杀减半	咒殺減半	Tod halbieren	Reducir muerte	Demi-mort	Dimezza morte
+SKILL_L0271	Halve Mind	精神半減	精神减半	精神減半	Verstand halb.	Reducir mente	Demi-mental	Dimezza mente
+SKILL_L0312	Magnetize	マグネタイズ	电磁化	磁化	Magnetisieren	Magnetizar	Magnétisation	Magnetizzazione
+SKILL_L0313	Zeal	興奮	兴奋	興奮	Eifer	Fervor	Exaltation	Zelo
+SKILL_L0384	Agi	アギ	亚基	亞基	Agi	Agi	Agi	Agi
+SKILL_L0385	Agidyne	アギダイン	亚基达因	亞基達因	Agidyne	Agidyne	Agidyne	Agidyne
+SKILL_L0386	Blaze	砲火	炮火	砲火	Flammen	Llamarada	Embrasement	Fulgore
+SKILL_L0387	Hellfire	地獄の業火	地狱业火	地獄業火	Höllenfeuer	Fuego del averno	Feu de l'enfer	Fuoco infernale
+SKILL_L0388	Bufu	ブフ	布芙	布芙	Bufu	Bufu	Bufu	Bufu
+SKILL_L0389	Bufudyne	ブフダイン	布芙达因	布芙達因	Bufudyne	Bufudyne	Bufudyne	Bufudyne
+SKILL_L0390	Frostbite	雪華	雪华	雪花	Erfrierung	Hipotermia	Gelures	Gelone
+SKILL_L0391	Cocytus	コキュートス	悲叹冥河	悲嘆冥河	Kokytos	Cocito	Cocyte	Cocito
+SKILL_L0392	Zio	ジオ	吉欧	吉歐	Zio	Zio	Zio	Zio
+SKILL_L0393	Ziodyne	ジオダイン	吉欧达因	吉歐達因	Ziodyne	Ziodyne	Ziodyne	Ziodyne
+SKILL_L0394	Spark	飛電	飞电	飛電	Funken	Chispa	Étincelle	Scintilla
+SKILL_L0395	Bolt Storm	大放電	大放电	大放電	Bolzensturm	Tormenta eléctrica	Orage d'éclairs	Tempesta di lampi
+SKILL_L0396	Zan	ザン	赞	贊	Zan	Zan	Zan	Zan
+SKILL_L0397	Zandyne	ザンダイン	赞达因	贊達因	Zandyne	Zandyne	Zandyne	Zandyne
+SKILL_L0398	Flurry	竜巻	龙卷	龍捲	Windstoß	Nevisca	Déchaînement	Turbinio
+SKILL_L0399	Tempest	テンペスト	暴风	暴風	Sturm	Tempestad	Tempête	Tempesta
+SKILL_L0400	Mudo	ムド	姆多	姆多	Mudo	Mudo	Mudo	Mudo
+SKILL_L0401	Marin Karin	マリンカリン	马琳卡琳	馬琳卡琳	Marin Karin	Marin Karin	Marin Karin	Marin Karin
+SKILL_L0402	Dormina	ドルミナー	永眠	永眠	Dormina	Dormina	Dormina	Dormina
+SKILL_L0403	Pulinpa	プリンパ	普林帕	普林帕	Pulinpa	Pulinpa	Pulinpa	Pulinpa
+SKILL_L0404	Makajam	マカジャマ	玛卡加玛	瑪卡加瑪	Makajam	Makajam	Makajam	Makajam
+SKILL_L0405	Petra	ペトラ	佩特拉	沛特拉	Petra	Petra	Petra	Petra
+SKILL_L0406	Media	メディア	梅迪亚	梅迪亞	Media	Media	Media	Media
+SKILL_L0410	Escape	逃走	逃跑	逃走	Fliehen	Escapar	Fuite	Fuga
+SKILL_L0417	Roundhouse	回し蹴り	回旋踢	迴旋踢	Roundhouse	Gancho	Rotonde	Gancio
+SKILL_L0418	Barrage	機銃乱射	机枪扫射	機槍亂射	Sperrfeuer	Lluvia de golpes	Barrage	Bordata
+SKILL_L0419	Rapidfire	機銃速射	机枪速射	機槍速射	Schnellfeuer	Fuego rápido	Tir rapide	Fuoco rapido
+SKILL_L0420	Melee	白兵格戦	白刃格斗	白兵格戰	Nahkampf	Cuerpo a cuerpo	Corps à corps	Attacco in mischia
+SKILL_L0421	Agi	アギ	亚基	亞基	Agi	Agi	Agi	Agi
+SKILL_L0422	Punch	パンチ	拳击	拳擊	Schlag	Golpear	Coup de poing	Colpo
+SKILL_L0423	One-Two	ワンツー	组合拳	連續猛攻	Eins-Zwei	Uno y dos	Une-deux	Doppio colpo
+SKILL_L0424	Rush	突進	突击	衝撞	Rausch	Acometida	Ruée	Corsa
+SKILL_L0425	Frustration	不満怏怏	怏怏不乐	忿忿不平	Frustration	Frustración	Frustration	Frustrazione
+SKILL_L0426	Teleport	穏身転移	稳身转移	隱身移轉	Teleport.	Teletransporte	Téléportation	Teletrasporto
+SKILL_L0427	Doubt Beam	錯乱の奇声	错乱怪声	錯亂的怪聲	Zweifel-Strahl	Rayo dubitativo	Rayon de doute	Raggio del dubbio
+SKILL_L0428	Anger Blast	怒りの烈火	愤怒烈火	憤怒的烈火	Zornstoß	Estallido iracundo	Explosion de colère	Urto iracondo
+SKILL_L0429	Justification	克己弁明	克己辩白	克己辨明	Rechtfertigung	Justificación	Justification	Giustificazione
+SKILL_L0432	Trailing Death	怪僧の呪言	怪僧咒言	妖僧的咒語	Verfolgender Tod	Muerte a la zaga	Sillage de mort	Morte strisciante
+SKILL_L0433	Spinning Death	回転波動	旋转波动	旋轉波動	Wirbelnder Tod	Muerte giratoria	Mort tournoyante	Morte vorticante
+SKILL_L0434	Megido	メギド	米吉多	米吉多	Megido	Megido	Megido	Megido
+SKILL_L0435	Streaming Death	死亡告知	死亡宣告	死亡告知	Strömender Tod	Transmisión mortal	Déferlante de mort	Morte fluente
+SKILL_L0438	Teleport	穏身転移	稳身转移	隱身移轉	Teleport.	Teletransporte	Téléportation	Teletrasporto
+SKILL_L0439	Azusa-Yumi	弟のあづさゆみ	弟弟的梓弓	弟弟的梓弓	Azusa-Yumi	Azusa-Yumi	Azusa-Yumi	Azusa-Yumi
+SKILL_L0440	Nubatama	兄のぬばたま	哥哥的射干玉	哥哥的射干玉	Nubatama	Nubatama	Nubatama	Nubatama
+SKILL_L0441	Amatobi	連枝のあまとび	连理飞天	連枝天翔	Amatobi	Amatobi	Amatobi	Amatobi
+SKILL_L0442	Wind Cutter	真空刃	真空刃	真空刃	Windschneider	Filo de viento	Bourrasque	Tagliavento
+SKILL_L0443	Cursed Emission	たたり生唾	作祟唾液	詛咒唾液	Verfluchter Ausstoß	Expulsión maldita	Émission maudite	Emissione maledetta
+SKILL_L0444	Cursed Bolt	たたり艶電	作祟艳电	詛咒艷電	Verfluchter Bolzen	Rayo maldito	Éclair maudit	Dardo maledetto
+SKILL_L0447	Ageless Sleep	太古の眠り	太古之眠	太古的沉睡	Zeitloser Schlaf	Sueño eterno	Sommeil éternel	Sonno senza tempo
+SKILL_L0448	Triple Shot	三つ撃ち	三重射击	三連擊	Dreifachschuss	Tiro triple	Triple tir	Tiro triplo
+SKILL_L0449	Super Wave	超力波動	超力波动	超力波動	Superwelle	Superonda	Superonde	Ondata enorme
+SKILL_L0451	Anakashiko	あなかしこ	不胜惶恐	誠惶誠恐	Anakashiko	Anakashiko	Anakashiko	Anakashiko
+SKILL_L0452	Tamayura	たまゆら	玉响	一瞬間	Tamayura	Tamayura	Tamayura	Tamayura
+SKILL_L0461	Minion Summon	禍送り	送别灾祸	送禍	Diener beschwören	Invocación de esbirro	Invocation de serviteur	Evoca seguace
+SKILL_L0462	Rapidfire	機銃速射	机枪速射	機槍速射	Schnellfeuer	Fuego rápido	Tir rapide	Fuoco rapido
+SKILL_L0463	Barrage	機銃乱射	机枪扫射	機槍亂射	Sperrfeuer	Lluvia de golpes	Barrage	Bordata
+SKILL_L0464	Magatsu Crush	超力撃砕	超力击碎	超力擊碎	Magatsu-Zertrümmern	Colisión Magatsu	Fracas de Magatsu	Morsa di Magatsu
+SKILL_L0465	Soulless Cannon	超力陽弾	超力阳弹	超力陽彈	Seelenlose Kanone	Cañón desalmado	Canon sans âme	Cannone senz'anima
+SKILL_L0466	Magatsu Crush	超力撃砕	超力击碎	超力擊碎	Magatsu-Zertrümmern	Colisión Magatsu	Fracas de Magatsu	Morsa di Magatsu
+SKILL_L0467	Soulless Rain	超力死界	超力死界	超力死界	Seelenloser Regen	Lluvia desalmada	Pluie sans âme	Pioggia senz'anima
+SKILL_L0468	Tentacle Whip	触手カッター	触手裁刀	觸手刀	Tentakel-Peitsche	Látigo tentacular	Fouet-tentacule	Tentacolo frusta
+SKILL_L0473	Explode	自爆	自爆	自爆	Explosion	Explosión	Exploser	Esplosione
+SKILL_L0474	Soulless Beam	超力殺線	超力杀线	超力殺線	Seelenloser Strahl	Rayo desalmado	Rayon sans âme	Raggio senz'anima
+SKILL_L0488	Shoot	銃撃	枪击	槍擊	Schießen	Disparo	Tir	Sparo
+SKILL_L0489	Teleport	穏身転移	稳身转移	隱身移轉	Teleport.	Teletransporte	Téléportation	Teletrasporto
+SKILL_L0490	Teleport	穏身転移	稳身转移	隱身移轉	Teleport.	Teletransporte	Téléportation	Teletrasporto
+SKILL_L0506	Summon	召し寄せ	召来	傳喚	Beschwören	Invocar	Invocation	Evoca
+SKILL_L0507	Samurai Frost	冬将軍	冬将军	冬將軍	Samurai-Frost	Samurái gélido	Givre du samouraï	Frost samurai
+SKILL_L0512	Glare	ねめつけ	怒目而视	瞪視	Blenden	Mirada	Éblouissement	Occhiataccia
+SKILL_L0516	Breath	ブレス	吐息	吐息	Atem	Aliento	Souffle	Soffio
+SKILL_L0529	Agirati	アギ・ラティ	亚基·拉提	亞基．拉堤	Agirati	Agirati	Agirati	Agirati
+SKILL_L0545	Bufurati	ブフ・ラティ	布芙·拉提	布芙．拉堤	Bufurati	Bufurati	Bufurati	Bufurati
+SKILL_L0551	Mabufu	マハ・ブフ	玛哈·布芙	瑪哈．布芙	Mabufu	Mabufu	Mabufu	Mabufu
+SKILL_L0561	Ziorati	ジオ・ラティ	吉欧·拉提	吉歐．拉堤	Ziorati	Ziorati	Ziorati	Ziorati
+SKILL_L0577	Zanrati	ザン・ラティ	赞·拉提	贊．拉堤	Zanrati	Zanrati	Zanrati	Zanrati
+SKILL_L0658	Tarukajaon	タル・カジャオン	塔尔·卡加翁	塔爾．卡加翁	Tarukajaon	Tarukajaon	Tarukajaon	Tarukajaon
+SKILL_L0659	Makakajaon	マカ・カジャオン	玛卡·卡加翁	瑪卡．卡加翁	Makakajaon	Makakajaon	Makakajaon	Makakajaon
+SKILL_L0660	Rakukajaon	ラク・カジャオン	拉库·卡加翁	拉庫．卡加翁	Rakukajaon	Rakukajaon	Rakukajaon	Rakukajaon
+SKILL_L0661	Tetrakarn	テトラカーン	提特拉康	提特拉康	Tetrakarn	Tetrakarn	Tetrakarn	Tetrakarn
+SKILL_L0690	Kuzunoha Rapture	葛葉五情「喜」	葛叶五情“喜”	葛葉五情「喜」	Kuzunoha-Verzückung	Éxtasis de Kuzunoha	Extase des Kuzunoha	Estasi Kuzunoha
+SKILL_L0691	Kuzunoha Anguish	葛葉五情「悲」	葛叶五情“悲”	葛葉五情「悲」	Kuzunoha-Qual	Angustia de Kuzunoha	Angoisse des Kuzunoha	Angoscia Kuzunoha
+SKILL_L0692	Kuzunoha Fury	葛葉五情「怒」	葛叶五情“怒”	葛葉五情「怒」	Kuzunoha-Zorn	Furia de Kuzunoha	Furie des Kuzunoha	Furia Kuzunoha
+SKILL_L0695	Kuzunoha Anguish	葛葉五情「悲」	葛叶五情“悲”	葛葉五情「悲」	Kuzunoha-Qual	Angustia de Kuzunoha	Angoisse Kuzunoha	Angoscia Kuzunoha
+SKILL_L0696	Kuzunoha Terror	葛葉五情「恐」	葛叶五情“恐”	葛葉五情「恐」	Kuzunoha-Schrecken	Terror de Kuzunoha	Terreur des Kuzunoha	Terrore Kuzunoha
+SKILL_L0699	Kuzunoha Anguish	葛葉五情「悲」	葛叶五情“悲”	葛葉五情「悲」	Kuzunoha-Qual	Angustia de Kuzunoha	Angoisse Kuzunoha	Angoscia Kuzunoha
+SKILL_L0701	Kuzunoha Dread	葛葉五情「思」	葛叶五情“思”	葛葉五情「思」	Kuzunoha-Grauen	Pavor de Kuzunoha	Effroi des Kuzunoha	Orrore Kuzunoha
+SKILL_L0744	Magnum Bullet	マグナム弾	马格南弹	麥格農彈	Magnumkugel	Bala mágnum	Balle de magnum	Proiettile magnum
+SKILL_L0752	Maragidyne	マハ・ラギダイン	玛哈·拉基达因	瑪哈．拉基達因	Maragidyne	Maragidyne	Maragidyne	Maragidyne
+SKILL_L0753	Mabufudyne	マハ・ブフダイン	玛哈·布芙达因	瑪哈．布芙達因	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne
+SKILL_L0754	Maziodyne	マハ・ジオダイン	玛哈·吉欧达因	瑪哈．吉歐達因	Maziodyne	Maziodyne	Maziodyne	Maziodyne
+SKILL_L0755	Mazandyne	マハ・ザンダイン	玛哈·赞达因	瑪哈．贊達因	Mazandyne	Mazandyne	Mazandyne	Mazandyne
+SKILL_L0809	Strength Chakra	力のチャクラ	力之脉轮	力之脈輪	Stärke-Chakra	Chakra de fuerza	Chakra de force	Chakra della forza
+SKILL_L0810	Magic Chakra	魔のチャクラ	魔之脉轮	魔之脈輪	Magie-Chakra	Chakra de magia	Chakra de magie	Chakra della magia
+SKILL_L0811	Halve Death	呪殺半減	咒杀减半	咒殺減半	Tod halbieren	Reducir muerte	Demi-mort	Dimezza morte
+SKILL_L0812	Halve Mind	精神半減	精神减半	精神減半	Verstand halb.	Reducir mente	Demi-mental	Dimezza mente
+SKILL_L0813	Vitality Chakra	耐のチャクラ	耐之脉轮	抗之脈輪	Vitalität-Chakra	Chakra de vital.	Chakra de vitalité	Chakra della vitalità
+SKILL_L0814	Luck Chakra	運のチャクラ	运之脉轮	運之脈輪	Glücks-Chakra	Chakra de suerte	Chakra de chance	Chakra della fortuna
+SKILL_L0815	Magic Boost	魔脈高揚	魔脉高昂	魔脈激昂	Magie-Boost	Pot. de magia	Boost magie	Potenzia magia
+SKILL_L0816	Sink or Swim	一か八か	不成功便成仁	孤注一擲	Kopfsprung	Todo o nada	Couler ou nager	Nuota o affonda
+SKILL_L0819	Halve Mortal	即死半減	即死减半	即死減半	Sterbl. halbieren	Reducir mortal	Demi-mortel	Dimezza letalità
+SKILL_L0820	Null Mortal	即死無効	即死无效	即死無效	Sterbl. annullieren	Anular mortal	Annulation mortel	Annulla letalità
+SKILL_L0822	Death Boost	呪殺高揚	咒杀高昂	咒殺激昂	Todes-Boost	Pot. de muerte	Boost mort	Potenzia morte
+SKILL_L0828	Vengeance Seal	報復の狼煙	报复的烽火	報復狼煙	Rache-Siegel	Sello de la venganza	Sceau de vengeance	Sigillo di vendetta
+SKILL_L0829	First Aid	医術の心得	医术心得	醫術的訣竅	Erste Hilfe	Primeros auxilios	Premiers soins	Primo soccorso
+SKILL_L0830	Whimsical Aid	気まぐれ医術	无常医术	難以捉摸的醫術	Launische Hilfe	Ayuda caprichosa	Aide fantasque	Soccorso bizzarro
+SKILL_L0831	Loose Change	ゼニ・ガットメン	金龟招财	拾金者	Kleingeld	Calderilla	Petite monnaie	Spiccioli
+SKILL_L0832	Gold Rush	ゴールドラッシュ	淘金潮	淘金潮	Goldrausch	Acometida dorada	Ruée vers l'or	Corsa all'oro
+SKILL_L0833	Scavenger	ヒロ右衛門	捡漏卫门	拾右衛門	Sammeln	Carroñero	Fouineur	Recuperatore
+SKILL_L0839	Agni's Blessing	アグニ開眼	阿耆尼开眼	阿耆尼開眼	Agnis Segen	Bendición de Agni	Bénédiction d'Agni	Benedizione di Agni
+SKILL_L0843	Skill Extension	ファイの時報	斐之报时	法伊的報時	Skill-Erweiterung	Extensión de habilidad	Extension de comp.	Estendi abilità
+SKILL_L0845	Spirit Drain	吸魔	吸魔	吸魔	Geist-Entzug	Absor. de espíritu	Siphon spirituel	Assorbi spirito
+SKILL_L0846	Unrelenting Focus	会心フォーエバー	会心永恒	恆久會心	Gnadenloser Fokus	Concentración constante	Concentration totale	Concentrazione costante
+SKILL_L0850	Adoration	憧れのキミ	爱慕之人	憧憬的你	Anbetung	Devoción	Adoration	Adorazione
+SKILL_L0854	Exp Boost	経験豊穣	经验丰盈	經驗豐收	EP-Boost	Pot. de EXP	Boost d'expérience	Potenzia PE
+SKILL_L0860	Growth	見覚えの成長	以看代练的成长	旁觀成長	Wachstum	Crecimiento	Croissance	Crescita
+SKILL_L0861	Lucky Capote	気まぐれカポーテ	无常斗牛布	難以捉摸的鬥牛士	Glückstuch	Capote de la suerte	Caban de la chance	Cappa fortunata
+SKILL_L0969	Destructive Joy	破壊神のゆえつ	破坏神的欢愉	破壞神的愉悅	Zerstörungsfreude	Alegría destructiva	Joie destructrice	Gioia distruttiva
+SKILL_L1044	Resist Phys	耐物理	耐物理	抗物理	Körp. widerstehen	Resistir físico	Résist. physique	Resisti fisico
+SKILL_L1049	Resist Ice/Force	耐氷衝	耐冰冲	抗冰衝	Eis/Kraft widerstehen	Resistir hielo/fuerza	Résist. glace/vent	Resisti ghiaccio/forza
+SKILL_L1050	Resist Fire/Elec	耐火電	耐火电	抗火電	Feuer/Elektro widerst.	Resistir fuego/electr.	Résist. feu/foudre	Resisti fuoco/elettr.
+SKILL_L1051	Resist Mind/Death	耐精呪	耐精咒	抗精咒	Verstand/Tod widerst.	Resistir mente/muerte	Résist. mental/mort	Resisti mente/morte
+SKILL_L1073	Endure	食いしばり	咬紧牙关	強忍	Aushalten	Último aliento	Résilience	Stoicismo
+SKILL_L1074	Vengeance Seal	報復の狼煙	报复的烽火	報復狼煙	Rache-Siegel	Sello de la venganza	Sceau de vengeance	Sigillo di vendetta
+SKILL_L1079	Hex	験気	康复	康復	Verhexen	Maleficio	Maléfice	Maleficio
+SKILL_L1084	Reincarnation	転生の雄叫び	转生的咆哮	轉生咆哮	Reinkarnation	Reencarnación	Réincarnation	Reincarnazione
+SKILL_L1381	Inspiring Flash	閃きのすゝめ	劝一闪篇	靈閃促發	Inspirierender Blitz	Destello inspirador	Flash d'inspiration	Lampo del fervore
+SKILL_L1384	Tiger Stance	虎の型	虎之型	虎之型	Tigerhaltung	Postura de tigre	Posture du tigre	Posizione della Tigre
+SKILL_L1385	Dragon Stance	竜の型	龙之型	龍之型	Drachenhaltung	Postura de dragón	Posture du dragon	Posizione del Drago
+SKILL_L1386	Phoenix Step	鳳の足	凤之足	鳳之足	Phönix-Schritt	Paso de fénix	Pas du phénix	Passo della Fenice
+SKILL_L1387	Tortoise-Snake Step	玄の足	玄之足	玄之足	Reptilien-Schritt	Paso de tortuga-serp.	Pas tortue serpent	Passo della Tartaruga
+SKILL_L1388	Confinement Adagio	封魔のアダージョ	封魔柔板	封魔的慢板樂章	Einfangen-Adagio	Adagio confinante	Adagio confinement	Confinamento esteso
+SKILL_L1389	Blaze of Glory	灯滅光増	回光返照	迴光返照	Feuriger Glanz	Arranque glorioso	Gloire fulgurante	Lampo di gloria
+SKILL_L1390	Summoner Resolve	葛葉のプライド	葛叶的尊严	葛葉的自尊	Entschlossenheit	Resol. de invocador	Ténacité d'invocateur	Audacia dell'evocatore
+SKILL_L1391	Shield Breaker	たてやぶり	破盾	破盾	Schildbrecher	Rompebarreras	Briseur de bouclier	Spaccascudi
+SKILL_L1392	Transcended Being	持禁法	持禁法	持禁之法	Transzendiertes Wesen	Ser trascendido	Être transcendant	Essere superiore
+SKILL_L1393	Heroic Poise	英雄の貫禄	英雄的威严	英雄的格調	Heldenhabitus	Aplomo heroico	Assurance du héros	Eroismo
+SKILL_L1395	Devil's Ruin	大殺魔一閃	大杀魔一闪	大殺魔一閃	Teufelsruin	Ruina demoníaca	Ruine des démons	Rovina del diavolo
+SKILL_L1397	Summoner's Rebirth	陰陽転生	阴阳转生	陰陽轉生	Wiedergeburt	Renac. de invocador	Retour d'invocateur	Ripresa dell'evocatore
+SKILL_L1440	Martial Instinct	即殺	瞬杀	即殺	Kriegsinstinkt	Instinto marcial	Instinct martial	Istinto marziale
+SKILL_L1441	Summoner's Will	退魔一族の気迫	退魔一族的气概	驅魔一族的氣魄	Beschwörerwille	Voluntad de invocador	Volonté d'invocateur	Volontà dell'evocatore
+SKILL_L1442	Devil's Trick	うしろのしょうめん	背后杀	猜猜我是誰	Teufelstrick	Truco demoníaco	Ruse du démon	Trucco del diavolo
+SKILL_L1443	Combo Rondo	ハッピーアタッカー	快乐攻击手	快樂打手	Kombo-Rondo	Combo Rondo	Combo Rondo	Combo rondò
+SKILL_L1444	Transcending Sight	次元超え	超越维度	超越次元	Transzendierte Sicht	Vista trascendental	Vision transcendante	Vista trascendente
+SKILL_L1445	MAG Drainer	生体MAG抜き	活体抽取MAG	汲取活體MAG	MAG-Entzieher	Drenaje de MAG	Absorbeur de MAG	Assorbi-MAG
+SKILL_L1446	Goddess Lullaby	女神のララバイ	女神的摇篮曲	女神的搖籃曲	Schlaflied der Göttin	Nana de la diosa	Berceuse divine	Ninnananna della dea
+SKILL_L1447	Blessing of Mercury	水星の加護	水星的加护	水星的庇佑	Segen des Merkur	Bendición de Mercurio	Grâce de Mercure	Dono di Mercurio
+SKILL_L1448	Capricious Miracle	気まぐれ内丹	无常内丹	難以捉摸的內丹	Launisches Wunder	Milagro caprichoso	Miracle capricieux	Miracolo capriccioso
+SKILL_L1449	Merciless Strikes	一気呵成	一气呵成	一氣呵成	Gnadenlose Hiebe	Golpes despiadados	Frappes implacables	Assalti spietati
+SKILL_L1450	Diamond Disposition	金剛息法	金刚息法	金剛息災之法	Diamantnaturell	Posición adamantina	Disposition diamant	Indole adamantina
+SKILL_L1451	Blessing of Venus	金星の加護	金星的加护	金星的庇佑	Segen der Venus	Bendición de Venus	Bénédiction de Vénus	Dono di Venere
+SKILL_L1452	Righteous Heart	正しき心	正义之心	正直之心	Rechtschaffenes Herz	Corazón noble	Cœur juste	Cuore retto
+SKILL_L1472	Force Wave (debug)	衝撃波（仮名）	冲击波（暂定名）	衝擊波（暫時命名）	Kraftwelle (Debug)	Onda de fuerza (debug)	Onde de force (debug)	Onda di forza (debug)
+SKILL_L1473	Spinning Attack (debug)	回転範囲攻撃（仮名）	旋转范围攻击（暂定名）	旋轉範圍攻擊（暫時命名）	Wirbel-Angriff (Debug)	Ataque giratorio (debug)	Attaque tournoyante (debug)	Attacco vorticante (debug)
+SKILL_L1474	Straight Attack (debug)	直線範囲攻撃（仮名）	直线范围攻击（暂定名）	直線範圍攻擊（暫時命名）	Gerader Angriff (Debug)	Ataque directo (debug)	Attaque droite (debug)	Attacco diretto (debug)
+SKILL_L1475	Standing Range (debug)	足元範囲（仮名）	脚下范围（暂定名）	腳邊範圍（暫時命名）	Standreichweite (Debug)	Alcance erguido (debug)	Portée debout (debug)	Tiro di precisione (debug)
+SKILL_L1476	Homing Bomb (debug)	ホーミング弾（仮名）	跟踪弹（暂定名）	追蹤彈（暫時命名）	Suchbombe (Debug)	Bomba guiada (debug)	Bombe chercheuse (debug)	Bomba a ricerca (debug)
+SKILL_L1536	Horizontal Spin Rush (debug)	横回転突進（仮）	横向旋转突击（暂定）	橫向旋轉衝撞（暫定）	Horizontaler Wirbelrausch (Debug)	Acometida giratoria horizontal (debug)	Tourbillon horizontal (debug)	Carica rotante orizzontale (debug)
+SKILL_L1537	Vertical Spin Rush (debug)	縦回転突進（仮）	纵向旋转突击（暂定）	縱向旋轉衝撞（暫定）	Vertikaler Wirbelrausch (Debug)	Acometida giratoria vertical (debug)	Tourbillon vertical (debug)	Carica rotante verticale (debug)
+SKILL_L1538	Taxi Throw (debug)	タクシー投げ（仮）	投掷出租车（暂定）	投擲計程車（暫定）	Taxischleuder (Debug)	Lanzamiento de taxi (debug)	Jet taxi (debug)	Lancio del taxi (debug)
+SKILL_L1542	Power Fuel (debug)	強化燃料（仮）	强化燃料（暂定）	強化燃料（暫定）	Kraftstoff (Debug)	Combustible potente (debug)	Carburant (debug)	Energizzante (debug)
+SKILL_L1544	Razor Barrage (debug)	連続レーザー（仮）	连续激光（暂定）	連續雷射（暫定）	Rasierklingen-Sperrfeuer (Debug)	Aluvión de cuchillas (debug)	Barrage coupant (debug)	Raffica tagliente (debug)
+SKILL_L1545	Attack Up, Defense Down (debug)	攻撃強化＆防御低下（仮）	强化攻击&降低防御（暂定）	攻擊強化＆防禦降低（暫定）	Voller Angriff, keine Abwehr (Debug)	Ataque aumentado, defensa reducida (debug)	Attaque élevée, défense basse (debug)	Attacco +, Difesa - (debug)
+SKILL_L1546	Explode (debug)	自爆（仮）	自爆（暂定）	自爆（暫定）	Explodieren (Debug)	Explosión (debug)	Explosion (debug)	Esplosione (debug)
+SKILL_L1547	Hiruko Drop (debug)	ヒルコ落とし（仮）	天降蛭子（暂定）	水蛭子落下（暫定）	Hiruko-Wurf (Debug)	Caída de Hiruko (debug)	Frappe d'Hiruko (debug)	Goccia di Hiruko (debug)
+SKILL_L1548	Do It Now! (debug)	今だやれ！（仮）	现在动手！（暂定）	就是現在！上啊（暫定）	Tu es jetzt! (Debug)	¡Hazlo ahora! (debug)	Maintenant ! (debug)	È il momento! (debug)
+SKILL_L1549	Take Unawares (debug)	だまし討ち（仮）	偷袭（暂定）	冷不防偷襲（暫定）	Aus Versehen (Debug)	Por sorpresa (debug)	Attaque-surprise (debug)	Attacco a sorpresa (debug)
+SKILL_L1550	Devil's Bane	殺魔一閃	杀魔一闪	殺魔一閃	Geißel des Teufels	Azote de demonios	Fléau des démons	Flagello del diavolo
+SKILL_L1551	Devil's Bane Reversal	殺魔一閃返し	反杀魔一闪	殺魔一閃返	Umkehr: Geißel des Teufels	Desvío de Azote de demonios	Fléau des démons inversé	Anti-Flagello del diavolo
+SKILL_L1552	Bullet Block (debug)	弾丸弾き（仮）	反弹子弹（暂定）	子彈彈射（暫定）	Kugelblockade (Debug)	Bloquear balas (debug)	Blocage de tir (debug)	Blocco proiettili (debug)
+SKILL_L1555	COMP Sword	太刀型COMP	太刀型COMP	太刀型COMP	COMP-Schwert	Espada COMP	Épée COMP	Spada COMP
+SKILL_L1556	Guard	ガード	格挡	防禦	Deckung	Protegerse	Garde	Parata
+SKILL_L1557	Backstep	バックステップ	后撤步	後墊步	Schritt zurück	Paso atrás	Pas de recul	Arretramento
+SKILL_L1558	Celerity	急接近	迅速逼近	迅速接近	Schnelligkeit	Celeridad	Célérité	Rapidità

@@ -1,0 +1,220 @@
+id	EN
+SKILLHELP_L0000	No skill
+SKILLHELP_L0001	Light Fire attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0002	Heavy Fire attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0003	Medium Fire attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0004	Heavy Fire attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0005	Medium Fire attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0006	Heavy Fire attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0007	Light Fire attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0008	Heavy Fire attack to 1 target | Area effect | Ignores resistances | <SKL_17>: <V 0>
+SKILLHELP_L0016	Light Ice attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0017	Heavy Ice attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0018	Medium Ice attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0019	Heavy Ice attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0020	Medium Ice attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0021	Heavy Ice attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0022	Light Ice attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0023	Heavy Ice attack to 1 target | Area effect | Ignores resistances | <SKL_17>: <V 0>
+SKILLHELP_L0032	Light Electric attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0033	Heavy Electric attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0034	Medium Electric attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0035	Heavy Electric attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0036	Medium Electric attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0037	Heavy Electric attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0038	Light Electric attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0039	Heavy Electric attack to 1 target | Area effect | Ignores resistances | <SKL_17>: <V 0>
+SKILLHELP_L0048	Light Force attack to 1 target | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0049	Heavy Force attack to 1 target | Area effect | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0050	Medium Force attack to a medium area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0051	Heavy Force attack to a large area around self | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0052	Medium Force attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0053	Heavy Force attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0054	Light Force attack | Penetrating effect | Multi-hit | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0055	Heavy Force attack to 1 target | Area effect | Ignores resistances | <SKL_17>: <V 0>
+SKILLHELP_L0056	Medium Force attack in a three-way spread | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0064	Heavy Almighty attack to a medium area around self | <SKL_17>: <V 0>
+SKILLHELP_L0065	Severe Almighty attack to a massive area around self | <SKL_17>: <V 0>
+SKILLHELP_L0080	Death attack to 1 target | Halves target's HP | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0081	Death attack to a medium area around self | Halves target's HP | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0082	Death attack to a medium area around self | Moderate chance to instakill | MAG: <V 1>
+SKILLHELP_L0096	Light Mind attack to a medium area around self | Moderate chance to inflict Charm | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0097	Light Mind attack to a medium area around self | Moderate chance to inflict Sleep | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0098	Light Mind attack to a medium area around self | Moderate chance to inflict Confuse | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0099	Light Mind attack to a medium area around self | Moderate chance to inflict Mute | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0100	Light Mind attack to a medium area around self | Low chance to inflict Stone | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0112	Slightly restores HP to 1 ally | MAG: <V 1>
+SKILLHELP_L0113	Moderately restores HP to 1 ally | MAG: <V 1>
+SKILLHELP_L0114	Fully restores HP to 1 ally | MAG: <V 1>
+SKILLHELP_L0115	Slightly restores HP to party | MAG: <V 1>
+SKILLHELP_L0116	Heals ailments except Stun and other special ailments | MAG: <V 1>
+SKILLHELP_L0117	Temporarily grants light HP regeneration for 1 ally | MAG: <V 1>
+SKILLHELP_L0118	Revives 1 ally with slightly restored HP | MAG: <V 1>
+SKILLHELP_L0119	Revives 1 ally with fully restored HP | MAG: <V 1>
+SKILLHELP_L0120	Temporarily grants moderate HP regeneration for 1 ally | MAG: <V 1>
+SKILLHELP_L0121	Moderately restores HP to party | MAG: <V 1>
+SKILLHELP_L0128	Raises physical attack power of party until battle ends | MAG: <V 1>
+SKILLHELP_L0129	Raises magic attack power of party until battle ends | MAG: <V 1>
+SKILLHELP_L0130	Raises defense power of party until battle ends | MAG: <V 1>
+SKILLHELP_L0131	Temporarily greatly raises physical attack power of party | MAG: <V 1>
+SKILLHELP_L0132	Temporarily greatly raises magic defense power of party | MAG: <V 1>
+SKILLHELP_L0133	Temporarily greatly raises physical defense power of party | MAG: <V 1>
+SKILLHELP_L0134	Dispels stat buffs on all foes | MAG: <V 1>
+SKILLHELP_L0144	Raidou's sword thrust
+SKILLHELP_L0145	Raidou's combo, first hit
+SKILLHELP_L0146	Raidou's combo, second hit
+SKILLHELP_L0147	Raidou's combo, third hit
+SKILLHELP_L0148	Raidou's charge attack
+SKILLHELP_L0149	Light Physical attack to 1 target
+SKILLHELP_L0150	Light Physical attack to 1 target | Multi-hit | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0151	Heavy Physical attack to 1 target | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0152	Medium Physical attack to a large area around self | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0153	Heavy Physical attack to 1 target | Moderate chance to inflict Rage | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0154	Medium Physical attack to 1 target | Moderate chance to inflict Poison | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0155	Medium Physical attack in an arc | Ignores resistances | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0156	Medium Physical attack in multiple straight lines | Area effect | <SKL_17>: <V 0>
+SKILLHELP_L0157	Medium Physical attack in an expanding shape in front of self | Multi-hit | <SKL_17>: <V 0>
+SKILLHELP_L0158	Heavy Physical attack to a medium area around self | <SKL_17>: <V 0>
+SKILLHELP_L0163	Severe Physical attack with unlimited reach | <SKL_17>: <V 0>
+SKILLHELP_L0168	Light Physical dash attack | Multi-hit | Low chance to inflict Dizzy | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0176	Light Gun attack to 1 target | MAG: <V 1>
+SKILLHELP_L0191	Heavy Gun attack to 1 target | <SKL_17>: <V 0>
+SKILLHELP_L0208	Temporarily nullifies Fire, Ice, Electric, Force, Death, and Mind attacks against party
+SKILLHELP_L0212	Temporarily nullifies Physical attacks against party
+SKILLHELP_L0220	Temporarily stops movement of all foes | MAG: <V 1>
+SKILLHELP_L0221	Calls for reinforcements
+SKILLHELP_L0223	Temporarily drains Death attacks against party | MAG: <V 1>
+SKILLHELP_L0240	High chance to trigger a heavy Almighty attack to an area around self upon death
+SKILLHELP_L0241	Automatically restores HP to Raidou and self when battle ends
+SKILLHELP_L0242	Gradually restores HP to self and allies in an area around self
+SKILLHELP_L0245	Revive with 1 HP upon death once per battle
+SKILLHELP_L0246	Enables easier escape from battles the user participates in
+SKILLHELP_L0247	Increases money earned from battles the user participates in
+SKILLHELP_L0248	Increases items dropped from battles the user participates in
+SKILLHELP_L0250	Increases Loyalty earned from battles the user participates in
+SKILLHELP_L0251	Increases max HP by 10%
+SKILLHELP_L0252	Increases max HP by 20%
+SKILLHELP_L0253	Increases max HP by 30%
+SKILLHELP_L0254	Increases max MAG
+SKILLHELP_L0255	Increases max MAG
+SKILLHELP_L0256	Greatly increases max MAG
+SKILLHELP_L0257	Chance of boosting physical attack power
+SKILLHELP_L0258	Chance of boosting magic attack power
+SKILLHELP_L0259	Boosts Fire attack power
+SKILLHELP_L0260	Boosts Ice attack power
+SKILLHELP_L0261	Boosts Electric attack power
+SKILLHELP_L0262	Boosts Force attack power
+SKILLHELP_L0263	Boosts effectiveness of healing skills
+SKILLHELP_L0264	Boosts chance of inflicting Mind ailments
+SKILLHELP_L0265	Halves Fire damage taken | Overrides Fire weakness
+SKILLHELP_L0266	Halves Ice damage taken | Overrides Ice weakness
+SKILLHELP_L0267	Halves Electric damage taken | Overrides Electric weakness
+SKILLHELP_L0268	Halves Force damage taken | Overrides Force weakness
+SKILLHELP_L0269	Halves Physical damage taken | Overrides Physical weakness
+SKILLHELP_L0270	Halves chance of being hit with Death attacks | Overrides Death weakness
+SKILLHELP_L0271	Halves Mind damage taken | Halves chance of being afflicted with Mind ailments
+SKILLHELP_L0312	Restores 50% of max MAG
+SKILLHELP_L0313	Cures status ailments and triggers Zeal for party
+SKILLHELP_L0384	Light Fire attack to 1 target
+SKILLHELP_L0385	Heavy Fire attack to 1 target | Area effect
+SKILLHELP_L0386	Medium Fire attack in a three-way spread | 2-5 additional damage ticks
+SKILLHELP_L0387	Heavy Fire attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0388	Light Ice attack to 1 target
+SKILLHELP_L0389	Heavy Ice attack to 1 target | Area effect
+SKILLHELP_L0390	Medium Ice attack in a three-way spread | 2-5 additional damage ticks
+SKILLHELP_L0391	Heavy Ice attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0392	Light Electric attack to 1 target
+SKILLHELP_L0393	Heavy Electric attack to 1 target | Area effect
+SKILLHELP_L0394	Medium Electric attack in a three-way spread | 2-5 additional damage ticks
+SKILLHELP_L0395	Heavy Electric attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0396	Light Force attack to 1 target
+SKILLHELP_L0397	Heavy Force attack to 1 target | Area effect
+SKILLHELP_L0398	Medium Force attack in a three-way spread | 2-5 additional damage ticks
+SKILLHELP_L0399	Heavy Force attack to 1 target | 2-5 additional damage ticks | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0400	Death attack to 1 target | Halves target's HP
+SKILLHELP_L0401	Light Mind attack to a medium area around self | Moderate chance to inflict Charm
+SKILLHELP_L0402	Light Mind attack to a medium area around self | Moderate chance to inflict Sleep
+SKILLHELP_L0403	Light Mind attack to a medium area around self | Moderate chance to inflict Confuse
+SKILLHELP_L0404	Light Mind attack to a medium area around self | Moderate chance to inflict Mute
+SKILLHELP_L0405	Light Mind attack to a medium area around self | Low chance to inflict Stone
+SKILLHELP_L0406	Slightly restores HP to party
+SKILLHELP_L0529	Light Fire attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0545	Light Ice attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0561	Light Electric attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0577	Light Force attack in a three-way spread | <SKL_17>: <V 0> | MAG: <V 1>
+SKILLHELP_L0658	Greatly raises physical attack power of party until battle ends | MAG: <V 1>
+SKILLHELP_L0659	Greatly raises magic attack power of party until battle ends | MAG: <V 1>
+SKILLHELP_L0660	Greatly raises defense power of party until battle ends | MAG: <V 1>
+SKILLHELP_L0661	Temporarily repels physical attacks against party | MAG: <V 1>
+SKILLHELP_L0690	Severe Fire attack to all targets
+SKILLHELP_L0691	Severe Electric attack to all targets
+SKILLHELP_L0692	Severe Force attack to all targets
+SKILLHELP_L0695	Severe Electric attack to all targets
+SKILLHELP_L0696	Severe Ice attack to all targets
+SKILLHELP_L0699	Severe Electric attack to all targets
+SKILLHELP_L0701	Severe Death attack to all targets
+SKILLHELP_L0744	Temporarily lets Raidou fire his gun without limit and increases its damage
+SKILLHELP_L0752	Heavy Fire attack to a large area around self
+SKILLHELP_L0753	Heavy Ice attack to a large area around self
+SKILLHELP_L0754	Heavy Electric attack to a large area around self
+SKILLHELP_L0755	Heavy Force attack to a large area around self
+SKILLHELP_L0809	Increases Strength by 3
+SKILLHELP_L0810	Increases Magic by 3
+SKILLHELP_L0811	Halves chance of being hit with Death attacks | Overrides Death weakness
+SKILLHELP_L0812	Halves Mind damage taken | Halves chance of being afflicted with Mind ailments
+SKILLHELP_L0813	Increases Vitality by 3
+SKILLHELP_L0814	Increases Luck by 3
+SKILLHELP_L0815	Reduces MAG consumption when using skills
+SKILLHELP_L0816	Greatly increases critical rate for basic attacks, but adds a low chance to miss
+SKILLHELP_L0819	Halves chance of sustaining an instakill
+SKILLHELP_L0820	Prevents chance of sustaining an instakill
+SKILLHELP_L0822	Boosts Death attack effectiveness
+SKILLHELP_L0828	Revive with half HP upon death once per battle
+SKILLHELP_L0829	Restores some HP to self after winning a battle
+SKILLHELP_L0830	Restores HP to self after winning a battle with amount restored influenced by Luck
+SKILLHELP_L0831	Chance to occasionally find money while walking
+SKILLHELP_L0832	Chance to find a decent amount of money while walking
+SKILLHELP_L0833	Chance to occasionally find items while walking
+SKILLHELP_L0839	Increases all stats by 3
+SKILLHELP_L0843	Increases the amount of time support skills affect allies and continuous recovery skills affect self
+SKILLHELP_L0845	Increases MAG drain amount
+SKILLHELP_L0846	Increases critical rate for basic attacks
+SKILLHELP_L0850	Increases Loyalty earned from battles the user participates in
+SKILLHELP_L0854	Increases EXP earned by the user
+SKILLHELP_L0860	Acquire EXP even when not summoned in battle
+SKILLHELP_L0861	Chance to nullify damage taken or status ailment affliction with chance influenced by Luck
+SKILLHELP_L0969	Boosts attack power for all attacks
+SKILLHELP_L1044	Halves Physical damage taken
+SKILLHELP_L1049	Halves Ice and Force damage taken
+SKILLHELP_L1050	Halves Fire and Electric damage taken
+SKILLHELP_L1051	Halves Mind and Death damage taken
+SKILLHELP_L1073	Revive with 1 HP upon death once per battle
+SKILLHELP_L1074	Revive with half HP upon death once per battle
+SKILLHELP_L1079	Gradually restores HP to Raidou and nearby demon allies
+SKILLHELP_L1084	Revive with full HP upon death once per battle
+SKILLHELP_L1381	Increases the chance to trigger Devil's Bane out of a dodge or Devil's Feint
+SKILLHELP_L1384	Reduces damage taken when guarding | Can stack with Dragon Stance
+SKILLHELP_L1385	Reduces damage taken when guarding | Can stack with Tiger Stance
+SKILLHELP_L1386	Increases effectiveness of dodging | Can stack with Tortoise-Snake Step
+SKILLHELP_L1387	Increases effectiveness of dodging | Can stack with Phoenix Step
+SKILLHELP_L1388	Decreases the chance of a confinement failing
+SKILLHELP_L1389	Greatly raises the power of sword attacks when at low HP or afflicted with Poison, Confuse, or Mute
+SKILLHELP_L1390	Increases amount of MAG using sword attacks recovers when at low HP or afflicted with Poison, Confuse, or Mute
+SKILLHELP_L1391	Greatly increases damage allies deal to foes' weakness shields
+SKILLHELP_L1392	Nullifies all status ailments
+SKILLHELP_L1393	Enables sword attacks to deal increased damage while at full HP
+SKILLHELP_L1395	Increases damage dealt by Devil's Bane
+SKILLHELP_L1397	20% of damage taken restores MAG
+SKILLHELP_L1440	Slightly decreases the amount of time until Raidou's Combat Skills can be used again
+SKILLHELP_L1441	Increases damage dealt by Spirit Slashes
+SKILLHELP_L1442	Increases critical rate of sword attacks when attacking foes from behind
+SKILLHELP_L1443	Increases MAG recovery when combo is 25 or higher
+SKILLHELP_L1444	Increases bullet-loading speed while locking on to a target
+SKILLHELP_L1445	Restores MAG when connecting the final hit of a heavy sword combo or a charged heavy sword combo
+SKILLHELP_L1446	Restores MAG over time
+SKILLHELP_L1447	Reduces demons' MAG consumption
+SKILLHELP_L1448	Provides a chance that demons' attacks will not consume MAG
+SKILLHELP_L1449	Increases damage dealt to stunned enemies
+SKILLHELP_L1450	Greatly increases damage dealt by and MAG cost of demons' attacks
+SKILLHELP_L1451	Some MAG will be restored when stunning an enemy via striking their weakness
+SKILLHELP_L1452	All Spirit-gaining methods will build Spirit faster in battle

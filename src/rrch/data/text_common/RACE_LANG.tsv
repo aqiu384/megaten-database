@@ -1,0 +1,66 @@
+id	EN	JA	ZH	CH	DE	ES	FR	IT
+RACE_L0001	Pyro	紅蓮属	红莲属	紅蓮屬	Pyro	Ígneo	Flamme	Fiamma
+RACE_L0002	Frost	銀氷属	银冰属	銀冰屬	Frost	Gélido	Givre	Gelo
+RACE_L0003	Volt	雷電属	雷电属	雷電屬	Strom	Voltaico	Volt	Volt
+RACE_L0004	Wind	疾風属	疾风属	疾風屬	Wind	Viento	Vent	Vento
+RACE_L0005	Fury	蛮力属	蛮力属	蠻力屬	Zorn	Furia	Furie	Furia
+RACE_L0006	Pagan	外法属	外法属	外法屬	Pagan	Pagano	Païen	Paganesimo
+RACE_L0007	Skill	技芸属	技艺属	技藝屬	Skill	Habilidad	Compétence	Abilità
+RACE_L0008	Element	精霊属	精灵属	精靈屬	Element	Elemental	Élément	Elementale
+RACE_L0009	Mitama	御魂属	御魂属	御魂屬	Mitama	Mitama	Mitama	Mitama
+RACE_L0010	Fiend	魔人属	魔人属	魔人屬	Scheusal	Oscuro	Maudit	Diavolo
+RACE_L0011	Evil	禍津属	祸津属	禍津屬	Böse	Maldad	Mal	Male
+RACE_L0012	Undead	屍鬼	尸鬼	屍鬼	Untot	No muerto	Mort-vivant	Non morto
+RACE_L0013	Super Soldier	超力兵	超力兵	超力兵	Übersoldat	Supersoldado	Soldat d'élite	Super Soldato
+RACE_L0014	Yakuza	外道	外道	外道	Yakuza	Yakuza	Yakuza	Yakuza
+RACE_L0015	Monster	怪人	怪人	怪人	Monster	Monstruo	Monstre	Mostro
+RACE_L0016	Chrysalis	蛹体	蛹体	蛹體	Chrysalis	Crisálida	Chrysalide	Crisalide
+RACE_L0018	Monk	怪僧	怪僧	妖僧	Mönch	Monje	Moine	Monaco
+RACE_L0019	Tokoyogami	常世神	常世神	常世神	Tokoyogami	Tokoyogami	Tokoyogami	Tokoyogami
+RACE_L0020	Satellite	衛星	卫星	衛星	Satellit	Satélite	Satellite	Satellite
+RACE_L0021	Battleship	超力戦艦	超力战舰	超力戰艦	Schlachtschiff	Acorazado	Cuirassé	Corazzata
+RACE_L0022	Soulless God	超力超神	超力超神	超力超神	Seelenloser Gott	Dios desalmado	Dieu sans âme	Dio senz'anima
+RACE_L0023	???	？？？	？？？	？？？	???	¿?	???	???
+RACE_L0035	Pyro	紅蓮	红莲	紅蓮	Pyro	Ígneo	Flamme	Fiamma
+RACE_L0036	Frost	銀氷	银冰	銀冰	Frost	Gélido	Givre	Gelo
+RACE_L0037	Volt	雷電	雷电	雷電	Strom	Voltaico	Volt	Volt
+RACE_L0038	Wind	疾風	疾风	疾風	Wind	Viento	Vent	Vento
+RACE_L0039	Fury	蛮力	蛮力	蠻力	Zorn	Furia	Furie	Furia
+RACE_L0040	Pagan	外法	外法	外法	Pagan	Pagano	Païen	Paganesimo
+RACE_L0041	Skill	技芸	技艺	技藝	Skill	Habilidad	Compétence	Abilità
+RACE_L0042	Element	精霊	精灵	精靈	Element	Elemental	Élément	Elementale
+RACE_L0043	Mitama	御魂	御魂	御魂	Mitama	Mitama	Mitama	Mitama
+RACE_L0044	Fiend	魔人	魔人	魔人	Scheusal	Oscuro	Maudit	Diavolo
+RACE_L0045	Evil	禍津	祸津	禍津	Böse	Maldad	Mal	Male
+RACE_L0046	Undead	屍鬼	尸鬼	屍鬼	Untot	No muerto	Mort-vivant	Non morto
+RACE_L0047	Super Soldier	超力兵	超力兵	超力兵	Übersoldat	Supersoldado	Soldat d'élite	Super Soldato
+RACE_L0048	Yakuza	外道	外道	外道	Yakuza	Yakuza	Yakuza	Yakuza
+RACE_L0049	Monster	怪人	怪人	怪人	Monster	Monstruo	Monstre	Mostro
+RACE_L0050	Chrysalis	蛹体	蛹体	蛹體	Chrysalis	Crisálida	Chrysalide	Crisalide
+RACE_L0052	Monk	怪僧	怪僧	妖僧	Mönch	Monje	Moine	Monaco
+RACE_L0053	Tokoyogami	常世神	常世神	常世神	Tokoyogami	Tokoyogami	Tokoyogami	Tokoyogami
+RACE_L0054	Satellite	衛星	卫星	衛星	Satellit	Satélite	Satellite	Satellite
+RACE_L0055	Battleship	超力戦艦	超力战舰	超力戰艦	Schlachtschiff	Acorazado	Cuirassé	Corazzata
+RACE_L0056	Soulless God	超力超神	超力超神	超力超神	Seelenloser Gott	Dios desalmado	Dieu sans âme	Dio senz'anima
+RACE_L0057	???	？？？	？？？	？？？	???	¿?	???	???
+RACE_L0069	Pyro	紅蓮	红莲	紅蓮	Pyro	Ígneo	Flamme	Fiamma
+RACE_L0070	Frost	銀氷	银冰	銀冰	Frost	Gélido	Givre	Gelo
+RACE_L0071	Volt	雷電	雷电	雷電	Strom	Voltaico	Volt	Volt
+RACE_L0072	Wind	疾風	疾风	疾風	Wind	Viento	Vent	Vento
+RACE_L0073	Fury	蛮力	蛮力	蠻力	Zorn	Furia	Furie	Furia
+RACE_L0074	Pagan	外法	外法	外法	Pagan	Pagano	Païen	Paganesimo
+RACE_L0075	Skill	技芸	技艺	技藝	Skill	Habilidad	Compétence	Abilità
+RACE_L0076	Element	精霊	精灵	精靈	Element	Elemental	Élément	Elementale
+RACE_L0077	Mitama	御魂	御魂	御魂	Mitama	Mitama	Mitama	Mitama
+RACE_L0078	Fiend	魔人	魔人	魔人	Scheusal	Oscuro	Maudit	Diavolo
+RACE_L0079	Evil	禍津	祸津	禍津	Böse	Maldad	Mal	Male
+RACE_L0080	Undead	屍鬼	尸鬼	屍鬼	Untot	No muerto	Mort-vivant	Non morto
+RACE_L0081	Super Soldier	超力兵	超力兵	超力兵	Übersoldat	Supersoldado	Soldat d'élite	Super Soldato
+RACE_L0082	Yakuza	外道	外道	外道	Yakuza	Yakuza	Yakuza	Yakuza
+RACE_L0083	Monster	怪人	怪人	怪人	Monster	Monstruo	Monstre	Mostro
+RACE_L0084	Chrysalis	蛹体	蛹体	蛹體	Chrysalis	Crisálida	Chrysalide	Crisalide
+RACE_L0086	Monk	怪僧	怪僧	妖僧	Mönch	Monje	Moine	Monaco
+RACE_L0087	Tokoyogami	常世神	常世神	常世神	Tokoyogami	Tokoyogami	Tokoyogami	Tokoyogami
+RACE_L0088	Satellite	衛星	卫星	衛星	Satellit	Satélite	Satellite	Satellite
+RACE_L0089	Battleship	超力戦艦	超力战舰	超力戰艦	Schlachtschiff	Acorazado	Cuirassé	Corazzata
+RACE_L0090	Soulless God	超力超神	超力超神	超力超神	Seelenloser Gott	Dios desalmado	Dieu sans âme	Dio senz'anima
