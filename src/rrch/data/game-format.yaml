@@ -99,7 +99,7 @@ skillNames:
     msgStr: lang
 confineDrops:
   inputPath: data/battle/temp/sb_devilhuumaitem.json
-  outputPath: data/battle/sb_devilhuuumaitem.tsv
+  outputPath: data/battle/sb_devilhuumaitem.tsv
   rowLocationNesting: ["m_Structure", "_devilhuumaitem"]
   colFormat:
     gageNo:

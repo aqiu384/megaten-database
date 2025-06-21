@@ -1,24 +1,26 @@
-demonData:
-  inputPath: data/battle/sb_devilformat.tsv
-  outputPath: data/demon-data.json
+commonData:
   language: 'EN'
   colFormat:
-    name:
+    demonNames:
       inputPath: data/text_common/DEVIL_LANG.tsv
-      key: id
-    description:
+    demonDescs:
       inputPath: data/text_common/DEVILGUIDE_LANG.tsv
-      key: id
-    # inherit:
-    lvl:
-      key: level
-    # person:
-    race:
+    skillNames:
+      inputPath: data/text_common/SKILL_LANG.tsv
+    skillDescs:
+      inputPath: data/text_common/SKILLHELP_LANG.tsv
+    investSkillNames:
+      inputPath: data/text_common/MAPSKIL_LANG.tsv
+    itemNames:
+      inputPath: data/text_common/ITEM_LANG.tsv
+    itemDescs:
+      inputPath: data/text_common/ITEMHELP_LANG.tsv
+    races:
       inputPath: data/text_common/RACE_LANG.tsv
-      key: kuda_id
+    elements:
+      inputPath: data/text_common/AISYO_LANG.tsv
     resists:
       inputPath: data/battle/sb_aisyotbl.tsv
-      key: aishou
       resistKeys:
       - resist0
       - resist1
@@ -41,9 +43,19 @@ demonData:
         "1": 10
         n: 4196 # 0x1000 + 100
         d: 8292 # 0x2000 + 100
+demonData:
+  inputPath: data/battle/sb_devilformat.tsv
+  outputPath: data/demon-data.json
+  language: 'EN'
+  colFormat:
+    name: id
+    # inherit:
+    lvl: level
+    # person:
+    race: kuda_id
+    resists: aishou
     skills:
       datatype: stringList
-      inputPath: data/text_common/SKILL_LANG.tsv
       keys:
       - skill0
       - skill1
@@ -55,36 +67,45 @@ demonData:
       - skill7
       - memskillid0
       - memskillid1
-    skillEffects:
-      inputPath: data/text_common/SKILLHELP_LANG.tsv
-      key: id
-    skilli:
-      inputPath: data/text_common/MAPSKIL_LANG.tsv
-      key: mskskill
+    skilli: mskskill
     stats:
       datatype: numberList
       keys: ["hp", "str", "tec", "vit", "luck"]
+confineDropData:
+  inputPath: data/battle/sb_devilhuumaitem.tsv
+  outputPath: data/confine-drops.json
+  language: 'EN'
+  colFormat:
+    demon:
+      inputPath: data/battle/sb_devilformat.tsv
+      key: huumaID
+      offset: 80
+    failureRate: failureRitu
+    dropItems:
+      datatype: stringList
+      keys:
+      - getItem0
+      - getItem1
+      - getItem2
+      - getItem3
+      - getItem4
+    dropRates:
+      dataType: numberList
+      keys:
+      - getRitu0
+      - getRitu1
+      - getRitu2
+      - getRitu3
+      - getRitu4
 skillData:
   inputPath: data/battle/sb_skilltbl.tsv
   outputPath: data/skill-data.json
   language: 'EN'
   colFormat:
-    name:
-      inputPath: data/text_common/SKILL_LANG.tsv
-      key: id
-    description:
-      inputPath: data/text_common/SKILLHELP_LANG.tsv
-      key: id
-    element:
-      inputPath: data/text_common/AISYO_LANG.tsv
-      key: attr
-    cost:
-      key: para
-    power:
-      key: n0
-    minhit:
-      key: count
-    maxhit:
-      key: count
-    chance:
-      key: percentage
+    name: id
+    element: attr
+    cost: para
+    power: n0
+    minhit: count
+    maxhit: count
+    chance: percentage
