@@ -1,0 +1,90 @@
+demonData:
+  inputPath: data/battle/sb_devilformat.tsv
+  outputPath: data/demon-data.json
+  language: 'EN'
+  colFormat:
+    name:
+      inputPath: data/text_common/DEVIL_LANG.tsv
+      key: id
+    description:
+      inputPath: data/text_common/DEVILGUIDE_LANG.tsv
+      key: id
+    # inherit:
+    lvl:
+      key: level
+    # person:
+    race:
+      inputPath: data/text_common/RACE_LANG.tsv
+      key: kuda_id
+    resists:
+      inputPath: data/battle/sb_aisyotbl.tsv
+      key: aishou
+      resistKeys:
+      - resist0
+      - resist1
+      - resist2
+      - resist3
+      - resist4
+      - resist5
+      - resist6
+      - resist7
+      resistCodes:
+        f: 16534 # 0x4000 + 150
+        E: 16484 # 0x4000 + 100
+        x: 300
+        W: 200
+        w: 150
+        "-": 100
+        "_": 131172 # 0x20000 + 100
+        s: 50
+        S: 131122 # 0x20000 + 50
+        "1": 10
+        n: 4196 # 0x1000 + 100
+        d: 8292 # 0x2000 + 100
+    skills:
+      datatype: stringList
+      inputPath: data/text_common/SKILL_LANG.tsv
+      keys:
+      - skill0
+      - skill1
+      - skill2
+      - skill3
+      - skill4
+      - skill5
+      - skill6
+      - skill7
+      - memskillid0
+      - memskillid1
+    skillEffects:
+      inputPath: data/text_common/SKILLHELP_LANG.tsv
+      key: id
+    skilli:
+      inputPath: data/text_common/MAPSKIL_LANG.tsv
+      key: mskskill
+    stats:
+      datatype: numberList
+      keys: ["hp", "str", "tec", "vit", "luck"]
+skillData:
+  inputPath: data/battle/sb_skilltbl.tsv
+  outputPath: data/skill-data.json
+  language: 'EN'
+  colFormat:
+    name:
+      inputPath: data/text_common/SKILL_LANG.tsv
+      key: id
+    description:
+      inputPath: data/text_common/SKILLHELP_LANG.tsv
+      key: id
+    element:
+      inputPath: data/text_common/AISYO_LANG.tsv
+      key: attr
+    cost:
+      key: para
+    power:
+      key: n0
+    minhit:
+      key: count
+    maxhit:
+      key: count
+    chance:
+      key: percentage
