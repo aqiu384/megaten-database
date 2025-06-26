@@ -1,0 +1,6 @@
+m_Difficulty	m_RetryType	m_EnemyHpRevice	m_PartyHealHp	m_PartyHealMp	m_FullAttackSurprise	m_DisableItem	m_Damage_PC	m_Reflect_PC	m_SabbathDamage	m_WeakDamage	m_CriticalDamage	m_Damage_EN	m_Reflect_EN	m_Badstatus_EN	m_Escape	m_EscapeB	m_SneakRatio	m_SurpriseRatio	m_ExpRatio	m_MapEnemySpeed	m_HealRatio	m_MpRatio	m_HitRatio_PC
+0	0	90	1	1	0	0	1.5	1	1.5	1	1	0.5	1	0.6	100	0	0	0	0.5	0.8	230	-50	200
+1	1	100	1	0	0	0	1	1	1	1	1	1	1	1	20	30	0	0	0.25	1	230	0	100
+2	2	100	1	0	0	0	0.8	1	0.8	1	1	1.25	1	1.2	10	18	-10	10	0.25	1	230	0	100
+3	2	100	0	0	1	1	0.5	1	0.7	1.4	1.4	1.6	1	1.5	0	5	-30	30	0.25	1	230	0	100
+4	2	100	0	0	1	1	0.5	1	0.7	1.4	1.4	1.6	1	1.5	0	5	-30	30	0.25	1	230	0	100

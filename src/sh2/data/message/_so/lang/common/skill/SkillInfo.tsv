@@ -1,0 +1,845 @@
+id	en
+SKILLINFO_DUM_000	ｺﾏﾝﾄﾞﾀﾞﾐｰの説明
+SKILLINFO_COM_000	Weak Fire damage to 1 enemy.
+SKILLINFO_COM_001	Medium Fire damage to 1 enemy.
+SKILLINFO_COM_002	Heavy Fire damage to 1 enemy.
+SKILLINFO_COM_003	Weak Fire damage to all enemies.
+SKILLINFO_COM_004	Medium Fire damage to all enemies.
+SKILLINFO_COM_005	Heavy Fire damage to all enemies.
+SKILLINFO_COM_006	2-4 weak bursts of Fire damage to multiple enemies.
+SKILLINFO_COM_007	2-4 medium bursts of Fire damage to multiple enemies.
+SKILLINFO_COM_008	4 medium bursts of Fire damage to multiple enemies.
+SKILLINFO_COM_009	火炎枠スキルの説明文
+SKILLINFO_COM_010	Weak Ice damage to 1 enemy.
+SKILLINFO_COM_011	Medium Ice damage to 1 enemy.
+SKILLINFO_COM_012	Heavy Ice damage to 1 enemy.
+SKILLINFO_COM_013	Weak Ice damage to all enemies.
+SKILLINFO_COM_014	Medium Ice damage to all enemies.
+SKILLINFO_COM_015	Heavy Ice damage to all enemies.
+SKILLINFO_COM_016	2-4 weak bursts of Ice damage to multiple enemies.
+SKILLINFO_COM_017	2-4 medium bursts of Ice damage to multiple enemies.
+SKILLINFO_COM_018	氷結枠の説明文
+SKILLINFO_COM_019	氷結枠の説明文
+SKILLINFO_COM_020	Weak Electricity damage to 1 enemy.
+SKILLINFO_COM_021	Medium Electricity damage to 1 enemy.
+SKILLINFO_COM_022	Heavy Electricity damage to 1 enemy.
+SKILLINFO_COM_023	Weak Electricity damage to all enemies.
+SKILLINFO_COM_024	Medium Electricity damage to all enemies.
+SKILLINFO_COM_025	Heavy Electricity damage to all enemies.
+SKILLINFO_COM_026	2-4 weak bursts of Electricity damage to multiple enemies.
+SKILLINFO_COM_027	2-4 medium bursts of Electricity damage to multiple enemies.
+SKILLINFO_COM_028	電撃枠の説明文
+SKILLINFO_COM_029	電撃枠の説明文
+SKILLINFO_COM_030	Weak Force damage to 1 enemy.
+SKILLINFO_COM_031	Medium Force damage to 1 enemy.
+SKILLINFO_COM_032	Heavy Force damage to 1 enemy.
+SKILLINFO_COM_033	Weak Force damage to all enemies.
+SKILLINFO_COM_034	Medium Force damage to all enemies.
+SKILLINFO_COM_035	Heavy Force damage to all enemies.
+SKILLINFO_COM_036	2-4 weak bursts of Force damage to multiple enemies.
+SKILLINFO_COM_037	2-4 medium bursts of Force damage to multiple enemies.
+SKILLINFO_COM_038	衝撃枠の説明文
+SKILLINFO_COM_039	衝撃枠の説明文
+SKILLINFO_COM_040	Weak Almighty damage to 1 enemy. Drains target's HP.
+SKILLINFO_COM_041	Medium Almighty damage to 1 enemy. Drains target's HP.
+SKILLINFO_COM_042	Weak Almighty damage to all enemies.
+SKILLINFO_COM_043	Medium Almighty damage to all enemies.
+SKILLINFO_COM_044	Heavy Almighty damage to all enemies.
+SKILLINFO_COM_045	Drains MP from 1 enemy. Almighty affinity.
+SKILLINFO_COM_046	万能枠の説明文
+SKILLINFO_COM_047	万能枠の説明文
+SKILLINFO_COM_048	万能枠の説明文
+SKILLINFO_COM_049	万能枠の説明文
+SKILLINFO_COM_050	Weak Physical damage to 1 enemy.
+SKILLINFO_COM_051	Medium Physical damage to 1 enemy.
+SKILLINFO_COM_052	Heavy Physical damage to 1 enemy.
+SKILLINFO_COM_053	Weak Physical damage to all enemies.
+SKILLINFO_COM_054	Medium Physical damage to all enemies.
+SKILLINFO_COM_055	Heavy Physical damage to all enemies.
+SKILLINFO_COM_056	2-4 weak bursts of Physical damage to multiple enemies.
+SKILLINFO_COM_057	2-4 medium bursts of Physical damage to multiple enemies.
+SKILLINFO_COM_058	4 heavy bursts of Physical damage to multiple enemies.
+SKILLINFO_COM_059	Weak Physical damage to 1 enemy. Lowers target's Defense.
+SKILLINFO_COM_060	Deals Physical damage to 1 enemy with power based on user's current HP, then drops user's HP to 1.
+SKILLINFO_COM_061	Weak Physical damage to 1 enemy. Drains target's HP.
+SKILLINFO_COM_062	Medium Physical damage to 1 enemy. Lowers target's Aim/Dodge.
+SKILLINFO_COM_063	Weak Physical damage to all enemies. Medium chance of inflicting Poison.
+SKILLINFO_COM_064	2 hits of weak Physical damage to 1 enemy.
+SKILLINFO_COM_065	Heavy Physical damage to 1 enemy. Boosted with higher Stack count.
+SKILLINFO_COM_066	Weak Physical damage to 1 enemy. Lowers target's Attack.
+SKILLINFO_COM_067	Weak Physical damage to 1 enemy. High Critical Rate, but low Hit Rate.
+SKILLINFO_COM_068	Medium Physical damage to 1 enemy. If it's a killing blow, adds 1 to the Stack.
+SKILLINFO_COM_069	Medium Physical damage to 1 enemy. High chance of inflicting Faint.
+SKILLINFO_COM_070	Medium Physical damage to all enemies. Lowers targets' Aim/Dodge.
+SKILLINFO_COM_071	Heavy Physical damage to all enemies.
+SKILLINFO_COM_072	Heavy Physical damage to all enemies.
+SKILLINFO_COM_073	物理枠の説明文
+SKILLINFO_COM_074	物理枠の説明文
+SKILLINFO_COM_075	物理枠の説明文
+SKILLINFO_COM_076	物理枠の説明文
+SKILLINFO_COM_077	物理枠の説明文
+SKILLINFO_COM_078	物理枠の説明文
+SKILLINFO_COM_079	物理枠の説明文
+SKILLINFO_COM_080	Weak Gunfire damage to 1 enemy. High Critical Rate.
+SKILLINFO_COM_081	Medium Gunfire damage to 1 enemy.
+SKILLINFO_COM_082	Heavy Gunfire damage to 1 enemy.
+SKILLINFO_COM_083	Weak Gunfire damage to all enemies.
+SKILLINFO_COM_084	Medium Gunfire damage to all enemies.
+SKILLINFO_COM_085	2-4 bursts of medium Gunfire damage to multiple enemies.
+SKILLINFO_COM_086	Heavy Gunfire damage to 1 enemy. High Critical Rate.
+SKILLINFO_COM_087	Weak Gunfire damage to 1 enemy. High chance of inflicting Paralysis.
+SKILLINFO_COM_088	Weak Gunfire damage to 1 enemy. High chance of inflicting Sleep.
+SKILLINFO_COM_089	Medium Gunfire damage to 1 enemy. Target is more likely to attack user.
+SKILLINFO_COM_090	Medium Gunfire damage to all enemies. Lowers targets' Aim/Dodge.
+SKILLINFO_COM_091	6 bursts of weak Gunfire damage to 1 enemy. Low Hit Rate.
+SKILLINFO_COM_092	Heavy Gunfire damage to all enemies.
+SKILLINFO_COM_093	Heavy Gunfire damage to 1 enemy. High Hit Rate.
+SKILLINFO_COM_094	銃撃枠の説明文
+SKILLINFO_COM_095	銃撃枠の説明文
+SKILLINFO_COM_096	銃撃枠の説明文
+SKILLINFO_COM_097	銃撃枠の説明文
+SKILLINFO_COM_098	銃撃枠の説明文
+SKILLINFO_COM_099	銃撃枠の説明文
+SKILLINFO_COM_100	Weak Ruin damage to 1 enemy. High chance of inflicting Poison.
+SKILLINFO_COM_101	Weak Ruin damage to 1 enemy. High chance of inflicting Paralysis.
+SKILLINFO_COM_102	Weak Ruin damage to 1 enemy. High chance of inflicting Sleep.
+SKILLINFO_COM_103	Weak Ruin damage to 1 enemy. High chance of inflicting Dread.
+SKILLINFO_COM_104	Weak Ruin damage to 1 enemy. High chance of inflicting Seal.
+SKILLINFO_COM_105	Weak Ruin damage to all enemies. Medium chance of inflicting Poison.
+SKILLINFO_COM_106	Weak Ruin damage to all enemies. Medium chance of inflicting Paralysis.
+SKILLINFO_COM_107	Weak Ruin damage to all enemies. Medium chance of inflicting Sleep.
+SKILLINFO_COM_108	Weak Ruin damage to all enemies. Medium chance of inflicting Dread.
+SKILLINFO_COM_109	Weak Ruin damage to all enemies. Medium chance of inflicting Seal.
+SKILLINFO_COM_110	魔法系の説明文
+SKILLINFO_COM_111	魔法系の説明文
+SKILLINFO_COM_112	魔法系の説明文
+SKILLINFO_COM_113	魔法系の説明文
+SKILLINFO_COM_114	魔法系の説明文
+SKILLINFO_COM_115	魔法系の説明文
+SKILLINFO_COM_116	魔法系の説明文
+SKILLINFO_COM_117	魔法系の説明文
+SKILLINFO_COM_118	魔法系の説明文
+SKILLINFO_COM_119	魔法系の説明文
+SKILLINFO_COM_120	魔法系の説明文
+SKILLINFO_COM_121	魔法系の説明文
+SKILLINFO_COM_122	魔法系の説明文
+SKILLINFO_COM_123	魔法系の説明文
+SKILLINFO_COM_124	魔法系の説明文
+SKILLINFO_COM_125	魔法系の説明文
+SKILLINFO_COM_126	魔法系の説明文
+SKILLINFO_COM_127	魔法系の説明文
+SKILLINFO_COM_128	魔法系の説明文
+SKILLINFO_COM_129	魔法系の説明文
+SKILLINFO_COM_130	Slight HP recovery for 1 ally.
+SKILLINFO_COM_131	Restores 1 ally's HP by a moderate amount.
+SKILLINFO_COM_132	Full HP recovery for 1 ally.
+SKILLINFO_COM_133	Slight HP recovery for all allies.
+SKILLINFO_COM_134	Restores all allies' HP by a moderate amount.
+SKILLINFO_COM_135	Full HP recovery for all allies.
+SKILLINFO_COM_136	Full HP recovery for all allies. Cures all status ailments other than KO.
+SKILLINFO_COM_137	Cures Sleep/Seal/Daze/Target for 1 ally.
+SKILLINFO_COM_138	Cures Sleep/Seal/Daze/Target for all allies.
+SKILLINFO_COM_139	Cures Poison/Paralysis/Dread/Bomb for 1 ally.
+SKILLINFO_COM_140	Cures Poison/Paralysis/Dread/Bomb for all allies.
+SKILLINFO_COM_141	Cures all status ailments other than KO for 1 ally.
+SKILLINFO_COM_142	Revives 1 ally with half HP.
+SKILLINFO_COM_143	Revives 1 ally with full HP.
+SKILLINFO_COM_144	回復系の説明文
+SKILLINFO_COM_145	回復系の説明文
+SKILLINFO_COM_146	回復系の説明文
+SKILLINFO_COM_147	回復系の説明文
+SKILLINFO_COM_148	回復系の説明文
+SKILLINFO_COM_149	回復系の説明文
+SKILLINFO_COM_150	Increases all allies' Attack for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_151	Increases all allies' Defense for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_152	Increases all allies' Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_153	Increases all allies' Defense/Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_154	Increases all allies' Attack/Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_155	Increases 1 ally's Attack/Defense/Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_156	Negates status debuffs on all allies.
+SKILLINFO_COM_157	Decreases all enemies' Attack for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_158	Decreases all enemies' Defense for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_159	Decreases all enemies' Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_160	Decreases all enemies' Attack/Defense for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_161	Decreases all enemies' Attack/Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_162	Decreases 1 enemy's Attack/Defense/Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_163	Negates status buffs on all enemies.
+SKILLINFO_COM_164	Repels 1 Physical attack for all allies. Can't coexist with a Magic repel effect.
+SKILLINFO_COM_165	Repels 1 non-Almighty Magic attack for all allies. Can't coexist with a Physical repel effect. 
+SKILLINFO_COM_166	Sharply boosts user's next Phys/Gun attack. +1 to Stack gains from hitting a weakness.
+SKILLINFO_COM_167	Sharply boosts user's next Magic attack. +1 to Stack gains from hitting a weakness.
+SKILLINFO_COM_168	User's next Physical/Gunfire attack will be a critical hit.
+SKILLINFO_COM_169	For 3 turns, reduces 1 enemy's Fire resistance to “Normal.''
+SKILLINFO_COM_170	For 3 turns, reduces 1 enemy's Ice resistance to “Normal.''
+SKILLINFO_COM_171	For 3 turns, reduces 1 enemy's Electricity resistance to “Normal.''
+SKILLINFO_COM_172	For 3 turns, reduces 1 enemy's Force resistance to “Normal.''
+SKILLINFO_COM_173	For 3 turns, increases 1 ally's Fire resistance to “Resist.''
+SKILLINFO_COM_174	For 3 turns, increases 1 ally's Ice resistance to “Resist.''
+SKILLINFO_COM_175	For 3 turns, increases 1 ally's Electricity resistance to “Resist.''
+SKILLINFO_COM_176	For 3 turns, increases 1 ally's Force resistance to “Resist.''
+SKILLINFO_COM_177	Protects an ally, taking damage in their place.
+SKILLINFO_COM_178	Guarantees escape from most battles (minus certain exceptions).
+SKILLINFO_COM_181	Decreases Defense and Aim/Dodge for all enemies for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_182	Increases Attack/Defense for all allies for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+SKILLINFO_COM_183	Increases chance of all enemies targeting an ally for 3 turns.
+SKILLINFO_COM_184	For the turn used, certain Fire/Ice/Electricity/Force skills are 1.5x stronger, but cost 2x MP.
+SKILLINFO_COM_185	For the turn used, certain Almighty skills are 1.5x stronger, but cost 2x MP.
+SKILLINFO_COM_186	Reverses status buffs and debuff effects for all allies.
+SKILLINFO_COM_187	For the turn used, all other allies' Stack gains from striking enemy weaknesses increase by 1.
+SKILLINFO_COM_200	4 medium bursts of Physical damage to multiple enemies.
+SKILLINFO_COM_201	Electricity damage to all enemies. The lower the user's HP, the higher the damage.
+SKILLINFO_COM_202	Heavy Almighty damage to all enemies. Randomly adds 1-3 to the Stack.
+SKILLINFO_COM_203	3-7 weak bursts of Gunfire damage to multiple enemies. Higher AGI means more hits.
+SKILLINFO_COM_204	2-4 weak bursts of Ice damage to multiple enemies. Ignores Resist/Null.
+SKILLINFO_COM_205	Heals all allies' HP by a moderate amount. Negates debuffs.
+SKILLINFO_COM_206	Greatly strengthens user's next Physical attack. Guaranteed to be a critical hit.
+SKILLINFO_COM_207	Heavy Fire damage to all enemies. Medium chance of inflicting Dread.
+SKILLINFO_COM_208	Heavy Almighty damage to 1 enemy. Lowers target's Attack and Aim/Dodge.
+SKILLINFO_COM_300	Changes your affinities to Resist Physical attacks.
+SKILLINFO_COM_301	Changes your affinities to Null Physical attacks.
+SKILLINFO_COM_302	Changes your affinities to Resist Gunfire attacks.
+SKILLINFO_COM_303	Changes your affinities to Null Gunfire attacks.
+SKILLINFO_COM_304	Changes your affinities to Resist Fire attacks.
+SKILLINFO_COM_305	Changes your affinities to Null Fire attacks.
+SKILLINFO_COM_306	Changes your affinities to Resist Ice attacks.
+SKILLINFO_COM_307	Changes your affinities to Null Ice attacks.
+SKILLINFO_COM_308	Changes your affinities to Resist Electricity attacks.
+SKILLINFO_COM_309	Changes your affinities to Null Electricity attacks.
+SKILLINFO_COM_310	Changes your affinities to Resist Force attacks.
+SKILLINFO_COM_311	Changes your affinities to Null Force attacks.
+SKILLINFO_COM_312	Changes your affinities to Resist Ruin attacks.
+SKILLINFO_COM_313	Changes your affinities to Null Ruin attacks.
+SKILLINFO_COM_314	Increases evasion against Physical attacks.
+SKILLINFO_COM_315	Greatly increases evasion against Physical attacks.
+SKILLINFO_COM_316	Increases evasion against Gunfire attacks.
+SKILLINFO_COM_317	Greatly increases evasion against Gunfire attacks.
+SKILLINFO_COM_318	Increases evasion against Fire attacks.
+SKILLINFO_COM_319	Greatly increases evasion against Fire attacks.
+SKILLINFO_COM_320	Increases evasion against Ice attacks.
+SKILLINFO_COM_321	Greatly increases evasion against Ice attacks.
+SKILLINFO_COM_322	Increases evasion against Electricity attacks.
+SKILLINFO_COM_323	Greatly increases evasion against Electricity attacks.
+SKILLINFO_COM_324	Increases evasion against Force attacks.
+SKILLINFO_COM_325	Greatly increases evasion against Force attacks.
+SKILLINFO_COM_326	Increases evasion against attacks of all affinities.
+SKILLINFO_COM_327	Increases strength of Physical attacks.
+SKILLINFO_COM_328	Greatly increases strength of Physical attacks.
+SKILLINFO_COM_329	Increases strength of Gunfire attacks.
+SKILLINFO_COM_330	Greatly increases strength of Gunfire attacks.
+SKILLINFO_COM_331	Increases strength of Fire attacks.
+SKILLINFO_COM_332	Greatly increases strength of Fire attacks.
+SKILLINFO_COM_333	Increases strength of Ice attacks.
+SKILLINFO_COM_334	Greatly increases strength of Ice attacks.
+SKILLINFO_COM_335	Increases strength of Electricity attacks.
+SKILLINFO_COM_336	Greatly increases strength of Electricity attacks.
+SKILLINFO_COM_337	Increases strength of Force attacks.
+SKILLINFO_COM_338	Greatly increases strength of Force attacks.
+SKILLINFO_COM_339	Increases strength of magic attacks.
+SKILLINFO_COM_340	Lowers chance of being afflicted with Sleep/Seal/Daze/Target.
+SKILLINFO_COM_341	Lowers chance of being afflicted with Poison/Paralysis/Dread/Bomb.
+SKILLINFO_COM_342	Prevents being afflicted with Sleep/Seal/Daze/Target.
+SKILLINFO_COM_343	Prevents being afflicted with Poison/Paralysis/Dread/Bomb.
+SKILLINFO_COM_344	Boosts chance of inflicting Sleep/Seal/Daze/Target.
+SKILLINFO_COM_345	Boosts chance of inflicting Poison/Paralysis/Dread/Bomb.
+SKILLINFO_COM_346	全状態異常率UPの説明
+SKILLINFO_COM_347	Lowers chance of being afflicted with any status ailment.
+SKILLINFO_COM_348	急速回復の説明
+SKILLINFO_COM_349	Increases user's Attack for a battle's first 3 turns.
+SKILLINFO_COM_350	Increases user's Defense for a battle's first 3 turns.
+SKILLINFO_COM_351	Increases user's Aim/Dodge for a battle's first 3 turns.
+SKILLINFO_COM_352	Increases all allies' Attack for a battle's first 3 turns.
+SKILLINFO_COM_353	Increases all allies' Defense for a battle's first 3 turns.
+SKILLINFO_COM_354	Increases all allies' Aim/Dodge for a battle's first 3 turns.
+SKILLINFO_COM_355	Very slightly increases max HP.
+SKILLINFO_COM_356	Slightly increases max HP.
+SKILLINFO_COM_357	Greatly increases max HP.
+SKILLINFO_COM_358	Very slightly increases max MP.
+SKILLINFO_COM_359	Slightly increases max MP.
+SKILLINFO_COM_360	Greatly increases max MP.
+SKILLINFO_COM_361	When attacked with Physical/Gunfire, low chance of countering with a weak attack.
+SKILLINFO_COM_362	When attacked with Physical/Gunfire, low chance of countering with a medium attack.
+SKILLINFO_COM_363	When attacked with Physical/Gunfire, low chance of countering with a heavy attack.
+SKILLINFO_COM_364	When attacking with Physical/Gunfire, you pierce through the enemy's Resist/Drain/Null.
+SKILLINFO_COM_365	Increases Hit Rate.
+SKILLINFO_COM_366	追い撃ちの説明
+SKILLINFO_COM_367	会心魔法の説明
+SKILLINFO_COM_368	Increases Critical Rate.
+SKILLINFO_COM_369	機先を制すの説明
+SKILLINFO_COM_370	The lower the user's HP, the higher their Critical Rate.
+SKILLINFO_COM_371	致命負傷の説明
+SKILLINFO_COM_372	Once per battle, when their HP hits 0, an ally will revive with 1 HP.
+SKILLINFO_COM_373	Once per battle, when their HP hits 0, an ally will revive with full HP.
+SKILLINFO_COM_374	病巣転移の説明
+SKILLINFO_COM_375	脆弱性の説明
+SKILLINFO_COM_376	抵抗低下の説明
+SKILLINFO_COM_377	余剰演算の説明
+SKILLINFO_COM_378	内弁慶の説明
+SKILLINFO_COM_379	Decreases chance of being targeted by enemies.
+SKILLINFO_COM_380	Increases chance of being targeted by enemies.
+SKILLINFO_COM_381	鉄壁の説明
+SKILLINFO_COM_382	Attacking an enemy will heal HP proportional to the damage inflicted.
+SKILLINFO_COM_383	ガードヒールの説明
+SKILLINFO_COM_384	When you use an item, there is a low chance it will not be consumed.
+SKILLINFO_COM_385	Restores HP after winning a battle.
+SKILLINFO_COM_386	Restores HP to full after winning a battle.
+SKILLINFO_COM_387	Restores MP after winning a battle.
+SKILLINFO_COM_388	天賦の才の説明
+SKILLINFO_COM_389	文殊の知恵の説明
+SKILLINFO_COM_390	When ambushed, the party has a medium chance of evading the ambush.
+SKILLINFO_COM_391	危機感知の説明
+SKILLINFO_COM_392	強敵の心構えの説明
+SKILLINFO_COM_393	一掃のﾁｬｸﾗの説明
+SKILLINFO_COM_394	ﾌﾞﾛｯｷﾝｸﾞの説明
+SKILLINFO_COM_395	Can no longer evade attacks, but damage received is halved.
+SKILLINFO_COM_396	ﾀﾞｯｼﾞｽﾃｯﾌﾟの説明
+SKILLINFO_COM_397	Very slightly restores HP with each action.
+SKILLINFO_COM_398	Slightly restores HP with each action.
+SKILLINFO_COM_399	武道の心得の説明
+SKILLINFO_COM_400	魔術の素養の説明
+SKILLINFO_COM_401	Doubles the effect of HP recovery items.
+SKILLINFO_COM_402	ﾏﾙﾁﾋｯﾄの説明
+SKILLINFO_COM_403	ｱﾌﾞｿｰﾌﾞﾁｬｸﾗの説明
+SKILLINFO_COM_404	ﾘﾌﾚｸﾁｬｸﾗの説明
+SKILLINFO_COM_405	ｲﾍﾞｲﾄﾞﾁｬｸﾗの説明
+SKILLINFO_COM_406	Increases your chances of inflicting status ailments on targets of higher level than the user.
+SKILLINFO_COM_407	Prevents being afflicted with Poison.
+SKILLINFO_COM_408	Prevents being afflicted with Paralysis.
+SKILLINFO_COM_409	Prevents being afflicted with Sleep.
+SKILLINFO_COM_410	Prevents being afflicted with Dread.
+SKILLINFO_COM_411	Prevents being afflicted with Seal.
+SKILLINFO_COM_412	Very slightly restores MP with each action.
+SKILLINFO_COM_480	May activate during a sabbath. Inflicts extra damage to all enemies.
+SKILLINFO_COM_481	May activate during a sabbath. Restores party HP proportional to damage dealt.
+SKILLINFO_COM_482	May activate during a sabbath. Decreases Defense of all enemies.
+SKILLINFO_COM_483	May activate during a sabbath. Steals consumables and materials from the enemy.
+SKILLINFO_COM_484	May activate during a sabbath. High chance of inflicting Sleep on all enemies.
+SKILLINFO_COM_485	May activate during a sabbath. Increases Aim/Dodge for all allies.
+SKILLINFO_COM_486	May activate during a sabbath. Steals money from the enemy.
+SKILLINFO_COM_487	May activate during a sabbath. High chance of inflicting Poison on all enemies.
+SKILLINFO_COM_488	May activate during a sabbath. Reduces all enemies' physical resistance to “Normal.''
+SKILLINFO_COM_489	May activate during a sabbath. Repels physical attacks for 1 turn. Can't coexist with a Magic repel effect.
+SKILLINFO_COM_490	May activate during a sabbath. Inflicts extra damage to all enemies, absorbing some as MP.
+SKILLINFO_COM_491	不要
+SKILLINFO_COM_492	May activate during a sabbath. Small HP recovery for all allies. Cures all status ailments other than KO.
+SKILLINFO_PLA_002	防御を固め､受けるダメージを減少させる
+SKILLINFO_PLA_003	戦闘からの逃走を試みる
+SKILLINFO_PLA_020	Change 1 ally's equipped demon.
+SKILLINFO_PLA_021	Change all allies' equipped demons.
+SKILLINFO_PLA_022	Narrows sabbath to a single target and increases its power.
+SKILLINFO_PLA_023	Increases all allies' defense and prevents status ailments for 1 turn.
+SKILLINFO_PLA_024	Increases a target ally's actions by 1.
+SKILLINFO_PLA_025	For the turn used, all allies' Stack gains based on dealing HP damage increase by 1.
+SKILLINFO_PLA_040	味方ターン開始時に確率で敵単体の情報がすべて開示される
+SKILLINFO_PLA_041	味方ターン開始時に確率で敵全体の情報がすべて開示される
+SKILLINFO_PLA_042	At the start of an ally's turn, adds low chance of halving their MP costs.
+SKILLINFO_PLA_043	At the start of an ally's turn, low chance of slight HP recovery for all allies over 3 turns.
+SKILLINFO_PLA_044	At the start of an ally's turn, adds low chance of healing ailments.
+SKILLINFO_PLA_045	At the start of an ally's turn, adds low chance of extending party's status buffs.
+SKILLINFO_PLA_046	On ally's turn, if 2 or more allies are KO'd, they will be revived with full health. 1 use per battle.
+SKILLINFO_PLA_047	分霊化したときに自動でシールドマトリクスを付与するためのスキル
+SKILLINFO_PLA_100	When striking a weakness to Fire, 1 demon joins the Stack.
+SKILLINFO_PLA_101	When striking a weakness to Ice, 1 demon joins the Stack.
+SKILLINFO_PLA_102	When striking a weakness to Electricity, 1 demon joins the Stack.
+SKILLINFO_PLA_103	When striking a weakness to Force, 1 demon joins the Stack.
+SKILLINFO_PLA_104	When striking a weakness, 1 demon joins the Stack.
+SKILLINFO_PLA_105	When striking a weakness, chance of 1 demon joining the Stack.
+SKILLINFO_PLA_106	Physical skills add 1 demon to the Stack when striking an enemy weakness.
+SKILLINFO_PLA_107	Gunfire skills add 1 demon to the Stack when striking an enemy weakness.
+SKILLINFO_PLA_108	When recovering HP, chance of 1 demon joining the Stack.
+SKILLINFO_PLA_109	When you score a critical hit, 1 demon joins the Stack.
+SKILLINFO_PLA_110	When you inflict an ailment on the enemy, 1 demon joins the Stack.
+SKILLINFO_PLA_111	When an enemy is slain, 1 demon joins the Stack.
+SKILLINFO_PLA_112	When an ally's Bonus Attack succeeds, 1-2 demons join the Stack.
+SKILLINFO_PLA_200	LUK increases by 3.
+SKILLINFO_PLA_201	INT increases by 2.
+SKILLINFO_PLA_202	VIT increases by 3.
+SKILLINFO_PLA_203	STR increases by 2.
+SKILLINFO_PLA_204	VIT increases by 4.
+SKILLINFO_PLA_205	LUK increases by 4.
+SKILLINFO_PLA_206	STR increases by 3.
+SKILLINFO_PLA_207	INT increases by 3.
+SKILLINFO_PLA_208	Increases chance of getting more gifts from demons who have already given you gifts.
+SKILLINFO_PLA_209	Higher Stack counts in battle provide higher EXP bonuses.
+SKILLINFO_PLA_210	Higher Stack counts in battle provide higher money bonuses.
+SKILLINFO_PLA_211	Increases chance of material/item rewards from enemies slain in sabbaths.
+SKILLINFO_PLA_212	Increases demonic allies' skill slots by 1.
+SKILLINFO_PLA_213	Further increases demonic allies' skill slots by 1.
+SKILLINFO_PLA_214	Increases chance of receiving powerful Mistiques as gifts.
+SKILLINFO_PLA_215	Increases EXP gained by demonic allies on standby.
+SKILLINFO_PLA_216	If an ally's attack has left an enemy near death, chance of performing a finishing blow.
+SKILLINFO_PLA_217	When guarding, slightly recover HP.
+SKILLINFO_PLA_218	When an enemy is slain, slightly recover MP.
+SKILLINFO_PLA_219	Low chance of jumping in to take a hit that would kill a near-death ally.
+SKILLINFO_PLA_220	When you use an item in battle, there is a low chance it will not be consumed.
+SKILLINFO_PLA_221	When using skills in battle, there is a chance you won't spend MP.
+SKILLINFO_PLA_222	Decreases turn cost of Commander Skills by 1.
+SKILLINFO_PLA_223	Increases MP recovery rate in battle.
+SKILLINFO_PLA_224	Effects of HP recovery items used in battle are 1.5x more potent.
+SKILLINFO_PLA_225	Low chance of increasing action count by 1 at start of turn.
+SKILLINFO_PLA_226	When an enemy performs a Physical/Gunfire attack, adds a chance it may be Nulled.
+SKILLINFO_PLA_227	Once per battle, an ally can withstand a lethal blow with 1 HP.
+SKILLINFO_PLA_228	May automatically raise your guard when damaged by enemy attacks. Cannot synergize with Vengeful Opportunist.
+SKILLINFO_ENE_000	敵の通常攻撃
+SKILLINFO_ENE_001	敵の通常射撃
+SKILLINFO_ENE_002	敵の逃走
+SKILLINFO_ENE_003	敵の通常全体攻撃
+SKILLINFO_ENE_004	敵の通常全体射撃
+SKILLINFO_ENE_005	SKILLINFO_ENE_005
+SKILLINFO_ENE_006	SKILLINFO_ENE_006
+SKILLINFO_ENE_007	SKILLINFO_ENE_007
+SKILLINFO_ENE_008	SKILLINFO_ENE_008
+SKILLINFO_ENE_009	SKILLINFO_ENE_009
+SKILLINFO_ENE_010	SKILLINFO_ENE_010
+SKILLINFO_ENE_011	SKILLINFO_ENE_011
+SKILLINFO_ENE_012	SKILLINFO_ENE_012
+SKILLINFO_ENE_013	SKILLINFO_ENE_013
+SKILLINFO_ENE_014	SKILLINFO_ENE_014
+SKILLINFO_ENE_015	SKILLINFO_ENE_015
+SKILLINFO_ENE_016	SKILLINFO_ENE_016
+SKILLINFO_ENE_017	SKILLINFO_ENE_017
+SKILLINFO_ENE_018	SKILLINFO_ENE_018
+SKILLINFO_ENE_019	SKILLINFO_ENE_019
+SKILLINFO_ENE_020	SKILLINFO_ENE_020
+SKILLINFO_ENE_021	SKILLINFO_ENE_021
+SKILLINFO_ENE_022	SKILLINFO_ENE_022
+SKILLINFO_ENE_023	SKILLINFO_ENE_023
+SKILLINFO_ENE_024	SKILLINFO_ENE_024
+SKILLINFO_ENE_025	SKILLINFO_ENE_025
+SKILLINFO_ENE_026	SKILLINFO_ENE_026
+SKILLINFO_ENE_027	SKILLINFO_ENE_027
+SKILLINFO_ENE_028	SKILLINFO_ENE_028
+SKILLINFO_ENE_029	SKILLINFO_ENE_029
+SKILLINFO_ENE_030	SKILLINFO_ENE_030
+SKILLINFO_ENE_031	SKILLINFO_ENE_031
+SKILLINFO_ENE_032	SKILLINFO_ENE_032
+SKILLINFO_ENE_033	SKILLINFO_ENE_033
+SKILLINFO_ENE_034	SKILLINFO_ENE_034
+SKILLINFO_ENE_035	SKILLINFO_ENE_035
+SKILLINFO_ENE_036	SKILLINFO_ENE_036
+SKILLINFO_ENE_037	SKILLINFO_ENE_037
+SKILLINFO_ENE_038	SKILLINFO_ENE_038
+SKILLINFO_ENE_039	SKILLINFO_ENE_039
+SKILLINFO_ENE_040	SKILLINFO_ENE_040
+SKILLINFO_ENE_041	SKILLINFO_ENE_041
+SKILLINFO_ENE_042	SKILLINFO_ENE_042
+SKILLINFO_ENE_043	SKILLINFO_ENE_043
+SKILLINFO_ENE_044	SKILLINFO_ENE_044
+SKILLINFO_ENE_045	SKILLINFO_ENE_045
+SKILLINFO_ENE_046	SKILLINFO_ENE_046
+SKILLINFO_ENE_047	SKILLINFO_ENE_047
+SKILLINFO_ENE_048	SKILLINFO_ENE_048
+SKILLINFO_ENE_051	SKILLINFO_ENE_051
+SKILLINFO_ENE_052	SKILLINFO_ENE_052
+SKILLINFO_ENE_053	SKILLINFO_ENE_053
+SKILLINFO_ENE_054	SKILLINFO_ENE_054
+SKILLINFO_ENE_055	SKILLINFO_ENE_055
+SKILLINFO_ENE_056	SKILLINFO_ENE_056
+SKILLINFO_ENE_057	SKILLINFO_ENE_057
+SKILLINFO_ENE_058	SKILLINFO_ENE_058
+SKILLINFO_ENE_059	SKILLINFO_ENE_059
+SKILLINFO_ENE_060	SKILLINFO_ENE_060
+SKILLINFO_ENE_061	SKILLINFO_ENE_061
+SKILLINFO_ENE_062	SKILLINFO_ENE_062
+SKILLINFO_ENE_063	SKILLINFO_ENE_063
+SKILLINFO_ENE_064	SKILLINFO_ENE_064
+SKILLINFO_ENE_065	SKILLINFO_ENE_065
+SKILLINFO_ENE_066	SKILLINFO_ENE_066
+SKILLINFO_ENE_067	SKILLINFO_ENE_067
+SKILLINFO_ENE_068	SKILLINFO_ENE_068
+SKILLINFO_ENE_069	SKILLINFO_ENE_069
+SKILLINFO_ENE_070	SKILLINFO_ENE_070
+SKILLINFO_ENE_071	SKILLINFO_ENE_071
+SKILLINFO_ENE_072	SKILLINFO_ENE_072
+SKILLINFO_ENE_073	SKILLINFO_ENE_073
+SKILLINFO_ENE_074	SKILLINFO_ENE_074
+SKILLINFO_ENE_075	SKILLINFO_ENE_075
+SKILLINFO_ENE_076	SKILLINFO_ENE_076
+SKILLINFO_ENE_077	SKILLINFO_ENE_077
+SKILLINFO_ENE_078	SKILLINFO_ENE_078
+SKILLINFO_ENE_079	SKILLINFO_ENE_079
+SKILLINFO_ENE_080	SKILLINFO_ENE_080
+SKILLINFO_ENE_081	SKILLINFO_ENE_081
+SKILLINFO_ENE_082	SKILLINFO_ENE_082
+SKILLINFO_ENE_083	SKILLINFO_ENE_083
+SKILLINFO_ENE_084	SKILLINFO_ENE_084
+SKILLINFO_ENE_085	SKILLINFO_ENE_085
+SKILLINFO_ENE_086	SKILLINFO_ENE_086
+SKILLINFO_ENE_087	SKILLINFO_ENE_087
+SKILLINFO_ENE_088	SKILLINFO_ENE_088
+SKILLINFO_ENE_089	SKILLINFO_ENE_089
+SKILLINFO_ENE_090	SKILLINFO_ENE_090
+SKILLINFO_ENE_091	SKILLINFO_ENE_091
+SKILLINFO_ENE_092	SKILLINFO_ENE_092
+SKILLINFO_ENE_093	SKILLINFO_ENE_093
+SKILLINFO_ENE_094	SKILLINFO_ENE_094
+SKILLINFO_ENE_095	SKILLINFO_ENE_095
+SKILLINFO_ENE_096	SKILLINFO_ENE_096
+SKILLINFO_ENE_097	SKILLINFO_ENE_097
+SKILLINFO_ENE_098	SKILLINFO_ENE_098
+SKILLINFO_ENE_099	SKILLINFO_ENE_099
+SKILLINFO_ENE_100	SKILLINFO_ENE_100
+SKILLINFO_ENE_101	SKILLINFO_ENE_101
+SKILLINFO_ENE_102	SKILLINFO_ENE_102
+SKILLINFO_ENE_103	SKILLINFO_ENE_103
+SKILLINFO_ENE_104	SKILLINFO_ENE_104
+SKILLINFO_ENE_105	SKILLINFO_ENE_105
+SKILLINFO_ENE_106	SKILLINFO_ENE_106
+SKILLINFO_ENE_107	SKILLINFO_ENE_107
+SKILLINFO_ENE_108	SKILLINFO_ENE_108
+SKILLINFO_ENE_109	SKILLINFO_ENE_109
+SKILLINFO_ENE_110	SKILLINFO_ENE_110
+SKILLINFO_ENE_111	SKILLINFO_ENE_111
+SKILLINFO_ENE_112	SKILLINFO_ENE_112
+SKILLINFO_ENE_113	SKILLINFO_ENE_113
+SKILLINFO_ENE_114	SKILLINFO_ENE_114
+SKILLINFO_ENE_115	SKILLINFO_ENE_115
+SKILLINFO_ENE_116	SKILLINFO_ENE_116
+SKILLINFO_ENE_117	SKILLINFO_ENE_117
+SKILLINFO_ENE_118	SKILLINFO_ENE_118
+SKILLINFO_ENE_119	SKILLINFO_ENE_119
+SKILLINFO_ENE_120	SKILLINFO_ENE_120
+SKILLINFO_ENE_121	SKILLINFO_ENE_121
+SKILLINFO_ENE_122	SKILLINFO_ENE_122
+SKILLINFO_ENE_123	SKILLINFO_ENE_123
+SKILLINFO_ENE_124	SKILLINFO_ENE_124
+SKILLINFO_ENE_125	SKILLINFO_ENE_125
+SKILLINFO_ENE_126	SKILLINFO_ENE_126
+SKILLINFO_ENE_127	SKILLINFO_ENE_127
+SKILLINFO_ENE_128	SKILLINFO_ENE_128
+SKILLINFO_ENE_129	SKILLINFO_ENE_129
+SKILLINFO_ENE_130	SKILLINFO_ENE_130
+SKILLINFO_ENE_131	SKILLINFO_ENE_131
+SKILLINFO_ENE_132	SKILLINFO_ENE_132
+SKILLINFO_ENE_133	SKILLINFO_ENE_133
+SKILLINFO_ENE_134	SKILLINFO_ENE_134
+SKILLINFO_ENE_135	SKILLINFO_ENE_135
+SKILLINFO_ENE_136	SKILLINFO_ENE_136
+SKILLINFO_ENE_137	SKILLINFO_ENE_137
+SKILLINFO_ENE_138	SKILLINFO_ENE_138
+SKILLINFO_ENE_139	SKILLINFO_ENE_139
+SKILLINFO_ENE_140	SKILLINFO_ENE_140
+SKILLINFO_ENE_141	SKILLINFO_ENE_141
+SKILLINFO_ENE_142	SKILLINFO_ENE_142
+SKILLINFO_ENE_143	SKILLINFO_ENE_143
+SKILLINFO_ENE_144	SKILLINFO_ENE_144
+SKILLINFO_ENE_145	SKILLINFO_ENE_145
+SKILLINFO_ENE_146	SKILLINFO_ENE_146
+SKILLINFO_ENE_147	SKILLINFO_ENE_147
+SKILLINFO_ENE_148	SKILLINFO_ENE_148
+SKILLINFO_ENE_149	SKILLINFO_ENE_149
+SKILLINFO_ENE_150	SKILLINFO_ENE_150
+SKILLINFO_ENE_151	SKILLINFO_ENE_151
+SKILLINFO_ENE_152	SKILLINFO_ENE_152
+SKILLINFO_ENE_153	SKILLINFO_ENE_153
+SKILLINFO_ENE_154	SKILLINFO_ENE_154
+SKILLINFO_ENE_155	SKILLINFO_ENE_155
+SKILLINFO_ENE_156	SKILLINFO_ENE_156
+SKILLINFO_ENE_200	SKILLINFO_ENE_200
+SKILLINFO_ENE_201	SKILLINFO_ENE_201
+SKILLINFO_ENE_202	SKILLINFO_ENE_202
+SKILLINFO_ENE_203	SKILLINFO_ENE_203
+SKILLINFO_ENE_204	SKILLINFO_ENE_204
+SKILLINFO_ENE_205	SKILLINFO_ENE_205
+SKILLINFO_ENE_206	SKILLINFO_ENE_206
+SKILLINFO_ENE_207	SKILLINFO_ENE_207
+SKILLINFO_ENE_208	SKILLINFO_ENE_208
+SKILLINFO_ENE_209	SKILLINFO_ENE_209
+SKILLINFO_ENE_210	SKILLINFO_ENE_210
+SKILLINFO_ENE_211	SKILLINFO_ENE_211
+SKILLINFO_ENE_212	SKILLINFO_ENE_212
+SKILLINFO_ENE_213	SKILLINFO_ENE_213
+SKILLINFO_ENE_214	SKILLINFO_ENE_214
+SKILLINFO_ENE_215	SKILLINFO_ENE_215
+SKILLINFO_ENE_216	SKILLINFO_ENE_216
+SKILLINFO_ENE_217	SKILLINFO_ENE_217
+SKILLINFO_ENE_218	SKILLINFO_ENE_218
+SKILLINFO_ENE_219	SKILLINFO_ENE_219
+SKILLINFO_ENE_220	SKILLINFO_ENE_220
+SKILLINFO_ENE_230	SKILLINFO_ENE_230
+SKILLINFO_ENE_231	SKILLINFO_ENE_231
+SKILLINFO_ENE_232	SKILLINFO_ENE_232
+SKILLINFO_ENE_300	SKILLINFO_ENE_300
+SKILLINFO_ENE_301	SKILLINFO_ENE_301
+SKILLINFO_ENE_302	SKILLINFO_ENE_302
+SKILLINFO_ENE_303	SKILLINFO_ENE_303
+SKILLINFO_ENE_304	SKILLINFO_ENE_304
+SKILLINFO_ENE_305	SKILLINFO_ENE_305
+SKILLINFO_ENE_306	SKILLINFO_ENE_306
+SKILLINFO_ENE_307	SKILLINFO_ENE_307
+SKILLINFO_ENE_308	SKILLINFO_ENE_308
+SKILLINFO_ENE_309	SKILLINFO_ENE_309
+SKILLINFO_ENE_310	SKILLINFO_ENE_310
+SKILLINFO_ENE_311	SKILLINFO_ENE_311
+SKILLINFO_ENE_312	SKILLINFO_ENE_312
+SKILLINFO_ENE_313	SKILLINFO_ENE_313
+SKILLINFO_ENE_314	SKILLINFO_ENE_314
+SKILLINFO_ENE_315	SKILLINFO_ENE_315
+SKILLINFO_ENE_316	SKILLINFO_ENE_316
+SKILLINFO_ENE_317	SKILLINFO_ENE_317
+SKILLINFO_ENE_318	SKILLINFO_ENE_318
+SKILLINFO_ENE_319	SKILLINFO_ENE_319
+SKILLINFO_ENE_320	SKILLINFO_ENE_320
+SKILLINFO_ENE_321	SKILLINFO_ENE_321
+SKILLINFO_ENE_322	SKILLINFO_ENE_322
+SKILLINFO_ENE_323	SKILLINFO_ENE_323
+SKILLINFO_ENE_324	SKILLINFO_ENE_324
+SKILLINFO_ENE_325	SKILLINFO_ENE_325
+SKILLINFO_ENE_326	SKILLINFO_ENE_326
+SKILLINFO_ENE_327	SKILLINFO_ENE_327
+SKILLINFO_ENE_328	SKILLINFO_ENE_328
+SKILLINFO_ENE_329	SKILLINFO_ENE_329
+SKILLINFO_ENE_500	SKILLINFO_ENE_500
+SKILLINFO_ENE_501	SKILLINFO_ENE_501
+SKILLINFO_ENE_502	SKILLINFO_ENE_502
+SKILLINFO_ENE_503	SKILLINFO_ENE_503
+SKILLINFO_ENE_504	SKILLINFO_ENE_504
+SKILLINFO_ENE_505	SKILLINFO_ENE_505
+SKILLINFO_ENE_506	SKILLINFO_ENE_506
+SKILLINFO_ENE_507	SKILLINFO_ENE_507
+SKILLINFO_ENE_508	SKILLINFO_ENE_508
+SKILLINFO_ENE_509	SKILLINFO_ENE_509
+SKILLINFO_ENE_510	SKILLINFO_ENE_510
+SKILLINFO_ENE_511	SKILLINFO_ENE_511
+SKILLINFO_ENE_512	SKILLINFO_ENE_512
+SKILLINFO_ENE_513	SKILLINFO_ENE_513
+SKILLINFO_ENE_514	SKILLINFO_ENE_514
+SKILLINFO_ENE_515	SKILLINFO_ENE_515
+SKILLINFO_ENE_516	SKILLINFO_ENE_516
+SKILLINFO_ENE_517	SKILLINFO_ENE_517
+SKILLINFO_ENE_518	SKILLINFO_ENE_518
+SKILLINFO_ENE_519	SKILLINFO_ENE_519
+SKILLINFO_ENE_520	SKILLINFO_ENE_520
+SKILLINFO_ENE_521	SKILLINFO_ENE_521
+SKILLINFO_ENE_522	SKILLINFO_ENE_522
+SKILLINFO_ENE_523	SKILLINFO_ENE_523
+SKILLINFO_ENE_524	SKILLINFO_ENE_524
+SKILLINFO_ENE_525	SKILLINFO_ENE_525
+SKILLINFO_ENE_526	SKILLINFO_ENE_526
+SKILLINFO_ENE_527	SKILLINFO_ENE_527
+SKILLINFO_ENE_528	SKILLINFO_ENE_528
+SKILLINFO_ENE_529	SKILLINFO_ENE_529
+SKILLINFO_ENE_530	SKILLINFO_ENE_530
+SKILLINFO_ENE_531	SKILLINFO_ENE_531
+SKILLINFO_ENE_532	SKILLINFO_ENE_532
+SKILLINFO_ENE_533	SKILLINFO_ENE_533
+SKILLINFO_ENE_534	SKILLINFO_ENE_534
+SKILLINFO_ENE_535	SKILLINFO_ENE_535
+SKILLINFO_ENE_536	SKILLINFO_ENE_536
+SKILLINFO_ENE_537	SKILLINFO_ENE_537
+SKILLINFO_ENE_538	SKILLINFO_ENE_538
+SKILLINFO_ENE_539	SKILLINFO_ENE_539
+SKILLINFO_ENE_540	SKILLINFO_ENE_540
+SKILLINFO_ENE_541	SKILLINFO_ENE_541
+SKILLINFO_ENE_542	SKILLINFO_ENE_542
+SKILLINFO_ENE_543	SKILLINFO_ENE_543
+SKILLINFO_ENE_544	SKILLINFO_ENE_544
+SKILLINFO_ENE_545	SKILLINFO_ENE_545
+SKILLINFO_ENE_546	SKILLINFO_ENE_546
+SKILLINFO_ENE_547	SKILLINFO_ENE_547
+SKILLINFO_ENE_548	SKILLINFO_ENE_548
+SKILLINFO_ENE_549	SKILLINFO_ENE_549
+SKILLINFO_ENE_550	SKILLINFO_ENE_550
+SKILLINFO_ENE_551	SKILLINFO_ENE_551
+SKILLINFO_ENE_552	SKILLINFO_ENE_552
+SKILLINFO_ENE_553	SKILLINFO_ENE_553
+SKILLINFO_ENE_554	SKILLINFO_ENE_554
+SKILLINFO_ENE_555	SKILLINFO_ENE_555
+SKILLINFO_ENE_556	SKILLINFO_ENE_556
+SKILLINFO_ENE_557	SKILLINFO_ENE_557
+SKILLINFO_ENE_558	SKILLINFO_ENE_558
+SKILLINFO_ENE_559	SKILLINFO_ENE_559
+SKILLINFO_ACC_000	For Ringo
+SKILLINFO_ACC_001	Increases Critical Rate.
+SKILLINFO_ACC_002	For Saizo
+SKILLINFO_ACC_003	For Milady
+SKILLINFO_ACC_004	Less likely to be afflicted with Poison/Paralysis/Dread/Bomb.
+SKILLINFO_ACC_005	Less likely to be afflicted with Sleep/Seal/Daze/Target.
+SKILLINFO_ACC_006	Increases Dodge against Gunfire and Force.
+SKILLINFO_ACC_007	Increases Dodge against Physical and Fire.
+SKILLINFO_ACC_008	Increases Dodge against Ice, Electricity, and Ruin.
+SKILLINFO_ACC_009	Increases Dodge against all affinities.
+SKILLINFO_ACC_010	Increases Dodge against all status ailments.
+SKILLINFO_ACC_011	For Men
+SKILLINFO_ACC_012	For Women
+SKILLINFO_ACC_013	Resists instakill attacks.
+SKILLINFO_ACC_014	Less likely to be afflicted with Sleep/Seal/Daze/Target.
+SKILLINFO_ACC_015	Less likely to be afflicted with Poison/Paralysis/Dread/Bomb.
+SKILLINFO_ACC_016	Increases Dodge against Gunfire/Force.
+SKILLINFO_ACC_017	Increases Dodge against Physical/Fire.
+SKILLINFO_ACC_018	Increases Dodge against Ice/Electricity.
+SKILLINFO_ACC_019	Increases Dodge against all affinities.
+SKILLINFO_ACC_020	Less likely to be afflicted with any status ailments.
+SKILLINFO_ACC_021	Once per battle, an ally can withstand a lethal blow with 1 HP.
+SKILLINFO_ACC_022	When attacked with Physical/Gunfire, low chance of retaliating with a medium counter.
+SKILLINFO_ACC_023	Miniscule MP recovery with every action.
+SKILLINFO_ACC_024	Slightly increases max HP.
+SKILLINFO_ACC_025	Slightly decreases chance of Risky Enemies' status ailment attacks succeeding.
+SKILLINFO_ACC_026	Prevents being afflicted with Poison.
+SKILLINFO_ACC_027	Increases Dodge against Physical.
+SKILLINFO_ACC_028	Increases chance of obtaining items from enemies defeated.
+SKILLINFO_ACC_029	Slightly decreases damage from Risky Enemies.
+SKILLINFO_ACC_030	Decreases chance of Risky Enemies' status ailment attacks succeeding.
+SKILLINFO_ACC_031	Slightly increases Dodge against Risky Enemies' attacks.
+SKILLINFO_ACC_032	When battle against a Risky Enemy begins, increases Attack/Defense/Aim/Dodge.
+SKILLINFO_ACC_033	Decreases damage from Risky Enemies.
+SKILLINFO_ACC_034	Increases Dodge against Risky Enemies' attacks.
+SKILLINFO_ACC_035	Greatly decreases damage from Risky Enemies.
+SKILLINFO_ACC_036	Greatly increases Dodge against bosses and Risky Enemies.
+SKILLINFO_ACC_037	Increases chance of Bonus Attacks activating. Decreases chance of getting ambushed.
+SKILLINFO_ACC_038	Greatly increases Critical Rate of Gunfire.
+SKILLINFO_ACC_039	Increases chance of demons on Demon Recon introducing you to new prospects.
+SKILLINFO_ACC_040	Increases damage inflicted by sabbaths.
+SKILLINFO_ACC_041	Greatly increases Critical Rate of Physical attacks.
+SKILLINFO_ACC_042	Miniscule MP recovery with every action. Resists all status ailments.
+SKILLINFO_ACC_043	Greatly increases Dodge against Physical/Gunfire.
+SKILLINFO_ACC_044	アクセサリー効果文字数確保４５６７８９０１２３４５
+SKILLINFO_ACC_045	アクセサリー効果文字数確保４５６７８９０１２３４５
+SKILLINFO_ACC_046	アクセサリー効果文字数確保４５６７８９０１２３４５
+SKILLINFO_ACC_047	アクセサリー効果文字数確保４５６７８９０１２３４５
+SKILLINFO_ACC_048	アクセサリー効果文字数確保４５６７８９０１２３４５
+SKILLINFO_ACC_049	アクセサリー効果文字数確保４５６７８９０１２３４５
+SKILLINFO_ACC_100	Decreases the MP cost of Physical skills by 10%.
+SKILLINFO_ACC_101	Decreases the MP cost of Physical skills by 20%.
+SKILLINFO_ACC_102	Decreases the MP cost of Physical skills by 30%.
+SKILLINFO_ACC_103	Decreases the MP cost of Physical skills by 50%.
+SKILLINFO_ACC_104	Increases Physical skills' damage by 20% when striking an enemy weakness.
+SKILLINFO_ACC_105	Increases Physical skills' damage by 35% when striking an enemy weakness.
+SKILLINFO_ACC_106	Increases Physical skills' damage by 50% when striking an enemy weakness.
+SKILLINFO_ACC_107	Increases Physical skills' damage by 80% when striking an enemy weakness.
+SKILLINFO_ACC_108	Increases Critical Rate of Physical skills.
+SKILLINFO_ACC_109	Further increases Critical Rate of Physical skills.
+SKILLINFO_ACC_110	Greatly increases Critical Rate of Physical skills.
+SKILLINFO_ACC_111	Vastly increases Critical Rate of Physical skills. Guarantees critical hit on first turn's attack.
+SKILLINFO_ACC_112	Your Physical attacks pierce enemy's Resist affinity.
+SKILLINFO_ACC_113	Your Physical attacks pierce enemy's Resist/Null affinity.
+SKILLINFO_ACC_114	Your Physical attacks pierce enemy's Resist/Null/Drain affinity.
+SKILLINFO_ACC_115	Your Physical attacks pierce enemy's Resist/Null/Drain/Repel affinity. (Cannot pierce Tetrakarn.)
+SKILLINFO_ACC_116	When a battle begins, low chance of analyzing 1 enemy and revealing affinity resistances. (Some enemies immune.)
+SKILLINFO_ACC_117	When a battle begins, chance of analyzing 1 enemy and revealing affinity resistances. (Some enemies immune.)
+SKILLINFO_ACC_118	When a battle begins, chance of analyzing all enemies and revealing affinity resistances. (Some enemies immune.)
+SKILLINFO_ACC_119	When a battle begins, analyzes all enemies and reveals affinity resistances. (Some enemies immune.)
+SKILLINFO_ACC_120	Decreases MP cost of Gunfire skills by 10%.
+SKILLINFO_ACC_121	Decreases MP cost of Gunfire skills by 20%.
+SKILLINFO_ACC_122	Decreases MP cost of Gunfire skills by 30%.
+SKILLINFO_ACC_123	Decreases MP cost of Gunfire skills by 50%.
+SKILLINFO_ACC_124	Increases Gunfire skills' damage by 20% when striking an enemy weakness.
+SKILLINFO_ACC_125	Increases Gunfire skills' damage by 35% when striking an enemy weakness.
+SKILLINFO_ACC_126	Increases Gunfire skills' damage by 50% when striking an enemy weakness.
+SKILLINFO_ACC_127	Increases Gunfire skills' damage by 80% when striking an enemy weakness.
+SKILLINFO_ACC_128	Increases critical hit damage for Gunfire skills.
+SKILLINFO_ACC_129	Further increases critical hit damage for Gunfire skills.
+SKILLINFO_ACC_130	Greatly increases critical hit damage for Gunfire skills.
+SKILLINFO_ACC_131	Greatly increases critical hit damage for Gunfire skills, and they ignore enemy Defense.
+SKILLINFO_ACC_132	Increases damage dealt by Gunfire skills when HP is below 25%.
+SKILLINFO_ACC_133	Further increases damage of Gunfire skills when HP is below 25%.
+SKILLINFO_ACC_134	Greatly increases damage of Gunfire skills when HP is below 25%.
+SKILLINFO_ACC_135	Greatly increases damage of Gunfire skills when HP is below 25%. Taking damage activates Charge.
+SKILLINFO_ACC_136	Lowers chance of being ambushed by enemies.
+SKILLINFO_ACC_137	Further lowers chance of being ambushed by enemies.
+SKILLINFO_ACC_138	Greatly lowers chance of being ambushed by enemies.
+SKILLINFO_ACC_139	Enemies can no longer ambush you.
+SKILLINFO_ACC_140	Decreases MP cost of Physical skills by 10%.
+SKILLINFO_ACC_141	Decreases MP cost of Physical skills by 20%.
+SKILLINFO_ACC_142	Decreases MP cost of Physical skills by 30%.
+SKILLINFO_ACC_143	Decreases MP cost of Physical skills by 50%.
+SKILLINFO_ACC_144	Increases Physical skills' damage by 20% when striking an enemy weakness.
+SKILLINFO_ACC_145	Increases Physical skills' damage by 35% when striking an enemy weakness.
+SKILLINFO_ACC_146	Increases Physical skills' damage by 50% when striking an enemy weakness.
+SKILLINFO_ACC_147	Increases Physical skills' damage by 80% when striking an enemy weakness.
+SKILLINFO_ACC_148	Weak STR-based Almighty damage to 1 enemy. Can be used even if Sealed.
+SKILLINFO_ACC_149	Weak STR-based Almighty damage to 1 enemy. Can be used even if Sealed.
+SKILLINFO_ACC_150	Medium STR-based Almighty damage to 1 enemy. Can be used even if Sealed.
+SKILLINFO_ACC_151	Medium STR-based Almighty damage to 1 enemy. Disables Tetrakarn/Makarakarn. Can be used even if Sealed.
+SKILLINFO_ACC_152	Miniscule MP recovery when attacking or Piercing.
+SKILLINFO_ACC_153	Slight MP recovery when attacking or Piercing.
+SKILLINFO_ACC_154	Moderate MP recovery when attacking or Piercing.
+SKILLINFO_ACC_155	Major MP recovery when attacking or Piercing.
+SKILLINFO_ACC_156	Increases chance of a Bonus Attack when starting a battle with a slashed enemy.
+SKILLINFO_ACC_157	Further increases chance of a Bonus Attack when starting a battle with a slashed enemy.
+SKILLINFO_ACC_158	Greatly increases chance of a Bonus Attack when starting a battle with a slashed enemy.
+SKILLINFO_ACC_159	Guarantees a Bonus Attack when starting a battle with a slashed enemy.
+SKILLINFO_ACC_160	Decreases MP cost of Gunfire skills by 10%.
+SKILLINFO_ACC_161	Decreases MP cost of Gunfire skills by 20%.
+SKILLINFO_ACC_162	Decreases MP cost of Gunfire skills by 30%.
+SKILLINFO_ACC_163	Decreases MP cost of Gunfire skills by 50%.
+SKILLINFO_ACC_164	Increases Gunfire skills' damage by 20% when striking an enemy weakness.
+SKILLINFO_ACC_165	Increases Gunfire skills' damage by 35% when striking an enemy weakness.
+SKILLINFO_ACC_166	Increases Gunfire skills' damage by 50% when striking an enemy weakness.
+SKILLINFO_ACC_167	Increases Gunfire skills' damage by 80% when striking an enemy weakness.
+SKILLINFO_ACC_168	When attacking, there is a chance your attack may double-hit.
+SKILLINFO_ACC_169	Increases chance of an attack double-hitting.
+SKILLINFO_ACC_170	Further increases chance of an attack double-hitting.
+SKILLINFO_ACC_171	When attacking, there is a high chance your attack may hit 2-3 times.
+SKILLINFO_ACC_172	Low chance of Gunfire inflicting Faint on the enemy.
+SKILLINFO_ACC_173	Increases chance of Gunfire inflicting Faint on the enemy.
+SKILLINFO_ACC_174	Further increases chance of Gunfire inflicting Faint on the enemy.
+SKILLINFO_ACC_175	Greatly increases chance of Gunfire inflicting Faint on the enemy.
+SKILLINFO_ACC_176	Increases chance of obtaining items from defeated enemies .
+SKILLINFO_ACC_177	Further increases chance of obtaining items from defeated enemies.
+SKILLINFO_ACC_178	Greatly increases chance of obtaining items from defeated enemies.
+SKILLINFO_ACC_179	Greatly increases chance of obtaining items from defeated enemies. May also find rare items.
+SKILLINFO_SYS_200	Weak Physical damage to 1 enemy.
+SKILLINFO_SYS_201	Weak Gunfire damage to 1 enemy.
+SKILLINFO_SYS_202	Weak Gunfire damage to 1 enemy.
+SKILLINFO_SYS_203	Weak Physical damage to 1 enemy.
+SKILLINFO_SYS_204	Weak Gunfire damage to 1 enemy.
+SKILLINFO_SYS_300	SKILLINFO_SYS_300
+SKILLINFO_SYS_500	SKILLINFO_SYS_500
+SKILLINFO_SYS_501	SKILLINFO_SYS_501
+SKILLINFO_SYS_502	SKILLINFO_SYS_502
+SKILLINFO_SYS_503	SKILLINFO_SYS_503
+SKILLINFO_SYS_504	SKILLINFO_SYS_504
+SKILLINFO_SYS_505	SKILLINFO_SYS_505
+SKILLINFO_SYS_506	SKILLINFO_SYS_506
+SKILLINFO_SYS_507	SKILLINFO_SYS_507
+SKILLINFO_SYS_508	SKILLINFO_SYS_508
+SKILLINFO_SYS_509	SKILLINFO_SYS_509
+SKILLINFO_MAP_000	Instantly escape a dungeon and return to the City Map.
+SKILLINFO_MAP_001	For a given distance, slows enemy movement speed.
+SKILLINFO_MAP_002	For a given distance, enemies cannot ambush you easily, and Bonus Attacks become easier.
+SKILLINFO_MAP_003	For a given distance, enemies 3 levels below Ringo will not appear.
+SKILLINFO_MAP_004	For a given distance, enemies appear more often.
+SKILLINFO_MAP_005	For a given distance, enemies will ignore Ringo.
+SKILLINFO_MAP_006	For a given distance, Ringo can knock enemies down by touching them.
+SKILLINFO_EXP_000	Strengthens the healing power from demons on recon.　
+SKILLINFO_EXP_001	Demons on recon may acquire additional rare items.
+SKILLINFO_EXP_002	Increases money found by demons on recon.
+SKILLINFO_EXP_003	Demons on recon may acquire additional rare materials.
+SKILLINFO_EXP_004	Increases chance of demons on recon introducing high-level demons.
+SKILLINFO_EXP_100	SKILLINFO_EXP_100
+SKILLINFO_EXP_101	SKILLINFO_EXP_101
+SKILLINFO_EXP_102	SKILLINFO_EXP_102
+SKILLINFO_EXP_103	SKILLINFO_EXP_103
+SKILLINFO_EXP_104	SKILLINFO_EXP_104
+SKILLINFO_EXP_105	SKILLINFO_EXP_105
+SKILLINFO_EXP_106	SKILLINFO_EXP_106
+SKILLINFO_EXP_107	SKILLINFO_EXP_107
+SKILLINFO_EXP_108	SKILLINFO_EXP_108
+SKILLINFO_EXP_109	SKILLINFO_EXP_109
+SKILLINFO_EXP_110	SKILLINFO_EXP_110
+SKILLINFO_EXP_111	SKILLINFO_EXP_111
+SKILLINFO_EXP_112	SKILLINFO_EXP_112
+SKILLINFO_EXP_113	SKILLINFO_EXP_113
+SKILLINFO_EXP_114	SKILLINFO_EXP_114
+SKILLINFO_EXP_115	SKILLINFO_EXP_115
+SKILLINFO_EXP_116	SKILLINFO_EXP_116
+SKILLINFO_EXP_117	SKILLINFO_EXP_117
+SKILLINFO_EXP_118	SKILLINFO_EXP_118
+SKILLINFO_EXP_119	SKILLINFO_EXP_119
+SKILLINFO_EXP_120	SKILLINFO_EXP_120
+SKILLINFO_EXP_121	SKILLINFO_EXP_121
+SKILLINFO_EXP_122	SKILLINFO_EXP_122
+SKILLINFO_EXP_123	SKILLINFO_EXP_123
+SKILLINFO_EXP_124	SKILLINFO_EXP_124
+SKILLINFO_EXP_125	SKILLINFO_EXP_125
+SKILLINFO_EXP_126	SKILLINFO_EXP_126
+SKILLINFO_EXP_127	SKILLINFO_EXP_127
+SKILLINFO_EXP_128	SKILLINFO_EXP_128
+SKILLINFO_EXP_129	SKILLINFO_EXP_129
+SKILLINFO_EXP_130	SKILLINFO_EXP_130
+SKILLINFO_EXP_131	SKILLINFO_EXP_131
+SKILLINFO_EXP_132	SKILLINFO_EXP_132
+SKILLINFO_GIF_000	Medium Ice damage to 1 enemy. If striking weakness, high chance of inflicting Seal.
+SKILLINFO_GIF_001	Medium Force damage to 1 enemy. If striking weakness, decreases Attack/Defense/Aim/Dodge.
+SKILLINFO_GIF_002	Medium Fire damage to 1 enemy. If striking weakness, high chance of inflicting Dread.
+SKILLINFO_GIF_003	Medium Electricity damage to 1 enemy. If striking weakness, small HP recovery to all allies.

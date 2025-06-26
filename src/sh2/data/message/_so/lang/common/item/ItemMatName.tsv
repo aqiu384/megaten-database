@@ -1,0 +1,201 @@
+id	en	jp	cn	tw	ko	gr	es	fr	it
+ITEMMATNAME_000	Demon Ore	魔鉄鉱	魔铁矿	魔鐵礦	마철광	Dämonenerz	Mineral vil	Fer démonique	Minerale demoniaco
+ITEMMATNAME_001	Prime Demon Ore	魔鉄鉱･上	魔铁矿·上	魔鐵礦．上	상급 마철광	Gutes Dämonenerz	Mineral vil superior	Fer démonique (sup.)	Minerale eccellente
+ITEMMATNAME_002	True Demon Ore	魔鉄鉱･真	魔铁矿·真	魔鐵礦．真	진 마철광	Echtes Dämonenerz	Mineral vil auténtico	Fer démonique (vér.)	Minerale autentico
+ITEMMATNAME_003	Demon Alloy	魔合金	魔合金	魔合金	마합금	Dämonenlegierung	Aleación vil	Aloi démonique	Lega demoniaca
+ITEMMATNAME_004	Prime Demon Alloy	魔合金･上	魔合金·上	魔合金．上	상급 마합금	Gute Dämonenlegierung	Aleación vil superior	Aloi démonique (sup.)	Lega eccellente
+ITEMMATNAME_005	True Demon Alloy	魔合金･真	魔合金·真	魔合金．真	진 마합금	Echte Dämonenlegierung	Aleación vil auténtica	Aloi démonique (vér.)	Lega autentica
+ITEMMATNAME_006	Perfect Demon Alloy	魔合金･極	魔合金·极	魔合金．極	극 마합금	Perfekte Dämonenlegierung	Aleación vil pura	Aloi démonique (ultime)	Lega definitiva
+ITEMMATNAME_007	Nitrium	ニトリウム	硝石	鈉硝石	니트리움	Nitrium	Nitrio	Nitrium	Nitrio
+ITEMMATNAME_008	Prime Nitrium	ニトリウム･上	硝石·上	鈉硝石．上	상급 니트리움	Gutes Nitrium	Nitrio superior	Nitrium (supérieur)	Nitrio eccellente
+ITEMMATNAME_009	True Nitrium	ニトリウム･真	硝石·真	鈉硝石．真	진 니트리움	Echtes Nitrium	Nitrio auténtico	Nitrium (véritable)	Nitrio autentico
+ITEMMATNAME_010	Nitrodite	ニトロダイト	硝化合金	硝基礦	니트로다이트	Nitrodit	Nitrodita	Nitrodite	Nitrodite
+ITEMMATNAME_011	Prime Nitrodite	ニトロダイト･上	硝化合金·上	硝基礦．上	상급 니트로다이트	Gutes Nitrodit	Nitrodita superior	Nitrodite (supérieur)	Nitrodite eccellente
+ITEMMATNAME_012	True Nitrodite	ニトロダイト･真	硝化合金·真	硝基礦．真	진 니트로다이트	Echtes Nitrodit	Nitrodita auténtica	Nitrodite (véritable)	Nitrodite autentica
+ITEMMATNAME_013	Perfect Nitrodite	ニトロダイト･極	硝化合金·极	硝基礦．極	극 니트로다이트	Perfektes Nitrodit	Nitrodita pura	Nitrodite (ultime)	Nitrodite definitiva
+ITEMMATNAME_014	Unlock Chip	アンロックチップ	解锁芯片	解鎖晶片	언록 칩	Freischalt-Chip	Chip de desbloqueo	Puce de déverrouillage	Sblocca chip
+ITEMMATNAME_015	Pirated Chip	海賊版強化チップ	盗版强化芯片	盜版強化晶片	불법 강화칩	Geklauter Chip	Chip de mejora pirata	Puce d'amélio. piratée	Chip piratato
+ITEMMATNAME_016	Cheap Chip	廉価版強化チップ	廉价版强化芯片	廉價版強化晶片	염가판 강화칩	Billiger Chip	Chip de mejora barato	Puce d'amélio. soldée	Chip scontato
+ITEMMATNAME_017	Genuine Chip	純正強化チップ	纯正强化芯片	原廠強化晶片	순정 강화칩	Authentischer Chip	Chip de mejora genuino	Puce d'amélio. vér.	Chip genuino
+ITEMMATNAME_018	Bespoke Chip	特注強化チップ	定制强化芯片	客製強化晶片	특별 주문 강화칩	Maßgefertigter Chip	Chip de mejora a medida	Puce d'amélio. adaptée	Chip su misura
+ITEMMATNAME_019	Totem Memory	トーテムメモリー	图腾存储器	圖騰記憶	토템 메모리	Totemspeicher	Recuerdo de tótem	Souvenir totem	Ricordo totem
+ITEMMATNAME_020	Magnetite Mass	マグネタイト塊	生物磁气块	磁氣塊	마그네타이트 주괴	Magnetitmasse	Masa de magnetita	Masse de magnétite	Massa di magnetite
+ITEMMATNAME_021	Aromatic Woodchip	香木片	香木片	香木片	향목 조각	Duftender Holzsplitter	Viruta aromática	Bois parfumé	Scheggia aromatica
+ITEMMATNAME_022	Aromatic Wood	香木	香木	香木	향목	Duftendes Holz	Madera aromática	Bois parfumé	Legno aromatico
+ITEMMATNAME_023	Golden Icon	黄金のシンボル	黄金标志			Goldenes Symbol	Símbolo dorado	Sigil en or	Simbolo d'oro
+ITEMMATNAME_024	Beast Claws	魔獣の爪	魔兽的爪	魔獸之爪	마수의 발톱	Bestienklaue	Garras de Bestia	Griffes bestiales	Unghie di Bestia
+ITEMMATNAME_025	Wicked Bird Coal	凶鳥の煤	凶鸟的灰烬	凶鳥之煤	흉조의 그을음	Böse Vogelkohle	Carbón de ave ígnea	Charbon d'oiseau	Fuliggine di uccello
+ITEMMATNAME_026	Holy Arrowhead	聖獣の矢じり	圣兽的箭镞	聖獸之鏃	성수의 화살촉	Heilige Pfeilspitze	Punta de flecha Sacro	Flèche sacrée	Punta di freccia santa
+ITEMMATNAME_027	Night Demon Skin	夜魔の皮	夜魔的皮	夜魔之皮	야마의 가죽	Nachtdämonenhaut	Piel de Nocturno	Peau du démon nocturne	Pelle di un Oscuro
+ITEMMATNAME_028	Jaki's Ice	邪鬼の氷	邪鬼的冰	邪鬼之冰	사귀의 얼음	Jaki-Eis	Hielo de Jaki	Glace de Jaki	Ghiaccio di un Jaki
+ITEMMATNAME_029	Wilder's Fur	妖獣の毛	妖兽的毛	妖獸之毛	요수의 털	Wilder-Fell	Pelaje de Salvaje	Pelage de Sauvage	Pelliccia Selvaggio
+ITEMMATNAME_030	Femme's Scale	鬼女の鱗	鬼女的鳞	鬼女之鱗	귀녀의 비늘	Femme-Schuppe	Escama de Fémina	Écaille de Femme	Squama di una Megera
+ITEMMATNAME_031	Jirae's Butterbur	地霊の蕗	地灵的蜂斗叶	地靈款冬	지령의 머위	Jirae-Pestwurz	Petasita de Jirae	Pétasite de Jirae	Farfaraccio Jirae
+ITEMMATNAME_032	Drake's Claw	邪龍の牙	邪龙的牙	邪龍之牙	사룡의 어금니	Drake-Klaue	Garra de Drake	Griffe de Drac	Artiglio di un Drake
+ITEMMATNAME_033	Rumored Mask	怪異の面	怪异的面具	怪異面具	괴이의 얼굴	Rumor-Maske	Máscara de Rumor	Masque de Rumeur	Maschera di un Rumor
+ITEMMATNAME_034	Fairy Ice	妖精の氷	妖精的冰	妖精之冰	요정의 얼음	Feeneis	Hielo de Hada	Givre de Fée	Ghiaccio di una Fata
+ITEMMATNAME_035	Angel's Eyepatch	天使の眼帯	天使的眼罩	天使蒙眼布	천사의 안대	Engelsaugenklappe	Parche de ojo de Ángel	Cache-œil d'Ange	Benda di un Angelo
+ITEMMATNAME_036	Fallen Beak	堕天使のくちばし	堕天使的喙	墮天使之喙	타천사의 부리	Gefallener Schnabel	Pico de Caído	Bec de Déchu	Becco di un Caduto
+ITEMMATNAME_037	Dragon Whisker	龍神の髭	龙神的胡须	龍神之鬚	용신의 수염	Drachenschnurrhaar	Bigote de Dragón	Moustache de Dragon	Baffo di un Drago
+ITEMMATNAME_038	Divine Tail	神獣の尾	神兽的尾巴	神獸之尾	신수의 꼬리	Göttlicher Schweif	Cola divina	Queue d'une bête divine	Coda divina
+ITEMMATNAME_039	Raptor Feather	凶鳥の羽	凶鸟的羽毛	凶鳥之羽	흉조의 깃털	Raptorfeder	Pluma de Rapaz	Plume de Raptor	Piuma di Rapace
+ITEMMATNAME_040	Night Sandbag	夜魔の砂袋	夜魔的沙袋	夜魔沙袋	야마의 모래주머니	Nachtdämonensandsack	Saco de arena Nocturno	Sable du démon nocturne	Sacco di sabbia Oscuro
+ITEMMATNAME_041	Avian Tailfeather	霊鳥の尾羽	灵鸟的尾羽	靈鳥尾羽	영조의 꽁지깃	Vogelschweiffeder	Pluma de cola de Aviar	Rectrice d'Oiseau	Piume coda di un Aligero
+ITEMMATNAME_042	Yoma Sandals	妖魔の下駄	妖魔的木屐	妖魔木屐	요마의 나막신	Yoma-Sandalen	Sandalias de Yoma	Sandales de Yoma	Sandali di uno Yoma
+ITEMMATNAME_043	Jaki Skull	邪鬼の頭蓋	邪鬼的头盖	邪鬼頭蓋	사귀의 두개골	Jaki-Schädel	Cráneo de Jaki	Crâne de Jaki	Cranio di un Jaki
+ITEMMATNAME_044	Snake Bristle	龍王の剛毛	龙王的硬毛	龍王剛毛	용왕의 강모	Schlangenborste	Cerda de Serpiente	Poil de Serpent	Setole di un Ofide
+ITEMMATNAME_045	Wilder Cotton	妖獣の綿	妖兽的棉	妖獸之棉	요수의 솜	Wilder-Baumwolle	Algodón de Salvaje	Coton de Sauvage	Cotone di un Selvaggio
+ITEMMATNAME_046	Fairy's Light	妖精の灯	妖精的提灯	妖精之燈	요정의 등불	Feenlicht	Luz de Hada	Lumière de Fée	Luce di una Fata
+ITEMMATNAME_047	Beast Talon	魔獣の鉤爪	魔兽的钩爪	魔獸鉤爪	마수의 갈고리발톱	Bestienkralle	Garra de Bestia	Serre de Bête	Artiglio di una Bestia
+ITEMMATNAME_048	Genma Fan	幻魔の団扇	幻魔的团扇	幻魔團扇	환마의 부채	Genma-Fächer	Abanico de Genma	Éventail de Genma	Ventaglio di un Genma
+ITEMMATNAME_049	Divine Mane	聖獣のたてがみ	圣兽的鬃毛	聖獸鬃毛	성수의 갈기	Göttliche Mähne	Crin de Sacro	Crinière de Bête divine	Criniera divina
+ITEMMATNAME_050	Femme's Ring	鬼女の指輪	鬼女的戒指	鬼女戒指	귀녀의 반지	Femme-Ring	Anillo de Fémina	Anneau de Femme	Anello di una Megera
+ITEMMATNAME_051	Condemned Finger	堕天使の指	堕天使的手指	墮天使之指	타천사의 손가락	Verdammter Finger	Anillo de Caído	Doigt d'Ange déchu	Dito Angelo Caduto
+ITEMMATNAME_052	Rumored Teeth	怪異の歯	怪异的牙	怪異之齒	괴이의 이빨	Rumor-Zähne	Dentadura de Rumor	Dents de Rumeur	Denti di un Rumor
+ITEMMATNAME_053	Divine Gilt Helm	天使の兜飾り	天使的盔饰	天使頭盔裝飾	천사의 투구 장식	Göttlicher Goldhelm	Yelmo de ángel	Heaume divin	Elmo divino
+ITEMMATNAME_054	Jirae Crest	地霊の紋	地灵的徽纹	地靈之紋	지령의 문장	Jirae-Wappen	Emblema de Jirae	Blason de Jirae	Stemma di un Jirae
+ITEMMATNAME_055	Demonic Eyelash	夜魔の睫毛	夜魔的睫毛	夜魔睫毛	야마의 속눈썹	Dämonische Wimper	Pestaña de Nocturno	Cil du Démon nocturne	Ciglio di un Oscuro
+ITEMMATNAME_056	Avian Magatama	霊鳥の勾玉	灵鸟的勾玉	靈鳥勾玉	영조의 곡옥	Vogelmagatama	Magatama de Aviar	Magatama d'Oiseau	Magatama di un Aligero
+ITEMMATNAME_057	Drake Eyeball	邪龍の眼球	邪龙的眼球	邪龍眼球	사룡의 안구	Drake-Augapfel	Ojo de Drake	Globe oculaire de Drake	Occhio di un Drake
+ITEMMATNAME_058	Raptor Band	凶鳥の頭巾	凶鸟的头巾	凶鳥頭巾	흉조의 두건	Raptorreif	Diadema de Rapaz	Bandeau de Raptor	Fascia di un Rapace
+ITEMMATNAME_059	Avatar Shell	神獣の甲羅	神兽的甲壳	神獸甲殼	신수의 등껍질	Avatarpanzer	Caparazón de Avatar	Carapace d'Avatar	Guscio di un Avatar
+ITEMMATNAME_060	Jaki's Ankle	邪鬼のくるぶし	邪鬼的脚踝	邪鬼腳踝	사귀의 복사뼈	Jaki-Knöchel	Tobillo de Jaki	Cheville de Jaki	Caviglia di un Jaki
+ITEMMATNAME_061	Jirae Mucilage	地霊の粘糸	地灵的粘丝	地靈黏絲	지령의 점사	Jirae-Schleim	Mucílago de Jirae	Mucilage de Jirae	Mucillagine di un Jirae
+ITEMMATNAME_062	Femme's Forktongue	鬼女の蛇舌	鬼女的蛇信	鬼女蛇舌	귀녀의 뱀 혀	Femme-Vipernzunge	Lengua viperina Fémina	Langue de vipère	Lingua di vipera Megera
+ITEMMATNAME_063	Fairy Tendon	妖精の腱	妖精的肌腱	妖精之腱	요정의 힘줄	Feensehne	Tendón de Hada	Tendon de Fée	Tendine di una Fata
+ITEMMATNAME_064	Yoma Veil	妖魔の薄衣	妖魔的薄衣	妖魔薄衣	요마의 얇은 옷	Yoma-Schleier	Velo de Yoma	Voile de Yoma	Velo di uno Yoma
+ITEMMATNAME_065	Holy Viper Tail	聖獣の蛇尾	圣兽的蛇尾	聖獸蛇尾	성수의 뱀 꼬리	Heiliger Vipernschweif	Cola viperina de Sacro	Queue de Bête divine	Coda di vipera santa
+ITEMMATNAME_066	Wilder's Antenna	妖獣の触角	妖兽的触角	妖獸觸角	요수의 더듬이	Wilder-Fühler	Antena de Salvaje	Antenne de Sauvage	Antenna di un Selvaggio
+ITEMMATNAME_067	Draconic Feathers	龍神の羽毛	龙神的羽毛	龍神羽毛	용신의 깃털	Drachenfedern	Plumas de Dragón	Plumes draconiques	Piume di un Drago
+ITEMMATNAME_068	Angelic Scepter	天使の儀杖	天使的权杖	天使儀仗	천사의 의장	Engelszepter	Báculo de Ángel	Bâton cérémonial d'Ange	Scettro angelico
+ITEMMATNAME_069	Yoma's Patagium	夜魔の飛膜	夜魔的翼膜	夜魔飛膜	야마의 비막	Yoma-Flughaut	Patagio de Nocturno	Patagium de Yoma	Patagio di uno Yoma
+ITEMMATNAME_070	Beast Paw	魔獣の肉球	魔兽的肉垫	魔獸肉球	마수의 육구	Bestienpfote	Zarpa de Bestia	Patte de Bête	Zampa di una Bestia
+ITEMMATNAME_071	Sinful Hoof	堕天使の蹄	堕天使的蹄	墮天使之蹄	타천사의 발굽	Sündhafter Huf	Pezuña de Caído	Sabot d'Ange déchu	Zoccolo del peccato
+ITEMMATNAME_072	Dubious Wheel	怪異の車輪	怪异的车轮	怪異車輪	괴이의 수레바퀴	Rumor-Rad	Rueda de Rumor	Roue de Rumor	Ruota di un Rumor
+ITEMMATNAME_073	Drake's Venom Sac	邪龍の毒袋	邪龙的毒囊	邪龍毒袋	사룡의 독주머니	Drake-Giftsack	Saco de veneno Drake	Poche à venin de Drac	Sacca veleno Drake
+ITEMMATNAME_074	Genma's Fist	幻魔の拳	幻魔的拳头	幻魔之拳	환마의 주먹	Genma-Faust	Puño de Genma	Poing de Genma	Pugno di Genma
+ITEMMATNAME_075	Dragon King's Eyes	龍王の瞳	龙王的眼瞳	龍王之瞳	용왕의 눈동자	Drachenkönigsaugen	Ojos de Rey Dragón	Yeux du Roi dragon	Occhi di un Re Drago
+ITEMMATNAME_076	Fairy Apron	妖精の前掛	妖精的围裙	妖精圍裙	요정의 앞치마	Feenschürze	Delantal de Hada	Tablier de fée	Grembiule di una Fata
+ITEMMATNAME_077	Femme's Knife	鬼女の包丁	鬼女的菜刀	鬼女菜刀	귀녀의 식칼	Femme-Messer	Navaja de Fémina	Couteau de Femme	Coltello di una Megera
+ITEMMATNAME_078	Jirae Moss	地霊の苔	地灵的苔藓	地靈苔蘚	지령의 이끼	Jirae-Moos	Musgo de Jirae	Mousse de Jirae	Muschio di un Jirae
+ITEMMATNAME_079	Holy Horn	聖獣の角	圣兽的角	聖獸之角	성수의 뿔	Heiliges Horn	Cuerno de Sacro	Corne de Bête sacrée	Corno santo
+ITEMMATNAME_080	Crimson Feather	霊鳥の紅羽	灵鸟的红羽	靈鳥紅羽	영조의 붉은 깃	Rote Vogelfeder	Pluma roja de Aviar	Plume pourpre d'Oiseau	Piuma cremisi Aligero
+ITEMMATNAME_081	Angel's Rivet	天使の鎧留	天使的铠扣	天使之鎧	천사의 무장	Engelsrüstung	Broche armadura Ángel	Fermoir d'armure d'Ange	Bullone di un Angelo
+ITEMMATNAME_082	Jaki Twinblade	邪鬼の双剣	邪鬼的双刀	邪鬼雙劍	사귀의 쌍검	Jaki-Doppelschwert	Espada doble de Jaki	Épées jumelles de Jaki	Doppia spada di un Jaki
+ITEMMATNAME_083	Yoma's Tailbone	夜魔の尾骨	夜魔的尾骨	夜魔尾骨	야마의 꼬리뼈	Yoma-Steißbein	Coxis de Yoma	Coccyx de Yoma	Spina dorsale Yoma
+ITEMMATNAME_084	Beast's Chain	魔獣の鎖	魔兽的锁链	魔獸鎖鍊	마수의 쇠사슬	Bestienkette	Cadena de Bestia	Chaîne de Bête	Catena di una Bestia
+ITEMMATNAME_085	Wilder's Claws	妖獣の虎爪	妖兽的虎爪	妖獸虎爪	요수의 발톱	Wilder-Klaue	Zarpa de tigre Salvaje	Griffes de tigre	Artigli di un Selvaggio
+ITEMMATNAME_086	Yoma Saddle	妖魔の鞍	妖魔的马鞍	妖魔馬鞍	요마의 안장	Yoma-Sattel	Montura de Yoma	Selle de Yoma	Sella di uno Yoma
+ITEMMATNAME_087	Dragon God's Eye	龍神の眼	龙神的眼睛	龍神之眼	용신의 눈	Drachengottauge	Ojo del Dios Dragón	Yeux du Dieu dragon	Occhio di un Dio Drago
+ITEMMATNAME_088	Enigmatic Heart	怪異の心臓	怪异的心脏	怪異心臟	괴이의 심장	Rumor-Herz	Corazón de Rumor	Cœur de Rumor	Cuore di un Rumor
+ITEMMATNAME_089	Holy White Fur	聖獣の白毛	圣兽的白毛	聖獸白毛	성수의 흰 털	Heiliges weißes Haar	Pelo blanco de Sacro	Fourrure divine	Pelliccia bianca santa
+ITEMMATNAME_090	Drake Spine	邪龍の背骨	邪龙的背骨	邪龍脊椎	사룡의 등뼈	Drake-Wirbelsäule	Espinazo de Drake	Échine de Drac	Spina dorsale Drake
+ITEMMATNAME_091	Angelic Halo	天使の頭環	天使的头环	天使箍圈	천사의 고리	Heiligenschein	Halo de Ángel	Halo d'Ange	Aureola di un Angelo
+ITEMMATNAME_092	Genma's Rump	幻魔の石突	幻魔的枪纂	幻魔石突	환마의 물미	Genma-Rumpf	Pie de lanza de Genma	Embout de Genma	Lancia di un Genma
+ITEMMATNAME_093	Vile Cockscomb	邪神の鶏冠	邪神的鸡冠	邪神雞冠	악신의 볏	Schändlicher Hahnenkamm	Cresta de Dios Vil	Crête du Dieu néfaste	Cresta di gallo Infame
+ITEMMATNAME_094	Silver Feather	霊鳥の銀羽	灵鸟的银羽	靈鳥銀羽	영조의 은빛 깃	Silberne Vogelfeder	Pluma plateada	Plume d'argent	Piuma argentea
+ITEMMATNAME_095	Fallen Arm	堕天使の腕	堕天使的腕	墮天使之腕	타천사의 팔	Engelsarm	Brazo de Caído	Bras d'Ange déchu	Braccio Angelo Caduto
+ITEMMATNAME_096	Fairy Embroidery	妖精の刺繍	妖精的刺绣	妖精刺繡	요정의 자수	Feenstickerei	Bordado de Hada	Broderies de Fée	Ricamo di una Fata
+ITEMMATNAME_097	Dragon King's Neck	龍王の太首	龙王的巨颈	龍王的粗頸	용왕의 굵은 목	Drachenkönigsnacken	Buche de Rey Dragón	Cou du Roi dragon	Collo di un Re Drago
+ITEMMATNAME_098	Divine Scale	神獣の秤	神兽的天平	神獸之秤	신수의 저울	Göttliche Schuppe	Escama de Divino	Écaille de Bête divine	Scaglia divina
+ITEMMATNAME_099	Canine Teeth	魔獣の犬歯	魔兽的犬齿	魔獸尖牙	마수의 송곳니	Bestieneckzahn	Caninos de Bestia	Canine de Bête	Canino di una Bestia
+ITEMMATNAME_100	Yoma Blood	夜魔の血	夜魔的血液	夜魔之血	야마의 피	Yoma-Blut	Sangre de Yoma	Sang de Yoma	Sangue di uno Yoma
+ITEMMATNAME_101	Raptor Fang	凶鳥の禍牙	凶鸟的祸牙	凶鳥禍牙	흉조의 재앙 이빨	Raptorreißzahn	Colmillo vil de Rapaz	Croc sadique de Raptor	Zanna malvagia Rapace
+ITEMMATNAME_102	Cycloptic Eye	邪鬼の単眼	邪鬼的独眼	邪鬼隻眼	사귀의 한쪽 눈	Zyklopenauge	Ojo de Jaki	Œil unique de Jaki	Occhio di un Jaki
+ITEMMATNAME_103	Yoma Tusk	妖魔の象牙	妖魔的象牙	妖魔象牙	요마의 상아	Yoma-Stoßzahn	Diente de marfil Yoma	Défense de Yoma	Zanna di uno Yoma
+ITEMMATNAME_104	Hooked Claw	鬼女の曲爪	鬼女的弯爪	鬼女彎爪	귀녀의 굽은 손톱	Hakenkralle	Garra curva de Fémina	Griffe recourbée	Unghia curva
+ITEMMATNAME_105	Wilder's Jawbone	妖獣の大顎	妖兽的大颚	妖獸下顎	요수의 큰 턱	Wilder-Kieferknochen	Mandíbula de Salvaje	Maxillaire	Mascella Selvaggio
+ITEMMATNAME_106	Angel's Pinky	天使の小指	天使的小手指	天使尾指	천사의 새끼손가락	Kleiner Engelsfinger	Meñique de Ángel	Petit orteil d'Ange	Mignolo di un Angelo
+ITEMMATNAME_107	Dragon God's Fangs	龍神の大牙	龙神的大牙	龍神大牙	용신의 큰어금니	Drachengottfangzähne	Colmillos Dios Dragón	Crocs du Dieu dragon	Zanne di un Dio Drago
+ITEMMATNAME_108	Earth Mother's Tress	地母神の銀髪	地母神的银发	地母神的銀髮	지모신의 은발	Erdmutters Locke	Cana de Madre Tierra	Cheveux de Terre Mère	Ciocca Madre Terra
+ITEMMATNAME_109	Fiery Angel's Eye	堕天使の炎眼	堕天使的火眼	墮天使火眼	타천사의 염안	Feuriges Engelsauge	Ojo llameante de Caído	Œil féroce d'Ange déchu	Occhio fiero Angelo
+ITEMMATNAME_110	Mirror Shard	神獣の鏡片	神兽的镜片	神獸鏡片	신수의 거울 파편	Spiegelscherbe	Trozo de espejo Avatar	Éclat de miroir	Frammento di specchio
+ITEMMATNAME_111	Fairy Crown	妖精の王冠	妖精的王冠	妖精王冠	요정의 왕관	Feenkrone	Corona de Hada	Couronne de Fée	Corona di una Fata
+ITEMMATNAME_112	Bloody Katana	鬼女の血刀	鬼女的血刃	鬼女血刀	귀녀의 혈도	Blutiges Katana	Katana salpicada Fémina	Katana sanglant	Katana insanguinata
+ITEMMATNAME_113	Genma Waist Hide	幻魔の尻皮	幻魔的围臀	幻魔臀皮	환마의 엉덩이 가죽	Genma-Hüfthaut	Mandil de Genma	Cuir de taille de Genma	Pelle di un Genma
+ITEMMATNAME_114	Rainbow Snakescale	龍王の虹鱗	龙王的虹鳞	龍王虹鱗	용왕의 무지개 비늘	Regenbogenschuppe	Escama de Serpiente	Écaille de serpent	Squama arcobaleno
+ITEMMATNAME_115	Night Demon's Fruit	夜魔の果実	夜魔的果实	夜魔果實	야마의 과실	Nachtdämonenfrucht	Fruta de Nocturno	Fruit du Démon nocturne	Frutto di un Oscuro
+ITEMMATNAME_116	Vile Thorn	邪神の棘	邪神的棘刺	邪神尖刺	악신의 가시	Schädlicher Dorn	Espina de Dios Vil	Épine du Dieu néfaste	Spina di un Dio Infame
+ITEMMATNAME_117	Barbereau's Revelation	バルベーローの天啓	芭碧萝的天启	芭碧蘿的天啟	바르벨로의 계시	Barbelos Offenbarung	Revelación de Barbereau	Révélation de Barbereau	Rivelazione Barbereau
+ITEMMATNAME_118	Kishin Bell	鬼神の鈴	鬼神的铃铛	鬼神之鈴	귀신의 방울	Kishin-Glocke	Campana de Kishin	Cloche de Kishin	Campana di un Kishin
+ITEMMATNAME_119	魔材名称119	魔材名称119	魔材名称119	魔材名稱119	악마 소재 명칭 119	魔材名称119	魔材名称119	魔材名称119	魔材名称119
+ITEMMATNAME_120	魔材名称120	魔材名称120	魔材名称120	魔材名稱120	악마 소재 명칭 120	魔材名称120	魔材名称120	魔材名称120	魔材名称120
+ITEMMATNAME_121	魔材名称121	魔材名称121	魔材名称121	魔材名稱121	악마 소재 명칭 121	魔材名称121	魔材名称121	魔材名称121	魔材名称121
+ITEMMATNAME_122	魔材名称122	魔材名称122	魔材名称122	魔材名稱122	악마 소재 명칭 122	魔材名称122	魔材名称122	魔材名称122	魔材名称122
+ITEMMATNAME_123	魔材名称123	魔材名称123	魔材名称123	魔材名稱123	악마 소재 명칭 123	魔材名称123	魔材名称123	魔材名称123	魔材名称123
+ITEMMATNAME_124	魔材名称124	魔材名称124	魔材名称124	魔材名稱124	악마 소재 명칭 124	魔材名称124	魔材名称124	魔材名称124	魔材名称124
+ITEMMATNAME_125	魔材名称125	魔材名称125	魔材名称125	魔材名稱125	악마 소재 명칭 125	魔材名称125	魔材名称125	魔材名称125	魔材名称125
+ITEMMATNAME_126	魔材名称126	魔材名称126	魔材名称126	魔材名稱126	악마 소재 명칭 126	魔材名称126	魔材名称126	魔材名称126	魔材名称126
+ITEMMATNAME_127	魔材名称127	魔材名称127	魔材名称127	魔材名稱127	악마 소재 명칭 127	魔材名称127	魔材名称127	魔材名称127	魔材名称127
+ITEMMATNAME_128	魔材名称128	魔材名称128	魔材名称128	魔材名稱128	악마 소재 명칭 128	魔材名称128	魔材名称128	魔材名称128	魔材名称128
+ITEMMATNAME_129	魔材名称129	魔材名称129	魔材名称129	魔材名稱129	악마 소재 명칭 129	魔材名称129	魔材名称129	魔材名称129	魔材名称129
+ITEMMATNAME_130	魔材名称130	魔材名称130	魔材名称130	魔材名稱130	악마 소재 명칭 130	魔材名称130	魔材名称130	魔材名称130	魔材名称130
+ITEMMATNAME_131	魔材名称131	魔材名称131	魔材名称131	魔材名稱131	악마 소재 명칭 131	魔材名称131	魔材名称131	魔材名称131	魔材名称131
+ITEMMATNAME_132	魔材名称132	魔材名称132	魔材名称132	魔材名稱132	악마 소재 명칭 132	魔材名称132	魔材名称132	魔材名称132	魔材名称132
+ITEMMATNAME_133	魔材名称133	魔材名称133	魔材名称133	魔材名稱133	악마 소재 명칭 133	魔材名称133	魔材名称133	魔材名称133	魔材名称133
+ITEMMATNAME_134	魔材名称134	魔材名称134	魔材名称134	魔材名稱134	악마 소재 명칭 134	魔材名称134	魔材名称134	魔材名称134	魔材名称134
+ITEMMATNAME_135	魔材名称135	魔材名称135	魔材名称135	魔材名稱135	악마 소재 명칭 135	魔材名称135	魔材名称135	魔材名称135	魔材名称135
+ITEMMATNAME_136	魔材名称136	魔材名称136	魔材名称136	魔材名稱136	악마 소재 명칭 136	魔材名称136	魔材名称136	魔材名称136	魔材名称136
+ITEMMATNAME_137	魔材名称137	魔材名称137	魔材名称137	魔材名稱137	악마 소재 명칭 137	魔材名称137	魔材名称137	魔材名称137	魔材名称137
+ITEMMATNAME_138	魔材名称138	魔材名称138	魔材名称138	魔材名稱138	악마 소재 명칭 138	魔材名称138	魔材名称138	魔材名称138	魔材名称138
+ITEMMATNAME_139	魔材名称139	魔材名称139	魔材名称139	魔材名稱139	악마 소재 명칭 139	魔材名称139	魔材名称139	魔材名称139	魔材名称139
+ITEMMATNAME_140	魔材名称140	魔材名称140	魔材名称140	魔材名稱140	악마 소재 명칭 140	魔材名称140	魔材名称140	魔材名称140	魔材名称140
+ITEMMATNAME_141	魔材名称141	魔材名称141	魔材名称141	魔材名稱141	악마 소재 명칭 141	魔材名称141	魔材名称141	魔材名称141	魔材名称141
+ITEMMATNAME_142	魔材名称142	魔材名称142	魔材名称142	魔材名稱142	악마 소재 명칭 142	魔材名称142	魔材名称142	魔材名称142	魔材名称142
+ITEMMATNAME_143	魔材名称143	魔材名称143	魔材名称143	魔材名稱143	악마 소재 명칭 143	魔材名称143	魔材名称143	魔材名称143	魔材名称143
+ITEMMATNAME_144	魔材名称144	魔材名称144	魔材名称144	魔材名稱144	악마 소재 명칭 144	魔材名称144	魔材名称144	魔材名称144	魔材名称144
+ITEMMATNAME_145	魔材名称145	魔材名称145	魔材名称145	魔材名稱145	악마 소재 명칭 145	魔材名称145	魔材名称145	魔材名称145	魔材名称145
+ITEMMATNAME_146	魔材名称146	魔材名称146	魔材名称146	魔材名稱146	악마 소재 명칭 146	魔材名称146	魔材名称146	魔材名称146	魔材名称146
+ITEMMATNAME_147	魔材名称147	魔材名称147	魔材名称147	魔材名稱147	악마 소재 명칭 147	魔材名称147	魔材名称147	魔材名称147	魔材名称147
+ITEMMATNAME_148	魔材名称148	魔材名称148	魔材名称148	魔材名稱148	악마 소재 명칭 148	魔材名称148	魔材名称148	魔材名称148	魔材名称148
+ITEMMATNAME_149	魔材名称149	魔材名称149	魔材名称149	魔材名稱149	악마 소재 명칭 149	魔材名称149	魔材名称149	魔材名称149	魔材名称149
+ITEMMATNAME_150	Shaman's Mark	巫術師の印	巫术师的印记	巫術師之印	무술사의 인장	Schamanenzeichen	Marca de chamán	Marque de Chaman	Marchio di uno Sciamano
+ITEMMATNAME_151	Shaman Lord's Mark	大巫術師の印	大巫术师的印记	大巫術師之印	대무술사의 인장	Großschamanenzeichen	Marca de gran chamán	Marque du Gd chaman	Marchio noto Sciamano
+ITEMMATNAME_152	Witch Doctor's Mark	祈祷師の印	祈祷师的印记	祈禱師之印	기도사의 인장	Hexendoktorzeichen	Marca de curandero	Marque du Sorcier	Marchio di un Guaritore
+ITEMMATNAME_153	Witch's Mark	妖術師の印	妖术师的印记	妖術師之印	요술사의 인장	Hexenzeichen	Marca de bruja	Marque de Sorcière	Marchio Guaritrice
+ITEMMATNAME_154	魔材名称154	魔材名称154				魔材名称154	魔材名称154	魔材名称154	魔材名称154
+ITEMMATNAME_155	魔材名称155	魔材名称155				魔材名称155	魔材名称155	魔材名称155	魔材名称155
+ITEMMATNAME_156	魔材名称156	魔材名称156				魔材名称156	魔材名称156	魔材名称156	魔材名称156
+ITEMMATNAME_157	魔材名称157	魔材名称157				魔材名称157	魔材名称157	魔材名称157	魔材名称157
+ITEMMATNAME_158	魔材名称158	魔材名称158				魔材名称158	魔材名称158	魔材名称158	魔材名称158
+ITEMMATNAME_159	魔材名称159	魔材名称159				魔材名称159	魔材名称159	魔材名称159	魔材名称159
+ITEMMATNAME_160	魔材名称160	魔材名称160				魔材名称160	魔材名称160	魔材名称160	魔材名称160
+ITEMMATNAME_161	魔材名称161	魔材名称161				魔材名称161	魔材名称161	魔材名称161	魔材名称161
+ITEMMATNAME_162	魔材名称162	魔材名称162				魔材名称162	魔材名称162	魔材名称162	魔材名称162
+ITEMMATNAME_163	魔材名称163	魔材名称163				魔材名称163	魔材名称163	魔材名称163	魔材名称163
+ITEMMATNAME_164	魔材名称164	魔材名称164				魔材名称164	魔材名称164	魔材名称164	魔材名称164
+ITEMMATNAME_165	魔材名称165	魔材名称165				魔材名称165	魔材名称165	魔材名称165	魔材名称165
+ITEMMATNAME_166	魔材名称166	魔材名称166				魔材名称166	魔材名称166	魔材名称166	魔材名称166
+ITEMMATNAME_167	魔材名称167	魔材名称167				魔材名称167	魔材名称167	魔材名称167	魔材名称167
+ITEMMATNAME_168	魔材名称168	魔材名称168				魔材名称168	魔材名称168	魔材名称168	魔材名称168
+ITEMMATNAME_169	魔材名称169	魔材名称169				魔材名称169	魔材名称169	魔材名称169	魔材名称169
+ITEMMATNAME_170	魔材名称170	魔材名称170				魔材名称170	魔材名称170	魔材名称170	魔材名称170
+ITEMMATNAME_171	魔材名称171	魔材名称171				魔材名称171	魔材名称171	魔材名称171	魔材名称171
+ITEMMATNAME_172	魔材名称172	魔材名称172				魔材名称172	魔材名称172	魔材名称172	魔材名称172
+ITEMMATNAME_173	魔材名称173	魔材名称173				魔材名称173	魔材名称173	魔材名称173	魔材名称173
+ITEMMATNAME_174	魔材名称174	魔材名称174				魔材名称174	魔材名称174	魔材名称174	魔材名称174
+ITEMMATNAME_175	魔材名称175	魔材名称175				魔材名称175	魔材名称175	魔材名称175	魔材名称175
+ITEMMATNAME_176	魔材名称176	魔材名称176				魔材名称176	魔材名称176	魔材名称176	魔材名称176
+ITEMMATNAME_177	魔材名称177	魔材名称177				魔材名称177	魔材名称177	魔材名称177	魔材名称177
+ITEMMATNAME_178	魔材名称178	魔材名称178				魔材名称178	魔材名称178	魔材名称178	魔材名称178
+ITEMMATNAME_179	魔材名称179	魔材名称179				魔材名称179	魔材名称179	魔材名称179	魔材名称179
+ITEMMATNAME_180	魔材名称180	魔材名称180				魔材名称180	魔材名称180	魔材名称180	魔材名称180
+ITEMMATNAME_181	魔材名称181	魔材名称181				魔材名称181	魔材名称181	魔材名称181	魔材名称181
+ITEMMATNAME_182	魔材名称182	魔材名称182				魔材名称182	魔材名称182	魔材名称182	魔材名称182
+ITEMMATNAME_183	魔材名称183	魔材名称183				魔材名称183	魔材名称183	魔材名称183	魔材名称183
+ITEMMATNAME_184	魔材名称184	魔材名称184				魔材名称184	魔材名称184	魔材名称184	魔材名称184
+ITEMMATNAME_185	魔材名称185	魔材名称185				魔材名称185	魔材名称185	魔材名称185	魔材名称185
+ITEMMATNAME_186	魔材名称186	魔材名称186				魔材名称186	魔材名称186	魔材名称186	魔材名称186
+ITEMMATNAME_187	魔材名称187	魔材名称187				魔材名称187	魔材名称187	魔材名称187	魔材名称187
+ITEMMATNAME_188	魔材名称188	魔材名称188				魔材名称188	魔材名称188	魔材名称188	魔材名称188
+ITEMMATNAME_189	魔材名称189	魔材名称189				魔材名称189	魔材名称189	魔材名称189	魔材名称189
+ITEMMATNAME_190	魔材名称190	魔材名称190				魔材名称190	魔材名称190	魔材名称190	魔材名称190
+ITEMMATNAME_191	魔材名称191	魔材名称191				魔材名称191	魔材名称191	魔材名称191	魔材名称191
+ITEMMATNAME_192	魔材名称192	魔材名称192				魔材名称192	魔材名称192	魔材名称192	魔材名称192
+ITEMMATNAME_193	魔材名称193	魔材名称193				魔材名称193	魔材名称193	魔材名称193	魔材名称193
+ITEMMATNAME_194	魔材名称194	魔材名称194				魔材名称194	魔材名称194	魔材名称194	魔材名称194
+ITEMMATNAME_195	魔材名称195	魔材名称195				魔材名称195	魔材名称195	魔材名称195	魔材名称195
+ITEMMATNAME_196	魔材名称196	魔材名称196				魔材名称196	魔材名称196	魔材名称196	魔材名称196
+ITEMMATNAME_197	魔材名称197	魔材名称197				魔材名称197	魔材名称197	魔材名称197	魔材名称197
+ITEMMATNAME_198	魔材名称198	魔材名称198				魔材名称198	魔材名称198	魔材名称198	魔材名称198
+ITEMMATNAME_199	魔材名称199	魔材名称199				魔材名称199	魔材名称199	魔材名称199	魔材名称199

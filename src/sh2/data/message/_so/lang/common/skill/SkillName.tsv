@@ -1,0 +1,852 @@
+id	en	jp	cn	tw	ko	gr	es	fr	it
+SKILLNAME_DUM_000	ダミー	ダミー	DUMMY	DUMMY	DUMMY	ダミー	ダミー	ダミー	ダミー
+SKILLNAME_COM_000	Agi	アギ	亚基	亞基	아기	Agi	Agi	Agi	Agi
+SKILLNAME_COM_001	Agilao	アギラオ	亚基拉欧	亞基拉歐	아기라오	Agilao	Agilao	Agilao	Agilao
+SKILLNAME_COM_002	Agidyne	アギダイン	亚基达因	亞基達因	아기다인	Agidyne	Agidyne	Agidyne	Agidyne
+SKILLNAME_COM_003	Maragi	マハ･ラギ	玛哈·拉基	瑪哈．拉基	마하라기	Maragi	Maragi	Maragi	Maragi
+SKILLNAME_COM_004	Maragion	マハ･ラギオン	玛哈·拉基翁	瑪哈．拉基翁	마하라기온	Maragion	Maragion	Maragion	Maragion
+SKILLNAME_COM_005	Maragidyne	マハ･ラギダイン	玛哈·拉基达因	瑪哈．拉基達因	마하라기다인	Maragidyne	Maragidyne	Maragidyne	Maragidyne
+SKILLNAME_COM_006	Fire Breath	ファイアブレス	火焰之息	火焰之息	파이어 브레스	Feueratem	Aliento ígneo	Souffle de feu	Soffio ardente
+SKILLNAME_COM_007	Hellfire	地獄の業火	地狱业火	地獄業火	지옥의 업화	Höllenfeuer	Fuego del averno	Feu de l'enfer	Fuoco infernale
+SKILLNAME_COM_008	Kurikara Kokuryu	くりからの黒龍	俱利伽罗之黑龙	俱利伽羅黑龍	쿠리카라의 흑룡	Kurikara Kokuryu	Kurikara kokuryu	Kurikara Kokuryu	Kurikara Kokuryu
+SKILLNAME_COM_009	【火炎枠】	【火炎枠】		【火焰欄位】		【火炎枠】	【火炎枠】	【火炎枠】	【火炎枠】
+SKILLNAME_COM_010	Bufu	ブフ	布芙	布芙	부흐	Bufu	Bufu	Bufu	Bufu
+SKILLNAME_COM_011	Bufula	ブフーラ	布芙拉	布芙拉	부흐라	Bufula	Bufula	Bufula	Bufula
+SKILLNAME_COM_012	Bufudyne	ブフダイン	布芙达因	布芙達因	부흐다인	Bufudyne	Bufudyne	Bufudyne	Bufudyne
+SKILLNAME_COM_013	Mabufu	マハ･ブフ	玛哈·布芙	瑪哈．布芙	마하부흐	Mabufu	Mabufu	Mabufu	Mabufu
+SKILLNAME_COM_014	Mabufula	マハ･ブフーラ	玛哈·布芙拉	瑪哈．布芙拉	마하부흐라	Mabufula	Mabufula	Mabufula	Mabufula
+SKILLNAME_COM_015	Mabufudyne	マハ･ブフダイン	玛哈·布芙达因	瑪哈．布芙達因	마하부흐다인	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne
+SKILLNAME_COM_016	Ice Breath	アイスブレス	冰冻之息	冰凍之息	아이스 브레스	Eisatem	Aliento helado	Souffle de glace	Soffio glaciale
+SKILLNAME_COM_017	Glacial Blast	絶対零度	绝对零度	絕對零度	절대 영도	Gletscherstoß	Estallido glacial	Explosion glaciale	Urto glaciale
+SKILLNAME_COM_018	氷結枠1	【氷結枠1】				【氷結枠1】	【氷結枠1】	【氷結枠1】	【氷結枠1】
+SKILLNAME_COM_019	氷結枠2	【氷結枠2】				【氷結枠2】	【氷結枠2】	【氷結枠2】	【氷結枠2】
+SKILLNAME_COM_020	Zio	ジオ	吉欧	吉歐	지오	Zio	Zio	Zio	Zio
+SKILLNAME_COM_021	Zionga	ジオンガ	吉欧加	吉歐加	지온가	Zionga	Zionga	Zionga	Zionga
+SKILLNAME_COM_022	Ziodyne	ジオダイン	吉欧达因	吉歐達因	지오다인	Ziodyne	Ziodyne	Ziodyne	Ziodyne
+SKILLNAME_COM_023	Mazio	マハ･ジオ	玛哈·吉欧	瑪哈．吉歐	마하지오	Mazio	Mazio	Mazio	Mazio
+SKILLNAME_COM_024	Mazionga	マハ･ジオンガ	玛哈·吉欧加	瑪哈．吉歐加	마하지온가	Mazionga	Mazionga	Mazionga	Mazionga
+SKILLNAME_COM_025	Maziodyne	マハ･ジオダイン	玛哈·吉欧达因	瑪哈．吉歐達因	마하지오다인	Maziodyne	Maziodyne	Maziodyne	Maziodyne
+SKILLNAME_COM_026	Shock	放電	放电	放電	방전	Schock	Descarga	Décharge	Scossa
+SKILLNAME_COM_027	Wild Lightning	豪雷	豪雷	豪雷	호뢰	Wilde Blitze	Rayo fulminante	Foudre sauvage	Fulmine selvaggio
+SKILLNAME_COM_028	電撃枠1	【電撃枠1】				【電撃枠1】	【電撃枠1】	【電撃枠1】	【電撃枠1】
+SKILLNAME_COM_029	電撃枠2	【電撃枠2】				【電撃枠2】	【電撃枠2】	【電撃枠2】	【電撃枠2】
+SKILLNAME_COM_030	Zan	ザン	赞	贊	잔	Zan	Zan	Zan	Zan
+SKILLNAME_COM_031	Zanma	ザンマ	赞玛	贊瑪	잔마	Zanma	Zanma	Zanma	Zanma
+SKILLNAME_COM_032	Zandyne	ザンダイン	赞达因	贊達因	잔다인	Zandyne	Zandyne	Zandyne	Zandyne
+SKILLNAME_COM_033	Mazan	マハ･ザン	玛哈·赞	瑪哈．贊	마하잔	Mazan	Mazan	Mazan	Mazan
+SKILLNAME_COM_034	Mazanma	マハ･ザンマ	玛哈·赞玛	瑪哈．贊瑪	마하잔마	Mazanma	Mazanma	Mazanma	Mazanma
+SKILLNAME_COM_035	Mazandyne	マハ･ザンダイン	玛哈·赞达因	瑪哈．贊達因	마하잔다인	Mazandyne	Mazandyne	Mazandyne	Mazandyne
+SKILLNAME_COM_036	Wind Breath	ウィンドブレス	狂风之息	狂風吐息	윈드 브레스	Windatem	Aliento del viento	Souffle du vent	Soffio ventoso
+SKILLNAME_COM_037	Tornado	竜巻	龙卷	龍捲	회오리	Tornado	Tornado	Tornade	Tornado
+SKILLNAME_COM_038	衝撃枠1	【衝撃枠1】				【衝撃枠1】	【衝撃枠1】	【衝撃枠1】	【衝撃枠1】
+SKILLNAME_COM_039	衝撃枠2	【衝撃枠2】				【衝撃枠2】	【衝撃枠2】	【衝撃枠2】	【衝撃枠2】
+SKILLNAME_COM_040	Life Drain	吸血	吸血	吸血	흡혈	Lebensentzug	Absorción vital	Siphon vital	Risucchio vitale
+SKILLNAME_COM_041	Life Leech	超吸血	强力吸血	超吸血	초흡혈	Lebenssauger	Extracción vital	Saignée vitale	Assorbimento vitale
+SKILLNAME_COM_042	Megido	メギド	米吉多	米吉多	메기도	Megido	Megido	Megido	Megido
+SKILLNAME_COM_043	Megidola	メギドラ	米吉多拉	米吉多拉	메기도라	Megidola	Megidola	Megidola	Megidola
+SKILLNAME_COM_044	Megidolaon	メギドラオン	米吉多拉翁	米吉多拉翁	메기도라온	Megidolaon	Megidolaon	Megidolaon	Megidolaon
+SKILLNAME_COM_045	Spirit Drain	吸魔	吸魔	吸魔	흡마	Geistesentzug	Drenaje espiritual	Siphon spirituel	Risucchio spirituale
+SKILLNAME_COM_046	万能枠1	【万能枠1】				【万能枠1】	【万能枠1】	【万能枠1】	【万能枠1】
+SKILLNAME_COM_047	万能枠2	【万能枠2】				【万能枠2】	【万能枠2】	【万能枠2】	【万能枠2】
+SKILLNAME_COM_048	万能枠3	【万能枠3】				【万能枠3】	【万能枠3】	【万能枠3】	【万能枠3】
+SKILLNAME_COM_049	万能枠4	【万能枠4】				【万能枠4】	【万能枠4】	【万能枠4】	【万能枠4】
+SKILLNAME_COM_050	Arm Chopper	両腕落とし	断臂击	斬臂	양팔 찍기	Armhieb	Desmembración	Hachoir à bras	Trinciabraccia
+SKILLNAME_COM_051	Corkscrew	コークスクリュー	螺旋钻拳	螺旋拳	코르크스크루	Korkenzieher	Sacacorchos	Tire-bouchon	Cavatappi
+SKILLNAME_COM_052	Bamboo Slice	からたけ割り	唐竹斩	一刀兩斷	내려 베기	Bambusschnitter	Partir bambú	Section de bambou	Germoglio di bambù
+SKILLNAME_COM_053	Heat Wave	ヒートウェイブ	灼热波浪	灼熱波浪	히트 웨이브	Hitzewelle	Ola de calor	Onde brûlante	Ondata di calore
+SKILLNAME_COM_054	Atom Slicer	木っ端みじん斬り	粉碎斩	灰飛煙滅斬	산산조각 베기	Atomspalter	División atómica	Trancheur d'atomes	Frantuma-atomi
+SKILLNAME_COM_055	Megaton Press	メガトンプレス	百万吨袭击	百萬噸襲擊	메가톤 프레스	Megastampfer	Megatón de presión	Presse Mégaton	Pressa Megaton
+SKILLNAME_COM_056	Rampage	暴れまくり	横冲直撞	橫衝直撞	난동 부리기	Amoklauf	Furia	Saccage	Attacco furioso
+SKILLNAME_COM_057	Deathbound	デスバウンド	死亡界限	死亡界限	데스바운드	Todeswunsch	Portamuerte	Raid meurtrier	Attacco mortale
+SKILLNAME_COM_058	Overlord	戦の魔王		戰之魔王		Oberherr	Señor supremo	Suzerain	Capo supremo
+SKILLNAME_COM_059	Defense Kuzushi	マモリクズシ	破防打击	破防	가드 브레이크	Abwehr-Kuzushi	Defensa kuzushi	Kuzushi de défense	Difesa Kuzushi
+SKILLNAME_COM_060	Meat Bullet	肉弾	肉弹	肉身炮彈	육탄	Fleischkugel	Bala de carne	Balle de viande	Proiettile di carne
+SKILLNAME_COM_061	Eat Whole	まるかじり	撕咬	大快朵頤	통째로 뜯기	Verschlingen	Engullir	Gobage	Ingordigia
+SKILLNAME_COM_062	Torpor Strike	鈍麻殴打	钝麻殴打	麻木毆打	둔마구타	Starrehieb	Golpe aletargado	Frappe de torpeur	Attacco torpore
+SKILLNAME_COM_063	Blight	ベノンザッパー	猛毒之击	猛毒之擊	베놈 재퍼	Seuche	Luz penetrante	Fléau	Piaga
+SKILLNAME_COM_064	Double Fangs	二連牙	二连牙	二連牙	이연아	Doppelreißer	Colmillos dobles	Doubles crocs	Zanne doppie
+SKILLNAME_COM_065	Frenzied Dance	熱狂の演舞	狂热演舞	狂熱之舞	열광의 연무	Wilder Tanz	Danza frenética	Danse frénétique	Danza frenetica
+SKILLNAME_COM_066	Fang Breaker	牙折り	碎牙击	碎牙擊	어금니 부수기	Zahnzieher	Rompecolmillos	Brise-crocs	Spaccazanne
+SKILLNAME_COM_067	Lunge	突撃	突击	突擊	돌격	Ausfall	Acometida	Fente	Affondo
+SKILLNAME_COM_068	Wraith's Fang	屍霊の牙	尸灵之牙	屍靈之牙	시령의 어금니	Geisterbiss	Colmillo espectral	Croc de spectre	Zanna spettrale
+SKILLNAME_COM_069	Stomach Blow	ストマックブロー	击胃重拳	胃部拳擊	보디 블로	Magenhieb	Golpe estomacal	Coup à l'estomac	Colpo allo stomaco
+SKILLNAME_COM_070	Thunder Kick	雷震王母の蹴り	雷震王母踢击	雷震王母踢擊	뇌신왕모의 발차기	Donnertritt	Patada del trueno	Coup foudroyant	Calcio di tuono
+SKILLNAME_COM_071	Divine Claw	神爪猛襲	神爪猛袭	神爪猛襲	신조맹습	Göttliche Klaue	Garra divina	Griffure divine	Artiglio divino
+SKILLNAME_COM_072	Empty Wave	虚空斬波	虚空斩波	虛空斬波	허공참파	Leere Welle	Ola vacía	Vague vide	Ondata vuota
+SKILLNAME_COM_073	物理枠1	【物理枠1】				【物理枠1】	【物理枠1】	【物理枠1】	【物理枠1】
+SKILLNAME_COM_074	物理枠2	【物理枠2】				【物理枠2】	【物理枠2】	【物理枠2】	【物理枠2】
+SKILLNAME_COM_075	物理枠3	【物理枠3】				【物理枠3】	【物理枠3】	【物理枠3】	【物理枠3】
+SKILLNAME_COM_076	物理枠4	【物理枠4】				【物理枠4】	【物理枠4】	【物理枠4】	【物理枠4】
+SKILLNAME_COM_077	物理枠5	【物理枠5】				【物理枠5】	【物理枠5】	【物理枠5】	【物理枠5】
+SKILLNAME_COM_078	物理枠6	【物理枠6】				【物理枠6】	【物理枠6】	【物理枠6】	【物理枠6】
+SKILLNAME_COM_079	物理枠7	【物理枠7】				【物理枠7】	【物理枠7】	【物理枠7】	【物理枠7】
+SKILLNAME_COM_080	Needle Shot	ニードルショット	尖刺射击	刺針射擊	니들 샷	Nadelschuss	Tiro de aguja	Coup d'aiguille	Colpo pungente
+SKILLNAME_COM_081	Needle Rush	九十九針	九十九针	九十九針	구십구침	Nadelrausch	Acom. de agujas	Volée d'épines	Carica pungente
+SKILLNAME_COM_082	Divine Shot	破邪の光弾	破邪光弹	破邪光彈	파사의 광탄	Göttlicher Schuss	Tiro divino	Rayon divin	Tiro divino
+SKILLNAME_COM_083	Wave Shot	ウェイブショット	波状射击	波浪射擊	웨이브 샷	Wellenschuss	Tiro de ola	Tir ondulé	Tiro vibrante
+SKILLNAME_COM_084	Blast Arrow	ブラストアロー	爆破箭	疾風之箭	블래스트 애로	Sprengpfeil	Flechas explosivas	Flèche explosive	Freccia esplosiva
+SKILLNAME_COM_085	Myriad Strikes	刹那五月雨撃	刹那五月雨击	剎那五月雨擊	찰나 장대비 쏘기	Hiebhagel	Golpes infinitos	Pluie de frappes	Miriade di attacchi
+SKILLNAME_COM_086	Freikugel	至高の魔弾	至高魔弹	至高魔彈	지고의 마탄	Freikugel	Freikugel	Freikugel	Freikugel
+SKILLNAME_COM_087	Stun Needle	麻痺針	麻痹针	麻痺針	마비침	Betäubungsnadel	Aguja aturdidora	Épine étourdissante	Aculeo stordente
+SKILLNAME_COM_088	Hypnosis Needle	催眠針	催眠针	催眠針	최면침	Hypnosenadel	Aguja hipnótica	Aiguille d'hypnose	Aculeo ipnotico
+SKILLNAME_COM_089	Taunting Shot	挑発の嚆矢	挑衅之嚆矢	挑釁響箭	도발의 효시	Hohnschuss	Tiro provocador	Tir de provocation	Tiro beffardo
+SKILLNAME_COM_090	Fusillade	フュージレイド	灭生扫射	子彈連擊	퓨실레이드	Salve	Fusilamiento	Fusillade	Raffica
+SKILLNAME_COM_091	Six-Realm Strike	六道突き	六道突刺	六連彈	육도 찌르기	Sechs-Reiche-Stoß	Golpe dimensional	Frappe des six	Attacco dei 6 regni
+SKILLNAME_COM_092	Heaven's Bow	天扇弓	天扇弓	天扇弓	천선궁	Himmelsbogen	Arco celestial	Arc céleste	Arco celeste
+SKILLNAME_COM_093	Sure Vengeance	天罰必中	天罚必中	天譴必至	천벌필중	Sichere Rache	Venganza segura	Frappe vengeresse	Vendetta certa
+SKILLNAME_COM_094	銃撃枠1	【銃撃枠1】				【銃撃枠1】	【銃撃枠1】	【銃撃枠1】	【銃撃枠1】
+SKILLNAME_COM_095	銃撃枠2	【銃撃枠2】				【銃撃枠2】	【銃撃枠2】	【銃撃枠2】	【銃撃枠2】
+SKILLNAME_COM_096	銃撃枠3	【銃撃枠3】				【銃撃枠3】	【銃撃枠3】	【銃撃枠3】	【銃撃枠3】
+SKILLNAME_COM_097	銃撃枠4	【銃撃枠4】				【銃撃枠4】	【銃撃枠4】	【銃撃枠4】	【銃撃枠4】
+SKILLNAME_COM_098	銃撃枠5	【銃撃枠5】				【銃撃枠5】	【銃撃枠5】	【銃撃枠5】	【銃撃枠5】
+SKILLNAME_COM_099	銃撃枠6	【銃撃枠6】				【銃撃枠6】	【銃撃枠6】	【銃撃枠6】	【銃撃枠6】
+SKILLNAME_COM_100	Poisma	ポイズマ	施毒术	波伊佐瑪	포이즈마	Giftma	Venema	Poisma	Poisma
+SKILLNAME_COM_101	Stun Gaze	パララアイ	麻痹之眼	麻痺之眼	패럴라 아이	Betäubungsblick	Mirada aturdidora	Regard étourdissant	Sguardo stordente
+SKILLNAME_COM_102	Dormina	ドルミナー	永眠	永眠	도르미나	Dormina	Dormina	Dormina	Dormina
+SKILLNAME_COM_103	Demonic Gaze	デビルアイ	恶魔之眼	魔鬼之眼	데빌 아이	Dämonischer Blick	Mirada demoníaca	Regard démoniaque	Sguardo demoniaco
+SKILLNAME_COM_104	Makajama	マカジャマ	玛卡加玛	瑪卡加瑪	마카쟈마	Makajama	Makajama	Makajama	Makajama
+SKILLNAME_COM_105	Poison Breath	ポイズンブレス	剧毒之息	毒害之息	포이즌 브레스	Giftatem	Aliento tóxico	Souffle toxique	Soffio velenoso
+SKILLNAME_COM_106	Demon Teeth Grind	悪魔の歯ぎしり	恶魔的咬牙切齿	惡魔的咬嚙	악마의 이갈이	Zähneknirschen	Rechinar demoníaco	Grincement de dents	Sorriso demoniaco
+SKILLNAME_COM_107	Lullaby	子守唄	摇篮曲	搖籃曲	자장가	Schlaflied	Canción de cuna	Berceuse	Ninnananna
+SKILLNAME_COM_108	High Pressure	ハイプレッシャー	摄魂威压	高壓	하이 프레셔	Hochdruck	Alta presión	Haute pression	Pressione alta
+SKILLNAME_COM_109	Makajamaon	マカジャマオン	玛卡加玛翁	瑪卡加瑪翁	마카쟈마온	Makajamaon	Makajamaon	Makajamaon	Makajamaon
+SKILLNAME_COM_110	【火炎～魔力追加枠1】	【火炎～魔力追加枠1】				【火炎～魔力追加枠1】	【火炎～魔力追加枠1】	【火炎～魔力追加枠1】	【火炎～魔力追加枠1】
+SKILLNAME_COM_111	【火炎～魔力追加枠2】	【火炎～魔力追加枠2】				【火炎～魔力追加枠2】	【火炎～魔力追加枠2】	【火炎～魔力追加枠2】	【火炎～魔力追加枠2】
+SKILLNAME_COM_112	【火炎～魔力追加枠3】	【火炎～魔力追加枠3】				【火炎～魔力追加枠3】	【火炎～魔力追加枠3】	【火炎～魔力追加枠3】	【火炎～魔力追加枠3】
+SKILLNAME_COM_113	【火炎～魔力追加枠4】	【火炎～魔力追加枠4】				【火炎～魔力追加枠4】	【火炎～魔力追加枠4】	【火炎～魔力追加枠4】	【火炎～魔力追加枠4】
+SKILLNAME_COM_114	【火炎～魔力追加枠5】	【火炎～魔力追加枠5】				【火炎～魔力追加枠5】	【火炎～魔力追加枠5】	【火炎～魔力追加枠5】	【火炎～魔力追加枠5】
+SKILLNAME_COM_115	【火炎～魔力追加枠6】	【火炎～魔力追加枠6】				【火炎～魔力追加枠6】	【火炎～魔力追加枠6】	【火炎～魔力追加枠6】	【火炎～魔力追加枠6】
+SKILLNAME_COM_116	【火炎～魔力追加枠7】	【火炎～魔力追加枠7】				【火炎～魔力追加枠7】	【火炎～魔力追加枠7】	【火炎～魔力追加枠7】	【火炎～魔力追加枠7】
+SKILLNAME_COM_117	【火炎～魔力追加枠8】	【火炎～魔力追加枠8】				【火炎～魔力追加枠8】	【火炎～魔力追加枠8】	【火炎～魔力追加枠8】	【火炎～魔力追加枠8】
+SKILLNAME_COM_118	【火炎～魔力追加枠9】	【火炎～魔力追加枠9】				【火炎～魔力追加枠9】	【火炎～魔力追加枠9】	【火炎～魔力追加枠9】	【火炎～魔力追加枠9】
+SKILLNAME_COM_119	【火炎～魔力追加枠10】	【火炎～魔力追加枠10】				【火炎～魔力追加枠10】	【火炎～魔力追加枠10】	【火炎～魔力追加枠10】	【火炎～魔力追加枠10】
+SKILLNAME_COM_120	【火炎～魔力追加枠11】	【火炎～魔力追加枠11】				【火炎～魔力追加枠11】	【火炎～魔力追加枠11】	【火炎～魔力追加枠11】	【火炎～魔力追加枠11】
+SKILLNAME_COM_121	【火炎～魔力追加枠12】	【火炎～魔力追加枠12】				【火炎～魔力追加枠12】	【火炎～魔力追加枠12】	【火炎～魔力追加枠12】	【火炎～魔力追加枠12】
+SKILLNAME_COM_122	【火炎～魔力追加枠13】	【火炎～魔力追加枠13】				【火炎～魔力追加枠13】	【火炎～魔力追加枠13】	【火炎～魔力追加枠13】	【火炎～魔力追加枠13】
+SKILLNAME_COM_123	【火炎～魔力追加枠14】	【火炎～魔力追加枠14】				【火炎～魔力追加枠14】	【火炎～魔力追加枠14】	【火炎～魔力追加枠14】	【火炎～魔力追加枠14】
+SKILLNAME_COM_124	【火炎～魔力追加枠15】	【火炎～魔力追加枠15】				【火炎～魔力追加枠15】	【火炎～魔力追加枠15】	【火炎～魔力追加枠15】	【火炎～魔力追加枠15】
+SKILLNAME_COM_125	【火炎～魔力追加枠16】	【火炎～魔力追加枠16】				【火炎～魔力追加枠16】	【火炎～魔力追加枠16】	【火炎～魔力追加枠16】	【火炎～魔力追加枠16】
+SKILLNAME_COM_126	【火炎～魔力追加枠17】	【火炎～魔力追加枠17】				【火炎～魔力追加枠17】	【火炎～魔力追加枠17】	【火炎～魔力追加枠17】	【火炎～魔力追加枠17】
+SKILLNAME_COM_127	【火炎～魔力追加枠18】	【火炎～魔力追加枠18】				【火炎～魔力追加枠18】	【火炎～魔力追加枠18】	【火炎～魔力追加枠18】	【火炎～魔力追加枠18】
+SKILLNAME_COM_128	【火炎～魔力追加枠19】	【火炎～魔力追加枠19】				【火炎～魔力追加枠19】	【火炎～魔力追加枠19】	【火炎～魔力追加枠19】	【火炎～魔力追加枠19】
+SKILLNAME_COM_129	【火炎～魔力追加枠20】	【火炎～魔力追加枠20】				【火炎～魔力追加枠20】	【火炎～魔力追加枠20】	【火炎～魔力追加枠20】	【火炎～魔力追加枠20】
+SKILLNAME_COM_130	Dia	ディア	迪亚	迪亞	디아	Dia	Dia	Dia	Dia
+SKILLNAME_COM_131	Diarama	ディアラマ	迪亚拉玛	迪亞拉瑪	디아라마	Diarama	Diarama	Diarama	Diarama
+SKILLNAME_COM_132	Diarahan	ディアラハン	迪亚拉翰	迪亞拉翰	디아라한	Diarahan	Diarahan	Diarahan	Diarahan
+SKILLNAME_COM_133	Media	メ･ディア	梅·迪亚	梅．迪亞	메디아	Media	Media	Média	Media
+SKILLNAME_COM_134	Mediarama	メ･ディアラマ	梅·迪亚拉玛	梅．迪亞拉瑪	메디아라마	Mediarama	Mediarama	Mediarama	Mediarama
+SKILLNAME_COM_135	Mediarahan	メ･ディアラハン	梅·迪亚拉翰	梅．迪亞拉翰	메디아라한	Mediarahan	Mediarahan	Mediarahan	Mediarahan
+SKILLNAME_COM_136	Eternal Prayer	常世の祈り	常世的祈祷	永世的祈禱	영원의 기도	Ewiges Gebet	Plegaria eterna	Prière éternelle	Preghiera eterna
+SKILLNAME_COM_137	Patra	パトラ	帕特拉	帕特拉	파트라	Patra	Patra	Patra	Patra
+SKILLNAME_COM_138	Me Patra	メ･パトラ	梅·帕特拉	梅．帕特拉	메파트라	Me Patra	Me Patra	Me Patra	Me Patra
+SKILLNAME_COM_139	Lourdes	ルルド	卢尔德	盧爾德	루르드	Lourdes	Lurdes	Lourdes	Lourdes
+SKILLNAME_COM_140	Me Lourdes	メ･ルルド	梅·卢尔德	梅．盧爾德	메루르드	Me Lourdes	Me Lurdes	Me Lourdes	Me Lourdes
+SKILLNAME_COM_141	Amrita	アムリタ	不死甘露	甘露	암리타	Amrita	Amrita	Amrita	Amrita
+SKILLNAME_COM_142	Recarm	リカーム	利卡姆	利卡姆	리캄	Recarm	Recarm	Recarm	Recarm
+SKILLNAME_COM_143	Samarecarm	サマリカーム	萨玛利卡姆	薩瑪利卡姆	사마리캄	Samarecarm	Samarecarm	Samarecarm	Samarecarm
+SKILLNAME_COM_144	【回復枠1】	【回復枠1】				【回復枠1】	【回復枠1】	【回復枠1】	【回復枠1】
+SKILLNAME_COM_145	【回復枠2】	【回復枠2】				【回復枠2】	【回復枠2】	【回復枠2】	【回復枠2】
+SKILLNAME_COM_146	【回復枠3】	【回復枠3】				【回復枠3】	【回復枠3】	【回復枠3】	【回復枠3】
+SKILLNAME_COM_147	【回復枠4】	【回復枠4】				【回復枠4】	【回復枠4】	【回復枠4】	【回復枠4】
+SKILLNAME_COM_148	【回復枠5】	【回復枠5】				【回復枠5】	【回復枠5】	【回復枠5】	【回復枠5】
+SKILLNAME_COM_149	【回復枠6】	【回復枠6】				【回復枠6】	【回復枠6】	【回復枠6】	【回復枠6】
+SKILLNAME_COM_150	Tarukaja	タル･カジャ	塔尔·卡加	塔爾．卡加	타루카쟈	Tarukaja	Tarukaja	Tarukaja	Tarukaja
+SKILLNAME_COM_151	Rakukaja	ラク･カジャ	拉库·卡加	拉庫．卡加	라쿠카쟈	Rakukaja	Rakukaja	Rakukaja	Rakukaja
+SKILLNAME_COM_152	Sukukaja	スク･カジャ	斯库·卡加	斯庫．卡加	스쿠카쟈	Sukukaja	Sukukaja	Sukukaja	Sukukaja
+SKILLNAME_COM_153	Static Rook Anaguma	居飛車穴熊	居飞车穴熊	居飛車穴熊	거비차혈웅	Turmstatik-Anaguma	Torre inamovible	Tour Anaguma	Torre Anaguma
+SKILLNAME_COM_154	Bloodlust	殺気	杀气	殺氣	살기	Mörderische Absicht	Sed de sangre	Intention meurtrière	Sete di sangue
+SKILLNAME_COM_155	Luster Candy	ラスタキャンディ	强化糖球	強化糖球	라스타캔디	Rasuta-Bonbon	Caramelo rasta	Bonbon brillant	Caramella lucente
+SKILLNAME_COM_156	Dekunda	デ･クンダ	迪·坤达	迪．坤達	데쿤다	Dekunda	Dekunda	Dekunda	Dekunda
+SKILLNAME_COM_157	Tarunda	タル･ンダ	塔尔·达	塔倫．達	타룬다	Tarunda	Tarunda	Tarunda	Tarunda
+SKILLNAME_COM_158	Rakunda	ラク･ンダ	拉库·达	拉坤．達	라쿤다	Rakunda	Rakunda	Rakunda	Rakunda
+SKILLNAME_COM_159	Sukunda	スク･ンダ	斯库·达	斯坤．達	스쿤다	Sukunda	Sukunda	Sukunda	Sukunda
+SKILLNAME_COM_160	Roar	雄叫び	咆哮	咆哮	포효	Schlachtruf	Clamor de guerra	Hurlement de guerre	Ruggito guerriero
+SKILLNAME_COM_161	Fog Breath	フォッグブレス	浓雾之息	濃霧之息	포그 브레스	Nebelatem	Aliento neblinoso	Souffle brumeux	Soffio brumoso
+SKILLNAME_COM_162	Debilitate	ランダマイザ	女巫诅咒	女巫詛咒	랜더마이저	Entkräften	Debilitar	Affaiblissement	Debilitazione
+SKILLNAME_COM_163	Dekaja	デ･カジャ	迪·卡加	迪．卡加	데카쟈	Dekaja	Dekaja	Dekaja	Dekaja
+SKILLNAME_COM_164	Tetrakarn	テトラカーン	提特拉康	提特拉康	테트라칸	Tetrakarn	Tetrakarn	Tetrakarn	Tetrakarn
+SKILLNAME_COM_165	Makarakarn	マカラカーン	玛卡拉康	瑪卡拉康	마카라칸	Makarakarn	Makarakarn	Makarakarn	Makarakarn
+SKILLNAME_COM_166	Charge	チャージ	蓄力	蓄力	차지	Ansturm	Carga	Charge	Carica
+SKILLNAME_COM_167	Concentrate	コンセントレイト	专心致志	專心致志	컨센트레이트	Konzentration	Concentrar	Concentration	Concentrazione
+SKILLNAME_COM_168	Consecration	入魂	入魂	入魂	입혼	Weihe	Consagración	Consécration	Consacrazione
+SKILLNAME_COM_169	Fire Break	火炎ガードキル	消除火焰防御	消除火焰防禦	화염 가드킬	Feueraufhebung	Descontrol ígneo	Coupe-feu	Squarcio di fuoco
+SKILLNAME_COM_170	Ice Break	氷結ガードキル	消除冰冻防御	消除冰凍防禦	빙결 가드킬	Eisaufhebung	Descontrol helado	Coupe-glace	Squarcio di ghiaccio
+SKILLNAME_COM_171	Elec Break	電撃ガードキル	消除电击防御	消除電擊防禦	전격 가드킬	Elektroaufhebung	Descontrol eléctrico	Coupe-foudre	Squarcio elettrico
+SKILLNAME_COM_172	Force Break	衝撃ガードキル	消除冲击防御	消除衝擊防禦	충격 가드킬	Kraftaufhebung	Descontrol de fuerza	Coupe-choc	Squarcio di forza
+SKILLNAME_COM_173	Flame Wall	火炎の防壁	火焰障壁	火焰之壁	화염의 방벽	Flammenwand	Muro flamígero	Mur de flammes	Muro di fuoco
+SKILLNAME_COM_174	Ice Wall	氷結の防壁	冰冻障壁	冰凍之壁	빙결의 방벽	Eiswand	Muro helado	Mur de glace	Muro di ghiaccio
+SKILLNAME_COM_175	Volt Wall	電撃の防壁	电击障壁	電擊之壁	전격의 방벽	Elektrowand	Muro eléctrico	Mur électrique	Muro elettrico
+SKILLNAME_COM_176	Force Wall	衝撃の防壁	冲击障壁	衝擊之壁	충격의 방벽	Kraftwand	Muro de fuerza	Mur de choc	Muro di forza
+SKILLNAME_COM_177	Protect	かばう				Beschützen	Protección	Protection	Proteggi
+SKILLNAME_COM_178	Trafuri	トラフーリ	特拉芙里	特拉芙里	트라프리	Trafuri	Trafuri	Trafuri	Trafuri
+SKILLNAME_COM_181	Acid Breath	溶解ブレス	溶解之息	溶解之息	용해 브레스	Säureatem	Aliento ácido	Souffle acide	Soffio acido
+SKILLNAME_COM_182	War Cry	ウォークライ	战吼	戰嚎	워 크라이	Kriegsschrei	Grito de guerra	Cri de guerre	Grido di guerra
+SKILLNAME_COM_183	Prideful Boast	大見得切り	堂堂亮相	招搖	허세 부리기	Stolze Ankündigung	Alardeo	Fière déclaration	Vanto superbo
+SKILLNAME_COM_184	Trance	トランス	超能	特蘭斯	트랜스	Trance	Trance	Transe	Trance
+SKILLNAME_COM_185	Megido Trance	メギドトランス	米吉多超能	米吉多特蘭斯	메기도 트랜스	Megido-Trance	Trance megido	Transe Megido	Trance Megido
+SKILLNAME_COM_186	Mystic Temptation	外法のいざない	外法的邀约	外法的引誘	외법의 유혹	Mythen-Verlockung	Tentación mística	Tentation mystique	Tentazione mistica
+SKILLNAME_COM_187	Stack Bonus	スタックボーナス	堆叠加成	Stack獎勵	스택 보너스	Kombo-Bonus	Bonificación combo	Bonus de combo	Bonus combo
+SKILLNAME_COM_200	Overlord	戦の魔王	战争魔王	戰爭魔王	전쟁의 마왕	Oberherr	Señor supremo	Suzerain	Capo supremo
+SKILLNAME_COM_201	Roma Fulmen	ロマ･フルメン	洛玛·弗鲁门	羅姆．弗爾門	로마 풀멘	Roma Fulmen	Roma Fulmen	Foudre de Rome	Roma Fulmen
+SKILLNAME_COM_202	Megido Arc	メギドアーク	米吉多亚克	米吉多方舟	메기도 아크	Megido-Strahl	Arco megido	Arc Megido	Arco Megido
+SKILLNAME_COM_203	Multi-Strike	千烈突き	千烈突刺	千烈彈	천열 찌르기	Mehrfachschlag	Ataque múltiple	Frappe multiple	Attacco multiplo
+SKILLNAME_COM_204	Hellish Geyser	ヘルスプラッシュ	地狱喷射	地獄噴射	헬 스플래시	Höllengeysir	Géiser infernal	Éperon infernal	Geyser infernale
+SKILLNAME_COM_205	Grand Blessing	大いなる祝福	伟大祝福	偉大的祝福	위대한 축복	Großer Segen	Gran bendición	Grande bénédiction	Grande benedizione
+SKILLNAME_COM_206	Oneness of Body	剣心一如	剑心如一	劍心一體	검심일여	Eins mit dem Körper	Entereza corporal	Unicité du corps	Integrità corporea
+SKILLNAME_COM_207	Rampant Wildfire	忿怒の炎	忿怒之焰	憤怒之火	분노의 불꽃	Wilde Flamme	Deflagración	Flamme violente	Fiamma violenta
+SKILLNAME_COM_208	Eclipse	イクリプス	蚀刻	蝕	이클립스	Finsternis	Eclipse	Éclipse	Eclissi
+SKILLNAME_COM_209	Soul Hax	そうるはっく	灵魂骇入	靈魂駭侵	소울 해킹	Seelenhack	Hackear alma	Piratage d'âme	Hackeraggio anima
+SKILLNAME_COM_300	Resist Phys	物理耐性	物理耐性	物理抗性	물리 내성	Körp. Resistenz	Resistir físico	Résistance physique	Resiste att. fisici
+SKILLNAME_COM_301	Null Phys	物理無効	物理无效	物理無效	물리 무효	Körp. Annullieren	Anular físico	Annuler physique	Annulla att. fisici
+SKILLNAME_COM_302	Resist Gunfire	銃撃耐性	枪击耐性	槍擊抗性	총격 내성	Schussresistenz	Resistir arma fuego	Résistance armes	Resiste armi
+SKILLNAME_COM_303	Null Gunfire	銃撃無効	枪击无效	槍擊無效	총격 무효	Schuss Annullieren	Anular arma fuego	Annuler armes	Annulla armi
+SKILLNAME_COM_304	Resist Fire	火炎耐性	火焰耐性	火焰抗性	화염 내성	Feuerresistenz	Resistir fuego	Résistance feu	Resiste fuoco
+SKILLNAME_COM_305	Null Fire	火炎無効	火焰无效	火焰無效	화염 무효	Feuer Annullieren	Anular fuego	Annuler feu	Annulla fuoco
+SKILLNAME_COM_306	Resist Ice	氷結耐性	冰冻耐性	冰凍抗性	빙결 내성	Eisresistenz	Resistir hielo	Résistance glace	Resiste ghiaccio
+SKILLNAME_COM_307	Null Ice	氷結無効	冰冻无效	冰凍無效	빙결 무효	Eis Annullieren	Anular hielo	Annuler glace	Annulla ghiaccio
+SKILLNAME_COM_308	Resist Elec	電撃耐性	电击耐性	電擊抗性	전격 내성	Elektroresistenz	Resistir elec.	Résistance foudre	Resiste elettricità
+SKILLNAME_COM_309	Null Elec	電撃無効	电击无效	電擊無效	전격 무효	Elektro Annullieren	Anular elec.	Annuler foudre	Annulla elettricità
+SKILLNAME_COM_310	Resist Force	衝撃耐性	冲击耐性	衝擊抗性	충격 내성	Kraftresistenz	Resistir fuerza	Résistance choc	Resiste forza
+SKILLNAME_COM_311	Null Force	衝撃無効	冲击无效	衝擊無效	충격 무효	Kraft Annullieren	Anular fuerza	Annuler choc	Annulla forza
+SKILLNAME_COM_312	Resist Ruin	魔力耐性	魔力耐性	魔力抗性	마력 내성	Verderbensresistenz	Resistir ruina	Résistance ruine	Resiste rovina
+SKILLNAME_COM_313	Null Ruin	魔力無効	魔力无效	魔力無效	마력 무효	Verderben Annull.	Anular ruina	Annuler ruine	Annulla rovina
+SKILLNAME_COM_314	Dodge Physical	物理見切り	物理识破	物理識破	물리 회피	Körp. Umgehen	Esquivar físico	Dérobade physique	Schiva fisici
+SKILLNAME_COM_315	Dodge Physical EX	極･物理見切り	极·物理识破	極．物理識破	극 물리 회피	Körp. Umgehen EX	Esquivar físico+	Dérobade physique EX	Schiva fisici+
+SKILLNAME_COM_316	Dodge Gunfire	銃撃見切り	枪击识破	槍擊識破	총격 회피	Schuss Umgehen	Esquivar arma fuego	Dérobade armes	Schiva armi
+SKILLNAME_COM_317	Dodge Gunfire EX	極･銃撃見切り	极·枪击识破	極．槍擊識破	극 총격 회피	Schuss Umgehen EX	Esquivar arma fuego+	Dérobade armes EX	Schiva armi+
+SKILLNAME_COM_318	Dodge Fire	火炎見切り	火焰识破	火焰識破	화염 회피	Feuer Umgehen	Esquivar fuego	Dérobade feu	Schiva fuoco
+SKILLNAME_COM_319	Dodge Fire EX	極･火炎見切り	极·火焰识破	極．火焰識破	극 화염 회피	Feuer Umgehen EX	Esquivar fuego+	Dérobade feu EX	Schiva fuoco+
+SKILLNAME_COM_320	Dodge Ice	氷結見切り	冰冻识破	冰凍識破	빙결 회피	Eis Umgehen	Esquivar hielo	Dérobade glace	Schiva ghiaccio
+SKILLNAME_COM_321	Dodge Ice EX	極･氷結見切り	极·冰冻识破	極．冰凍識破	극 빙결 회피	Eis Umgehen EX	Esquivar hielo+	Dérobade glace EX	Schiva ghiaccio+
+SKILLNAME_COM_322	Dodge Elec	電撃見切り	电击识破	電擊識破	전격 회피	Elektro Umgehen	Esquivar elec.	Dérobade foudre	Schiva elettricità
+SKILLNAME_COM_323	Dodge Elec EX	極･電撃見切り	极·电击识破	極．電擊識破	극 전격 회피	Elektro Umgehen EX	Esquivar elec.+	Dérobade foudre EX	Schiva elettricità+
+SKILLNAME_COM_324	Dodge Force	衝撃見切り	冲击识破	衝擊識破	충격 회피	Kraft Umgehen	Esquivar fuerza	Dérobade choc	Schiva forza
+SKILLNAME_COM_325	Dodge Force EX	極･衝撃見切り	极·冲击识破	極．衝擊識破	극 충격 회피	Kraft Umgehen EX	Esquivar fuerza+	Dérobade choc EX	Schiva forza+
+SKILLNAME_COM_326	Omni Dodge	全属性見切り	全属性识破	全屬性識破	모든 속성 회피	Alle Umgehen	Evasión total	Dérobade absolue	Schiva tutte
+SKILLNAME_COM_327	Phys Boost	物理ブースタ				Körp-Boost	Potencia física	Boost phys	Potenzia fisici
+SKILLNAME_COM_328	Phys Amp	物理ハイブースタ				Körp-Steigerung	Amplificación física	Amp phys	Amplifica fisici
+SKILLNAME_COM_329	Gunfire Boost	銃撃ブースタ				Schuss-Boost	Potencia arma	Boost d'arme	Potenzia armi da fuoco
+SKILLNAME_COM_330	Gunfire Amp	銃撃ハイブースタ				Schuss-Steigerung	Amp. armas de fuego	Amp armes	Amplifica armi da fuoco
+SKILLNAME_COM_331	Fire Boost	火炎ブースタ				Feuer-Boost	Potencia fuego	Boost feu	Potenzia fuoco
+SKILLNAME_COM_332	Fire Amp	火炎ハイブースタ				Feuer-Steigerung	Amplificación de fuego	Amp feu	Amplifica fuoco
+SKILLNAME_COM_333	Ice Boost	氷結ブースタ				Eis-Boost	Potencia hielo	Boost glace	Potenzia ghiaccio
+SKILLNAME_COM_334	Ice Amp	氷結ハイブースタ				Eis-Steigerung	Amplificación hielo	Amp glace	Amplifica ghiaccio
+SKILLNAME_COM_335	Elec Boost	電撃ブースタ				Elektro-Boost	Potencia electricidad	Boost foudre	Potenzia elettricità
+SKILLNAME_COM_336	Elec Amp	電撃ハイブースタ				Elektro-Steigerung	Amp. electricidad	Amp foudre	Amplifica elettricità
+SKILLNAME_COM_337	Force Boost	衝撃ブースタ				Kraft-Boost	Potencia fuerza	Boost vent	Potenzia forza
+SKILLNAME_COM_338	Force Amp	衝撃ハイブースタ				Kraft-Steigerung	Amplificación fuerza	Amp vent	Amplifica forza
+SKILLNAME_COM_339	Magic Amp	魔法攻撃ブースタ				Magieangriff-Steigerung	Amplificación magia	Amp magie	Amplifica attacco magico
+SKILLNAME_COM_340	Resist Mind	精神異常耐性	精神异常耐性	精神異常抗性	정신 이상 내성	Verstandresistenz	Resistir mente	Résistance esprit	Resiste mente
+SKILLNAME_COM_341	Resist Body	肉体異常耐性	肉身异常耐性	肉體異常抗性	육체 이상 내성	Phys. Resistenz	Resistir cuerpo	Résistance corps	Resiste corpo
+SKILLNAME_COM_342	Null Mind	精神異常無効	精神异常无效	精神異常無效	정신 이상 무효	Verstand Annull.	Anular mente	Annuler esprit	Annulla mente
+SKILLNAME_COM_343	Null Body	肉体異常無効	肉身异常无效	肉體異常無效	육체 이상 무효	Phys. Annullieren	Anular cuerpo	Annuler corps	Annulla corpo
+SKILLNAME_COM_344	Mind Saboteur	精神異常率UP				Verstand-Statuseffektverst.	Sabotaje mental	Trouble esprit	Alterazione mente +
+SKILLNAME_COM_345	Body Saboteur	肉体異常率UP				Körp-Statuseffektverst.	Sabotaje corporal	Trouble corps	Alterazione corpo +
+SKILLNAME_COM_346	全状態異常率ＵＰ	全状態異常率UP				全状態異常率ＵＰ	全状態異常率ＵＰ	全状態異常率ＵＰ	全状態異常率ＵＰ
+SKILLNAME_COM_347	Resist Ailments	状態異常耐性	异常状态耐性	異常狀態抗性	상태 이상 내성	Statuseff.-Resistenz	Resist. alteraciones	Résist. altération	Resiste alterazioni
+SKILLNAME_COM_348	急速回復	急速回復				急速回復	急速回復	急速回復	急速回復
+SKILLNAME_COM_349	Attack Master	攻撃の心得	攻击诀窍	攻擊訣竅	공격의 마음가짐	Angriffsmeister	As del ataque	Maître de l'attaque	Signore dell'attacco
+SKILLNAME_COM_350	Defense Master	防御の心得	防御诀窍	防禦訣竅	방어의 마음가짐	Verteidigungsmeister	As de la defensa	Maître de la défense	Leader della difesa
+SKILLNAME_COM_351	Speed Master	素早さの心得	敏捷诀窍	敏捷訣竅	빠르기의 마음가짐	Tempomeister	As de la velocidad	Maître de la vitesse	Signore velocità
+SKILLNAME_COM_352	Tarukauto	タルカオート	自动塔尔卡	自動塔爾卡	타루카오토	Tarukauto	Tarukauto	Tarukauto	Tarukauto
+SKILLNAME_COM_353	Rakukauto	ラクカオート	自动拉库卡	自動拉庫卡	라쿠카오토	Rakukauto	Rakukauto	Rakukauto	Rakukauto
+SKILLNAME_COM_354	Sukukauto	スクカオート	自动斯库卡	自動斯庫卡	스쿠카오토	Sukukauto	Sukukauto	Sukukauto	Sukukauto
+SKILLNAME_COM_355	Life Bonus	一分の活泉	一分活泉	一分活泉	1할의 활천	Lebensbonus	Extra de vida	Bonus de vie	Bonus vita
+SKILLNAME_COM_356	Life Gain	二分の活泉	二分活泉	二分活泉	2할의 활천	Lebenszugewinn	Aumento de vida	Gain de vie	Rialzo vitale
+SKILLNAME_COM_357	Life Surge	三分の活泉	三分活泉	三分活泉	3할의 활천	Lebensschub	Fuente de vida	Bouffée de vie	Spinta vitale
+SKILLNAME_COM_358	Mana Bonus	一分の魔脈	一分魔脉	一分魔脈	1할의 마맥	Mana-Bonus	Extra de maná	Bonus de mana	Bonus mana
+SKILLNAME_COM_359	Mana Gain	二分の魔脈	二分魔脉	二分魔脈	2할의 마맥	Mana-Zugewinn	Aumento de maná	Gain de mana	Rialzo mana
+SKILLNAME_COM_360	Mana Surge	三分の魔脈	三分魔脉	三分魔脈	3할의 마맥	Mana-Schub	Fuente de maná	Bouffée de mana	Spinta mana
+SKILLNAME_COM_361	Counter	反撃	反击	反擊	반격	Konter	Contraataque	Contre	Contrattacco
+SKILLNAME_COM_362	Retaliate	猛反撃	猛反击	猛反擊	맹반격	Vergeltung	Represalia	Représailles	Risposta
+SKILLNAME_COM_363	Avenge	デスカウンター	绝命反击	絕命反擊	데스 카운터	Rache	Venganza	Vengeance	Vendetta
+SKILLNAME_COM_364	Phys/Gun Pierce	物理･銃撃貫通	物理·枪击贯穿	物理、槍擊貫穿	물리·총격 관통	Körp/Schuss Durchb.	Perfo. físico/arma	Percée physique/arme	Perfor. fisici/armi
+SKILLNAME_COM_365	踏み込み	踏み込み				踏み込み	踏み込み	踏み込み	踏み込み
+SKILLNAME_COM_366	追い撃ち	追い撃ち				追い撃ち	追い撃ち	追い撃ち	追い撃ち
+SKILLNAME_COM_367	会心魔法	会心魔法				会心魔法	会心魔法	会心魔法	会心魔法
+SKILLNAME_COM_368	Expert's Advice	アドバイス	建言	建言	어드바이스	Ratschlag	Consejo de experto	Conseils	Consiglio
+SKILLNAME_COM_369	機先を制す	機先を制す				機先を制す	機先を制す	機先を制す	機先を制す
+SKILLNAME_COM_370	Last-Ditch Effort	背水の陣	背水一战	背水一戰	배수의 진	Letzte Anstrengung	Último esfuerzo	Ultime effort	Ultimo tentativo
+SKILLNAME_COM_371	致命負傷	致命負傷				致命負傷	致命負傷	致命負傷	致命負傷
+SKILLNAME_COM_372	Endure	食いしばり				Aushalten	Último aliento	Résilience	Resisti
+SKILLNAME_COM_373	Enduring Soul	不屈の闘志				Unbeugsame Seele	Alma inmortal	Âme coriace	Anima resistente
+SKILLNAME_COM_374	病巣転移	病巣転移				病巣転移	病巣転移	病巣転移	病巣転移
+SKILLNAME_COM_375	脆弱性	脆弱性				脆弱性	脆弱性	脆弱性	脆弱性
+SKILLNAME_COM_376	抵抗低下	抵抗低下				抵抗低下	抵抗低下	抵抗低下	抵抗低下
+SKILLNAME_COM_377	余剰演算	余剰演算				余剰演算	余剰演算	余剰演算	余剰演算
+SKILLNAME_COM_378	内弁慶	内弁慶				内弁慶	内弁慶	内弁慶	内弁慶
+SKILLNAME_COM_379	Stagehand's Stealth	黒子の歩法	隐秘步法	隱形人步法	쿠로코의 보법	Tarnschritt	Sigilo de tramoyista	Discrétion du machiniste	Furtività del macchinista
+SKILLNAME_COM_380	Kabukimono	傾奇者	倾奇者	奇裝異服	가부키모노	Kabukimono	Kabukimono	Kabukimono	Kabukimono
+SKILLNAME_COM_381	鉄壁	鉄壁				鉄壁	鉄壁	鉄壁	鉄壁
+SKILLNAME_COM_382	Life Drainage	吸血衝動	吸血冲动	吸血衝動	흡혈 행동	Lebensentziehung	Drenaje vital	Siphon vital	Drenaggio vitale
+SKILLNAME_COM_383	ガードヒール	ガードヒール				ガードヒール	ガードヒール	ガードヒール	ガードヒール
+SKILLNAME_COM_384	倹約	倹約				倹約	倹約	倹約	倹約
+SKILLNAME_COM_385	Life Aid	勝利の息吹	胜利气息	勝利氣息	승리의 숨결	Lebenshilfe	Ayuda vital	Coup de pouce	Sostegno vitale
+SKILLNAME_COM_386	Victory Cry	勝利の雄叫び	胜利咆哮	勝利咆哮	승리의 포효	Siegesschrei	Grito victorioso	Cri de victoire	Grido di vittoria
+SKILLNAME_COM_387	Mana Aid	勝利のチャクラ	胜利脉轮	勝利脈輪	승리의 차크라	Mana-Hilfe	Ayuda de maná	Regain de mana	Sostegno mana
+SKILLNAME_COM_388	天賦の才	天賦の才				天賦の才	天賦の才	天賦の才	天賦の才
+SKILLNAME_COM_389	文殊の知恵	文殊の知恵				文殊の知恵	文殊の知恵	文殊の知恵	文殊の知恵
+SKILLNAME_COM_390	Mind's Eye	心眼				Inneres Auge	Ojo de la mente	Œil de l'esprit	Occhio della mente
+SKILLNAME_COM_391	危機感知	危機感知				危機感知	危機感知	危機感知	危機感知
+SKILLNAME_COM_392	強敵の心構え	強敵の心構え				強敵の心構え	強敵の心構え	強敵の心構え	強敵の心構え
+SKILLNAME_COM_393	一掃のチャクラ	一掃のチャクラ				一掃のチャクラ	一掃のチャクラ	一掃のチャクラ	一掃のチャクラ
+SKILLNAME_COM_394	ブロッキング	ブロッキング				ブロッキング	ブロッキング	ブロッキング	ブロッキング
+SKILLNAME_COM_395	Firm Stance	仁王立ち	不动如山	不動如山	인왕 자세	Standfeste Haltung	Posición firme	Posture ferme	Posizione salda
+SKILLNAME_COM_396	ダッジステップ	ダッジステップ				ダッジステップ	ダッジステップ	ダッジステップ	ダッジステップ
+SKILLNAME_COM_397	Renewal	リジェネレート	再生	再生術	리제너레이트	Erneuerung	Regeneración	Régénérer	Rigenerazione
+SKILLNAME_COM_398	High Renewal	ハイリジェネレート	高阶再生	高階再生術	하이 리제너레이트	Hohe Erneuerung	Regeneración alta	Haute régénération	Alta rigenerazione
+SKILLNAME_COM_399	Arms Master	武道の心得				Waffenprofi	As de las armas	Maître des armes	Maestria militare
+SKILLNAME_COM_400	魔術の素養	魔術の素養				Zauberprofi	As de los hechizos	Maître des sorts	Maestria magica
+SKILLNAME_COM_401	適化投与	適化投与				適化投与	適化投与	適化投与	適化投与
+SKILLNAME_COM_402	マルチヒット	マルチヒット				マルチヒット	マルチヒット	マルチヒット	マルチヒット
+SKILLNAME_COM_403	アブソーブチャクラ	アブソーブチャクラ				アブソーブチャクラ	アブソーブチャクラ	アブソーブチャクラ	アブソーブチャクラ
+SKILLNAME_COM_404	リフレクチャクラ	リフレクチャクラ				リフレクチャクラ	リフレクチャクラ	リフレクチャクラ	リフレクチャクラ
+SKILLNAME_COM_405	イベイドチャクラ	イベイドチャクラ				イベイドチャクラ	イベイドチャクラ	イベイドチャクラ	イベイドチャクラ
+SKILLNAME_COM_406	Yashio Ori no Sake	八塩折之酒	八盐折之酒	八鹽折之酒	야시오리의 술	Yashio Ori no Sake	Yashio ori no sake	Yashio Ori no Sake	Yashio Ori no Sake
+SKILLNAME_COM_407	Null Poison	毒無効	中毒无效	中毒無效	독 무효	Gift Annullieren	Anular Veneno	Annuler poison	Annulla veleno
+SKILLNAME_COM_408	Null Paralysis	麻痺無効	麻痹无效	麻痺無效	마비 무효	Lähmung Annull.	Anular Parálisis	Annuler paralysie	Annulla folgorazione
+SKILLNAME_COM_409	Null Sleep	睡眠無効	睡眠无效	睡眠無效	수면 무효	Schlaf Annullieren	Anular Sueño	Annuler sommeil	Annulla sonno
+SKILLNAME_COM_410	Null Dread	畏縮無効	畏缩无效	畏懼無效	위축 무효	Angst Annullieren	Anular Miedo	Annuler peur	Annulla paura
+SKILLNAME_COM_411	Null Seal	封印無効	封印无效	封印無效	봉인 무효	Siegel Annullieren	Anular Sello	Annuler sceau	Annulla blocco
+SKILLNAME_COM_412	Qigong	気功術	气功术	氣功術	기공술	Qigong	Qigong	Qigong	Qigong
+SKILLNAME_COM_480	Sabbath Striker	魔宴の心得･撃	魔宴诀窍·击	魔宴訣竅．擊	마연의 심득·공격	Dämonentanz-Stoß	Ataque sabbat	Maître Frappeur	Tregenda attacco
+SKILLNAME_COM_481	Sabbath Healer	魔宴の心得･癒	魔宴诀窍·愈	魔宴訣竅．癒	마연의 심득·치유	Dämonentanz-Heiler	Cura sabbat	Maître Soigneur	Tregenda cura
+SKILLNAME_COM_482	Sabbath Erosion	魔宴の心得･蝕	魔宴诀窍·蚀	魔宴訣竅．蝕	마연의 심득·침식	Dämonentanz-Sog	Erosión sabbat	Maître affaiblisseur	Tregenda erosione
+SKILLNAME_COM_483	Sabbath Hunter	魔宴の心得･狩	魔宴诀窍·狩	魔宴訣竅．狩	마연의 심득·사냥	Dämonentanz-Jäger	Saqueo sabbat	Maître Chasseur	Tregenda caccia
+SKILLNAME_COM_484	Sabbath Slumber	魔宴の心得･眠	魔宴诀窍·眠	魔宴訣竅．眠	마연의 심득·수면	Dämonentanz-Schlaf	Sueño sabbat	Maître du Sommeil	Tregenda sonno
+SKILLNAME_COM_485	Sabbath Rally	魔宴の心得･昂	魔宴诀窍·昂	魔宴訣竅．昂	마연의 심득·고양	Dämonentanz-Gabe	Brío sabbat	Maître de l'Éveil	Tregenda incitaz.
+SKILLNAME_COM_486	Sabbath Bounty	魔宴の心得･財	魔宴诀窍·财	魔宴訣竅．財	마연의 심득·재화	Dämonentanz-Schatz	Botín sabbat	Maître des Trésors	Tregenda bottino
+SKILLNAME_COM_487	Sabbath Toxin	魔宴の心得･毒	魔宴诀窍·毒	魔宴訣竅．毒	마연의 심득·독	Dämonentanz-Gift	Toxina sabbat	Maître du Poison	Tregenda veleno
+SKILLNAME_COM_488	Sabbath Raze	魔宴の心得･壊	魔宴诀窍·坏	魔宴訣竅．壞	마연의 심득·파괴	Dämonentanz-Ruin	Devastación sabbat	Maître Destructeur	Tregenda distruz.
+SKILLNAME_COM_489	Sabbath Mirror	魔宴の心得･反	魔宴诀窍·反	魔宴訣竅．反	마연의 심득·반사	Dämonentanz-Reflek.	Espejo sabbat	Maître Repousseur	Tregenda riflesso
+SKILLNAME_COM_490	Sabbath Drain	魔宴の心得･吸	魔宴诀窍·吸	魔宴訣竅．吸	마연의 심득·흡수	Dämonentanz-Entzug	Absorción sabbat	Maître Absorbeur	Tregenda assorbim.
+SKILLNAME_COM_491	確定回避	確定回避				確定回避	確定回避	確定回避	確定回避
+SKILLNAME_COM_492	Sabbath Love	魔宴の心得･愛	魔宴诀窍·爱	魔宴訣竅．愛	마연의 심득·사랑	Dämonentanz-Liebe	Amor sabbat	Maître de l'Amour	Tregenda amore
+SKILLNAME_PLA_002	Guard	ガード	防御	防禦	방어	Deckung	Protegerse	Garde	Guardia
+SKILLNAME_PLA_003	Escape	逃走	逃跑	逃走	도주	Fliehen	Escapar	Échappée	Fuga
+SKILLNAME_PLA_020	Conversion	コンバート	转换	轉換	컨버트	Umwandeln	Conversión	Conversion	Conversione
+SKILLNAME_PLA_021	Master Conversion	マスターコンバート	广域转换	主控轉換	마스터 컨버트	Meister-Umwandeln	Conversión maestra	Conversion maître	Conversione totale
+SKILLNAME_PLA_022	Damage Condenser	ダメージ圧縮	伤害压缩	傷害壓縮	대미지 압축	Schadenslenkung	Condensador de daño	Compression	Danni condensati
+SKILLNAME_PLA_023	Shield Deployment	プロテクト展開	防护展开	防護啟動	프로텍트 전개	Schildeinsatz	Blindaje	Déployer protection	Protezione in campo
+SKILLNAME_PLA_024	Overclock	クロックアップ	高速化	時脈提升	클록 업	Übertakten	Sobreaceleración	Turbo	Overclocking
+SKILLNAME_PLA_025	Stack Optimization	スタック最適化	堆叠优化	Stack最佳化	스택 최적화	Kombo-Optimierung	Optimizar combo	Optimisation combo	Ottimizza combo
+SKILLNAME_PLA_040	アナライズ	アナライズ				アナライズ	アナライズ	アナライズ	アナライズ
+SKILLNAME_PLA_041	ハイアナライズ	ハイアナライズ				ハイアナライズ	ハイアナライズ	ハイアナライズ	ハイアナライズ
+SKILLNAME_PLA_042	MP Optimization	MP最適化	MP优化	MP最佳化	MP 최적화	MP-Optimierung	Optimizar PM	Optimisation des PM	Ottimizzazione PM
+SKILLNAME_PLA_043	Auto-Repair	リカバリー	复原	還原	리커버리	Erholung	Protocolo curativo	Récupération	Protocollo cura
+SKILLNAME_PLA_044	Ailment Purge	異常摘出	异常摘除	排除異常	이상 적출	Statuseffekt-Entzug	Extraer alteración	Extract. altération	Alterazione estratta
+SKILLNAME_PLA_045	Turn Extension	ターン拡張	回合扩张	回合延伸	턴 확장	Verlängerung	Ampliación auxiliar	Extension de tour	Estensione supporto
+SKILLNAME_PLA_046	Reboot	リブート	重启	重新啟動	리부트	Neustart	Reinicio	Redémarrage	Riavvio
+SKILLNAME_PLA_047	分霊シールドマトリクス	分霊シールドマトリクス	分灵护盾矩阵	分靈護盾基盤	분령 실드 매트릭스	分霊シールドマトリクス	分霊シールドマトリクス	分霊シールドマトリクス	分霊シールドマトリクス
+SKILLNAME_PLA_100	Fire Stack	火炎スタック	火焰堆叠	火焰Stack	화염 스택	Feuer-Kombo	Combo ígneo	Combo de feu	Combo fuoco
+SKILLNAME_PLA_101	Ice Stack	氷結スタック	冰冻堆叠	冰凍Stack	빙결 스택	Eis-Kombo	Combo helado	Combo de glace	Combo ghiaccio
+SKILLNAME_PLA_102	Electricity Stack	電撃スタック	电击堆叠	電擊Stack	전격 스택	Elektro-Kombo	Combo eléctrico	Combo de foudre	Combo elettricità
+SKILLNAME_PLA_103	Force Stack	衝撃スタック	冲击堆叠	衝擊Stack	충격 스택	Kraft-Kombo	Combo de fuerza	Combo de choc	Combo forza
+SKILLNAME_PLA_104	Weakness Stack	弱点スタック	弱点堆叠	弱點Stack	약점 스택	Schwäche-Kombo	Combo de debilidad	Combo point faible	Combo debolezza
+SKILLNAME_PLA_105	Weakness Stack+	弱点スタック+	弱点堆叠+	弱點Stack+	약점 스택+	Schwäche-Kombo+	Combo de debilidad+	Combo point faible+	Combo debolezza+
+SKILLNAME_PLA_106	Physical Stack	物理スタック	物理堆叠	物理Stack	물리 스택	Körperlich-Kombo	Combo físico	Combo physique	Combo fisici
+SKILLNAME_PLA_107	Gunfire Stack	銃撃スタック	枪击堆叠	槍擊Stack	총격 스택	Schuss-Kombo	Combo arma de fuego	Combo d'arme	Combo armi
+SKILLNAME_PLA_108	Recovery Stack	回復スタック	恢复堆叠	恢復Stack	회복 스택	Erholungs-Kombo	Combo curativo	Combo récupération	Combo recupero
+SKILLNAME_PLA_109	Critical Stack	クリティカルスタック	暴击堆叠	暴擊Stack	크리티컬 스택	Kritische Kombo	Combo crítico	Combo critique	Combo critico
+SKILLNAME_PLA_110	Ailment Stack	状態異常スタック	异常状态堆叠	異常狀態Stack	상태 이상 스택	Statuseffekt-Kombo	Combo de alteración	Combo d'altération	Combo alterazione
+SKILLNAME_PLA_111	Deathblow Stack	トドメスタック	终击堆叠	最後一擊Stack	마무리 스택	Todesstoß-Kombo	Combo rematador	Combo coup de grâce	Combo colpo finale
+SKILLNAME_PLA_112	Initiator Stack	先制スタック	先制堆叠	先制Stack	선제 스택	Überfall-Kombo	Combo de iniciativa	Combo att. surprise	Combo sorpresa
+SKILLNAME_PLA_200	LUK Hack	LUKハック	LUK骇入	LUK駭侵	LUK 해킹	GLÜ-Hack	Hackeo SUE	Piratage CHA	Bonus FRT
+SKILLNAME_PLA_201	INT Hack	INTハック	INT骇入	INT駭侵	INT 해킹	INT-Hack	Hackeo INT	Piratage INT	Bonus INT
+SKILLNAME_PLA_202	VIT Hack	VITハック	VIT骇入	VIT駭侵	VIT 해킹	VIT-Hack	Hackeo VIT	Piratage VIT	Bonus VIT
+SKILLNAME_PLA_203	STR Hack	STRハック	STR骇入	STR駭侵	STR 해킹	STÄ-Hack	Hackeo FUE	Piratage FOR	Bonus FZA
+SKILLNAME_PLA_204	VIT Hack+	VITハック+	VIT骇入+	VIT駭侵+	VIT 해킹+	VIT-Hack+	Hackeo VIT+	Piratage VIT+	Bonus VIT+
+SKILLNAME_PLA_205	LUK Hack+	LUKハック+	LUK骇入+	LUK駭侵+	LUK 해킹+	GLÜ-Hack+	Hackeo SUE+	Piratage CHA+	Bonus FRT+
+SKILLNAME_PLA_206	STR Hack+	STRハック+	STR骇入+	STR駭侵+	STR 해킹+	STÄ-Hack+	Hackeo FUE+	Piratage FOR+	Bonus FZA+
+SKILLNAME_PLA_207	INT Hack+	INTハック+	INT骇入+	INT駭侵+	INT 해킹+	INT-Hack+	Hackeo INT+	Piratage INT+	Bonus INT+
+SKILLNAME_PLA_208	Worldly-Wise	世渡りの達人	八面玲珑	處世專家	처세술의 달인	Welterfahren	Pico de oro	Maître sage	Saggezza terrena
+SKILLNAME_PLA_209	Wild Uproar	喧々囂々	众魔嚣嚣	喧喧嚷嚷	야단법석	Wilder Aufruhr	Clamor incesante	Tumulte sauvage	Tumulto selvaggio
+SKILLNAME_PLA_210	Sublime Massacre	魅せる殺戮	华丽的杀戮	魅惑殺戮	매혹적인 살육	Nobles Massaker	Masacre sublime	Massacre ensorcelant	Massacro sublime
+SKILLNAME_PLA_211	Assassin's Eye	暗殺者の慧眼	刺客的慧眼	暗殺者的慧眼	암살자의 혜안	Auge des Assassinen	Ojo de asesina	Perception assassin	Occhio assassino
+SKILLNAME_PLA_212	Demon Skill Unlock 1	仲魔スキル拡張1	仲魔技能扩张1	仲魔技能擴張1	동료악마 스킬 확장 1	Dämonen-Skill-Slot 1	Subir hab. demon. 1	Ext comp. démon I	Abilità demone +1
+SKILLNAME_PLA_213	Demon Skill Unlock 2	仲魔スキル拡張2	仲魔技能扩张2	仲魔技能擴張2	동료악마 스킬 확장 2	Dämonen-Skill-Slot 2	Subir hab. demon. 2	Ext comp. démon II	Abilità demone +2
+SKILLNAME_PLA_214	Slick Negotiator	交渉上手	擅长交涉	交涉高手	능숙한 교섭자	Verhandlungskünstler	Negociador hábil	Négociateur doué	Abile commerciante
+SKILLNAME_PLA_215	Brotherly Guidance	兄貴肌	兄长气质	大哥氣質	리더 체질	Brüderlicher Rat	Guía fraternal	Conseils fraternels	Guida fraterna
+SKILLNAME_PLA_216	Mercy Kill	慈悲の一撃	慈悲一击	慈悲的一擊	자비의 일격	Gnadenstoß	Golpe de gracia	Frappe de pitié	Uccisione clemente
+SKILLNAME_PLA_217	Vengeful Opportunist	臥薪嘗胆	卧薪尝胆	臥薪嘗膽	와신상담	Bitterer Opportunist	Prevenir es curar	Revanche calculée	Furia opportunista
+SKILLNAME_PLA_218	Carmilla's Echo	カーミラの末裔	卡米拉的末裔	卡蜜拉後裔	카밀라의 후예	Carmillas Echo	Eco de Carmilla	Écho de Carmilla	Eco di Carmilla
+SKILLNAME_PLA_219	Macho Gallantry	正義漢	正义之士	正義之士	정의한	Macho-Mut	Gallardía	Justice virile	Galanteria
+SKILLNAME_PLA_220	Thrifty Habits	倹約家	勤俭节约	省吃儉用	절약가	Genügsamkeit	Truco ahorrador	Frugalité	Parsimonia
+SKILLNAME_PLA_221	Optimize Process	リソース開放	资源开放	解放資源	리소스 개방	Optimierung	Optimizar proceso	Processus optimisé	Ottimizzazione
+SKILLNAME_PLA_222	Shortcut Command	ショートカット	快捷方式	縮短待時	쇼트 커트	Abkürzung	Líder eficiente	Raccourci	Scorciatoia
+SKILLNAME_PLA_223	Meditative Breath	瞑想の呼吸	冥想呼吸	冥想呼吸	명상의 호흡	Meditation	Descanso meditativo	Souffle méditatif	Respiraz. meditativa
+SKILLNAME_PLA_224	Decadent Feast	大盤振る舞い	盛情款待	出手闊綽	진수성찬	Festgelage	Festín opíparo	Fête somptueuse	Banchetto copioso
+SKILLNAME_PLA_225	Recursive Processing	再帰処理	循环调用	遞迴處理	재귀 처리	Rekursivprozess	Proceso recursivo	Traitement récursif	Procedura ricorrente
+SKILLNAME_PLA_226	Sharpshooter's Spirit	ガンマンの心意気	枪手的志气	神槍手的氣魄	총잡이의 의지	Geist des Schützen	Alma francotirador	Esprit du tireur	Cuore da cecchino
+SKILLNAME_PLA_227	Summoner's Talent	サマナーの資質	召唤师的资质	召喚師的資質	서머너의 자질	Beschwörertalent	Talento de invocador	Talents d'invocateur	Talento di evocatore
+SKILLNAME_PLA_228	Barricade	鉄壁	铁壁	銅牆鐵壁	철벽	Barrikade	Barricada	Barricade	Barricata
+SKILLNAME_ENE_000	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_ENE_001	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_ENE_002	Escape	逃走	逃跑	逃走	도주	Fliehen	Escapar	Échappée	Fuga
+SKILLNAME_ENE_003	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_ENE_004	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_ENE_005	Beastly Fist	ビーストフィスト	兽拳	猛獸之拳	비스트 피스트	Bestienfaust	Puño bestial	Poing de la bête	Pugno bestiale
+SKILLNAME_ENE_006	Power Charger	パワーチャージャー	充电器	能量充電器	파워 차저	Kraftansturm	Carga de energía	Chargeur	Carica potente
+SKILLNAME_ENE_007	Danger Zone	ワードハザード	出口成灾	文字危機	워드 해저드	Gefahrenzone	Zona peligrosa	Danger au service	Zona pericolosa
+SKILLNAME_ENE_008	Beast Eye	獣の眼光	野兽的视线	野獸的視線	짐승의 안광	Bestienauge	Ojo de la bestia	Œil de la bête	Occhio bestiale
+SKILLNAME_ENE_009	Fire Shatter	火炎ガードデス	杀灭火焰防御	瓦解火焰防禦	화염 가드데스	Feuereinschlag	Destrozo ígneo	Détruire feu	Frantume di fuoco
+SKILLNAME_ENE_010	Ice Shatter	氷結ガードデス	杀灭冰冻防御	瓦解冰凍防禦	빙결 가드데스	Eiseinschlag	Destrozo helado	Détruire glace	Frantume di ghiaccio
+SKILLNAME_ENE_011	Elec Shatter	電撃ガードデス	杀灭电击防御	瓦解電擊防禦	전격 가드데스	Elektroeinschlag	Destrozo eléctrico	Détruire foudre	Frantume elettrico
+SKILLNAME_ENE_012	Force Shatter	衝撃ガードデス	杀灭冲击防御	瓦解衝擊防禦	충격 가드데스	Krafteinschlag	Destrozo de fuerza	Détruire choc	Frantume di forza
+SKILLNAME_ENE_013	Frigid Glory	凍てつく威光	冰寒威光	冰寒的威光	얼어붙은 위광	Eiskalte Pracht	Gloria gélida	Gloire glaciale	Gloria ghiacciata
+SKILLNAME_ENE_014	Gear Shift	ギアチェンジ	换挡	換檔加速	기어 체인지	Hochschalten	Cambio de marcha	Changement d'équip.	Cambio marcia
+SKILLNAME_ENE_015	Gear Shift+	ギアチェンジ+	换挡+	換檔加速+	기어 체인지+	Hochschalten+	Cambio de marcha+	Changement d'équip.+	Cambio marcia+
+SKILLNAME_ENE_016	Skull Goblet	髑髏杯	骷髅杯	髑髏杯	해골 잔	Schädelkelch	Cáliz de calavera	Gobelet de crâne	Calice di teschio
+SKILLNAME_ENE_017	Gelgja Unbound	ゲルギャ開放	解开拘锁	解放蓋爾加	겔갸 개방	Gelgja sprengen	Gelgja desatado	Libération de Gelgja	Rilascio gelgja
+SKILLNAME_ENE_018	Traumatic Memory	痛みを思い出す	回忆痛苦	回憶痛楚	고통을 떠올린다	Vergangenes Trauma	Recuerdo traumático	Rappel de douleur	Ricordo traumatico
+SKILLNAME_ENE_019	Swipe	薙ぎ払い	横扫	橫劈	쓸어 넘기기	Ausholender Schlag	Barrido	Glisser	Botta
+SKILLNAME_ENE_020	Rampage Slash	乱れ斬り	乱斩	亂斬	난도질	Schlitzer-Amoklauf	Tajo furioso	Saccage tranchant	Fendente furioso
+SKILLNAME_ENE_021	Somersault	サマーソルト	空翻击	後空翻踢擊	섬머솔트	Salto	Voltereta	Saut périlleux	Capriola
+SKILLNAME_ENE_022	Drunken Shower	ドランクシャワー	撒酒	酩酊之雨	드렁크 샤워	Trunkene Dusche	Lluvia ebria	Douche ivre	Doccia ebbra
+SKILLNAME_ENE_023	Fire Shot	火炎撃	火焰击	火焰擊	화염격	Feuerschuss	Tiro ígneo	Tir de feu	Tiro di fuoco
+SKILLNAME_ENE_024	Fire Spray	火炎乱撃	火焰乱击	火焰亂擊	화염난격	Feuerregen	Pulverización ígnea	Tir diffusé	Spruzzo di fuoco
+SKILLNAME_ENE_025	Accelerate	アクセラレート	加速	加速	액셀러레이트	Beschleunigen	Acelerar	Accélérer	Accelerazione
+SKILLNAME_ENE_026	Overdrive Mode	リミットオーバー	限制解除	超越極限	리밋오버	Overdrive-Modus	Modo Imparable	Mode surrégime	Modalità Iperattività
+SKILLNAME_ENE_027	Execution	エグゼキューション	死刑执行	處決	익스큐션	Hinrichtung	Ejecución	Exécution	Esecuzione
+SKILLNAME_ENE_028	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_029	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_030	Elec Shot	雷電撃	雷电击	雷電擊	뇌전격	Elektroschuss	Tiro eléctrico	Tir électrique	Tiro elettrico
+SKILLNAME_ENE_031	Fatal Roulette	フェイタルルーレット	致命轮盘	致命輪盤	페이탈 룰렛	Tödliches Roulette	Ruleta mortal	Roulette fatale	Roulette russa
+SKILLNAME_ENE_032	Unfair Game	アンフェアゲーム	不公平游戏	狡詐遊戲	언페어 게임	Unfaires Spiel	Juego sucio	Jeu injuste	Gioco scorretto
+SKILLNAME_ENE_033	Refresh	リフレッシュ	刷新	重新振作	리프레시	Erfrischen	Refrescar	Actualiser	Rinfrescata
+SKILLNAME_ENE_034	Abyssal Veil	深淵のベール	深渊面纱	深淵的面紗	심연의 베일	Abgrundschleier	Velo abismal	Voile abyssal	Velo abissale
+SKILLNAME_ENE_035	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_036	Fulmination	激症化	毒性激化	症狀加劇	증세 격화	Vehemenz	Fulminar	Fulminance	Fulminazione
+SKILLNAME_ENE_037	Path of Carnage	修羅道	修罗道	修羅道	수라도	Pfad des Gemetzels	Senda de matanza	Chemin du carnage	Carneficina
+SKILLNAME_ENE_038	Path of Carnage	修羅道	修罗道	修羅道	수라도	Pfad des Gemetzels	Senda de matanza	Chemin du carnage	Carneficina
+SKILLNAME_ENE_039	Raw Fury	激怒	狂怒	狂怒	격노	Purer Zorn	Furia pura	Furie pure	Pura furia
+SKILLNAME_ENE_040	Pilferage	アブダクション	劫持	劫持	어브덕션	Diebstahl	Sustracción	Enlèvement	Taccheggio
+SKILLNAME_ENE_041	Dawn Omen	夜明けの兆し	黎明征兆	黎明的前兆	새벽의 징조	Omen der Dämmerung	Presagio del alba	Présage de l'aube	Presagio all'alba
+SKILLNAME_ENE_042	Winged Radiance	焼灼の翼光	烧灼翼光	灼燒的翼光	소작의 익광	Strahlende Flügel	Fulgor de alas	Éclat céleste	Fulgore alato
+SKILLNAME_ENE_043	Ashes to Ashes	灰は灰へ	尘归尘	塵歸塵	재는 재로	Asche zu Asche	Cenizas a cenizas	Cendres sur cendres	Ceneri alle ceneri
+SKILLNAME_ENE_044	Flame Shot	猛炎撃	猛焰击	猛炎擊	맹염격	Flammenschuss	Tiro flamígero	Tir de flammes	Tiro di fiamma
+SKILLNAME_ENE_045	Blackout	ブラックアウト	间歇性休克	暗轉	블랙아웃	Verdunkelung	Oscurecimiento	Black-out	Blackout
+SKILLNAME_ENE_046	Blackout	ブラックアウト	间歇性休克	暗轉	블랙아웃	Verdunkelung	Oscurecimiento	Black-out	Svenimento
+SKILLNAME_ENE_047	Reformat	フォーマット	格式化	格式化	포맷	Formatieren	Reformateo	Format	Riforma
+SKILLNAME_ENE_048	Accelerate	アクセラレート	加速	加速	액셀러레이트	Beschleunigen	Acelerar	Accélérer	Accelerazione
+SKILLNAME_ENE_051	Bewitching Gaze	魅惑の瞳	魅惑眼神	魅惑的眼眸	매혹의 눈동자	Verzaubernder Blick	Mirada hechizante	Yeux envoûtants	Sguardo sublime
+SKILLNAME_ENE_052	Frolic	ファイナルヌード	终极诱惑	終極誘惑	파이널 누드	Austoben	Retozar	Cabrioles	Spasso
+SKILLNAME_ENE_053	Paralytic Claw	麻痺ひっかき	麻痹抓击	麻痺抓擊	마비 할퀴기	Betäubende Klaue	Garra paralizante	Griffe paralytique	Artiglio folgorante
+SKILLNAME_ENE_054	Miasma Breath	ミアズマブレス	瘴气之息	瘴氣之息	미아즈마 브레스	Miasmaatem	Aliento de miasma	Souffle de miasme	Soffio miasmatico
+SKILLNAME_ENE_055	Overload	オーバーロード	超载	過度負荷	오버로드	Überladen	Sobrecarga	Surcharge	Sovraccarico
+SKILLNAME_ENE_056	Spellproof Wall	魔反の防壁	魔反障壁	魔反之壁	마반의 방벽	Magiewand	Muro antimagia	Mur répulsif magique	Muro antimagia
+SKILLNAME_ENE_057	Rampage	暴れまくり	横冲直撞	橫衝直撞	난동 부리기	Amoklauf	Furia	Saccage	Attacco furioso
+SKILLNAME_ENE_058	Meat Bullet	肉弾	肉弹	肉身炮彈	육탄	Fleischkugel	Bala de carne	Balle de viande	Proiettile di carne
+SKILLNAME_ENE_059	Greedy Claws	貪欲なる尖爪	贪欲尖爪	貪婪的銳爪	탐욕의 첨조	Gierige Klauen	Garras de avaricia	Griffes avides	Unghie avide
+SKILLNAME_ENE_060	Feral Focus	研ぎ澄ます	猎杀准备	聚精會神	정신 집중	Wilder Fokus	Concentración feroz	Affinage	Focus selvaggio
+SKILLNAME_ENE_061	Devour	捕食	捕食	獵食	포식	Verschlingen	Devorar	Dévorer	Divorare
+SKILLNAME_ENE_062	Contract's Ward	契約の加護	契约加护	契約的庇佑	계약의 가호	Vertraglicher Schutz	Protección del pacto	Protection du pacte	Protezione del patto
+SKILLNAME_ENE_063	Infernal Loyalty	忠義の爆炎	忠义爆焰	忠義烈炎	충의의 폭염	Höllische Treue	Lealtad infernal	Loyauté infernale	Lealtà infernale
+SKILLNAME_ENE_064	Contract's Ward	契約の加護	契约加护	契約的庇佑	계약의 가호	Vertraglicher Schutz	Protección del pacto	Protection du pacte	Protezione del patto
+SKILLNAME_ENE_065	Turbulent Loyalty	忠義の大嵐	忠义风暴	忠義暴風	충의의 대폭풍	Stürmische Treue	Lealtad turbulenta	Loyauté turbulente	Lealtà turbolenta
+SKILLNAME_ENE_066	Contract's Ward	契約の加護	契约加护	契約的庇佑	계약의 가호	Vertraglicher Schutz	Protección del pacto	Protection du pacte	Protezione del patto
+SKILLNAME_ENE_067	Icy Loyalty	忠義の氷雪	忠义冰雪	忠義冰雪	충의의 빙설	Eisige Treue	Lealtad glacial	Loyauté du blizzard	Lealtà ghiacciata
+SKILLNAME_ENE_068	Contract's Ward	契約の加護	契约加护	契約的庇佑	계약의 가호	Vertraglicher Schutz	Protección del pacto	Protection du pacte	Protezione del patto
+SKILLNAME_ENE_069	Demon Birth Cry	悪魔の産声	恶魔啼哭	惡魔初啼	악마의 고고	Dämons erster Schrei	Llanto demoníaco	Cri natal du démon	Grido demoniaco
+SKILLNAME_ENE_070	Reload	リロード	装填	重新裝填	리로드	Nachladen	Recarga	Recharger	Ricarica
+SKILLNAME_ENE_071	Dual Shot	ダブルファイア	二连射	二連火焰	더블 파이어	Doppelschuss	Tiro doble	Double feu	Doppio tiro
+SKILLNAME_ENE_072	Stun Grenade	スタングレネード	震爆弹	閃光彈	스턴 그레네이드	Betäubungsgranate	Granada aturdidora	Grenade assommante	Granata stordente
+SKILLNAME_ENE_073	Order	命令	命令	命令	명령	Geheiß	Orden	Ordre	Ordine
+SKILLNAME_ENE_074	Contract's Ward	契約の加護	契约加护	契約的庇佑	계약의 가호	Vertraglicher Schutz	Protección del pacto	Protection du pacte	Protezione del patto
+SKILLNAME_ENE_075	Voltaic Loyalty	忠義の轟雷	忠义轰雷	忠義轟雷	충의의 굉뢰	Voltaische Treue	Lealtad voltaica	Loyauté de l'orage	Lealtà voltaica
+SKILLNAME_ENE_076	Contract's Ward	契約の加護	契约加护	契約的庇佑	계약의 가호	Vertraglicher Schutz	Protección del pacto	Protection du pacte	Protezione del patto
+SKILLNAME_ENE_077	Wait	待機	待命	待機	대기	Warten	Esperar	Attendre	Attesa
+SKILLNAME_ENE_078	Quick Reload	クイックリロード	快速装填	快速裝填	퀵 리로드	Schnelles Nachladen	Recarga rápida	Récupération rapide	Ricarica veloce
+SKILLNAME_ENE_079	Trinal Shot	トリプルファイア	三连射	三連火焰	트리플 파이어	Dreifachschuss	Tiro triple	Triple feu	Triplo tiro
+SKILLNAME_ENE_080	High Accelerate	ハイアクセラレート	高阶加速	高階加速	하이 액셀러레이트	Beschleunigen+	Aceleración alta	Grande accélération	Alta accelerazione
+SKILLNAME_ENE_081	Reactive Armor	リアクティブアーマー	反应装甲	反應裝甲	리액티브 아머	Reaktive Rüstung	Armadura reactiva	Armure réactive	Armatura reattiva
+SKILLNAME_ENE_082	Purge	パージ	装甲移除	掃蕩	퍼지	Läutern	Purga	Purger	Purificazione
+SKILLNAME_ENE_083	Purge	パージ	装甲移除	掃蕩	퍼지	Läutern	Purga	Purger	Purificazione
+SKILLNAME_ENE_084	Purge	パージ	装甲移除	掃蕩	퍼지	Läutern	Purga	Purger	Purificazione
+SKILLNAME_ENE_085	Purge	パージ	装甲移除	掃蕩	퍼지	Läutern	Purga	Purger	Purificazione
+SKILLNAME_ENE_086	Aurora Blitz	極光大破弾	极光大破弹	極光大破彈	극광대파탄	Aurorablitz	Bombardeo aurora	Attaque d'Aurore	Blitz dell'aurora
+SKILLNAME_ENE_087	Repair Module	修復モジュール	修复模块	修復組件	수복 모듈	Reparaturmodul	Módulo reparador	Module de réparation	Modulo riparazione
+SKILLNAME_ENE_088	Encryption Module	暗号化モジュール	加密模块	加密組件	암호화 모듈	Verhüllungsmodul	Módulo encriptador	Mod. de chiffrement	Modulo di criptaggio
+SKILLNAME_ENE_089	Capture	捕捉	捕捉	捕捉	포착	Schnappen	Captura	Capture	Cattura
+SKILLNAME_ENE_090	Rainbow's Judgment	虹光の裁き	虹光制裁	虹光制裁	무지개 빛 심판	Regenbogenurteil	Juicio del arcoíris	Jugement arc-en-ciel	Giudizio arcobaleno
+SKILLNAME_ENE_091	Summon	召集	召集	召集	소집	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_092	ゼノン専用補足生贄	ゼノン専用補足生贄				ゼノン専用補足生贄	ゼノン専用補足生贄	ゼノン専用補足生贄	ゼノン専用補足生贄
+SKILLNAME_ENE_093	補足失敗	補足失敗				補足失敗	補足失敗	補足失敗	補足失敗
+SKILLNAME_ENE_094	敵コマンド枠（DLC以外）12	敵コマンド枠（DLC以外）12	敌人指令位（DLC以外）12	敵方指令格（DLC之外）12	적 커맨드 칸(DLC 이외) 12	敵コマンド枠（DLC以外）12	敵コマンド枠（DLC以外）12	敵コマンド枠（DLC以外）12	敵コマンド枠（DLC以外）12
+SKILLNAME_ENE_095	Spirit Vein Slash	霊脈切り	灵脉切断	靈脈斬	영맥 베기	Geistesschlitzer	Cortavenas espiritual	Entaille de l'esprit	Fendente spirituale
+SKILLNAME_ENE_096	Mystic Voodoo	降神の呪物	降神之咒物	降神咒物	강신의 주물	Mystischer Voodoo	Vudú místico	Spiritualisme vaudou	Vudù mistico
+SKILLNAME_ENE_097	Healing Voodoo	治癒の呪物	治愈之咒物	治癒咒物	치유의 주물	Heilender Voodoo	Vudú curativo	Guérison vaudou	Vudù curativo
+SKILLNAME_ENE_098	Warding Voodoo	反魔の呪物	反魔之咒物	反魔咒物	반마의 주물	Schützender Voodoo	Vudú protector	Gardien vaudou	Vudù protettivo
+SKILLNAME_ENE_099	Force Glyph	古の衝撃紋	古代冲击纹	古老衝擊紋	고대 충격 문양	Zeichen der Kraft	Insignia de fuerza	Sigil de choc	Glifo della forza
+SKILLNAME_ENE_100	Force Epitaph	衝撃の魔符	冲击魔符	衝擊魔符	충격의 마부	Inschrift der Kraft	Grabado de fuerza	Épitaphe de choc	Epitaffio forza
+SKILLNAME_ENE_101	Inferno Shot	豪炎撃	豪焰击	豪炎擊	호염격	Infernoschuss	Tiro infernal	Tir de fournaise	Tiro infernale
+SKILLNAME_ENE_102	Guillotine Fake	ギロチンフェイク	虚拟断头台	偽斷頭台	기요틴 페이크	Schwindelguillotine	Guillotina falsa	Fausse guillotine	Finta ghigliottina
+SKILLNAME_ENE_103	Law of Phenomena	現象の理	现象之理	現象的真理	현상의 이치	Gesetz der Phänomene	Ley de fenómenos	Loi des phénomènes	Legge dei fenomeni
+SKILLNAME_ENE_104	Law of Wisdom	英知の理	睿智之理	智慧的真理	영지의 이치	Gesetz der Weisheit	Ley de sabiduría	Loi de la sagesse	Legge della saggezza
+SKILLNAME_ENE_105	Attack Module	攻撃モジュール	攻击模块	攻擊模組	공격 모듈	Angriffsmodul	Módulo ofensivo	Module d'attaque	Modulo di attacco
+SKILLNAME_ENE_106	Guard Module	防御モジュール	防御模块	防禦模組	방어 모듈	Deckungsmodul	Módulo defensivo	Module de garde	Modulo di guardia
+SKILLNAME_ENE_107	Technique Module	命中･回避モジュール	命中·回避模块	命中、回避模組	명중·회피 모듈	Technikmodul	Módulo táctico	Module technique	Modulo Mira/Schiva
+SKILLNAME_ENE_108	Mediarama	メ･ディアラマ	梅·迪亚拉玛	梅．迪亞拉瑪	메디아라마	Mediarama	Mediarama	Mediarama	Mediarama
+SKILLNAME_ENE_109	Ally Counter	慈愛の反撃	慈爱反击	慈愛反擊	자애의 반격	Verbündetenkonter	Contraaliado	Contre allié	Contrattacco alleato
+SKILLNAME_ENE_110	Tendril Gore	突き刺す	突刺	突刺	찌르기	Durchlöchern	Ensartado	Pénétration	Perforazione
+SKILLNAME_ENE_111	Spike of Grief	悲痛の楔	悲痛之楔	悲慟之楔	비통의 쐐기	Stachel der Trauer	Púa del dolor	Trace de chagrin	Picco di dolore
+SKILLNAME_ENE_112	Arc Light	アークライト	方舟之光	弧光	아크라이트	Lichtbogen	Haz de luz	Arc de lumière	Arco di luce
+SKILLNAME_ENE_113	Neo Dogma	ネオ･ドグマ	新教义	新約教義	네오 도그마	Neo Dogma	Neodogma	Néo Dogma	Nuovo dogma
+SKILLNAME_ENE_114	Shield Matrix	シールドマトリクス	护盾矩阵	護盾基盤	실드 매트릭스	Schildmatrix	Escudo matrix	Matrice de bouclier	Matrix schermante
+SKILLNAME_ENE_115	Zoa Genesis	分霊生成	创造分灵	創造分靈	분령 생성	Zoa-Schöpfung	Génesis de Zoa	Création de Zoa	Genesi di Zoa
+SKILLNAME_ENE_116	Overclock	クロックアップ	高速化	時脈提升	클록 업	Übertakten	Sobreaceleración	Turbo	Overclocking
+SKILLNAME_ENE_117	Full Overclock	オールクロックアップ	全体高速化	全體時脈提升	올 클록 업	Alle Übertakten	Aceleración total	Turbo total	Overclocking totale
+SKILLNAME_ENE_118	Master Conversion	マスターコンバート	广域转换	主控轉換	마스터 컨버트	Meister-Umwandeln	Conversión maestra	Conversion maître	Conversione totale
+SKILLNAME_ENE_119	Diarama	ディアラマ	迪亚拉玛	迪亞拉瑪	디아라마	Diarama	Diarama	Diarama	Diarama
+SKILLNAME_ENE_120	Flailing Frenzy	振り回す	挥击	揮舞	휘두르기	Wirbelnde Raserei	Látigo frenético	Balancement	Frenesia guizzante
+SKILLNAME_ENE_121	Inferno Pleroma	劫火のプレロマ	劫火之盈满	劫火盈滿	겁화의 플레로마	Inferno-Pleroma	Pléroma infernal	Plérome infernal	Inferno Pleroma
+SKILLNAME_ENE_122	Blizzard Pleroma	氷硝のプレロマ	冰硝之盈满	冰硝盈滿	빙초의 플레로마	Schneesturm-Pleroma	Pléroma gélido	Plérome du blizzard	Bufera Pleroma
+SKILLNAME_ENE_123	Thunderbolt Pleroma	雷槌のプレロマ	雷槌之盈满	雷錘盈滿	뇌추의 플레로마	Gewitter-Pleroma	Pléroma voltaico	Plérome de foudre	Fulmine Pleroma
+SKILLNAME_ENE_124	Impact Pleroma	裂風のプレロマ	裂风之盈满	烈風盈滿	열풍의 플레로마	Einschlag-Pleroma	Pléroma impactante	Plérome déchirant	Impatto Pleroma
+SKILLNAME_ENE_125	Enthumesis	エンテュメーシス	思量	恩杜美西斯	엔투메시스	Enthymesis	Entumesis	Enthumesis	Entimesi
+SKILLNAME_ENE_126	Sing	歌う	歌唱	唱歌	노래하기	Gesang	Canto	Chant	Canto
+SKILLNAME_ENE_127	New World's Dawn	来たるべき無窮光	终降无穷光	即將到來的無盡之光	다가올 무궁광	Licht der neuen Welt	Nuevo amanecer	Nouvelle aube	Alba del nuovo mondo
+SKILLNAME_ENE_128	New World's Dawn	来たるべき無窮光				Licht der neuen Welt	Nuevo amanecer	Lumière éternelle de l'Avent	Alba del nuovo mondo
+SKILLNAME_ENE_129	Meta-Sacrament	メタ･サクラメント	超维度圣礼	梅塔．沙加緬度	메타 새크라멘트	Meta-Sakrament	Metasacramento	Méta-sacrement	Meta-sacramento
+SKILLNAME_ENE_130	Physis Paradox	ピュシス･パラドクス	自然悖论	自然悖論	피지스 패러독스	Physis-Paradox	Paradoja de Physis	Paradoxe de Physis	Paradosso physis
+SKILLNAME_ENE_131	Logos Collapse	ロゴス崩壊	逻各斯崩溃	邏各斯瓦解	로고스 붕괴	Logos-Kollaps	Caída del Logos	Chute de Logos	Collasso logos
+SKILLNAME_ENE_132	Pure Void	穢れなきヴォイド	无垢的空白	純潔無瑕之超空洞	순결한 보이드	Pure Leere	Vacío puro	Vide pur	Puro vuoto
+SKILLNAME_ENE_133	Abyssal Eye	アビスの眼	深渊之眼	深淵之眼	어비스의 눈	Auge des Abgrunds	Ojo abismal	Œil de l'abîme	Occhio abissale
+SKILLNAME_ENE_134	Abyssal Eye	アビスの眼	深渊之眼	深淵之眼	어비스의 눈	Auge des Abgrunds	Ojo abismal	Œil de l'abîme	Occhio abissale
+SKILLNAME_ENE_135	Abyssal Eye	アビスの眼	深渊之眼	深淵之眼	어비스의 눈	Auge des Abgrunds	Ojo abismal	Œil de l'abîme	Occhio abissale
+SKILLNAME_ENE_136	Abyssal Eye	アビスの眼	深渊之眼	深淵之眼	어비스의 눈	Auge des Abgrunds	Ojo abismal	Œil de l'abîme	Occhio abissale
+SKILLNAME_ENE_137	Abyssal Eye	アビスの眼	深渊之眼	深淵之眼	어비스의 눈	Auge des Abgrunds	Ojo abismal	Œil de l'abîme	Occhio abissale
+SKILLNAME_ENE_138	Abyssal Eye	アビスの眼	深渊之眼	深淵之眼	어비스의 눈	Auge des Abgrunds	Ojo abismal	Œil de l'abîme	Occhio abissale
+SKILLNAME_ENE_139	Apostle Genesis	アポストル生成	创造使徒	創造使徒	아포스톨 생성	Apostelschöpfung	Génesis apostólica	Création d'apôtre	Genesi Apostolo
+SKILLNAME_ENE_140	Decoy Protocol	デコイ化	诱饵化	誘餌化	디코이화	Köder	Protocolo de señuelo	Infliction de leurre	Protocollo esca
+SKILLNAME_ENE_141	Self-Destruct	自己破壊	自我破坏	自我毀滅	자기 파괴	Selbstzerstörung	Autodestrucción	Autodestruction	Autodistruzione
+SKILLNAME_ENE_142	Wraith's Whisper	悪霊の囁き	恶灵的低语	惡靈的呢喃	악령의 속삭임	Geistesgeflüster	Susurro espectral	Murmure de spectre	Sussurro spettrale
+SKILLNAME_ENE_143	Soma	ソーマ	苏摩	蘇摩	소마	Soma	Soma	Soma	Soma
+SKILLNAME_ENE_144	Target	ターゲット	目标锁定	目標鎖定	타깃	Anvisieren	Objetivo	Cible	Bersaglio
+SKILLNAME_ENE_145	不要	不要				不要	不要	不要	不要
+SKILLNAME_ENE_146	Apocalypse Light	終焉の光	终结之光	終焉之光	종언의 빛	Licht-Apokalypse	Luz del apocalipsis	Éclat Apocalypse	Luce dell'apocalisse
+SKILLNAME_ENE_147	Apocalypse Quake	終焉の大震	终结之巨震	終焉大震	종언의 대지진	Beben-Apokalpyse	Seísmo apocalíptico	Secousse Apocalypse	Scossa apocalisse
+SKILLNAME_ENE_148	Apocalypse Arc	終焉の稲妻	终结之闪电	終焉閃電	종언의 번개	Blitz-Apokalypse	Rayo del apocalipsis	Éclair Apocalypse	Arco dell'apocalisse
+SKILLNAME_ENE_149	Apocalypse Shot	終焉の魔弾	终结之魔弹	終焉魔彈	종언의 마탄	Schuss-Apokalypse	Disparo apocalíptico	Tir de l'Apocalypse	Tiro dell'apocalisse
+SKILLNAME_ENE_150	Samarecarm	サマリカーム	萨玛利卡姆	薩瑪利卡姆	사마리캄	Samarecarm	Samarecarm	Samarecarm	Samarecarm
+SKILLNAME_ENE_151	Samarecarm	サマリカーム	萨玛利卡姆	薩瑪利卡姆	사마리캄	Samarecarm	Samarecarm	Samarecarm	Samarecarm
+SKILLNAME_ENE_152	Spirit Drain	吸魔	吸魔	吸魔	흡마	Geistesentzug	Drenaje espiritual	Siphon spirituel	Risucchio spirituale
+SKILLNAME_ENE_153	敵コマンド枠1	敵コマンド枠1	敌人指令位1	敵方指令格1	적 커맨드 칸 1	敵コマンド枠1	敵コマンド枠1	敵コマンド枠1	敵コマンド枠1
+SKILLNAME_ENE_154	敵コマンド枠2	敵コマンド枠2	敌人指令位2	敵方指令格2	적 커맨드 칸 2	敵コマンド枠2	敵コマンド枠2	敵コマンド枠2	敵コマンド枠2
+SKILLNAME_ENE_155	敵コマンド枠3	敵コマンド枠3	敌人指令位3	敵方指令格3	적 커맨드 칸 3	敵コマンド枠3	敵コマンド枠3	敵コマンド枠3	敵コマンド枠3
+SKILLNAME_ENE_156	Bite the Dust	バイツァ･ダスト	败者食尘	敗者成灰	바이트 더 더스트	Dahinraffen	Morder el polvo	Mord-la-poussière	Tirare le cuoia
+SKILLNAME_ENE_157	Mite Breath	マイトブレス	炸药之息	爆裂之息	마이트 브레스	Dynamitatem	Fuerte aliento	Souffle déflagrateur	Soffio esplosivo
+SKILLNAME_ENE_158	Countdown	カウントダウン	倒计时	倒數計時	카운트다운	Countdown	Cuenta atrás	Compte à rebours	Conto alla rovescia
+SKILLNAME_ENE_183	Sword Stance	剣の構え	剑之姿态	持劍	검의 자세	Schwerthaltung	Posición con espada	Posture épée	Posizione spada
+SKILLNAME_ENE_184	Shield Stance	盾の構え	盾之姿态	舉盾	방패의 자세	Schildhaltung	Posición con escudo	Posture bouclier	Posizione scudo
+SKILLNAME_ENE_185	Charge Up	力を溜める	积蓄力量	蓄力	힘을 모은다	Kraft sammeln	Cargar	Charger	Carica
+SKILLNAME_ENE_186	Servitor's Shield	従僕の護り	仆从的守护	僕從的袒護	종복의 수호	Schild des Dieners	Protección del sirviente	Bouclier du serviteur	Protezione del servitore
+SKILLNAME_ENE_200	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_201	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_202	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_203	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_204	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_205	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_206	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_207	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_208	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_209	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_210	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_211	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_212	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_213	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_214	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_215	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_216	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_217	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_218	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_219	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_220	Summon	召喚	召唤	召喚	소환	Rufen	Invocar	Invoquer	Evocazione
+SKILLNAME_ENE_230	Transmigration	生々流転	生生流转	生生不息	생생유전	Kreislauf des Lebens	Transmigración	Transmigration	Trasmigrazione
+SKILLNAME_ENE_231	Transmigration	生々流転	生生流转	生生不息	생생유전	Kreislauf des Lebens	Transmigración	Transmigration	Trasmigrazione
+SKILLNAME_ENE_232	Transmigration	生々流転	生生流转	生生不息	생생유전	Kreislauf des Lebens	Transmigración	Transmigration	Trasmigrazione
+SKILLNAME_ENE_300	Gluttony	暴食	暴食	暴食	폭식	Völlerei	Gula	Gourmandise	Gola
+SKILLNAME_ENE_301	Endless Appetite	果てない食欲	无尽的食欲	無窮食慾	끝없는 식욕	Endloser Appetit	Apetito insaciable	Appétit sans fin	Appetito infinito
+SKILLNAME_ENE_302	Endless Appetite	果てない食欲	无尽的食欲	無窮食慾	끝없는 식욕	Endloser Appetit	Apetito insaciable	Appétit sans fin	Appetito infinito
+SKILLNAME_ENE_303	Endless Hunger	果てない空腹	无尽的饥饿	無窮飢餓	끝없는 공복	Endloser Hunger	Hambre insaciable	Faim insatiable	Fame infinita
+SKILLNAME_ENE_304	Nerfin-ator	ナーフバレット	弱化弹	弱化子彈	너프 불릿	Schwächende Kugeln	Balas debilitadoras	Balles nerveuses	Proiettili Nerf
+SKILLNAME_ENE_305	Voracity	バッドイーター	贪食者	惡食者	배드 이터	Heißhunger	Voracidad	Mauvais mangeur	Voracità
+SKILLNAME_ENE_306	So Hungry...	お腹空いた……	肚子好饿……	肚子餓了……	배고파……	So hungrig ...	Qué hambre...	J'ai faim...	Che fame...
+SKILLNAME_ENE_307	Chow... DOWN!	食う…全部…！	全部……吃光……！	全部……吃掉……！	다… 먹는다…!	Wegputzen	¡A zampar!	Mange tout...!	Mangiatutto
+SKILLNAME_ENE_308	Energy Drain	エナジードレイン	能量抽取	能量抽取	에너지 드레인	Energieentzug	Absorción de energía	Absorption d'énergie	Risucchio energetico
+SKILLNAME_ENE_309	Mani Lingam	マニ･リンガ	摩尼·林伽	麻尼．林伽	마니 링가	Mani Lingam	Mani Lingam	Mani Lingam	Mani Lingam
+SKILLNAME_ENE_310	Tandava's Dance	ターンダヴァの舞	坦达瓦之舞	坦達瓦之舞	탄다바의 춤	Tandavas Tanz	Danza de Tandava	Danse de Tandava	Danza Tandava
+SKILLNAME_ENE_311	Lasya's Dance	ラースヤの舞	拉赛之舞	拉斯雅之舞	라시야의 춤	Lasyas Tanz	Danza de Lasya	Danse de Lasya	Danza Lasya
+SKILLNAME_ENE_312	Padma Yoni	パドマ･ヨーニ	钵特摩·瑜尼	帕多瑪．約尼	파드마 요니	Padma Yoni	Padma Yoni	Padma Yoni	Padmayoni
+SKILLNAME_ENE_313	Return to Ash	烏有回帰	回归乌有	回歸烏有	오유회귀	Zurück ins Nichts	Vuelta a las cenizas	Retour auprès d'Ash	Ritorno da Ash
+SKILLNAME_ENE_314	World Upheaval	天地攪拌	搅拌天地	天地翻騰	천지교반	Weltenumbruch	Revuelta mundial	Agitation mondiale	Turbamento mondiale
+SKILLNAME_ENE_315	Universal Upheaval	大宇宙攪拌	搅拌大宇宙	大宇宙翻騰	대우주교반	Universalumbruch	Revuelta universal	Colère de l'univers	Trauma universale
+SKILLNAME_ENE_316	Nilakantha	ニーラカンタ	大悲真言	尼拉坎沓	니라칸타	Nilakantha	Nilakantha	Nilakantha	Nilakantha
+SKILLNAME_ENE_317	捕食失敗（ナナ）	捕食失敗（ナナ）	捕食失败（七奈）	獵食失敗（七奈）	포식 실패(나나)	捕食失敗（ナナ）	捕食失敗（ナナ）	捕食失敗（ナナ）	捕食失敗（ナナ）
+SKILLNAME_ENE_318	捕食生贄実行（ナナ）	捕食生贄実行（ナナ）	捕食活祭执行（七奈）	執行獵食活祭品（七奈）	포식 제물 실행(나나)	捕食生贄実行（ナナ）	捕食生贄実行（ナナ）	捕食生贄実行（ナナ）	捕食生贄実行（ナナ）
+SKILLNAME_ENE_319	Create Zoma	造魔生成	创造造魔	創造造魔	조마 생성	Zoma-Erzeugung	Crear Zoma	Créer Zoma	Crea Zoma
+SKILLNAME_ENE_320	Create Zoma	造魔生成	创造造魔	創造造魔	조마 생성	Zoma-Erzeugung	Crear Zoma	Créer Zoma	Crea Zoma
+SKILLNAME_ENE_321	Create Zoma	造魔生成	创造造魔	創造造魔	조마 생성	Zoma-Erzeugung	Crear Zoma	Créer Zoma	Crea Zoma
+SKILLNAME_ENE_322	Create Zoma	造魔生成	创造造魔	創造造魔	조마 생성	Zoma-Erzeugung	Crear Zoma	Créer Zoma	Crea Zoma
+SKILLNAME_ENE_323	Create Zoma	造魔生成	创造造魔	創造造魔	조마 생성	Zoma-Erzeugung	Crear Zoma	Créer Zoma	Crea Zoma
+SKILLNAME_ENE_324	Overload	オーバーロード	超载	過度負荷	오버로드	Überladen	Sobrecarga	Surcharge	Sovraccarico
+SKILLNAME_ENE_325	Greedy Claws	貪欲なる尖爪	贪欲尖爪	貪婪的銳爪	탐욕의 첨조	Gierige Klauen	Garras de avaricia	Griffes avides	Unghie avide
+SKILLNAME_ENE_326	敵コマンド枠（DLC）27	敵コマンド枠（DLC）27	敌人指令位（DLC）27	敵方指令格（DLC）27	적 커맨드 칸(DLC) 27	敵コマンド枠（DLC）27	敵コマンド枠（DLC）27	敵コマンド枠（DLC）27	敵コマンド枠（DLC）27
+SKILLNAME_ENE_327	敵コマンド枠（DLC）28	敵コマンド枠（DLC）28	敌人指令位（DLC）28	敵方指令格（DLC）28	적 커맨드 칸(DLC) 28	敵コマンド枠（DLC）28	敵コマンド枠（DLC）28	敵コマンド枠（DLC）28	敵コマンド枠（DLC）28
+SKILLNAME_ENE_328	敵コマンド枠（DLC）29	敵コマンド枠（DLC）29	敌人指令位（DLC）29	敵方指令格（DLC）29	적 커맨드 칸(DLC) 29	敵コマンド枠（DLC）29	敵コマンド枠（DLC）29	敵コマンド枠（DLC）29	敵コマンド枠（DLC）29
+SKILLNAME_ENE_329	敵コマンド枠（DLC）30	敵コマンド枠（DLC）30	敌人指令位（DLC）30	敵方指令格（DLC）30	적 커맨드 칸(DLC) 30	敵コマンド枠（DLC）30	敵コマンド枠（DLC）30	敵コマンド枠（DLC）30	敵コマンド枠（DLC）30
+SKILLNAME_ENE_500	Wild Critical	会心ワイルド	狂野会心	狂暴會心	회심 와일드	Wilder Angriff	Crítico salvaje	Critique sauvage	Critici selvaggi
+SKILLNAME_ENE_501	Wild Giga-kaja	ギガカジャワイルド	狂野吉卡加	狂暴兆倍卡加	기가 카쟈 와일드	Wilde Giga-kaja	Gigakaja salvaje	Giga-kaja sauvage	Giga-kaja selvaggio
+SKILLNAME_ENE_502	Wild Hermes	ヘルメスワイルド	狂野赫耳墨斯	狂暴荷米斯	헤르메스 와일드	Wilder Hermes	Hermes salvaje	Hermès sauvage	Hermes selvaggio
+SKILLNAME_ENE_503	Wild Concentration	コンセンワイルド	狂野专心致志	狂暴專心致志	콘센 와일드	Wilde Konzentration	Concentración salvaje	Concentration sauvage	Concentrazione selvaggia
+SKILLNAME_ENE_504	Wild Double	ダブリンワイルド	狂野二次行动	狂暴二連	더블린 와일드	Wildes Doppel	Doble salvaje	Double sauvage	Raddoppiamento selvaggio
+SKILLNAME_ENE_505	Wild Planarian	プラナリワイルド	狂野涡虫	狂暴普拉納利	플라나리 와일드	Wilde Planarie	Planaria salvaje	Planaire sauvage	Planarian selvaggio
+SKILLNAME_ENE_506	Wild Oneshot	ワンパンワイルド	狂野一击必杀	狂暴一擊必殺	원펀 와일드	Wildes Niederschlagen	Puñetazo salvaje	Un coup sauvage	Pugno singolo selvaggio
+SKILLNAME_ENE_507	リスキー枠1	リスキー枠1				リスキー枠1	リスキー枠1	リスキー枠1	リスキー枠1
+SKILLNAME_ENE_508	リスキー枠2	リスキー枠2				リスキー枠2	リスキー枠2	リスキー枠2	リスキー枠2
+SKILLNAME_ENE_509	リスキー枠3	リスキー枠3				リスキー枠3	リスキー枠3	リスキー枠3	リスキー枠3
+SKILLNAME_ENE_510	Pandemonic Strike	天魔必滅	天魔必灭	天魔必滅	천마필감	Höllenhieb	Ataque pandemoníaco	Frappe pandémonique	Attacco assordante
+SKILLNAME_ENE_511	登場時タルンダ	登場時タルンダ				登場時タルンダ	登場時タルンダ	登場時タルンダ	登場時タルンダ
+SKILLNAME_ENE_512	登場時ラクンダ	登場時ラクンダ				登場時ラクンダ	登場時ラクンダ	登場時ラクンダ	登場時ラクンダ
+SKILLNAME_ENE_513	登場時スクンダ	登場時スクンダ				登場時スクンダ	登場時スクンダ	登場時スクンダ	登場時スクンダ
+SKILLNAME_ENE_514	登場時タルカジャ	登場時タルカジャ				登場時タルカジャ	登場時タルカジャ	登場時タルカジャ	登場時タルカジャ
+SKILLNAME_ENE_515	登場時ラクカジャ	登場時ラクカジャ				登場時ラクカジャ	登場時ラクカジャ	登場時ラクカジャ	登場時ラクカジャ
+SKILLNAME_ENE_516	登場時スクカジャ	登場時スクカジャ				登場時スクカジャ	登場時スクカジャ	登場時スクカジャ	登場時スクカジャ
+SKILLNAME_ENE_517	Vengeful Loyalty	忠義の反撃	忠义反击	忠義反擊	충의의 반격	Rächende Treue	Lealtad vengativa	Revanche loyale	Lealtà vendicativa
+SKILLNAME_ENE_518	Full Moon Eye	満月の眼光	满月的视线	滿月的視線	보름달의 안광	Vollmondauge	Ojo de luna llena	Œil de pleine lune	Occhio di luna piena
+SKILLNAME_ENE_519	New Moon Eye	新月の眼光	新月的视线	朔月的視線	초승달의 안광	Neumondauge	Ojo de luna nueva	Œil néo-lunaire	Occhio di luna nuova
+SKILLNAME_ENE_520	Ecliptic Eye	月食の眼光	月食的视线	月蝕的視線	월식의 안광	Finsternisauge	Ojo eclíptico	Œil de l'éclipse	Occhio di eclissi
+SKILLNAME_ENE_521	Hapi's Arrival	ハピの訪れ	哈匹的到访	哈匹來訪	하피의 방문	Hapis Ankunft	Llegada de Hapi	L'arrivée de Hapi	L'arrivo di Hapi
+SKILLNAME_ENE_522	Counter	反撃	反击	反擊	반격	Konter	Contraataque	Contre	Contrattacco
+SKILLNAME_ENE_523	Vengeful Loyalty	忠義の反撃	忠义反击	忠義反擊	충의의 반격	Rächende Treue	Lealtad vengativa	Revanche loyale	Lealtà vendicativa
+SKILLNAME_ENE_524	イベント用無敵	イベント用無敵				イベント用無敵	イベント用無敵	イベント用無敵	イベント用無敵
+SKILLNAME_ENE_525	汎用アクセラレーション	汎用アクセラレーション				汎用アクセラレーション	汎用アクセラレーション	汎用アクセラレーション	汎用アクセラレーション
+SKILLNAME_ENE_526	汎用アクセラレーション＋	汎用アクセラレーション+				汎用アクセラレーション＋	汎用アクセラレーション＋	汎用アクセラレーション＋	汎用アクセラレーション＋
+SKILLNAME_ENE_527	Pure Rage	激怒	狂怒	狂怒	격노	Purer Zorn	Furia pura	Furie pure	Pura furia
+SKILLNAME_ENE_528	ナナ空腹	ナナ空腹				ナナ空腹	ナナ空腹	ナナ空腹	ナナ空腹
+SKILLNAME_ENE_529	ナナ暴食	ナナ暴食				ナナ暴食	ナナ暴食	ナナ暴食	ナナ暴食
+SKILLNAME_ENE_530	アブダクション逃走	アブダクション逃走	劫持逃跑	劫持逃亡	어브덕션 도주	アブダクション逃走	アブダクション逃走	アブダクション逃走	アブダクション逃走
+SKILLNAME_ENE_531	火炎系被ダメージ時反射耐性付与	火炎系被ダメージ時反射耐性付与	受到火焰系伤害时赋予反弹耐性	承受火焰系傷害時賦予反彈抗性	화염 계열 피격 시 반사 내성 부여	火炎系被ダメージ時反射耐性付与	火炎系被ダメージ時反射耐性付与	火炎系被ダメージ時反射耐性付与	火炎系被ダメージ時反射耐性付与
+SKILLNAME_ENE_532	氷結系被ダメージ時反射耐性付与	氷結系被ダメージ時反射耐性付与	受到冰冻系伤害时赋予反弹耐性	承受冰凍系傷害時賦予反彈抗性	빙결 계열 피격 시 반사 내성 부여	氷結系被ダメージ時反射耐性付与	氷結系被ダメージ時反射耐性付与	氷結系被ダメージ時反射耐性付与	氷結系被ダメージ時反射耐性付与
+SKILLNAME_ENE_533	電撃系被ダメージ時反射耐性付与	電撃系被ダメージ時反射耐性付与	受到电击系伤害时赋予反弹耐性	承受電擊系傷害時賦予反彈抗性	전격 계열 피격 시 반사 내성 부여	電撃系被ダメージ時反射耐性付与	電撃系被ダメージ時反射耐性付与	電撃系被ダメージ時反射耐性付与	電撃系被ダメージ時反射耐性付与
+SKILLNAME_ENE_534	衝撃系被ダメージ時反射耐性付与	衝撃系被ダメージ時反射耐性付与	受到冲击系伤害时赋予反弹耐性	承受衝擊系傷害時賦予反彈抗性	충격 계열 피격 시 반사 내성 부여	衝撃系被ダメージ時反射耐性付与	衝撃系被ダメージ時反射耐性付与	衝撃系被ダメージ時反射耐性付与	衝撃系被ダメージ時反射耐性付与
+SKILLNAME_ENE_535	補助効果強化	補助効果強化	辅助效果强化	輔助效果強化	보조 효과 강화	補助効果強化	補助効果強化	補助効果強化	補助効果強化
+SKILLNAME_ENE_536	全状態異常無効	全状態異常無効	全异常状态无效	全異常狀態無效	모든 상태 이상 무효	全状態異常無効	全状態異常無効	全状態異常無効	全状態異常無効
+SKILLNAME_ENE_537	Ally Counter	慈愛の反撃	慈爱反击	慈愛反擊	자애의 반격	Verbündetenkonter	Contra aliada	Contre allié	Contrattacco alleato
+SKILLNAME_ENE_538	Ally Counter	慈愛の反撃	慈爱反击	慈愛反擊	자애의 반격	Verbündetenkonter	Contra aliada	Contre allié	Contrattacco alleato
+SKILLNAME_ENE_539	Ally Counter	慈愛の反撃	慈爱反击	慈愛反擊	자애의 반격	Verbündetenkonter	Contra aliada	Contre allié	Contrattacco alleato
+SKILLNAME_ENE_540	Ally Counter	慈愛の反撃	慈爱反击	慈愛反擊	자애의 반격	Verbündetenkonter	Contra aliada	Contre allié	Contrattacco alleato
+SKILLNAME_ENE_541	ガッツ	ガッツ	毅力	骨氣	근성	ガッツ	ガッツ	ガッツ	ガッツ
+SKILLNAME_ENE_542	万能ダメージ補正	万能ダメージ補正	万能伤害补正	萬能傷害修正	만능 대미지 보정	万能ダメージ補正	万能ダメージ補正	万能ダメージ補正	万能ダメージ補正
+SKILLNAME_ENE_543	Aion第一形態通常強化	Aion第一形態通常強化	Aion第一形态普通强化	Aion第一型態一般強化	Aion 제1형태 일반 강화	Aion第一形態通常強化	Aion第一形態通常強化	Aion第一形態通常強化	Aion第一形態通常強化
+SKILLNAME_ENE_544	Aion第一形態最終強化	Aion第一形態最終強化	Aion第一形态最终强化	Aion第一型態最終強化	Aion 제1형태 최종 강화	Aion第一形態最終強化	Aion第一形態最終強化	Aion第一形態最終強化	Aion第一形態最終強化
+SKILLNAME_ENE_545	PSAion分霊	PSAion分霊	PSAion分灵	PSAion分靈	PSAion의 분령	PSAion分霊	PSAion分霊	PSAion分霊	PSAion分霊
+SKILLNAME_ENE_546	シヴァ通常強化	シヴァ通常強化	湿婆普通强化	濕婆一般強化	시바 일반 강화	シヴァ通常強化	シヴァ通常強化	シヴァ通常強化	シヴァ通常強化
+SKILLNAME_ENE_547	パールヴァティ通常強化	パールヴァティ通常強化	帕尔瓦蒂普通强化	帕爾瓦蒂一般強化	파르바티 일반 강화	パールヴァティ通常強化	パールヴァティ通常強化	パールヴァティ通常強化	パールヴァティ通常強化
+SKILLNAME_ENE_548	コヴェナント（紫）（開幕用	コヴェナント（紫）（開幕用	紫之圣约（开幕用	虹約（紫）（開場專用）	커버넌트(자색) (개막용	コヴェナント（紫）（開幕用	コヴェナント（紫）（開幕用	コヴェナント（紫）（開幕用	コヴェナント（紫）（開幕用
+SKILLNAME_ENE_549	Pure Rage	激怒	狂怒	狂怒	격노	Purer Zorn	Furia pura	Furie pure	Pura furia
+SKILLNAME_ENE_550	敵パッシブ予備1	敵パッシブ予備1	敌人被动预备1	敵方被動備用1	적 패시브 예비 1	敵パッシブ予備1	敵パッシブ予備1	敵パッシブ予備1	敵パッシブ予備1
+SKILLNAME_ENE_551	敵パッシブ予備2	敵パッシブ予備2	敌人被动预备2	敵方被動備用2	적 패시브 예비 2	敵パッシブ予備2	敵パッシブ予備2	敵パッシブ予備2	敵パッシブ予備2
+SKILLNAME_ENE_552	敵パッシブ予備3	敵パッシブ予備3	敌人被动预备3	敵方被動備用3	적 패시브 예비 3	敵パッシブ予備3	敵パッシブ予備3	敵パッシブ予備3	敵パッシブ予備3
+SKILLNAME_ENE_553	敵パッシブ予備4	敵パッシブ予備4	敌人被动预备4	敵方被動備用4	적 패시브 예비 4	敵パッシブ予備4	敵パッシブ予備4	敵パッシブ予備4	敵パッシブ予備4
+SKILLNAME_ENE_554	敵パッシブ予備5	敵パッシブ予備5	敌人被动预备5	敵方被動備用5	적 패시브 예비 5	敵パッシブ予備5	敵パッシブ予備5	敵パッシブ予備5	敵パッシブ予備5
+SKILLNAME_ENE_555	敵パッシブ予備6	敵パッシブ予備6	敌人被动预备6	敵方被動備用6	적 패시브 예비 6	敵パッシブ予備6	敵パッシブ予備6	敵パッシブ予備6	敵パッシブ予備6
+SKILLNAME_ENE_556	敵パッシブ予備7	敵パッシブ予備7	敌人被动预备7	敵方被動備用7	적 패시브 예비 7	敵パッシブ予備7	敵パッシブ予備7	敵パッシブ予備7	敵パッシブ予備7
+SKILLNAME_ENE_557	敵パッシブ予備8	敵パッシブ予備8	敌人被动预备8	敵方被動備用8	적 패시브 예비 8	敵パッシブ予備8	敵パッシブ予備8	敵パッシブ予備8	敵パッシブ予備8
+SKILLNAME_ENE_558	敵パッシブ予備9	敵パッシブ予備9	敌人被动预备9	敵方被動備用9	적 패시브 예비 9	敵パッシブ予備9	敵パッシブ予備9	敵パッシブ予備9	敵パッシブ予備9
+SKILLNAME_ENE_559	敵パッシブ予備10	敵パッシブ予備10	敌人被动预备10	敵方被動備用10	적 패시브 예비 10	敵パッシブ予備10	敵パッシブ予備10	敵パッシブ予備10	敵パッシブ予備10
+SKILLNAME_ACC_000	命中強化アプリ	命中強化アプリ	命中强化程序	命中強化App	명중 강화 앱	命中強化アプリ	命中強化アプリ	命中強化アプリ	命中強化アプリ
+SKILLNAME_ACC_001	クリティカルアプリ	クリティカルアプリ	暴击程序	暴擊App	크리티컬 앱	クリティカルアプリ	クリティカルアプリ	クリティカルアプリ	クリティカルアプリ
+SKILLNAME_ACC_002	回避強化アプリ	回避強化アプリ	回避强化程序	回避強化App	회피 강화 앱	回避強化アプリ	回避強化アプリ	回避強化アプリ	回避強化アプリ
+SKILLNAME_ACC_003	精神系バステ回避アプリ	精神系バステ回避アプリ	精神系异常状态回避程序	回避精神系異常狀態App	정신 계열 상태 이상 회피 앱	精神系バステ回避アプリ	精神系バステ回避アプリ	精神系バステ回避アプリ	精神系バステ回避アプリ
+SKILLNAME_ACC_004	肉体系バステ回避アプリ	肉体系バステ回避アプリ	肉身系异常状态回避程序	回避肉體系異常狀態App	육체 계열 상태 이상 회피 앱	肉体系バステ回避アプリ	肉体系バステ回避アプリ	肉体系バステ回避アプリ	肉体系バステ回避アプリ
+SKILLNAME_ACC_005	経験値アプリ	経験値アプリ	经验值程序	經驗值App	경험치 앱	経験値アプリ	経験値アプリ	経験値アプリ	経験値アプリ
+SKILLNAME_ACC_006	サルベージ強化アプリ	サルベージ強化アプリ	搜寻强化程序	打撈強化App	샐비지 강화 앱	サルベージ強化アプリ	サルベージ強化アプリ	サルベージ強化アプリ	サルベージ強化アプリ
+SKILLNAME_ACC_007	ドロップ+1	ドロップ+1	掉落+1	掉落+1	드롭+1	ドロップ+1	ドロップ+1	ドロップ+1	ドロップ+1
+SKILLNAME_ACC_008	ドロップ+2	ドロップ+2	掉落+2	掉落+2	드롭+2	ドロップ+2	ドロップ+2	ドロップ+2	ドロップ+2
+SKILLNAME_ACC_009	食いしばり(ACC_009)	食いしばり(ACC_009)	强忍（ACC_009）	強忍（ACC_009）	이 악물기(ACC_009)	食いしばり(ACC_009)	食いしばり(ACC_009)	食いしばり(ACC_009)	食いしばり(ACC_009)
+SKILLNAME_ACC_010	バステ回避アプリ全	バステ回避アプリ全	异常状态回避程序全	回避全異常狀態App	상태 이상 회피 앱 전체	バステ回避アプリ全	バステ回避アプリ全	バステ回避アプリ全	バステ回避アプリ全
+SKILLNAME_ACC_011	即死耐性アプリ	即死耐性アプリ	即死耐性程序	即死抗性App	즉사 내성 앱	即死耐性アプリ	即死耐性アプリ	即死耐性アプリ	即死耐性アプリ
+SKILLNAME_ACC_012	MP還元アプリ	MP還元アプリ	MP还原程序	MP回饋App	MP 환원 앱	MP還元アプリ	MP還元アプリ	MP還元アプリ	MP還元アプリ
+SKILLNAME_ACC_013	レアドロップアプリ	レアドロップアプリ	稀有掉落程序	掉落稀有物App	레어 드롭 앱	レアドロップアプリ	レアドロップアプリ	レアドロップアプリ	レアドロップアプリ
+SKILLNAME_ACC_014	精神バステ回避防具(ACC_017)	精神バステ回避防具(ACC_017)	精神异常状态回避防具（ACC_017）	回避精神異常狀態防具（ACC_017）	정신 상태 이상 회피 방어구(ACC_017)	精神バステ回避防具(ACC_017)	精神バステ回避防具(ACC_017)	精神バステ回避防具(ACC_017)	精神バステ回避防具(ACC_017)
+SKILLNAME_ACC_015	肉体バステ回避防具(ACC_011)	肉体バステ回避防具(ACC_011)	肉身异常状态回避防具（ACC_011）	回避肉體異常狀態防具（ACC_011）	육체 상태 이상 회피 방어구(ACC_011)	肉体バステ回避防具(ACC_011)	肉体バステ回避防具(ACC_011)	肉体バステ回避防具(ACC_011)	肉体バステ回避防具(ACC_011)
+SKILLNAME_ACC_016	属性回避ＵＰ防具１(ACC_024)	属性回避ＵＰ防具１(ACC_024)	属性回避UP防具1（ACC_024）	屬性回避UP防具1（ACC_024）	속성 회피 UP 방어구 1(ACC_024)	属性回避ＵＰ防具１(ACC_024)	属性回避ＵＰ防具１(ACC_024)	属性回避ＵＰ防具１(ACC_024)	属性回避ＵＰ防具１(ACC_024)
+SKILLNAME_ACC_017	属性回避ＵＰ防具２(ACC_026)	属性回避ＵＰ防具２(ACC_026)	属性回避UP防具2（ACC_026）	屬性回避UP防具2（ACC_026）	속성 회피 UP 방어구 2(ACC_026)	属性回避ＵＰ防具２(ACC_026)	属性回避ＵＰ防具２(ACC_026)	属性回避ＵＰ防具２(ACC_026)	属性回避ＵＰ防具２(ACC_026)
+SKILLNAME_ACC_018	属性回避ＵＰ防具３(ACC_034)	属性回避ＵＰ防具３(ACC_034)	属性回避UP防具3（ACC_034）	屬性回避UP防具3（ACC_034）	속성 회피 UP 방어구 3(ACC_034)	属性回避ＵＰ防具３(ACC_034)	属性回避ＵＰ防具３(ACC_034)	属性回避ＵＰ防具３(ACC_034)	属性回避ＵＰ防具３(ACC_034)
+SKILLNAME_ACC_019	属性回避防具D(ACC_037)	属性回避防具D(ACC_037)	属性回避防具D（ACC_037）	屬性回避防具D（ACC_037）	속성 회피 방어구(ACC_037)	属性回避防具D(ACC_037)	属性回避防具D(ACC_037)	属性回避防具D(ACC_037)	属性回避防具D(ACC_037)
+SKILLNAME_ACC_020	バステ回避防具D(ACC_042)	バステ回避防具D(ACC_042)	异常状态回避防具D（ACC_042）	回避異常狀態防具D（ACC_042）	상태 이상 회피 방어구(ACC_042)	バステ回避防具D(ACC_042)	バステ回避防具D(ACC_042)	バステ回避防具D(ACC_042)	バステ回避防具D(ACC_042)
+SKILLNAME_ACC_021	リンゴ最強防具(Acs_049)	リンゴ最強防具(Acs_049)	林檎最强防具（Acs_049）	林檎最強防具（Acs_049）	링고 최강 방어구(Acs_049)	リンゴ最強防具(Acs_049)	リンゴ最強防具(Acs_049)	リンゴ最強防具(Acs_049)	リンゴ最強防具(Acs_049)
+SKILLNAME_ACC_022	アロウ最強防具(Acs_050)	アロウ最強防具(Acs_050)	艾罗最强防具（Acs_050）	Arrow最強防具（Acs_050）	애로 최강 방어구(Acs_050)	アロウ最強防具(Acs_050)	アロウ最強防具(Acs_050)	アロウ最強防具(Acs_050)	アロウ最強防具(Acs_050)
+SKILLNAME_ACC_023	ミレディ最強防具(Acs_051)	ミレディ最強防具(Acs_051)	米莱狄最强防具（Acs_051）	Milady最強防具（Acs_051）	밀라디 최강 방어구((Acs_051)	ミレディ最強防具(Acs_051)	ミレディ最強防具(Acs_051)	ミレディ最強防具(Acs_051)	ミレディ最強防具(Acs_051)
+SKILLNAME_ACC_024	サイゾー最強防具(Acs_052)	サイゾー最強防具(Acs_052)	才藏最强防具（Acs_052）	Saizo最強防具（Acs_052）	사이조 최강 방어구(Acs_052)	サイゾー最強防具(Acs_052)	サイゾー最強防具(Acs_052)	サイゾー最強防具(Acs_052)	サイゾー最強防具(Acs_052)
+SKILLNAME_ACC_025	４章ＬＵＫ肉防具(Acs_057)	４章ＬＵＫ肉防具(Acs_057)	4章LUK肉防具（Acs_057）	第4章LUK肉防具（Acs_057）	4장 LUK 육체 방어구(Acs_057)	４章ＬＵＫ肉防具(Acs_057)	４章ＬＵＫ肉防具(Acs_057)	４章ＬＵＫ肉防具(Acs_057)	４章ＬＵＫ肉防具(Acs_057)
+SKILLNAME_ACC_026	ＥＲ０１報酬(Acs_080)	ＥＲ０１報酬(Acs_080)	ER01报酬（Acs_080）	ER01報酬（Acs_080）	ER01 보상(Acs_080)	ＥＲ０１報酬(Acs_080)	ＥＲ０１報酬(Acs_080)	ＥＲ０１報酬(Acs_080)	ＥＲ０１報酬(Acs_080)
+SKILLNAME_ACC_027	ＥＲ２３報酬(Acs_083)	ＥＲ２３報酬(Acs_083)	ER23报酬（Acs_083）	ER23報酬（Acs_083）	ER23 보상(Acs_083)	ＥＲ２３報酬(Acs_083)	ＥＲ２３報酬(Acs_083)	ＥＲ２３報酬(Acs_083)	ＥＲ２３報酬(Acs_083)
+SKILLNAME_ACC_028	ＥＲ０６報酬(Acs_086)	ＥＲ０６報酬(Acs_086)	ER06报酬（Acs_086）	ER06報酬（Acs_086）	ER06 보상(Acs_086)	ＥＲ０６報酬(Acs_086)	ＥＲ０６報酬(Acs_086)	ＥＲ０６報酬(Acs_086)	ＥＲ０６報酬(Acs_086)
+SKILLNAME_ACC_029	リスキー報奨１(Acs_100)	リスキー報奨１(Acs_100)	狂暴报酬1（Acs_100）	危險獎賞1（Acs_100）	리스키 보상 1(Acs_100)	リスキー報奨１(Acs_100)	リスキー報奨１(Acs_100)	リスキー報奨１(Acs_100)	リスキー報奨１(Acs_100)
+SKILLNAME_ACC_030	リスキー報奨２(Acs_101)	リスキー報奨２(Acs_101)	狂暴报酬2（Acs_101）	危險獎賞2（Acs_101）	리스키 보상 2(Acs_101)	リスキー報奨２(Acs_101)	リスキー報奨２(Acs_101)	リスキー報奨２(Acs_101)	リスキー報奨２(Acs_101)
+SKILLNAME_ACC_031	リスキー報奨３(Acs_102)	リスキー報奨３(Acs_102)	狂暴报酬3（Acs_102）	危險獎賞3（Acs_102）	리스키 보상 3(Acs_102)	リスキー報奨３(Acs_102)	リスキー報奨３(Acs_102)	リスキー報奨３(Acs_102)	リスキー報奨３(Acs_102)
+SKILLNAME_ACC_032	リスキー報奨４(Acs_103)	リスキー報奨４(Acs_103)	狂暴报酬4（Acs_103）	危險獎賞4（Acs_103）	리스키 보상 4(Acs_103)	リスキー報奨４(Acs_103)	リスキー報奨４(Acs_103)	リスキー報奨４(Acs_103)	リスキー報奨４(Acs_103)
+SKILLNAME_ACC_033	リスキー報奨５(Acs_104)	リスキー報奨５(Acs_104)	狂暴报酬5（Acs_104）	危險獎賞5（Acs_104）	리스키 보상 5(Acs_104)	リスキー報奨５(Acs_104)	リスキー報奨５(Acs_104)	リスキー報奨５(Acs_104)	リスキー報奨５(Acs_104)
+SKILLNAME_ACC_034	リスキー報奨６(Acs_105)	リスキー報奨６(Acs_105)	狂暴报酬6（Acs_105）	危險獎賞6（Acs_105）	리스키 보상 6(Acs_105)	リスキー報奨６(Acs_105)	リスキー報奨６(Acs_105)	リスキー報奨６(Acs_105)	リスキー報奨６(Acs_105)
+SKILLNAME_ACC_035	リスキー報奨７(Acs_106)	リスキー報奨７(Acs_106)	狂暴报酬7（Acs_106）	危險獎賞7（Acs_106）	리스키 보상 7(Acs_106)	リスキー報奨７(Acs_106)	リスキー報奨７(Acs_106)	リスキー報奨７(Acs_106)	リスキー報奨７(Acs_106)
+SKILLNAME_ACC_036	リスキー報奨８(Acs_107)	リスキー報奨８(Acs_107)	狂暴报酬8（Acs_107）	危險獎賞8（Acs_107）	리스키 보상 8(Acs_107)	リスキー報奨８(Acs_107)	リスキー報奨８(Acs_107)	リスキー報奨８(Acs_107)	リスキー報奨８(Acs_107)
+SKILLNAME_ACC_037	アクセ効果予備1	アクセ効果予備1	饰品效果预备1	飾品效果備用1	액세서리 효과 예비 1	アクセ効果予備1	アクセ効果予備1	アクセ効果予備1	アクセ効果予備1
+SKILLNAME_ACC_038	アクセ効果予備2	アクセ効果予備2	饰品效果预备2	飾品效果備用2	액세서리 효과 예비 2	アクセ効果予備2	アクセ効果予備2	アクセ効果予備2	アクセ効果予備2
+SKILLNAME_ACC_039	アクセ効果予備3	アクセ効果予備3	饰品效果预备3	飾品效果備用3	액세서리 효과 예비 3	アクセ効果予備3	アクセ効果予備3	アクセ効果予備3	アクセ効果予備3
+SKILLNAME_ACC_040	アクセ効果予備4	アクセ効果予備4	饰品效果预备4	飾品效果備用4	액세서리 효과 예비 4	アクセ効果予備4	アクセ効果予備4	アクセ効果予備4	アクセ効果予備4
+SKILLNAME_ACC_041	アクセ効果予備5	アクセ効果予備5	饰品效果预备5	飾品效果備用5	액세서리 효과 예비 5	アクセ効果予備5	アクセ効果予備5	アクセ効果予備5	アクセ効果予備5
+SKILLNAME_ACC_042	アクセ効果予備6	アクセ効果予備6	饰品效果预备6	飾品效果備用6	액세서리 효과 예비 6	アクセ効果予備6	アクセ効果予備6	アクセ効果予備6	アクセ効果予備6
+SKILLNAME_ACC_043	アクセ効果予備7	アクセ効果予備7	饰品效果预备7	飾品效果備用7	액세서리 효과 예비 7	アクセ効果予備7	アクセ効果予備7	アクセ効果予備7	アクセ効果予備7
+SKILLNAME_ACC_044	アクセ効果予備8	アクセ効果予備8	饰品效果预备8	飾品效果備用8	액세서리 효과 예비 8	アクセ効果予備8	アクセ効果予備8	アクセ効果予備8	アクセ効果予備8
+SKILLNAME_ACC_045	アクセ効果予備9	アクセ効果予備9	饰品效果预备9	飾品效果備用9	액세서리 효과 예비 9	アクセ効果予備9	アクセ効果予備9	アクセ効果予備9	アクセ効果予備9
+SKILLNAME_ACC_046	アクセ効果予備10	アクセ効果予備10	饰品效果预备10	飾品效果備用10	액세서리 효과 예비 10	アクセ効果予備10	アクセ効果予備10	アクセ効果予備10	アクセ効果予備10
+SKILLNAME_ACC_047	アクセ効果予備11	アクセ効果予備11	饰品效果预备11	飾品效果備用11	액세서리 효과 예비 11	アクセ効果予備11	アクセ効果予備11	アクセ効果予備11	アクセ効果予備11
+SKILLNAME_ACC_048	アクセ効果予備12	アクセ効果予備12	饰品效果预备12	飾品效果備用12	액세서리 효과 예비 12	アクセ効果予備12	アクセ効果予備12	アクセ効果予備12	アクセ効果予備12
+SKILLNAME_ACC_049	アクセ効果予備13	アクセ効果予備13	饰品效果预备13	飾品效果備用13	액세서리 효과 예비 13	アクセ効果予備13	アクセ効果予備13	アクセ効果予備13	アクセ効果予備13
+SKILLNAME_ACC_100	Phys Arcana I	物理MPダウンⅠ	物理MP消耗降低Ⅰ	物理MP降低I	물리 MP 감소I	Körp-Arkana I	Arcana físico I	Réd. PM phys I	Arcana PM fisici 1
+SKILLNAME_ACC_101	Phys Arcana II	物理MPダウンⅡ	物理MP消耗降低Ⅱ	物理MP降低II	물리 MP 감소II	Körp-Arkana II	Arcana físico II	Réd. PM phys II	Arcana PM fisici 2
+SKILLNAME_ACC_102	Phys Arcana III	物理MPダウンⅢ	物理MP消耗降低Ⅲ	物理MP降低III	물리 MP 감소III	Körp-Arkana III	Arcana físico III	Réd. PM phys III	Arcana PM fisici 3
+SKILLNAME_ACC_103	Phys Arcana<tags=''34''g=''1'' id=''BlackStar''>	物理MPダウン★	物理MP消耗降低★	物理MP降低★	물리 MP 감소★	Körp-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana físico <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM phys <tags=''34''g=''1'' id=''BlackStar''>	Arcana PM fisici <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_104	Phys Booster I	物理ブースターⅠ	物理强化Ⅰ	物理強化I	물리 부스터I	Körp-Boost I	Mejora física I	Boost phys I	Potenzia fisici 1
+SKILLNAME_ACC_105	Phys Booster II	物理ブースターⅡ	物理强化Ⅱ	物理強化II	물리 부스터II	Körp-Boost II	Mejora física II	Boost phys II	Potenzia fisici 2
+SKILLNAME_ACC_106	Phys Booster III	物理ブースターⅢ	物理强化Ⅲ	物理強化III	물리 부스터III	Körp-Boost III	Mejora física III	Boost phys III	Potenzia fisici 3
+SKILLNAME_ACC_107	Phys Boost<tags=''34''g=''1'' id=''BlackStar''>	物理ブースター★	物理强化★	物理強化★	물리 부스터★	Körp-Boost <tags=''34''g=''1'' id=''BlackStar''>	Mejora física <tags=''34''g=''1'' id=''BlackStar''>	Boost phys <tags=''34''g=''1'' id=''BlackStar''>	Potenzia fisici <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_108	Warrior's Insight I	モノノフⅠ	武者Ⅰ	武者I	모노노후I	Kriegerstärke I	Saber guerrero I	Perspicacité I	Intuito guerriero 1
+SKILLNAME_ACC_109	Warrior's Insight II	モノノフⅡ	武者Ⅱ	武者II	모노노후II	Kriegerstärke II	Saber guerrero II	Perspicacité II	Intuito guerriero 2
+SKILLNAME_ACC_110	Warrior's Insight III	モノノフⅢ	武者Ⅲ	武者III	모노노후III	Kriegerstärke III	Saber guerrero III	Perspicacité III	Intuito guerriero 3
+SKILLNAME_ACC_111	Warrior's Insight<tags=''34''g=''1'' id=''BlackStar''>	モノノフ★	武者★	武者★	모노노후★	Kriegerstärke <tags=''34''g=''1'' id=''BlackStar''>	Saber guerrero <tags=''34''g=''1'' id=''BlackStar''>	Perspicacité <tags=''34''g=''1'' id=''BlackStar''>	Intuito guerriero <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_112	Phys Pierce I	物理貫通Ⅰ	物理贯穿Ⅰ	物理貫穿I	물리 관통I	Körp. Durchbohren I	Perf. física I	Percée phys I	Perforaz. fisici 1
+SKILLNAME_ACC_113	Phys Pierce II	物理貫通Ⅱ	物理贯穿Ⅱ	物理貫穿II	물리 관통II	Körp. Durchb. II	Perf. física II	Percée phys II	Perforaz. fisici 2
+SKILLNAME_ACC_114	Phys Pierce III	物理貫通Ⅲ	物理贯穿Ⅲ	物理貫穿III	물리 관통III	Körp. Durchb. III	Perf. física III	Percée phys III	Perforaz. fisici 3
+SKILLNAME_ACC_115	Phys Pierce<tags=''34''g=''1'' id=''BlackStar''>	物理貫通★	物理贯穿★	物理貫穿★	물리 관통★	Körp. Durchb. <tags=''34''g=''1'' id=''BlackStar''>	Perf. física <tags=''34''g=''1'' id=''BlackStar''>	Percée phys <tags=''34''g=''1'' id=''BlackStar''>	Perforaz. fisici <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_116	Surveillance Scan I	ギボ･アイズⅠ	宜保之眼Ⅰ	疑保之眼I	기보 아이즈I	Kontrollscan I	Inspección I	Surveillance I	Scansione 1
+SKILLNAME_ACC_117	Surveillance Scan II	ギボ･アイズⅡ	宜保之眼Ⅱ	疑保之眼II	기보 아이즈II	Kontrollscan II	Inspección II	Surveillance II	Scansione 2
+SKILLNAME_ACC_118	Surveillance Scan III	ギボ･アイズⅢ	宜保之眼Ⅲ	疑保之眼III	기보 아이즈III	Kontrollscan III	Inspección III	Surveillance III	Scansione 3
+SKILLNAME_ACC_119	Surveillance Scan<tags=''34''g=''1'' id=''BlackStar''>	ギボ･アイズ★	宜保之眼★	疑保之眼★	기보 아이즈★	Kontrollscan <tags=''34''g=''1'' id=''BlackStar''>	Inspección <tags=''34''g=''1'' id=''BlackStar''>	Surveillance <tags=''34''g=''1'' id=''BlackStar''>	Scansione <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_120	Gunfire Arcana I	銃撃MPダウンⅠ	枪击MP消耗降低Ⅰ	槍擊MP降低I	총격 MP 감소I	Schuss-Arkana I	Arcana de armas I	Réd. PM arme I	Arcana armi 1
+SKILLNAME_ACC_121	Gunfire Arcana II	銃撃MPダウンⅡ	枪击MP消耗降低Ⅱ	槍擊MP降低II	총격 MP 감소II	Schuss-Arkana II	Arcana de armas II	Réd. PM arme II	Arcana armi 2
+SKILLNAME_ACC_122	Gunfire Arcana III	銃撃MPダウンⅢ	枪击MP消耗降低Ⅲ	槍擊MP降低III	총격 MP 감소III	Schuss-Arkana III	Arcana de armas III	Réd. PM arme III	Arcana armi 3
+SKILLNAME_ACC_123	Gunfire Arcana<tags=''34''g=''1'' id=''BlackStar''>	銃撃MPダウン★	枪击MP消耗降低★	槍擊MP降低★	총격 MP 감소★	Schuss-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana de armas <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM arme <tags=''34''g=''1'' id=''BlackStar''>	Arcana armi <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_124	Gunfire Boost I	銃撃ブースターⅠ	枪击强化Ⅰ	槍擊強化I	총격 부스터I	Schuss-Boost I	Potencia arma I	Boost d'arme I	Potenzia armi 1
+SKILLNAME_ACC_125	Gunfire Boost II	銃撃ブースターⅡ	枪击强化Ⅱ	槍擊強化II	총격 부스터II	Schuss-Boost II	Potencia arma II	Boost d'arme II	Potenzia armi 2
+SKILLNAME_ACC_126	Gunfire Boost III	銃撃ブースターⅢ	枪击强化Ⅲ	槍擊強化III	총격 부스터III	Schuss-Boost III	Potencia arma III	Boost d'arme III	Pot. armi da fuoco 3
+SKILLNAME_ACC_127	Gunfire Boost<tags=''34''g=''1'' id=''BlackStar''>	銃撃ブースター★	枪击强化★	槍擊強化★	총격 부스터★	Schuss-Boost <tags=''34''g=''1'' id=''BlackStar''>	Potencia arma <tags=''34''g=''1'' id=''BlackStar''>	Boost d'arme <tags=''34''g=''1'' id=''BlackStar''>	Potenzia armi <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_128	Capote I	ハメットⅠ	哈米特Ⅰ	漢密特I	해밋I	Capote I	Capote I	Cape I	Sangue freddo 1
+SKILLNAME_ACC_129	Capote II	ハメットⅡ	哈米特Ⅱ	漢密特II	해밋II	Capote II	Capote II	Cape II	Sangue freddo 2
+SKILLNAME_ACC_130	Capote III	ハメットⅢ	哈米特Ⅲ	漢密特III	해밋III	Capote III	Capote III	Cape III	Sangue freddo 3
+SKILLNAME_ACC_131	Capote<tags=''34''g=''1'' id=''BlackStar''>	ハメット★	哈米特★	漢密特★	해밋★	Capote <tags=''34''g=''1'' id=''BlackStar''>	Capote <tags=''34''g=''1'' id=''BlackStar''>	Cape <tags=''34''g=''1'' id=''BlackStar''>	Sangue freddo <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_132	Golden Gun I	我武者羅Ⅰ	你死我活Ⅰ	奮不顧身I	무아지경I	Goldener Colt I	Arma dorada I	Pistolet d'or I	Pistola d'oro 1
+SKILLNAME_ACC_133	Golden Gun II	我武者羅Ⅱ	你死我活Ⅱ	奮不顧身II	무아지경II	Goldener Colt II	Arma dorada II	Pistolet d'or II	Pistola d'oro 2
+SKILLNAME_ACC_134	Golden Gun III	我武者羅Ⅲ	你死我活Ⅲ	奮不顧身III	무아지경III	Goldener Colt III	Arma dorada III	Pistolet d'or III	Pistola d'oro 3
+SKILLNAME_ACC_135	Golden Gun<tags=''34''g=''1'' id=''BlackStar''>	我武者羅★	你死我活★	奮不顧身★	무아지경★	Goldener Colt <tags=''34''g=''1'' id=''BlackStar''>	Arma dorada <tags=''34''g=''1'' id=''BlackStar''>	Pistolet d'or <tags=''34''g=''1'' id=''BlackStar''>	Pistola d'oro <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_136	Vigilance I	タリ報Ⅰ	偷袭警报Ⅰ	Tally-Ho I	탈리보I	Wachsamkeit I	Vigilancia I	Vigilance I	Vigilanza 1
+SKILLNAME_ACC_137	Vigilance II	タリ報Ⅱ	偷袭警报Ⅱ	Tally-Ho II	탈리보II	Wachsamkeit II	Vigilancia II	Vigilance II	Vigilanza 2
+SKILLNAME_ACC_138	Vigilance III	タリ報Ⅲ	偷袭警报Ⅲ	Tally-Ho III	탈리보III	Wachsamkeit III	Vigilancia III	Vigilance III	Vigilanza 3
+SKILLNAME_ACC_139	Vigilance<tags=''34''g=''1'' id=''BlackStar''>	タリ報★	偷袭警报★	Tally-Ho★	탈리보★	Wachsamkeit <tags=''34''g=''1'' id=''BlackStar''>	Vigilancia <tags=''34''g=''1'' id=''BlackStar''>	Vigilance <tags=''34''g=''1'' id=''BlackStar''>	Vigilanza <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_140	Phys Arcana I	物理MPダウンⅠ	物理MP消耗降低Ⅰ	物理MP降低I	물리 MP 감소I	Körp-Arkana I	Arcana físico I	Réd. PM phys I	Arcana PM fisici 1
+SKILLNAME_ACC_141	Phys Arcana II	物理MPダウンⅡ	物理MP消耗降低Ⅱ	物理MP降低II	물리 MP 감소II	Körp-Arkana II	Arcana físico II	Réd. PM phys II	Arcana PM fisici 2
+SKILLNAME_ACC_142	Phys Arcana III	物理MPダウンⅢ	物理MP消耗降低Ⅲ	物理MP降低III	물리 MP 감소III	Körp-Arkana III	Arcana físico III	Réd. PM phys III	Arcana PM fisici 3
+SKILLNAME_ACC_143	Phys Arcana<tags=''34''g=''1'' id=''BlackStar''>	物理MPダウン★	物理MP消耗降低★	物理MP降低★	물리 MP 감소★	Körp-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana físico <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM phys <tags=''34''g=''1'' id=''BlackStar''>	Arcana PM fisici <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_144	Phys Booster I	物理ブースターⅠ	物理强化Ⅰ	物理強化I	물리 부스터I	Körp-Boost I	Mejora física I	Boost phys I	Potenzia fisici 1
+SKILLNAME_ACC_145	Phys Booster II	物理ブースターⅡ	物理强化Ⅱ	物理強化II	물리 부스터II	Körp-Boost II	Mejora física II	Boost phys II	Potenzia fisici 2
+SKILLNAME_ACC_146	Phys Booster III	物理ブースターⅢ	物理强化Ⅲ	物理強化III	물리 부스터III	Körp-Boost III	Mejora física III	Boost phys III	Potenzia fisici 3
+SKILLNAME_ACC_147	Phys Boost<tags=''34''g=''1'' id=''BlackStar''>	物理ブースター★	物理强化★	物理強化★	물리 부스터★	Körp-Boost <tags=''34''g=''1'' id=''BlackStar''>	Mejora física <tags=''34''g=''1'' id=''BlackStar''>	Boost phys <tags=''34''g=''1'' id=''BlackStar''>	Potenzia fisici <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_148	Piercer I	ピアシングⅠ	穿刺Ⅰ	穿刺I	피어싱I	Stich I	Perforadora I	Percée I	Perforazione 1
+SKILLNAME_ACC_149	Piercer II	ピアシングⅡ	穿刺Ⅱ	穿刺II	피어싱II	Stich II	Perforadora II	Percée II	Perforazione 2
+SKILLNAME_ACC_150	Piercer III	ピアシングⅢ	穿刺Ⅲ	穿刺III	피어싱III	Stich III	Perforadora III	Percée III	Perforazione 3
+SKILLNAME_ACC_151	Piercer<tags=''34''g=''1'' id=''BlackStar''>	ピアシング★	穿刺★	穿刺★	피어싱★	Stich <tags=''34''g=''1'' id=''BlackStar''>	Perforadora <tags=''34''g=''1'' id=''BlackStar''>	Percée <tags=''34''g=''1'' id=''BlackStar''>	Perforazione <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_152	Harvest I	ハーヴェストⅠ	收获Ⅰ	收割I	하베스트I	Ernte I	Cosecha I	Récolte I	Raccolta 1
+SKILLNAME_ACC_153	Harvest II	ハーヴェストⅡ	收获Ⅱ	收割II	하베스트II	Ernte II	Cosecha II	Récolte II	Raccolta 2
+SKILLNAME_ACC_154	Harvest III	ハーヴェストⅢ	收获Ⅲ	收割III	하베스트III	Ernte III	Cosecha III	Récolte III	Raccolta 3
+SKILLNAME_ACC_155	Harvest<tags=''34''g=''1'' id=''BlackStar''>	ハーヴェスト★	收获★	收割★	하베스트★	Ernte <tags=''34''g=''1'' id=''BlackStar''>	Cosecha <tags=''34''g=''1'' id=''BlackStar''>	Récolter <tags=''34''g=''1'' id=''BlackStar''>	Raccolta <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_156	Ms. Surprise I	Ms.サプライズⅠ	Ms.Surprise Ⅰ	Ms.Surprise I	Ms.서프라이즈I	Überraschung I	Doña Sorpresa I	Mme Surprise I	Sorpresa 1
+SKILLNAME_ACC_157	Ms. Surprise II	Ms.サプライズⅡ	Ms.Surprise Ⅱ	Ms.Surprise II	Ms.서프라이즈II	Überraschung II	Doña Sorpresa II	Mme Surprise II	Sorpresa 2
+SKILLNAME_ACC_158	Ms. Surprise III	Ms.サプライズⅢ	Ms.Surprise Ⅲ	Ms.Surprise III	Ms.서프라이즈III	Überraschung III	Doña Sorpresa III	Mme Surprise III	Sorpresa 3
+SKILLNAME_ACC_159	Ms. Surprise<tags=''34''g=''1'' id=''BlackStar''>	Ms.サプライズ★	Ms.Surprise ★	Ms.Surprise★	Ms.서프라이즈★	Überraschung <tags=''34''g=''1'' id=''BlackStar''>	Doña Sorpresa <tags=''34''g=''1'' id=''BlackStar''>	Mme Surprise <tags=''34''g=''1'' id=''BlackStar''>	Sorpresa <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_160	Gunfire Arcana I	銃撃MPダウンⅠ	枪击MP消耗降低Ⅰ	槍擊MP降低I	총격 MP 감소I	Schuss-Arkana I	Arcana de armas I	Réd. PM arme I	Arcana armi 1
+SKILLNAME_ACC_161	Gunfire Arcana II	銃撃MPダウンⅡ	枪击MP消耗降低Ⅱ	槍擊MP降低II	총격 MP 감소II	Schuss-Arkana II	Arcana de armas II	Réd. PM arme II	Arcana armi 2
+SKILLNAME_ACC_162	Gunfire Arcana III	銃撃MPダウンⅢ	枪击MP消耗降低Ⅲ	槍擊MP降低III	총격 MP 감소III	Schuss-Arkana III	Arcana de armas III	Réd. PM arme III	Arcana armi 3
+SKILLNAME_ACC_163	Gunfire Arcana<tags=''34''g=''1'' id=''BlackStar''>	銃撃MPダウン★	枪击MP消耗降低★	槍擊MP降低★	총격 MP 감소★	Schuss-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana de armas <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM arme <tags=''34''g=''1'' id=''BlackStar''>	Arcana armi <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_164	Gunfire Boost I	銃撃ブースターⅠ	枪击强化Ⅰ	槍擊強化I	총격 부스터I	Schuss-Boost I	Potencia arma I	Boost d'arme I	Potenzia armi 1
+SKILLNAME_ACC_165	Gunfire Boost II	銃撃ブースターⅡ	枪击强化Ⅱ	槍擊強化II	총격 부스터II	Schuss-Boost II	Potencia arma II	Boost d'arme II	Potenzia armi 2
+SKILLNAME_ACC_166	Gunfire Boost III	銃撃ブースターⅢ	枪击强化Ⅲ	槍擊強化III	총격 부스터III	Schuss-Boost III	Potencia arma III	Boost d'arme III	Pot. armi da fuoco 3
+SKILLNAME_ACC_167	Gunfire Boost<tags=''34''g=''1'' id=''BlackStar''>	銃撃ブースター★	枪击强化★	槍擊強化★	총격 부스터★	Schuss-Boost <tags=''34''g=''1'' id=''BlackStar''>	Potencia arma <tags=''34''g=''1'' id=''BlackStar''>	Boost d'arme <tags=''34''g=''1'' id=''BlackStar''>	Potenzia armi <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_168	Duplicator I	デュプリケータⅠ	复制器Ⅰ	拷貝器I	듀플리케이터I	Verdopplung I	Duplicador I	Duplicateur I	Guai doppi 1
+SKILLNAME_ACC_169	Duplicator II	デュプリケータⅡ	复制器Ⅱ	拷貝器II	듀플리케이터II	Verdopplung II	Duplicador II	Duplicateur II	Guai doppi 2
+SKILLNAME_ACC_170	Duplicator III	デュプリケータⅢ	复制器Ⅲ	拷貝器III	듀플리케이터III	Verdopplung III	Duplicador III	Duplicateur III	Guai doppi 3
+SKILLNAME_ACC_171	Duplicator<tags=''34''g=''1'' id=''BlackStar''>	デュプリケータ★	复制器★	拷貝器★	듀플리케이터★	Verdopplung <tags=''34''g=''1'' id=''BlackStar''>	Duplicador <tags=''34''g=''1'' id=''BlackStar''>	Duplicateur <tags=''34''g=''1'' id=''BlackStar''>	Guai doppi <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_172	Chandler I	チャンドラーⅠ	钱德勒Ⅰ	錢德勒I	챈들러I	Chandler I	Chandler I	Chandler I	Chandler 1
+SKILLNAME_ACC_173	Chandler II	チャンドラーⅡ	钱德勒Ⅱ	錢德勒II	챈들러II	Chandler II	Chandler II	Chandler II	Chandler 2
+SKILLNAME_ACC_174	Chandler III	チャンドラーⅢ	钱德勒Ⅲ	錢德勒III	챈들러III	Chandler III	Chandler III	Chandler III	Chandler 3
+SKILLNAME_ACC_175	Chandler<tags=''34''g=''1'' id=''BlackStar''>	チャンドラー★	钱德勒★	錢德勒★	챈들러★	Chandler <tags=''34''g=''1'' id=''BlackStar''>	Chandler <tags=''34''g=''1'' id=''BlackStar''>	Chandler <tags=''34''g=''1'' id=''BlackStar''>	Chandler <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_ACC_176	Pick-Me-Up I	ヒロえもんⅠ	捡宝A梦Ⅰ	拾衛門I	러키에몽I	Sammelwut I	Tónico I	Tonus I	Scoperta 1
+SKILLNAME_ACC_177	Pick-Me-Up II	ヒロえもんⅡ	捡宝A梦Ⅱ	拾衛門II	러키에몽II	Sammelwut II	Tónico II	Tonus II	Scoperta 2
+SKILLNAME_ACC_178	Pick-Me-Up III	ヒロえもんⅢ	捡宝A梦Ⅲ	拾衛門III	러키에몽III	Sammelwut III	Tónico III	Tonus III	Scoperta 3
+SKILLNAME_ACC_179	Pick-Me-Up<tags=''34''g=''1'' id=''BlackStar''>	ヒロえもん★	捡宝A梦★	拾衛門★	러키에몽★	Sammelwut <tags=''34''g=''1'' id=''BlackStar''>	Tónico <tags=''34''g=''1'' id=''BlackStar''>	Tonus <tags=''34''g=''1'' id=''BlackStar''>	Scoperta <tags=''34''g=''1'' id=''BlackStar''>
+SKILLNAME_SYS_200	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_SYS_201	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_SYS_202	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_SYS_203	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_SYS_204	Attack	アタック	普通攻击	攻擊	공격	Angriff	Atacar	Attaquer	Attacco
+SKILLNAME_SYS_300	Sabbath	サバト	魔宴	魔宴	사바트	Dämonentanz	Sabbat	Conjuration	Tregenda
+SKILLNAME_SYS_500	Haoma's Cup	ハオマの盃	豪摩之盏	豪馬的酒杯	하오마의 잔	Haomas Kelch	Taza de Haoma	Coupe de Haoma	Tazza di Haoma
+SKILLNAME_SYS_501	瘴気	瘴気	瘴气	瘴氣	독기	瘴気	瘴気	瘴気	瘴気
+SKILLNAME_SYS_502	捕食（ゼノン用）	捕食（ゼノン用）	捕食（芝诺用）	獵食（Zenon專用）	포식(제논용)	捕食（ゼノン用）	捕食（ゼノン用）	捕食（ゼノン用）	捕食（ゼノン用）
+SKILLNAME_SYS_503	ナナ用瘴気	ナナ用瘴気	七奈用瘴气	七奈專用瘴氣	나나용 독기	ナナ用瘴気	ナナ用瘴気	ナナ用瘴気	ナナ用瘴気
+SKILLNAME_SYS_504	SYS予備1	SYS予備1	SYS预备1	SYS備用1	SYS 예비 1	SYS予備1	SYS予備1	SYS予備1	SYS予備1
+SKILLNAME_SYS_505	SYS予備2	SYS予備2	SYS预备2	SYS備用2	SYS 예비 2	SYS予備2	SYS予備2	SYS予備2	SYS予備2
+SKILLNAME_SYS_506	SYS予備3	SYS予備3	SYS预备3	SYS備用3	SYS 예비 3	SYS予備3	SYS予備3	SYS予備3	SYS予備3
+SKILLNAME_SYS_507	SYS予備4	SYS予備4	SYS预备4	SYS備用4	SYS 예비 4	SYS予備4	SYS予備4	SYS予備4	SYS予備4
+SKILLNAME_SYS_508	SYS予備5	SYS予備5	SYS预备5	SYS備用5	SYS 예비 5	SYS予備5	SYS予備5	SYS予備5	SYS予備5
+SKILLNAME_SYS_509	SYS予備6	SYS予備6	SYS预备6	SYS備用6	SYS 예비 6	SYS予備6	SYS予備6	SYS予備6	SYS予備6
+SKILLNAME_MAP_000	Traesto	トラエスト	特拉埃斯特	特拉艾斯托	트라에스트	Traesto	Traesto	Traesto	Traesto
+SKILLNAME_MAP_001	Slowma	スロウマ	斯洛乌玛	斯洛馬	슬로우마	Trägma	Lentima	Ralenti	Slowma
+SKILLNAME_MAP_002	Coercive Glare	威圧の眼光	威慑的视线	威壓的視線	위압의 안광	Beugender Blick	Mirada represora	Regard coercitif	Sguardo coercitivo
+SKILLNAME_MAP_003	Estoma	エストマ	艾斯托玛	艾斯托瑪	에스트마	Estoma	Estoma	Estoma	Estoma
+SKILLNAME_MAP_004	Riberama	リベラマ	利悖拉玛	利悖拉瑪	리베라마	Riberama	Riberama	Riberama	Riberama
+SKILLNAME_MAP_005	Assassin's Steps	暗殺者の歩調	刺客的步调	暗殺者的步調	암살자의 걸음	Assassinenschritt	Pasos de asesino	Pas de l'assassin	Passi assassini
+SKILLNAME_MAP_006	Overdrive	オーバードライブ	超频驱动	超速移動	오버드라이브	Overdrive	Imparable	Surrégime	Iperattività
+SKILLNAME_EXP_000	Adept Healer	癒やしの達人	治疗专家	治療專家	치유의 달인	Heilungsmeister	Experto sanador	Maître soigneur	Leader curativo
+SKILLNAME_EXP_001	Treasure Hunter	トレジャーハンター	宝物猎人	尋寶獵人	트레저 헌터	Schatzjäger	Cazatesoros	Chasseur au trésor	Caccia al tesoro
+SKILLNAME_EXP_002	Fundraiser	資金調達	资金调配	資金調度	자금 조달	Geldbeschaffer	Colecta	Collecte de fonds	Raccolta fondi
+SKILLNAME_EXP_003	Appraisal	目利き	鉴宝高手	行家慧眼	감정	Begutachtung	Tasación	Identification	Estimazione
+SKILLNAME_EXP_004	Freelancer's Wit	フリーランスの処世術	自由职业的处世之道	自由業者的處世之道	프리랜서의 처세술	Expertise	Ingenio solitario	Savoir-faire indé	Spirito indipendente
+SKILLNAME_EXP_100	青リンゴのシードル	青リンゴのシードル				青リンゴのシードル	青リンゴのシードル	青リンゴのシードル	青リンゴのシードル
+SKILLNAME_EXP_101	Vitamin Spaghetti	体力活性スパゲティ				体力活性スパゲティ	体力活性スパゲティ	体力活性スパゲティ	体力活性スパゲティ
+SKILLNAME_EXP_102	Negoti-ale	ネゴシエール				ネゴシエール	ネゴシエール	ネゴシエール	ネゴシエール
+SKILLNAME_EXP_103	Philanthropic Shoyu Ramen	博愛醤油らあめん				博愛醤油らあめん	博愛醤油らあめん	博愛醤油らあめん	博愛醤油らあめん
+SKILLNAME_EXP_104	Critical Boscaiola	会心のボスカイオーラ				会心のボスカイオーラ	会心のボスカイオーラ	会心のボスカイオーラ	会心のボスカイオーラ
+SKILLNAME_EXP_105	Humble Mushroom Rice Porridge	まごころキノコ雑炊				まごころキノコ雑炊	まごころキノコ雑炊	まごころキノコ雑炊	まごころキノコ雑炊
+SKILLNAME_EXP_106	Purity Shio Ramen	純真塩らあめん				純真塩らあめん	純真塩らあめん	純真塩らあめん	純真塩らあめん
+SKILLNAME_EXP_107	Beginner Bianca	初心のビアンカ				初心のビアンカ	初心のビアンカ	初心のビアンカ	初心のビアンカ
+SKILLNAME_EXP_108	Farm-raised Eelburger	養殖うなぎバーガー				養殖うなぎバーガー	養殖うなぎバーガー	養殖うなぎバーガー	養殖うなぎバーガー
+SKILLNAME_EXP_109	Chakra Flan	チャクラプリン				チャクラプリン	チャクラプリン	チャクラプリン	チャクラプリン
+SKILLNAME_EXP_110	イン･サイダー	イン･サイダー				In-Cider	Rica sidra	Cidre d'initié	Sidro
+SKILLNAME_EXP_111	Organic Hydrogen Water	オーガニック水素水				オーガニック水素水	オーガニック水素水	オーガニック水素水	オーガニック水素水
+SKILLNAME_EXP_112	Goma Miso Ramen	護摩味噌らあめん				護摩味噌らあめん	護摩味噌らあめん	護摩味噌らあめん	護摩味噌らあめん
+SKILLNAME_EXP_113	Dexterous Pescatora	早業のペスカトーレ				早業のペスカトーレ	早業のペスカトーレ	早業のペスカトーレ	早業のペスカトーレ
+SKILLNAME_EXP_114	Prayer Bouillabaisse	おいのりブイヤベース				おいのりブイヤベース	おいのりブイヤベース	おいのりブイヤベース	おいのりブイヤベース
+SKILLNAME_EXP_115	Inspiration Macaron	ひらめきマカロン	闪耀马卡龙	靈感馬卡龍	번뜩임의 마카롱	Inspirationsmacaron	Macarrrón inspirador	Macaron stimulant	Macaron ispiratore
+SKILLNAME_EXP_116	Vajra Sara Udon	金剛皿うどん	金刚炒乌冬	硬盤裝炒烏龍麵	금강 접시우동	Vajra Sara Udon	Udon protector	Vajra Sara Udon	Sara udon
+SKILLNAME_EXP_117	Adversity Marinara	逆境のマリナーラ	逆境之玛丽亚娜披萨	逆境義式紅醬	역경의 마리나라	Widrigkeitsmarinara	Marinara adversa	Marinara d'adversité	Marinara fatale
+SKILLNAME_EXP_118	Antibacterial Oyakodon	抗菌仕様の親子丼	无菌亲子盖浇饭	抗菌滑蛋雞肉飯	항균 오야코동	Reinigendes Oyakodon	Oyakodon antiséptico	Oyakodon antibac	Oyakodon antigermi
+SKILLNAME_EXP_119	Dowsing Churros	ダウジングチュロス				ダウジングチュロス	ダウジングチュロス	ダウジングチュロス	ダウジングチュロス
+SKILLNAME_EXP_120	Stealth Camo Salad	ステルス迷彩サラダ				ステルス迷彩サラダ	ステルス迷彩サラダ	ステルス迷彩サラダ	ステルス迷彩サラダ
+SKILLNAME_EXP_121	Spiritual Cold Ramen	霊感冷やし中華				霊感冷やし中華	霊感冷やし中華	霊感冷やし中華	霊感冷やし中華
+SKILLNAME_EXP_122	Featherlight Wonton Ramen	はごろもワンタン麺				はごろもワンタン麺	はごろもワンタン麺	はごろもワンタン麺	はごろもワンタン麺
+SKILLNAME_EXP_123	Aim Bambino	命中のバンビーノ				命中のバンビーノ	命中のバンビーノ	命中のバンビーノ	命中のバンビーノ
+SKILLNAME_EXP_124	Demon Dew	アクマエリアス				アクマエリアス	アクマエリアス	アクマエリアス	アクマエリアス
+SKILLNAME_EXP_125	Greedy Babaocai	よくばり八宝菜				よくばり八宝菜	よくばり八宝菜	よくばり八宝菜	よくばり八宝菜
+SKILLNAME_EXP_126	Lively Apple Pie	にぎやかアップルパイ				にぎやかアップルパイ	にぎやかアップルパイ	にぎやかアップルパイ	にぎやかアップルパイ
+SKILLNAME_EXP_127	精進つけ麺	精進つけ麺				精進つけ麺	精進つけ麺	精進つけ麺	精進つけ麺
+SKILLNAME_EXP_128	豊穣のハワイアン	豊穣のハワイアン				豊穣のハワイアン	豊穣のハワイアン	豊穣のハワイアン	豊穣のハワイアン
+SKILLNAME_EXP_129	当たりつき中華まん	当たりつき中華まん				当たりつき中華まん	当たりつき中華まん	当たりつき中華まん	当たりつき中華まん
+SKILLNAME_EXP_130	約束のミルフィーユ	約束のミルフィーユ				約束のミルフィーユ	約束のミルフィーユ	約束のミルフィーユ	約束のミルフィーユ
+SKILLNAME_EXP_131	憧れの東京プレート	憧れの東京プレート				憧れの東京プレート	憧れの東京プレート	憧れの東京プレート	憧れの東京プレート
+SKILLNAME_EXP_132	サンチョの焼きいも	サンチョの焼きいも				サンチョの焼きいも	サンチョの焼きいも	サンチョの焼きいも	サンチョの焼きいも
+SKILLNAME_GIF_000	Cocytus	コキュートス	悲叹冥河	悲嘆冥河	코퀴토스	Kokytos	Cocito	Cocyte	Cocito
+SKILLNAME_GIF_001	Sanjiva	等活地獄	等活地狱	等活地獄	등활지옥	Sanjiva	Sanjiva	Sanjiva	Sanjiva
+SKILLNAME_GIF_002	Muspelheim	ムスペルヘイム	穆斯贝尔海姆	穆斯貝爾海姆	무스펠헤임	Muspellsheim	Muspelheim	Muspelheim	Múspellsheimr
+SKILLNAME_GIF_003	Perun's Strike	ペルーンの雷	霹隆之雷	霹隆之雷	페룬의 번개	Peruns Schlag	Rayo de Perún	Frappe de Perun	Fulmine di Perun

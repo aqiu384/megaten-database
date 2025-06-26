@@ -1,0 +1,599 @@
+personalityNames:
+- Beast
+- Boy
+- Child
+- Doppel
+- Gain
+- Gal
+- Gentle
+- Heeho
+- Ijin
+- Lady
+- Mad
+- Nemissa
+- Oldbeast
+- Oldman
+- Queen
+- Worker
+- Young
+difficultyData:
+  inputPath: data/table/commontable/temp/tmp/DifficultyTable.asset
+  outputPath: data/table/commontable/tmp/DifficultyTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_Table"]
+  colFormat:
+    m_Difficulty:
+    m_RetryType:
+    m_EnemyHpRevice:
+    m_PartyHealHp:
+    m_PartyHealMp:
+    m_FullAttackSurprise:
+    m_DisableItem:
+    m_Damage_PC:
+    m_Reflect_PC:
+    m_SabbathDamage:
+    m_WeakDamage:
+    m_CriticalDamage:
+    m_Damage_EN:
+    m_Reflect_EN:
+    m_Badstatus_EN:
+    m_Escape:
+    m_EscapeB:
+    m_SneakRatio:
+    m_SurpriseRatio:
+    m_ExpRatio:
+    m_MapEnemySpeed:
+    m_HealRatio:
+    m_MpRatio:
+    m_HitRatio_PC:
+demonData:
+  inputPath: data/table/commontable/temp/tmp/NakamaTable.asset
+  outputPath: data/table/commontable/tmp/NakamaTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    nkmId:
+    m_CharaID:
+    race:
+    nameLabel:
+    commentaryLabel:
+    dispId:
+    dlcEventFlag:
+    baseLV:
+    baseStr:
+    baseInt:
+    baseVit:
+    baseAgi:
+    baseLuk:
+    growthStr:
+    growthInt:
+    growthVit:
+    growthAgi:
+    growthLuk:
+    EW_Physical_WeakType:
+    EW_Physical_EndureValue:
+    EW_Gun_WeakType:
+    EW_Gun_EndureValue:
+    EW_Fire_WeakType:
+    EW_Fire_EndureValue:
+    EW_Ice_WeakType:
+    EW_Ice_EndureValue:
+    EW_Thunder_WeakType:
+    EW_Thunder_EndureValue:
+    EW_Wind_WeakType:
+    EW_Wind_EndureValue:
+    EW_All_WeakType:
+    EW_All_EndureValue:
+    EW_Bst_WeakType:
+    EW_Bst_EndureValue:
+    LearnLv01:
+    LearnLv02:
+    LearnLv03:
+    LearnLv04:
+    LearnLv05:
+    LearnLv06:
+    Skill1_Id:
+    Skill2_Id:
+    Skill3_Id:
+    Skill4_Id:
+    Skill5_Id:
+    Skill6_Id:
+    m_InheritType:
+    ManaChangeType1:
+    ManaChangeWeight1:
+    ManaChangeType2:
+    ManaChangeWeight2:
+    ManaChangeType3:
+    ManaChangeWeight3:
+    ManaChangeType4:
+    ManaChangeWeight4:
+    UniteOpenFlag:
+    Price:
+    DevilTone:
+    DevilVoice:
+    patchFlag:
+dropData:
+  inputPath: data/table/commontable/temp/tmp/DropItemTable.asset
+  outputPath: data/table/commontable/tmp/DropItemTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_Table"]
+  colFormat:
+    m_DropID:
+    m_JudgeNum:
+    m_FixItem00:
+    m_FixNum00:
+    m_FixItem01:
+    m_FixNum01:
+    m_FixItem02:
+    m_FixNum02:
+    m_FixItem03:
+    m_FixNum03:
+    m_FixExp:
+    m_DropItem00:
+    m_DropPer00:
+    m_StealFlag00:
+    m_DropItem01:
+    m_DropPer01:
+    m_StealFlag01:
+    m_DropItem02:
+    m_DropPer02:
+    m_StealFlag02:
+    m_DropItem03:
+    m_DropPer03:
+    m_StealFlag03:
+    m_DropItem04:
+    m_DropPer04:
+    m_StealFlag04:
+    m_DropItem05:
+    m_DropPer05:
+    m_StealFlag05:
+    m_DropItem06:
+    m_DropPer06:
+    m_StealFlag06:
+    m_DropItem07:
+    m_DropPer07:
+    m_StealFlag07:
+    m_DropItem08:
+    m_DropPer08:
+    m_StealFlag08:
+    m_DropItem09:
+    m_DropPer09:
+    m_StealFlag09:
+enemyData:
+  inputPath: data/table/commontable/temp/tmp/EnemyTable.asset
+  outputPath: data/table/commontable/tmp/EnemyTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_Table"]
+  colFormat:
+    m_EnemyID:
+    m_CharaID:
+    m_NkmID:
+    m_NameLabel:
+    m_WeaponRID:
+    m_WeaponLID:
+    m_ModelScale:
+    m_EffectScale:
+    m_AiID:
+    m_Level:
+    m_EnemyBaseHp:
+    m_EnemyBaseMp:
+    m_EnemyBaseStr:
+    m_EnemyBaseInt:
+    m_EnemyBaseVit:
+    m_EnemyBaseAgi:
+    m_EnemyBaseLuk:
+    m_Rune:
+    m_GunAttr:
+    m_GunParam:
+    m_PhysicalAttr:
+    m_PhysicalParam:
+    m_FireAttr:
+    m_FireParam:
+    m_IceAttr:
+    m_IceParam:
+    m_ThunderAttr:
+    m_ThunderParam:
+    m_ZanAttr:
+    m_ZanParam:
+    m_BstAttr:
+    m_BstParam:
+    m_BannouAttr:
+    m_BannouParam:
+    m_NormalAttackID:
+    m_Exp:
+    m_Money:
+    m_BulletExp:
+    m_Drop:
+    m_Sexuality:
+    m_Speciality:
+    m_CmpFlag_RegistLibrary:
+    m_BtlFlag_NoPursuit:
+    m_BtlFlag_NoInterrupt:
+    m_BtlFlag_KneeDead:
+    m_BtlFlag_NoDying:
+    m_BtlFlag_StuckDead:
+    m_BtlFlag_LastStand:
+    m_BtlFlag_HideLevel:
+    m_ActCount:
+    m_DevilTone:
+    m_DevilVoice:
+    m_SaveDataID:
+    m_IsMatEmissionColor:
+    m_MatEmissionColorR:
+    m_MatEmissionColorG:
+    m_MatEmissionColorB:
+    m_MatEmissionColorA:
+partyGrowthData:
+  inputPath: data/table/commontable/temp/tmp/GrowParam.asset
+  outputPath: data/table/commontable/tmp/GrowParam.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    charId:
+    baseLV:
+    baseHp:
+    baseMp:
+    baseStr:
+    baseInt:
+    baseVit:
+    baseAgi:
+    baseLuk:
+    growthHp:
+    growthMp:
+    growthStr:
+    growthInt:
+    growthVit:
+    growthAgi:
+    growthLuk:
+    attackSkillId:
+    firstAcs:
+    firstCos:
+    firstManaSlotNum:
+    firstCompAttack:
+    firstNakama:
+accessoryData:
+  inputPath: data/table/commontable/temp/tmp/itemTableAcs.asset
+  outputPath: data/table/commontable/tmp/itemTableAcs.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    sortId:
+    icon:
+    haveMax:
+    flag:
+    buyMoney:
+    sellMoney:
+    isNotBuy:
+    isNotSell:
+    isLimited:
+    resaleCount:
+    resaleCountMax:
+    lineupFlag1:
+    lineupFlag2:
+    lineupFlag3:
+    category:
+    guard:
+    hp:
+    mp:
+    Str:
+    Int:
+    Vit:
+    Agi:
+    Luk:
+    buffType:
+    skillId:
+    equipFlag:
+    isGuardChangeByLv:
+costumeData:
+  inputPath: data/table/commontable/temp/tmp/itemTableCos.asset
+  outputPath: data/table/commontable/tmp/itemTableCos.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    sortId:
+    icon:
+    haveMax:
+    flag:
+    buyMoney:
+    sellMoney:
+    isNotBuy:
+    isNotSell:
+    isLimited:
+    resaleCount:
+    resaleCountMax:
+    lineupFlag1:
+    lineupFlag2:
+    lineupFlag3:
+    equipFlag:
+    dressNum:
+    battleBgmId:
+    resultBgmId:
+keyItemData:
+  inputPath: data/table/commontable/temp/tmp/itemTableKey.asset
+  outputPath: data/table/commontable/tmp/itemTableKey.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    sortId:
+    icon:
+    haveMax:
+    flag:
+    buyMoney:
+    sellMoney:
+    isNotBuy:
+    isNotSell:
+    isLimited:
+    resaleCount:
+    resaleCountMax:
+    lineupFlag1:
+    lineupFlag2:
+    lineupFlag3:
+    getFlag:
+mistiqueData:
+  inputPath: data/table/commontable/temp/tmp/itemTableMana.asset
+  outputPath: data/table/commontable/tmp/itemTableMana.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    sortId:
+    icon:
+    haveMax:
+    flag:
+    buyMoney:
+    sellMoney:
+    isNotBuy:
+    isNotSell:
+    isLimited:
+    resaleCount:
+    resaleCountMax:
+    lineupFlag1:
+    lineupFlag2:
+    lineupFlag3:
+    category:
+    rank:
+    skillId:
+    uniqueId:
+    equipFlag:
+    buyManaMoney:
+    sellManaMoney:
+materialData:
+  inputPath: data/table/commontable/temp/tmp/itemTableMat.asset
+  outputPath: data/table/commontable/tmp/itemTableMat.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    sortId:
+    icon:
+    haveMax:
+    flag:
+    buyMoney:
+    sellMoney:
+    isNotBuy:
+    isNotSell:
+    isLimited:
+    resaleCount:
+    resaleCountMax:
+    lineupFlag1:
+    lineupFlag2:
+    lineupFlag3:
+    mapPlaceId1:
+    mapAreaId1:
+    mapSubAreaId1:
+    mapPlaceId2:
+    mapAreaId2:
+    mapSubAreaId2:
+    enemyId1:
+    enemyId2:
+    mapDirectMessageLabel:
+    enemyDirectMessageLabel:
+    otherDirectMessageLabel:
+mealData:
+  inputPath: data/table/commontable/temp/tmp/itemTableMeal.asset
+  outputPath: data/table/commontable/tmp/itemTableMeal.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    sortId:
+    icon:
+    haveMax:
+    flag:
+    buyMoney:
+    sellMoney:
+    isNotBuy:
+    isNotSell:
+    isLimited:
+    resaleCount:
+    resaleCountMax:
+    lineupFlag1:
+    lineupFlag2:
+    lineupFlag3:
+    skillId:
+    likeAdjust:
+    dislikeAdjust:
+    like1:
+    like2:
+    like3:
+    like4:
+    like5:
+    presentChrId:
+    presentFriendship:
+    needDevelopItemId1:
+    needDevelopItemId2:
+    presentOnFlag:
+    nanaMetFlag:
+consumableData:
+  inputPath: data/table/commontable/temp/tmp/itemTableUse.asset
+  outputPath: data/table/commontable/tmp/itemTableUse.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    sortId:
+    icon:
+    haveMax:
+    flag:
+    buyMoney:
+    sellMoney:
+    isNotBuy:
+    isNotSell:
+    isLimited:
+    resaleCount:
+    resaleCountMax:
+    lineupFlag1:
+    lineupFlag2:
+    lineupFlag3:
+    skillId:
+mistiqueChangeDrops:
+  inputPath: data/table/commontable/temp/tmp/ManaChangeRankTable.asset
+  outputPath: data/table/commontable/tmp/ManaChangeRankTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_param"]
+  colFormat:
+    rankType:
+    itemId1:
+    itemWeight1:
+    itemId2:
+    itemWeight2:
+    itemId3:
+    itemWeight3:
+    itemId4:
+    itemWeight4:
+    itemId5:
+    itemWeight5:
+    itemId6:
+    itemWeight6:
+    itemId7:
+    itemWeight7:
+    itemId8:
+    itemWeight8:
+mistiqueChangeTypes:
+  inputPath: data/table/commontable/temp/tmp/ManaChangeTable.asset
+  outputPath: data/table/commontable/tmp/ManaChangeTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_param"]
+  colFormat:
+    changeType:
+    rankTypeE:
+    rankTypeD:
+    rankTypeC:
+    rankTypeB:
+    rankTypeA:
+    rankTypeS:
+    rankTypeSS:
+skillEffectData:
+  inputPath: data/table/commontable/temp/tmp/SkillEffectTable.asset
+  outputPath: data/table/commontable/tmp/SkillEffectTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_Table"]
+  colFormat:
+    m_SkillEffectID:
+    m_EffectType:
+    m_Number00:
+    m_Number01:
+    m_Number02:
+    m_Number03:
+    m_Number04:
+    m_Number05:
+    m_Number06:
+    m_Number07:
+    m_Filter:
+    m_InfoPlay:
+    m_Text0:
+    m_Text1:
+    m_ConflictEffectType:
+inheritTypes:
+  inputPath: data/table/commontable/temp/tmp/SkillInheritTable.asset
+  outputPath: data/table/commontable/tmp/SkillInheritTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_SkillInheritData"]
+  colFormat:
+    m_InheritType:
+    m_IsInheritFix:
+    m_IsInheritPhysics:
+    m_IsInheritGun:
+    m_IsInheritFire:
+    m_IsInheritIce:
+    m_IsInheritThunder:
+    m_IsInheritImpact:
+    m_IsInheritBadstatus:
+    m_IsInheritAll:
+    m_IsInheritHeal:
+    m_IsInheritBuffNerf:
+    m_IsInheritChase:
+skillData:
+  inputPath: data/table/commontable/temp/tmp/SkillTable.asset
+  outputPath: data/table/commontable/tmp/SkillTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_SkillList"]
+  colFormat:
+    m_SkillID:
+    m_NameLabel:
+    m_InfoLabel:
+    m_Category:
+    m_SkIcon:
+    m_EncodeNeedValue:
+    m_SkType:
+    m_SkArea:
+    m_SkAction:
+    m_SkAttr:
+    m_SkDammage:
+    m_HitRatio:
+    m_TargetType:
+    m_TargetMin:
+    m_TargetMax:
+    m_TargetRule:
+    m_LifeType:
+    m_LifeValue:
+    m_MapIsUse_Field:
+    m_MapIsUse_Dungeon:
+    m_MapIsUse_Ringo:
+    m_MapIsUse_AccessMap:
+    m_CostType:
+    m_CostValue:
+    m_HpRefParam:
+    m_HpRefValue:
+    m_MpRefParam:
+    m_MpRefValue:
+    m_SkillEffID00:
+    m_SkillEffID01:
+    m_SkillEffID02:
+    m_SkillEffID03:
+    m_SkillEffID04:
+    m_EffIdx00:
+    m_EffIdx01:
+    m_EffIdx02:
+    m_EffIdx03:
+    m_EffIdx04:
+    m_InheritCategory:
+    m_SkillValue:
+    m_DrawingCoefficient:
+    m_TextLabel:
+    m_ParamSkillID:
+    m_ChangeFlag:
+    m_SortID:
+    m_IsAssist:
+    m_Flag:
+    m_DemoID:
+    m_ScreenEffectR:
+    m_ScreenEffectG:
+    m_ScreenEffectB:
+    m_ScreenEffectA:
+compMistiqueRanks:
+  inputPath: data/table/commontable/temp/tmp/WeaponCustomManaLevelTable.asset
+  outputPath: data/table/commontable/tmp/WeaponCustomManaLevelTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_param"]
+  colFormat:
+    charaId:
+    category:
+    value0:
+    value1:
+    value2:
+    value3:
+    value4:
+    value5:
+    value6:
+compUpgrades:
+  inputPath: data/table/commontable/temp/tmp/WeaponCustomTable.asset
+  outputPath: data/table/commontable/tmp/WeaponCustomTable.tsv
+  rowLocationNesting: ["MonoBehaviour", "m_param"]
+  colFormat:
+    id:
+    enabled:
+    nameLabel:
+    infoLabel:
+    charaId:
+    customCategory:
+    customValue:
+    skillId:
+    price:
+    conditionCustomId:
+    iconId:
+    costItemId1:
+    costItemNum1:
+    costItemId2:
+    costItemNum2:
+    costItemId3:
+    costItemNum3:
+    startFlag:

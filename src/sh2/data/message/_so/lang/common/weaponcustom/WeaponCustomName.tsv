@@ -1,0 +1,336 @@
+id	en	jp	cn	tw	ko	gr	es	fr	it
+NAME_000	ダミー	ダミー	DUMMY	DUMMY	DUMMY	ダミー	ダミー	ダミー	ダミー
+NAME_001	Stock Expansion I	ストック枠拡張Ⅰ	仲魔存储扩张Ⅰ	擴張Stock數I	스톡 슬롯 확장I	Platzerweiterung I	Amp. repertorio I	Expansion I	Riserva extra 1
+NAME_002	Stock Expansion II	ストック枠拡張Ⅱ	仲魔存储扩张Ⅱ	擴張Stock數II	스톡 슬롯 확장II	Platzerweiterung II	Amp. repertorio II	Expansion II	Riserva extra 2
+NAME_003	Stock Expansion III	ストック枠拡張Ⅲ	仲魔存储扩张Ⅲ	擴張Stock數III	스톡 슬롯 확장III	Platzerweiterung III	Amp. repertorio III	Expansion III	Riserva extra 3
+NAME_004	Conversion	コンバート	转换	轉換	컨버트	Umwandeln	Conversión	Conversion	Conversione
+NAME_005	Master Conversion	マスターコンバート	广域转换	主控轉換	마스터 컨버트	Meister-Umwandeln	Conversión maestra	Conversion maître	Conversione totale
+NAME_006	Damage Condenser	ダメージ圧縮	伤害压缩	傷害壓縮	대미지 압축	Schadenslenkung	Acumulador de daño	Compression	Danni condensati
+NAME_007	Shield Deployment	プロテクト展開	防护展开	防護啟動	프로텍트 전개	Schutzschild	Maniobra protectora	Protection	Assetto difensivo
+NAME_008	Overclock	クロックアップ	高速化	時脈提升	클록 업	Übertakten	Sobreaceleración	Surrégime	Overclocking
+NAME_009	Stack Optimization	スタック最適化	堆叠优化	Stack最佳化	스택 최적화	Kombo-Optimierung	Optimizar combo	Optimisation combo	Ottimizza combo
+NAME_010	MP Optimization	MP最適化	MP优化	MP最佳化	MP 최적화	MP-Optimierung	Optimizar PM	Optimisation des PM	Ottimizzazione PM
+NAME_011	Auto-Repair	リカバリー	复原	還原	리커버리	Autom. Erneuerung	Autorreparación	Réparation auto	Recupero
+NAME_012	Ailment Purge	異常摘出	异常摘除	排除異常	이상 적출	Statuseff.-Läuterung	Purga de alteración	Purge d'altération	Purifica alterazione
+NAME_013	Turn Extension	ターン拡張	回合扩张	回合延伸	턴 확장	Zugverlängerung	Ampliar turno	Extension de tour	Estensione supporto
+NAME_014	Reboot	リブート	重启	重新啟動	리부트	Neustart	Reinicio	Redémarrage	Riavvio
+NAME_015	Demon EXP I	仲魔経験値アップⅠ	仲魔经验值提升Ⅰ	仲魔經驗值提升I	동료악마 경험치 업I	Dämonen-ERF I	EXP demoníaca I	EXP démon + I	ESP demoni 1
+NAME_016	Demon EXP II	仲魔経験値アップⅡ	仲魔经验值提升Ⅱ	仲魔經驗值提升II	동료악마 경험치 업II	Dämonen-ERF II	EXP demoníaca II	EXP démon + II	ESP demoni 2
+NAME_017	Demon EXP III	仲魔経験値アップⅢ	仲魔经验值提升Ⅲ	仲魔經驗值提升III	동료악마 경험치 업III	Dämonen-ERF III	EXP demoníaca III	EXP démon + III	ESP demoni 3
+NAME_101	ATK+3	攻撃力+3	攻击力+3	攻擊力+3	공격력+3	ANG+3	ATQ+3	ATQ+3	ATT +3
+NAME_102	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_103	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_104	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_105	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_106	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_107	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_108	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_109	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_110	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_111	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_112	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_113	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_114	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_115	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_116	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_117	Mistique Slot Install	魔晶スロット増設	魔晶槽增设	增設魔晶插槽	마정 슬롯 증설	Arkristall-Steckplatz	Instalar expansión	Installation d'Arc.	Monta slot Magicrist.
+NAME_118	Extra Mistique Slot I	魔晶スロット拡張Ⅰ	魔晶槽扩张Ⅰ	擴張魔晶插槽I	마정 슬롯 확장I	Arkristall-Slot I	Expansión myst. I	Ext d'Arcanyx I	Extra Magicrist. 1
+NAME_119	Extra Mistique Slot II	魔晶スロット拡張Ⅱ	魔晶槽扩张Ⅱ	擴張魔晶插槽II	마정 슬롯 확장II	Arkristall-Slot II	Expansión myst. II	Ext d'Arcanyx II	Extra Magicrist. 2
+NAME_121	Fire Unlock	火炎適性解放	火焰适应性解放	火焰適應性解放	화염 적성 해방	Feuergeschick	Desbloqueo fuego	Affinité feu	Sblocca Fuoco
+NAME_122	Fire Affinity C	火炎適性C	火焰适应性C	火焰適應性C	화염 적성C	Feueraffinität C	Afinidad de fuego C	Affinité feu C	Fuoco C
+NAME_123	Fire Affinity B	火炎適性B	火焰适应性B	火焰適應性B	화염 적성B	Feueraffinität B	Afinidad de fuego B	Affinité feu B	Fuoco B
+NAME_124	Fire Affinity A	火炎適性A	火焰适应性A	火焰適應性A	화염 적성A	Feueraffinität A	Afinidad de fuego A	Affinité feu A	Fuoco A
+NAME_125	Fire Affinity S	火炎適性S	火焰适应性S	火焰適應性S	화염 적성S	Feueraffinität S	Afinidad de fuego S	Affinité feu S	Fuoco S
+NAME_126	Ice Unlock	氷結適性解放	冰冻适应性解放	冰凍適應性解放	빙결 적성 해방	Eisgeschick	Desbloqueo hielo	Affinité glace	Sblocca Ghiaccio
+NAME_127	Ice Affinity C	氷結適性C	冰冻适应性C	冰凍適應性C	빙결 적성C	Eisaffinität C	Afinidad de hielo C	Affinité glace C	Ghiaccio C
+NAME_128	Ice Affinity B	氷結適性B	冰冻适应性B	冰凍適應性B	빙결 적성B	Eisaffinität B	Afinidad de hielo B	Affinité glace B	Ghiaccio B
+NAME_129	Ice Affinity A	氷結適性A	冰冻适应性A	冰凍適應性A	빙결 적성A	Eisaffinität A	Afinidad de hielo A	Affinité glace A	Ghiaccio A
+NAME_130	Ice Affinity S	氷結適性S	冰冻适应性S	冰凍適應性S	빙결 적성S	Eisaffinität S	Afinidad de hielo S	Affinité glace S	Ghiaccio S
+NAME_131	Elec Unlock	電撃適性解放	电击适应性解放	電擊適應性解放	전격 적성 해방	Elektrogeschick	Desbloqueo elec.	Affinité foudre	Sblocca Elettricità
+NAME_132	Elec Affinity C	電撃適性C	电击适应性C	電擊適應性C	전격 적성C	Elektroaffinität C	Afinidad de elec. C	Affinité foudre C	Elettricità C
+NAME_133	Elec Affinity B	電撃適性B	电击适应性B	電擊適應性B	전격 적성B	Elektroaffinität B	Afinidad de elec. B	Affinité foudre B	Elettricità B
+NAME_134	Elec Affinity A	電撃適性A	电击适应性A	電擊適應性A	전격 적성A	Elektroaffinität A	Afinidad de elec. A	Affinité foudre A	Elettricità A
+NAME_135	Elec Affinity S	電撃適性S	电击适应性S	電擊適應性S	전격 적성S	Elektroaffinität S	Afinidad de elec. S	Affinité foudre S	Elettricità S
+NAME_136	Force Unlock	衝撃適性解放	冲击适应性解放	衝擊適應性解放	충격 적성 해방	Kraftgeschick	Desbloqueo fuerza	Affinité choc	Sblocca Forza
+NAME_137	Force Affinity C	衝撃適性C	冲击适应性C	衝擊適應性C	충격 적성C	Kraftaffinität C	Afinidad de fuerza C	Affinité choc C	Forza C
+NAME_138	Force Affinity B	衝撃適性B	冲击适应性B	衝擊適應性B	충격 적성B	Kraftaffinität B	Afinidad de fuerza B	Affinité choc B	Forza B
+NAME_139	Force Affinity A	衝撃適性A	冲击适应性A	衝擊適應性A	충격 적성A	Kraftaffinität A	Afinidad de fuerza A	Affinité choc A	Forza A
+NAME_140	Force Affinity S	衝撃適性S	冲击适应性S	衝擊適應性S	충격 적성S	Kraftaffinität S	Afinidad de fuerza S	Affinité choc S	Forza S
+NAME_141	Ruin Unlock	魔力適性解放	魔力适应性解放	魔力適應性解放	마력 적성 해방	Verderbensgeschick	Desbloqueo ruina	Affinité ruine	Sblocca Rovina
+NAME_142	Ruin Affinity C	魔力適性C	魔力适应性C	魔力適應性C	마력 적성C	Verderbensaff. C	Afinidad ruina C	Affinité ruine C	Rovina C
+NAME_143	Ruin Affinity B	魔力適性B	魔力适应性B	魔力適應性B	마력 적성B	Verderbensaff. B	Afinidad ruina B	Affinité ruine B	Rovina B
+NAME_144	Ruin Affinity A	魔力適性A	魔力适应性A	魔力適應性A	마력 적성A	Verderbensaff. A	Afinidad ruina A	Affinité ruine A	Rovina A
+NAME_145	Ruin Affinity S	魔力適性S	魔力适应性S	魔力適應性S	마력 적성S	Verderbensaff. S	Afinidad ruina S	Affinité ruine S	Rovina S
+NAME_146	Almighty Unlock	万能適性解放	万能适应性解放	萬能適應性解放	만능 적성 해방	Allmachtgeschick	Desbloqueo todop.	Affinité absolue	Sblocca Onnipotente
+NAME_147	Almighty Affinity C	万能適性C	万能适应性C	萬能適應性C	만능 적성C	Allmachtaffinität C	Afinidad todop. C	Affinité absolue C	Onnipotente C
+NAME_148	Almighty Affinity B	万能適性B	万能适应性B	萬能適應性B	만능 적성B	Allmachtaffinität B	Afinidad todop. B	Affinité absolue B	Onnipotente B
+NAME_149	Almighty Affinity A	万能適性A	万能适应性A	萬能適應性A	만능 적성A	Allmachtaffinität A	Afinidad todop. A	Affinité absolue A	Onnipotente A
+NAME_150	Almighty Affinity S	万能適性S	万能适应性S	萬能適應性S	만능 적성S	Allmachtaffinität S	Afinidad todop. S	Affinité absolue S	Onnipotente S
+NAME_151	Healing Unlock	回復適性解放	恢复适应性解放	恢復適應性解放	회복 적성 해방	Heilungsgeschick	Desbl. curativa	Affinité guérison	Sblocca Guarigione
+NAME_152	Healing Affinity C	回復適性C	恢复适应性C	恢復適應性C	회복 적성C	Heilungsaffinität C	Afinidad curativa C	Affinité guérison C	Guarigione C
+NAME_153	Healing Affinity B	回復適性B	恢复适应性B	恢復適應性B	회복 적성B	Heilungsaffinität B	Afinidad curativa B	Affinité guérison B	Guarigione B
+NAME_154	Healing Affinity A	回復適性A	恢复适应性A	恢復適應性A	회복 적성A	Heilungsaffinität A	Afinidad curativa A	Affinité guérison A	Guarigione A
+NAME_155	Healing Affinity S	回復適性S	恢复适应性S	恢復適應性S	회복 적성S	Heilungsaffinität S	Afinidad curativa S	Affinité guérison S	Guarigione S
+NAME_156	Support Unlock	補助適性解放	辅助适应性解放	輔助適應性解放	보조 적성 해방	Unterst.-Geschick	Desbloqueo apoyo	Affinité soutien	Sblocca Supporto
+NAME_157	Support Affinity C	補助適性C	辅助适应性C	輔助適應性C	보조 적성C	Unterst.-Affinität C	Afinidad de apoyo C	Affinité soutien C	Supporto C
+NAME_158	Support Affinity B	補助適性B	辅助适应性B	輔助適應性B	보조 적성B	Unterst.-Affinität B	Afinidad de apoyo B	Affinité soutien B	Supporto B
+NAME_159	Support Affinity A	補助適性A	辅助适应性A	輔助適應性A	보조 적성A	Unterst.-Affinität A	Afinidad de apoyo A	Affinité soutien A	Supporto A
+NAME_160	Support Affinity S	補助適性S	辅助适应性S	輔助適應性S	보조 적성S	Unterst.-Affinität S	Afinidad de apoyo S	Affinité soutien S	Supporto S
+NAME_161	Phys Arcana I	物理MPダウンⅠ	物理MP消耗降低Ⅰ	物理MP降低I	물리 MP 감소I	Körp-Arkana I	Arcana físico I	Réd. PM phys I	Arcana PM fisici 1
+NAME_162	Phys Arcana II	物理MPダウンⅡ	物理MP消耗降低Ⅱ	物理MP降低II	물리 MP 감소II	Körp-Arkana II	Arcana físico II	Réd. PM phys II	Arcana PM fisici 2
+NAME_163	Phys Arcana III	物理MPダウンⅢ	物理MP消耗降低Ⅲ	物理MP降低III	물리 MP 감소III	Körp-Arkana III	Arcana físico III	Réd. PM phys III	Arcana PM fisici 3
+NAME_164	Phys Arcana<tags=''34''g=''1'' id=''BlackStar''>	物理MPダウン★	物理MP消耗降低★	物理MP降低★	물리 MP 감소★	Körp-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana físico <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM phys <tags=''34''g=''1'' id=''BlackStar''>	Arcana PM fisici <tags=''34''g=''1'' id=''BlackStar''>
+NAME_165	Phys Boost I	物理ブースターⅠ	物理强化Ⅰ	物理強化I	물리 부스터I	Körp-Boost I	Potencia física I	Boost phys I	Potenzia fisici 1
+NAME_166	Phys Boost II	物理ブースターⅡ	物理强化Ⅱ	物理強化II	물리 부스터II	Körp-Boost II	Potencia física II	Boost phys II	Potenzia fisici 2
+NAME_167	Phys Boost III	物理ブースターⅢ	物理强化Ⅲ	物理強化III	물리 부스터III	Körp-Boost III	Potencia física III	Boost phys III	Potenzia fisici 3
+NAME_168	Phys Boost<tags=''34''g=''1'' id=''BlackStar''>	物理ブースター★	物理强化★	物理強化★	물리 부스터★	Körp-Boost <tags=''34''g=''1'' id=''BlackStar''>	Potencia física <tags=''34''g=''1'' id=''BlackStar''>	Boost phys <tags=''34''g=''1'' id=''BlackStar''>	Potenzia fisici <tags=''34''g=''1'' id=''BlackStar''>
+NAME_169	Warrior's Insight I	モノノフⅠ	武者Ⅰ	武者I	모노노후I	Kriegerstärke I	Saber guerrero I	Perspicacité I	Intuito guerriero 1
+NAME_170	Warrior's Insight II	モノノフⅡ	武者Ⅱ	武者II	모노노후II	Kriegerstärke II	Saber guerrero II	Perspicacité II	Intuito guerriero 2
+NAME_171	Warrior's Insight III	モノノフⅢ	武者Ⅲ	武者III	모노노후III	Kriegerstärke III	Saber guerrero III	Perspicacité III	Intuito guerriero 3
+NAME_172	Warrior's Insight<tags=''34''g=''1'' id=''BlackStar''>	モノノフ★	武者★	武者★	모노노후★	Kriegerstärke <tags=''34''g=''1'' id=''BlackStar''>	Saber guerrero <tags=''34''g=''1'' id=''BlackStar''>	Perspicacité <tags=''34''g=''1'' id=''BlackStar''>	Intuito guerriero <tags=''34''g=''1'' id=''BlackStar''>
+NAME_173	Phys Pierce I	物理貫通Ⅰ	物理贯穿Ⅰ	物理貫穿I	물리 관통I	Körp. Durchbohren I	Perf. física I	Percée phys I	Perforaz. fisici 1
+NAME_174	Phys Pierce II	物理貫通Ⅱ	物理贯穿Ⅱ	物理貫穿II	물리 관통II	Körp. Durchbohren II	Perf. física II	Percée phys II	Perforaz. fisici 2
+NAME_175	Phys Pierce III	物理貫通Ⅲ	物理贯穿Ⅲ	物理貫穿III	물리 관통III	Körp. Durchb. III	Perf. física III	Percée phys III	Perforaz. fisici 3
+NAME_176	Phys Pierce<tags=''34''g=''1'' id=''BlackStar''>	物理貫通★	物理贯穿★	物理貫穿★	물리 관통★	Körp. Durchb. <tags=''34''g=''1'' id=''BlackStar''>	Perf. física <tags=''34''g=''1'' id=''BlackStar''>	Percée phys <tags=''34''g=''1'' id=''BlackStar''>	Perforaz. fisici <tags=''34''g=''1'' id=''BlackStar''>
+NAME_177	Surveillance Scan I	ギボ･アイズⅠ	宜保之眼Ⅰ	疑保之眼I	기보 아이즈I	Kontrollscan I	Inspección I	Surveillance I	Scansione 1
+NAME_178	Surveillance Scan II	ギボ･アイズⅡ	宜保之眼Ⅱ	疑保之眼II	기보 아이즈II	Kontrollscan II	Inspección II	Surveillance II	Scansione 2
+NAME_179	Surveillance Scan III	ギボ･アイズⅢ	宜保之眼Ⅲ	疑保之眼III	기보 아이즈III	Kontrollscan III	Inspección III	Surveillance III	Scansione 3
+NAME_180	Surveillance Scan<tags=''34''g=''1'' id=''BlackStar''>	ギボ･アイズ★	宜保之眼★	疑保之眼★	기보 아이즈★	Kontrollscan <tags=''34''g=''1'' id=''BlackStar''>	Inspección <tags=''34''g=''1'' id=''BlackStar''>	Surveillance <tags=''34''g=''1'' id=''BlackStar''>	Scansione <tags=''34''g=''1'' id=''BlackStar''>
+NAME_181	Meta-Search	メタサーチ	超维度搜寻	整合搜尋	메타 서치	Meta-Suche	Metabúsqueda	Méta-recherche	Metaricerca
+NAME_201	ATK+3	攻撃力+3	攻击力+3	攻擊力+3	공격력+3	ANG+3	ATQ+3	ATQ+3	ATT +3
+NAME_202	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_203	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_204	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_205	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_206	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_207	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_208	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_209	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_210	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_211	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_212	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_213	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_214	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_215	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_216	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_217	Mistique Slot Install	魔晶スロット増設	魔晶槽增设	增設魔晶插槽	마정 슬롯 증설	Arkristall-Steckplatz	Instalar expansión	Installation d'Arc.	Monta slot Magicrist.
+NAME_218	Extra Mistique Slot I	魔晶スロット拡張Ⅰ	魔晶槽扩张Ⅰ	擴張魔晶插槽I	마정 슬롯 확장I	Arkristall-Slot I	Expansión mysteria I	Ext d'Arcanyx I	Extra Magicrist. 1
+NAME_219	Extra Mistique Slot II	魔晶スロット拡張Ⅱ	魔晶槽扩张Ⅱ	擴張魔晶插槽II	마정 슬롯 확장II	Arkristall-Slot II	Expansión mysteria II	Ext d'Arcanyx II	Extra Magicrist. 2
+NAME_221	Fire Unlock	火炎適性解放	火焰适应性解放	火焰適應性解放	화염 적성 해방	Feuergeschick	Desbloqueo fuego	Affinité feu	Sblocca Fuoco
+NAME_222	Fire Affinity C	火炎適性C	火焰适应性C	火焰適應性C	화염 적성C	Feueraffinität C	Afinidad de fuego C	Affinité feu C	Fuoco C
+NAME_223	Fire Affinity B	火炎適性B	火焰适应性B	火焰適應性B	화염 적성B	Feueraffinität B	Afinidad de fuego B	Affinité feu B	Fuoco B
+NAME_224	Fire Affinity A	火炎適性A	火焰适应性A	火焰適應性A	화염 적성A	Feueraffinität A	Afinidad de fuego A	Affinité feu A	Fuoco A
+NAME_225	Fire Affinity S	火炎適性S	火焰适应性S	火焰適應性S	화염 적성S	Feueraffinität S	Afinidad de fuego S	Affinité feu S	Fuoco S
+NAME_226	Ice Unlock	氷結適性解放	冰冻适应性解放	冰凍適應性解放	빙결 적성 해방	Eisgeschick	Desbloqueo hielo	Affinité glace	Sblocca Ghiaccio
+NAME_227	Ice Affinity C	氷結適性C	冰冻适应性C	冰凍適應性C	빙결 적성C	Eisaffinität C	Afinidad de hielo C	Affinité glace C	Ghiaccio C
+NAME_228	Ice Affinity B	氷結適性B	冰冻适应性B	冰凍適應性B	빙결 적성B	Eisaffinität B	Afinidad de hielo B	Affinité glace B	Ghiaccio B
+NAME_229	Ice Affinity A	氷結適性A	冰冻适应性A	冰凍適應性A	빙결 적성A	Eisaffinität A	Afinidad de hielo A	Affinité glace A	Ghiaccio A
+NAME_230	Ice Affinity S	氷結適性S	冰冻适应性S	冰凍適應性S	빙결 적성S	Eisaffinität S	Afinidad de hielo S	Affinité glace S	Ghiaccio S
+NAME_231	Elec Unlock	電撃適性解放	电击适应性解放	電擊適應性解放	전격 적성 해방	Elektrogeschick	Desbloqueo elec.	Affinité foudre	Sblocca Elettricità
+NAME_232	Elec Affinity C	電撃適性C	电击适应性C	電擊適應性C	전격 적성C	Elektroaffinität C	Afinidad de elec. C	Affinité foudre C	Elettricità C
+NAME_233	Elec Affinity B	電撃適性B	电击适应性B	電擊適應性B	전격 적성B	Elektroaffinität B	Afinidad de elec. B	Affinité foudre B	Elettricità B
+NAME_234	Elec Affinity A	電撃適性A	电击适应性A	電擊適應性A	전격 적성A	Elektroaffinität A	Afinidad de elec. A	Affinité foudre A	Elettricità A
+NAME_235	Elec Affinity S	電撃適性S	电击适应性S	電擊適應性S	전격 적성S	Elektroaffinität S	Afinidad de elec. S	Affinité foudre S	Elettricità S
+NAME_236	Force Unlock	衝撃適性解放	冲击适应性解放	衝擊適應性解放	충격 적성 해방	Kraftgeschick	Desbloqueo fuerza	Affinité choc	Sblocca Forza
+NAME_237	Force Affinity C	衝撃適性C	冲击适应性C	衝擊適應性C	충격 적성C	Kraftaffinität C	Afinidad de fuerza C	Affinité choc C	Forza C
+NAME_238	Force Affinity B	衝撃適性B	冲击适应性B	衝擊適應性B	충격 적성B	Kraftaffinität B	Afinidad de fuerza B	Affinité choc B	Forza B
+NAME_239	Force Affinity A	衝撃適性A	冲击适应性A	衝擊適應性A	충격 적성A	Kraftaffinität A	Afinidad de fuerza A	Affinité choc A	Forza A
+NAME_240	Force Affinity S	衝撃適性S	冲击适应性S	衝擊適應性S	충격 적성S	Kraftaffinität S	Afinidad de fuerza S	Affinité choc S	Forza S
+NAME_241	Ruin Unlock	魔力適性解放	魔力适应性解放	魔力適應性解放	마력 적성 해방	Verderbensgeschick	Desbloqueo ruina	Affinité ruine	Sblocca Rovina
+NAME_242	Ruin Affinity C	魔力適性C	魔力适应性C	魔力適應性C	마력 적성C	Verderbensaff. C	Afinidad ruina C	Affinité ruine C	Rovina C
+NAME_243	Ruin Affinity B	魔力適性B	魔力适应性B	魔力適應性B	마력 적성B	Verderbensaff. B	Afinidad ruina B	Affinité ruine B	Rovina B
+NAME_244	Ruin Affinity A	魔力適性A	魔力适应性A	魔力適應性A	마력 적성A	Verderbensaff. A	Afinidad ruina A	Affinité ruine A	Rovina A
+NAME_245	Ruin Affinity S	魔力適性S	魔力适应性S	魔力適應性S	마력 적성S	Verderbensaff. S	Afinidad ruina S	Affinité ruine S	Rovina S
+NAME_246	Almighty Unlock	万能適性解放	万能适应性解放	萬能適應性解放	만능 적성 해방	Allmachtgeschick	Desbloqueo todop.	Affinité absolue	Sblocca Onnipotente
+NAME_247	Almighty Affinity C	万能適性C	万能适应性C	萬能適應性C	만능 적성C	Allmachtaffinität C	Afinidad todop. C	Affinité absolue C	Onnipotente C
+NAME_248	Almighty Affinity B	万能適性B	万能适应性B	萬能適應性B	만능 적성B	Allmachtaffinität B	Afinidad todop. B	Affinité absolue B	Onnipotente B
+NAME_249	Almighty Affinity A	万能適性A	万能适应性A	萬能適應性A	만능 적성A	Allmachtaffinität A	Afinidad todop. A	Affinité absolue A	Onnipotente A
+NAME_250	Almighty Affinity S	万能適性S	万能适应性S	萬能適應性S	만능 적성S	Allmachtaffinität S	Afinidad todop. S	Affinité absolue S	Onnipotente S
+NAME_251	Healing Unlock	回復適性解放	恢复适应性解放	恢復適應性解放	회복 적성 해방	Heilungsgeschick	Desbloqueo curativa	Affinité guérison	Sblocca Guarigione
+NAME_252	Healing Affinity C	回復適性C	恢复适应性C	恢復適應性C	회복 적성C	Heilungsaffinität C	Afinidad curativa C	Affinité guérison C	Guarigione C
+NAME_253	Healing Affinity B	回復適性B	恢复适应性B	恢復適應性B	회복 적성B	Heilungsaffinität B	Afinidad curativa B	Affinité guérison B	Guarigione B
+NAME_254	Healing Affinity A	回復適性A	恢复适应性A	恢復適應性A	회복 적성A	Heilungsaffinität A	Afinidad curativa A	Affinité guérison A	Guarigione A
+NAME_255	Healing Affinity S	回復適性S	恢复适应性S	恢復適應性S	회복 적성S	Heilungsaffinität S	Afinidad curativa S	Affinité guérison S	Guarigione S
+NAME_256	Support Unlock	補助適性解放	辅助适应性解放	輔助適應性解放	보조 적성 해방	Unterst.-Geschick	Desbloqueo apoyo	Affinité soutien	Sblocca Supporto
+NAME_257	Support Affinity C	補助適性C	辅助适应性C	輔助適應性C	보조 적성C	Unterst.-Affinität C	Afinidad de apoyo C	Affinité soutien C	Supporto C
+NAME_258	Support Affinity B	補助適性B	辅助适应性B	輔助適應性B	보조 적성B	Unterst.-Affinität B	Afinidad de apoyo B	Affinité soutien B	Supporto B
+NAME_259	Support Affinity A	補助適性A	辅助适应性A	輔助適應性A	보조 적성A	Unterst.-Affinität A	Afinidad de apoyo A	Affinité soutien A	Supporto A
+NAME_260	Support Affinity S	補助適性S	辅助适应性S	輔助適應性S	보조 적성S	Unterst.-Affinität S	Afinidad de apoyo S	Affinité soutien S	Supporto S
+NAME_261	Gunfire Arcana I	銃撃MPダウンⅠ	枪击MP消耗降低Ⅰ	槍擊MP降低I	총격 MP 감소I	Schuss-Arkana I	Arcana de armas I	Réd. PM arme I	Arcana armi 1
+NAME_262	Gunfire Arcana II	銃撃MPダウンⅡ	枪击MP消耗降低Ⅱ	槍擊MP降低II	총격 MP 감소II	Schuss-Arkana II	Arcana de armas II	Réd. PM arme II	Arcana armi 2
+NAME_263	Gunfire Arcana III	銃撃MPダウンⅢ	枪击MP消耗降低Ⅲ	槍擊MP降低III	총격 MP 감소III	Schuss-Arkana III	Arcana de armas III	Réd. PM arme III	Arcana armi 3
+NAME_264	Gunfire Arcana<tags=''34''g=''1'' id=''BlackStar''>	銃撃MPダウン★	枪击MP消耗降低★	槍擊MP降低★	총격 MP 감소★	Schuss-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana de armas <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM arme <tags=''34''g=''1'' id=''BlackStar''>	Arcana armi <tags=''34''g=''1'' id=''BlackStar''>
+NAME_265	Gunfire Boost I	銃撃ブースターⅠ	枪击强化Ⅰ	槍擊強化I	총격 부스터I	Schuss-Boost I	Potencia arma I	Boost d'arme I	Potenzia armi 1
+NAME_266	Gunfire Boost II	銃撃ブースターⅡ	枪击强化Ⅱ	槍擊強化II	총격 부스터II	Schuss-Boost II	Potencia arma II	Boost d'arme II	Potenzia armi 2
+NAME_267	Gunfire Boost III	銃撃ブースターⅢ	枪击强化Ⅲ	槍擊強化III	총격 부스터III	Schuss-Boost III	Potencia arma III	Boost d'arme III	Potenzia armi 3
+NAME_268	Gunfire Boost<tags=''34''g=''1'' id=''BlackStar''>	銃撃ブースター★	枪击强化★	槍擊強化★	총격 부스터★	Schuss-Boost <tags=''34''g=''1'' id=''BlackStar''>	Potencia arma <tags=''34''g=''1'' id=''BlackStar''>	Boost d'arme <tags=''34''g=''1'' id=''BlackStar''>	Potenzia armi <tags=''34''g=''1'' id=''BlackStar''>
+NAME_269	Capote I	ハメットⅠ	哈米特Ⅰ	漢密特I	해밋I	Capote I	Capote I	Cape I	Sangue freddo 1
+NAME_270	Capote II	ハメットⅡ	哈米特Ⅱ	漢密特II	해밋II	Capote II	Capote II	Cape II	Sangue freddo 2
+NAME_271	Capote III	ハメットⅢ	哈米特Ⅲ	漢密特III	해밋III	Capote III	Capote III	Cape III	Sangue freddo 3
+NAME_272	Capote<tags=''34''g=''1'' id=''BlackStar''>	ハメット★	哈米特★	漢密特★	해밋★	Capote <tags=''34''g=''1'' id=''BlackStar''>	Capote <tags=''34''g=''1'' id=''BlackStar''>	Cape <tags=''34''g=''1'' id=''BlackStar''>	Sangue freddo <tags=''34''g=''1'' id=''BlackStar''>
+NAME_273	Golden Gun I	我武者羅Ⅰ	你死我活Ⅰ	奮不顧身I	무아지경I	Goldener Colt I	Arma dorada I	Pistolet d'or I	Pistola d'oro 1
+NAME_274	Golden Gun II	我武者羅Ⅱ	你死我活Ⅱ	奮不顧身II	무아지경II	Goldener Colt II	Arma dorada II	Pistolet d'or II	Pistola d'oro 2
+NAME_275	Golden Gun III	我武者羅Ⅲ	你死我活Ⅲ	奮不顧身III	무아지경III	Goldener Colt III	Arma dorada III	Pistolet d'or III	Pistola d'oro 3
+NAME_276	Golden Gun<tags=''34''g=''1'' id=''BlackStar''>	我武者羅★	你死我活★	奮不顧身★	무아지경★	Goldener Colt <tags=''34''g=''1'' id=''BlackStar''>	Arma dorada <tags=''34''g=''1'' id=''BlackStar''>	Pistolet d'or <tags=''34''g=''1'' id=''BlackStar''>	Pistola d'oro <tags=''34''g=''1'' id=''BlackStar''>
+NAME_277	Vigilance I	タリ報Ⅰ	偷袭警报Ⅰ	Tally-Ho I	탈리보I	Wachsamkeit I	Vigilancia I	Vigilance I	Vigilanza 1
+NAME_278	Vigilance II	タリ報Ⅱ	偷袭警报Ⅱ	Tally-Ho II	탈리보II	Wachsamkeit II	Vigilancia II	Vigilance II	Vigilanza 2
+NAME_279	Vigilance III	タリ報Ⅲ	偷袭警报Ⅲ	Tally-Ho III	탈리보III	Wachsamkeit III	Vigilancia III	Vigilance III	Vigilanza 3
+NAME_280	Vigilance<tags=''34''g=''1'' id=''BlackStar''>	タリ報★	偷袭警报★	Tally-Ho★	탈리보★	Wachsamkeit <tags=''34''g=''1'' id=''BlackStar''>	Vigilancia <tags=''34''g=''1'' id=''BlackStar''>	Vigilance <tags=''34''g=''1'' id=''BlackStar''>	Vigilanza <tags=''34''g=''1'' id=''BlackStar''>
+NAME_301	ATK+3	攻撃力+3	攻击力+3	攻擊力+3	공격력+3	ANG+3	ATQ+3	ATQ+3	ATT +3
+NAME_302	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_303	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_304	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_305	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_306	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_307	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_308	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_309	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_310	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_311	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_312	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_313	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_314	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_315	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_316	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_317	Mistique Slot Install	魔晶スロット増設	魔晶槽增设	增設魔晶插槽	마정 슬롯 증설	Arkristall-Steckplatz	Instalar expansión	Installation d'Arc.	Monta slot Magicrist.
+NAME_318	Extra Mistique Slot I	魔晶スロット拡張Ⅰ	魔晶槽扩张Ⅰ	擴張魔晶插槽I	마정 슬롯 확장I	Arkristall-Slot I	Expansión mysteria I	Ext d'Arcanyx I	Extra Magicrist. 1
+NAME_319	Extra Mistique Slot II	魔晶スロット拡張Ⅱ	魔晶槽扩张Ⅱ	擴張魔晶插槽II	마정 슬롯 확장II	Arkristall-Slot II	Expansión mysteria II	Ext d'Arcanyx II	Extra Magicrist. 2
+NAME_321	Fire Unlock	火炎適性解放	火焰适应性解放	火焰適應性解放	화염 적성 해방	Feuergeschick	Desbloqueo fuego	Affinité feu	Sblocca Fuoco
+NAME_322	Fire Affinity C	火炎適性C	火焰适应性C	火焰適應性C	화염 적성C	Feueraffinität C	Afinidad de fuego C	Affinité feu C	Fuoco C
+NAME_323	Fire Affinity B	火炎適性B	火焰适应性B	火焰適應性B	화염 적성B	Feueraffinität B	Afinidad de fuego B	Affinité feu B	Fuoco B
+NAME_324	Fire Affinity A	火炎適性A	火焰适应性A	火焰適應性A	화염 적성A	Feueraffinität A	Afinidad de fuego A	Affinité feu A	Fuoco A
+NAME_325	Fire Affinity S	火炎適性S	火焰适应性S	火焰適應性S	화염 적성S	Feueraffinität S	Afinidad de fuego S	Affinité feu S	Fuoco S
+NAME_326	Ice Unlock	氷結適性解放	冰冻适应性解放	冰凍適應性解放	빙결 적성 해방	Eisgeschick	Desbloqueo hielo	Affinité glace	Sblocca Ghiaccio
+NAME_327	Ice Affinity C	氷結適性C	冰冻适应性C	冰凍適應性C	빙결 적성C	Eisaffinität C	Afinidad de hielo C	Affinité glace C	Ghiaccio C
+NAME_328	Ice Affinity B	氷結適性B	冰冻适应性B	冰凍適應性B	빙결 적성B	Eisaffinität B	Afinidad de hielo B	Affinité glace B	Ghiaccio B
+NAME_329	Ice Affinity A	氷結適性A	冰冻适应性A	冰凍適應性A	빙결 적성A	Eisaffinität A	Afinidad de hielo A	Affinité glace A	Ghiaccio A
+NAME_330	Ice Affinity S	氷結適性S	冰冻适应性S	冰凍適應性S	빙결 적성S	Eisaffinität S	Afinidad de hielo S	Affinité glace S	Ghiaccio S
+NAME_331	Elec Unlock	電撃適性解放	电击适应性解放	電擊適應性解放	전격 적성 해방	Elektrogeschick	Desbloqueo elec.	Affinité foudre	Sblocca Elettricità
+NAME_332	Elec Affinity C	電撃適性C	电击适应性C	電擊適應性C	전격 적성C	Elektroaffinität C	Afinidad de elec. C	Affinité foudre C	Elettricità C
+NAME_333	Elec Affinity B	電撃適性B	电击适应性B	電擊適應性B	전격 적성B	Elektroaffinität B	Afinidad de elec. B	Affinité foudre B	Elettricità B
+NAME_334	Elec Affinity A	電撃適性A	电击适应性A	電擊適應性A	전격 적성A	Elektroaffinität A	Afinidad de elec. A	Affinité foudre A	Elettricità A
+NAME_335	Elec Affinity S	電撃適性S	电击适应性S	電擊適應性S	전격 적성S	Elektroaffinität S	Afinidad de elec. S	Affinité foudre S	Elettricità S
+NAME_336	Force Unlock	衝撃適性解放	冲击适应性解放	衝擊適應性解放	충격 적성 해방	Kraftgeschick	Desbloqueo fuerza	Affinité choc	Sblocca Forza
+NAME_337	Force Affinity C	衝撃適性C	冲击适应性C	衝擊適應性C	충격 적성C	Kraftaffinität C	Afinidad de fuerza C	Affinité choc C	Forza C
+NAME_338	Force Affinity B	衝撃適性B	冲击适应性B	衝擊適應性B	충격 적성B	Kraftaffinität B	Afinidad de fuerza B	Affinité choc B	Forza B
+NAME_339	Force Affinity A	衝撃適性A	冲击适应性A	衝擊適應性A	충격 적성A	Kraftaffinität A	Afinidad de fuerza A	Affinité choc A	Forza A
+NAME_340	Force Affinity S	衝撃適性S	冲击适应性S	衝擊適應性S	충격 적성S	Kraftaffinität S	Afinidad de fuerza S	Affinité choc S	Forza S
+NAME_341	Ruin Unlock	魔力適性解放	魔力适应性解放	魔力適應性解放	마력 적성 해방	Verderbensgeschick	Desbloqueo ruina	Affinité ruine	Sblocca Rovina
+NAME_342	Ruin Affinity C	魔力適性C	魔力适应性C	魔力適應性C	마력 적성C	Verderbensaff. C	Afinidad ruina C	Affinité ruine C	Rovina C
+NAME_343	Ruin Affinity B	魔力適性B	魔力适应性B	魔力適應性B	마력 적성B	Verderbensaff. B	Afinidad ruina B	Affinité ruine B	Rovina B
+NAME_344	Ruin Affinity A	魔力適性A	魔力适应性A	魔力適應性A	마력 적성A	Verderbensaff. A	Afinidad ruina A	Affinité ruine A	Rovina A
+NAME_345	Ruin Affinity S	魔力適性S	魔力适应性S	魔力適應性S	마력 적성S	Verderbensaff. S	Afinidad ruina S	Affinité ruine S	Rovina S
+NAME_346	Almighty Unlock	万能適性解放	万能适应性解放	萬能適應性解放	만능 적성 해방	Allmachtgeschick	Desbloqueo todop.	Affinité absolue	Sblocca Onnipotente
+NAME_347	Almighty Affinity C	万能適性C	万能适应性C	萬能適應性C	만능 적성C	Allmachtaffinität C	Afinidad todop. C	Affinité absolue C	Onnipotente C
+NAME_348	Almighty Affinity B	万能適性B	万能适应性B	萬能適應性B	만능 적성B	Allmachtaffinität B	Afinidad todop. B	Affinité absolue B	Onnipotente B
+NAME_349	Almighty Affinity A	万能適性A	万能适应性A	萬能適應性A	만능 적성A	Allmachtaffinität A	Afinidad todop. A	Affinité absolue A	Onnipotente A
+NAME_350	Almighty Affinity S	万能適性S	万能适应性S	萬能適應性S	만능 적성S	Allmachtaffinität S	Afinidad todop. S	Affinité absolue S	Onnipotente S
+NAME_351	Healing Unlock	回復適性解放	恢复适应性解放	恢復適應性解放	회복 적성 해방	Heilungsgeschick	Desbloqueo curativa	Affinité guérison	Sblocca Guarigione
+NAME_352	Healing Affinity C	回復適性C	恢复适应性C	恢復適應性C	회복 적성C	Heilungsaffinität C	Afinidad curativa C	Affinité guérison C	Guarigione C
+NAME_353	Healing Affinity B	回復適性B	恢复适应性B	恢復適應性B	회복 적성B	Heilungsaffinität B	Afinidad curativa B	Affinité guérison B	Guarigione B
+NAME_354	Healing Affinity A	回復適性A	恢复适应性A	恢復適應性A	회복 적성A	Heilungsaffinität A	Afinidad curativa A	Affinité guérison A	Guarigione A
+NAME_355	Healing Affinity S	回復適性S	恢复适应性S	恢復適應性S	회복 적성S	Heilungsaffinität S	Afinidad curativa S	Affinité guérison S	Guarigione S
+NAME_356	Support Unlock	補助適性解放	辅助适应性解放	輔助適應性解放	보조 적성 해방	Unterst.-Geschick	Desbloqueo apoyo	Affinité soutien	Sblocca Supporto
+NAME_357	Support Affinity C	補助適性C	辅助适应性C	輔助適應性C	보조 적성C	Unterst.-Affinität C	Afinidad de apoyo C	Affinité soutien C	Supporto C
+NAME_358	Support Affinity B	補助適性B	辅助适应性B	輔助適應性B	보조 적성B	Unterst.-Affinität B	Afinidad de apoyo B	Affinité soutien B	Supporto B
+NAME_359	Support Affinity A	補助適性A	辅助适应性A	輔助適應性A	보조 적성A	Unterst.-Affinität A	Afinidad de apoyo A	Affinité soutien A	Supporto A
+NAME_360	Support Affinity S	補助適性S	辅助适应性S	輔助適應性S	보조 적성S	Unterst.-Affinität S	Afinidad de apoyo S	Affinité soutien S	Supporto S
+NAME_361	Phys Arcana I	物理MPダウンⅠ	物理MP消耗降低Ⅰ	物理MP降低I	물리 MP 감소I	Körp-Arkana I	Arcana físico I	Réd. PM phys I	Arcana PM fisici 1
+NAME_362	Phys Arcana II	物理MPダウンⅡ	物理MP消耗降低Ⅱ	物理MP降低II	물리 MP 감소II	Körp-Arkana II	Arcana físico II	Réd. PM phys II	Arcana PM fisici 2
+NAME_363	Phys Arcana III	物理MPダウンⅢ	物理MP消耗降低Ⅲ	物理MP降低III	물리 MP 감소III	Körp-Arkana III	Arcana físico III	Réd. PM phys III	Arcana PM fisici 3
+NAME_364	Phys Arcana<tags=''34''g=''1'' id=''BlackStar''>	物理MPダウン★	物理MP消耗降低★	物理MP降低★	물리 MP 감소★	Körp-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana físico <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM phys <tags=''34''g=''1'' id=''BlackStar''>	Arcana PM fisici <tags=''34''g=''1'' id=''BlackStar''>
+NAME_365	Phys Booster I	物理ブースターⅠ	物理强化Ⅰ	物理強化I	물리 부스터I	Körp-Boost I	Mejora física I	Boost phys I	Potenzia fisici 1
+NAME_366	Phys Booster II	物理ブースターⅡ	物理强化Ⅱ	物理強化II	물리 부스터II	Körp-Boost II	Mejora física II	Boost phys II	Potenzia fisici 2
+NAME_367	Phys Booster III	物理ブースターⅢ	物理强化Ⅲ	物理強化III	물리 부스터III	Körp-Boost III	Mejora física III	Boost phys III	Potenzia fisici 3
+NAME_368	Phys Boost<tags=''34''g=''1'' id=''BlackStar''>	物理ブースター★	物理强化★	物理強化★	물리 부스터★	Körp-Boost <tags=''34''g=''1'' id=''BlackStar''>	Mejora física <tags=''34''g=''1'' id=''BlackStar''>	Boost phys <tags=''34''g=''1'' id=''BlackStar''>	Potenzia fisici <tags=''34''g=''1'' id=''BlackStar''>
+NAME_369	Piercer I	ピアシングⅠ	穿刺Ⅰ	穿刺I	피어싱I	Stich I	Perforadora I	Percée I	Perforazione 1
+NAME_370	Piercer II	ピアシングⅡ	穿刺Ⅱ	穿刺II	피어싱II	Stich II	Perforadora II	Percée II	Perforazione 2
+NAME_371	Piercer III	ピアシングⅢ	穿刺Ⅲ	穿刺III	피어싱III	Stich III	Perforadora III	Percée III	Perforazione 3
+NAME_372	Piercer<tags=''34''g=''1'' id=''BlackStar''>	ピアシング★	穿刺★	穿刺★	피어싱★	Stich <tags=''34''g=''1'' id=''BlackStar''>	Perforadora <tags=''34''g=''1'' id=''BlackStar''>	Percée <tags=''34''g=''1'' id=''BlackStar''>	Perforazione <tags=''34''g=''1'' id=''BlackStar''>
+NAME_373	Harvest I	ハーヴェストⅠ	收获Ⅰ	收割I	하베스트I	Ernte I	Cosecha I	Récolte I	Raccolta 1
+NAME_374	Harvest II	ハーヴェストⅡ	收获Ⅱ	收割II	하베스트II	Ernte II	Cosecha II	Récolte II	Raccolta 2
+NAME_375	Harvest III	ハーヴェストⅢ	收获Ⅲ	收割III	하베스트III	Ernte III	Cosecha III	Récolte III	Raccolta 3
+NAME_376	Harvest<tags=''34''g=''1'' id=''BlackStar''>	ハーヴェスト★	收获★	收割★	하베스트★	Ernte <tags=''34''g=''1'' id=''BlackStar''>	Cosecha <tags=''34''g=''1'' id=''BlackStar''>	Récolter <tags=''34''g=''1'' id=''BlackStar''>	Raccolta <tags=''34''g=''1'' id=''BlackStar''>
+NAME_377	Ms. Surprise I	Ms.サプライズⅠ	Ms.Surprise Ⅰ	Ms.Surprise I	Ms.서프라이즈I	Überraschung I	Doña Sorpresa I	Mme Surprise I	Sorpresa 1
+NAME_378	Ms. Surprise II	Ms.サプライズⅡ	Ms.Surprise Ⅱ	Ms.Surprise II	Ms.서프라이즈II	Überraschung II	Doña Sorpresa II	Mme Surprise II	Sorpresa 2
+NAME_379	Ms. Surprise III	Ms.サプライズⅢ	Ms.Surprise Ⅲ	Ms.Surprise III	Ms.서프라이즈III	Überraschung III	Doña Sorpresa III	Mme Surprise III	Sorpresa 3
+NAME_380	Ms. Surprise<tags=''34''g=''1'' id=''BlackStar''>	Ms.サプライズ★	Ms.Surprise ★	Ms.Surprise★	Ms.서프라이즈★	Überraschung <tags=''34''g=''1'' id=''BlackStar''>	Doña Sorpresa <tags=''34''g=''1'' id=''BlackStar''>	Mme Surprise <tags=''34''g=''1'' id=''BlackStar''>	Sorpresa <tags=''34''g=''1'' id=''BlackStar''>
+NAME_401	ATK+3	攻撃力+3	攻击力+3	攻擊力+3	공격력+3	ANG+3	ATQ+3	ATQ+3	ATT +3
+NAME_402	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_403	ATK+4	攻撃力+4	攻击力+4	攻擊力+4	공격력+4	ANG+4	ATQ+4	ATQ+4	ATT +4
+NAME_404	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_405	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_406	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_407	ATK+5	攻撃力+5	攻击力+5	攻擊力+5	공격력+5	ANG+5	ATQ+5	ATQ+5	ATT +5
+NAME_408	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_409	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_410	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_411	ATK+6	攻撃力+6	攻击力+6	攻擊力+6	공격력+6	ANG+6	ATQ+6	ATQ+6	ATT +6
+NAME_412	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_413	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_414	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_415	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_416	ATK+7	攻撃力+7	攻击力+7	攻擊力+7	공격력+7	ANG+7	ATQ+7	ATQ+7	ATT +7
+NAME_417	Mistique Slot Install	魔晶スロット増設	魔晶槽增设	增設魔晶插槽	마정 슬롯 증설	Arkristall-Steckplatz	Instalar expansión	Installation d'Arc.	Monta slot Magicrist.
+NAME_418	Extra Mistique Slot I	魔晶スロット拡張Ⅰ	魔晶槽扩张Ⅰ	擴張魔晶插槽I	마정 슬롯 확장I	Arkristall-Slot I	Expansión mysteria I	Ext d'Arcanyx I	Extra Magicrist. 1
+NAME_419	Extra Mistique Slot II	魔晶スロット拡張Ⅱ	魔晶槽扩张Ⅱ	擴張魔晶插槽II	마정 슬롯 확장II	Arkristall-Slot II	Expansión mysteria II	Ext d'Arcanyx II	Extra Magicrist. 2
+NAME_421	Fire Unlock	火炎適性解放	火焰适应性解放	火焰適應性解放	화염 적성 해방	Feuergeschick	Desbloqueo fuego	Affinité feu	Sblocca Fuoco
+NAME_422	Fire Affinity C	火炎適性C	火焰适应性C	火焰適應性C	화염 적성C	Feueraffinität C	Afinidad de fuego C	Affinité feu C	Fuoco C
+NAME_423	Fire Affinity B	火炎適性B	火焰适应性B	火焰適應性B	화염 적성B	Feueraffinität B	Afinidad de fuego B	Affinité feu B	Fuoco B
+NAME_424	Fire Affinity A	火炎適性A	火焰适应性A	火焰適應性A	화염 적성A	Feueraffinität A	Afinidad de fuego A	Affinité feu A	Fuoco A
+NAME_425	Fire Affinity S	火炎適性S	火焰适应性S	火焰適應性S	화염 적성S	Feueraffinität S	Afinidad de fuego S	Affinité feu S	Fuoco S
+NAME_426	Ice Unlock	氷結適性解放	冰冻适应性解放	冰凍適應性解放	빙결 적성 해방	Eisgeschick	Desbloqueo hielo	Affinité glace	Sblocca Ghiaccio
+NAME_427	Ice Affinity C	氷結適性C	冰冻适应性C	冰凍適應性C	빙결 적성C	Eisaffinität C	Afinidad de hielo C	Affinité glace C	Ghiaccio C
+NAME_428	Ice Affinity B	氷結適性B	冰冻适应性B	冰凍適應性B	빙결 적성B	Eisaffinität B	Afinidad de hielo B	Affinité glace B	Ghiaccio B
+NAME_429	Ice Affinity A	氷結適性A	冰冻适应性A	冰凍適應性A	빙결 적성A	Eisaffinität A	Afinidad de hielo A	Affinité glace A	Ghiaccio A
+NAME_430	Ice Affinity S	氷結適性S	冰冻适应性S	冰凍適應性S	빙결 적성S	Eisaffinität S	Afinidad de hielo S	Affinité glace S	Ghiaccio S
+NAME_431	Elec Unlock	電撃適性解放	电击适应性解放	電擊適應性解放	전격 적성 해방	Elektrogeschick	Desbloqueo elec.	Affinité foudre	Sblocca Elettricità
+NAME_432	Elec Affinity C	電撃適性C	电击适应性C	電擊適應性C	전격 적성C	Elektroaffinität C	Afinidad de elec. C	Affinité foudre C	Elettricità C
+NAME_433	Elec Affinity B	電撃適性B	电击适应性B	電擊適應性B	전격 적성B	Elektroaffinität B	Afinidad de elec. B	Affinité foudre B	Elettricità B
+NAME_434	Elec Affinity A	電撃適性A	电击适应性A	電擊適應性A	전격 적성A	Elektroaffinität A	Afinidad de elec. A	Affinité foudre A	Elettricità A
+NAME_435	Elec Affinity S	電撃適性S	电击适应性S	電擊適應性S	전격 적성S	Elektroaffinität S	Afinidad de elec. S	Affinité foudre S	Elettricità S
+NAME_436	Force Unlock	衝撃適性解放	冲击适应性解放	衝擊適應性解放	충격 적성 해방	Kraftgeschick	Desbloqueo fuerza	Affinité choc	Sblocca Forza
+NAME_437	Force Affinity C	衝撃適性C	冲击适应性C	衝擊適應性C	충격 적성C	Kraftaffinität C	Afinidad de fuerza C	Affinité choc C	Forza C
+NAME_438	Force Affinity B	衝撃適性B	冲击适应性B	衝擊適應性B	충격 적성B	Kraftaffinität B	Afinidad de fuerza B	Affinité choc B	Forza B
+NAME_439	Force Affinity A	衝撃適性A	冲击适应性A	衝擊適應性A	충격 적성A	Kraftaffinität A	Afinidad de fuerza A	Affinité choc A	Forza A
+NAME_440	Force Affinity S	衝撃適性S	冲击适应性S	衝擊適應性S	충격 적성S	Kraftaffinität S	Afinidad de fuerza S	Affinité choc S	Forza S
+NAME_441	Ruin Unlock	魔力適性解放	魔力适应性解放	魔力適應性解放	마력 적성 해방	Verderbensgeschick	Desbloqueo ruina	Affinité ruine	Sblocca Rovina
+NAME_442	Ruin Affinity C	魔力適性C	魔力适应性C	魔力適應性C	마력 적성C	Verderbensaff. C	Afinidad ruina C	Affinité ruine C	Rovina C
+NAME_443	Ruin Affinity B	魔力適性B	魔力适应性B	魔力適應性B	마력 적성B	Verderbensaff. B	Afinidad ruina B	Affinité ruine B	Rovina B
+NAME_444	Ruin Affinity A	魔力適性A	魔力适应性A	魔力適應性A	마력 적성A	Verderbensaff. A	Afinidad ruina A	Affinité ruine A	Rovina A
+NAME_445	Ruin Affinity S	魔力適性S	魔力适应性S	魔力適應性S	마력 적성S	Verderbensaff. S	Afinidad ruina S	Affinité ruine S	Rovina S
+NAME_446	Almighty Unlock	万能適性解放	万能适应性解放	萬能適應性解放	만능 적성 해방	Allmachtgeschick	Desbloqueo todop.	Affinité absolue	Sblocca Onnipotente
+NAME_447	Almighty Affinity C	万能適性C	万能适应性C	萬能適應性C	만능 적성C	Allmachtaffinität C	Afinidad todop. C	Affinité absolue C	Onnipotente C
+NAME_448	Almighty Affinity B	万能適性B	万能适应性B	萬能適應性B	만능 적성B	Allmachtaffinität B	Afinidad todop. B	Affinité absolue B	Onnipotente B
+NAME_449	Almighty Affinity A	万能適性A	万能适应性A	萬能適應性A	만능 적성A	Allmachtaffinität A	Afinidad todop. A	Affinité absolue A	Onnipotente A
+NAME_450	Almighty Affinity S	万能適性S	万能适应性S	萬能適應性S	만능 적성S	Allmachtaffinität S	Afinidad todop. S	Affinité absolue S	Onnipotente S
+NAME_451	Healing Unlock	回復適性解放	恢复适应性解放	恢復適應性解放	회복 적성 해방	Heilungsgeschick	Desbloqueo cura.	Affinité guérison	Sblocca Guarigione
+NAME_452	Healing Affinity C	回復適性C	恢复适应性C	恢復適應性C	회복 적성C	Heilungsaffinität C	Afinidad curativa C	Affinité guérison C	Guarigione C
+NAME_453	Healing Affinity B	回復適性B	恢复适应性B	恢復適應性B	회복 적성B	Heilungsaffinität B	Afinidad curativa B	Affinité guérison B	Guarigione B
+NAME_454	Healing Affinity A	回復適性A	恢复适应性A	恢復適應性A	회복 적성A	Heilungsaffinität A	Afinidad curativa A	Affinité guérison A	Guarigione A
+NAME_455	Healing Affinity S	回復適性S	恢复适应性S	恢復適應性S	회복 적성S	Heilungsaffinität S	Afinidad curativa S	Affinité guérison S	Guarigione S
+NAME_456	Support Unlock	補助適性解放	辅助适应性解放	輔助適應性解放	보조 적성 해방	Unterst.-Geschick	Desbloqueo apoyo	Affinité soutien	Sblocca Supporto
+NAME_457	Support Affinity C	補助適性C	辅助适应性C	輔助適應性C	보조 적성C	Unterst.-Affinität C	Afinidad de apoyo C	Affinité soutien C	Supporto C
+NAME_458	Support Affinity B	補助適性B	辅助适应性B	輔助適應性B	보조 적성B	Unterst.-Affinität B	Afinidad de apoyo B	Affinité soutien B	Supporto B
+NAME_459	Support Affinity A	補助適性A	辅助适应性A	輔助適應性A	보조 적성A	Unterst.-Affinität A	Afinidad de apoyo A	Affinité soutien A	Supporto A
+NAME_460	Support Affinity S	補助適性S	辅助适应性S	輔助適應性S	보조 적성S	Unterst.-Affinität S	Afinidad de apoyo S	Affinité soutien S	Supporto S
+NAME_461	Gunfire Arcana I	銃撃MPダウンⅠ	枪击MP消耗降低Ⅰ	槍擊MP降低I	총격 MP 감소I	Schuss-Arkana I	Arcana de armas I	Réd. PM arme I	Arcana armi 1
+NAME_462	Gunfire Arcana II	銃撃MPダウンⅡ	枪击MP消耗降低Ⅱ	槍擊MP降低II	총격 MP 감소II	Schuss-Arkana II	Arcana de armas II	Réd. PM arme II	Arcana armi 2
+NAME_463	Gunfire Arcana III	銃撃MPダウンⅢ	枪击MP消耗降低Ⅲ	槍擊MP降低III	총격 MP 감소III	Schuss-Arkana III	Arcana de armas III	Réd. PM arme III	Arcana armi 3
+NAME_464	Gunfire Arcana<tags=''34''g=''1'' id=''BlackStar''>	銃撃MPダウン★	枪击MP消耗降低★	槍擊MP降低★	총격 MP 감소★	Schuss-Arkana <tags=''34''g=''1'' id=''BlackStar''>	Arcana de armas <tags=''34''g=''1'' id=''BlackStar''>	Réd. PM arme <tags=''34''g=''1'' id=''BlackStar''>	Arcana armi <tags=''34''g=''1'' id=''BlackStar''>
+NAME_465	Gunfire Boost I	銃撃ブースターⅠ	枪击强化Ⅰ	槍擊強化I	총격 부스터I	Schuss-Boost I	Potencia arma I	Boost d'arme I	Potenzia armi 1
+NAME_466	Gunfire Boost II	銃撃ブースターⅡ	枪击强化Ⅱ	槍擊強化II	총격 부스터II	Schuss-Boost II	Potencia arma II	Boost d'arme II	Potenzia armi 2
+NAME_467	Gunfire Boost III	銃撃ブースターⅢ	枪击强化Ⅲ	槍擊強化III	총격 부스터III	Schuss-Boost III	Potencia arma III	Boost d'arme III	Potenzia armi 3
+NAME_468	Gunfire Boost<tags=''34''g=''1'' id=''BlackStar''>	銃撃ブースター★	枪击强化★	槍擊強化★	총격 부스터★	Schuss-Boost <tags=''34''g=''1'' id=''BlackStar''>	Potencia arma <tags=''34''g=''1'' id=''BlackStar''>	Boost d'arme <tags=''34''g=''1'' id=''BlackStar''>	Potenzia armi <tags=''34''g=''1'' id=''BlackStar''>
+NAME_469	Duplicator I	デュプリケータⅠ	复制器Ⅰ	拷貝器I	듀플리케이터I	Verdopplung I	Duplicador I	Duplicateur I	Guai doppi 1
+NAME_470	Duplicator II	デュプリケータⅡ	复制器Ⅱ	拷貝器II	듀플리케이터II	Verdopplung II	Duplicador II	Duplicateur II	Guai doppi 2
+NAME_471	Duplicator III	デュプリケータⅢ	复制器Ⅲ	拷貝器III	듀플리케이터III	Verdopplung III	Duplicador III	Duplicateur III	Guai doppi 3
+NAME_472	Duplicator<tags=''34''g=''1'' id=''BlackStar''>	デュプリケータ★	复制器★	拷貝器★	듀플리케이터★	Verdopplung <tags=''34''g=''1'' id=''BlackStar''>	Duplicador <tags=''34''g=''1'' id=''BlackStar''>	Duplicateur <tags=''34''g=''1'' id=''BlackStar''>	Guai doppi <tags=''34''g=''1'' id=''BlackStar''>
+NAME_473	Chandler I	チャンドラーⅠ	钱德勒Ⅰ	錢德勒I	챈들러I	Chandler I	Chandler I	Chandler I	Chandler 1
+NAME_474	Chandler II	チャンドラーⅡ	钱德勒Ⅱ	錢德勒II	챈들러II	Chandler II	Chandler II	Chandler II	Chandler 2
+NAME_475	Chandler III	チャンドラーⅢ	钱德勒Ⅲ	錢德勒III	챈들러III	Chandler III	Chandler III	Chandler III	Chandler 3
+NAME_476	Chandler<tags=''34''g=''1'' id=''BlackStar''>	チャンドラー★	钱德勒★	錢德勒★	챈들러★	Chandler <tags=''34''g=''1'' id=''BlackStar''>	Chandler <tags=''34''g=''1'' id=''BlackStar''>	Chandler <tags=''34''g=''1'' id=''BlackStar''>	Chandler <tags=''34''g=''1'' id=''BlackStar''>
+NAME_477	Pick-Me-Up I	ヒロえもんⅠ	捡宝A梦Ⅰ	拾衛門I	러키에몽I	Sammelwut I	Tónico I	Tonus I	Scoperta 1
+NAME_478	Pick-Me-Up II	ヒロえもんⅡ	捡宝A梦Ⅱ	拾衛門II	러키에몽II	Sammelwut II	Tónico II	Tonus II	Scoperta 2
+NAME_479	Pick-Me-Up III	ヒロえもんⅢ	捡宝A梦Ⅲ	拾衛門III	러키에몽III	Sammelwut III	Tónico III	Tonus III	Scoperta 3
+NAME_480	Pick-Me-Up<tags=''34''g=''1'' id=''BlackStar''>	ヒロえもん★	捡宝A梦★	拾衛門★	러키에몽★	Sammelwut <tags=''34''g=''1'' id=''BlackStar''>	Tónico <tags=''34''g=''1'' id=''BlackStar''>	Tonus <tags=''34''g=''1'' id=''BlackStar''>	Scoperta <tags=''34''g=''1'' id=''BlackStar''>

@@ -1,0 +1,336 @@
+id	en
+INFO_000	ダミー説明
+INFO_001	Max demon stock increases by 2.
+INFO_002	Max demon stock increases by 2.
+INFO_003	Max demon stock increases by 2.
+INFO_004	Commander Skill: Can change 1 ally's demon. <tags=''11''g=''1'' id=''arg0''> turn required.
+INFO_005	Commander Skill: Can change all allies' demons. <tags=''11''g=''1'' id=''arg0''> turns required.
+INFO_006	Commander Skill: Narrows sabbath to a single target and increases its power. <tags=''11''g=''1'' id=''arg0''> turns required.
+INFO_007	Commander Skill: Increases all allies' defense and prevents status ailments for 1 turn. <tags=''11''g=''1'' id=''arg0''> turns required.
+INFO_008	Commander Skill: Increases a target ally's actions by 1. <tags=''11''g=''1'' id=''arg0''> turns required.
+INFO_009	Commander Skill: For the turn used, all allies' Stack gains based on dealing HP damage increase by 1. <tags=''11''g=''1'' id=''arg0''> turns required.
+INFO_010	Auto Commander Skill: At the start of an ally's turn, low chance of halving their MP costs.
+INFO_011	Auto Commander Skill: At the start of an ally's turn, low chance of slight HP recovery for all allies over 3 turns.
+INFO_012	Auto Commander Skill: At the start of an ally's turn, low chance of healing an ally's ailments.
+INFO_013	Auto Commander Skill: At the start of an ally's turn, low chance of extending all allies' active buffs.
+INFO_014	Auto Commander Skill: On ally's turn, if 2 or more allies are KO'd, they will be revived with full health. 1 use per battle.
+INFO_015	Slightly increases EXP gained by demonic allies 2+ above base level.
+INFO_016	Increases EXP gained by demonic allies 2+ above base level.
+INFO_017	Greatly increases EXP gained by demonic allies 2+ above base level.
+INFO_101	Increases COMP's Attack by 3. Physical skill damage and bonus attack damage increased.
+INFO_102	Increases COMP's Attack by 4. Physical skill damage and bonus attack damage increased.
+INFO_103	Increases COMP's Attack by 4. Physical skill damage and bonus attack damage increased.
+INFO_104	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_105	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_106	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_107	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_108	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_109	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_110	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_111	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_112	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_113	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_114	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_115	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_116	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_117	Allows Mistiques to be equipped.
+INFO_118	Increases Mistique equipment slots by 1.
+INFO_119	Increases Mistique equipment slots by 1.
+INFO_121	Adds an Equipment Affinity for Fire Mistiques.
+INFO_122	Increases Equipment Affinity of Fire Mistiques.
+INFO_123	Increases Equipment Affinity of Fire Mistiques.
+INFO_124	Increases Equipment Affinity of Fire Mistiques.
+INFO_125	Increases Equipment Affinity of Fire Mistiques.
+INFO_126	Adds an Equipment Affinity for Ice Mistiques.
+INFO_127	Increases Equipment Affinity of Ice Mistiques.
+INFO_128	Increases Equipment Affinity of Ice Mistiques.
+INFO_129	Increases Equipment Affinity of Ice Mistiques.
+INFO_130	Increases Equipment Affinity of Ice Mistiques.
+INFO_131	Adds an Equipment Affinity for Electricity Mistiques.
+INFO_132	Increases Equipment Affinity of Electricity Mistiques.
+INFO_133	Increases Equipment Affinity of Electricity Mistiques.
+INFO_134	Increases Equipment Affinity of Electricity Mistiques.
+INFO_135	Increases Equipment Affinity of Electricity Mistiques.
+INFO_136	Adds an Equipment Affinity for Force Mistiques.
+INFO_137	Increases Equipment Affinity of Force Mistiques.
+INFO_138	Increases Equipment Affinity of Force Mistiques.
+INFO_139	Increases Equipment Affinity of Force Mistiques.
+INFO_140	Increases Equipment Affinity of Force Mistiques.
+INFO_141	Adds an Equipment Affinity for Ruin Mistiques.
+INFO_142	Increases Equipment Affinity of Ruin Mistiques.
+INFO_143	Increases Equipment Affinity of Ruin Mistiques.
+INFO_144	Increases Equipment Affinity of Ruin Mistiques.
+INFO_145	Increases Equipment Affinity of Ruin Mistiques.
+INFO_146	Adds an Equipment Affinity for Almighty Mistiques.
+INFO_147	Increases Equipment Affinity of Almighty Mistiques.
+INFO_148	Increases Equipment Affinity of Almighty Mistiques.
+INFO_149	Increases Equipment Affinity of Almighty Mistiques.
+INFO_150	Increases Equipment Affinity of Almighty Mistiques.
+INFO_151	Adds an Equipment Affinity for Healing Mistiques.
+INFO_152	Increases Equipment Affinity of Healing Mistiques.
+INFO_153	Increases Equipment Affinity of Healing Mistiques.
+INFO_154	Increases Equipment Affinity of Healing Mistiques.
+INFO_155	Increases Equipment Affinity of Healing Mistiques.
+INFO_156	Adds an Equipment Affinity for Support Mistiques.
+INFO_157	Increases Equipment Affinity of Support Mistiques.
+INFO_158	Increases Equipment Affinity of Support Mistiques.
+INFO_159	Increases Equipment Affinity of Support Mistiques.
+INFO_160	Increases Equipment Affinity of Support Mistiques.
+INFO_161	Decreases MP cost of Physical skills by 10%.
+INFO_162	Decreases MP cost of Physical skills by 20%.
+INFO_163	Decreases MP cost of Physical skills by 30%.
+INFO_164	Decreases MP cost of Physical skills by 50%.
+INFO_165	Increases Physical skills' damage by 20% when striking an enemy weakness.
+INFO_166	Increases Physical skills' damage by 35% when striking an enemy weakness.
+INFO_167	Increases Physical skills' damage by 50% when striking an enemy weakness.
+INFO_168	Increases Physical skills' damage by 80% when striking an enemy weakness.
+INFO_169	Increases Critical Rate of Physical skills.
+INFO_170	Further increases Critical Rate of Physical skills.
+INFO_171	Greatly increases Critical Rate of Physical skills.
+INFO_172	Vastly increases Critical Rate of Physical skills. Guarantees critical hit on first turn's attack.
+INFO_173	Your Physical attacks pierce enemy's Resist affinity.
+INFO_174	Your Physical attacks pierce enemy's Resist/Null affinity.
+INFO_175	Your Physical attacks pierce enemy's Resist/Null/Drain affinity.
+INFO_176	Your Physical attacks pierce enemy's Resist/Null/Drain/Repel affinity. (Cannot pierce Tetrakarn.)
+INFO_177	When a battle begins, low chance of analyzing 1 enemy and revealing affinity resistances. (Some enemies immune.)
+INFO_178	When a battle begins, chance of analyzing 1 enemy and revealing affinity resistances. (Some enemies immune.)
+INFO_179	When a battle begins, chance of analyzing all enemies and revealing affinity resistances. (Some enemies immune.)
+INFO_180	When a battle begins, analyzes all enemies and reveals affinity resistances. (Some enemies immune.)
+INFO_181	You can now search in the ENEMY screen, and set it so that enemy encounters containing the target demon will be marked with an icon.
+INFO_201	Increases COMP's Attack by 3. Gunfire skill damage and bonus attack damage increased.
+INFO_202	Increases COMP's Attack by 4. Gunfire skill damage and bonus attack damage increased.
+INFO_203	Increases COMP's Attack by 4. Gunfire skill damage and bonus attack damage increased.
+INFO_204	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_205	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_206	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_207	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_208	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_209	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_210	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_211	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_212	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_213	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_214	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_215	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_216	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_217	Allows Mistiques to be equipped.
+INFO_218	Increases Mistique equipment slots by 1.
+INFO_219	Increases Mistique equipment slots by 1.
+INFO_221	Adds an Equipment Affinity for Fire Mistiques.
+INFO_222	Increases Equipment Affinity of Fire Mistiques.
+INFO_223	Increases Equipment Affinity of Fire Mistiques.
+INFO_224	Increases Equipment Affinity of Fire Mistiques.
+INFO_225	Increases Equipment Affinity of Fire Mistiques.
+INFO_226	Adds an Equipment Affinity for Ice Mistiques.
+INFO_227	Increases Equipment Affinity of Ice Mistiques.
+INFO_228	Increases Equipment Affinity of Ice Mistiques.
+INFO_229	Increases Equipment Affinity of Ice Mistiques.
+INFO_230	Increases Equipment Affinity of Ice Mistiques.
+INFO_231	Adds an Equipment Affinity for Electricity Mistiques.
+INFO_232	Increases Equipment Affinity of Electricity Mistiques.
+INFO_233	Increases Equipment Affinity of Electricity Mistiques.
+INFO_234	Increases Equipment Affinity of Electricity Mistiques.
+INFO_235	Increases Equipment Affinity of Electricity Mistiques.
+INFO_236	Adds an Equipment Affinity for Force Mistiques.
+INFO_237	Increases Equipment Affinity of Force Mistiques.
+INFO_238	Increases Equipment Affinity of Force Mistiques.
+INFO_239	Increases Equipment Affinity of Force Mistiques.
+INFO_240	Increases Equipment Affinity of Force Mistiques.
+INFO_241	Adds an Equipment Affinity for Ruin Mistiques.
+INFO_242	Increases Equipment Affinity of Ruin Mistiques.
+INFO_243	Increases Equipment Affinity of Ruin Mistiques.
+INFO_244	Increases Equipment Affinity of Ruin Mistiques.
+INFO_245	Increases Equipment Affinity of Ruin Mistiques.
+INFO_246	Adds an Equipment Affinity for Almighty Mistiques.
+INFO_247	Increases Equipment Affinity of Almighty Mistiques.
+INFO_248	Increases Equipment Affinity of Almighty Mistiques.
+INFO_249	Increases Equipment Affinity of Almighty Mistiques.
+INFO_250	Increases Equipment Affinity of Almighty Mistiques.
+INFO_251	Adds an Equipment Affinity for Healing Mistiques.
+INFO_252	Increases Equipment Affinity of Healing Mistiques.
+INFO_253	Increases Equipment Affinity of Healing Mistiques.
+INFO_254	Increases Equipment Affinity of Healing Mistiques.
+INFO_255	Increases Equipment Affinity of Healing Mistiques.
+INFO_256	Adds an Equipment Affinity for Support Mistiques.
+INFO_257	Increases Equipment Affinity of Support Mistiques.
+INFO_258	Increases Equipment Affinity of Support Mistiques.
+INFO_259	Increases Equipment Affinity of Support Mistiques.
+INFO_260	Increases Equipment Affinity of Support Mistiques.
+INFO_261	Decreases MP cost of Gunfire skills by 10%.
+INFO_262	Decreases MP cost of Gunfire skills by 20%.
+INFO_263	Decreases MP cost of Gunfire skills by 30%.
+INFO_264	Decreases MP cost of Gunfire skills by 50%.
+INFO_265	Increases Gunfire skills' damage by 20% when striking an enemy weakness.
+INFO_266	Increases Gunfire skills' damage by 35% when striking an enemy weakness.
+INFO_267	Increases Gunfire skills' damage by 50% when striking an enemy weakness.
+INFO_268	Increases Gunfire skills' damage by 80% when striking an enemy weakness.
+INFO_269	Increases critical hit damage for Gunfire skills.
+INFO_270	Further increases critical hit damage for Gunfire skills.
+INFO_271	Greatly increases critical hit damage for Gunfire skills.
+INFO_272	Greatly increases critical hit damage for Gunfire skills, and they ignore enemy Defense.
+INFO_273	Increases damage of Gunfire skills when HP is below 25%.
+INFO_274	Further increases damage of Gunfire skills when HP is below 25%.
+INFO_275	Greatly increases damage of Gunfire skills when HP is below 25%.
+INFO_276	Greatly increases damage of Gunfire skills when HP is below 25%. Taking damage activates Charge.
+INFO_277	Lowers chance of being ambushed by enemies.
+INFO_278	Further lowers chance of being ambushed by enemies.
+INFO_279	Greatly lowers chance of being ambushed by enemies.
+INFO_280	Enemies can no longer ambush you.
+INFO_301	Increases COMP's Attack by 3. Physical skill damage and bonus attack damage increased.
+INFO_302	Increases COMP's Attack by 4. Physical skill damage and bonus attack damage increased.
+INFO_303	Increases COMP's Attack by 4. Physical skill damage and bonus attack damage increased.
+INFO_304	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_305	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_306	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_307	Increases COMP's Attack by 5. Physical skill damage and bonus attack damage increased.
+INFO_308	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_309	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_310	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_311	Increases COMP's Attack by 6. Physical skill damage and bonus attack damage increased.
+INFO_312	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_313	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_314	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_315	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_316	Increases COMP's Attack by 7. Physical skill damage and bonus attack damage increased.
+INFO_317	Allows Mistiques to be equipped.
+INFO_318	Increases Mistique equipment slots by 1.
+INFO_319	Increases Mistique equipment slots by 1.
+INFO_321	Adds an Equipment Affinity for Fire Mistiques.
+INFO_322	Increases Equipment Affinity of Fire Mistiques.
+INFO_323	Increases Equipment Affinity of Fire Mistiques.
+INFO_324	Increases Equipment Affinity of Fire Mistiques.
+INFO_325	Increases Equipment Affinity of Fire Mistiques.
+INFO_326	Adds an Equipment Affinity for Ice Mistiques.
+INFO_327	Increases Equipment Affinity of Ice Mistiques.
+INFO_328	Increases Equipment Affinity of Ice Mistiques.
+INFO_329	Increases Equipment Affinity of Ice Mistiques.
+INFO_330	Increases Equipment Affinity of Ice Mistiques.
+INFO_331	Adds an Equipment Affinity for Electricity Mistiques.
+INFO_332	Increases Equipment Affinity of Electricity Mistiques.
+INFO_333	Increases Equipment Affinity of Electricity Mistiques.
+INFO_334	Increases Equipment Affinity of Electricity Mistiques.
+INFO_335	Increases Equipment Affinity of Electricity Mistiques.
+INFO_336	Adds an Equipment Affinity for Force Mistiques.
+INFO_337	Increases Equipment Affinity of Force Mistiques.
+INFO_338	Increases Equipment Affinity of Force Mistiques.
+INFO_339	Increases Equipment Affinity of Force Mistiques.
+INFO_340	Increases Equipment Affinity of Force Mistiques.
+INFO_341	Adds an Equipment Affinity for Ruin Mistiques.
+INFO_342	Increases Equipment Affinity of Ruin Mistiques.
+INFO_343	Increases Equipment Affinity of Ruin Mistiques.
+INFO_344	Increases Equipment Affinity of Ruin Mistiques.
+INFO_345	Increases Equipment Affinity of Ruin Mistiques.
+INFO_346	Adds an Equipment Affinity for Almighty Mistiques.
+INFO_347	Increases Equipment Affinity of Almighty Mistiques.
+INFO_348	Increases Equipment Affinity of Almighty Mistiques.
+INFO_349	Increases Equipment Affinity of Almighty Mistiques.
+INFO_350	Increases Equipment Affinity of Almighty Mistiques.
+INFO_351	Adds an Equipment Affinity for Healing Mistiques.
+INFO_352	Increases Equipment Affinity of Healing Mistiques.
+INFO_353	Increases Equipment Affinity of Healing Mistiques.
+INFO_354	Increases Equipment Affinity of Healing Mistiques.
+INFO_355	Increases Equipment Affinity of Healing Mistiques.
+INFO_356	Adds an Equipment Affinity for Support Mistiques.
+INFO_357	Increases Equipment Affinity of Support Mistiques.
+INFO_358	Increases Equipment Affinity of Support Mistiques.
+INFO_359	Increases Equipment Affinity of Support Mistiques.
+INFO_360	Increases Equipment Affinity of Support Mistiques.
+INFO_361	Decreases MP cost of Physical skills by 10%.
+INFO_362	Decreases MP cost of Physical skills by 20%.
+INFO_363	Decreases MP cost of Physical skills by 30%.
+INFO_364	Decreases MP cost of Physical skills by 50%.
+INFO_365	Increases Physical skills' damage by 20% when striking an enemy weakness.
+INFO_366	Increases Physical skills' damage by 35% when striking an enemy weakness.
+INFO_367	Increases Physical skills' damage by 50% when striking an enemy weakness.
+INFO_368	Increases Physical skills' damage by 80% when striking an enemy weakness.
+INFO_369	Unlocks the Piercer skill: Weak STR-based Almighty damage to 1 enemy. Can be used even if Sealed.
+INFO_370	Increases the effectiveness of Piercer.
+INFO_371	Further increases the effectiveness of Piercer.
+INFO_372	The Piercer skill removes target's Tetrakarn and Makarakarn effects.
+INFO_373	Slight MP recovery when attacking or using Piercer.
+INFO_374	Small MP recovery when attacking or using Piercer.
+INFO_375	Moderate MP recovery when attacking or using Piercer.
+INFO_376	Major MP recovery when attacking or using Piercer.
+INFO_377	Increases chance of a Bonus Attack when starting a battle with a slashed enemy.
+INFO_378	Further increases chance of a Bonus Attack when starting a battle with a slashed enemy.
+INFO_379	Greatly increases chance of a Bonus Attack when starting a battle with a slashed enemy.
+INFO_380	Guarantees a Bonus Attack when starting a battle with a slashed enemy.
+INFO_401	Increases COMP's Attack by 3. Gunfire skill damage and bonus attack damage increased.
+INFO_402	Increases COMP's Attack by 4. Gunfire skill damage and bonus attack damage increased.
+INFO_403	Increases COMP's Attack by 4. Gunfire skill damage and bonus attack damage increased.
+INFO_404	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_405	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_406	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_407	Increases COMP's Attack by 5. Gunfire skill damage and bonus attack damage increased.
+INFO_408	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_409	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_410	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_411	Increases COMP's Attack by 6. Gunfire skill damage and bonus attack damage increased.
+INFO_412	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_413	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_414	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_415	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_416	Increases COMP's Attack by 7. Gunfire skill damage and bonus attack damage increased.
+INFO_417	Allows Mistiques to be equipped.
+INFO_418	Increases Mistique equipment slots by 1.
+INFO_419	Increases Mistique equipment slots by 1.
+INFO_421	Adds an Equipment Affinity for Fire Mistiques.
+INFO_422	Increases Equipment Affinity of Fire Mistiques.
+INFO_423	Increases Equipment Affinity of Fire Mistiques.
+INFO_424	Increases Equipment Affinity of Fire Mistiques.
+INFO_425	Increases Equipment Affinity of Fire Mistiques.
+INFO_426	Adds an Equipment Affinity for Ice Mistiques.
+INFO_427	Increases Equipment Affinity of Ice Mistiques.
+INFO_428	Increases Equipment Affinity of Ice Mistiques.
+INFO_429	Increases Equipment Affinity of Ice Mistiques.
+INFO_430	Increases Equipment Affinity of Ice Mistiques.
+INFO_431	Adds an Equipment Affinity for Electricity Mistiques.
+INFO_432	Increases Equipment Affinity of Electricity Mistiques.
+INFO_433	Increases Equipment Affinity of Electricity Mistiques.
+INFO_434	Increases Equipment Affinity of Electricity Mistiques.
+INFO_435	Increases Equipment Affinity of Electricity Mistiques.
+INFO_436	Adds an Equipment Affinity for Force Mistiques.
+INFO_437	Increases Equipment Affinity of Force Mistiques.
+INFO_438	Increases Equipment Affinity of Force Mistiques.
+INFO_439	Increases Equipment Affinity of Force Mistiques.
+INFO_440	Increases Equipment Affinity of Force Mistiques.
+INFO_441	Adds an Equipment Affinity for Ruin Mistiques.
+INFO_442	Increases Equipment Affinity of Ruin Mistiques.
+INFO_443	Increases Equipment Affinity of Ruin Mistiques.
+INFO_444	Increases Equipment Affinity of Ruin Mistiques.
+INFO_445	Increases Equipment Affinity of Ruin Mistiques.
+INFO_446	Adds an Equipment Affinity for Almighty Mistiques.
+INFO_447	Increases Equipment Affinity of Almighty Mistiques.
+INFO_448	Increases Equipment Affinity of Almighty Mistiques.
+INFO_449	Increases Equipment Affinity of Almighty Mistiques.
+INFO_450	Increases Equipment Affinity of Almighty Mistiques.
+INFO_451	Adds an Equipment Affinity for Healing Mistiques.
+INFO_452	Increases Equipment Affinity of Healing Mistiques.
+INFO_453	Increases Equipment Affinity of Healing Mistiques.
+INFO_454	Increases Equipment Affinity of Healing Mistiques.
+INFO_455	Increases Equipment Affinity of Healing Mistiques.
+INFO_456	Adds an Equipment Affinity for Support Mistiques.
+INFO_457	Increases Equipment Affinity of Support Mistiques.
+INFO_458	Increases Equipment Affinity of Support Mistiques.
+INFO_459	Increases Equipment Affinity of Support Mistiques.
+INFO_460	Increases Equipment Affinity of Support Mistiques.
+INFO_461	Decreases MP cost of Gunfire skills by 10%.
+INFO_462	Decreases MP cost of Gunfire skills by 20%.
+INFO_463	Decreases MP cost of Gunfire skills by 30%.
+INFO_464	Decreases MP cost of Gunfire skills by 50%.
+INFO_465	Increases Gunfire skills' damage by 20% when striking an enemy weakness.
+INFO_466	Increases Gunfire skills' damage by 35% when striking an enemy weakness.
+INFO_467	Increases Gunfire skills' damage by 50% when striking an enemy weakness.
+INFO_468	Increases Gunfire skills' damage by 80% when striking an enemy weakness.
+INFO_469	When attacking, there is a chance your attack may double-hit.
+INFO_470	Increases chance of an attack double-hitting.
+INFO_471	Further increases chance of an attack double-hitting.
+INFO_472	Attacks have a high chance of hitting 2-3 times.
+INFO_473	Low chance of Gunfire inflicting Faint on the enemy.
+INFO_474	Increases chance of Gunfire inflicting Faint on the enemy.
+INFO_475	Further increases chance of Gunfire inflicting Faint on the enemy.
+INFO_476	Greatly increases chance of Gunfire inflicting Faint on the enemy.
+INFO_477	Increases chance of obtaining items from defeated enemies.
+INFO_478	Further increases chance of obtaining items from defeated enemies.
+INFO_479	Greatly increases chance of obtaining items from defeated enemies.
+INFO_480	Greatly increases chance of obtaining items from defeated enemies. May also find rare items.

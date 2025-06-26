@@ -1,0 +1,243 @@
+id	en
+ITEMMANAINFO_000	ダミー魔晶の説明文 Dummy
+ITEMMANAINFO_001	Increases Fire skills' power by 10%
+ITEMMANAINFO_002	Increases Fire skills' power by 15%
+ITEMMANAINFO_003	Increases Fire skills' power by 20%
+ITEMMANAINFO_004	Increases Fire skills' power by 25%
+ITEMMANAINFO_005	Increases Fire skills' power by 30%
+ITEMMANAINFO_006	Increases Fire skills' power by 35%
+ITEMMANAINFO_007	Increases Fire skills' power by 40%
+ITEMMANAINFO_008	Increases Fire skills' power by 45%
+ITEMMANAINFO_009	Increases Fire skills' power by 50%
+ITEMMANAINFO_010	Increases Fire skills' power by 60%
+ITEMMANAINFO_011	Increases Fire skills' power by 65%
+ITEMMANAINFO_012	Increases Fire skills' power by 70%
+ITEMMANAINFO_013	Decreases MP cost of Fire skills by 5%
+ITEMMANAINFO_014	Decreases MP cost of Fire skills by 10%
+ITEMMANAINFO_015	Decreases MP cost of Fire skills by 15%
+ITEMMANAINFO_016	Decreases MP cost of Fire skills by 20%
+ITEMMANAINFO_017	Decreases MP cost of Fire skills by 25%
+ITEMMANAINFO_018	Decreases MP cost of Fire skills by 30%
+ITEMMANAINFO_019	Decreases MP cost of Fire skills by 35%
+ITEMMANAINFO_020	Decreases MP cost of Fire skills by 40%
+ITEMMANAINFO_021	Decreases MP cost of Fire skills by 50%
+ITEMMANAINFO_022	Increases Fire skills' power when striking a weakness by 40%
+ITEMMANAINFO_023	Increases Fire skills' power when striking a weakness by 45%
+ITEMMANAINFO_024	Increases Fire skills' power when striking a weakness by 60%
+ITEMMANAINFO_025	Increases Fire skills' power when striking a weakness by 65%
+ITEMMANAINFO_026	Increases Fire skills' power when striking a weakness by 70%
+ITEMMANAINFO_027	Increases Fire skills' power when striking a weakness by 75%
+ITEMMANAINFO_028	Increases Fire skills' power when striking a weakness by 90%
+ITEMMANAINFO_029	Increases Fire skills' power when striking a weakness by 95%
+ITEMMANAINFO_030	Increases Fire skills' power when striking a weakness by 100%
+ITEMMANAINFO_031	Increases Fire skills' power by 50%, but MP cost increases by 50%
+ITEMMANAINFO_032	Increases Fire skills' power by 60%, but MP cost increases by 50%
+ITEMMANAINFO_033	Increases Fire skills' power by 80%, but MP cost increases by 50%
+ITEMMANAINFO_034	Low chance of Fire skills also inflicting Seal on the enemy
+ITEMMANAINFO_035	Chance of Fire skills triggering critical hits against the enemy
+ITEMMANAINFO_036	Fire skills ignore enemy's Resist/Null/Drain affinities
+ITEMMANAINFO_037	Doubles Stack count added when striking an enemy's Fire weakness
+ITEMMANAINFO_038	Increases Ice skills' power by 10%
+ITEMMANAINFO_039	Increases Ice skills' power by 15%
+ITEMMANAINFO_040	Increases Ice skills' power by 20%
+ITEMMANAINFO_041	Increases Ice skills' power by 25%
+ITEMMANAINFO_042	Increases Ice skills' power by 30%
+ITEMMANAINFO_043	Increases Ice skills' power by 35%
+ITEMMANAINFO_044	Increases Ice skills' power by 40%
+ITEMMANAINFO_045	Increases Ice skills' power by 45%
+ITEMMANAINFO_046	Increases Ice skills' power by 50%
+ITEMMANAINFO_047	Increases Ice skills' power by 60%
+ITEMMANAINFO_048	Increases Ice skills' power by 65%
+ITEMMANAINFO_049	Increases Ice skills' power by 70%
+ITEMMANAINFO_050	Decreases MP cost of Ice skills by 5%
+ITEMMANAINFO_051	Decreases MP cost of Ice skills by 10%
+ITEMMANAINFO_052	Decreases MP cost of Ice skills by 15%
+ITEMMANAINFO_053	Decreases MP cost of Ice skills by 20%
+ITEMMANAINFO_054	Decreases MP cost of Ice skills by 25%
+ITEMMANAINFO_055	Decreases MP cost of Ice skills by 30%
+ITEMMANAINFO_056	Decreases MP cost of Ice skills by 35%
+ITEMMANAINFO_057	Decreases MP cost of Ice skills by 40%
+ITEMMANAINFO_058	Decreases MP cost of Ice skills by 50%
+ITEMMANAINFO_059	Increases Ice skills' power when striking a weakness by 40%
+ITEMMANAINFO_060	Increases Ice skills' power when striking a weakness by 45%
+ITEMMANAINFO_061	Increases Ice skills' power when striking a weakness by 60%
+ITEMMANAINFO_062	Increases Ice skills' power when striking a weakness by 65%
+ITEMMANAINFO_063	Increases Ice skills' power when striking a weakness by 70%
+ITEMMANAINFO_064	Increases Ice skills' power when striking a weakness by 75%
+ITEMMANAINFO_065	Increases Ice skills' power when striking a weakness by 90%
+ITEMMANAINFO_066	Increases Ice skills' power when striking a weakness by 95%
+ITEMMANAINFO_067	Increases Ice skills' power when striking a weakness by 100%
+ITEMMANAINFO_068	Increases Ice skills' power by 50%, but MP cost increases by 50%
+ITEMMANAINFO_069	Increases Ice skills' power by 60%, but MP cost increases by 50%
+ITEMMANAINFO_070	Increases Ice skills' power by 80%, but MP cost increases by 50%
+ITEMMANAINFO_071	Low chance of Ice skills also inflicting Sleep on the enemy
+ITEMMANAINFO_072	Chance of Ice skills triggering critical hits against the enemy
+ITEMMANAINFO_073	Ice skills ignore enemy's Resist/Null/Drain affinities
+ITEMMANAINFO_074	Doubles Stack count added when striking an enemy's Ice weakness
+ITEMMANAINFO_075	Increases Electricity skills' power by 10%
+ITEMMANAINFO_076	Increases Electricity skills' power by 15%
+ITEMMANAINFO_077	Increases Electricity skills' power by 20%
+ITEMMANAINFO_078	Increases Electricity skills' power by 25%
+ITEMMANAINFO_079	Increases Electricity skills' power by 30%
+ITEMMANAINFO_080	Increases Electricity skills' power by 35%
+ITEMMANAINFO_081	Increases Electricity skills' power by 40%
+ITEMMANAINFO_082	Increases Electricity skills' power by 45%
+ITEMMANAINFO_083	Increases Electricity skills' power by 50%
+ITEMMANAINFO_084	Increases Electricity skills' power by 60%
+ITEMMANAINFO_085	Increases Electricity skills' power by 65%
+ITEMMANAINFO_086	Increases Electricity skills' power by 70%
+ITEMMANAINFO_087	Decreases MP cost of Electricity skills by 5%
+ITEMMANAINFO_088	Decreases MP cost of Electricity skills by 10%
+ITEMMANAINFO_089	Decreases MP cost of Electricity skills by 15%
+ITEMMANAINFO_090	Decreases MP cost of Electricity skills by 20%
+ITEMMANAINFO_091	Decreases MP cost of Electricity skills by 25%
+ITEMMANAINFO_092	Decreases MP cost of Electricity skills by 30%
+ITEMMANAINFO_093	Decreases MP cost of Electricity skills by 35%
+ITEMMANAINFO_094	Decreases MP cost of Electricity skills by 40%
+ITEMMANAINFO_095	Decreases MP cost of Electricity skills by 50%
+ITEMMANAINFO_096	Increases Electricity skills' power when striking a weakness by 40%
+ITEMMANAINFO_097	Increases Electricity skills' power when striking a weakness by 45%
+ITEMMANAINFO_098	Increases Electricity skills' power when striking a weakness by 60%
+ITEMMANAINFO_099	Increases Electricity skills' power when striking a weakness by 65%
+ITEMMANAINFO_100	Increases Electricity skills' power when striking a weakness by 70%
+ITEMMANAINFO_101	Increases Electricity skills' power when striking a weakness by 75%
+ITEMMANAINFO_102	Increases Electricity skills' power when striking a weakness by 90%
+ITEMMANAINFO_103	Increases Electricity skills' power when striking a weakness by 95%
+ITEMMANAINFO_104	Increases Electricity skills' power when striking a weakness by 100%
+ITEMMANAINFO_105	Increases Electricity skills' power by 50%, but MP cost increases by 50%
+ITEMMANAINFO_106	Increases Electricity skills' power by 60%, but MP cost increases by 50%
+ITEMMANAINFO_107	Increases Electricity skills' power by 80%, but MP cost increases by 50%
+ITEMMANAINFO_108	Low chance of Electricity skills also inflicting Paralysis on the enemy
+ITEMMANAINFO_109	Chance of Electricity skills triggering critical hits against the enemy
+ITEMMANAINFO_110	Electricity skills ignore enemy's Resist/Null/Drain affinities
+ITEMMANAINFO_111	Doubles Stack count added when striking an enemy's Electricity weakness
+ITEMMANAINFO_112	Increases Force skills' power by 10%
+ITEMMANAINFO_113	Increases Force skills' power by 15%
+ITEMMANAINFO_114	Increases Force skills' power by 20%
+ITEMMANAINFO_115	Increases Force skills' power by 25%
+ITEMMANAINFO_116	Increases Force skills' power by 30%
+ITEMMANAINFO_117	Increases Force skills' power by 35%
+ITEMMANAINFO_118	Increases Force skills' power by 40%
+ITEMMANAINFO_119	Increases Force skills' power by 45%
+ITEMMANAINFO_120	Increases Force skills' power by 50%
+ITEMMANAINFO_121	Increases Force skills' power by 60%
+ITEMMANAINFO_122	Increases Force skills' power by 65%
+ITEMMANAINFO_123	Increases Force skills' power by 70%
+ITEMMANAINFO_124	Decreases MP cost of Force skills by 5%
+ITEMMANAINFO_125	Decreases MP cost of Force skills by 10%
+ITEMMANAINFO_126	Decreases MP cost of Force skills by 15%
+ITEMMANAINFO_127	Decreases MP cost of Force skills by 20%
+ITEMMANAINFO_128	Decreases MP cost of Force skills by 25%
+ITEMMANAINFO_129	Decreases MP cost of Force skills by 30%
+ITEMMANAINFO_130	Decreases MP cost of Force skills by 35%
+ITEMMANAINFO_131	Decreases MP cost of Force skills by 40%
+ITEMMANAINFO_132	Decreases MP cost of Force skills by 50%
+ITEMMANAINFO_133	Increases Force skills' power when striking a weakness by 40%
+ITEMMANAINFO_134	Increases Force skills' power when striking a weakness by 45%
+ITEMMANAINFO_135	Increases Force skills' power when striking a weakness by 60%
+ITEMMANAINFO_136	Increases Force skills' power when striking a weakness by 65%
+ITEMMANAINFO_137	Increases Force skills' power when striking a weakness by 70%
+ITEMMANAINFO_138	Increases Force skills' power when striking a weakness by 75%
+ITEMMANAINFO_139	Increases Force skills' power when striking a weakness by 90%
+ITEMMANAINFO_140	Increases Force skills' power when striking a weakness by 95%
+ITEMMANAINFO_141	Increases Force skills' power when striking a weakness by 100%
+ITEMMANAINFO_142	Increases Force skills' power by 50%, but MP cost increases by 50%
+ITEMMANAINFO_143	Increases Force skills' power by 60%, but MP cost increases by 50%
+ITEMMANAINFO_144	Increases Force skills' power by 80%, but MP cost increases by 50%
+ITEMMANAINFO_145	Low chance of Force skills also inflicting Poison on the enemy
+ITEMMANAINFO_146	Chance of Force skills triggering critical hits against the enemy
+ITEMMANAINFO_147	Force skills ignore enemy's Resist/Null/Drain affinities
+ITEMMANAINFO_148	Doubles Stack count added when striking an enemy's Force weakness
+ITEMMANAINFO_149	Increases Ruin skills' power by 10%
+ITEMMANAINFO_150	Increases Ruin skills' power by 15%
+ITEMMANAINFO_151	Increases Ruin skills' power by 20%
+ITEMMANAINFO_152	Increases Ruin skills' power by 25%
+ITEMMANAINFO_153	Increases Ruin skills' power by 30%
+ITEMMANAINFO_154	Increases Ruin skills' power by 35%
+ITEMMANAINFO_155	Increases Ruin skills' power by 40%
+ITEMMANAINFO_156	Increases Ruin skills' power by 45%
+ITEMMANAINFO_157	Increases Ruin skills' power by 50%
+ITEMMANAINFO_158	Increases Ruin skills' power by 60%
+ITEMMANAINFO_159	Increases Ruin skills' power by 65%
+ITEMMANAINFO_160	Increases Ruin skills' power by 70%
+ITEMMANAINFO_161	Decreases MP cost of Ruin skills by 5%
+ITEMMANAINFO_162	Decreases MP cost of Ruin skills by 10%
+ITEMMANAINFO_163	Decreases MP cost of Ruin skills by 15%
+ITEMMANAINFO_164	Decreases MP cost of Ruin skills by 20%
+ITEMMANAINFO_165	Decreases MP cost of Ruin skills by 25%
+ITEMMANAINFO_166	Decreases MP cost of Ruin skills by 30%
+ITEMMANAINFO_167	Decreases MP cost of Ruin skills by 35%
+ITEMMANAINFO_168	Decreases MP cost of Ruin skills by 40%
+ITEMMANAINFO_169	Decreases MP cost of Ruin skills by 50%
+ITEMMANAINFO_170	Increases Almighty skills' power by 10%
+ITEMMANAINFO_171	Increases Almighty skills' power by 15%
+ITEMMANAINFO_172	Increases Almighty skills' power by 20%
+ITEMMANAINFO_173	Increases Almighty skills' power by 25%
+ITEMMANAINFO_174	Increases Almighty skills' power by 30%
+ITEMMANAINFO_175	Increases Almighty skills' power by 35%
+ITEMMANAINFO_176	Increases Almighty skills' power by 40%
+ITEMMANAINFO_177	Increases Almighty skills' power by 45%
+ITEMMANAINFO_178	Increases Almighty skills' power by 50%
+ITEMMANAINFO_179	Increases Almighty skills' power by 60%
+ITEMMANAINFO_180	Increases Almighty skills' power by 65%
+ITEMMANAINFO_181	Increases Almighty skills' power by 70%
+ITEMMANAINFO_182	Decreases MP cost of Almighty skills by 5%
+ITEMMANAINFO_183	Decreases MP cost of Almighty skills by 10%
+ITEMMANAINFO_184	Decreases MP cost of Almighty skills by 15%
+ITEMMANAINFO_185	Decreases MP cost of Almighty skills by 20%
+ITEMMANAINFO_186	Decreases MP cost of Almighty skills by 25%
+ITEMMANAINFO_187	Decreases MP cost of Almighty skills by 30%
+ITEMMANAINFO_188	Decreases MP cost of Almighty skills by 35%
+ITEMMANAINFO_189	Decreases MP cost of Almighty skills by 40%
+ITEMMANAINFO_190	Decreases MP cost of Almighty skills by 50%
+ITEMMANAINFO_191	Chance of Almighty skills triggering critical hits against the enemy
+ITEMMANAINFO_192	Increases Almighty skills' power by 50%, but MP cost increases by 50%
+ITEMMANAINFO_193	Increases Almighty skills' power by 60%, but MP cost increases by 50%
+ITEMMANAINFO_194	Increases Almighty skills' power by 80%, but MP cost increases by 50%
+ITEMMANAINFO_195	Increases Recovery skills' potency by 20%
+ITEMMANAINFO_196	Increases Recovery skills' potency by 30%
+ITEMMANAINFO_197	Increases Recovery skills' potency by 40%
+ITEMMANAINFO_198	Increases Recovery skills' potency by 50%
+ITEMMANAINFO_199	Decreases MP cost of Recovery skills by 10%
+ITEMMANAINFO_200	Decreases MP cost of Recovery skills by 20%
+ITEMMANAINFO_201	Decreases MP cost of Recovery skills by 30%
+ITEMMANAINFO_202	Decreases MP cost of Recovery skills by 40%
+ITEMMANAINFO_203	Increases Support skills' effect by 10%
+ITEMMANAINFO_204	Increases buff/debuff effects by 5%
+ITEMMANAINFO_205	Decreases MP cost of Support skills by 10%
+ITEMMANAINFO_206	Decreases MP cost of Support skills by 20%
+ITEMMANAINFO_207	Decreases MP cost of Support skills by 40%
+ITEMMANAINFO_208	Extends the effect of buff/debuff skills by 1 turn.
+ITEMMANAINFO_209	Extends the effect of buff/debuff skills by 2 turns.
+ITEMMANAINFO_210	衣装説明210
+ITEMMANAINFO_211	衣装説明211
+ITEMMANAINFO_212	衣装説明212
+ITEMMANAINFO_213	衣装説明213
+ITEMMANAINFO_214	衣装説明214
+ITEMMANAINFO_215	衣装説明215
+ITEMMANAINFO_216	衣装説明216
+ITEMMANAINFO_217	衣装説明217
+ITEMMANAINFO_218	衣装説明218
+ITEMMANAINFO_219	衣装説明219
+ITEMMANAINFO_220	衣装説明220
+ITEMMANAINFO_221	衣装説明221
+ITEMMANAINFO_222	衣装説明222
+ITEMMANAINFO_223	衣装説明223
+ITEMMANAINFO_224	衣装説明224
+ITEMMANAINFO_225	衣装説明225
+ITEMMANAINFO_226	衣装説明226
+ITEMMANAINFO_227	衣装説明227
+ITEMMANAINFO_228	衣装説明228
+ITEMMANAINFO_229	衣装説明229
+ITEMMANAINFO_230	Grants the Fire skill Agilao while equipped
+ITEMMANAINFO_231	Grants the Ice skill Bufula while equipped
+ITEMMANAINFO_232	Grants the Electricity skill Zionga while equipped
+ITEMMANAINFO_233	Grants the Force skill Zanma while equipped
+ITEMMANAINFO_234	Grants the Almighty skill Megido while equipped
+ITEMMANAINFO_235	Grants the Fire skill Muspelheim while equipped
+ITEMMANAINFO_236	Grants the Ice skill Cocytus while equipped
+ITEMMANAINFO_237	Grants the Electricity skill Perun's Strike while equipped
+ITEMMANAINFO_238	Grants the Force skill Sanjiva while equipped
+ITEMMANAINFO_239	Grants the Recovery skill Patra while equipped
+ITEMMANAINFO_240	Grants the Recovery skill Lourdes while equipped
+ITEMMANAINFO_241	Grants the Recovery skill Amrita while equipped

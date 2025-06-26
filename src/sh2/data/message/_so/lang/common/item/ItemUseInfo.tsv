@@ -1,0 +1,202 @@
+id	en
+ITEMUSEINFO_00	ダミー
+ITEMUSEINFO_01	Restores 80 HP to 1 ally.
+ITEMUSEINFO_02	Restores 200 HP to 1 ally.
+ITEMUSEINFO_03	Restores 40 MP to 1 ally.
+ITEMUSEINFO_04	Cures Sleep/Seal/Daze/Target for 1 ally.
+ITEMUSEINFO_05	Cures Poison/Paralysis/Dread/Bomb for 1 ally.
+ITEMUSEINFO_06	Revives 1 ally with a small amount of HP.
+ITEMUSEINFO_07	Increases 1 ally's Attack for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+ITEMUSEINFO_08	Increases 1 ally's Defense for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+ITEMUSEINFO_09	Increases 1 ally’s Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+ITEMUSEINFO_10	Nullifies buffs on 1 enemy.
+ITEMUSEINFO_11	Nullifies debuffs on 1 ally.
+ITEMUSEINFO_12	Guarantees the party escape from battles, save for select special encounters.
+ITEMUSEINFO_13	Restores 200 HP to all allies.
+ITEMUSEINFO_14	Restores 80 MP to all allies.
+ITEMUSEINFO_15	Repels 1 Physical attack for 1 ally. Can't coexist with a Magic repel effect.
+ITEMUSEINFO_16	Repels 1 non-Almighty Magic attack for 1 ally. Can't coexist with a Physical repel effect. 
+ITEMUSEINFO_17	Restores a small amount of HP for 1 ally.
+ITEMUSEINFO_18	Fully heals 1 ally.
+ITEMUSEINFO_19	Fully heals 1 ally's HP and cures them of all status ailments other than KO.
+ITEMUSEINFO_20	Restores a small amount of MP for 1 ally.
+ITEMUSEINFO_21	Fully restores MP for 1 ally.
+ITEMUSEINFO_22	Revives 1 ally with half HP.
+ITEMUSEINFO_23	Revives 1 ally with full HP.
+ITEMUSEINFO_24	Fully restores HP for all allies.
+ITEMUSEINFO_25	Fully restores MP for all allies.
+ITEMUSEINFO_26	Fully restores HP and MP for all allies.
+ITEMUSEINFO_27	Cures Sleep/Seal/Daze/Target for all allies.
+ITEMUSEINFO_28	Cures Poison/Paralysis/Dread/Bomb for all allies.
+ITEMUSEINFO_29	Repels 1 Physical attack for all allies. Can't coexist with a Magic repel effect.
+ITEMUSEINFO_30	Repels 1 non-Almighty Magic attack for all allies. Can't coexist with a Physical repel effect. 
+ITEMUSEINFO_31	Increases all allies' Attack for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+ITEMUSEINFO_32	Increases all allies' Defense for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+ITEMUSEINFO_33	Increases all allies' Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+ITEMUSEINFO_34	Nullifies buffs on all enemies.
+ITEMUSEINFO_35	Nullifies debuffs on all allies.
+ITEMUSEINFO_36	Weak Fire damage to 1 enemy.
+ITEMUSEINFO_37	Weak Fire damage to all enemies.
+ITEMUSEINFO_38	Weak Ice damage to 1 enemy.
+ITEMUSEINFO_39	Weak Ice damage to all enemies.
+ITEMUSEINFO_40	Weak Electricity damage to 1 enemy.
+ITEMUSEINFO_41	Weak Electricity damage to all enemies.
+ITEMUSEINFO_42	Weak Force damage to 1 enemy.
+ITEMUSEINFO_43	Weak Force damage to all enemies.
+ITEMUSEINFO_44	Weak Almighty damage to all enemies.
+ITEMUSEINFO_45	Cures 1 ally of all status ailments other than KO.
+ITEMUSEINFO_46	Cures all allies of all status ailments other than KO.
+ITEMUSEINFO_47	Full HP recovery and STR+1 for one ally.
+ITEMUSEINFO_48	Full HP recovery and INT+1 for one ally.
+ITEMUSEINFO_49	Full HP recovery and VIT+1 for one ally.
+ITEMUSEINFO_50	Full HP recovery and AGI+1 for one ally.
+ITEMUSEINFO_51	Full HP recovery and LUK+1 for one ally.
+ITEMUSEINFO_52	Full HP recovery and STR+3 for one ally.
+ITEMUSEINFO_53	Full HP recovery and INT+3 for one ally.
+ITEMUSEINFO_54	Full HP recovery and VIT+3 for one ally.
+ITEMUSEINFO_55	Full HP recovery and AGI+3 for one ally.
+ITEMUSEINFO_56	Full HP recovery and LUK+3 for one ally.
+ITEMUSEINFO_57	Raises the demon's STR by 1.
+ITEMUSEINFO_58	Raises the demon's INT by 1.
+ITEMUSEINFO_59	Raises the demon's VIT by 1.
+ITEMUSEINFO_60	Raises the demon's AGI by 1.
+ITEMUSEINFO_61	Raises the demon's LUK by 1.
+ITEMUSEINFO_62	Raises the demon's STR by 3.
+ITEMUSEINFO_63	Raises the demon's INT by 3.
+ITEMUSEINFO_64	Raises the demon's VIT by 3.
+ITEMUSEINFO_65	Raises the demon's AGI by 3.
+ITEMUSEINFO_66	Raises the demon's LUK by 3.
+ITEMUSEINFO_67	Heals all allies' HP. On ''NORMAL'' difficulty, it can be used when the party gets wiped out.
+ITEMUSEINFO_68	The Summoner gains 30% of the EXP needed to level up.
+ITEMUSEINFO_69	The Summoner gains 50% of the EXP needed to level up.
+ITEMUSEINFO_70	The Summoner gains 100% of the EXP needed to level up.
+ITEMUSEINFO_71	The demon gains 30% of the EXP needed to level up.
+ITEMUSEINFO_72	The demon gains 50% of the EXP needed to level up.
+ITEMUSEINFO_73	The demon gains 100% of the EXP needed to level up.
+ITEMUSEINFO_74	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_75	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_76	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_77	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_78	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_79	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_80	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_81	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_82	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_83	Valuable good. Can be sold at a store for a lucrative price.
+ITEMUSEINFO_84	Restores 100 HP to all allies.
+ITEMUSEINFO_85	Restores 55 MP to 1 ally.
+ITEMUSEINFO_86	Increases all allies' Attack/Aim/Dodge for <tags=''33''g=''1'' type=''Turn'' value=''3''> turns.
+ITEMUSEINFO_87	Medium Almighty damage to 1 enemy. Drains target's HP.
+ITEMUSEINFO_88	Fully restores HP for 1 ally.
+ITEMUSEINFO_89	Restores 120 MP to 1 ally.
+ITEMUSEINFO_90	Cures a party member of all status ailments other than KO.
+ITEMUSEINFO_91	Restores ally's HP by 50% of their max.
+ITEMUSEINFO_92	Slightly restores MP for 1 ally.
+ITEMUSEINFO_93	Slightly heals HP for 1 ally and increases their Attack.
+ITEMUSEINFO_94	Slightly heals HP for 1 ally and increases their Defense.
+ITEMUSEINFO_95	Slightly heals HP for 1 ally and increases their Aim/Dodge.
+ITEMUSEINFO_96	Slightly heals HP for all allies.
+ITEMUSEINFO_97	消費アイテム説明097
+ITEMUSEINFO_98	消費アイテム説明098
+ITEMUSEINFO_99	消費アイテム説明099
+ITEMUSEINFO_100	消費アイテム説明100
+ITEMUSEINFO_101	消費アイテム説明101
+ITEMUSEINFO_102	消費アイテム説明102
+ITEMUSEINFO_103	消費アイテム説明103
+ITEMUSEINFO_104	消費アイテム説明104
+ITEMUSEINFO_105	消費アイテム説明105
+ITEMUSEINFO_106	消費アイテム説明106
+ITEMUSEINFO_107	消費アイテム説明107
+ITEMUSEINFO_108	消費アイテム説明108
+ITEMUSEINFO_109	消費アイテム説明109
+ITEMUSEINFO_110	消費アイテム説明110
+ITEMUSEINFO_111	消費アイテム説明111
+ITEMUSEINFO_112	消費アイテム説明112
+ITEMUSEINFO_113	消費アイテム説明113
+ITEMUSEINFO_114	消費アイテム説明114
+ITEMUSEINFO_115	消費アイテム説明115
+ITEMUSEINFO_116	消費アイテム説明116
+ITEMUSEINFO_117	消費アイテム説明117
+ITEMUSEINFO_118	消費アイテム説明118
+ITEMUSEINFO_119	消費アイテム説明119
+ITEMUSEINFO_120	消費アイテム説明120
+ITEMUSEINFO_121	消費アイテム説明121
+ITEMUSEINFO_122	消費アイテム説明122
+ITEMUSEINFO_123	消費アイテム説明123
+ITEMUSEINFO_124	消費アイテム説明124
+ITEMUSEINFO_125	消費アイテム説明125
+ITEMUSEINFO_126	消費アイテム説明126
+ITEMUSEINFO_127	消費アイテム説明127
+ITEMUSEINFO_128	消費アイテム説明128
+ITEMUSEINFO_129	消費アイテム説明129
+ITEMUSEINFO_130	消費アイテム説明130
+ITEMUSEINFO_131	消費アイテム説明131
+ITEMUSEINFO_132	消費アイテム説明132
+ITEMUSEINFO_133	消費アイテム説明133
+ITEMUSEINFO_134	消費アイテム説明134
+ITEMUSEINFO_135	消費アイテム説明135
+ITEMUSEINFO_136	消費アイテム説明136
+ITEMUSEINFO_137	消費アイテム説明137
+ITEMUSEINFO_138	消費アイテム説明138
+ITEMUSEINFO_139	消費アイテム説明139
+ITEMUSEINFO_140	消費アイテム説明140
+ITEMUSEINFO_141	消費アイテム説明141
+ITEMUSEINFO_142	消費アイテム説明142
+ITEMUSEINFO_143	消費アイテム説明143
+ITEMUSEINFO_144	消費アイテム説明144
+ITEMUSEINFO_145	消費アイテム説明145
+ITEMUSEINFO_146	消費アイテム説明146
+ITEMUSEINFO_147	消費アイテム説明147
+ITEMUSEINFO_148	消費アイテム説明148
+ITEMUSEINFO_149	消費アイテム説明149
+ITEMUSEINFO_150	消費アイテム説明150
+ITEMUSEINFO_151	消費アイテム説明151
+ITEMUSEINFO_152	消費アイテム説明152
+ITEMUSEINFO_153	消費アイテム説明153
+ITEMUSEINFO_154	消費アイテム説明154
+ITEMUSEINFO_155	消費アイテム説明155
+ITEMUSEINFO_156	消費アイテム説明156
+ITEMUSEINFO_157	消費アイテム説明157
+ITEMUSEINFO_158	消費アイテム説明158
+ITEMUSEINFO_159	消費アイテム説明159
+ITEMUSEINFO_160	消費アイテム説明160
+ITEMUSEINFO_161	消費アイテム説明161
+ITEMUSEINFO_162	消費アイテム説明162
+ITEMUSEINFO_163	消費アイテム説明163
+ITEMUSEINFO_164	消費アイテム説明164
+ITEMUSEINFO_165	消費アイテム説明165
+ITEMUSEINFO_166	消費アイテム説明166
+ITEMUSEINFO_167	消費アイテム説明167
+ITEMUSEINFO_168	消費アイテム説明168
+ITEMUSEINFO_169	消費アイテム説明169
+ITEMUSEINFO_170	消費アイテム説明170
+ITEMUSEINFO_171	消費アイテム説明171
+ITEMUSEINFO_172	消費アイテム説明172
+ITEMUSEINFO_173	消費アイテム説明173
+ITEMUSEINFO_174	消費アイテム説明174
+ITEMUSEINFO_175	消費アイテム説明175
+ITEMUSEINFO_176	消費アイテム説明176
+ITEMUSEINFO_177	消費アイテム説明177
+ITEMUSEINFO_178	消費アイテム説明178
+ITEMUSEINFO_179	消費アイテム説明179
+ITEMUSEINFO_180	消費アイテム説明180
+ITEMUSEINFO_181	消費アイテム説明181
+ITEMUSEINFO_182	消費アイテム説明182
+ITEMUSEINFO_183	消費アイテム説明183
+ITEMUSEINFO_184	消費アイテム説明184
+ITEMUSEINFO_185	消費アイテム説明185
+ITEMUSEINFO_186	消費アイテム説明186
+ITEMUSEINFO_187	消費アイテム説明187
+ITEMUSEINFO_188	消費アイテム説明188
+ITEMUSEINFO_189	消費アイテム説明189
+ITEMUSEINFO_190	消費アイテム説明190
+ITEMUSEINFO_191	消費アイテム説明191
+ITEMUSEINFO_192	消費アイテム説明192
+ITEMUSEINFO_193	消費アイテム説明193
+ITEMUSEINFO_194	消費アイテム説明194
+ITEMUSEINFO_195	消費アイテム説明195
+ITEMUSEINFO_196	消費アイテム説明196
+ITEMUSEINFO_197	消費アイテム説明197
+ITEMUSEINFO_198	消費アイテム説明198
+ITEMUSEINFO_199	消費アイテム説明199
+ITEMUSEINFO_200	消費アイテム説明200

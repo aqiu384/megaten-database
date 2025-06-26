@@ -1,0 +1,15 @@
+id	en	jp	cn	tw	ko	gr	es	fr	it
+ATTRNAME_01_PHYSICAL	Physical	物理	物理	物理	물리	Körperlich	Física	Physiques	Fisico
+ATTRNAME_02_GUN	Gunfire	銃撃	枪击	槍擊	총격	Schuss	Arma de fuego	Armes	Armi da fuoco
+ATTRNAME_03_FIRE	Fire	火炎	火焰	火焰	화염	Feuer	Fuego	Feu	Fuoco
+ATTRNAME_04_ICE	Ice	氷結	冰冻	冰凍	빙결	Eis	Hielo	Glace	Ghiaccio
+ATTRNAME_05_THUNDER	Electricity	電撃	电击	電擊	전격	Elektrizität	Elec.	Foudre	Elettricità
+ATTRNAME_06_WIND	Force	衝撃	冲击	衝擊	충격	Kraft	Fuerza	Choc	Forza
+ATTRNAME_07_MAGIC	Curse	魔力	魔力	魔力	마력	Verderben	Ruina	ruine	Rovina
+ATTRNAME_00_ALL	Almighty	万能	万能	萬能	만능	Allmacht	Todopoderosa	Absolu	Onnipotente
+ENDUREWEAKNAME_01_ABSORB	Drain	吸収	吸收	吸收	흡수	Entzug	Absorber	Absorber	Assorbimento
+ENDUREWEAKNAME_02_REFLEX	Repel	反射	反弹	反彈	반사	Reflektieren	Repeler	Renvoyer	Riflesso
+ENDUREWEAKNAME_03_BLOCK	Null	無効	无效	無效	무효	Annullieren	Anular	Annuler	Annulla
+ENDUREWEAKNAME_04_ENDURE	Resist	耐性	耐性	抗性	내성	Resistent	Resistir	Résister	Resistenza
+ENDUREWEAKNAME_05_NORMAL	Normal	通常	普通	一般	일반	Normal	Normal	Normal	Normale
+ENDUREWEAKNAME_00_WEAK	Weak	弱点	弱点	弱點	약점	Schwach	Débil	Affaiblir	Debole

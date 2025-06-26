@@ -1,0 +1,114 @@
+languageCommon:
+  languages: ["en", "jp", "cn", "tw", "ko", "gr", "es", "fr", "it"]
+  nullValues: []
+  rowLocationNesting: ["MonoBehaviour", "m_oneLineData"]
+  colFormat:
+    name: id
+    text: lang
+characterNames:
+  inputPath: data/message/_so/temp/{}/common/CharacterName.asset
+  outputPath: data/message/_so/lang/common/CharacterName.tsv
+  baseLanguageConfig: languageCommon
+demonNames:
+  inputPath: data/message/_so/temp/{}/common/NakamaName.asset
+  outputPath: data/message/_so/lang/common/NakamaName.tsv
+  baseLanguageConfig: languageCommon
+demonEffects:
+  inputPath: data/message/_so/temp/{}/common/NakamaInfo.asset
+  outputPath: data/message/_so/lang/common/NakamaInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+elementNames:
+  inputPath: data/message/_so/temp/{}/common/StatusParamName.asset
+  outputPath: data/message/_so/lang/common/StatusParamName.tsv
+  baseLanguageConfig: languageCommon
+raceNames:
+  inputPath: data/message/_so/temp/{}/common/RaceName.asset
+  outputPath: data/message/_so/lang/common/RaceName.tsv
+  baseLanguageConfig: languageCommon
+skillNames:
+  inputPath: data/message/_so/temp/{}/common/skill/SkillName.asset
+  outputPath: data/message/_so/lang/common/skill/SkillName.tsv
+  baseLanguageConfig: languageCommon
+skillEffects:
+  inputPath: data/message/_so/temp/{}/common/skill/SkillInfo.asset
+  outputPath: data/message/_so/lang/common/skill/SkillInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+accessoryNames:
+  inputPath: data/message/_so/temp/{}/common/item/ItemAcsName.asset
+  outputPath: data/message/_so/lang/common/item/ItemAcsName.tsv
+  baseLanguageConfig: languageCommon
+accessoryEffects:
+  inputPath: data/message/_so/temp/{}/common/item/ItemAcsInfo.asset
+  outputPath: data/message/_so/lang/common/item/ItemAcsInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+costumeNames:
+  inputPath: data/message/_so/temp/{}/common/item/ItemCosName.asset
+  outputPath: data/message/_so/lang/common/item/ItemCosName.tsv
+  baseLanguageConfig: languageCommon
+costumeEffects:
+  inputPath: data/message/_so/temp/{}/common/item/ItemCosInfo.asset
+  outputPath: data/message/_so/lang/common/item/ItemCosInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+keyItemNames:
+  inputPath: data/message/_so/temp/{}/common/item/ItemKeyName.asset
+  outputPath: data/message/_so/lang/common/item/ItemKeyName.tsv
+  baseLanguageConfig: languageCommon
+keyItemEffects:
+  inputPath: data/message/_so/temp/{}/common/item/ItemKeyInfo.asset
+  outputPath: data/message/_so/lang/common/item/ItemKeyInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+mistiqueNames:
+  inputPath: data/message/_so/temp/{}/common/item/ItemManaName.asset
+  outputPath: data/message/_so/lang/common/item/ItemManaName.tsv
+  baseLanguageConfig: languageCommon
+mistiqueEffects:
+  inputPath: data/message/_so/temp/{}/common/item/ItemManaInfo.asset
+  outputPath: data/message/_so/lang/common/item/ItemManaInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+materialNames:
+  inputPath: data/message/_so/temp/{}/common/item/ItemMatName.asset
+  outputPath: data/message/_so/lang/common/item/ItemMatName.tsv
+  baseLanguageConfig: languageCommon
+materialEffects:
+  inputPath: data/message/_so/temp/{}/common/item/ItemMatInfo.asset
+  outputPath: data/message/_so/lang/common/item/ItemMatInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+mealNames:
+  inputPath: data/message/_so/temp/{}/common/item/ItemMealName.asset
+  outputPath: data/message/_so/lang/common/item/ItemMealName.tsv
+  baseLanguageConfig: languageCommon
+mealEffects:
+  inputPath: data/message/_so/temp/{}/common/item/ItemMealInfo.asset
+  outputPath: data/message/_so/lang/common/item/ItemMealInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+consumableNames:
+  inputPath: data/message/_so/temp/{}/common/item/ItemUseName.asset
+  outputPath: data/message/_so/lang/common/item/ItemUseName.tsv
+  baseLanguageConfig: languageCommon
+consumableEffects:
+  inputPath: data/message/_so/temp/{}/common/item/ItemUseInfo.asset
+  outputPath: data/message/_so/lang/common/item/ItemUseInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+compUpgradeNames:
+  inputPath: data/message/_so/temp/{}/common/weaponcustom/WeaponCustomName.asset
+  outputPath: data/message/_so/lang/common/weaponcustom/WeaponCustomName.tsv
+  baseLanguageConfig: languageCommon
+compUpgradeEffects:
+  inputPath: data/message/_so/temp/{}/common/weaponcustom/WeaponCustomInfo.asset
+  outputPath: data/message/_so/lang/common/weaponcustom/WeaponCustomInfo.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+sidequestEffects:
+  inputPath: data/message/_so/temp/{}/common/event/RequestCommon.asset
+  outputPath: data/message/_so/lang/common/event/RequestCommon.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon

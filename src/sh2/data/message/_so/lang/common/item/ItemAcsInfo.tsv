@@ -1,0 +1,202 @@
+id	en
+ITEMACSINFO_00	防御力10, リンゴ専用
+ITEMACSINFO_01	防御力10, アロウ専用
+ITEMACSINFO_02	防御力10, サイゾー専用
+ITEMACSINFO_03	防御力11, ミレディ専用
+ITEMACSINFO_04	防御力14 
+ITEMACSINFO_05	防御力12, STR+4
+ITEMACSINFO_06	防御力11, AGI+4
+ITEMACSINFO_07	防御力12, MP+30
+ITEMACSINFO_08	防御力18
+ITEMACSINFO_09	防御力15, INT+5
+ITEMACSINFO_10	防御力15
+ITEMACSINFO_11	防御力16, 毒･麻痺･畏縮･爆弾になりにくくなる
+ITEMACSINFO_12	防御力22
+ITEMACSINFO_13	防御力18, STR+7
+ITEMACSINFO_14	防御力26
+ITEMACSINFO_15	防御力23, HP+150
+ITEMACSINFO_16	防御力23, MP+80
+ITEMACSINFO_17	防御力25, 睡眠･封印･放心･目標になりにくくなる
+ITEMACSINFO_18	防御力25, AGI+5, LUK+5
+ITEMACSINFO_19	防御力30
+ITEMACSINFO_20	防御力28, STR+7, VIT+8
+ITEMACSINFO_21	防御力35
+ITEMACSINFO_22	防御力31, INT+7, AGI+8
+ITEMACSINFO_23	防御力32, HP+160, MP+80
+ITEMACSINFO_24	防御力36, 銃撃属性と衝撃属性に対する回避率が上昇する
+ITEMACSINFO_25	防御力40
+ITEMACSINFO_26	防御力36, 物理属性と火炎属性に対する回避率が上昇する
+ITEMACSINFO_27	防御力37, STR+5, AGI+5, LUK+5
+ITEMACSINFO_28	防御力45
+ITEMACSINFO_29	防御力42, HP+170, STR+8
+ITEMACSINFO_30	防御力41, AGI+12
+ITEMACSINFO_31	防御力50
+ITEMACSINFO_32	防御力48, INT+8, MP90
+ITEMACSINFO_33	防御力47, HP+220
+ITEMACSINFO_34	防御力48, 氷結属性と電撃属性と魔力属性に対する回避率が上昇する
+ITEMACSINFO_35	防御力54
+ITEMACSINFO_36	防御力51, MP+120
+ITEMACSINFO_37	防御力53, 全属性に対する回避率が上昇する
+ITEMACSINFO_38	防御力61, HP160, INT+12  リンゴ専用
+ITEMACSINFO_39	防御力55, VIT+12, LUK+10  アロウ専用
+ITEMACSINFO_40	防御力62, STR+12, AGI+10  ミレディ専用
+ITEMACSINFO_41	防御力60, MP+180, HP+100  サイゾー専用
+ITEMACSINFO_42	防御力55, 全ての状態異常に対する回避率が上昇する
+ITEMACSINFO_43	防御力64
+ITEMACSINFO_44	防御力68
+ITEMACSINFO_45	防御力66, 全能力+9
+ITEMACSINFO_46	防御力72
+ITEMACSINFO_47	防御力75, STR+10, LUK+10, VIT+10  男性専用
+ITEMACSINFO_48	防御力58, MP+75, INT+8, AGI+8  女性専用
+ITEMACSINFO_49	防御力80, STR+15, 即死攻撃に対する耐性を得る  リンゴ専用
+ITEMACSINFO_50	防御力80, VIT+15, 物理属性に対して中確率で反撃する  アロウ専用
+ITEMACSINFO_51	防御力80, INT+15, 行動するたびにMPが一定量回復する  ミレディ専用
+ITEMACSINFO_52	防御力80, AGI+15, 最大HPがそこそこ上昇する サイゾー専用
+ITEMACSINFO_53	防御力20, VIT+4, AGI+4, サイゾー専用
+ITEMACSINFO_54	防御力19, MP+30, INT+4, アロウ専用
+ITEMACSINFO_55	防御力33, STR+7, VIT+7, リンゴ専用
+ITEMACSINFO_56	防御力30, HP+140, AGI+7, ミレディ専用
+ITEMACSINFO_57	防御力27, LUK+8, 毒･麻痺･畏縮･爆弾になりにくくなる
+ITEMACSINFO_58	防御力17, LUKとAGIが上昇する
+ITEMACSINFO_59	防御力42, INTとVITが上昇する
+ITEMACSINFO_60	防御力48, VITとLUKが上昇する
+ITEMACSINFO_61	防御力, ｱｸｾｻﾘ説明061
+ITEMACSINFO_62	防御力, ｱｸｾｻﾘ説明062
+ITEMACSINFO_63	防御力, ｱｸｾｻﾘ説明063
+ITEMACSINFO_64	防御力, ｱｸｾｻﾘ説明064
+ITEMACSINFO_65	防御力, ｱｸｾｻﾘ説明065
+ITEMACSINFO_66	防御力, ｱｸｾｻﾘ説明066
+ITEMACSINFO_67	防御力, ｱｸｾｻﾘ説明067
+ITEMACSINFO_68	防御力, ｱｸｾｻﾘ説明068
+ITEMACSINFO_69	防御力, ｱｸｾｻﾘ説明069
+ITEMACSINFO_70	防御力, ｱｸｾｻﾘ説明070
+ITEMACSINFO_71	防御力, ｱｸｾｻﾘ説明071
+ITEMACSINFO_72	防御力, ｱｸｾｻﾘ説明072
+ITEMACSINFO_73	防御力, ｱｸｾｻﾘ説明073
+ITEMACSINFO_74	防御力, ｱｸｾｻﾘ説明074
+ITEMACSINFO_75	防御力, ｱｸｾｻﾘ説明075
+ITEMACSINFO_76	防御力, ｱｸｾｻﾘ説明076
+ITEMACSINFO_77	防御力, ｱｸｾｻﾘ説明077
+ITEMACSINFO_78	防御力, ｱｸｾｻﾘ説明078
+ITEMACSINFO_79	防御力, ｱｸｾｻﾘ説明079
+ITEMACSINFO_80	防御力15, 毒にかかりにくくなる
+ITEMACSINFO_81	防御力24, MP+60, INT+5
+ITEMACSINFO_82	防御力22, LUK+6  リンゴ専用
+ITEMACSINFO_83	防御力30, VIT+7, 物理属性に対する回避率が上昇する  アロウ専用
+ITEMACSINFO_84	防御力58, INT+6, AGI+6, LUK+6
+ITEMACSINFO_85	防御力40, LUK+9  リンゴ専用
+ITEMACSINFO_86	防御力50, LUK+12, 戦闘でアイテムを得られる確率が上がる  リンゴ専用
+ITEMACSINFO_87	防御力50, VIT+15,  サイゾー専用
+ITEMACSINFO_88	防御力57, INT+11, VIT+11  ミレディ専用
+ITEMACSINFO_89	防御力**, ○○○○○○○○○○○○○○○○○○○○○
+ITEMACSINFO_90	防御力**, STRLUK(+2，+2),サイゾー専用
+ITEMACSINFO_91	防御力**, MP+25, 毒･麻痺･畏縮･爆弾になりにくくなる, ミレディ専用
+ITEMACSINFO_92	防御力**, INT+7, HP+40, アロウ専用
+ITEMACSINFO_93	防御力**, MP+75, 行動後MPが微量回復, ミレディ専用
+ITEMACSINFO_94	防御力**, VIT+5, 銃撃属性の回避率が上昇, サイゾー専用
+ITEMACSINFO_95	防御力**, STR+6, LUK+6, クリティカル率上昇, アロウ専用
+ITEMACSINFO_96	防御力**, MP+60, VIT+3, AGI+3, LUK+3, ミレディ専用
+ITEMACSINFO_97	防御力**, STR+3, INT+3, AGI+3, LUK+3, サイゾー専用
+ITEMACSINFO_98	防御力, ｱｸｾｻﾘ説明098
+ITEMACSINFO_99	防御力, ｱｸｾｻﾘ説明099
+ITEMACSINFO_100	防御力20, リスキーエネミーからのダメージを少し軽減する
+ITEMACSINFO_101	防御力25, リスキーエネミーから状態異常を付与される確率を低下させる
+ITEMACSINFO_102	防御力35, リスキーエネミーからの攻撃に対し回避率を少し上昇させる
+ITEMACSINFO_103	防御力45, リスキーエネミーに対しターン開始時デ・カジャが発動する
+ITEMACSINFO_104	防御力55, リスキーエネミーからのダメージをそこそこ軽減する
+ITEMACSINFO_105	防御力65, リスキーエネミーからの攻撃に対し回避率をそこそこ上昇させる
+ITEMACSINFO_106	防御力75, リスキーエネミーからのダメージを大きく軽減する
+ITEMACSINFO_107	防御力80, ボスとリスキーエネミーからの攻撃に対し回避率を大きく上昇させる
+ITEMACSINFO_108	防御力, ｱｸｾｻﾘ説明108
+ITEMACSINFO_109	防御力, ｱｸｾｻﾘ説明109
+ITEMACSINFO_110	防御力, ｱｸｾｻﾘ説明110
+ITEMACSINFO_111	防御力, ｱｸｾｻﾘ説明111
+ITEMACSINFO_112	防御力, ｱｸｾｻﾘ説明112
+ITEMACSINFO_113	防御力, ｱｸｾｻﾘ説明113
+ITEMACSINFO_114	防御力, ｱｸｾｻﾘ説明114
+ITEMACSINFO_115	防御力, ｱｸｾｻﾘ説明115
+ITEMACSINFO_116	防御力, ｱｸｾｻﾘ説明116
+ITEMACSINFO_117	防御力, ｱｸｾｻﾘ説明117
+ITEMACSINFO_118	防御力, ｱｸｾｻﾘ説明118
+ITEMACSINFO_119	防御力, ｱｸｾｻﾘ説明119
+ITEMACSINFO_120	LV依存防御力, 奇襲率↓、先制率↑(±15%)
+ITEMACSINFO_121	LV依存防御力, 毎行動MP回復(3％)＋全状態異常耐性
+ITEMACSINFO_122	LV依存防御力, 銃撃属性クリティカル率アップ（+40%）
+ITEMACSINFO_123	LV依存防御力, バトル結果で交渉悪魔が出現する率がアップ
+ITEMACSINFO_124	LV依存防御力, サバトダメージアップ（+10%）
+ITEMACSINFO_125	LV依存防御力, 物理属性クリティカル率アップ（+40%）
+ITEMACSINFO_126	防御力, ｱｸｾｻﾘ説明126
+ITEMACSINFO_127	防御力, ｱｸｾｻﾘ説明127
+ITEMACSINFO_128	防御力, ｱｸｾｻﾘ説明128
+ITEMACSINFO_129	防御力, ｱｸｾｻﾘ説明129
+ITEMACSINFO_130	防御力, ｱｸｾｻﾘ説明130
+ITEMACSINFO_131	防御力, ｱｸｾｻﾘ説明131
+ITEMACSINFO_132	防御力, ｱｸｾｻﾘ説明132
+ITEMACSINFO_133	防御力, ｱｸｾｻﾘ説明133
+ITEMACSINFO_134	防御力, ｱｸｾｻﾘ説明134
+ITEMACSINFO_135	防御力, ｱｸｾｻﾘ説明135
+ITEMACSINFO_136	防御力, ｱｸｾｻﾘ説明136
+ITEMACSINFO_137	防御力, ｱｸｾｻﾘ説明137
+ITEMACSINFO_138	防御力, ｱｸｾｻﾘ説明138
+ITEMACSINFO_139	防御力, ｱｸｾｻﾘ説明139
+ITEMACSINFO_140	防御力, ｱｸｾｻﾘ説明140
+ITEMACSINFO_141	防御力, ｱｸｾｻﾘ説明141
+ITEMACSINFO_142	防御力, ｱｸｾｻﾘ説明142
+ITEMACSINFO_143	防御力, ｱｸｾｻﾘ説明143
+ITEMACSINFO_144	防御力, ｱｸｾｻﾘ説明144
+ITEMACSINFO_145	防御力, ｱｸｾｻﾘ説明145
+ITEMACSINFO_146	防御力, ｱｸｾｻﾘ説明146
+ITEMACSINFO_147	防御力, ｱｸｾｻﾘ説明147
+ITEMACSINFO_148	防御力, ｱｸｾｻﾘ説明148
+ITEMACSINFO_149	防御力, ｱｸｾｻﾘ説明149
+ITEMACSINFO_150	防御力, ｱｸｾｻﾘ説明150
+ITEMACSINFO_151	防御力, ｱｸｾｻﾘ説明151
+ITEMACSINFO_152	防御力, ｱｸｾｻﾘ説明152
+ITEMACSINFO_153	防御力, ｱｸｾｻﾘ説明153
+ITEMACSINFO_154	防御力, ｱｸｾｻﾘ説明154
+ITEMACSINFO_155	防御力, ｱｸｾｻﾘ説明155
+ITEMACSINFO_156	防御力, ｱｸｾｻﾘ説明156
+ITEMACSINFO_157	防御力, ｱｸｾｻﾘ説明157
+ITEMACSINFO_158	防御力, ｱｸｾｻﾘ説明158
+ITEMACSINFO_159	防御力, ｱｸｾｻﾘ説明159
+ITEMACSINFO_160	防御力, ｱｸｾｻﾘ説明160
+ITEMACSINFO_161	防御力, ｱｸｾｻﾘ説明161
+ITEMACSINFO_162	防御力, ｱｸｾｻﾘ説明162
+ITEMACSINFO_163	防御力, ｱｸｾｻﾘ説明163
+ITEMACSINFO_164	防御力, ｱｸｾｻﾘ説明164
+ITEMACSINFO_165	防御力, ｱｸｾｻﾘ説明165
+ITEMACSINFO_166	防御力, ｱｸｾｻﾘ説明166
+ITEMACSINFO_167	防御力, ｱｸｾｻﾘ説明167
+ITEMACSINFO_168	防御力, ｱｸｾｻﾘ説明168
+ITEMACSINFO_169	防御力, ｱｸｾｻﾘ説明169
+ITEMACSINFO_170	防御力, ｱｸｾｻﾘ説明170
+ITEMACSINFO_171	防御力, ｱｸｾｻﾘ説明171
+ITEMACSINFO_172	防御力, ｱｸｾｻﾘ説明172
+ITEMACSINFO_173	防御力, ｱｸｾｻﾘ説明173
+ITEMACSINFO_174	防御力, ｱｸｾｻﾘ説明174
+ITEMACSINFO_175	防御力, ｱｸｾｻﾘ説明175
+ITEMACSINFO_176	防御力, ｱｸｾｻﾘ説明176
+ITEMACSINFO_177	防御力, ｱｸｾｻﾘ説明177
+ITEMACSINFO_178	防御力, ｱｸｾｻﾘ説明178
+ITEMACSINFO_179	防御力, ｱｸｾｻﾘ説明179
+ITEMACSINFO_180	防御力, ｱｸｾｻﾘ説明180
+ITEMACSINFO_181	防御力, ｱｸｾｻﾘ説明181
+ITEMACSINFO_182	防御力, ｱｸｾｻﾘ説明182
+ITEMACSINFO_183	防御力, ｱｸｾｻﾘ説明183
+ITEMACSINFO_184	防御力, ｱｸｾｻﾘ説明184
+ITEMACSINFO_185	防御力, ｱｸｾｻﾘ説明185
+ITEMACSINFO_186	防御力, ｱｸｾｻﾘ説明186
+ITEMACSINFO_187	防御力, ｱｸｾｻﾘ説明187
+ITEMACSINFO_188	防御力, ｱｸｾｻﾘ説明188
+ITEMACSINFO_189	防御力, ｱｸｾｻﾘ説明189
+ITEMACSINFO_190	防御力, ｱｸｾｻﾘ説明190
+ITEMACSINFO_191	防御力, ｱｸｾｻﾘ説明191
+ITEMACSINFO_192	防御力, ｱｸｾｻﾘ説明192
+ITEMACSINFO_193	防御力, ｱｸｾｻﾘ説明193
+ITEMACSINFO_194	防御力, ｱｸｾｻﾘ説明194
+ITEMACSINFO_195	防御力, ｱｸｾｻﾘ説明195
+ITEMACSINFO_196	防御力, ｱｸｾｻﾘ説明196
+ITEMACSINFO_197	防御力, ｱｸｾｻﾘ説明197
+ITEMACSINFO_198	防御力, ｱｸｾｻﾘ説明198
+ITEMACSINFO_199	防御力, ｱｸｾｻﾘ説明199
+ITEMACSINFO_200	防御力, ｱｸｾｻﾘ説明200
