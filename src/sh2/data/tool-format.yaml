@@ -1,0 +1,245 @@
+skillData:
+  inputPath: data/table/commontable/tmp/SkillTable.tsv
+  outputPath: data/skill-data.json
+  lookupFiles:
+    skillNames:
+      filename: data/message/_so/lang/common/skill/SkillName.tsv
+      key: id
+      language: en
+      remappedUniqueIds: {}
+    skillDescs:
+      filename: data/message/_so/lang/common/skill/SkillInfo.tsv
+      key: id
+      language: en
+    skillEffects:
+      filename: data/table/commontable/tmp/SkillEffectTable.tsv
+      key: m_SkillEffectID
+      language: '-'
+  nullChecks:
+    m_NameLabel: ['None']
+    m_InfoLabel: ['None']
+  colFormat:
+    m_SkillID:
+      rename: id
+      type: integer
+    m_NameLabel:
+      rename: name
+      type: lookupFile
+      lookupFile: skillNames
+    m_InfoLabel:
+      rename: description
+      type: lookupFile
+      lookupFile: skillDescs
+    m_Category:
+      type: lookup
+      lookup:
+        '-': -1
+        battle: 1
+        command: 2
+        comp: 3
+        map: 4
+    m_SkIcon:
+      rename: elem
+      type: lookup
+      lookup:
+        '-': -1
+        phys: 1
+        gun: 2
+        fire: 3
+        ice: 4
+        elec: 5
+        force: 6
+        ruin: 7
+        almighty: 8
+        recovery: 9
+        support: 10
+        special: 11
+        passive: 12
+        stkPassive: 13
+        rcnPassive: 14
+        mapActive: 15
+        sabbath: 16
+        coActive: 17
+        coPassive: 18
+        guard: 19
+        escape: 20
+        midComp: 21
+        maxComp: 36
+    m_EncodeNeedValue: unknown
+    m_SkType:
+      type: lookup
+      lookup:
+        '-': -1
+        active: 1
+        passive: 2
+        sabbath: 3
+    m_SkArea:
+      type: lookup
+      lookup:
+        '-': -1
+        battle: 1
+        field: 2
+        battleAndField: 3
+    m_SkAction:
+      type: lookup
+      lookup:
+        passive: -1
+        phys: 1
+        magic: 2
+    m_SkAttr:
+      rename: dmgElem
+      type: lookup
+      lookup:
+        '-': -1
+        fire: 1
+        ice: 2
+        elec: 3
+        force: 4
+        phys: 5
+        gun: 6
+        ruin: 7
+        almighty: 8
+    m_SkDammage:
+      rename: battleEffect
+      type: lookup
+      lookup:
+        '-': -1
+        hpDamage: 1
+        statDebuff: 2
+        statBuff: 3
+        hpRecover: 4
+        guard: 5
+        escape: 6
+        ailmentDamage: 7
+        ailmentRecover: 8
+        revival: 9
+    m_HitRatio:
+      rename: accuracy
+      type: integer
+    m_TargetType:
+      rename: target
+      type: lookup
+      lookup:
+        '-': 0
+        '1 foe': 1
+        '1 ally': 2
+        'All foes': 3
+        'All allies': 4
+        'Multi foes': 5
+    m_TargetMin:
+      rename: minhits
+      type: integer
+    m_TargetMax:
+      rename: maxhits
+      type: integer
+    m_TargetRule:
+      type: lookup
+      lookup:
+        '-': 0
+        hasHP: 1
+        hasAnyAilment: 2
+        hasMindAilment: 3
+        hasBodyAilment: 4
+        missingHP: 5
+        missingHpOrHasAnyAilment: 8
+        missingHpOrHasDebuff: 9
+        hasBuff: 10
+        hasDebuff: 11
+        isDead: 12
+        self: 13
+        allExceptSelf: 15
+    m_LifeType:
+      rename: hasMapDuration
+      type: boolean
+    m_LifeValue:
+      rename: mapDuration
+      type: integer
+    m_MapIsUse_Field:
+      type: boolean
+    m_MapIsUse_Dungeon:
+      type: boolean
+    m_MapIsUse_Ringo:
+      type: boolean
+    m_MapIsUse_AccessMap:
+      type: boolean
+    m_CostType:
+      type: lookup
+      lookup:
+        None: 0
+        MP: 1
+        Commander: 2
+    m_CostValue:
+      rename: cost
+      type: integer
+    m_HpRefParam:
+      type: lookup
+      lookup:
+        damage: 1
+        recovery: 7
+    m_HpRefValue:
+      type: integer
+      rename: power
+    m_MpRefParam:
+      type: integer
+    m_MpRefValue:
+      type: integer
+    m_SkillEffID00:
+      type: lookupFile
+      lookupFile: skillEffects
+    m_SkillEffID01:
+      type: lookupFile
+      lookupFile: skillEffects
+    m_SkillEffID02:
+      type: lookupFile
+      lookupFile: skillEffects
+    m_SkillEffID03:
+      type: lookupFile
+      lookupFile: skillEffects
+    m_SkillEffID04:
+      type: lookupFile
+      lookupFile: skillEffects
+    m_EffIdx00:
+      type: integer
+    m_EffIdx01:
+      type: integer
+    m_EffIdx02:
+      type: integer
+    m_EffIdx03:
+      type: integer
+    m_EffIdx04:
+      type: integer
+    m_InheritCategory:
+      rename: inherit
+      type: lookup
+      lookup:
+        unique: 1
+        phys: 2
+        gun: 3
+        fire: 4
+        ice: 5
+        elec: 6
+        force: 7
+        ruin: 8
+        almighty: 9
+        recovery: 10
+        support: 11
+        sabbath: 12
+    m_SkillValue:
+      rename: rank
+      type: integer
+    m_DrawingCoefficient: unknown
+    m_TextLabel: unknown
+    m_ParamSkillID: unknown
+    m_ChangeFlag:
+      rename: canMutate
+      type: boolean
+    m_SortID:
+      type: integer
+    m_IsAssist:
+      type: boolean
+    m_Flag: unknown
+    m_DemoID: unknown
+    m_ScreenEffectR: unknown
+    m_ScreenEffectG: unknown
+    m_ScreenEffectB: unknown
+    m_ScreenEffectA: unknown
