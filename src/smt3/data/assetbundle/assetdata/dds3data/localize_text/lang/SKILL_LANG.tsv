@@ -1,0 +1,355 @@
+id	en	ja	zh	ko	de	es	fr	it
+SKILL_L0000	Reserve	リザーブ	ＲＥＳＥＲＶＥ	RESERVE	Reserve	Reserva	Réserve	Riserva
+SKILL_L0001	Agi	アギ	亞基	아기	Agi	Agi	Agi	Agi
+SKILL_L0002	Agilao	アギラオ	亞基拉歐	아기라오	Agilao	Agilao	Agilao	Agilao
+SKILL_L0003	Agidyne	アギダイン	亞基達因	아기다인	Agidyne	Agidyne	Agidyne	Agidyne
+SKILL_L0004	Maragi	マハラギ	瑪哈拉基	마하라기	Maragi	Maragi	Maragi	Maragi
+SKILL_L0005	Maragion	マハラギオン	瑪哈拉基翁	마하라기온	Maragion	Maragion	Maragion	Maragion
+SKILL_L0006	Maragidyne	マハラギダイン	瑪哈拉基達因	마하라기다인	Maragidyne	Maragidyne	Maragidyne	Maragidyne
+SKILL_L0007	Bufu	ブフ	布芙	부흐	Bufu	Bufu	Bufu	Bufu
+SKILL_L0008	Bufula	ブフーラ	布芙拉	부흐라	Bufula	Bufula	Bufula	Bufula
+SKILL_L0009	Bufudyne	ブフダイン	布芙達因	부흐다인	Bufudyne	Bufudyne	Bufudyne	Bufudyne
+SKILL_L0010	Mabufu	マハブフ	瑪哈布芙	마하부흐	Mabufu	Mabufu	Mabufu	Mabufu
+SKILL_L0011	Mabufula	マハブフーラ	瑪哈布芙拉	마하부흐라	Mabufula	Mabufula	Mabufula	Mabufula
+SKILL_L0012	Mabufudyne	マハブフダイン	瑪哈布芙達因	마하부흐다인	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne
+SKILL_L0013	Zio	ジオ	吉歐	지오	Zio	Zio	Zio	Zio
+SKILL_L0014	Zionga	ジオンガ	吉歐加	지온가	Zionga	Zionga	Zionga	Zionga
+SKILL_L0015	Ziodyne	ジオダイン	吉歐達因	지오다인	Ziodyne	Ziodyne	Ziodyne	Ziodyne
+SKILL_L0016	Mazio	マハジオ	瑪哈吉歐	마하지오	Mazio	Mazio	Mazio	Mazio
+SKILL_L0017	Mazionga	マハジオンガ	瑪哈吉歐加	마하지온가	Mazionga	Mazionga	Mazionga	Mazionga
+SKILL_L0018	Maziodyne	マハジオダイン	瑪哈吉歐達因	마하지오다인	Maziodyne	Maziodyne	Maziodyne	Maziodyne
+SKILL_L0019	Zan	ザン	贊	잔	Zan	Zan	Zan	Zan
+SKILL_L0020	Zanma	ザンマ	贊瑪	잔마	Zanma	Zanma	Zanma	Zanma
+SKILL_L0021	Zandyne	ザンダイン	贊達因	잔다인	Zandyne	Zandyne	Zandyne	Zandyne
+SKILL_L0022	Mazan	マハザン	瑪哈贊	마하잔	Mazan	Mazan	Mazan	Mazan
+SKILL_L0023	Mazanma	マハザンマ	瑪哈贊瑪	마하잔마	Mazanma	Mazanma	Mazanma	Mazanma
+SKILL_L0024	Mazandyne	マハザンダイン	瑪哈贊達因	마하잔다인	Mazandyne	Mazandyne	Mazandyne	Mazandyne
+SKILL_L0025	Megido	メギド	米吉多	메기도	Megido	Megido	Megido	Megido
+SKILL_L0026	Megidola	メギドラ	米吉多拉	메기도라	Megidola	Megidola	Megidola	Megidola
+SKILL_L0027	Megidolaon	メギドラオン	米吉多拉翁	메기도라온	Megidolaon	Megidolaon	Megidolaon	Megidolaon
+SKILL_L0028	Hama	ハマ	哈瑪	하마	Hama	Hama	Hama	Hama
+SKILL_L0029	Hamaon	ハマオン	哈瑪翁	하마온	Hamaon	Hamaon	Hamaon	Hamaon
+SKILL_L0030	Mahama	マハンマ	瑪翰瑪	마한마	Mahama	Mahama	Mahama	Mahama
+SKILL_L0031	Mahamaon	マハンマオン	瑪翰瑪翁	마한마온	Mahamaon	Mahamaon	Mahamaon	Mahamaon
+SKILL_L0032	Mudo	ムド	姆多	무드	Mudo	Mudo	Mudo	Mudo
+SKILL_L0033	Mudoon	ムドオン	姆多翁	무드온	Mudoon	Mudoon	Mudoon	Mudoon
+SKILL_L0034	Mamudo	マハムド	瑪哈姆多	마하무드	Mamudo	Mamudo	Mamudo	Mamudo
+SKILL_L0035	Mamudoon	マハムドオン	瑪哈姆多翁	마하무드온	Mamudoon	Mamudoon	Mamudoon	Mamudoon
+SKILL_L0036	Dia	ディア	迪亞	디아	Dia	Dia	Dia	Dia
+SKILL_L0037	Diarama	ディアラマ	迪亞拉瑪	디아라마	Diarama	Diarama	Diarama	Diarama
+SKILL_L0038	Diarahan	ディアラハン	迪亞拉翰	디아라한	Diarahan	Diarahan	Diarahan	Diarahan
+SKILL_L0039	Media	メディア	梅迪亞	메디아	Media	Media	Media	Media
+SKILL_L0040	Mediarama	メディラマ	梅迪拉瑪	메디라마	Mediarama	Mediarama	Mediarama	Mediarama
+SKILL_L0041	Mediarahan	メディアラハン	梅迪亞拉翰	메디아라한	Mediarahan	Mediaraham	Mediarahan	Mediarahan
+SKILL_L0042	Makatora	マカトラ	瑪卡特拉	마카트라	Makatora	Makatora	Makatora	Makatora
+SKILL_L0043	Patra	パトラ	帕特拉	파트라	Patra	Patra	Patra	Patra
+SKILL_L0044	Me Patra	メパトラ	梅帕特拉	메파트라	Me Patra	Me Patra	Me Patra	Me Patra
+SKILL_L0045	Mutudi	クロズディ	克洛茲迪	클로즈디	Mutudi	Mutudi	Mutudi	Mutudi
+SKILL_L0046	Posumudi	ポズムディ	波茲姆迪	포즘디	Posumudi	Posumudi	Posumudi	Posumudi
+SKILL_L0047	Paraladi	パララディ	帕拉拉迪	패럴라디	Paraladi	Paraladi	Paraladi	Paraladi
+SKILL_L0048	Petradi	ペトラディ	沛特拉迪	페트라디	Petradi	Petradi	Petradi	Petradi
+SKILL_L0049	Recarm	リカーム	利卡姆	리캄	Recarm	Recarm	Recarm	Recarm
+SKILL_L0050	Samarecarm	サマリカーム	薩瑪利卡姆	사마리캄	Samarecarm	Samarecarm	Samarecarm	Samarecarm
+SKILL_L0051	Recarmdra	リカームドラ	利卡姆多拉	리캄드라	Recarmdra	Recarmdra	Recarmdra	Recarmdra
+SKILL_L0052	Tarunda	タルンダ	塔倫達	타룬다	Tarunda	Tarunda	Tarunda	Tarunda
+SKILL_L0053	Sukunda	スクンダ	斯坤達	스쿤다	Sukunda	Sukunda	Sukunda	Sukunda
+SKILL_L0054	Rakunda	ラクンダ	拉坤達	라쿤다	Rakunda	Rakunda	Rakunda	Rakunda
+SKILL_L0055	Makajam	マカジャマ	瑪卡加瑪	마카쟈마	Makajam	Makajam	Makajam	Makajam
+SKILL_L0056	Makajamon	マカジャマオン	瑪卡加瑪翁	마카쟈마온	Makajamon	Makajamon	Makajamon	Makajamon
+SKILL_L0057	Dekaja	デカジャ	迪卡加	데카쟈	Dekaja	Dekaja	Dekaja	Dekaja
+SKILL_L0058	Reserve	リザーブ	ＲＥＳＥＲＶＥ	RESERVE	Reserve	Reserva	Réserve	Riserva
+SKILL_L0059	Shibaboo	シバブー	慟哭緊縛	시바브	Shibaboo	Shibaboo	Shibaboo	Shibaboo
+SKILL_L0060	Dormina	ドルミナー	永眠	도르미나	Dormina	Dormina	Dormina	Dormina
+SKILL_L0061	Pulinpa	プリンパ	普林帕	프린파	Pulinpa	Pulinpa	Pulinpa	Pulinpa
+SKILL_L0062	Marin Karin	マリンカリン	馬琳卡琳	마린카린	Marin Karin	Marin Karin	Marin Karin	Marin Karin
+SKILL_L0063	Tentarafoo	テンタラフー	顛塔拉弗	텐타라후	Tentarafoo	Tentarafoo	Tentarafoo	Tentarafoo
+SKILL_L0064	Tarukaja	タルカジャ	塔爾卡加	타루카쟈	Tarukaja	Tarukaja	Tarukaja	Tarukaja
+SKILL_L0065	Sukukaja	スクカジャ	斯庫卡加	스쿠카쟈	Sukukaja	Sukukaja	Sukukaja	Sukukaja
+SKILL_L0066	Rakukaja	ラクカジャ	拉庫卡加	라쿠카쟈	Rakukaja	Rakukaja	Rakukaja	Rakukaja
+SKILL_L0067	Makakaja	マカカジャ	瑪卡卡加	마카카쟈	Makakaja	Makakaja	Makakaja	Makakaja
+SKILL_L0068	Tetraja	テトラジャ	提特拉加	테트라쟈	Tetraja	Tetraja	Tetraja	Tetraja
+SKILL_L0069	Makarakarn	マカラカーン	瑪卡拉康	마카라칸	Makarakarn	Makarakarn	Makarakarn	Makarakarn
+SKILL_L0070	Tetrakarn	テトラカーン	提特拉康	테트라칸	Tetrakarn	Tetrakarn	Tetrakarn	Tetrakarn
+SKILL_L0071	Analyze	アナライズ	分析	애널라이즈	Analyse	Analizar	Analyse	Analizza
+SKILL_L0072	Trafuri	トラフーリ	特拉芙里	트라프리	Trafuri	Trafuri	Trafuri	Trafuri
+SKILL_L0073	Estoma	エストマ	艾斯托瑪	에스트마	Estoma	Estoma	Estoma	Estoma
+SKILL_L0074	Riberama	リベラマ	利悖拉瑪	리베라마	Riberama	Riberama	Riberama	Riberama
+SKILL_L0075	Liftoma	リフトマ	利芙托瑪	리프트마	Liftoma	Elevatoma	Liftoma	Levitoma
+SKILL_L0076	Lightoma	ライトマ	萊托瑪	라이트마	Lichtoma	Ilumitoma	Lightoma	Lucoma
+SKILL_L0077	Dekunda	デクンダ	迪坤達	데쿤다	Dekunda	Dekunda	Dekunda	Dekunda
+SKILL_L0079	Pestilence	ペストクロップ	奪命瘟疫	페스트 크롭	Pestilenz	Pestilencia	Pestilence	Pestilenza
+SKILL_L0096	Lunge	突撃	突擊	돌격	Ausfall	Acometida	Fente	Affondo
+SKILL_L0097	Hell Thrust	地獄突き	地獄衝擊	지옥 찌르기	Höllenstoß	Envite infernal	Fente infernale	Slancio infernale
+SKILL_L0098	Berserk	暴れまくり	橫衝直撞	난동 부리기	Berserker	Frenesí	Ravage	Berserk
+SKILL_L0099	Tempest	烈風破	烈風破	열풍파	Sturm	Tempestad	Tempête	Tempesta
+SKILL_L0100	Hades Blast	冥界破	冥界破	명계파	Hadesstoß	Estallido de Hades	Colère d'Hadès	Urto dell'Ade
+SKILL_L0101	Heat Wave	ヒートウェーブ	灼熱波浪	히트 웨이브	Hitzewelle	Ola de calor	Onde brûlante	Ondata di calore
+SKILL_L0102	Blight	ベノンザッパー	猛毒之擊	베놈 재퍼	Seuche	Luz penetrante	Fléau	Rovina
+SKILL_L0103	Brutal Slash	絶妙剣	絕妙劍	절묘검	Brutaler Schnitt	Tajo brutal	Taillade brutale	Fendente brutale
+SKILL_L0104	Hassohappa	八相発破	八相發破	팔상발파	Hassohappa	Hassohappa	Hassohappa	Hassohappa
+SKILL_L0105	Dark Sword	暗夜剣	闇夜劍	암야검	Dunkles Schwert	Filo oscuro	Épée sombre	Spada oscura
+SKILL_L0106	Stasis Blade	不動剣	不動劍	부동검	Stasis-Klinge	Hoja del éxtasis	Lame paralysante	Lama della stasi
+SKILL_L0107	Mighty Gust	ヤマオロシ	山卸風	야마오로시	Mächtige Böe	Ráfaga potente	Coup puissant	Folata possente
+SKILL_L0108	Deathbound	デスバウンド	死亡界限	데스바운드	Todeswunsch	Portamuerte	Raid meurtrier	Attacco mortale
+SKILL_L0109	Guillotine	ギロチンカット	斷頭斬	기요틴 컷	Guillotine	Guillotina	Guillotine	Ghigliottina
+SKILL_L0110	Chaos Blade	乱入剣	亂入劍	난입검	Chaosklinge	Hoja del caos	Lame du chaos	Lama del caos
+SKILL_L0111	Needle Rush	九十九針	九十九針	구십구침	Nadelrausch	Acom. de agujas	Volée d'épines	Carica pungente
+SKILL_L0112	Stun Needle	マヒ針	麻痺針	마비침	Betäubungsnadel	Aguja aturdidora	Épines étourdiss.	Aculeo stordente
+SKILL_L0113	Toxic Sting	毒針	猛毒針	독침	Toxischer Stich	Aguja tóxica	Épines toxiques	Pungolo tossico
+SKILL_L0114	Arid Needle	石化針	石化針	석화침	Trockene Nadel	Agu. petrificadora	Épines pétrifiantes	Aculeo arido
+SKILL_L0115	Sacrifice	玉砕破	玉碎破	옥쇄파	Opfer	Sacrificar	Sacrifice	Sacrificio
+SKILL_L0116	Kamikaze	特攻	特攻	특공	Kamikaze	Kamikaze	Kamikaze	Kamikaze
+SKILL_L0117	Feral Bite	かみつき	噬咬	물기	Wilder Biss	Mordisco salvaje	Morsure sauvage	Morso ferino
+SKILL_L0118	Venom Bite	毒かみつき	猛毒噬咬	독 물기	Giftbiss	Mor. venenoso	Morsure toxique	Morso venefico
+SKILL_L0119	Charm Bite	魅惑かみつき	魅惑噬咬	매혹 물기	Verwirrungsbiss	Mor. encantador	Morsure de charme	Morso ammaliante
+SKILL_L0120	Stone Bite	石化かみつき	石化噬咬	석화 물기	Steinbiss	Mor. petrificador	Morsure pétrif.	Morso di pietra
+SKILL_L0121	Stun Bite	マヒかみつき	麻痺噬咬	마비 물기	Betäubungsbiss	Mor. aturdidor	Morsure étourdiss.	Morso stordente
+SKILL_L0122	Hell Fang	ヘルファング	地獄獵牙	헬 팽	Höllenzahn	Colmillo infernal	Croc de l'enfer	Zanna infernale
+SKILL_L0123	Feral Claw	ひっかき	抓擊	할퀴기	Wilde Klaue	Garra salvaje	Griffe sauvage	Artiglio ferino
+SKILL_L0124	Venom Claw	毒ひっかき	猛毒抓擊	독 할퀴기	Giftklaue	Garra venenosa	Griffe toxique	Artiglio venefico
+SKILL_L0125	Stun Claw	マヒひっかき	麻痺抓擊	마비 할퀴기	Betäubungsklaue	Garra aturdidora	Griffe étourdiss.	Artiglio stordente
+SKILL_L0126	Iron Claw	アイアンクロウ	鋼爪	아이언 클로	Eisenklaue	Garra de acero	Griffe de fer	Artiglio di ferro
+SKILL_L0127	Godly Light	神光破	神光破	신광파	Göttliches Licht	Luz divina	Lumière divine	Luce divina
+SKILL_L0131	Deadly Fury	死亡遊戯	死亡遊戲	사망유희	Tödlicher Zorn	Furia mortal	Rage mortelle	Furia letale
+SKILL_L0132	Reserve	リザーブ	ＲＥＳＥＲＶＥ	RESERVE	Reserve	Reserva	Réserve	Riserva
+SKILL_L0133	Xeros Beat	ゼロス・ビート	仄洛斯衝擊	제로스 비트	Xeros-Schlag	Golpe de Xeros	Choc Xeros	Colpo Xeros
+SKILL_L0136	Divine Shot	破邪の光弾	破邪光彈	파사의 광탄	Göttlicher Schuss	Tiro divino	Rayon divin	Tiro divino
+SKILL_L0137	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0138	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0139	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0140	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0143	Javelin Rain	ジャベリンレイン	槍雨	재블린 레인	Speerregen	Lluvia de jabalinas	Volée perforante	Salva di giavellotti
+SKILL_L0144	Oni Kagura	鬼神楽	鬼神樂	귀신락	Oni Kagura	Oni Kagura	Oni Kagura	Oni Kagura
+SKILL_L0147	Freikugel	至高の魔弾	至高魔彈	지고의 마탄	Freikugel	Freikugel	Freikugel	Freikugel
+SKILL_L0152	Last Resort	自爆	自爆	자폭	Letzter Ausweg	Último recurso	Dernier recours	Ultima risorsa
+SKILL_L0153	Foul Havoc	邪霊蜂起	邪靈蜂起	사령봉기	Übles Chaos	Caos fétido	Carnage fétide	Caos immondo
+SKILL_L0155	Earthquake	大地震	大地震	대지진	Erdbeben	Terremoto	Séisme	Terremoto
+SKILL_L0158	Holy Melody	神恩のラッパ	神恩號角	신은의 나팔	Heilige Melodie	Melodía sagrada	Mélodie sacrée	Melodia sacra
+SKILL_L0159	Evil Melody	魔縁のラッパ	魔緣號角	마록의 나팔	Böse Melodie	Melodía malvada	Mélodie maudite	Melodia empia
+SKILL_L0160	Spiral Viper	螺旋の蛇	螺旋蛇	나선의 뱀	Spiralviper	Víbora espiral	Vortex ophidien	Spire della vipera
+SKILL_L0161	Magma Axis	マグマ・アクシス	熔岩核心	마그마 액시스	Magamaachse	Expl. de magma	Coulée de lave	Asse magmatico
+SKILL_L0163	Gaea Rage	地母の晩餐	地母的晚餐	지모의 만찬	Gaea-Wut	Ira de Gea	Rage de Gaïa	Rabbia di Gaia
+SKILL_L0164	Counter	反撃	反擊	반격	Konter	Contraataque	Contre-attaque	Risposta
+SKILL_L0165	Retaliate	猛反撃	猛反擊	맹반격	Vergeltung	Represalia	Vengeance	Ritorsione
+SKILL_L0166	Avenge	デスカウンター	絕命反擊	데스 카운터	Rache	Venganza	Talion	Vendetta
+SKILL_L0167	Extra Hit	追い討ち	追擊	추격	Extratreffer	Golpe extra	Coup bonus	Colpo extra
+SKILL_L0168	Tentacle	死魔の触手	死魔的觸手	사마의 촉수	Tentakel	Tentáculo	Tentacule	Tentacolo
+SKILL_L0169	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0170	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0171	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0172	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0173	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0174	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0175	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0176	Fire Breath	ファイアブレス	火焰之息	파이어 브레스	Feueratem	Aliento ígneo	Souffle de feu	Soffio ardente
+SKILL_L0177	Hellfire	地獄の業火	地獄業火	지옥의 업화	Höllenfeuer	Fuego del averno	Feu de l'enfer	Fuoco infernale
+SKILL_L0178	Prominence	プロミネンス	日珥	프로미넌스	Prominenz	Prominencia	Nova	Preminenza
+SKILL_L0179	Ragnarok	ラグナロク	諸神黃昏	라그나로크	Ragnarök	Ragnarok	Ragnarök	Ragnarok
+SKILL_L0180	Ice Breath	アイスブレス	冰凍之息	아이스 브레스	Eisatem	Aliento helado	Souffle de glace	Soffio glaciale
+SKILL_L0181	Glacial Blast	絶対零度	絕對零度	절대 영도	Gletscherstoß	Estallido glacial	Explosion glaciale	Urto glaciale
+SKILL_L0182	Shock	放電	放電	방전	Schock	Descarga	Décharge	Scossa
+SKILL_L0183	Bolt Storm	ショックウェーブ	脈衝波浪	쇼크 웨이브	Bolzensturm	Tormenta eléctrica	Orage d'éclairs	Tempesta di lampi
+SKILL_L0184	Wing Buffet	羽ばたき	展翅	날갯짓	Flügelstoß	Vendaval alado	Souffle ailé	Battito d'ali
+SKILL_L0185	Tornado	竜巻	龍捲	회오리	Tornado	Tornado	Tornade	Tornado
+SKILL_L0186	Wind Cutter	真空刃	真空刃	진공인	Windschneider	Filo de viento	Bourrasque	Tagliavento
+SKILL_L0187	Wet Wind	湿った風	濕風	축축한 바람	Nasser Wind	Viento húmedo	Mousson	Vento umido
+SKILL_L0188	Thunderclap	裁きの雷火	制裁雷火	심판의 뇌화	Donnerschlag	Trueno	Fulguration	Schiocco di tuono
+SKILL_L0189	Holy Wrath	天罰	天譴	천벌	Heiliger Zorn	Ira divina	Colère divine	Ira sacra
+SKILL_L0190	Deathtouch	デスタッチ	死亡之觸	데스 터치	Todesberührung	Toque mortal	Contact mortel	Tocco mortale
+SKILL_L0191	Mana Drain	吸魔	吸魔	흡마	Mana-Entzug	Absor. de maná	Siphon de mana	Risucchio di mana
+SKILL_L0192	Life Drain	吸血	吸血	흡혈	Lebensentzug	Absorción vital	Siphon vital	Risucchio vitale
+SKILL_L0193	Violet Flash	破魔の雷光	破魔雷光	파마의 뇌광	Violetter Blitz	Rayo violeta	Flash violet	Lampo violaceo
+SKILL_L0194	Starlight	明星光	明星之光	명성광	Sternenlicht	Luz estelar	Lumière stellaire	Luce stellare
+SKILL_L0195	Radiance	汚れ無き威光	純潔威光	티 없는 위광	Strahlen	Fulgor	Radiance	Radiosità
+SKILL_L0196	Hell Gaze	ヘルズアイ	地獄之眼	헬즈 아이	Höllenblick	Mirada infernal	Regard de l'enfer	Sguardo infernale
+SKILL_L0197	Stone Gaze	ペトラアイ	石化之眼	페트라 아이	Steinblick	Mir. petrificadora	Regard pétrifiant	Sguardo di pietra
+SKILL_L0198	Mute Gaze	クロスアイ	封閉之眼	클로스 아이	Verstummungsblick	Mir. enmudece.	Regard mutique	Sguardo silente
+SKILL_L0199	Evil Gaze	イービルアイ	惡魔之眼	이블 아이	Böser Blick	Mirada vil	Regard maudit	Sguardo maligno
+SKILL_L0200	Reserve	リザーブ	ＲＥＳＥＲＶＥ	RESERVE	Reserve	Reserva	Réserve	Riserva
+SKILL_L0201	Bael's Bane	バエルの呪い	巴爾的詛咒	바알의 저주	Baals Geißel	Plaga de Baal	Fléau de Baal	Flagello di Baal
+SKILL_L0202	Toxic Cloud	毒ガスブレス	猛毒之息	독가스 브레스	Toxische Wolke	Nube tóxica	Nuage toxique	Nube tossica
+SKILL_L0203	War Cry	雄叫び	咆哮	포효	Kriegsschrei	Grito de guerra	Cri de guerre	Grido di guerra
+SKILL_L0204	Fog Breath	フォッグブレス	濃霧之息	포그 브레스	Nebelatem	Aliento neblinoso	Souffle brumeux	Soffio brumoso
+SKILL_L0205	Taunt	挑発	挑釁	도발	Hohn	Provocar	Provocation	Provocazione
+SKILL_L0206	Debilitate	ランダマイザ	女巫詛咒	랜더마이저	Entkräften	Debilitar	Affaiblissement	Debilitazione
+SKILL_L0207	Dismal Tune	魔界のしらべ	魔界的探查	마계의 음률	Kakophonie	Música funesta	Musique funeste	Melodia tetra
+SKILL_L0208	Sol Niger	ソルニゲル	漆黑之陽	솔니겔	Sol Niger	Sol Niger	Sol Niger	Sol niger
+SKILL_L0209	Stun Gaze	パララアイ	麻痺之眼	패럴라 아이	Betäubungsblick	Mirada aturdidora	Regard étourdiss.	Sguardo stordente
+SKILL_L0210	Lullaby	子守り歌	搖籃曲	자장가	Schlaflied	Canción de cuna	Berceuse	Ninnananna
+SKILL_L0211	Binding Cry	バインドボイス	束縛之聲	바인드 보이스	Bindender Schrei	Llanto atador	Cri paralysant	Grido vincolante
+SKILL_L0212	Eternal Rest	永眠の誘い	永眠的誘惑	영면의 유혹	Ewige Ruhe	Descanso eterno	Repos éternel	Eterno riposo
+SKILL_L0213	Sonic Wave	怪音波	怪音波	괴음파	Schwallwelle	Onda sónica	Onde sonique	Ondata sonica
+SKILL_L0214	Sexy Gaze	セクシーアイ	魅惑之眼	섹시 아이	Lüsterner Blick	Mirada seductora	Regard aguicheur	Sguardo seducente
+SKILL_L0215	Allure	肉体の解放	肉體解放	육체의 해방	Verlockung	Seducción	Glamour	Malia
+SKILL_L0216	Panic Voice	パニックボイス	慌亂之聲	패닉 보이스	Panische Stimme	Voz aterradora	Cri de panique	Voce del panico
+SKILL_L0217	Intoxicate	大いなる酩酊	酩酊大醉	위대한 만취	Berauschen	Intoxicar	Intoxication	Inebriamento
+SKILL_L0218	Prayer	常世の祈り	永世的祈禱	영원의 기도	Gebet	Plegaria	Prière	Preghiera
+SKILL_L0219	Beast Eye	獣の眼光	野獸的視線	짐승의 안광	Bestienauge	Ojo de la bestia	Œil de la bête	Occhio bestiale
+SKILL_L0220	Dragon Eye	龍の眼光	龍的視線	용의 안광	Drachenauge	Ojo del dragón	Œil du dragon	Occhio draconico
+SKILL_L0221	Infinite Light	無尽無辺光	無邊無盡光	무진무변광	Unendliches Licht	Luz infinita	Lumière éternelle	Luce infinita
+SKILL_L0222	Summon	召喚	召喚	소환	Rufen	Invocar	Invocation	Evoca
+SKILL_L0223	Beckon Call	召し寄せ	傳喚	동료 부르기	Herbeirufen	Invitación	Convocation	Richiamo
+SKILL_L0224	Focus	気合い	全神貫注	기합	Fokus	Concentración	Concentration	Concentrazione
+SKILL_L0225	Retreat	逃亡	逃亡	도망	Flucht	Huir	Fuite	Ritirata
+SKILL_L0226	Gathering	群れ集い	聚眾	패거리 소집	Versammlung	Reunión	Rassemblement	Adunata
+SKILL_L0227	Dark Howl	闇の遠吠え	黑暗的嚎叫	어둠의 부르짖음	Dunkles Heulen	Aullido oscuro	Hurlement sombre	Ululato oscuro
+SKILL_L0229	Laughter	高笑い	大笑	큰 웃음	Lachen	Carcajada	Rire	Risata
+SKILL_L0230	Divine Will	魔王の号令	魔王的號令	마왕의 호령	Göttlicher Wille	Voluntad divina	Volonté divine	Volere divino
+SKILL_L0232	Foul Union	邪霊烏合	邪靈聚合	사령오합	Schändliche Union	Unión fétida	Union fétide	Unione immonda
+SKILL_L0233	Replicate	分身	分身	분신	Vervielfältigung	Réplica	Réplique	Clone
+SKILL_L0234	Aurora	夜のオーロラ	闇夜極光	밤의 오로라	Aurora	Aurora	Aurore	Aurora
+SKILL_L0235	Fire of Sinai	シナイの神火	西奈神火	시나이의 신화	Feuer von Sinai	Fuego del Sinaí	Feu du Sinaï	Fuoco del Sinai
+SKILL_L0236	Conjuration	霊魂流出	靈魂溢流	영혼 유출	Beschwören	Conjuración	Conjuration	Invocazione
+SKILL_L0241	Vast Light	無尽光	無盡光	무진광	Riesiges Licht	Luz eterna	Grande lumière	Splendore
+SKILL_L0242	God's Curse	神の悪意	神的惡意	신의 악의	Gottes Fluch	Maldición de Dios	Malédiction divine	Maledizione divina
+SKILL_L0243	Hell's Call	地獄への導き	通往地獄的指引	지옥으로의 인도	Höllenruf	Llamada infernal	Ralliement infernal	Richiamo infernale
+SKILL_L0244	Icy Death	死門の流氷	死門的流冰	사문의 유빙	Eisiger Tod	Muerte helada	Mort glaciale	Morte gelida
+SKILL_L0245	Mirage	蜃気楼	海市蜃樓	신기루	Trugbild	Espejismo	Mirage	Miraggio
+SKILL_L0246	Reserve	リザーブ	ＲＥＳＥＲＶＥ	RESERVE	Reserve	Reserva	Réserve	Riserva
+SKILL_L0247	Lost Macca!	マッカをまいた！	揮灑魔貨！	마카를 뿌렸다!	Macca verloren!	¡Macca perdida!	Perte de Macca !	Macca persi!
+SKILL_L0248	Reserve	リザーブ	ＲＥＳＥＲＶＥ	RESERVE	Reserve	Reserva	Réserve	Riserva
+SKILL_L0249	Wild Dance	原色の舞踏	本色之舞	원색적인 춤	Wilder Tanz	Danza salvaje	Danse sauvage	Danza selvaggia
+SKILL_L0250	Domination	ウソブキ	咆哮	호통	Beherrschung	Dominación	Domination	Egemonia
+SKILL_L0251	Samarecarm	サマリカーム	薩瑪利卡姆	사마리캄	Samarecarm	Samarecarm	Samarecarm	Samarecarm
+SKILL_L0252	Gathering	群れ集い	聚眾	패거리 소집	Versammlung	Reunión	Rassemblement	Adunata
+SKILL_L0253	Apocalypse	末世破	末日波	말세파	Apokalypse	Apocalipsis	Apocalypse	Apocalisse
+SKILL_L0254	Phase Shift	天の鼓動	上天的悸動	하늘의 고동	Phasenwandel	Cambio de fase	Nouvelle phase	Cambio fase
+SKILL_L0255	(Summon)	（召喚）	（召喚）	(소환)	(Rufen)	(Invocar)	(Invocation)	(Evoca)
+SKILL_L0256	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0257	Fire of Sinai	シナイの神火	西奈神火	시나이의 신화	Feuer von Sinai	Fuego del Sinaí	Feu du Sinaï	Fuoco del Sinai
+SKILL_L0258	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0259	Death Flies	死蝿の葬列	死蠅的送葬	죽은 파리의 장례	Todesfliegen	Mos. de la muerte	Essaim mortel	Mosche mortali
+SKILL_L0260	Death Flies	死蝿の葬列	死蠅的送葬	죽은 파리의 장례	Todesfliegen	Mos. de la muerte	Essaim mortel	Mosche mortali
+SKILL_L0261	Soul Divide	ソウルバランス	靈魂平衡	소울 밸런스	Seelentrennung	División de alma	Division de l'âme	Frattura dell'anima
+SKILL_L0262	E & I	Ｅ＆Ｉ	E&I	E&I	E & I	E & I	E & I	E & I
+SKILL_L0263	Rebellion	リベリオン	Rebellion	리벨리온	Rebellion	Rebellion	Rebellion	Ribellione
+SKILL_L0264	Twosome Time	トゥーサムタイム	TwoSome Time	투 섬타임	Zweisamkeit	Twosome Time	Gunslinger	Twosome Time
+SKILL_L0265	Provoke	挑発	挑釁	도발	Hohn	Provocar	Provocation	Provoca
+SKILL_L0266	Stinger	スティンガー	Stinger	스팅어	Stachel	Aguijón	Stinger	Pungiglione
+SKILL_L0267	Roundtrip	ラウンドトリップ	Round Trip	라운드 트립	Rundreise	Ida y vuelta	Aller-retour	Andata e ritorno
+SKILL_L0268	Whirlwind	ワールウインド	Wild Wind	월윈드	Wirbelwind	Torbellino	Tourbillon	Vortice
+SKILL_L0269	Showtime	ショウタイム	Show Time	쇼 타임	Showtime	Especial	Showtime	Showtime
+SKILL_L0270	Attack	攻撃する	攻擊	공격한다	Angriff	Atacar	Attaquer	Attacco
+SKILL_L0271	Evil Gleam	悪しき輝き	妖媚光輝	사악한 빛	Böses Funkeln	Brillo vil	Lueur maudite	Bagliore malvagio
+SKILL_L0272	Root of Evil	初めに闇ありき	原初之暗	태초에 어둠이 있었다	Wurzel des Bösen	Origen del mal	Origine du Mal	Radice del male
+SKILL_L0273	High King	王の中の王	王中之王	왕 중의 왕	Hochkönig	Rey supremo	Le roi des rois	Re dei re
+SKILL_L0274	Holy Star	ホーリースター	Holy Star	홀리 스타	Heiliger Stern	Estrella sagrada	Étoile sacrée	Stella sacra
+SKILL_L0275	Andalucia	血のアンダルシア	染血的安達盧西亞	피의 안달루시아	Andalusien	Andalucía	Andalousie	Andalusia
+SKILL_L0276	Red Capote	赤のカポーテ	血色鬥牛士	붉은 카포테	Rotes Capote	Capote rojo	Cape rouge	Manto cremisi
+SKILL_L0277	Startle	喝破	大叱	갈파	Schreck	Sobresalto	Éveil	Sussulto
+SKILL_L0278	Preach	煩悩即菩提	煩惱即菩提	번뇌즉보리	Predigen	Sermón	Prêche	Predica
+SKILL_L0279	Meditation	瞑想	冥想	명상	Meditation	Meditación	Méditation	Meditazione
+SKILL_L0280	Terrorblade	テラーソード	恐懼之劍	테러 소드	Terrorklinge	Hoja del terror	Lame de terreur	Lama del terrore
+SKILL_L0281	Hell Spin	ヘルスピン	地獄迴旋	헬 스핀	Höllenwirbel	Giro infernal	Dérapage d'enfer	Rotazione infernale
+SKILL_L0282	Hell Exhaust	ヘルエギゾースト	地獄汲盡	헬 이그조스트	Höllendampf	Cansancio infernal	Pot d'enfer	Marmitta infernale
+SKILL_L0283	Hell Burner	ヘルバーナー	地獄燃火	헬 버너	Höllenbrenner	Quemainfiernos	Burn d'enfer	Fiammata infernale
+SKILL_L0284	Hell Throttle	ヘルスロットル	地獄風門	헬 스로틀	Höllengas	Aceleración infernal	Gaz d'enfer	Accelerata infera
+SKILL_L0285	Death Lust	女帝のリビドー	女帝狂慾	여제의 리비도	Todeslust	Luj. de la muerte	Luxure mortelle	Lussuria mortale
+SKILL_L0286	Beast Roar	邪神の蛮声	邪神的蠻聲	악신의 괴성	Bestienschrei	Rugido atroz	Cri de la bête	Ruggito bestiale
+SKILL_L0287	God's Bow	ゴッドアロー	神箭	갓 애로	Gottes Bogen	Arco de Dios	Arc divin	Arco divino
+SKILL_L0290	Life Bonus	一分の活泉	一分活泉	1할의 활천	Lebensbonus	Extra de vida	Bonus de vie	Vita bonus
+SKILL_L0291	Life Gain	二分の活泉	二分活泉	2할의 활천	Lebenszugewinn	Aumento de vida	Gain de vie	Vita plus
+SKILL_L0292	Life Surge	三分の活泉	三分活泉	3할의 활천	Lebensschub	Fuente de vida	Bouffée de vie	Vita extra
+SKILL_L0293	Mana Bonus	一分の魔脈	一分魔脈	1할의 마맥	Mana-Bonus	Extra de maná	Bonus de mana	Mana bonus
+SKILL_L0294	Mana Gain	二分の魔脈	二分魔脈	2할의 마맥	Mana-Zugewinn	Aumento de maná	Gain de mana	Mana plus
+SKILL_L0295	Mana Surge	三分の魔脈	三分魔脈	3할의 마맥	Mana-Schub	Fuente de maná	Bouffée de mana	Mana extra
+SKILL_L0296	Fast Retreat	逃走加速	加速逃離	도주 가속	Schnelle Flucht	Huida veloz	Fuite rapide	Ritirata rapida
+SKILL_L0298	Mind's Eye	心眼	心眼	심안	Inneres Auge	Ojo de la mente	Œil de l'esprit	Occhio della mente
+SKILL_L0299	Might	会心	會心	회심	Macht	Poder	Puissance	Potenza
+SKILL_L0300	Bright Might	煌天の会心	煌天會心	황천의 회심	Strahlende Macht	Poder brillante	Puissance claire	Potenza lucente
+SKILL_L0301	Dark Might	静天の会心	靜天會心	정천의 회심	Düstere Macht	Poder oscuro	Puissance obscure	Potenza oscura
+SKILL_L0302	Drain Attack	吸収攻撃	吸收攻擊	흡수 공격	Entzugsangriff	Absor. de salud	Attaque siphon	Assimilazione
+SKILL_L0304	Attack All	全体攻撃	全體攻擊	전체 공격	Alle Angreifen	Ataque general	Attaque générale	Attacco totale
+SKILL_L0305	Counter	反撃	反擊	반격	Konter	Contraataque	Contre-attaque	Risposta
+SKILL_L0306	Retaliate	猛反撃	猛反擊	맹반격	Vergeltung	Represalia	Vengeance	Ritorsione
+SKILL_L0307	Avenge	デスカウンター	絕命反擊	데스 카운터	Rache	Venganza	Talion	Vendetta
+SKILL_L0309	Fire Boost	火炎高揚	火焰激昂	화염 고양	Feuer-Boost	Poten. de fuego	Boost feu	Potenzia fuoco
+SKILL_L0310	Ice Boost	氷結高揚	冰凍激昂	빙결 고양	Eis-Boost	Poten. de hielo	Boost glace	Potenzia ghiaccio
+SKILL_L0311	Elec Boost	電撃高揚	電擊激昂	전격 고양	Elektro-Boost	Poten. electric.	Boost foudre	Potenzia elettricità
+SKILL_L0312	Force Boost	衝撃高揚	衝擊激昂	충격 고양	Kraftschub	Poten. de fuerza	Boost vent	Potenzia forza
+SKILL_L0313	Anti-Phys	耐物理	耐物理	물리 내성	Anti-Körp	Antifísico	Rés. physique	Anti-fisico
+SKILL_L0314	Anti-Fire	耐火炎	耐火焰	화염 내성	Anti-Feuer	Antifuego	Rés. feu	Anti-fuoco
+SKILL_L0315	Anti-Ice	耐氷結	耐冰凍	빙결 내성	Anti-Eis	Antihielo	Rés. glace	Anti-ghiaccio
+SKILL_L0316	Anti-Elec	耐電撃	耐電擊	전격 내성	Anti-Elektro	Antielectricidad	Rés. foudre	Anti-elettricità
+SKILL_L0317	Anti-Force	耐衝撃	耐衝擊	충격 내성	Anti-Kraft	Antifuerza	Rés. vent	Anti-forza
+SKILL_L0318	Anti-Light	耐破魔	耐破魔	파마 내성	Anti-Licht	Antiluz	Rés. lumière	Anti-luce
+SKILL_L0319	Anti-Dark	耐呪殺	耐咒殺	주살 내성	Anti-Dunkelheit	Antioscuridad	Rés. ombre	Anti-oscurità
+SKILL_L0320	Anti-Curse	耐魔力	耐魔力	마력 내성	Anti-Fluch	Antimaldición	Rés. mal	Anti-maledizione
+SKILL_L0321	Anti-Nerve	耐神経	耐神經	신경 내성	Anti-Nerven	Antiespíritu	Rés. entrave	Anti-tossina
+SKILL_L0322	Anti-Mind	耐精神	耐精神	정신 내성	Anti-Verstand	Antimente	Rés. mental	Anti-mente
+SKILL_L0323	Null: Phys	物理無効	物理無效	물리 무효	Annull.: Körp	Anulación física	Ann. physique	Annulla: fisico
+SKILL_L0324	Null: Fire	火炎無効	火焰無效	화염 무효	Annull.: Feuer	Anul. fuego	Ann. feu	Annulla: fuoco
+SKILL_L0325	Null: Ice	氷結無効	冰凍無效	빙결 무효	Annull.: Eis	Anulación de hielo	Ann. glace	Annulla: ghiaccio
+SKILL_L0326	Null: Elec	電撃無効	電擊無效	전격 무효	Annull.: Elektro	Anul. electricidad	Ann. foudre	Annulla: elettr.
+SKILL_L0327	Null: Force	衝撃無効	衝擊無效	충격 무효	Annull.: Kraft	Anul. fuerza	Ann. vent	Annulla: forza
+SKILL_L0328	Null: Light	破魔無効	破魔無效	파마 무효	Annull.: Licht	Anulación de luz	Ann. lumière	Annulla: luce
+SKILL_L0329	Null: Dark	呪殺無効	咒殺無效	주살 무효	Annull.: Dunkelheit	Anul. oscuridad	Ann. ombre	Annulla: oscurità
+SKILL_L0330	Null: Curse	魔力無効	魔力無效	마력 무효	Annull.: Fluch	Anul. maldición	Ann. mal	Annulla: malediz.
+SKILL_L0331	Null: Nerve	神経無効	神經無效	신경 무효	Annull.: Nerven	Anul. espíritu	Ann. entrave	Annulla: tossina
+SKILL_L0332	Null: Mind	精神無効	精神無效	정신 무효	Annull.: Verstand	Anul. mente	Ann. mental	Annulla: mente
+SKILL_L0333	Phys Drain	物理吸収	物理吸收	물리 흡수	Entziehen: Körp	Absorción física	Abs. physique	Assorbi: fisico
+SKILL_L0334	Fire Drain	火炎吸収	火焰吸收	화염 흡수	Entziehen: Feuer	Absor. de fuego	Abs. feu	Assorbi: fuoco
+SKILL_L0335	Ice Drain	氷結吸収	冰凍吸收	빙결 흡수	Entziehen: Eis	Absor. de hielo	Abs. glace	Assorbi: ghiaccio
+SKILL_L0336	Elec Drain	電撃吸収	電擊吸收	전격 흡수	Entziehen: Elektro	Absor. eléctrica	Abs. foudre	Assorbi: elettr.
+SKILL_L0337	Force Drain	衝撃吸収	衝擊吸收	충격 흡수	Entziehen: Kraft	Absor. de fuerza	Abs. vent	Assorbi: forza
+SKILL_L0338	Phys Repel	物理反射	物理反彈	물리 반사	Reflek.: Körp	Repulsión física	Renv. physique	Rifletti: fisico
+SKILL_L0339	Fire Repel	火炎反射	火焰反彈	화염 반사	Reflek.: Feuer	Repuls. fuego	Renv. feu	Rifletti: fuoco
+SKILL_L0340	Ice Repel	氷結反射	冰凍反彈	빙결 반사	Reflek.: Eis	Repulsión de hielo	Renv. glace	Rifletti: ghiaccio
+SKILL_L0341	Elec Repel	電撃反射	電擊反彈	전격 반사	Reflek.: Elektro	Repuls. electricidad	Renv. foudre	Rifletti: elettr.
+SKILL_L0342	Force Repel	衝撃反射	衝擊反彈	충격 반사	Reflek.: Kraft	Repuls. fuerza	Renv. vent	Rifletti: forza
+SKILL_L0345	Endure	食いしばり	強忍	이 악물기	Aushalten	Último aliento	Résilience	Stoicismo
+SKILL_L0346	Life Aid	勝利の息吹	勝利氣息	승리의 숨결	Lebenshilfe	Ayuda vital	Regain de vie	Supporto medico
+SKILL_L0347	Mana Aid	勝利のチャクラ	勝利脈輪	승리의 차크라	Mana-Hilfe	Ayuda de maná	Regain de mana	Supporto mana
+SKILL_L0348	Victory Cry	勝利の雄叫び	勝利咆哮	승리의 포효	Siegesschrei	Grito victorioso	Cri de victoire	Urla di trionfo
+SKILL_L0349	Life Refill	息吹の具足	氣息甲冑	숨결의 갑주	Lebensauffüllung	Recarga de vida	Recharge vitale	Recupero vitale
+SKILL_L0350	Mana Refill	チャクラの具足	脈輪甲冑	차크라의 갑주	Manaauffüllung	Recarga de maná	Recharge magique	Recupero di mana
+SKILL_L0351	Thief's Lore	盗人の知恵	賊人的智慧	도둑의 지혜	Diebeswissen	Astucia de ladrón	L'art du vol	Saggezza del ladro
+SKILL_L0353	Lucky Find	宝探し	尋寶	보물찾기	Glücksfund	Hallazgo fortuito	Trouvaille	Scoperta fortunata
+SKILL_L0354	Watchful	見覚えの成長	旁觀成長	간접 체험	Wachsam	Avizor	Vigilance	Vigile
+SKILL_L0355	Charisma	カリスマ	超凡入聖	카리스마	Charisma	Carisma	Charisme	Carisma
+SKILL_L0357	Pierce	貫通	貫穿	관통	Durchbohren	Perforación	Transpercement	Perforazione
+SKILL_L0360	Never Yield	ネバーギブアップ	Never Give Up	네버 기브 업	Unnachgiebig	Nunca abandones	Détermination	Mai arrendersi
+SKILL_L0361	Son's Oath	父の名に誓って	以父之名	아버지 이름에 맹세코	Schwur des Sohnes	Juramento del hijo	Serment du fils	Giuramento filiale
+SKILL_L0384	Talk	話し掛ける	交談	말을 건다	Reden	Hablar	Parler	Parla
+SKILL_L0385	Scout	スカウト	挖角	스카우트	Späher	Reclutar	Entretien	Scova
+SKILL_L0386	Kidnap	誘拐	誘拐	유괴	Entführen	Secuestrar	Kidnapper	Rapisci
+SKILL_L0387	Seduce	誘惑	誘惑	유혹	Verführen	Seducir	Séduire	Seduci
+SKILL_L0388	Brainwash	洗脳	洗腦	세뇌	Manipulieren	Manipular	Endoctriner	Soggioga
+SKILL_L0389	Reserve	リザーブ	ＲＥＳＥＲＶＥ	RESERVE	Reserve	Reserva	Réserve	Riserva
+SKILL_L0390	Dark Pledge	静天の契り	靜天之誓	정천의 계약	Dunkler Schwur	Promesa oscura	Pacte obscur	Promessa oscura
+SKILL_L0391	Wooing	口説き落とし	說服	구슬리기	Umwerben	Cortejar	Courtiser	Corteggia
+SKILL_L0392	Beseech	ヘッドハント	獵頭	헤드헌팅	Anflehen	Suplicar	Implorer	Supplica
+SKILL_L0393	Soul Recruit	英雄狩り	獵殺英雄	영웅 사냥	Seeleenrekrut	Recluta del alma	Recrutement d'âme	Reclut. dell'anima
+SKILL_L0394	Mischief	悪戯	惡作劇	희롱하기	Unheil	Trastada	Tromper	Dispetto
+SKILL_L0395	Death Pact	死の契約	死亡契約	죽음의 계약	Todespakt	Pacto mortal	Pacte mortel	Patto mortale
+SKILL_L0396	Plead	おねだり	撒嬌	조르기	Flehen	Rogar	Supplier	Implora
+SKILL_L0397	Begging	物乞い	乞討	구걸	Betteln	Mendigar	Mendier	Scongiura
+SKILL_L0398	Threaten	恐喝	恐嚇	공갈	Bedrohen	Amenazar	Menacer	Minaccia
+SKILL_L0399	Stone Hunt	ストーンハント	獵石	스톤 헌팅	Steinjagd	Caza de piedras	Chasse au trésor	Ricerca pietre
+SKILL_L0400	Trade	物々交換	以物易物	물물 교환	Handeln	Intercambio	Troquer	Scambia
+SKILL_L0401	Loan	借金	借錢	돈 빌리기	Leihen	Préstamo	Emprunter	Prestito
+SKILL_L0409	Haggle	値切り	殺價	흥정	Feilschen	Regateo	Marchander	Contratta
+SKILL_L0410	Arbitration	執り成し	協調	달래기	Schlichten	Mediación	Apaisement	Arbitrato
+SKILL_L0411	Detain	引き止め	挽留	붙들기	Verhaften	Retención	Retenir	Trattieni
+SKILL_L0412	Kinspeak	同族のよしみ	同族之情	동족의 정	Sippenslang	Afinidad de raza	Lien de race	Parlata amichevole
+SKILL_L0413	Persuade	説得	勸說	설득	Überreden	Persuadir	Persuader	Persuadi
+SKILL_L0414	Intimidate	脅し	恫嚇	협박	Einschüchtern	Intimidación	Intimider	Intimidisci
+SKILL_L0415	Nag	わがまま	任性	어리광	Nag	Intervenir	Insister	Assilla
+SKILL_L0418	Maiden Plea	乙女の仲裁	少女的仲裁	처녀의 중재	Bitte der Magd	Súplica de dama	Mots de prêtresse	Appello di fanciulla
+SKILL_L0419	Wine Party	酒の宴	酒宴	술잔치	Weinfest	Fiesta del vino	Orgie	Baccanale
+SKILL_L0420	Flatter	ゴマすり	拍馬屁	아부하기	Schmeicheln	Halago	Flatter	Lusinga
+SKILL_L0421	Jive Talk	ジャイヴトーク	花言巧語	자이브 토크	Slang	Vacilar	Polyglotte	Raggira
+SKILL_L0496	Call Angel	死天召喚	死天召喚	사천 소환	Engel rufen	Invocar ángel	Appel d'ange	Chiama Angelo
+SKILL_L0497	Call Soldier	死兵召喚	死兵召喚	사병 소환	Soldaten rufen	Invocar soldado	Appel de soldat	Chiama Soldato
+SKILL_L0498	Call Souls	死霊召喚	死靈召喚	사령 소환	Seelen rufen	Invocar almas	Appel d'âme	Chiama Anime
+SKILL_L0499	Call Evil	死魔召喚	死魔召喚	사마 소환	Böses rufen	Invocar maldad	Appel du mal	Chiama Male
+SKILLMC_L0262	Boogie-Woogie	ブギウギ	布基烏基	delete message	Boogie-Woogie	Boogie-Woogie	Boogie-Woogie	Boogie-woogie
+SKILLMC_L0263	Enter Yoshitsune	ヨシツネ見参	義經參上	delete message	Yoshitsune-Besuch	Enc. Yoshitsune	Yoshitsune spécial	Evoca Yoshitsune
+SKILLMC_L0264	Mokoi Boomerang	モコイブーメラン	惡靈迴力鏢	delete message	Mokoi-Bumerang	Bumerán de Mokoi	Boomerang Mokoi	Boomerang Mokoi
+SKILLMC_L0266	Tekisatsu	的殺	狙殺	delete message	Tekisatsu	Tekisatsu	Tekisatsu	Tekisatsu
+SKILLMC_L0267	Mishaguji Raiden	ミシャグジ雷電	御社宮司雷電	delete message	Mishaguji-Donner	Trueno Mishaguji	Mishaguji Raiden	Mishaguji Raiden
+SKILLMC_L0268	Hitokoto Storm	ヒトコト大風	一言大風	delete message	Hitokoto-Sturm	Tormenta Hitokoto	Tempête Hitokoto	Tempesta Hitokoto
+SKILLMC_L0269	Jiraiya Dance	ジライヤ乱舞	自來也亂舞	delete message	Jiraiya-Tanz	Baile Jiraiya	Danse de Jiraiya	Danza di Jiraiya
+SKILLMC_L0274	Raptor Guardian	凶鳥ガーヂアン	凶鳥守護者	delete message	Raptor-Wächter	Guardián rapaz	Gardien Raptor	Guardiano rapace
+SKILLMC_L0360	Endure	食いしばり	強忍	delete message	Aushalten	Último aliento	Résilience	Stoicismo
+SKILLMC_L0361	Raidou the Eternal	永世ライドウ	永世雷道	delete message	Raidou der Ewige	Raidou eterno	Raidou l'Éternel	Raidou l'Eterno

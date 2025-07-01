@@ -1,0 +1,42 @@
+languageCommon:
+  languages: ["en", "ja", "zh", "ko", "de", "es", "fr", "it"]
+  nullValues: []
+  rowLocationNesting: ["MonoBehaviour", "_eventEMsgData"]
+  colFormat:
+    msgID: id
+    msgStr: lang
+demonNames:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/DEVIL_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/DEVIL_LANG.tsv
+  baseLanguageConfig: languageCommon
+demonEffects:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/COLLECTIONBOOK_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/COLLECTIONBOOK_LANG.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+itemNames:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/ITEM_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/ITEM_LANG.tsv
+  baseLanguageConfig: languageCommon
+itemEffects:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/DATITEMHELP_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/DATITEMHELP_LANG.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon
+magatamaNames:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/HEARTS_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/HEARTS_LANG.tsv
+  baseLanguageConfig: languageCommon
+raceNames:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/RACE_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/RACE_LANG.tsv
+  baseLanguageConfig: languageCommon
+skillNames:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/SKILL_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/SKILL_LANG.tsv
+  baseLanguageConfig: languageCommon
+skillEffects:
+  inputPath: data/assetbundle/assetdata/dds3data/temp/localize_text/{}/DATSKILLHELP_{}.asset
+  outputPath: data/assetbundle/assetdata/dds3data/localize_text/lang/DATSKILLHELP_LANG.tsv
+  languages: ["en"]
+  baseLanguageConfig: languageCommon

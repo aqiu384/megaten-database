@@ -1,0 +1,140 @@
+skillData:
+  inputPath: dumps/skill-powers.bin
+  outputPath: data/skill-data.json
+  type: binary
+  rowOffset: 0x1000
+  rowLength: 0x3C
+  lookupFiles:
+    skillNames:
+      filename: data/assetbundle/assetdata/dds3data/localize_text/lang/SKILL_LANG.tsv
+      key: id
+      language: en
+      remappedUniqueIds:
+        'Death Flies': Death Flies B
+        'Death Flies B': Death Flies
+        'Oni Kagura': Oni-Kagura
+        'Maiden Plea': Maiden's Plea
+        'Null: Phys': 'Null Phys'
+        'Null: Fire': 'Null Fire'
+        'Null: Ice': 'Null Ice'
+        'Null: Elec': 'Null Elec'
+        'Null: Force': 'Null Force'
+        'Null: Light': 'Null Light'
+        'Null: Dark': 'Null Dark'
+        'Null: Curse': 'Null Curse'
+        'Null: Nerve': 'Null Nerve'
+        'Null: Mind': 'Null Mind'
+        Counter: Counter B
+        Retaliate: Retaliate B
+        Avenge: Avenge B
+        Counter B: Counter
+        Retaliate B: Retaliate
+        Avenge B: Avenge
+    skillDescs:
+      filename: data/assetbundle/assetdata/dds3data/localize_text/lang/DATSKILLHELP_LANG.tsv
+      key: id
+      language: en
+    oldSkillData:
+      filename: ../../../megaten-fusion-tool/src/app/smt3/data/old-skill-data.json
+      key: name
+      language: '-'
+  colFormat:
+    useArea:
+      index: 0x02
+      type: ubyte
+      lookup:
+        '-': 0
+        field: 1
+        battle: 2
+        fieldAndBattle: 3
+    costType:
+      index: 0x03
+      type: ubyte
+      lookup:
+        '-': 0
+        HP: 1
+        MP: 2
+    costAmount:
+      index: 0x04
+      type: ulong
+    target:
+      index: 0x08
+      type: ulong
+      lookup:
+        '1 foe':      0x00000200
+        'All foes':   0x00000201
+        'Rand foes':  0x01000201
+        '1 ally':     0x00000900
+        'All allies': 0x00000901
+        '1 stock':    0x00020100
+        'Everyone':   0x00020101
+        'Field':      0x00000103
+    targetFilter:
+      index: 0x0C
+      type: ulong
+    accuracyBase:
+      index: 0x11
+      type: ubyte
+    maxhitsSameTarget:
+      index: 0x14
+      type: ubyte
+    maxhitsOverall:
+      index: 0x15
+      type: ubyte
+    powerScalesWith:
+      index: 0x16
+      type: ushort
+      lookup:
+        '-': 0
+        Magic: 1
+        Strength: 2
+        HP: 4
+        Percent: 8
+    power:
+      index: 0x18
+      type: ulong
+    mpPower:
+      index: 0x1C
+      type: ulong
+    ailmentEffect:
+      index: 0x24
+      type: ubyte
+      lookup:
+        '-': 0
+        inflict: 1
+        cure: 2
+        inflict: 3
+    ailmentChance:
+      index: 0x25
+      type: ubyte
+    ailmentType:
+      index: 0x26
+      type: ushort
+      lookup:
+        '-': 0
+        Shock: 1
+        Freeze: 2
+        Sleep: 4
+        Panic: 8
+        Bind: 16
+        Mute: 32
+        Poison: 64
+        Charm: 128
+        Stun: 256
+        Stone: 1024
+        Instakill: 2048
+    buffType:
+      index: 0x28
+      type: ulong
+    crit:
+      index: 0x34
+      type: ushort
+    accuracyPenalty:
+      index: 0x36
+      type: ushort
+    powerCorrected:
+      index: 0x38
+      type: ushort
+    powerLimited:
+      index: 0x3A
+      type: ushort

@@ -1,0 +1,161 @@
+id	en
+DATITEMHELP_L0000	RESERVE ITEM
+DATITEMHELP_L0001	Recovers an ally's HP or MP. \nMay cause side effects.
+DATITEMHELP_L0002	Fixed HP recovery \nfor one ally.
+DATITEMHELP_L0003	Slight HP recovery \nfor one ally.
+DATITEMHELP_L0004	Full HP recovery \nfor one ally.
+DATITEMHELP_L0005	Full HP recovery \nfor the party.
+DATITEMHELP_L0006	Slight MP recovery \nfor one ally.
+DATITEMHELP_L0007	Full MP recovery \nfor one ally.
+DATITEMHELP_L0008	Full MP recovery \nfor the party.
+DATITEMHELP_L0009	Moderate HP/MP recovery \nfor one ally.
+DATITEMHELP_L0010	Full HP/MP recovery \nfor one ally.
+DATITEMHELP_L0011	Full HP/MP recovery \nfor the party.
+DATITEMHELP_L0012	Slight MP recovery \nfor one ally. \nReusable.
+DATITEMHELP_L0013	Revives one ally \nwith slight HP.
+DATITEMHELP_L0014	Revives one ally \nto full HP.
+DATITEMHELP_L0015	Cures Bind/Sleep/Panic \nfor the party.
+DATITEMHELP_L0016	Cures Poison \nfor one ally.
+DATITEMHELP_L0017	Cures Stun \nfor one ally.
+DATITEMHELP_L0018	Cures Charm \nfor one ally.
+DATITEMHELP_L0019	Cures Mute \nfor one ally.
+DATITEMHELP_L0020	Cures Stone \nfor one ally.
+DATITEMHELP_L0021	Low Fire damage \nto all foes.
+DATITEMHELP_L0022	Low Ice damage \nto all foes.
+DATITEMHELP_L0023	Low Elec damage \nto all foes.
+DATITEMHELP_L0024	Low Force damage \nto all foes.
+DATITEMHELP_L0025	Light: Chance to \ninstakill all foes.
+DATITEMHELP_L0026	Dark: Chance to \ninstakill all foes.
+DATITEMHELP_L0027	Medium Almighty damage \nto all foes.
+DATITEMHELP_L0028	High Almighty damage \nto all foes.
+DATITEMHELP_L0029	Curse: Low damage to all \nfoes. May inflict Poison.
+DATITEMHELP_L0030	Mind: High chance to \ninflict Charm on all \nfoes.
+DATITEMHELP_L0031	Curse: Chance to inflict \nMute on one foe.
+DATITEMHELP_L0032	Reduces HP of all foes to 1.
+DATITEMHELP_L0033	Banishes one foe \nfrom battle.
+DATITEMHELP_L0034	Repels Magical attacks \nonce next turn. \nAffects entire party.
+DATITEMHELP_L0035	Repels Physical attacks \nonce next turn. \nAffects entire party.
+DATITEMHELP_L0036	Negates -kaja effects \non all foes.
+DATITEMHELP_L0037	Protects party from \nLight/Dark attacks.
+DATITEMHELP_L0038	Raises Strength by 1 \nand full HP recovery \nfor one ally.
+DATITEMHELP_L0039	Raises In by 1 and \nfull HP recovery \nfor one ally.
+DATITEMHELP_L0040	Raises Magic by 1 \nand full HP recovery \nfor one ally.
+DATITEMHELP_L0041	Raises Vitality by 1 \nand full HP recovery \nfor one ally.
+DATITEMHELP_L0042	Raises Agility by 1 \nand full HP recovery \nfor one ally.
+DATITEMHELP_L0043	Raises Luck by 1 \nand full HP recovery \nfor one ally.
+DATITEMHELP_L0044	Light: Chance to \ninstakill all foes. \nReusable.
+DATITEMHELP_L0045	Revives one ally \nto full HP. \nReusable.
+DATITEMHELP_L0046	Displays an enemy's info. \nReusable.
+DATITEMHELP_L0047	Makes one ally resistant \nto Elec (NOT USED)
+DATITEMHELP_L0048	Makes one ally resistant \nto Force (NOT USED)
+DATITEMHELP_L0049	Makes one ally resistant \nto Light (NOT USED)
+DATITEMHELP_L0050	Makes one ally resistant \nto Dark (NOT USED)
+DATITEMHELP_L0051	Makes one ally resistant \nto Phys (NOT USED)
+DATITEMHELP_L0052	Reduces encounter rate \nof low-level demons \nuntil a new Kagutsuchi.
+DATITEMHELP_L0053	Raises encounter rate \nuntil a new Kagutsuchi.
+DATITEMHELP_L0054	Negates floor damage \nuntil a new Kagutsuchi.
+DATITEMHELP_L0055	Lights up dark areas \nuntil a new Kagutsuchi.
+DATITEMHELP_L0056	Escape from most battles \nwithout fail.
+DATITEMHELP_L0057	NOT USED
+DATITEMHELP_L0058	Checks to see if a demon \nis capable of evolving.
+DATITEMHELP_L0059	NOT USED
+DATITEMHELP_L0060	NOT USED
+DATITEMHELP_L0061	Collect 10 for a prize \nat the Junk Shop.
+DATITEMHELP_L0062	Reserve\nItem 0x003e
+DATITEMHELP_L0063	Reserve\nItem 0x003f
+DATITEMHELP_L0064	Healing-type Magatama.
+DATITEMHELP_L0065	Physical-type Magatama.
+DATITEMHELP_L0066	Healing-type Magatama.
+DATITEMHELP_L0067	Support-type Magatama.
+DATITEMHELP_L0068	Fire-type Magatama.
+DATITEMHELP_L0069	Force-type Magatama.
+DATITEMHELP_L0070	Physical-type Magatama.
+DATITEMHELP_L0071	Fire-type Magatama.
+DATITEMHELP_L0072	Fire-type Magatama.
+DATITEMHELP_L0073	Fire-type Magatama.
+DATITEMHELP_L0074	Light-type Magatama.
+DATITEMHELP_L0075	Reserve\nItem 0x004b
+DATITEMHELP_L0076	Reserve\nItem 0x004c
+DATITEMHELP_L0077	Reserve\nItem 0x004d
+DATITEMHELP_L0078	Reserve\nItem 0x004e
+DATITEMHELP_L0079	Fire-type Magatama.
+DATITEMHELP_L0080	Physical-type Magatama.
+DATITEMHELP_L0081	Reserve\nItem 0x0051
+DATITEMHELP_L0082	Reserve\nItem 0x0052
+DATITEMHELP_L0083	Physical-type Magatama.
+DATITEMHELP_L0084	Reserve\nItem 0x0054
+DATITEMHELP_L0085	Healing-type Magatama.
+DATITEMHELP_L0086	Reserve\nItem 0x0056
+DATITEMHELP_L0087	Almighty-type Magatama.
+DATITEMHELP_L0088	Reserve \nItem 0x0058
+DATITEMHELP_L0089	Earn a set amount of EXP.
+DATITEMHELP_L0090	Earn enough EXP to level up.
+DATITEMHELP_L0091	Minuscule statue that\nfetches a small price\nwhen sold.
+DATITEMHELP_L0092	Minuscule statue that\nfetches a high price\nwhen sold.
+DATITEMHELP_L0093	Minuscule statue that\nfetches a sky-high price\nwhen sold.
+DATITEMHELP_L0094	????
+DATITEMHELP_L0095	Reserve\nItem 0x005f
+DATITEMHELP_L0096	A beautiful gemstone \nthat symbolizes \nlove.
+DATITEMHELP_L0097	A beautiful gemstone \nthat symbolizes \ninnocence.
+DATITEMHELP_L0098	A beautiful gemstone \nthat symbolizes \naffection.
+DATITEMHELP_L0099	A beautiful gemstone \nthat symbolizes \nmarriage.
+DATITEMHELP_L0100	A beautiful gemstone \nthat symbolizes \npassion.
+DATITEMHELP_L0101	A beautiful gemstone \nthat symbolizes \nluck.
+DATITEMHELP_L0102	A beautiful gemstone \nthat symbolizes \njoy.
+DATITEMHELP_L0103	A beautiful gemstone \nthat symbolizes \nsincerity.
+DATITEMHELP_L0104	A beautiful gemstone \nthat symbolizes \nreality.
+DATITEMHELP_L0105	A beautiful gemstone \nthat symbolizes \nsafety.
+DATITEMHELP_L0106	A beautiful gemstone \nthat symbolizes \nfriendship.
+DATITEMHELP_L0107	A beautiful gemstone \nthat symbolizes \neternity.
+DATITEMHELP_L0108	A beautiful gemstone \nthat symbolizes \ntrust.
+DATITEMHELP_L0109	A beautiful gemstone \nthat symbolizes \nhope.
+DATITEMHELP_L0110	A beautiful gemstone \nthat symbolizes \nwisdom.
+DATITEMHELP_L0111	A beautiful gemstone \nthat symbolizes \nprosperity.
+DATITEMHELP_L0112	An employee ID/keycard for \nShinjuku Medical Center.
+DATITEMHELP_L0113	A keycard for the gate to \nthe Medical Center's \nAnnex building.
+DATITEMHELP_L0114	A white dagger that \nis shaped like a stake.
+DATITEMHELP_L0115	A yellow dagger that \nis shaped like a stake.
+DATITEMHELP_L0116	A green dagger that \nis shaped like a stake.
+DATITEMHELP_L0117	A red dagger that \nis shaped like a stake.
+DATITEMHELP_L0118	Money that is worthless \nin this world.
+DATITEMHELP_L0119	A letter given by \na Manikin in the\nUnderpass of Ginza.
+DATITEMHELP_L0120	A clam-shaped gem \nused to operate\na contraption.
+DATITEMHELP_L0121	A spoon that gleams \nlike a sharpened blade.
+DATITEMHELP_L0122	A mysterious \npyramid-shaped object.
+DATITEMHELP_L0123	A crimson stone that \nshines brightly.
+DATITEMHELP_L0124	A legendary sword said \nto have been held \nby a great emperor.
+DATITEMHELP_L0125	A key that gives access \nto the east side of \nYoyogi Park.
+DATITEMHELP_L0126	A relic that holds \nthe power of \nthe heavens.
+DATITEMHELP_L0127	A relic that holds \nthe power of \nthe earth.
+DATITEMHELP_L0128	A relic that holds \nthe power of \nthe netherworld.
+DATITEMHELP_L0129	A Menorah of the Amala \nLabyrinth. It is listed \nfirst in the Sefirot.
+DATITEMHELP_L0130	A Menorah of the Amala \nLabyrinth. It is listed \nsecond in the Sefirot.
+DATITEMHELP_L0131	A Menorah of the Amala \nLabyrinth. It is listed \nthird in the Sefirot.
+DATITEMHELP_L0132	A Menorah of the Amala \nLabyrinth. It is listed \nfourth in the Sefirot.
+DATITEMHELP_L0133	A Menorah of the Amala \nLabyrinth. It is listed \nfifth in the Sefirot.
+DATITEMHELP_L0134	A Menorah of the Amala \nLabyrinth. It is listed \nsixth in the Sefirot.
+DATITEMHELP_L0135	A Menorah of the Amala \nLabyrinth. It is listed \nseventh in the Sefirot.
+DATITEMHELP_L0136	A Menorah of the Amala \nLabyrinth. It is listed \neighth in the Sefirot.
+DATITEMHELP_L0137	A Menorah of the Amala \nLabyrinth. It is listed \nninth in the Sefirot.
+DATITEMHELP_L0138	A Menorah of the Amala \nLabyrinth. It is listed \ntenth in the Sefirot.
+DATITEMHELP_L0139	A Menorah of the Amala \nLabyrinth. It is hidden\nwithin the Sefirot.
+DATITEMHELP_L0140	A white key \nthat shines brightly.
+DATITEMHELP_L0141	A stone that is said \nto summon death.
+DATITEMHELP_L0142	A visor that allows its \nwearer to see through \nthe darkness of time.
+DATITEMHELP_L0143	An earthen bell that \nguides lost souls.
+DATITEMHELP_L0144	A golden key that \nshines brightly.
+DATITEMHELP_L0145	(temp item)
+DATITEMHELP_L0146	(temp item)
+DATITEMHELP_L0147	(temp item)
+DATITEMHELP_L0148	(temp item)
+DATITEMHELP_L0149	(temp item)
+DATITEMHELP_L0150	(temp item)
+DATITEMHELP_L0151	(temp item)
+DATITEMHELP_L0152	(temp item)
+DATITEMHELP_L0153	(temp item)
+DATITEMHELP_L0154	(temp item)
+DATITEMHELP_L0155	(temp item)
+DATITEMHELP_L0156	(temp item)
+DATITEMHELP_L0157	(temp item)
+DATITEMHELP_L0158	(temp item)
+DATITEMHELP_L0159	(temp item)

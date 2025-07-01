@@ -1,0 +1,512 @@
+id	en
+DATSKILLHELP_L0001	Low Fire damage \nto one foe.
+DATSKILLHELP_L0002	Medium Fire damage \nto one foe.
+DATSKILLHELP_L0003	High Fire damage \nto one foe.
+DATSKILLHELP_L0004	Low Fire damage \nto all foes.
+DATSKILLHELP_L0005	Medium Fire damage \nto all foes.
+DATSKILLHELP_L0006	High Fire damage \nto all foes.
+DATSKILLHELP_L0007	Low Ice damage \nto one foe.
+DATSKILLHELP_L0008	Medium Ice damage \nto one foe.
+DATSKILLHELP_L0009	High Ice damage \nto one foe.
+DATSKILLHELP_L0010	Low Ice damage \nto all foes.
+DATSKILLHELP_L0011	Medium Ice damage \nto all foes.
+DATSKILLHELP_L0012	High Ice damage \nto all foes.
+DATSKILLHELP_L0013	Low Elec damage \nto one foe.
+DATSKILLHELP_L0014	Medium Elec damage \nto one foe.
+DATSKILLHELP_L0015	High Elec damage \nto one foe.
+DATSKILLHELP_L0016	Low Elec damage \nto all foes.
+DATSKILLHELP_L0017	Medium Elec damage \nto all foes.
+DATSKILLHELP_L0018	High Elec damage \nto all foes.
+DATSKILLHELP_L0019	Low Force damage \nto one foe.
+DATSKILLHELP_L0020	Medium Force damage \nto one foe.
+DATSKILLHELP_L0021	High Force damage \nto one foe.
+DATSKILLHELP_L0022	Low Force damage \nto all foes.
+DATSKILLHELP_L0023	Medium Force damage \nto all foes.
+DATSKILLHELP_L0024	High Force damage \nto all foes.
+DATSKILLHELP_L0025	Medium Almighty damage \nto all foes.
+DATSKILLHELP_L0026	High Almighty damage \nto all foes.
+DATSKILLHELP_L0027	Massive Almighty \ndamage to all \nfoes.
+DATSKILLHELP_L0028	Light: Chance to \ninstakill one foe.
+DATSKILLHELP_L0029	Light: High chance to \ninstakill one foe.
+DATSKILLHELP_L0030	Light: Chance to \ninstakill all foes.
+DATSKILLHELP_L0031	Light: High chance to \ninstakill all foes.
+DATSKILLHELP_L0032	Dark: Chance to \ninstakill one foe.
+DATSKILLHELP_L0033	Dark: High chance to \ninstakill one foe.
+DATSKILLHELP_L0034	Dark: Chance to \ninstakill all foes.
+DATSKILLHELP_L0035	Dark: High chance to \ninstakill all foes.
+DATSKILLHELP_L0036	Slight HP recovery \nfor one ally.
+DATSKILLHELP_L0037	Moderate HP recovery \nfor one ally.
+DATSKILLHELP_L0038	Full HP recovery \nfor one ally.
+DATSKILLHELP_L0039	Slight HP recovery \nfor the party.
+DATSKILLHELP_L0040	Moderate HP recovery \nfor the party.
+DATSKILLHELP_L0041	Full HP recovery \nfor the party.
+DATSKILLHELP_L0042	Donates 10 MP \nto one ally.
+DATSKILLHELP_L0043	Cures Bind/Sleep/Panic \nfor one ally.
+DATSKILLHELP_L0044	Cures Bind/Sleep/Panic \nfor the party.
+DATSKILLHELP_L0045	Cures Mute \nfor one ally.
+DATSKILLHELP_L0046	Cures Poison \nfor one ally.
+DATSKILLHELP_L0047	Cures Stun \nfor one ally.
+DATSKILLHELP_L0048	Cures Stone \nfor one ally.
+DATSKILLHELP_L0049	Revives one ally \nwith slight HP.
+DATSKILLHELP_L0050	Revives one ally \nto full HP.
+DATSKILLHELP_L0051	Sacrifice self \nto fully recover \nparty's HP/MP.
+DATSKILLHELP_L0052	Lowers all foes' \nPhysical/Magical \nAttack.
+DATSKILLHELP_L0053	Lowers all foes' \nEvasion/Hit Rate.
+DATSKILLHELP_L0054	Lowers all foes' \nDefense.
+DATSKILLHELP_L0055	Curse: Chance to inflict \nMute on one foe.
+DATSKILLHELP_L0056	Curse: Chance to inflict \nMute on all foes.
+DATSKILLHELP_L0057	Negates -kaja effects \non all foes.
+DATSKILLHELP_L0058	High chance of negating \n-kaja effects on all foes.
+DATSKILLHELP_L0059	Nerve: Chance to inflict \nBind on one foe.
+DATSKILLHELP_L0060	Mind: Chance to inflict \nSleep on all foes.
+DATSKILLHELP_L0061	Mind: Chance to inflict \nPanic on one foe.
+DATSKILLHELP_L0062	Mind: Chance to inflict \nCharm on one foe.
+DATSKILLHELP_L0063	Mind: Medium damage to \nall foes. May inflict Panic.
+DATSKILLHELP_L0064	Raises party's \nPhysical Attack.
+DATSKILLHELP_L0065	Raises party's \nEvasion/Hit Rate.
+DATSKILLHELP_L0066	Raises party's \nDefense.
+DATSKILLHELP_L0067	Raises party's \nMagical Attack.
+DATSKILLHELP_L0068	Protects party from \nLight/Dark attacks.
+DATSKILLHELP_L0069	Repels Magical attacks \nonce next turn. \nAffects entire party.
+DATSKILLHELP_L0070	Repels Physical attacks \nonce next turn. \nAffects entire party.
+DATSKILLHELP_L0071	Displays an enemy's info.
+DATSKILLHELP_L0072	Escape from most battles \nwithout fail.
+DATSKILLHELP_L0073	Reduces encounter rate \nof low-level demons \nuntil a new Kagutsuchi.
+DATSKILLHELP_L0074	Raises encounter rate \nuntil a new Kagutsuchi.
+DATSKILLHELP_L0075	Negates floor damage \nuntil a new Kagutsuchi.
+DATSKILLHELP_L0076	Lights up dark areas \nuntil a new Kagutsuchi.
+DATSKILLHELP_L0077	Negates -nda effects \non the party.
+DATSKILLHELP_L0078	RESERVE \nSKILL 0x004e
+DATSKILLHELP_L0079	Medium damage. Instakills \nany Poisoned targets.<AF_DEL> \n(Almighty)
+DATSKILLHELP_L0080	RESERVE \nSKILL 0x0050
+DATSKILLHELP_L0081	RESERVE \nSKILL 0x0051
+DATSKILLHELP_L0082	RESERVE \nSKILL 0x0052
+DATSKILLHELP_L0083	RESERVE \nSKILL 0x0053
+DATSKILLHELP_L0084	RESERVE \nSKILL 0x0054
+DATSKILLHELP_L0085	RESERVE \nSKILL 0x0055
+DATSKILLHELP_L0086	RESERVE \nSKILL 0x0056
+DATSKILLHELP_L0087	RESERVE \nSKILL 0x0057
+DATSKILLHELP_L0088	RESERVE \nSKILL 0x0058
+DATSKILLHELP_L0089	RESERVE \nSKILL 0x0059
+DATSKILLHELP_L0090	RESERVE \nSKILL 0x005a
+DATSKILLHELP_L0091	RESERVE \nSKILL 0x005b
+DATSKILLHELP_L0092	RESERVE \nSKILL 0x005c
+DATSKILLHELP_L0093	RESERVE \nSKILL 0x005d
+DATSKILLHELP_L0094	RESERVE \nSKILL 0x005e
+DATSKILLHELP_L0095	RESERVE \nSKILL 0x005f
+DATSKILLHELP_L0096	Low Physical damage \nto one foe.
+DATSKILLHELP_L0097	Medium Physical damage \nto one foe.
+DATSKILLHELP_L0098	Low Physical damage \nto random foes.
+DATSKILLHELP_L0099	Medium Physical damage \nto all foes.
+DATSKILLHELP_L0100	High Physical damage \nto all foes.
+DATSKILLHELP_L0101	Physical damage \nto all foes.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0102	Physical damage to all \nfoes. May inflict Poison.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0103	Physical damage to one \nfoe.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0104	Physical damage \nto all foes.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0105	Physical damage to one \nfoe. May inflict Mute.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0106	Physical damage to one \nfoe. May inflict Bind.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0107	Physical damage to one \nfoe.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0108	Physical damage to \nrandom foes.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0109	Physical damage to one \nfoe. May inflict Stun.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0110	Physical damage to random \nfoes. May inflict Panic.<AF_DEL> \nDamage relative to HP.
+DATSKILLHELP_L0111	Low Physical damage \nto one foe.
+DATSKILLHELP_L0112	Low Physical damage to \none foe. May inflict Stun.
+DATSKILLHELP_L0113	Low Physical damage \nto one foe. May \ninflict Poison.
+DATSKILLHELP_L0114	Low Physical damage to \none foe. May inflict Stone.
+DATSKILLHELP_L0115	Sacrifice self to deal high \ndamage to multiple foes.
+DATSKILLHELP_L0116	Sacrifice self to deal high \ndamage to one foe.
+DATSKILLHELP_L0117	Medium Physical damage \nto one foe.
+DATSKILLHELP_L0118	Medium Physical damage \nto one foe. May inflict \nPoison.
+DATSKILLHELP_L0119	Medium Physical damage \nto one foe. May inflict \nCharm.
+DATSKILLHELP_L0120	Medium Physical damage \nto one foe. May inflict \nStone.
+DATSKILLHELP_L0121	Medium Physical damage \nto one foe. May inflict \nStun.
+DATSKILLHELP_L0122	High Physical damage \nto one foe.
+DATSKILLHELP_L0123	Low Physical damage \nto one foe.
+DATSKILLHELP_L0124	Low Physical damage \nto one foe. May \ninflict Poison.
+DATSKILLHELP_L0125	Low Physical damage \nto one foe. May \ninflict Stun.
+DATSKILLHELP_L0126	High Physical damage \nto one foe.
+DATSKILLHELP_L0127	Light: Reduces current \nHP of all foes by 80%.
+DATSKILLHELP_L0128	High Physical damage \nto all foes. May \ninflict Mute.
+DATSKILLHELP_L0129	Physical damage \nto one foe.
+DATSKILLHELP_L0130	Physical damage \nto one foe.
+DATSKILLHELP_L0131	Physical damage to all \nfoes. High critical rate.
+DATSKILLHELP_L0132	Electricity damage to one \nfoe. May inflict Shock.
+DATSKILLHELP_L0133	Physical damage to all \nfoes. May inflict Bind.
+DATSKILLHELP_L0134	Physical damage \nto one foe.
+DATSKILLHELP_L0135	Light damage \nto one foe.
+DATSKILLHELP_L0136	Physical damage \nto one foe.
+DATSKILLHELP_L0137	Physical damage \nto one foe.
+DATSKILLHELP_L0138	Physical damage \nto one foe.
+DATSKILLHELP_L0139	Physical damage \nto all foes.
+DATSKILLHELP_L0140	Ice damage to multiple \nfoes. May inflict Freeze.
+DATSKILLHELP_L0141	Physical damage \nto all foes.
+DATSKILLHELP_L0142	Magical damage to all \nfoes. May inflict Mute.
+DATSKILLHELP_L0143	Physical damage to all \nfoes. May inflict Mute.
+DATSKILLHELP_L0144	Physical damage \nto all foes.
+DATSKILLHELP_L0145	Electricity damage to all \nfoes. May inflict Shock.
+DATSKILLHELP_L0146	Physical damage \nto multiple foes.
+DATSKILLHELP_L0147	Almighty damage \nto one foe.
+DATSKILLHELP_L0148	Physical damage \nto all foes.
+DATSKILLHELP_L0149	Physical damage \nto all foes.
+DATSKILLHELP_L0150	Physical damage \nto multiple foes.
+DATSKILLHELP_L0151	Massive Physical damage \nto all foes.
+DATSKILLHELP_L0152	Sacrifice self to damage \nall foes & allies.
+DATSKILLHELP_L0153	RESERVE \nSKILL 0x0099
+DATSKILLHELP_L0154	RESERVE \nSKILL 0x009a
+DATSKILLHELP_L0155	High Physical damage \nto all foes.
+DATSKILLHELP_L0156	RESERVE \nSKILL 0x009c
+DATSKILLHELP_L0157	RESERVE \nSKILL 0x009d
+DATSKILLHELP_L0158	Full HP/MP recovery \nto one ally or foe with \nthe lowest relative HP.
+DATSKILLHELP_L0159	Instakill one foe \nwith the lowest \nrelative HP.
+DATSKILLHELP_L0160	Physical damage \nto one foe.
+DATSKILLHELP_L0161	Fire damage \nto one foe.
+DATSKILLHELP_L0162	RESERVE \nSKILL 0x00a2
+DATSKILLHELP_L0163	High Physical damage \nto all foes.
+DATSKILLHELP_L0164	RESERVE \nSKILL 0x00a4
+DATSKILLHELP_L0165	RESERVE \nSKILL 0x00a5
+DATSKILLHELP_L0166	RESERVE \nSKILL 0x00a6
+DATSKILLHELP_L0167	RESERVE \nSKILL 0x00a7
+DATSKILLHELP_L0168	RESERVE \nSKILL 0x00a8
+DATSKILLHELP_L0169	RESERVE \nSKILL 0x00a9
+DATSKILLHELP_L0170	RESERVE \nSKILL 0x00aa
+DATSKILLHELP_L0171	RESERVE \nSKILL 0x00ab
+DATSKILLHELP_L0172	RESERVE \nSKILL 0x00ac
+DATSKILLHELP_L0173	RESERVE \nSKILL 0x00ad
+DATSKILLHELP_L0174	RESERVE \nSKILL 0x00ae
+DATSKILLHELP_L0175	RESERVE \nSKILL 0x00af
+DATSKILLHELP_L0176	Low Fire damage \nto random foes.
+DATSKILLHELP_L0177	Medium Fire damage \nto random foes.
+DATSKILLHELP_L0178	High Fire damage \nto random foes.
+DATSKILLHELP_L0179	Massive Fire damage \nto one foe.
+DATSKILLHELP_L0180	Low Ice damage \nto random foes.
+DATSKILLHELP_L0181	High Ice damage \nto random foes.
+DATSKILLHELP_L0182	Low Elec damage \nto random foes.
+DATSKILLHELP_L0183	High Elec damage \nto random foes.
+DATSKILLHELP_L0184	Low Force damage \nto random foes.
+DATSKILLHELP_L0185	High Force damage \nto random foes.
+DATSKILLHELP_L0186	Massive Force damage \nto one foe.
+DATSKILLHELP_L0187	Force damage to all foes. \nMay inflict Stun.
+DATSKILLHELP_L0188	Light: Halves HP \nof one foe.
+DATSKILLHELP_L0189	Light: Halves HP \nof all foes.
+DATSKILLHELP_L0190	Drains HP from one foe.
+DATSKILLHELP_L0191	Drains MP from one foe.
+DATSKILLHELP_L0192	Drains HP/MP from one foe.
+DATSKILLHELP_L0193	Light damage \nto one foe.
+DATSKILLHELP_L0194	Light damage \nto all foes.
+DATSKILLHELP_L0195	High Light damage \nto all foes.
+DATSKILLHELP_L0196	Dark: Chance to \ninstakill one foe.
+DATSKILLHELP_L0197	Dark: Chance to inflict \nStone on one foe.
+DATSKILLHELP_L0198	Curse: Chance to inflict \nMute on one foe.
+DATSKILLHELP_L0199	Dark: Reduces HP \nof one foe to 1.
+DATSKILLHELP_L0200	Dark: Banishes one foe \nfrom battle.
+DATSKILLHELP_L0201	Turns one foe into a Fly.
+DATSKILLHELP_L0202	Low damage to random \nfoes. May inflict Poison.
+DATSKILLHELP_L0203	Greatly lowers all foes' \nPhysical/Magical Attack.
+DATSKILLHELP_L0204	Greatly lowers all foes' \nEvasion/Hit Rate.
+DATSKILLHELP_L0205	Lowers all foes' Defense/\nraises Physical Attack.
+DATSKILLHELP_L0206	Lowers all foes' \nAttack/Defense/\nEvasion/Hit Rate.
+DATSKILLHELP_L0207	Curse: Medium damage \nto all foes. May inflict \nMute.
+DATSKILLHELP_L0208	Reduces HP of all foes \nto 1.
+DATSKILLHELP_L0209	Nerve: Chance to inflict \nStun on one foe.
+DATSKILLHELP_L0210	Mind: Chance to inflict \nSleep on one foe.
+DATSKILLHELP_L0211	Nerve: Chance to inflict \nBind on all foes.
+DATSKILLHELP_L0212	Instakill all foes \nafflicted with Sleep.
+DATSKILLHELP_L0213	Mind: Chance to inflict \nPanic on all foes.
+DATSKILLHELP_L0214	Mind: Chance to inflict \nCharm on one foe.
+DATSKILLHELP_L0215	Mind: Chance to inflict \nCharm on all foes.
+DATSKILLHELP_L0216	Mind: Chance to inflict \nPanic on all foes.
+DATSKILLHELP_L0217	Mind: High chance to \ninflict Panic on all foes.
+DATSKILLHELP_L0218	Full HP recovery & \ncures all ailments \nfor the party.
+DATSKILLHELP_L0219	Nullifies Ice attacks \none time only.
+DATSKILLHELP_L0220	Nullifies Fire attacks \none time only.
+DATSKILLHELP_L0221	Nullifies Dark attacks \none time only.
+DATSKILLHELP_L0222	Nullifies Light attacks \none time only.
+DATSKILLHELP_L0223	Summons a random ally \nto battle.
+DATSKILLHELP_L0224	More than doubles Physical \nattack next turn.
+DATSKILLHELP_L0225	Enemy-only skill
+DATSKILLHELP_L0226	Enemy-only skill
+DATSKILLHELP_L0227	Enemy-only skill
+DATSKILLHELP_L0228	Enemy-only skill
+DATSKILLHELP_L0229	Enemy-only skill
+DATSKILLHELP_L0230	Enemy-only skill
+DATSKILLHELP_L0231	Enemy-only skill
+DATSKILLHELP_L0232	Enemy-only skill
+DATSKILLHELP_L0233	Enemy-only skill
+DATSKILLHELP_L0234	Enemy-only skill
+DATSKILLHELP_L0235	Massive Almighty damage \nto random foes.
+DATSKILLHELP_L0236	Enemy-only skill
+DATSKILLHELP_L0237	Enemy-only skill
+DATSKILLHELP_L0238	Enemy-only skill
+DATSKILLHELP_L0239	Enemy-only skill
+DATSKILLHELP_L0240	Enemy-only skill
+DATSKILLHELP_L0241	Enemy-only skill
+DATSKILLHELP_L0242	Enemy-only skill
+DATSKILLHELP_L0243	Enemy-only skill
+DATSKILLHELP_L0244	Enemy-only skill
+DATSKILLHELP_L0245	Enemy-only skill
+DATSKILLHELP_L0246	Enemy-only skill
+DATSKILLHELP_L0247	RESERVE \nSKILL 0x00f7
+DATSKILLHELP_L0248	Enemy-only skill
+DATSKILLHELP_L0249	Mind: High chance to \ninflict Panic on all foes.
+DATSKILLHELP_L0250	RESERVE \nSKILL 0x00fa
+DATSKILLHELP_L0251	RESERVE \nSKILL 0x00fb
+DATSKILLHELP_L0252	RESERVE \nSKILL 0x00fc
+DATSKILLHELP_L0253	RESERVE \nSKILL 0x00fd
+DATSKILLHELP_L0254	RESERVE \nSKILL 0x00fe
+DATSKILLHELP_L0255	RESERVE \nSKILL 0x00ff
+DATSKILLHELP_L0256	Enemy-only skill
+DATSKILLHELP_L0257	Massive Almighty damage \nto random foes.
+DATSKILLHELP_L0258	Enemy-only skill
+DATSKILLHELP_L0259	Enemy-only skill
+DATSKILLHELP_L0260	Massive Almighty damage \nto all foes. May instakill.<AF_DEL> \n(Instakill: Dark)
+DATSKILLHELP_L0261	Curse: Halves HP of all \nfoes. May inflict Mute.
+DATSKILLHELP_L0262	Multiple Physical damage \nto one foe.
+DATSKILLHELP_L0263	High Physical damage \nto one foe.<AF_DEL> \nHigh critical rate.
+DATSKILLHELP_L0264	Medium Physical damage \nto all foes. May inflict \nPanic.
+DATSKILLHELP_L0265	Greatly lower Def/raise Atk \nof all foes. <AF_DEL>\nUser: Slight MP recovery.
+DATSKILLHELP_L0266	High damage to one foe. \nMay instakill.<AF_DEL> \n(Almighty)
+DATSKILLHELP_L0267	High Elec damage \nto all foes.
+DATSKILLHELP_L0268	High Force damage \nto all foes.
+DATSKILLHELP_L0269	High Almighty damage \nto all foes.
+DATSKILLHELP_L0270	RESERVE \nSKILL 0x010e
+DATSKILLHELP_L0271	RESERVE \nSKILL 0x010f
+DATSKILLHELP_L0272	RESERVE \nSKILL 0x0110
+DATSKILLHELP_L0273	RESERVE \nSKILL 0x0111
+DATSKILLHELP_L0274	Negates -nda effects \non the party.
+DATSKILLHELP_L0275	Medium Physical damage \nto all foes.
+DATSKILLHELP_L0276	Raises Evasion/Hit Rate \nby 4 stages.
+DATSKILLHELP_L0277	Enemy-only skill
+DATSKILLHELP_L0278	Mind: Damage to all foes. \nMay inflict ailments.<AF_DEL> \n(Charm/Panic/Sleep)
+DATSKILLHELP_L0279	Drains HP/MP from one foe.
+DATSKILLHELP_L0280	Low Physical damage \nto random foes. \nMay inflict Panic.
+DATSKILLHELP_L0281	High Physical damage \nto all foes.
+DATSKILLHELP_L0282	Force damage & negates \n-kaja effects on all foes.
+DATSKILLHELP_L0283	High Fire damage \nto all foes.
+DATSKILLHELP_L0284	RESERVE \nSKILL 0x011c
+DATSKILLHELP_L0285	Mind: High damage to all \nfoes. May inflict Charm.
+DATSKILLHELP_L0286	Almighty damage to all \nfoes & heal user's HP.
+DATSKILLHELP_L0287	Dark: Very high chance \nto instakill one foe.
+DATSKILLHELP_L0288	Blah
+DATSKILLHELP_L0289	Blah
+DATSKILLHELP_L0290	Raises MAX HP \nby 10%.
+DATSKILLHELP_L0291	Raises MAX HP \nby 20%.
+DATSKILLHELP_L0292	Raises MAX HP \nby 30%.
+DATSKILLHELP_L0293	Raises MAX MP \nby 10%.
+DATSKILLHELP_L0294	Raises MAX MP \nby 20%.
+DATSKILLHELP_L0295	Raises MAX MP \nby 30%.
+DATSKILLHELP_L0296	Raises odds of \nescaping from battle.
+DATSKILLHELP_L0297	Raises odds of \nattacking first.
+DATSKILLHELP_L0298	Lowers odds of being \nattacked from behind.
+DATSKILLHELP_L0299	Raises critical hit rate.
+DATSKILLHELP_L0300	Physical attacks will always \nbe a critical hit during a \nfull Kagutsuchi.
+DATSKILLHELP_L0301	Physical attacks will always \nbe a critical hit during a \nnew Kagutsuchi.
+DATSKILLHELP_L0302	Normal attacks will \ndrain HP.
+DATSKILLHELP_L0303	Normal attacks will hit \nmultiple times.
+DATSKILLHELP_L0304	Normal attacks will hit \nall enemies.
+DATSKILLHELP_L0305	May perform a weak \ncounterattack when \nphysically attacked.
+DATSKILLHELP_L0306	May perform a moderate \ncounterattack when \nphysically attacked.
+DATSKILLHELP_L0307	May perform a heavy \ncounterattack when \nphysically attacked.
+DATSKILLHELP_L0308	One extra normal attack \nwhen critical occurs.
+DATSKILLHELP_L0309	Raises Fire attack \ndamage by 50%.
+DATSKILLHELP_L0310	Raises Ice attack \ndamage by 50%.
+DATSKILLHELP_L0311	Raises Elec attack \ndamage by 50%.
+DATSKILLHELP_L0312	Raises Force attack \ndamage by 50%.
+DATSKILLHELP_L0313	Lowers Physical damage \nsustained by 50%.
+DATSKILLHELP_L0314	Lowers Fire damage \nsustained by 50%.
+DATSKILLHELP_L0315	Lowers Ice damage \nsustained by 50%.
+DATSKILLHELP_L0316	Lowers Elec damage \nsustained by 50%.
+DATSKILLHELP_L0317	Lowers Force damage \nsustained by 50%.
+DATSKILLHELP_L0318	Protects against \nLight attacks.
+DATSKILLHELP_L0319	Protects against \nDark attacks.
+DATSKILLHELP_L0320	Protects against \nCurse attacks.
+DATSKILLHELP_L0321	Protects against \nNerve attacks.
+DATSKILLHELP_L0322	Protects against \nMind attacks.
+DATSKILLHELP_L0323	Nullifies Physical attacks.
+DATSKILLHELP_L0324	Nullifies Fire attacks.
+DATSKILLHELP_L0325	Nullifies Ice attacks.
+DATSKILLHELP_L0326	Nullifies Elec attacks.
+DATSKILLHELP_L0327	Nullifies Force attacks.
+DATSKILLHELP_L0328	Nullifies Light attacks.
+DATSKILLHELP_L0329	Nullifies Dark attacks.
+DATSKILLHELP_L0330	Nullifies Curse attacks.
+DATSKILLHELP_L0331	Nullifies Nerve attacks.
+DATSKILLHELP_L0332	Nullifies Mind attacks.
+DATSKILLHELP_L0333	Absorbs Physical attacks, \nreplenishing HP.
+DATSKILLHELP_L0334	Absorbs Fire attacks, \nreplenishing HP.
+DATSKILLHELP_L0335	Absorbs Ice attacks, \nreplenishing HP.
+DATSKILLHELP_L0336	Absorbs Elec attacks, \nreplenishing HP.
+DATSKILLHELP_L0337	Absorbs Force attacks, \nreplenishing HP.
+DATSKILLHELP_L0338	Repels Physical attacks.
+DATSKILLHELP_L0339	Repels Fire attacks.
+DATSKILLHELP_L0340	Repels Ice attacks.
+DATSKILLHELP_L0341	Repels Elec attacks.
+DATSKILLHELP_L0342	Repels Force attacks.
+DATSKILLHELP_L0343	Chance of revival \nupon death.
+DATSKILLHELP_L0344	Chance of revival \nupon death with \nfull HP/MP.
+DATSKILLHELP_L0345	Survive a fatal blow \nwith 1 HP remaining \nonce per battle.
+DATSKILLHELP_L0346	Slight HP recovery \nafter battle. Must be \nin the active party.
+DATSKILLHELP_L0347	Slight MP recovery \nafter battle. Must be \nin the active party.
+DATSKILLHELP_L0348	Full HP/MP recovery \nafter battle. Must be \nin the active party.
+DATSKILLHELP_L0349	Recover HP gradually \nwhile moving. Must be \nin the active party.
+DATSKILLHELP_L0350	Recover MP gradually \nwhile moving. Must be \nin the active party.
+DATSKILLHELP_L0351	High chance of disarming \ntraps on Cache Cubes.
+DATSKILLHELP_L0352	Prevents damage from \ndamage floors.
+DATSKILLHELP_L0353	Occasionally find items \non the Vortex World Map \nwhile in the active party.
+DATSKILLHELP_L0354	Earn EXP even without \nparticipating in battle.
+DATSKILLHELP_L0355	Raises negotiation \nsuccess rate.
+DATSKILLHELP_L0356	Raises odds of \nremembering lost skills.
+DATSKILLHELP_L0357	Physical attacks ignore all \nresistances except Repel.
+DATSKILLHELP_L0358	RESERVE \nSKILL 0x0166
+DATSKILLHELP_L0359	RESERVE \nSKILL 0x0167
+DATSKILLHELP_L0360	Survive a fatal blow \nwith 1 HP remaining \nonce per battle.
+DATSKILLHELP_L0361	Pierce & raises damage \nof all attacks by 50%.
+DATSKILLHELP_L0362	RESERVE \nSKILL 0x016a
+DATSKILLHELP_L0363	RESERVE \nSKILL 0x016b
+DATSKILLHELP_L0364	RESERVE \nSKILL 0x016c
+DATSKILLHELP_L0365	RESERVE \nSKILL 0x016d
+DATSKILLHELP_L0366	RESERVE \nSKILL 0x016e
+DATSKILLHELP_L0367	RESERVE \nSKILL 0x016f
+DATSKILLHELP_L0368	RESERVE \nSKILL 0x0170
+DATSKILLHELP_L0369	RESERVE \nSKILL 0x0171
+DATSKILLHELP_L0370	RESERVE \nSKILL 0x0172
+DATSKILLHELP_L0371	RESERVE \nSKILL 0x0173
+DATSKILLHELP_L0372	RESERVE \nSKILL 0x0174
+DATSKILLHELP_L0373	RESERVE \nSKILL 0x0175
+DATSKILLHELP_L0374	RESERVE \nSKILL 0x0176
+DATSKILLHELP_L0375	RESERVE \nSKILL 0x0177
+DATSKILLHELP_L0376	RESERVE \nSKILL 0x0178
+DATSKILLHELP_L0377	RESERVE \nSKILL 0x0179
+DATSKILLHELP_L0378	RESERVE \nSKILL 0x017a
+DATSKILLHELP_L0379	RESERVE \nSKILL 0x017b
+DATSKILLHELP_L0380	RESERVE \nSKILL 0x017c
+DATSKILLHELP_L0381	RESERVE \nSKILL 0x017d
+DATSKILLHELP_L0382	RESERVE \nSKILL 0x017e
+DATSKILLHELP_L0383	RESERVE \nSKILL 0x017f
+DATSKILLHELP_L0384	Invite a demon to join.
+DATSKILLHELP_L0385	Invite a demon to join.
+DATSKILLHELP_L0386	Invite a demon to join.
+DATSKILLHELP_L0387	Invite a demon to join.
+DATSKILLHELP_L0388	Invite a demon to join.
+DATSKILLHELP_L0389	Invite a demon to join.
+DATSKILLHELP_L0390	Invite a demon to join. \nBest on a new Kagutsuchi.
+DATSKILLHELP_L0391	Invite a demon to join.
+DATSKILLHELP_L0392	Invite a demon to join.
+DATSKILLHELP_L0393	Invite a demon to join \nin Odin's name.
+DATSKILLHELP_L0394	Invite a demon to join \nusing sex appeal.
+DATSKILLHELP_L0395	Invite a demon to join. \nRefusal means death.
+DATSKILLHELP_L0396	Ask for Macca and items.
+DATSKILLHELP_L0397	Ask for Macca and items.
+DATSKILLHELP_L0398	Ask for Macca and items.
+DATSKILLHELP_L0399	Ask for various types \nof gems.
+DATSKILLHELP_L0400	Ask to trade items.
+DATSKILLHELP_L0401	Borrow Macca. \nBeware of overuse...
+DATSKILLHELP_L0402	Request Macca.
+DATSKILLHELP_L0403	Challenge to a duel \nfor Macca.
+DATSKILLHELP_L0404	Ask for information.
+DATSKILLHELP_L0405	Ask for information.
+DATSKILLHELP_L0406	Ask for information.
+DATSKILLHELP_L0407	Ask for information.
+DATSKILLHELP_L0408	Ask for information.
+DATSKILLHELP_L0409	Gets demon to lower price.
+DATSKILLHELP_L0410	Soothes an angry demon.
+DATSKILLHELP_L0411	Prevents demon from making \noff with payment.
+DATSKILLHELP_L0412	Persuades a demon of \nthe same race.
+DATSKILLHELP_L0413	Persuades an indecisive \ndemon.
+DATSKILLHELP_L0414	Persuades an indecisive \ndemon.
+DATSKILLHELP_L0415	Persuades an indecisive \ndemon.
+DATSKILLHELP_L0416	Persuades an indecisive \ndemon.
+DATSKILLHELP_L0417	Persuades an indecisive \ndemon.
+DATSKILLHELP_L0418	High chance of calming \nangry demon.
+DATSKILLHELP_L0419	Fixes negotiation trouble \nwith the power of liquor.
+DATSKILLHELP_L0420	Persuades an indecisive \ndemon.
+DATSKILLHELP_L0421	Invite Foul/Haunt/Wilder \ndemons to join.
+DATSKILLHELP_L0422	RESERVE \nSKILL 0x01a6
+DATSKILLHELP_L0423	RESERVE \nSKILL 0x01a7
+DATSKILLHELP_L0424	RESERVE \nSKILL 0x01a8
+DATSKILLHELP_L0425	RESERVE \nSKILL 0x01a9
+DATSKILLHELP_L0426	RESERVE \nSKILL 0x01aa
+DATSKILLHELP_L0427	RESERVE \nSKILL 0x01ab
+DATSKILLHELP_L0428	RESERVE \nSKILL 0x01ac
+DATSKILLHELP_L0429	RESERVE \nSKILL 0x01ad
+DATSKILLHELP_L0430	RESERVE \nSKILL 0x01ae
+DATSKILLHELP_L0431	RESERVE \nSKILL 0x01af
+DATSKILLHELP_L0432	RESERVE \nSKILL 0x01b0
+DATSKILLHELP_L0433	RESERVE \nSKILL 0x01b1
+DATSKILLHELP_L0434	RESERVE \nSKILL 0x01b2
+DATSKILLHELP_L0435	RESERVE \nSKILL 0x01b3
+DATSKILLHELP_L0436	RESERVE \nSKILL 0x01b4
+DATSKILLHELP_L0437	RESERVE \nSKILL 0x01b5
+DATSKILLHELP_L0438	RESERVE \nSKILL 0x01b6
+DATSKILLHELP_L0439	RESERVE \nSKILL 0x01b7
+DATSKILLHELP_L0440	RESERVE \nSKILL 0x01b8
+DATSKILLHELP_L0441	RESERVE \nSKILL 0x01b9
+DATSKILLHELP_L0442	RESERVE \nSKILL 0x01ba
+DATSKILLHELP_L0443	RESERVE \nSKILL 0x01bb
+DATSKILLHELP_L0444	RESERVE \nSKILL 0x01bc
+DATSKILLHELP_L0445	RESERVE \nSKILL 0x01bd
+DATSKILLHELP_L0446	RESERVE \nSKILL 0x01b1e
+DATSKILLHELP_L0447	RESERVE \nSKILL 0x01bf
+DATSKILLHELP_L0448	RESERVE \nSKILL 0x01c0
+DATSKILLHELP_L0449	RESERVE \nSKILL 0x01c1
+DATSKILLHELP_L0450	RESERVE \nSKILL 0x01c2
+DATSKILLHELP_L0451	RESERVE \nSKILL 0x01c3
+DATSKILLHELP_L0452	RESERVE \nSKILL 0x01c4
+DATSKILLHELP_L0453	RESERVE \nSKILL 0x01c5
+DATSKILLHELP_L0454	RESERVE \nSKILL 0x01c6
+DATSKILLHELP_L0455	RESERVE \nSKILL 0x01c7
+DATSKILLHELP_L0456	RESERVE \nSKILL 0x01c8
+DATSKILLHELP_L0457	RESERVE \nSKILL 0x01c9
+DATSKILLHELP_L0458	RESERVE \nSKILL 0x01ca
+DATSKILLHELP_L0459	RESERVE \nSKILL 0x01cb
+DATSKILLHELP_L0460	RESERVE \nSKILL 0x01cc
+DATSKILLHELP_L0461	RESERVE \nSKILL 0x01cd
+DATSKILLHELP_L0462	RESERVE \nSKILL 0x01ce
+DATSKILLHELP_L0463	RESERVE \nSKILL 0x01cf
+DATSKILLHELP_L0464	RESERVE \nSKILL 0x01d0
+DATSKILLHELP_L0465	RESERVE \nSKILL 0x01d1
+DATSKILLHELP_L0466	RESERVE \nSKILL 0x01d2
+DATSKILLHELP_L0467	RESERVE \nSKILL 0x01d3
+DATSKILLHELP_L0468	RESERVE \nSKILL 0x01d4
+DATSKILLHELP_L0469	RESERVE \nSKILL 0x01d5
+DATSKILLHELP_L0470	RESERVE \nSKILL 0x01d6
+DATSKILLHELP_L0471	RESERVE \nSKILL 0x01d7
+DATSKILLHELP_L0472	RESERVE \nSKILL 0x01d8
+DATSKILLHELP_L0473	RESERVE \nSKILL 0x01d9
+DATSKILLHELP_L0474	RESERVE \nSKILL 0x01da
+DATSKILLHELP_L0475	RESERVE \nSKILL 0x01db
+DATSKILLHELP_L0476	RESERVE \nSKILL 0x01dc
+DATSKILLHELP_L0477	RESERVE \nSKILL 0x01dd
+DATSKILLHELP_L0478	RESERVE \nSKILL 0x01de
+DATSKILLHELP_L0479	RESERVE \nSKILL 0x01df
+DATSKILLHELP_L0480	RESERVE \nSKILL 0x01e0
+DATSKILLHELP_L0481	RESERVE \nSKILL 0x01e1
+DATSKILLHELP_L0482	RESERVE \nSKILL 0x01e2
+DATSKILLHELP_L0483	RESERVE \nSKILL 0x01e3
+DATSKILLHELP_L0484	RESERVE \nSKILL 0x01e4
+DATSKILLHELP_L0485	RESERVE \nSKILL 0x01e5
+DATSKILLHELP_L0486	RESERVE \nSKILL 0x01e6
+DATSKILLHELP_L0487	RESERVE \nSKILL 0x01e7
+DATSKILLHELP_L0488	RESERVE \nSKILL 0x01e8
+DATSKILLHELP_L0489	RESERVE \nSKILL 0x01e9
+DATSKILLHELP_L0490	RESERVE \nSKILL 0x01ea
+DATSKILLHELP_L0491	RESERVE \nSKILL 0x01eb
+DATSKILLHELP_L0492	RESERVE \nSKILL 0x01ec
+DATSKILLHELP_L0493	RESERVE \nSKILL 0x01ed
+DATSKILLHELP_L0494	RESERVE \nSKILL 0x01ee
+DATSKILLHELP_L0495	RESERVE \nSKILL 0x01ef
+DATSKILLHELP_L0496	RESERVE \nSKILL 0x01f0
+DATSKILLHELP_L0497	RESERVE \nSKILL 0x01f1
+DATSKILLHELP_L0498	RESERVE \nSKILL 0x01f2
+DATSKILLHELP_L0499	RESERVE \nSKILL 0x01f3
+DATSKILLHELP_L0500	RESERVE \nSKILL 0x01f4
+DATSKILLHELP_L0501	RESERVE \nSKILL 0x01f5
+DATSKILLHELP_L0502	RESERVE \nSKILL 0x01f6
+DATSKILLHELP_L0503	RESERVE \nSKILL 0x01f7
+DATSKILLHELP_L0504	RESERVE \nSKILL 0x01f8
+DATSKILLHELP_L0505	RESERVE \nSKILL 0x01f9
+DATSKILLHELP_L0506	RESERVE \nSKILL 0x01fa
+DATSKILLHELP_L0507	RESERVE \nSKILL 0x01fb
+DATSKILLHELP_L0508	RESERVE \nSKILL 0x01fc
+DATSKILLHELP_L0509	RESERVE \nSKILL 0x01fd
+DATSKILLHELP_L0510	RESERVE \nSKILL 0x01fe
+DATSKILLHELP_L0511	RESERVE \nSKILL 0x01ff
