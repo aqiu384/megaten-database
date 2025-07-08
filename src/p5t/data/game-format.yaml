@@ -1,0 +1,162 @@
+demonData:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/temp/persona_ore_database.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/persona_ore_database.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    Id:
+    NameWordKey:
+    AttributeId:
+    AttributeWordKey:
+    InitLv:
+    MaxLv:
+    InitHp:
+    InitSp:
+    InitSword:
+    InitGun:
+    AddHp:
+    AddSp:
+    AddSword:
+    AddGun:
+    DescWordKey:
+    InheritanceSkillId:
+    TwoUnion:
+    Accident:
+    Unlock:
+    Vertical:
+    Horizontal:
+    Scale:
+    CombineV:
+    CombineH:
+    CombineS:
+demonSkills:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/temp/persona_ore_effect_database.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/persona_ore_effect_database.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    Id:
+    NameWordKey:
+    DescWordKey:
+    EffectType:
+    Param1:
+    Param2:
+    Worth:
+    Takeover:
+demonExp:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/temp/persona_ore_lvup_database.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/persona_ore_lvup_database.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    Lv:
+    Exp:
+    TotalExp:
+fusionChart:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/temp/persona_ore_union_database.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/persona_ore_union_database.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    Id:
+    Material1:
+    Material2:
+    Result:
+specialRecipes:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/temp/persona_ore_union_sp_database.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/persona_ore_union_sp_database.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    Id:
+    Material1:
+    Material2:
+    Material3:
+    Material4:
+    Material5:
+    Material6:
+    IsUnlock:
+skillData:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/temp/skilldatabase.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/skilldatabase.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    ID:
+    NameWordKey:
+    ActionType:
+    Range:
+    HitType:
+    HitParam:
+    HitParam2:
+    HitAreaHeight:
+    HitTargetHeight:
+    IsInterceptSkill:
+    AttackCount:
+    DecayDistance:
+    DampingForce:
+    PowerMin:
+    ShotType:
+    AimTarget:
+    TargetType:
+    DamageType:
+    DamageCalcType:
+    ActionTiming:
+    CriticalRate:
+    AddRebellion:
+    PersonaDamageMin:
+    PersonaDamageMax:
+    BattleMenuIconType:
+    CostType:
+    Cost:
+    CoolTime:
+    StartCoolTime:
+    AddEffectActivationID1:
+    AddEffectActivationParam1:
+    AddEffectTarget1:
+    AddEffectType1:
+    AddEffectTypeParam1:
+    AddEffectActivationID2:
+    AddEffectActivationParam2:
+    AddEffectTarget2:
+    AddEffectType2:
+    AddEffectTypeParam2:
+    AddEffectActivationID3:
+    AddEffectActivationParam3:
+    AddEffectTarget3:
+    AddEffectType3:
+    AddEffectTypeParam3:
+    DisableAutoCameraAngle:
+    ScriptDelay:
+    ScriptId:
+    UseEffect:
+    UseEffectType:
+    UseSe:
+    IconId:
+    CreatePrefabType:
+    CreatePrefabId:
+    CreatePrefabProbabilityWeight:
+    CreateCountType:
+    CreateCount:
+    CreatePosType:
+    CreatePosParam:
+    CreateUnitHpSync:
+    VisibleSkillName:
+    DescWordKey:
+    DescWordParam:
+    InfoWordKey:
+    VisibleInfoName:
+passiveSkillData:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/temp/passive_skill_database.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/passive_skill_database.tsv
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    ID:
+    NameWordKey:
+    ActivationID:
+    ActivationValue:
+    ActivationValue2:
+    EffectID:
+    EffectValue:
+    EffectValue2:
+    ScriptID:
+    MoveTypeID:
+    VisibleAnalyze:
+    SkillType:
+    DescWordKey:
+    DescWordParam:
+    InfoWordKey:

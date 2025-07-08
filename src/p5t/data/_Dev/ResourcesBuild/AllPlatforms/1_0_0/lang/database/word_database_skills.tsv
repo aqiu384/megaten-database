@@ -1,0 +1,804 @@
+id	en	ja	zh-CN	zh-TW	ko	de	es-ES	fr	it	pl	pt-BR	ru	tr
+61000	Follow-Up	追い撃ち	追击	追擊	추격타	Folgeangriff	Ataque consecutivo	Enchaînement	Attacco concatenato	Atak pomocniczy	Seguimento	2-я атака	Sürdürme
+61002	Follow-Up+	追い撃ち＋	追击＋	追擊＋	추격타+	Folgeangriff+	Ataque consecutivo+	Enchaînement+	Attacco concatenato+	Atak pomocniczy+	Seguimento+	2-я атака+	Sürdürme+
+61004	Ambush	待ち伏せ	伏击	伏擊	매복	Hinterhalt	Emboscada	Embuscade	Agguato	Zasadzka	Emboscada	Засада	Pusu
+61006	Ambush+	待ち伏せ＋	伏击＋	伏擊＋	매복+	Hinterhalt+	Emboscada+	Embuscade+	Agguato+	Zasadzka+	Emboscada+	Засада+	Pusu+
+61018	Clairvoyance	天眼通	天眼通	天眼通	천안통	Hellsichtigkeit	Clarividencia	Clairvoyance	Chiaroveggenza	Jasnowidztwo	Clarividência	Проницательность	Durugörü
+61020	Phantom Step	縮地術	缩地术	遁地術	축지법	Phantomschritt	Paso fantasma	Foulée fantôme	Passo Fantasma	Widmowy krok	Passo Fantasma	Поступь призрака	Hayalet Adımı
+61022	Bullet Break	ブレイクバレット	子弹爆破	爆發子彈	브레이크 불릿	Schussbruch	Ruptura de balas	Balles assommantes	Alto calibro	Srebrna kula	Bala Potente	Пулевой разнос	Mermi Kaçışı
+61024	Ferocious Lion	獅子奮迅	勇猛气势	威猛如獅	사자분신	Wilder Löwe	León feroz	Lion féroce	Leone feroce	Dziki lew	Leão Feroz	Свирепый лев	Acımasız Aslan
+61026	Essence of Sorcery	魔導の真髄	魔导的精髓	魔導的精髓	마도의 진수	Essenz der Zauberei	Esencia de hechicería	Essence de la sorcellerie	Essenza della stregoneria	Esencja czaru	Essência da Feitiçaria	Сущность колдовства	Büyücülük Özü
+61028	Over Powered	オーバーフォース	超越之力	猛勁十足	오버 포스	Überstark	Abuso de poder	Surpuissance	Ultra-potenziato	Niekontrolowana siła	Excesso de Potência	Перегрузка	Aşırı Güçlü
+61030	Break & Recovery	ブレイク＆リカバリー	猛攻＆恢复	猛攻＆恢復	브레이크&리커버리	Erholungspause	Descanso y recuperación	Pause et récupération	Timeout	Chwila wytchnienia	Folga	Передышка	Kaçış ve Yenileme
+61032	Break & Recovery+	ブレイク＆リカバリー＋	猛攻＆恢复＋	猛攻＆恢復＋	브레이크&리커버리+	Pause & Erholung+	Descanso y recuperación+	Pause et récupération+	Timeout+	Chwila wytchnienia+	Folga+	Передышка+	Kaçış ve Yenileme+
+61034	Soul Repose	安息する魂	安息之魂	獲得安息的靈魂	안식하는 영혼	Seelenruhe	Reposo del alma	Repos spirituel	Riposo dell'anima	Spokój ducha	Repouso da Alma	Спокойствие души	Ruh Huzuru
+61036	Soul Repose+	安息する魂＋	安息之魂＋	獲得安息的靈魂＋	안식하는 영혼+	Seelenruhe+	Reposo del alma+	Repos spirituel+	Riposo dell'anima+	Spokój ducha+	Repouso da Alma+	Спокойствие души+	Ruh Huzuru+
+61038	Ironclad Guard	鉄壁の守り	铁壁防守	鐵壁的防守	철벽의 수비	Eiserner Schutz	Guardia de hierro	Protection blindée	Guardia ferrea	Żelazny strażnik	Defesa Férrea	Надежная защита	Zırhlı Koruma
+61040	Hawkeye	鷹の目	鹰之眼	鷹眼	매의 눈	Falkenauge	Ojo de halcón	Œil de lynx	Occhio di falco	Sokole oko	Aguçado	Глаз ястреба	Şahin Gözü
+61042	Daredevil	勇猛果敢	勇猛果敢	勇猛果敢	용맹 과감	Draufgänger	Atrevimiento	Casse-cou	Scavezzacollo	Ryzykant	Audácia	Сорвиголова	Gözü Pek
+61044	God-Like Speed	韋駄天走り	飞毛腿	飛毛腿	위타천의 질주	Gottgleiches Tempo	Velocidad celestial	Vitesse divine	Velocità ultraterrena	Boska szybkość	Velocidade Divina	Скорость бога	Yıldırım Kadar Hızlı
+61046	Stop & Go	ストップ＆ゴー	停止＆前进	ＳＴＯＰ＆ＧＯ	스톱&고	Stop & Go	Parada	À-coups	Stop and go	Złap oddech i ruszaj	Pare e Siga	Остановка и рывок	Dur ve Geç
+61048	Lightning Speed	疾風迅雷	疾风迅雷	疾風迅雷	질풍신뢰	Blitzschnell	Velocidad de la luz	Vitesse de l'éclair	Velocità fulminea	Szybkość błyskawicy	Velocidade da Luz	Молниеносность	Şimşek Gibi
+61050	Magical Mastery	魔力掌握	魔力掌控	魔力掌控	마력 장악	Beherrschung der Magie	Dominio mágico	Maîtrise magique	Maestria magica	Magiczne mistrzostwo	Maestria Mágica	Мастерство магии	Büyü Ustalığı
+61052	Indestructible	金剛不壊	金刚不坏	金剛不壞	금강불괴	Unzerstörbar	Indestructible	Indestructible	Indistruttibile	Niezniszczalność	Indestrutível	Неразрушимость	Yıkılmaz
+61060	Trigger Synergy	トリガーシナジー	扳机增强	射擊加成	트리거 시너지	Abzugssynergie	Sinergia con gatillos	Synergie réactive	Sinergia del piombo	Synergia strzałów	Sinergia do Gatilho	Синергия выстрелов	Tetik Sinerjisi
+61062	Trigger Synergy+	トリガーシナジー＋	扳机增强＋	射擊加成＋	트리거 시너지+	Abzugssynergie+	Sinergia con gatillos+	Synergie réactive+	Sinergia del piombo+	Synergia strzałów+	Sinergia do Gatilho+	Синергия выстрелов+	Tetik Sinerjisi+
+61064	Trigger Synergy++	トリガーシナジー＋＋	扳机增强＋＋	射擊加成＋＋	트리거 시너지++	Abzugssynergie++	Sinergia con gatillos++	Synergie réactive++	Sinergia del piombo++	Synergia strzałów++	Sinergia do Gatilho++	Синергия выстрелов++	Tetik Sinerjisi++
+61066	Beat Synergy	ビートシナジー	打击增强	打擊加成	비트 시너지	Schlagsynergie	Gran sinergia	Synergie rythmée	Sinergia d'assalto	Synergia ciosów	Sinergia Rítmica	Синергия ударов	Ritim Sinerjisi
+61068	Beat Synergy+	ビートシナジー＋	打击增强＋	打擊加成＋	비트 시너지+	Schlagsynergie+	Gran sinergia+	Synergie rythmée+	Sinergia d'assalto+	Synergia ciosów+	Sinergia Rítmica+	Синергия ударов+	Ritim Sinerjisi+
+61070	Beat Synergy++	ビートシナジー＋＋	打击增强＋＋	打擊加成＋＋	비트 시너지++	Schlagsynergie++	Gran sinergia++	Synergie rythmée++	Sinergia d'assalto++	Synergia ciosów++	Sinergia Rítmica++	Синергия ударов++	Ritim Sinerjisi++
+61072	Life Synergy	バイタルシナジー	生命增强	生命力加成	바이탈 시너지	Lebenssynergie	Sinergia vital	Synergie vitale	Sinergia vitale	Synergia życia	Sinergia Vital	Синергия жизней	Can Sinerjisi
+61074	Life Synergy+	バイタルシナジー＋	生命增强＋	生命力加成＋	바이탈 시너지+	Lebenssynergie+	Sinergia vital+	Synergie vitale+	Sinergia vitale+	Synergia życia+	Sinergia Vital+	Синергия жизней+	Can Sinerjisi+
+61076	Life Synergy++	バイタルシナジー＋＋	生命增强＋＋	生命力加成＋＋	바이탈 시너지++	Lebenssynergie++	Sinergia vital++	Synergie vitale++	Sinergia vitale++	Synergia życia++	Sinergia Vital++	Синергия жизней++	Can Sinerjisi++
+61078	Soul Synergy	ソウルシナジー	灵魂增强	靈魂加成	소울 시너지	Seelensynergie	Sinergia de almas	Synergie spirituelle	Sinergia animica	Synergia duszy	Sinergia da Alma	Синергия душ	Ruh Sinerjisi
+61080	Soul Synergy+	ソウルシナジー＋	灵魂增强＋	靈魂加成＋	소울 시너지+	Seelensynergie+	Sinergia de almas+	Synergie spirituelle+	Sinergia animica+	Synergia duszy+	Sinergia da Alma+	Синергия душ+	Ruh Sinerjisi+
+61082	Soul Synergy++	ソウルシナジー＋＋	灵魂增强＋＋	靈魂加成＋＋	소울 시너지++	Seelensynergie++	Sinergia de almas++	Synergie spirituelle++	Sinergia animica++	Synergia duszy++	Sinergia da Alma++	Синергия душ++	Ruh Sinerjisi++
+61100	Eiha	エイハ	耶哈	耶哈	에이하	Eiha	Eiha	Eiha	Eiha	Eiha	Eiha	Эйха	Eiha
+61102	Eiga	エイガ	耶加	耶加	에이가	Eiga	Eiga	Eiga	Eiga	Eiga	Eiga	Эйга	Eiga
+61104	Eigaon	エイガオン	耶加翁	耶加翁	에이가온	Eigaon	Eigaon	Eigaon	Eigaon	Eigaon	Eigaon	Эйгаон	Eigaon
+61106	Maeiha	マハエイハ	玛哈耶哈	瑪哈耶哈	마하에이하	Maeiha	Maeiha	Maeiha	Maeiha	Maeiha	Maeiha	Маэйха	Maeiha
+61108	Maeiga	マハエイガ	玛哈耶加	瑪哈耶加	마하에이가	Maeiga	Maeiga	Maeiga	Maeiga	Maeiga	Maeiga	Маэйга	Maeiga
+61110	Maeigaon	マハエイガオン	玛哈耶加翁	瑪哈耶加翁	마하에이가온	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Маэйгаон	Maeigaon
+61112	Despair Boost	絶望ブースタ	绝望强化	絕望強化	절망 부스터	Verzweiflung-Boost	Potenciación de Desesperación	Boost désespoir	Potenzia Disperazione	Premia do rozpaczy	Reforço de Desespero	Рост отчаяния	Çaresizlik Güçlendirici
+61114	Despair Amp	絶望ハイブースタ	高级绝望强化	高級絕望強化	절망 하이 부스터	Verzweiflung-Verstärkung	Amplificación de Desesperación	Amplification désespoir	Amplifica Disperazione	Wzmocnienie rozpaczy	Ampliar Desespero	Усиление отчаяния	Çaresizlik Arttırıcı
+61116	Despair Mega Booster	絶望メガブースタ	超级绝望强化	超級絕望強化	절망 메가 부스터	Verzweiflung-Megabooster	Megapotenciación de Desesperación	Méga boost désespoir	Perfeziona Disperazione	Mega wzmocnienie rozpaczy	Megarreforço de Desespero	Мега-отчаяние	Çaresizlik Mega Güçlendirici
+61118	Scythes of Eternal Darkness	極夜の大鎌	极夜巨镰	永夜的巨鐮	극야의 대낫	Sensen ewiger Dunkelheit	Guadaña de oscuridad eterna	Faux de ténèbres éternelles	Falci dell'eterna oscurità	Kosy wiecznego mroku	Foices das Trevas Eternas	Косы вечной тьмы	Sonsuz Karanlık Tırpanları
+61120	Phantom Judge	ファントムジャッジ	幻影审判	幻影審判	팬텀 저지	Phantomrichter	Juez fantasma	Juge fantôme	Giudice fantasma	Widmowy sędzia	Juiz Fantasmagórico	Призрачный судья	Hayalet Yargıç
+61122	Phantom Judge+	ファントムジャッジ＋	幻影审判＋	幻影審判＋	팬텀 저지+	Phantomrichter+	Juez fantasma+	Juge fantôme+	Giudice fantasma+	Widmowy sędzia+	Juiz Fantasmagórico+	Призрачный судья+	Hayalet Yargıç+
+61124	Phantom Judge++	ファントムジャッジ＋＋	幻影审判＋＋	幻影審判＋＋	팬텀 저지++	Phantomrichter++	Juez fantasma++	Juge fantôme++	Giudice fantasma++	Widmowy sędzia++	Juiz Fantasmagórico++	Призрачный судья++	Hayalet Yargıç++
+61134	Trump Card	逆襲の切り札	反击的王牌	反擊的王牌	역습의 한 수	Trumpf	As	Botte secrète	Asso nella manica	As w rękawie	Trunfo	Козырь	Gizli Koz
+61150	Zio	ジオ	吉欧	吉歐	지오	Zio	Zio	Zio	Zio	Zio	Zio	Зио	Zio
+61152	Zionga	ジオンガ	吉欧加	吉歐加	지온가	Zionga	Zionga	Zionga	Zionga	Zionga	Zionga	Зионга	Zionga
+61154	Ziodyne	ジオダイン	吉欧达因	吉歐達因	지오다인	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Зиодин	Ziodyne
+61156	Mazio	マハジオ	玛哈吉欧	瑪哈吉歐	마하지오	Mazio	Mazio	Mazio	Mazio	Mazio	Mazio	Мазио	Mazio
+61158	Mazionga	マハジオンガ	玛哈吉欧加	瑪哈吉歐加	마하지온가	Mazionga	Mazionga	Mazionga	Mazionga	Mazionga	Mazionga	Мазионга	Mazionga
+61160	Maziodyne	マハジオダイン	玛哈吉欧达因	瑪哈吉歐達因	마하지오다인	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Мазиодин	Maziodyne
+61162	Shock Boost	感電ブースタ	触电强化	觸電強化	감전 부스터	Schock-Boost	Potenciación de Electrificación	Boost électrocution	Potenzia Folgorazione	Premia do porażenia	Reforço de Choque	Рост электрошока	Şok Güçlendirici
+61164	Shock Amp	感電ハイブースタ	高级触电强化	高級觸電強化	감전 하이 부스터	Schock-Verstärkung	Amplificación de Electrificación	Amplification électrocution	Amplifica Folgorazione	Wzmocnienie porażenia	Ampliar Choque	Усиление электрошока	Şok Arttırıcı
+61166	Shock Mega Booster	感電メガブースタ	超级触电强化	超級觸電強化	감전 메가 부스터	Schock-Megabooster	Megapotenciación de Electrificación	Méga boost électrocution	Perfeziona Folgorazione	Mega wzmocnienie porażenia	Megarreforço de Choque	Мега-электрошок	Şok Mega Güçlendirici
+61168	Almighty Judgement	真理の百雷	真理百雷	真理的雷鳴	진리의 벼락	Allmächtiges Urteil	Juicio todopoderoso	Jugement absolu	Giudizio divino	Wszechmocny wyrok.	Julgamento Onipotente	Всемогущий суд	Yüce Mahkeme
+61170	Tarukaja	タルカジャ	塔尔卡加	塔爾卡加	타루카쟈	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Тарукайя	Tarukaja
+61172	Matarukaja	マハタルカジャ	玛哈塔尔卡加	瑪哈塔爾卡加	마하타루카쟈	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Матарукайя	Matarukaja
+61176	Brigantine Blitzkrieg	ブリガンティンの激進	双桅船的猛冲	乘風破浪的劫掠船	브리건틴의 격진	Brigantine-Manöver	Bergantín relámpago	Blitzkrieg	Blitzkrieg del veliero	Brygantynowy blitzkrieg	Blitz de Bergantim	Блицкриг бригантины	Brigantin Yıldırım Harekatı
+61178	Brigantine Blitzkrieg+	ブリガンティンの激進＋	双桅船的猛冲＋	乘風破浪的劫掠船＋	브리건틴의 격진+	Brigantine-Manöver+	Bergantín relámpago+	Blitzkrieg+	Blitzkrieg del veliero+	Brygantynowy blitzkrieg+	Blitz de Bergantim+	Блицкриг бригантины+	Brigantin Yıldırım Harekatı+
+61180	Brigantine Blitzkrieg++	ブリガンティンの激進＋＋	双桅船的猛冲＋＋	乘風破浪的劫掠船＋＋	브리건틴의 격진++	Brigantine-Manöver++	Bergantín relámpago++	Blitzkrieg++	Blitzkrieg del veliero++	Brygantynowy blitzkrieg++	Blitz de Bergantim++	Блицкриг бригантины++	Brigantin Yıldırım Harekatı++
+61194	Endure	食いしばり	强忍	強忍	이 악물기	Aushalten	Último aliento	Résilience	Stoicismo	Wytrwałość	Perseverança	Стойкость	Mukavemet
+61200	Garu	ガル	加尔	加爾	갈	Garu	Garu	Garu	Garu	Garu	Garu	Гару	Garu
+61202	Garula	ガルーラ	加尔拉	加爾拉	갈라	Garula	Garula	Garula	Garula	Garula	Garula	Гарула	Garula
+61204	Garudyne	ガルダイン	加尔达因	加爾達因	갈다인	Garudyne	Garudyne	Garudyne	Garudyne	Garudyne	Garudyne	Гарудин	Garudyne
+61206	Magaru	マハガル	玛哈加尔	瑪哈加爾	마하갈	Magaru	Magaru	Magaru	Magaru	Magaru	Magaru	Магару	Magaru
+61208	Magarula	マハガルーラ	玛哈加尔拉	瑪哈加爾拉	마하갈라	Magarula	Magarula	Magarula	Magarula	Magarula	Magarula	Магарула	Magarula
+61210	Magarudyne	マハガルダイン	玛哈加尔达因	瑪哈加爾達因	마하갈다인	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Магарудин	Magarudyne
+61212	Sweep Boost	疾風ブースタ	疾风强化	疾風強化	질풍 부스터	Wischer-Boost	Potenciación de Barrido	Boost balayage	Potenzia Spazzata	Premia do zdmuchnięcia	Reforço de Varrição	Рост отбрасывания	Süpürme Güçlendirici
+61214	Sweep Amp	疾風ハイブースタ	高级疾风强化	高級疾風強化	질풍 하이 부스터	Wischer-Verstärkung	Amplificación de Barrido	Amplification balayage	Amplifica Spazzata	Wzmocnienie zdmuchnięcia	Ampliar Varrição	Усиление отбрасывания	Süpürme Arttırıcı
+61216	Sweep Mega Booster	疾風メガブースタ	超级疾风强化	超級疾風強化	질풍 메가 부스터	Wischer-Megabooster	Megapotenciación de Barrido	Méga boost balayage	Perfeziona Spazzata	Mega wzmocnienie zdmuchnięcia	Megarreforço de Varrição	Мега-отбрасывание	Süpürme Mega Güçlendirici
+61218	Wheel of Life	万象流転	万象流转	萬象流轉	만상유전	Lebensrad	Rueda de la vida	Roue de vie	Ruota della vita	Krąg życia	Roda da Vida	Колесо жизни	Can Çarkı
+61220	Dia	ディア	迪亚	迪亞	디아	Dia	Dia	Dia	Dia	Dia	Dia	Диа	Dia
+61222	Diarama	ディアラマ	迪亚拉玛	迪亞拉瑪	디아라마	Diarama	Diarama	Diarama	Diarama	Diarama	Diarama	Диарама	Diarama
+61224	Diarahan	ディアラハン	迪亚拉翰	迪亞拉翰	디아라한	Diarahan	Diarahan	Diarahan	Diarahan	Diarahan	Diarahan	Диарахан	Diarahan
+61226	Winds of Time	その風は我が名を刻む	铭刻吾名之风	銘刻吾名之風	이름을 새기는 바람	Wind der Zeit	Vientos de cambio	Souffles de temps	Venti del tempo	Wiatry czasu	Ventos do Tempo	Ветра времени	Zaman Rüzgarları
+61228	Winds of Time+	その風は我が名を刻む＋	铭刻吾名之风＋	銘刻吾名之風＋	이름을 새기는 바람+	Wind der Zeit+	Vientos de cambio+	Souffles de temps+	Venti del tempo+	Wiatry czasu+	Ventos do Tempo+	Ветра времени+	Zaman Rüzgarları+
+61230	Winds of Time++	その風は我が名を刻む＋＋	铭刻吾名之风＋＋	銘刻吾名之風＋＋	이름을 새기는 바람++	Wind der Zeit++	Vientos de cambio++	Souffles de temps++	Venti del tempo++	Wiatry czasu++	Ventos do Tempo++	Ветра времени++	Zaman Rüzgarları++
+61244	Lucky Punch	ラッキーパンチ	幸运拳	幸運拳	럭키 펀치	Glücksschlag	Golpe de suerte	Coup de chance	Colpo fortunato	Szczęśliwy cios	Soco da Sorte	Удачный удар	Şanslı Yumruk
+61250	Agi	アギ	亚基	亞基	아기	Agi	Agi	Agi	Agi	Agi	Agi	Аги	Agi
+61252	Agilao	アギラオ	亚基拉欧	亞基拉歐	아기라오	Agilao	Agilao	Agilao	Agilao	Agilao	Agilao	Агилао	Agilao
+61254	Agidyne	アギダイン	亚基达因	亞基達因	아기다인	Agidyne	Agidyne	Agidyne	Agidyne	Agidyne	Agidyne	Агидин	Agidyne
+61256	Maragi	マハラギ	玛哈拉基	瑪哈拉基	마하라기	Maragi	Maragi	Maragi	Maragi	Maragi	Maragi	Мараги	Maragi
+61258	Maragion	マハラギオン	玛哈拉基翁	瑪哈拉基翁	마하라기온	Maragion	Maragion	Maragion	Maragion	Maragion	Maragion	Марагион	Maragion
+61260	Maragidyne	マハラギダイン	玛哈拉基达因	瑪哈拉基達因	마하라기다인	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Марагидин	Maragidyne
+61262	Burn Boost	炎上ブースタ	燃烧强化	燃燒強化	화상 부스터	Brennen-Boost	Potenciación de Quemadura	Boost brûlure	Potenzia In fiamme	Premia do podpalenia	Reforço de Queimadura	Рост ожога	Yanma Güçlendirici
+61264	Burn Amp	炎上ハイブースタ	高级燃烧强化	高級燃燒強化	화상 하이 부스터	Brennt-Verstärker	Amplificación de Quemadura	Amplification brûlure	Amplifica In fiamme	Wzmocnienie podpalenia	Ampliar Queimadura	Усиление ожога	Yanma Arttırıcı
+61266	Burn Mega Booster	炎上メガブースタ	超级燃烧强化	超級燃燒強化	화상 메가 부스터	Brennen-Megabooster	Megapotenciación de Quemadura	Méga boost brûlure	Perfeziona In fiamme	Mega wzmocnienie podpalenia	Megarreforço de Queimadura	Мега-ожог	Yanma Mega Güçlendirici
+61268	Hellfire	地獄の業火	地狱业火	地獄的業火	지옥의 업화	Höllenfeuer	Fuego del averno	Feu de l'enfer	Fuoco infernale	Ogień piekielny	Fogo Infernal	Адский огонь	Cehennem Ateşi
+61270	Femme Fatale	ファムファタルの虜	致命红颜的俘虏	真命天女的俘虜	팜 파탈의 포로	Femme Fatale	Femme Fatale	Femme fatale	Femme fatale	Femme fatale	Femme Fatale	Роковая женщина	Ölümcül Kadın
+61272	Femme Fatale+	ファムファタルの虜＋	致命红颜的俘虏＋	真命天女的俘虜＋	팜 파탈의 포로+	Femme Fatale+	Femme Fatale+	Femme fatale+	Femme fatale+	Femme fatale+	Femme Fatale+	Роковая женщина+	Ölümcül Kadın+
+61274	Femme Fatale++	ファムファタルの虜＋＋	致命红颜的俘虏＋＋	真命天女的俘虜＋＋	팜 파탈의 포로++	Femme Fatale++	Femme Fatale++	Femme fatale++	Femme fatale++	Femme fatale++	Femme Fatale++	Роковая женщина++	Ölümcül Kadın++
+61294	Unstoppable	アンストッパブル	势不可挡	勢不可當	언스토퍼블	Unaufhaltsam	Imparable	Inarrêtable	Inarrestabile	Nie do zatrzymania	Irrefreável	Непобедимый	Durdurulamaz
+61300	Bufu	ブフ	布芙	布芙	부흐	Bufu	Bufu	Bufu	Bufu	Bufu	Bufu	Буфу	Bufu
+61302	Bufula	ブフーラ	布芙拉	布芙拉	부흐라	Bufula	Bufula	Bufula	Bufula	Bufula	Bufula	Буфула	Bufula
+61304	Bufudyne	ブフダイン	布芙达因	布芙達因	부흐다인	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Буфудин	Bufudyne
+61306	Mabufu	マハブフ	玛哈布芙	瑪哈布芙	마하부흐	Mabufu	Mabufu	Mabufu	Mabufu	Mabufu	Mabufu	Мабуфу	Mabufu
+61308	Mabufula	マハブフーラ	玛哈布芙拉	瑪哈布芙拉	마하부흐라	Mabufula	Mabufula	Mabufula	Mabufula	Mabufula	Mabufula	Мабуфула	Mabufula
+61310	Mabufudyne	マハブフダイン	玛哈布芙达因	瑪哈布芙達因	마하부흐다인	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Мабуфудин	Mabufudyne
+61312	Freeze Boost	凍結ブースタ	冻结强化	凍結強化	동결 부스터	Starre-Boost	Potenciación de Congelación	Boost gel	Potenzia Congelamento	Premia do zamrożenia	Reforço de Congelamento	Рост заморозки	Donma Güçlendirici
+61314	Freeze Amp	凍結ハイブースタ	高级冻结强化	高級凍結強化	동결 하이 부스터	Starre-Verstärkung	Amplificación de Congelación	Amplification gel	Amplifica Congelamento	Wzmocnienie zamrożenia	Ampliar Congelamento	Усиление заморозки	Donma Arttırıcı
+61316	Freeze Mega Booster	凍結メガブースタ	超级冻结强化	超級凍結強化	동결 메가 부스터	Starre-Megabooster	Megapotenciación de Congelación	Méga boost gel	Perfeziona Congelamento	Mega wzmocnienie zamrożenia	Megarreforço de Congelamento	Мега-заморозка	Donma Mega Güçlendirici
+61318	Crystal Bloom	氷晶開花	冰晶绽放	冰晶綻放	빙정개화	Kristallblüte	Flor de cristal	Floraison de cristal	Cristallo fiorente	Kryształowy kwiat	Florescer Cristalino	Кристальное цветение	Kristal Parıltısı
+61320	Like a Phantom	盗人は幻の如く	犹如幻影的大盗	魅影神偷	괴도는 환상과 같이	Phantome	Ladrón Fantasma	Comme un fantôme	Calco fantasma	Niczym widmo	Como um Fantasma	Будто призрак	Hayalet Gibi
+61322	Like a Phantom+	盗人は幻の如く＋	犹如幻影的大盗＋	魅影神偷＋	괴도는 환상과 같이+	Phantome+	Ladrón Fantasma+	Comme un fantôme+	Calco fantasma+	Niczym widmo+	Como um Fantasma+	Будто призрак+	Hayalet Gibi+
+61324	Like a Phantom++	盗人は幻の如く＋＋	犹如幻影的大盗＋＋	魅影神偷＋＋	괴도는 환상과 같이++	Phantome++	Ladrón Fantasma++	Comme un fantôme++	Calco fantasma++	Niczym widmo++	Como um Fantasma++	Будто призрак++	Hayalet Gibi++
+61340	Foresight	千里眼	千里眼	千里眼	천리안	Voraussicht	Previsión	Prévoyance	Previsione	Bystry wzrok	Previsão	Прозорливость	Öngörü
+61344	Broad Perspective	大所高所	通观全局	遼闊視野	대국적 시야	Weitblick	Visión amplia	Large point de vue	Larghe vedute	Szeroka perspektywa	Perspectiva Ampla	Хороший обзор	Geniş Perspektif
+61350	Frei	フレイ	芙雷	芙雷	프레이	Frei	Frei	Frei	Frei	Frei	Frei	Фрей	Frei
+61352	Freila	フレイラ	芙雷拉	芙雷拉	프레이라	Freila	Freila	Freila	Freila	Freila	Freila	Фрейла	Freila
+61354	Freidyne	フレイダイン	芙雷达因	芙雷達因	프레이다인	Freidyne	Freidyne	Freidyne	Freidyne	Freidyne	Freidyne	Фрейдин	Freidyne
+61356	Mafrei	マハフレイ	玛哈芙雷	瑪哈芙雷	마하프레이	Mafrei	Mafrei	Mafrei	Mafrei	Mafrei	Mafrei	Мафрей	Mafrei
+61358	Mafreila	マハフレイラ	玛哈芙雷拉	瑪哈芙雷拉	마하프레이라	Mafreila	Mafreila	Mafreila	Mafreila	Mafreila	Mafreila	Мафрейла	Mafreila
+61360	Mafreidyne	マハフレイダイン	玛哈芙雷达因	瑪哈芙雷達因	마하프레이다인	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Мафрейдин	Mafreidyne
+61362	Vortex Boost	核熱ブースタ	核热强化	核熱強化	핵열 부스터	Vortex-Boost	Potenciación de Vórtice	Boost vortex	Potenzia Vortice	Premia do wiru	Reforço de Vórtice	Рост притяжения	Girdap Güçlendirici
+61364	Vortex Amp	核熱ハイブースタ	高级核热强化	高級核熱強化	핵열 하이 부스터	Vortex-Verstärkung	Amplificación de Vórtice	Amplification vortex	Amplifica Vortice	Wzmocnienie wiru	Ampliar Vórtice	Усиление притяжения	Girdap Arttırıcı
+61366	Vortex Mega Booster	核熱メガブースタ	超级核热强化	超級核熱強化	핵열 메가 부스터	Vortex-Megabooster	Megapotenciación de Vórtice	Méga boost vortex	Perfeziona Vortice	Mega wzmocnienie wiru	Megarreforço de Vórtice	Мега-притяжение	Girdap Mega Güçlendirici
+61368	Atomic Hollow	アトミックホロウ	原子空洞	原子空洞	아토믹 할로우	Atomschlag	Vacío atómico	Creux atomique	Vuoto atomico	Atomowa pustka	Vácuo Atômico	Атомная пустота	Atomik Oyuk
+61370	Media	メディア	梅迪亚	梅迪亞	메디아	Media	Media	Media	Media	Media	Media	Медиа	Media
+61372	Mediarama	メディラマ	梅迪拉玛	梅迪拉瑪	메디라마	Mediarama	Mediarama	Mediarama	Mediarama	Mediarama	Mediarama	Медиарама	Mediarama
+61376	Full Throttle	フルスロットル	引擎全开	全速前進	풀 스로틀	Vollgas	A toda máquina	Plein gaz	A tutto gas	Na pełnych obrotach	Velocidade Máxima	Полный вперед	Tam Gaz
+61378	Full Throttle+	フルスロットル＋	引擎全开＋	全速前進＋	풀 스로틀+	Vollgas+	A toda máquina+	Plein gaz+	A tutto gas+	Na pełnych obrotach+	Velocidade Máxima+	Полный вперед+	Tam Gaz+
+61380	Full Throttle++	フルスロットル＋＋	引擎全开＋＋	全速前進＋＋	풀 스로틀++	Vollgas++	A toda máquina++	Plein gaz++	A tutto gas++	Na pełnych obrotach++	Velocidade Máxima++	Полный вперед++	Tam Gaz++
+61394	Pedal to the Metal	アクセル全開	马力全开	油門全開	액셀 전개	Vollgas	Acelerón	Pied au plancher	A tutta birra	Gaz do dechy	Pé na Tábua	Педаль в пол	Tam Gaz
+61400	Psi	サイ	赛	賽	사이	Psi	Psi	Psi	Psi	Psi	Psi	Пси	Psi
+61402	Psio	サイオ	赛欧	賽歐	사이오	Psio	Psio	Psio	Psio	Psio	Psio	Псио	Psio
+61404	Psiodyne	サイダイン	赛达因	賽達因	사이다인	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Псиодин	Psiodyne
+61406	Mapsi	マハサイ	玛哈赛	瑪哈賽	마하사이	Mapsi	Mapsi	Mapsi	Mapsi	Mapsi	Mapsi	Мапси	Mapsi
+61408	Mapsio	マハサイオ	玛哈赛欧	瑪哈賽歐	마하사이오	Mapsio	Mapsio	Mapsio	Mapsio	Mapsio	Mapsio	Мапсио	Mapsio
+61410	Mapsiodyne	マハサイダイン	玛哈赛达因	瑪哈賽達因	마하사이다인	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Мапсиодин	Mapsiodyne
+61412	Hypno Boost	念動ブースタ	念动强化	念動強化	염동 부스터	Hypno-Boost	Potenciación de Hipnosis	Boost hypnotique	Potenzia Ipnosi	Premia do hipnozy	Reforço de Hipnose	Рост гипноза	Hipno Güçlendirici
+61414	Hypno Amp	念動ハイブースタ	高级念动强化	高級念動強化	염동 하이 부스터	Hypno-Verstärkung	Amplificación de Hipnosis	Amplification hypnotique	Amplifica Ipnosi	Wzmocnienie hipnozy	Ampliar Hipnose	Усиление гипноза	Hipno Arttırıcı
+61416	Hypno Mega Booster	念動メガブースタ	超级念动强化	超級念動強化	염동 메가 부스터	Hypno-Megabooster	Megapotenciación de Hipnosis	Méga boost hypnotique	Perfeziona ipnosi	Mega wzmocnienie hipnozy	Megarreforço de Hipnose	Мега-гипноз	Hipno Mega Güçlendirici
+61418	Psycho Impact	サイコインパクト	精神冲击	精神衝擊	사이코 임팩트	Psychostoß	Psicoimpacto	Impact psychique	Impatto psichico	Psioniczna implozja	Psicoimpacto	Психотолчок	Psiko Etkisi
+61422	Noble Lady's Invitation	貴婦人の招待状	贵妇的邀请函	貴婦的邀請函	귀부인의 초대장	Einladung der Edeldame	Invitación de la dama	Invitation d'une Dame	Invito della nobildonna	Zaproszenie damy	Convite da Nobre Dama	Приглашение дамы	Soylu Leydinin Daveti
+61424	Noble Lady's Invitation+	貴婦人の招待状＋	贵妇的邀请函＋	貴婦的邀請函＋	귀부인의 초대장+	Einladung der Edeldame+	Invitación de la dama+	Invitation d'une Dame+	Invito della nobildonna+	Zaproszenie damy+	Convite da Nobre Dama+	Приглашение дамы+	Soylu Leydinin Daveti+
+61426	Noble Lady's Invitation++	貴婦人の招待状＋＋	贵妇的邀请函＋＋	貴婦的邀請函＋＋	귀부인의 초대장++	Einladung der Edeldame++	Invitación de la dama++	Invitation d'une Dame++	Invito della nobildonna++	Zaproszenie damy++	Convite da Nobre Dama++	Приглашение дамы++	Soylu Leydinin Daveti++
+61440	Spring Storm	春の嵐	春日暴风	春日暴風	봄의 폭풍	Frühlingssturm	Tormenta de primavera	Tempête printanière	Tempesta primaverile	Wiosenna burza	Tempestade Primaveril	Весенняя буря	Bahar Fırtınası
+61444	Elegant Teatime	優雅なティータイム	优雅的下午茶时间	優雅的午茶時間	우아한 티 타임	Elegantes Teekränzchen	Hora del té elegante	Thé élégant	Ora del tè	Elegancki podwieczorek	Chá Elegante	Время чаепития	Zarif Çay Saati
+61452	Moral Support	モラルサポート	士气支援	士氣支援	모럴 서포트	Moralische Unterstützung	Apoyo moral	Soutien moral	Supporto morale	Wsparcie moralne	Apoio Moral	Моральная поддержка	Moral Desteği
+61454	Moral Boost	モラルブースタ	士气强化	士氣強化	모럴 부스터	Moral-Boost	Potenciación moral	Boost de moral	Potenziamento morale	Wsparcie bojowe	Reforço Moral	Подъем духа	Moral Güçlendirici
+61456	Moral Boost+	モラルブースタ改	士气强化改	士氣強化．改	모럴 부스터 EX	Moral-Boost+	Potenciación moral+	Boost de moral+	Potenziamento morale+	Wsparcie bojowe+	Reforço Moral+	Подъем духа+	Moral Güçlendirici+
+61458	Active Support	アクティブサポート	动态支援	動態支援	액티브 서포트	Aktive Unterstützung	Apoyo activo	Soutien actif	Supporto vitale	Przypływ energii	Apoio Ativo	Активная поддержка	Etkin Destek
+61460	Active Boost	アクティブブースタ	动态强化	動態強化	액티브 부스터	Aktiv-Boost	Potenciación activa	Boost actif	Potenziamento vitale	Wulkan energii	Reforço Ativo	Пора действовать	Etkin Güçlendirici
+61462	Active Boost+	アクティブブースタ改	动态强化改	動態強化．改	액티브 부스터 EX	Aktiv-Boost+	Potenciación activa+	Boost actif+	Potenziamento vitale+	Wulkan energii+	Reforço Ativo+	Пора действовать+	Etkin Güçlendirici+
+61464	Final Guard	ファイナルガード	终极防御	終極防禦	파이널 가드	Letzte Rettung	Defensa definitiva	Dernier rempart	Egida suprema	Ostatnie słowo	Defesa Final	Последний рубеж	Nihai Savunma
+61500	Megido	メギド	米吉多	米吉多	메기도	Megido	Megido	Megido	Megido	Megido	Megido	Мегидо	Megido
+61502	Megidola	メギドラ	米吉多拉	米吉多拉	메기도라	Megidola	Megidola	Megidola	Megidola	Megidola	Megidola	Мегидола	Megidola
+61504	Megidolaon	メギドラオン	米吉多拉翁	米吉多拉翁	메기도라온	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Мегидолаон	Megidolaon
+61506	Almighty Boost	万能ブースタ	万能强化	萬能強化	만능 부스터	Allmacht-Boost	Potenciación de Todopoderoso	Boost absolu	Potenzia divino	Premia do wszechmocnych	Reforço Onipotente	Рост всемогущества	Yücelik Güçlendirici
+61508	Almighty Amp	万能ハイブースタ	高级万能强化	高級萬能強化	만능 하이 부스터	Allmacht-Verstärkung	Amplificación de Todopoderoso	Amplification absolue	Amplifica divino	Wzmocnienie wszechmocnych	Ampliar Onipotente	Усиление всемогущества	Yücelik Arttırıcı
+61510	Almighty Mega Booster	万能メガブースタ	超级万能强化	超級萬能強化	만능 메가 부스터	Allmacht-Megabooster	Megapotenciación de Todopoderoso	Méga boost absolu	Perfeziona divino	Mega wzmocnienie wszechmocnych	Megarreforço Onipotente	Мега-всемогущество	Yücelik Mega Güçlendirici
+61512	World's End	ワールドエンド	终末世界	世界末日	월드 엔드	Weltuntergang	Fin del mundo	Fin du monde	Fine del mondo	Koniec świata	Fim do Mundo	Конец света	Dünyanın Sonu
+61516	Truth Seeker	やがて真実に至る為	为了终将抵达的真相	終將渴求查明真相	이윽고 다다를 진실	Wahrheitssucher	Buscaverdad	Traqueur de vérité	Cercatore di verità	Poszukiwacz prawdy	Caçador da Verdade	Искатель истины	Gerçeği Arayan
+61520	Ray of Truth	真実は一条に至る	抵达唯一的真相	抵達的唯一真相	하나에 이르는 진실	Wahrheitsstrahl	Rayo de la verdad	Rayon de vérité	Raggio di verità	Promień prawdy	Raio da Verdade	Луч истины	Gerçek Işını
+61522	Ray of Truth+	真実は一条に至る＋	抵达唯一的真相＋	抵達的唯一真相＋	하나에 이르는 진실+	Wahrheitsstrahl+	Rayo de la verdad+	Rayon de vérité+	Raggio di verità+	Promień prawdy+	Raio da Verdade+	Луч истины+	Gerçek Işını+
+61524	Ray of Truth++	真実は一条に至る＋＋	抵达唯一的真相＋＋	抵達的唯一真相＋＋	하나에 이르는 진실++	Wahrheitsstrahl++	Rayo de la verdad++	Rayon de vérité++	Raggio di verità++	Promień prawdy++	Raio da Verdade++	Луч истины++	Gerçek Işını++
+61544	Reverse the Scales	逆転する天秤	反转的天秤	反轉的天秤	뒤집히는 천칭	Den Spieß umdrehen	Vuelta al marcador	Renversement de situation	Sovvertimento	Zamiana ról	Inversão da Balança	Другой расклад	Tam Tersine
+61550	Kouha	コウハ	克哈	克哈	코우하	Kouha	Kouha	Kouha	Kouha	Kouha	Kouha	Куха	Kouha
+61552	Kouga	コウガ	克加	克加	코우가	Kouga	Kouga	Kouga	Kouga	Kouga	Kouga	Куга	Kouga
+61554	Kougaon	コウガオン	克加翁	克加翁	코우가온	Kougaon	Kougaon	Kougaon	Kougaon	Kougaon	Kougaon	Кугаон	Kougaon
+61556	Makouha	マハコウハ	玛哈克哈	瑪哈克哈	마하코우하	Makouha	Makouha	Makouha	Makouha	Makouha	Makouha	Макуха	Makouha
+61558	Makouga	マハコウガ	玛哈克加	瑪哈克加	마하코우가	Makouga	Makouga	Makouga	Makouga	Makouga	Makouga	Макуга	Makouga
+61560	Makougaon	マハコウガオン	玛哈克加翁	瑪哈克加翁	마하코우가온	Makougaon	Makougaon	Makougaon	Makougaon	Makougaon	Makougaon	Макугаон	Makougaon
+61562	Dizzy Boost	目眩ブースタ	晕眩强化	暈眩強化	현기증 부스터	Benommenheit-Boost	Potenciación de Mareo	Boost étourdissement	Potenzia Vertigini	Premia do oszołomienia	Reforço de Tontura	Рост головокружения	Sersemlik Güçlendirici
+61564	Dizzy Amp	目眩ハイブースタ	高级晕眩强化	高級暈眩強化	현기증 하이 부스터	Benommenheit-Verstärkung	Amplificación de Mareo	Amplification étourdissement	Amplifica Vertigini	Wzmocnienie oszołomienia	Ampliar Tontura	Усиление головокружения	Sersemlik Arttırıcı
+61566	Dizzy Mega Booster	目眩メガブースタ	超级晕眩强化	超級暈眩強化	현기증 메가 부스터	Benommenheit-Megabooster	Megapotenciación de Mareo	Méga boost étourdissement	Perfeziona Vertigini	Mega wzmocnienie oszołomienia	Megarreforço de Tontura	Мега-головокружение	Sersemlik Mega Güçlendirici
+61568	Judgement of the Heavens	天上の裁決	天之裁决	天降審判	천상의 판결	Himmelsurteil	Juicio de los cielos	Jugement des cieux	Giudizio dei cieli	Niebiański sąd	Julgamento dos Céus	Небесный суд	Cennet Mahkemesi
+61572	Pathway to the Ball	舞踏会へ続く道	通往舞会的道路	通往舞會之路	무도회로 가는 길	Pfad zum Ball	Camino al baile	Droit au but	Via del ballo	Droga na bal	Caminho do Baile	Дорога на бал	Top Yolu
+61574	Brilliant Ballet	カラーフープ	彩色环	彩色環圈	컬러 후프	Geniales Ballett	Ballet brillante	Danse exquise	Balletto straordinario	Bajeczny balet	Balé Brilhante	Прекрасный танец	Muhteşem Bale
+61600	Partisan	パルチザン	游击	游擊隊	파르티잔	Partisane	Partesana	Pertuisane	Partigiana	Partyzantka	Partasana	Сторонник	Partizan
+61602	Great Partisan	大槍パルチザン	大枪游击	大槍游擊隊	거창 파르티잔	Große Partisane	Partesana superior	Grande pertuisane	Partigiana superiore	Wspaniała partyzantka	Grande Partasana	Великий сторонник	Büyük Partizan
+61604	Ultimate Partisan	極槍パルチザン	极枪游击	極槍游擊隊	극창 파르티잔	Ultimative Partisane	Partesana suprema	Pertuisane ultime	Partigiana suprema	Ostateczna partyzantka	Partasana Suprema	Величайший сторонник	Nihai Partizan
+61606	Shining Partisan	輝槍パルチザン	辉枪游击	輝槍游擊隊	휘창 파르티잔	Glänzende Partisane	Partesana brillante	Pertuisane brillante	Partigiana lucente	Lśniąca partyzantka	Partasana Brilhante	Яркий сторонник	Parlayan Partizan
+61608	Great Shining Partisan	大輝槍パルチザン	大辉枪游击	大輝槍游擊隊	대휘창 파르티잔	Große glänzende Partisane	Partesana brillante devota	Grande pertuisane brillante	Grande Partigiana lucente	Wspaniała lśniąca partyz.	Grande Partasana Brilhante	Велик. ярк. сторонник	Parlayan Büyük Partizan
+61610	Ultimate Shining Partisan	極輝槍パルチザン	极辉枪游击	極輝槍游擊隊	극휘창 파르티잔	Ultimative glänzende Partisane	Partesana brillante suprema	Pertuisane brillante ultime	Partigiana lucente suprema	Ostateczna lśniąca partyz.	Partasana Brilhante Super	Лучш. ярк. сторонник	Parlayan Nihai Partizan
+61612	Forget Boost	忘却ブースタ	遗忘强化	遺忘強化	망각 부스터	Vergessen-Boost	Potenciación de Amnesia	Boost amnésie	Potenzia Amnesia	Premia do zapomnienia	Reforço de Esquecimento	Рост забывчивости	Unutma Güçlendirici
+61614	Forget Amp	忘却ハイブースタ	高级遗忘强化	高級遺忘強化	망각 하이 부스터	Vergessen-Verstärkung	Amplificación de Amnesia	Amplification Amnésie	Amplifica Amnesia	Wzmocnienie zapomnienia	Ampliar Esquecimento	Усиление забывчивости	Unutma Arttırıcı
+61616	Forget Mega Booster	忘却メガブースタ	超级遗忘强化	超級遺忘強化	망각 메가 부스터	Vergessen-Megabooster	Megapotenciación de Amnesia	Méga boost Amnésie	Perfeziona Amnesia	Mega wzmocnienie zapomnienia	Megarreforço de Esquecimento	Мега-забывчивость	Unutma Mega Güçlendirici
+61618	Covenant of the Spear	約定の槍	约定之枪	約定之槍	약정의 창	Bund des Speers	Pacto de la lanza	Alliance de la lance	Patto della lancia	Przymierze włóczni	Pacto da Lança	Обет копья	Mızrak Anlaşması
+61620	Emergency Support	応急手当	急救	急救處理	응급 처치	Notfallunterstützung	Refuerzo de emergencia	Soutien d'urgence	Assistenza diretta	Wsparcie kryzysowe	Apoio Emergencial	Скорая помощь	Acil Destek
+61622	Emergency Support+	応急手当＋	急救＋	急救處理＋	응급 처치+	Notfallunterstützung+	Refuerzo de emergencia+	Soutien d'urgence+	Assistenza diretta+	Wsparcie kryzysowe+	Apoio Emergencial+	Скорая помощь+	Acil Destek+
+61626	Flag of Freedom	革命の旗	革命之旗	革命旗幟	혁명의 깃발	Freiheitsflagge	Bandera de la libertad	Étendard de la Liberté	Bandiera della libertà	Sztandar Wolności	Bandeira da Liberdade	Знамя свободы	Özgürlük Bayrağı
+61628	Flag of Freedom+	革命の旗＋	革命之旗＋	革命旗幟＋	혁명의 깃발+	Freiheitsflagge+	Bandera de la libertad+	Étendard de la Liberté+	Bandiera della libertà+	Sztandar Wolności+	Bandeira da Liberdade+	Знамя свободы+	Özgürlük Bayrağı+
+61630	Flag of Freedom++	革命の旗＋＋	革命之旗＋＋	革命旗幟＋＋	혁명의 깃발++	Freiheitsflagge++	Bandera de la libertad++	Étendard de la Liberté++	Bandiera della libertà++	Sztandar Wolności++	Bandeira da Liberdade++	Знамя свободы++	Özgürlük Bayrağı++
+61644	Comandante	コマンダンテ	指挥官	司令官	코만단테	Comandante	Comandante	Comandante	Comandante	Przywódca	Comandante	Команданте	Komutan
+61650	Baywell 45 MkII	ベイウェル４５MkⅡ	贝威尔４５ＭｋⅡ	貝威爾４５Ｍｋ Ⅱ	베이웰 45 MkⅡ	Baywell 45 MK II	Baywell 45 Mk. II	Baywell 45 MkII	Baywell 45 MkII	Baywell 45 MkII	Baywell 45 Mk II	Baywell 45 MkII	Baywell 45 MkII
+61652	Liberator	リベレーター	解放者	解放者	리버레이터	Befreier	Liberador	Libérateur	Liberazione	Wyzwoliciel	Libertação	Освободитель	Kurtarıcı
+61654	Crystal of Rebirth	回生する結晶	再生结晶	再生結晶	되살아나는 결정	Kristall der Wiedergeburt	Cristal del renacer	Cristal de réincarnation	Cristallo di rinascita	Kryształ odrodzenia	Cristal do Renascimento	Кристалл перерождения	Yeniden Doğuş Kristali
+61656	Light of a Promise	誓いの光	誓言之光	誓約之光	맹세의 빛	Licht des Versprechens	Luz de una promesa	Lueur d'une promesse	Promessa lucente	Blask obietnicy	Luz de uma Promessa	Свет обещания	Vaat Işığı
+61658	Artist's Passion	一気呵成の策	一气呵成之策	一氣呵成的策略	일기가성의 계책	Leidenschaft für die Kunst	Pasión de artista	Passion d'artiste	Passione d'artista	Pasja artysty	Paixão do Artista	Страсть творца	Sanatçının Tutkusu
+61660	Calm and Collected	大気功	大气功	大氣功	기공 대	Ruhig und besonnen	Tranquilidad y serenidad	Calme et sang-froid	Calmo e composto	Spokój i opanowanie	Calmo e Sob Controle	Спокойствие и собранность	Sakin ve Aklı Başında
+61662	Unyielding Courage	不撓の勇躍	奋勇不屈	永不屈服的果敢之心	불굴의 도약	Unerschütterlicher Mut	Coraje inquebrantable	Courage indomptable	Coraggio indomito	Nieustępliwa odwaga	Coragem Inflexível	Несгибаемая смелость	Sarsılmaz Cesaret
+61800	Rakukaja	ラクカジャ	拉库卡加	拉庫卡加	라쿠카쟈	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Ракукайя	Rakukaja
+61802	Marakukaja	マハラクカジャ	玛哈拉库卡加	瑪哈拉庫卡加	마하라쿠카쟈	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Маракукайя	Marakukaja
+61804	Sukukaja	スクカジャ	斯库卡加	斯庫卡加	스쿠카쟈	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Сукукайя	Sukukaja
+61806	Masukukaja	マハスクカジャ	玛哈斯库卡加	瑪哈斯庫卡加	마하스쿠카쟈	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Масукукайя	Masukukaja
+61808	Diamrita	ディアムリタ	迪亚姆利塔	迪亞姆利塔	디암리타	Diamrita	Diamrita	Diamrita	Diamrita	Diamrita	Diamrita	Диамрита	Diamrita
+61810	Attack Master	攻撃の心得	攻击诀窍	攻擊訣竅	공격의 마음가짐	Angriffsmeister	As del ataque	Maître de l'attaque	Asso dell'attacco	Mistrz ataków	Mestre do Ataque	Мастер атаки	Saldırı Ustası
+61812	Auto-Mataru	マハタルカオート	自动玛哈塔尔卡	自動瑪哈塔爾卡	마하타루카 오토	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Авто-Матару	Otomatik Mataru
+61814	Heat Riser	ヒートライザ	灼热奋起	灼熱奮起	히트라이저	Hitzeanstieg	Subidón	Embellie	Potenziamento	Rozgrzanie	Altercação	Экзотермия	Isı Yükseltici
+61816	Speed Master	素早さの心得	敏捷诀窍	敏捷訣竅	신속의 마음가짐	Tempomeister	As de la velocidad	Maître de la vitesse	Asso della velocità	Mistrz prędkości	Mestre da Rapidez	Мастер скорости	Hız Ustası
+61818	Auto-Masuku	マハスクカオート	自动玛哈斯库卡	自動瑪哈斯庫卡	마하스쿠카 오토	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Авто-Масуку	Otomatik Masuku
+61820	Diaramrita	ディアラムリタ	迪亚拉姆利塔	迪亞拉姆利塔	디아람리타	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Диарамрита	Diaramrita
+62001	Ambush	待ち伏せ	伏击	伏擊	매복	Hinterhalt	Emboscada	Embuscade	Agguato	Zasadzka	Emboscada	Засада	Pusu
+62002	Ambush+	待ち伏せ＋	伏击＋	伏擊＋	매복+	Hinterhalt+	Emboscada+	Embuscade+	Agguato+	Zasadzka+	Emboscada+	Засада+	Pusu+
+62003	First Aid	回復防陣	恢复防阵	恢復守陣	회복 방진	Erste Hilfe	Botiquín	Premiers secours	Primo soccorso	Pierwsza pomoc	Primeiros Socorros	Первая помощь	İlk Yardım
+62004	First Aid+	回復防陣＋	恢复防阵＋	恢復守陣＋	회복 방진+	Erste Hilfe+	Botiquín+	Premiers secours+	Primo soccorso+	Pierwsza pomoc+	Primeiros Socorros+	Первая помощь+	İlk Yardım+
+62005	Eiha	エイハ	耶哈	耶哈	에이하	Eiha	Eiha	Eiha	Eiha	Eiha	Eiha	Эйха	Eiha
+62006	Eiga	エイガ	耶加	耶加	에이가	Eiga	Eiga	Eiga	Eiga	Eiga	Eiga	Эйга	Eiga
+62007	Eigaon	エイガオン	耶加翁	耶加翁	에이가온	Eigaon	Eigaon	Eigaon	Eigaon	Eigaon	Eigaon	Эйгаон	Eigaon
+62008	Garu	ガル	加尔	加爾	갈	Garu	Garu	Garu	Garu	Garu	Garu	Гару	Garu
+62009	Garula	ガルーラ	加尔拉	加爾拉	갈라	Garula	Garula	Garula	Garula	Garula	Garula	Гарула	Garula
+62010	Garudyne	ガルダイン	加尔达因	加爾達因	갈다인	Garudyne	Garudyne	Garudyne	Garudyne	Garudyne	Garudyne	Гарудин	Garudyne
+62011	Zio	ジオ	吉欧	吉歐	지오	Zio	Zio	Zio	Zio	Zio	Zio	Зио	Zio
+62012	Zionga	ジオンガ	吉欧加	吉歐加	지온가	Zionga	Zionga	Zionga	Zionga	Zionga	Zionga	Зионга	Zionga
+62013	Ziodyne	ジオダイン	吉欧达因	吉歐達因	지오다인	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Зиодин	Ziodyne
+62014	Agi	アギ	亚基	亞基	아기	Agi	Agi	Agi	Agi	Agi	Agi	Аги	Agi
+62015	Agilao	アギラオ	亚基拉欧	亞基拉歐	아기라오	Agilao	Agilao	Agilao	Agilao	Agilao	Agilao	Агилао	Agilao
+62016	Agidyne	アギダイン	亚基达因	亞基達因	아기다인	Agidyne	Agidyne	Agidyne	Agidyne	Agidyne	Agidyne	Агидин	Agidyne
+62017	Bufu	ブフ	布芙	布芙	부흐	Bufu	Bufu	Bufu	Bufu	Bufu	Bufu	Буфу	Bufu
+62018	Bufula	ブフーラ	布芙拉	布芙拉	부흐라	Bufula	Bufula	Bufula	Bufula	Bufula	Bufula	Буфула	Bufula
+62019	Bufudyne	ブフダイン	布芙达因	布芙達因	부흐다인	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Буфудин	Bufudyne
+62020	Frei	フレイ	芙雷	芙雷	프레이	Frei	Frei	Frei	Frei	Frei	Frei	Фрей	Frei
+62021	Freila	フレイラ	芙雷拉	芙雷拉	프레이라	Freila	Freila	Freila	Freila	Freila	Freila	Фрейла	Freila
+62022	Freidyne	フレイダイン	芙雷达因	芙雷達因	프레이다인	Freidyne	Freidyne	Freidyne	Freidyne	Freidyne	Freidyne	Фрейдин	Freidyne
+62023	Psi	サイ	赛	賽	사이	Psi	Psi	Psi	Psi	Psi	Psi	Пси	Psi
+62024	Psio	サイオ	赛欧	賽歐	사이오	Psio	Psio	Psio	Psio	Psio	Psio	Псио	Psio
+62025	Psiodyne	サイダイン	赛达因	賽達因	사이다인	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Псиодин	Psiodyne
+62026	Kouha	コウハ	克哈	克哈	코우하	Kouha	Kouha	Kouha	Kouha	Kouha	Kouha	Куха	Kouha
+62027	Kouga	コウガ	克加	克加	코우가	Kouga	Kouga	Kouga	Kouga	Kouga	Kouga	Куга	Kouga
+62028	Kougaon	コウガオン	克加翁	克加翁	코우가온	Kougaon	Kougaon	Kougaon	Kougaon	Kougaon	Kougaon	Кугаон	Kougaon
+62029	Megido	メギド	米吉多	米吉多	메기도	Megido	Megido	Megido	Megido	Megido	Megido	Мегидо	Megido
+62030	Megidola	メギドラ	米吉多拉	米吉多拉	메기도라	Megidola	Megidola	Megidola	Megidola	Megidola	Megidola	Мегидола	Megidola
+62031	Megidolaon	メギドラオン	米吉多拉翁	米吉多拉翁	메기도라온	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Мегидолаон	Megidolaon
+62032	Dia	ディア	迪亚	迪亞	디아	Dia	Dia	Dia	Dia	Dia	Dia	Диа	Dia
+62033	Media	メディア	梅迪亚	梅迪亞	메디아	Media	Media	Media	Media	Media	Media	Медиа	Media
+62034	Diamrita	ディアムリタ	迪亚姆利塔	迪亞姆利塔	디암리타	Diamrita	Diamrita	Diamrita	Diamrita	Diamrita	Diamrita	Диамрита	Diamrita
+62035	Tarukaja	タルカジャ	塔尔卡加	塔爾卡加	타루카쟈	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Тарукайя	Tarukaja
+62036	Matarukaja	マハタルカジャ	玛哈塔尔卡加	瑪哈塔爾卡加	마하타루카쟈	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Матарукайя	Matarukaja
+62037	Sukukaja	スクカジャ	斯库卡加	斯庫卡加	스쿠카쟈	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Сукукайя	Sukukaja
+62038	Masukukaja	マハスクカジャ	玛哈斯库卡加	瑪哈斯庫卡加	마하스쿠카쟈	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Масукукайя	Masukukaja
+62039	Rakukaja	ラクカジャ	拉库卡加	拉庫卡加	라쿠카쟈	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Ракукайя	Rakukaja
+62040	Marakukaja	マハラクカジャ	玛哈拉库卡加	瑪哈拉庫卡加	마하라쿠카쟈	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Маракукайя	Marakukaja
+62050	God-Like Speed	韋駄天走り	飞毛腿	飛毛腿	위타천의 질주	Gottgleiches Tempo	Velocidad celestial	Vitesse divine	Velocità ultraterrena	Boska szybkość	Velocidade Divina	Скорость бога	Yıldırım Kadar Hızlı
+62051	Hawkeye	鷹の目	鹰之眼	鷹眼	매의 눈	Falkenauge	Ojo de halcón	Œil de lynx	Occhio di falco	Sokole oko	Aguçado	Глаз ястреба	Şahin Gözü
+62052	Daredevil	勇猛果敢	勇猛果敢	勇猛果敢	용맹 과감	Draufgänger	Atrevimiento	Casse-cou	Scavezzacollo	Ryzykant	Audácia	Сорвиголова	Gözü Pek
+62053	Bullet Break	ブレイクバレット	子弹爆破	爆發子彈	브레이크 불릿	Schussbruch	Ruptura de balas	Balles assommantes	Alto calibro	Srebrna kula	Bala Potente	Пулевой разнос	Mermi Kaçışı
+62054	Mighty Cleave	鎧袖一触	易如反掌	輕鬆一擊	무쌍의 휩쓸기	Mächtiges Spalten	Despedazamiento poderoso	Entaille puissante	Fendente poderoso	Potężne cięcie	Corte Poderoso	Разрубание	Güçlü Yarma
+62055	Sustaining Relief	卓越した援護	出色的后盾	卓越的支援	탁월한 지원	Nachhaltige Stärkung	Alivio continuado	Soulagement durable	Sollievo duraturo	Długotrwała ulga	Alívio Amparador	Волна облегчения	Kalıcı Rahatlama
+62056	Regenerate 1	小治癒促進	小治愈促进	小治癒促進	치유 촉진 소	Regenerieren 1	Regenerar 1	Régénération 1	Rigenerazione 1	Regeneracja 1	Regeneração 1	Восстановление 1	Tazeleme 1
+62057	Regenerate 2	中治癒促進	中治愈促进	中治癒促進	치유 촉진 중	Regenerieren 2	Regenerar 2	Régénération 2	Rigenerazione 2	Regeneracja 2	Regeneração 2	Восстановление 2	Tazeleme 2
+62058	Invigorate 1	小気功	小气功	小氣功	기공 소	SP Regenerieren 1	Vigorizar 1	Revigoration 1	Recupero 1	Pobudzenie 1	Revigoramento 1	Воодушевление 1	Kuvvetlendirme 1
+62059	Invigorate 2	中気功	中气功	中氣功	기공 중	SP Regenerieren 2	Vigorizar 2	Revigoration 2	Recupero 2	Pobudzenie 2	Revigoramento 2	Воодушевление 2	Kuvvetlendirme 2
+62060	Warrior's Breath	戦士の呼吸	战士的吐息	戰士之息	전사의 호흡	Atem des Kriegers	Aliento del guerrero	Souffle du guerrier	Respiro guerresco	Tchnienie wojownika	Fôlego do Guerreiro	Дыхание воина	Savaşçının Nefesi
+62061	Champion's Pulse	達人の鼓動	大师的心跳	大師鼓舞	달인의 고동	Puls des Streiters	Pulso del campeón	Pouls de champion	Battito del campione	Puls czempiona	Pulso do Campeão	Пульс чемпиона	Şampiyonun Nabzı
+62062	Energized Spirit	高揚する精神	高昂的斗志	高昂精神	고양되는 정신	Geist und Energie	Espíritu enérgico	Esprit énergique	Spirito ravvivato	Pobudzony duch	Espírito Energizado	Энергичность	Kudretli Ruh
+62063	Invigorated Soul	奮起する智慧	振奋的智慧	振奮智慧	솟구치는 지혜	Kräftige Seele	Alma vigorizada	Âme revigorée	Anima rinvigorita	Wzmocniona dusza	Alma Revigorada	Бодрая душа	Canlanmış Ruh
+62064	Brightening Star	満ちゆく星	逐渐点亮的五芒星	漸亮之星	차오르는 별	Glänzender Stern	Estrella deslumbrante	Étoile lumineuse	Stella brillante	Świetlista gwiazda	Estrela Iluminadora	Разгорающаяся звезда	Parlayan Yıldız
+62065	Minthe's Blessing	メンテーの加護	门塔的庇佑	門塔的庇佑	민테의 가호	Minthes Segen	Bendición de Minthe	Bénédiction de Minthe	Benedizione di Minthe	Błogosławieństwo Minte	Bênção de Minta	Благословение Минфы	Minthe'nin Lütfu
+62066	Attack Master	攻撃の心得	攻击诀窍	攻擊訣竅	공격의 마음가짐	Angriffsmeister	As del ataque	Maître de l'attaque	Asso dell'attacco	Mistrz ataków	Mestre do Ataque	Мастер атаки	Saldırı Ustası
+62067	Auto-Mataru	マハタルカオート	自动玛哈塔尔卡	自動瑪哈塔爾卡	마하타루카 오토	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Авто-Матару	Otomatik Mataru
+62068	Speed Master	素早さの心得	敏捷诀窍	敏捷訣竅	신속의 마음가짐	Tempomeister	As de la velocidad	Maître de la vitesse	Asso della velocità	Mistrz prędkości	Mestre da Rapidez	Мастер скорости	Hız Ustası
+62069	Auto-Masuku	マハスクカオート	自动玛哈斯库卡	自動瑪哈斯庫卡	마하스쿠카 오토	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Авто-Масуку	Otomatik Masuku
+62070	Defense Master	防御の心得	防御诀窍	防禦訣竅	방어의 마음가짐	Abwehrmeister	As de la defensa	Maître de la défense	Asso della difesa	Mistrz obrony	Mestre da Defesa	Мастер защиты	Savunma Ustası
+62071	Auto-Maraku	マハラクカオート	自动玛哈拉库卡	自動瑪哈拉庫卡	마하라쿠카 오토	Auto-Maraku	Auto-Maraku	Auto-Maraku	Auto-Maraku	Auto-Maraku	Auto-Maraku	Авто-Мараку	Otomatik Maraku
+62072	Null Shock	感電無効	触电无效	觸電無效	감전 무효	Schock Aufh.	Anular Electrificación	Annulation électrocution	Annulla Folgorazione	Neutralizacja porażenia	Anular Choque	Блок электрошока	Şok Sıfırlayıcı
+62073	Null Dizzy	目眩無効	晕眩无效	暈眩無效	현기증 무효	Benommen Aufh.	Anular Mareo	Annulation étourdissement	Annulla Vertigini	Neutralizacja oszołomienia	Anular Tontura	Блок головокружения	Sersemlik Sıfırlayıcı
+62074	Null Forget	忘却無効	遗忘无效	遺忘無效	망각 무효	Vergesslich Aufh.	Anular Amnesia	Annulation amnésie	Annulla Amnesia	Neutralizacja zapomnienia	Anular Esquecimento	Блок потери памяти	Unutma Sıfırlayıcı
+62075	Null Wind	疾風無効	疾风无效	疾風無效	질풍 무효	Wind Aufh.	Anular viento	Annulation vent	Annulla vento	Neutralizacja wiatru	Anular Vento	Блок отбрасывания	Rüzgar Sıfırlayıcı
+62076	Null Vortex	核熱無効	核热无效	核熱無效	핵열 무효	Vortex aufheben	Anular Vórtice	Vortex d'annulation	Annulla Vortice	Neutralizacja wiru	Anular Vórtice	Блок воронки	Girdap Sıfırlayıcı
+62077	Null Hypnosis	念動無効	念动无效	念動無效	염동 무효	Hypnose aufheben	Anular Hipnosis	Hypnose d'annulation	Annulla Ipnosi	Neutralizacja hipnozy	Anular Hipnose	Блок гипноза	Hipnoz Sıfırlayıcı
+62078	Null Burn	炎上無効	燃烧无效	燃燒無效	화상 무효	Brennt Aufh.	Anular Quemadura	Annulation brûlure	Annulla In fiamme	Neutralizacja podpalenia	Anular Queimadura	Блок ожога	Yanma Sıfırlayıcı
+62079	Null Despair	絶望無効	绝望无效	絕望無效	절망 무효	Verzweifelt Aufh.	Anular Desesperación	Annulation désespoir	Annulla Disperazione	Neutralizacja rozpaczy	Anular Desespero	Блок отчаяния	Çaresizlik Sıfırlayıcı
+62080	Null Freeze	凍結無効	冻结无效	凍結無效	동결 무효	Starre aufh.	Anular Congelación	Annulation gel	Annulla Congelamento	Neutralizacja zamrożenia	Anular Congelamento	Блок заморозки	Donma Sıfırlayıcı
+62081	Null Sleep	睡眠無効	睡眠无效	睡眠無效	수면 무효	Schlafend Aufh.	Anular Sueño	Annulation sommeil	Annulla Sonno	Neutralizacja uśpienia	Anular Sono	Блок сна	Uyku Sıfırlayıcı
+62082	Immunity	鉄壁の抗体	铁壁的抗体	鐵壁的抗體	철벽의 항체	Immunität	Inmunidad	Immunité	Immunità	Niewrażliwość	Imunidade	Неприкосновенность	Bağışıklık
+62083	Treasure Hunter	トレジャーハント	宝藏猎人	寶藏獵人	트레저 헌터	Schatzjäger	Cazatesoros	Chasseur de trésors	Cacciatesori	Łowca skarbów	Caça-Tesouros	Кладоискатель	Hazine Avcısı
+62084	Efficiency Aficionado	効率学習	高效学习	高效學習	효율 학습	Freund der Effizienz	Amante de la eficiencia	Maîtrise de l'efficacité	Passione efficienza	Miłośnik skuteczności	Entusiasta da Eficiência	Ревнитель качества	Verimlilik Meraklısı
+62085	Keen Eye	審美眼	审美眼光	鑑賞力	심미안	Scharfes Auge	Buen ojo	Œil avisé	Buon occhio	Bystre oko	Perspicácia	Острый глаз	Uyanık
+62086	Eagle Eyes	鷲の双眸	鹫之双眸	鷹鷲的雙眸	독수리의 눈	Adleraugen	Ojo de águila	Œil d'aigle	Occhio d'aquila	Orle oko	Olhos de Águia	Орлиное зрение	Kartal Gözleri
+62087	Unparalleled Strength	剛力無双	力大无穷	力大無窮	강력무쌍	Unvergleichliche Stärke	Fuerza sin igual	Force inégalée	Forza senza eguali	Niezrównana siła	Força Inigualável	Выдающаяся сила	Benzersiz Güç
+62088	Regenerate 3	大治癒促進	大治愈促进	大治癒促進	치유 촉진 대	Regenerieren 3	Regenerar 3	Régénération 3	Rigenerazione 3	Regeneracja 3	Regeneração 3	Восстановление 3	Tazeleme 3
+62089	Invigorate 3	大気功	大气功	大氣功	기공 대	SP Regenerieren 3	Vigorizar 3	Revigoration 3	Recupero 3	Pobudzenie 3	Revigoramento 3	Воодушевление 3	Kuvvetlendirme 3
+62090	Angelic Instincts	修羅の本能	修罗的本能	修羅本能	수라의 본능	Engelsinstinkt	Instintos angelicales	Instincts angéliques	Istinti angelici	Anielski instynkt	Instintos Angelicais	Ангельские инстинкты	Melek İçgüdüleri
+62091	Divine Mind	励起する神秘	激发能量的奥秘	神祕激勵	떠오르는 신비	Göttlicher Verstand	Mente divina	Esprit divin	Mente divina	Boski umysł	Mente Divina	Божественный разум	İlahi İrade
+62092	Heavenly Gift	輝ける綺羅星	光彩四溢的闪耀繁星	閃耀繁星	빛나는 기라성	Himmlische Gabe	Regalo celestial	Cadeau céleste	Dono celeste	Niebiański dar	Dádiva Celestial	Небесный дар	Cennetten bir Hediye
+62093	Blessing of Yggdrasil	世界樹の加護	世界树的庇佑	世界樹的庇佑	세계수의 가호	Yggdrasils Segen	Bendición de Yggdrasil	Bénédiction d'Yggdrasil	Benedizione di Yggdrasil	Błogosławieństwo Yggdrasil	Bênção de Yggdrasil	Благословение Иггдрасиля	Yggdrasil'in Kutsaması
+62094	Easy Money	一攫千金	一攫千金	一獲千金	일확천금	Leichtverdientes Geld	Dinero fácil	Argent facile	Soldi facili	Łatwa kasa	Dinheiro Fácil	Легкие деньги	Kolay Para
+62095	Knack for Conflict	闘諍の天稟	斗争的天赋	鬥爭天賦	투쟁의 천성	Talent für Konflikte	Pasión por el conflicto	Goût du conflit	Talento bellico	Smykałka do konfliktu	Aptidão para o Conflito	Жажда конфликта	Çarpışma Ustalığı
+62096	Auto-Riser	ヒートライザオート	自动灼热奋起	自動灼熱奮起	히트라이저 오토	Auto-Hitzeanstieg	Subidón automático	Auto-Embellie	Auto Potenziamento	Automatyczne rozgrzanie	Auto-Altercação	Авто-Экзотермия	Otomatik Yükseltici
+62097	Goddess's Embrace	女神の抱擁	女神的拥抱	女神擁抱	여신의 포옹	Umarmung der Göttin	Abrazo de la diosa	Étreinte de la déesse	Abbraccio della dea	Objęcie bogini	Abraço da Deusa	Объятия богини	Tanrıçanın Kucağı
+62098	Triumphant Cheer	勝利の凱歌	胜利的凯歌	勝利凱歌	승리의 개가	Triumphaler Jubel	Ánimo triunfante	Encouragement triomphal	Esultanza trionfale	Zwycięski okrzyk	Aclamação Triunfante	Торжествующий возглас	Muzaffer Neşe
+62100	Stalking Hunter	背面の狩人	背后的猎人	背後的獵人	배후의 사냥꾼	Pirschjäger	Caza acechante	Chasseur-traqueur	Bracconiere	Przyczajony łowca	Caça Sorrateira	Засадный охотник	İz Süren Avcı
+62101	Endless Fighting Spirit	果て無き闘志	永无止境的斗志	永無止境的鬥志	끝없는 투지	Unendlicher Kampfgeist	Espíritu de lucha inagotable	Combativité éternelle	Spirito indomabile	Nieskończona wola walki	Espírito de Luta Incansável	Вечный боец	Sonsuz Savaşçı Ruh
+62102	Rising Vigor	沸き立つ血気	沸腾的活力	熱血沸騰的精力	끓어오르는 혈기	Wachsende Kraft	Vigor ascendente	Énergie montante	Vigore crescente	Pełnia wigoru	Vigor Crescente	Кураж	Artan Kuvvet
+62103	Mighty Warrior	快進撃	迅猛攻势	勢如破竹	쾌진격	Mächtiger Krieger	Guerrero poderoso	Guerrier puissant	Guerriero possente	Potężny wojownik	Guerreiro Poderoso	Могучий воин	Güçlü Savaşçı
+62104	One Man Army	一騎当千	一骑当千	萬夫莫敵	일기당천	Ein-Mann-Armee	Ejército de un solo hombre	Armée d'un seul homme	One man army	Jednoosobowa armia	Exército de um Homem Só	Один в поле воин	Tek Kişilik Ordu
+62105	Sharp-Eyed Wildcat	必中の山猫	必中山猫	必中山貓	필중의 살쾡이	Scharfsichtige Wildkatze	Vista felina	Panthère à l'œil affûté	Occhio di lince	Bystrooki kot	Felino Atento	Зоркий тигр	Keskin Gözlü Yaban Kedisi
+62106	Punisher of the Reckless	油断大敵	保持警戒	嚴禁疏忽	방심은 금물	Bestrafer der Fahrlässigen	Castigador de imprudentes	Châtiment des intrépides	Imprudenza castigata	Karciciel lekkomyślnych	Punição dos Imprudentes	Каратель безрассудных	Dikkatsizi Cezalandıran
+62107	Finishing Blow	止めの一撃	最后一击	致命一擊	마무리 일격	Todesstoß	Golpe de gracia	Coup de grâce	Colpo di grazia	Ostateczny cios	Golpe Finalizador	Смертельный удар	Bitirici Darbe
+62108	Salt in the Wound	傷口塩塗	伤口撒盐	傷口撒鹽	쓰라린 상처	Salz in die Wunde	Sal en la herida	Sel sur la plaie	Dito nella piaga	Sól na rany	Sal na Ferida	Соль на рану	Yaraya Tuz
+62109	Warrior's Comradery	士気高揚の陣	士气高昂之阵	氣勢高昂之陣	사기고양의 진	Kameradschaft des Kriegers	Camaradería del guerrero	Camaraderie du guerrier	Cameratismo	Wojownicze koleżeństwo	Camaradagem do Guerreiro	Воинская дружба	Savaşçı Yoldaşlığı
+62110	Berserker	ベルセルク	狂战士	狂戰士	베르세르크	Berserker	Frenesí	Berserker	Berserk	Berserker	Berserker	Берсерк	Vahşi Savaşçı
+62111	Iron Body	錬鉄の体	锻铁之躯	千錘百鍊之軀	연철의 몸	Eiserner Körper	Cuerpo de hierro	Corps de fer	Corpo in ghisa	Żelazne ciało	Corpo de Ferro	Железное тело	Demir Vücut
+62112	Indomitable Perseverance	堅忍不抜	坚韧不拔	堅忍不拔	불굴의 인내심	Unbezwingbare Hartnäckigkeit	Perseverancia indómita	Persévérance indomptable	Perseveranza indomita	Niezłomna wytrwałość	Perseverança Indômita	Неукротимая стойкость	Bitmez Dirayet
+62113	Staunch Battle Formation	難攻不落の陣	难攻不落之阵	堅不可摧之陣	난공불락의 진	Standhafte Kampfformation	Formación de batalla firme	Formation de combat solide	Formazione salda	Zaciekła formacja bojowa	Formação de Batalha Firme	Неколебимое построение	Sağlam Savaş Düzeni
+62114	Flourish in Hardship	死中に活	死中求生	死裡求生	사중구활	Durch Mühsal zu den Sternen	Crecerse ante la adversidad	Essor dans l'épreuve	Crescere nelle avversità	Siła w cierpieniu	Crescimento na Adversidade	Нет худа без добра	Zorluktaki Bereket
+62115	Deceptive Haze	惑わす陽炎	幻惑的蜃景	迷惑幻影	조소하는 아지랑이	Trügerischer Nebel	Confusión falaz	Brume trompeuse	Nebbia ingannevole	Zwodnicza mgła	Bruma Enganosa	Коварная дымка	Aldatıcı Pus
+62116	Trigger Happy	トリガーハッピー	扫射狂人	槍彈狂熱	트리거 해피	Schießwütig	Gatillo fácil	As de la gâchette	Grilletto facile	Czuły spust	Dedo no Gatilho	Пали почем зря	Tetiği Çekmeye Hazır
+62117	Torrent of Magic	魔力の奔流	魔力的激流	魔力激流	마력의 격류	Sturm der Magie	Torrente de magia	Torrent de magie	Torrente magico	Strumień magii	Torrente de Magia	Магический поток	Büyü Sağanağı
+62118	Unseen Messenger	死角からの使者	来自盲点的使者	來自死角的使者	사각을 노리는 자객	Unsichtbarer Bote	Mensajero desconocido	Messager invisible	Messaggero invisibile	Niewidzialny posłaniec	Mensageiro Oculto	Незримый посланник	Görünmez Elçi
+62119	Magic Bullet	魔弾の射手	魔弹射手	魔彈射手	마탄의 사수	Magiekugel	Bala mágica	Balle magique	Proiettile magico	Magiczna kula	Bala Mágica	Волшебная пуля	Büyülü Mermi
+62120	Fool's Reckoning	愚者の看破	愚者的领悟	愚者領悟	어리석은 자의 간파	Abrechnung des Narren	Verdad de los necios	Jugement des idiots	Condanna dello sciocco	Rozrachunek głupca	Juízo do Louco	Расплата глупца	Aptalın Hesaplaması
+62121	Merciless Deliverance	慈悲なき執行	冷血的裁断	冷血執行	무자비한 집행	Gnadenlose Erlösung	Salvación sin piedad	Délivrance sans merci	Salvezza spietata	Bezlitosne wyzwolenie	Libertação Implacável	Беспощадное спасение	Acımasız Kurtuluş
+62122	Slap to the Face	泣面蜂刺	祸上加祸	禍不單行	가중되는 고통	Schlag ins Gesicht	Bofetada en la cara	Gifle	Schiaffo in faccia	Policzek	Tapa na Cara	Пощечина	Yüze Tokat
+62123	Steel Physique	鋼鉄の体躯	钢铁之躯	鋼鐵之軀	강철의 체구	Stählerne Physis	Físico de acero	Physique d'acier	Fisico d'acciaio	Stalowa budowa	Físico de Aço	Стальные мышцы	Çelik Vücut
+62124	Unyielding Will	百折不撓	百折不挠	百折不撓	백절불요	Unerschütterlicher Wille	Voluntad inquebrantable	Volonté inflexible	Volontà inflessibile	Nieustępliwa wola	Vontade Inflexível	Несгибаемая воля	Sarsılmaz İrade
+62125	Impenetrable Fortress	絶対防衛の陣	完全防护之阵	絕對防衛之陣	절대방어의 진	Uneinnehmbare Festung	Fortaleza impenetrable	Forteresse impénétrable	Fortezza impenetrabile	Forteca nie do sforsowania	Fortaleza Impenetrável	Неприступная крепость	Sırrı Çözülemeyen Kale
+62126	Indominable Spirit	不屈の魂	不屈的灵魂	不屈之魂	불굴의 혼	Unbezwingbarer Kampfgeist	Espíritu indomable	Esprit indomptable	Spirito indomito	Niezwyciężona dusza	Espírito Indomável	Неукротимый дух	Sarsılmaz Ruh
+62127	Hazy Mirage	消えゆく蜃気楼	渐渐消失的海市蜃楼	逐漸消失的海市蜃樓	사라지는 신기루	Verschwommenes Trugbild	Espejismo difuso	Mirage brumeux	Miraggio nebbioso	Mglisty miraż	Miragem Turva	Зыбкий мираж	Puslu Serap
+62200	Ailment Shield	状態治癒防陣	状态治愈防阵	治療狀態防陣	상태 치유 방진	Statuseffekt-Schild	Escudo de estados alterados	Bouclier anti-altération	Antialterazione	Tarcza na efekty	Escudo de Aflição	Щит от напастей	Rahatsızlık Kalkanı
+62201	Ailment Shield+	状態治癒防陣＋	状态治愈防阵＋	治療狀態防陣＋	상태 치유 방진+	Statuseffekt-Schild+	Escudo de estados alterados+	Bouclier anti-altération+	Antialterazione+	Tarcza na efekty+	Escudo de Aflição+	Щит от напастей+	Rahatsızlık Kalkanı+
+62202	Maeiha	マハエイハ	玛哈耶哈	瑪哈耶哈	마하에이하	Maeiha	Maeiha	Maeiha	Maeiha	Maeiha	Maeiha	Маэйха	Maeiha
+62203	Maeiga	マハエイガ	玛哈耶加	瑪哈耶加	마하에이가	Maeiga	Maeiga	Maeiga	Maeiga	Maeiga	Maeiga	Маэйга	Maeiga
+62204	Maeigaon	マハエイガオン	玛哈耶加翁	瑪哈耶加翁	마하에이가온	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Маэйгаон	Maeigaon
+62205	Magaru	マハガル	玛哈加尔	瑪哈加爾	마하갈	Magaru	Magaru	Magaru	Magaru	Magaru	Magaru	Магару	Magaru
+62206	Magarula	マハガルーラ	玛哈加尔拉	瑪哈加爾拉	마하갈라	Magarula	Magarula	Magarula	Magarula	Magarula	Magarula	Магарула	Magarula
+62207	Magarudyne	マハガルダイン	玛哈加尔达因	瑪哈加爾達因	마하갈다인	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Магарудин	Magarudyne
+62208	Mazio	マハジオ	玛哈吉欧	瑪哈吉歐	마하지오	Mazio	Mazio	Mazio	Mazio	Mazio	Mazio	Мазио	Mazio
+62209	Mazionga	マハジオンガ	玛哈吉欧加	瑪哈吉歐加	마하지온가	Mazionga	Mazionga	Mazionga	Mazionga	Mazionga	Mazionga	Мазионга	Mazionga
+62210	Maziodyne	マハジオダイン	玛哈吉欧达因	瑪哈吉歐達因	마하지오다인	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Мазиодин	Maziodyne
+62211	Maragi	マハラギ	玛哈拉基	瑪哈拉基	마하라기	Maragi	Maragi	Maragi	Maragi	Maragi	Maragi	Мараги	Maragi
+62212	Maragion	マハラギオン	玛哈拉基翁	瑪哈拉基翁	마하라기온	Maragion	Maragion	Maragion	Maragion	Maragion	Maragion	Марагион	Maragion
+62213	Maragidyne	マハラギダイン	玛哈拉基达因	瑪哈拉基達因	마하라기다인	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Марагидин	Maragidyne
+62214	Mabufu	マハブフ	玛哈布芙	瑪哈布芙	마하부흐	Mabufu	Mabufu	Mabufu	Mabufu	Mabufu	Mabufu	Мабуфу	Mabufu
+62215	Mabufula	マハブフーラ	玛哈布芙拉	瑪哈布芙拉	마하부흐라	Mabufula	Mabufula	Mabufula	Mabufula	Mabufula	Mabufula	Мабуфула	Mabufula
+62216	Mabufudyne	マハブフダイン	玛哈布芙达因	瑪哈布芙達因	마하부흐다인	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Мабуфудин	Mabufudyne
+62217	Mafrei	マハフレイ	玛哈芙雷	瑪哈芙雷	마하프레이	Mafrei	Mafrei	Mafrei	Mafrei	Mafrei	Mafrei	Мафрей	Mafrei
+62218	Mafreila	マハフレイラ	玛哈芙雷拉	瑪哈芙雷拉	마하프레이라	Mafreila	Mafreila	Mafreila	Mafreila	Mafreila	Mafreila	Мафрейла	Mafreila
+62219	Mafreidyne	マハフレイダイン	玛哈芙雷达因	瑪哈芙雷達因	마하프레이다인	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Мафрейдин	Mafreidyne
+62220	Mapsi	マハサイ	玛哈赛	瑪哈賽	마하사이	Mapsi	Mapsi	Mapsi	Mapsi	Mapsi	Mapsi	Мапси	Mapsi
+62221	Mapsio	マハサイオ	玛哈赛欧	瑪哈賽歐	마하사이오	Mapsio	Mapsio	Mapsio	Mapsio	Mapsio	Mapsio	Мапсио	Mapsio
+62222	Mapsiodyne	マハサイダイン	玛哈赛达因	瑪哈賽達因	마하사이다인	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Мапсиодин	Mapsiodyne
+62223	Makouha	マハコウハ	玛哈克哈	瑪哈克哈	마하코우하	Makouha	Makouha	Makouha	Makouha	Makouha	Makouha	Макуха	Makouha
+62224	Makouga	マハコウガ	玛哈克加	瑪哈克加	마하코우가	Makouga	Makouga	Makouga	Makouga	Makouga	Makouga	Макуга	Makouga
+62225	Makougaon	マハコウガオン	玛哈克加翁	瑪哈克加翁	마하코우가온	Makougaon	Makougaon	Makougaon	Makougaon	Makougaon	Makougaon	Макугаон	Makougaon
+62226	Diarahan	ディアラハン	迪亚拉翰	迪亞拉翰	디아라한	Diarahan	Diarahan	Diarahan	Diarahan	Diarahan	Diarahan	Диарахан	Diarahan
+62227	Heat Riser	ヒートライザ	灼热奋起	灼熱奮起	히트라이저	Hitzeanstieg	Subidón	Embellie	Potenziamento	Rozgrzanie	Altercação	Экзотермия	Isı Yükseltici
+62228	Mediarahan	メディアラハン	梅迪亚拉翰	梅迪亞拉翰	메디아라한	Mediarahan	Mediarahan	Mediarahan	Mediarahan	Mediarahan	Mediarahan	Медиарахан	Mediarahan
+62229	Diaramrita	ディアラムリタ	迪亚拉姆利塔	迪亞拉姆利塔	디아람리타	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Диарамрита	Diaramrita
+62230	Diarama	ディアラマ	迪亚拉玛	迪亞拉瑪	디아라마	Diarama	Diarama	Diarama	Diarama	Diarama	Diarama	Диарама	Diarama
+62231	Mediarama	メディラマ	梅迪拉玛	梅迪拉瑪	메디라마	Mediarama	Mediarama	Mediarama	Mediarama	Mediarama	Mediarama	Медиарама	Mediarama
+63000	Burn	炎上	燃烧	燃燒	화상	Brennen	Quemadura	Brûlure	In fiamme	Podpalenie	Queimadura	Ожог	Yanma
+63002	Freeze	凍結	冻结	凍結	동결	Starre	Congelación	Gel	Congelamento	Zamrożenie	Congelamento	Заморозка	Donma
+63004	Sweep	疾風	疾风	疾風	질풍	Wischer	Barrido	Balayage	Spazzata	Zdmuchnięcie	Varrição	Отбрасывание	Süpürme
+63006	Despair	絶望	绝望	絕望	절망	Verzweiflung	Desesperación	Désespoir	Disperazione	Rozpacz	Desespero	Отчаяние	Çaresizlik
+63008	Shock	感電	触电	觸電	감전	Schock	Electrificación	Électrocution	Folgorazione	Porażenie	Choque	Электрошок	Şok
+63010	Vortex	核熱	核热	核熱	핵열	Vortex	Vórtice	Vortex	Vortice	Wir	Vórtice	Воронка	Girdap
+63012	Hypnosis	念動	念动	念動	염동	Hypnose	Hipnosis	Hypnose	Ipnosi	Hipnoza	Hipnose	Гипноз	Hipnoz
+63014	Dizzy	目眩	晕眩	暈眩	현기증	Benommenheit	Mareo	Étourdissement	Vertigini	Oszołomienie	Tontura	Головокружение	Sersemlik
+63016	Forget	祝福	遗忘	遺忘	망각	Vergessen	Amnesia	Amnésie	Amnesia	Zapomnienie	Esquecimento	Потеря памяти	Unutma
+63018	Sleep	睡眠	睡眠	睡眠	수면	Schlaf	Sueño	Sommeil	Sonno	Uśpienie	Sono	Сон	Uyku
+63020	Forget	忘却	遗忘	遺忘	망각	Vergessen	Amnesia	Amnésie	Amnesia	Zapomnienie	Esquecimento	Потеря памяти	Unutma
+63034	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド	引き寄せバウンド
+63036	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ	首輪引き寄せ
+63038	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし	横吹き飛ばし
+63040	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし	1マス吹き飛ばし
+63046	Targeted	照準	瞄准	瞄準	조준	Anvisiert	Objetivo	Ciblage	Sotto tiro	Namierzenie	Na mira	Прицел	Hedefte
+63050	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし	カバーできない位置に吹き飛ばし
+63052	Barrier	防壁	防护墙	防護罩	방벽	Barriere	Barrera	Barrière	Barriera	Bariera	Barreira	Барьер	Bariyer
+63054	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能	超爆発用行動不能
+63056	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し	カバー外し
+63058	Amour	執着	执着	執著	집착	Besessen	Obsesión	Obsession	Ossessione	Miłość	Amor	Очарование	Aşk
+63060	Bind	拘束	束缚	束縛	구속	Binden	Amarre	Entrave	Vincolo	Związanie	Prisão	Оковы	Bağla
+63066	Targeted	狙い	目标	狙擊	표적	Anvisiert	Objetivo	Ciblage	Sotto tiro	Namierzenie	Na mira	В прицеле	Hedefte
+65000	Eiha	エイハ	耶哈	耶哈	에이하	Eiha	Eiha	Eiha	Eiha	Eiha	Eiha	Эйха	Eiha
+65002	Eiga	エイガ	耶加	耶加	에이가	Eiga	Eiga	Eiga	Eiga	Eiga	Eiga	Эйга	Eiga
+65004	Eigaon	エイガオン	耶加翁	耶加翁	에이가온	Eigaon	Eigaon	Eigaon	Eigaon	Eigaon	Eigaon	Эйгаон	Eigaon
+65006	Maeiha	マハエイハ	玛哈耶哈	瑪哈耶哈	마하에이하	Maeiha	Maeiha	Maeiha	Maeiha	Maeiha	Maeiha	Маэйха	Maeiha
+65008	Maeiga	マハエイガ	玛哈耶加	瑪哈耶加	마하에이가	Maeiga	Maeiga	Maeiga	Maeiga	Maeiga	Maeiga	Маэйга	Maeiga
+65010	Maeigaon	マハエイガオン	玛哈耶加翁	瑪哈耶加翁	마하에이가온	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Maeigaon	Маэйгаон	Maeigaon
+65012	Scythes of Eternal Darkness	極夜の大鎌	极夜巨镰	永夜的巨鐮	극야의 대낫	Sensen ewiger Dunkelheit	Guadaña de osc. eterna	Faux de ténèbres éternelles	Falci dell'eterna oscurità	Kosy wiecznego mroku	Foices das Trevas Eternas	Косы вечной тьмы	Sonsuz Karanlık Tırpanları
+65020	Garu	ガル	加尔	加爾	갈	Garu	Garu	Garu	Garu	Garu	Garu	Гару	Garu
+65022	Garula	ガルーラ	加尔拉	加爾拉	갈라	Garula	Garula	Garula	Garula	Garula	Garula	Гарула	Garula
+65024	Garudyne	ガルダイン	加尔达因	加爾達因	갈다인	Garudyne	Garudyne	Garudyne	Garudyne	Garudyne	Garudyne	Гарудин	Garudyne
+65026	Magaru	マハガル	玛哈加尔	瑪哈加爾	마하갈	Magaru	Magaru	Magaru	Magaru	Magaru	Magaru	Магару	Magaru
+65028	Magarula	マハガルーラ	玛哈加尔拉	瑪哈加爾拉	마하갈라	Magarula	Magarula	Magarula	Magarula	Magarula	Magarula	Магарула	Magarula
+65030	Magarudyne	マハガルダイン	玛哈加尔达因	瑪哈加爾達因	마하갈다인	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Magarudyne	Магарудин	Magarudyne
+65032	Wheel of Life	万象流転	万象流转	萬象流轉	만상유전	Lebensrad	Rueda de la vida	Roue de vie	Ruota della vita	Krąg życia	Roda da Vida	Колесо жизни	Can Çarkı
+65040	Zio	ジオ	吉欧	吉歐	지오	Zio	Zio	Zio	Zio	Zio	Zio	Зио	Zio
+65042	Zionga	ジオンガ	吉欧加	吉歐加	지온가	Zionga	Zionga	Zionga	Zionga	Zionga	Zionga	Зионга	Zionga
+65044	Ziodyne	ジオダイン	吉欧达因	吉歐達因	지오다인	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Ziodyne	Зиодин	Ziodyne
+65046	Mazio	マハジオ	玛哈吉欧	瑪哈吉歐	마하지오	Mazio	Mazio	Mazio	Mazio	Mazio	Mazio	Мазио	Mazio
+65048	Mazionga	マハジオンガ	玛哈吉欧加	瑪哈吉歐加	마하지온가	Mazionga	Mazionga	Mazionga	Mazionga	Mazionga	Mazionga	Мазионга	Mazionga
+65050	Maziodyne	マハジオダイン	玛哈吉欧达因	瑪哈吉歐達因	마하지오다인	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Maziodyne	Мазиодин	Maziodyne
+65052	Almighty Judgement	真理の百雷	真理百雷	真理的雷鳴	진리의 벼락	Allmächtiges Urteil	Juicio todopoderoso	Jugement absolu	Giudizio divino	Wszechmocny wyrok	Julgamento Onipotente	Всемогущий суд	Yüce Mahkeme
+65060	Agi	アギ	亚基	亞基	아기	Agi	Agi	Agi	Agi	Agi	Agi	Аги	Agi
+65062	Agilao	アギラオ	亚基拉欧	亞基拉歐	아기라오	Agilao	Agilao	Agilao	Agilao	Agilao	Agilao	Агилао	Agilao
+65064	Agidyne	アギダイン	亚基达因	亞基達因	아기다인	Agidyne	Agidyne	Agidyne	Agidyne	Agidyne	Agidyne	Агидин	Agidyne
+65066	Maragi	マハラギ	玛哈拉基	瑪哈拉基	마하라기	Maragi	Maragi	Maragi	Maragi	Maragi	Maragi	Мараги	Maragi
+65068	Maragion	マハラギオン	玛哈拉基翁	瑪哈拉基翁	마하라기온	Maragion	Maragion	Maragion	Maragion	Maragion	Maragion	Марагион	Maragion
+65070	Maragidyne	マハラギダイン	玛哈拉基达因	瑪哈拉基達因	마하라기다인	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Maragidyne	Марагидин	Maragidyne
+65072	Hellfire	地獄の業火	地狱业火	地獄的業火	지옥의 업화	Höllenfeuer	Fuego del averno	Feu de l'enfer	Fuoco infernale	Ogień piekielny	Fogo Infernal	Адский огонь	Cehennem Ateşi
+65080	Bufu	ブフ	布芙	布芙	부흐	Bufu	Bufu	Bufu	Bufu	Bufu	Bufu	Буфу	Bufu
+65082	Bufula	ブフーラ	布芙拉	布芙拉	부흐라	Bufula	Bufula	Bufula	Bufula	Bufula	Bufula	Буфула	Bufula
+65084	Bufudyne	ブフダイン	布芙达因	布芙達因	부흐다인	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Bufudyne	Буфудин	Bufudyne
+65086	Mabufu	マハブフ	玛哈布芙	瑪哈布芙	마하부흐	Mabufu	Mabufu	Mabufu	Mabufu	Mabufu	Mabufu	Мабуфу	Mabufu
+65088	Mabufula	マハブフーラ	玛哈布芙拉	瑪哈布芙拉	마하부흐라	Mabufula	Mabufula	Mabufula	Mabufula	Mabufula	Mabufula	Мабуфула	Mabufula
+65090	Mabufudyne	マハブフダイン	玛哈布芙达因	瑪哈布芙達因	마하부흐다인	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Mabufudyne	Мабуфудин	Mabufudyne
+65092	Crystal Bloom	氷晶開花	冰晶绽放	冰晶綻放	빙정개화	Kristallblüte	Flor de cristal	Floraison de cristal	Cristallo fiorente	Kryształowy kwiat	Florescer Cristalino	Кристальное цветение	Kristal Parıltısı
+65100	Frei	フレイ	芙雷	芙雷	프레이	Frei	Frei	Frei	Frei	Frei	Frei	Фрей	Frei
+65102	Freila	フレイラ	芙雷拉	芙雷拉	프레이라	Freila	Freila	Freila	Freila	Freila	Freila	Фрейла	Freila
+65104	Freidyne	フレイダイン	芙雷达因	芙雷達因	프레이다인	Freidyne	Freidyne	Freidyne	Freidyne	Freidyne	Freidyne	Фрейдин	Freidyne
+65106	Mafrei	マハフレイ	玛哈芙雷	瑪哈芙雷	마하프레이	Mafrei	Mafrei	Mafrei	Mafrei	Mafrei	Mafrei	Мафрей	Mafrei
+65108	Mafreila	マハフレイラ	玛哈芙雷拉	瑪哈芙雷拉	마하프레이라	Mafreila	Mafreila	Mafreila	Mafreila	Mafreila	Mafreila	Мафрейла	Mafreila
+65110	Mafreidyne	マハフレイダイン	玛哈芙雷达因	瑪哈芙雷達因	마하프레이다인	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Mafreidyne	Мафрейдин	Mafreidyne
+65112	Atomic Hollow	アトミックホロウ	原子空洞	原子空洞	아토믹 할로우	Atomschlag	Vacío atómico	Creux atomique	Vuoto atomico	Atomowa pustka	Vácuo Atômico	Атомная пустота	Atomik Oyuk
+65120	Psi	サイ	赛	賽	사이	Psi	Psi	Psi	Psi	Psi	Psi	Пси	Psi
+65122	Psio	サイオ	赛欧	賽歐	사이오	Psio	Psio	Psio	Psio	Psio	Psio	Псио	Psio
+65124	Psiodyne	サイダイン	赛达因	賽達因	사이다인	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Psiodyne	Псиодин	Psiodyne
+65126	Mapsi	マハサイ	玛哈赛	瑪哈賽	마하사이	Mapsi	Mapsi	Mapsi	Mapsi	Mapsi	Mapsi	Мапси	Mapsi
+65128	Mapsio	マハサイオ	玛哈赛欧	瑪哈賽歐	마하사이오	Mapsio	Mapsio	Mapsio	Mapsio	Mapsio	Mapsio	Мапсио	Mapsio
+65130	Mapsiodyne	マハサイダイン	玛哈赛达因	瑪哈賽達因	마하사이다인	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Mapsiodyne	Мапсиодин	Mapsiodyne
+65132	Psycho Impact	サイコインパクト	精神冲击	精神衝擊	사이코 임팩트	Psychostoß	Psicoimpacto	Impact psychique	Impatto psichico	Psioniczna implozja	Psicoimpacto	Психотолчок	Psiko Etkisi
+65140	Partisan	パルチザン	游击	游擊隊	파르티잔	Partisane	Partesana	Pertuisane	Partigiana	Partyzantka	Partasana	Сторонник	Partizan
+65142	Great Partisan	大槍パルチザン	大枪游击	大槍游擊隊	거창 파르티잔	Große Partisane	Partesana superior	Grande pertuisane	Partigiana superiore	Wspaniała partyzantka	Grande Partasana	Великий сторонник	Büyük Partizan
+65144	Ultimate Partisan	極槍パルチザン	极枪游击	極槍游擊隊	극창 파르티잔	Ultimative Partisane	Partesana suprema	Pertuisane ultime	Partigiana suprema	Ostateczna partyzantka	Partasana Suprema	Величайший сторонник	Nihai Partizan
+65146	Shining Partisan	輝槍パルチザン	辉枪游击	輝槍游擊隊	휘창 파르티잔	Glänzende Partisane	Partesana brillante	Pertuisane brillante	Partigiana lucente	Lśniąca partyzantka	Partasana Brilhante	Яркий сторонник	Parlayan Partizan
+65148	Great Shining Partisan	大輝槍パルチザン	大辉枪游击	大輝槍游擊隊	대휘창 파르티잔	Große glänzende Partisane	Partesana brillante devota	Grande pertuisane brillante	Grande Partigiana lucente	Wspaniała lśniąca part.	Grande Partasana Brilhante	Велик. ярк. сторонник	Parlayan Büyük Partizan
+65150	Ultimate Shining Partisan	極輝槍パルチザン	极辉枪游击	極輝槍游擊隊	극휘창 파르티잔	Ultimat. glänz. Partisane	Partesana brillante suprema	Pertuisane brillante ultime	Partigiana lucente suprema	Ostatecz. lśniąca partyz.	Partasana Brilhante Super	Лучш. ярк. сторонник	Parlayan Nihai Partizan
+65152	Covenant of the Spear	約定の槍	约定之枪	約定之槍	약정의 창	Bund des Speers	Pacto de la lanza	Alliance de la lance	Patto della lancia	Przymierze włóczni	Pacto da Lança	Обет копья	Mızrak Anlaşması
+65160	Baywell 45 MkII	ベイウェル４５MkⅡ	贝威尔４５ＭｋⅡ	貝威爾４５Ｍｋ Ⅱ	베이웰 45 MkⅡ	Baywell 45 MK II	Baywell 45 Mk. II	Baywell 45 MkII	Baywell 45 MkII	Baywell 45 MkII	Baywell 45 Mk II	Baywell 45 MkII	Baywell 45 MkII
+65162	Liberator	リベレーター	解放者	解放者	리버레이터	Befreier	Liberador	Libérateur	Liberazione	Wyzwoliciel	Libertação	Освободитель	Kurtarıcı
+65164	Crystal of Rebirth	回生する結晶	再生结晶	再生結晶	되살아나는 결정	Kristall der Wiedergeburt	Cristal del renacer	Cristal de réincarnation	Cristallo di rinascita	Kryształ odrodzenia	Cristal do Renascimento	Кристалл перерождения	Yeniden Doğuş Kristali
+65166	Light of a Promise	誓いの光	誓言之光	誓約之光	맹세의 빛	Licht des Versprechens	Luz de una promesa	Lueur d'une promesse	Promessa lucente	Blask obietnicy	Luz de uma Promessa	Свет обещания	Vaat Işığı
+65180	Kouha	コウハ	克哈	克哈	코우하	Kouha	Kouha	Kouha	Kouha	Kouha	Kouha	Куха	Kouha
+65182	Kouga	コウガ	克加	克加	코우가	Kouga	Kouga	Kouga	Kouga	Kouga	Kouga	Куга	Kouga
+65184	Kougaon	コウガオン	克加翁	克加翁	코우가온	Kougaon	Kougaon	Kougaon	Kougaon	Kougaon	Kougaon	Кугаон	Kougaon
+65186	Makouha	マハコウハ	玛哈克哈	瑪哈克哈	마하코우하	Makouha	Makouha	Makouha	Makouha	Makouha	Makouha	Макуха	Makouha
+65188	Makouga	マハコウガ	玛哈克加	瑪哈克加	마하코우가	Makouga	Makouga	Makouga	Makouga	Makouga	Makouga	Макуга	Makouga
+65190	Makougaon	マハコウガオン	玛哈克加翁	瑪哈克加翁	마하코우가온	Makougaon	Makougaon	Makougaon	Makougaon	Makougaon	Makougaon	Макугаон	Makougaon
+65192	Judgement of the Heavens	天上の裁決	天之裁决	天降審判	천상의 판결	Himmelsurteil	Juicio de los cielos	Jugement des cieux	Giudizio dei cieli	Niebiański sąd	Julgamento dos Céus	Небесный суд	Cennet Mahkemesi
+65200	Megido	メギド	米吉多	米吉多	메기도	Megido	Megido	Megido	Megido	Megido	Megido	Мегидо	Megido
+65202	Megidola	メギドラ	米吉多拉	米吉多拉	메기도라	Megidola	Megidola	Megidola	Megidola	Megidola	Megidola	Мегидола	Megidola
+65204	Megidolaon	メギドラオン	米吉多拉翁	米吉多拉翁	메기도라온	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Megidolaon	Мегидолаон	Megidolaon
+65206	World's End	ワールドエンド	终末世界	世界末日	월드 엔드	Weltuntergang	Fin del mundo	Fin du monde	Fine del mondo	Koniec świata	Fim do Mundo	Конец света	Dünyanın Sonu
+65300	Dia	ディア	迪亚	迪亞	디아	Dia	Dia	Dia	Dia	Dia	Dia	Диа	Dia
+65302	Diarama	ディアラマ	迪亚拉玛	迪亞拉瑪	디아라마	Diarama	Diarama	Diarama	Diarama	Diarama	Diarama	Диарама	Diarama
+65304	Diarahan	ディアラハン	迪亚拉翰	迪亞拉翰	디아라한	Diarahan	Diarahan	Diarahan	Diarahan	Diarahan	Diarahan	Диарахан	Diarahan
+65310	Media	メディア	梅迪亚	梅迪亞	메디아	Media	Media	Media	Media	Media	Media	Медиа	Media
+65312	Mediarama	メディラマ	梅迪拉玛	梅迪拉瑪	메디라마	Mediarama	Mediarama	Mediarama	Mediarama	Mediarama	Mediarama	Медиарама	Mediarama
+65314	Mediarahan	メディアラハン	梅迪亚拉翰	梅迪亞拉翰	메디아라한	Mediarahan	Mediarahan	Mediarahan	Mediarahan	Mediarahan	Mediarahan	Медиарахан	Mediarahan
+65320	Amrita Drop	アムリタドロップ	甘露水滴	甘露水滴	암리타 드롭	Amritatropfen	Gota de Amrita	Goutte d'Amrita	Goccia di Amrita	Kropla Amrita	Gota de Amrita	Капля амриты	Amrita Damlası
+65322	Diamrita	ディアムリタ	迪亚姆利塔	迪亞姆利塔	디암리타	Diamrita	Diamrita	Diamrita	Diamrita	Diamrita	Diamrita	Диамрита	Diamrita
+65324	Heat Riser	ヒートライザ	灼热奋起	灼熱奮起	히트라이저	Hitzeanstieg	Subidón	Embellie	Potenziamento	Rozgrzanie	Altercação	Экзотермия	Isı Yükseltici
+65330	Tarukaja	タルカジャ	塔尔卡加	塔爾卡加	타루카쟈	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Tarukaja	Тарукайя	Tarukaja
+65332	Matarukaja	マハタルカジャ	玛哈塔尔卡加	瑪哈塔爾卡加	마하타루카쟈	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Matarukaja	Матарукайя	Matarukaja
+65340	Sukukaja	スクカジャ	斯库卡加	斯庫卡加	스쿠카쟈	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Sukukaja	Сукукайя	Sukukaja
+65342	Masukukaja	マハスクカジャ	玛哈斯库卡加	瑪哈斯庫卡加	마하스쿠카쟈	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Masukukaja	Масукукайя	Masukukaja
+65350	Rakukaja	ラクカジャ	拉库卡加	拉庫卡加	라쿠카쟈	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Rakukaja	Ракукайя	Rakukaja
+65352	Marakukaja	マハラクカジャ	玛哈拉库卡加	瑪哈拉庫卡加	마하라쿠카쟈	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Marakukaja	Маракукайя	Marakukaja
+65360	First Aid	回復防陣	恢复防阵	恢復守陣	회복 방진	Erste Hilfe	Botiquín	Premiers secours	Primo soccorso	Pierwsza pomoc	Primeiros Socorros	Первая помощь	İlk Yardım
+65362	First Aid+	回復防陣＋	恢复防阵＋	恢復守陣＋	회복 방진+	Erste Hilfe+	Botiquín+	Premiers secours+	Primo soccorso+	Pierwsza pomoc+	Primeiros Socorros+	Первая помощь+	İlk Yardım+
+65370	Ailment Shield	状態治癒防陣	状态治愈防阵	治療狀態防陣	상태 치유 방진	Statuseffekt-Schild	Escudo de estados alterados	Bouclier anti-altération	Antialterazione	Tarcza na efekty	Escudo de Aflição	Щит от напастей	Rahatsızlık Kalkanı
+65372	Ailment Shield+	状態治癒防陣＋	状态治愈防阵＋	治療狀態防陣＋	상태 치유 방진+	Statuseffekt-Schild+	Escudo de est. alterados+	Bouclier anti-altération+	Antialterazione+	Tarcza na efekty+	Escudo de Aflição+	Щит от напастей+	Rahatsızlık Kalkanı+
+65374	Diaramrita	ディアラムリタ	迪亚拉姆利塔	迪亞拉姆利塔	디아람리타	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Diaramrita	Диарамрита	Diaramrita
+65400	Phantom Judge	ファントムジャッジ	幻影审判	幻影審判	팬텀 저지	Phantomrichter	Juez fantasma	Juge fantôme	Giudice fantasma	Widmowy sędzia	Juiz Fantasmagórico	Призрачный судья	Hayalet Yargıç
+65402	Phantom Judge+	ファントムジャッジ＋	幻影审判＋	幻影審判＋	팬텀 저지+	Phantomrichter+	Juez fantasma+	Juge fantôme+	Giudice fantasma+	Widmowy sędzia+	Juiz Fantasmagórico+	Призрачный судья+	Hayalet Yargıç+
+65404	Phantom Judge++	ファントムジャッジ＋＋	幻影审判＋＋	幻影審判＋＋	팬텀 저지++	Phantomrichter++	Juez fantasma++	Juge fantôme++	Giudice fantasma++	Widmowy sędzia++	Juiz Fantasmagórico++	Призрачный судья++	Hayalet Yargıç++
+65420	Winds of Time	その風は我が名を刻む	铭刻吾名之风	銘刻吾名之風	이름을 새기는 바람	Wind der Zeit	Vientos de cambio	Souffles de temps	Venti del tempo	Wiatry czasu	Ventos do Tempo	Ветра времени	Zaman Rüzgarları
+65422	Winds of Time+	その風は我が名を刻む＋	铭刻吾名之风＋	銘刻吾名之風＋	이름을 새기는 바람+	Wind der Zeit+	Vientos de cambio+	Souffles de temps+	Venti del tempo+	Wiatry czasu+	Ventos do Tempo+	Ветра времени+	Zaman Rüzgarları+
+65424	Winds of Time++	その風は我が名を刻む＋＋	铭刻吾名之风＋＋	銘刻吾名之風＋＋	이름을 새기는 바람++	Wind der Zeit++	Vientos de cambio++	Souffles de temps++	Venti del tempo++	Wiatry czasu++	Ventos do Tempo++	Ветра времени++	Zaman Rüzgarları++
+65440	Brigantine Blitzkrieg	ブリガンティンの激進	双桅船的猛冲	乘風破浪的劫掠船	브리건틴의 격진	Brigantine-Manöver	Bergantín relámpago	Blitzkrieg	Blitzkrieg del veliero	Brygantynowy blitzkrieg	Blitz de Bergantim	Блицкриг бригантины	Brigantin Yıldırım Harekatı
+65442	Brigantine Blitzkrieg+	ブリガンティンの激進＋	双桅船的猛冲＋	乘風破浪的劫掠船＋	브리건틴의 격진+	Brigantine-Manöver+	Bergantín relámpago+	Blitzkrieg+	Blitzkrieg del veliero+	Brygantynowy blitzkrieg+	Blitz de Bergantim+	Блицкриг бригантины+	Brigantin Yıldırım Harekatı+
+65444	Brigantine Blitzkrieg++	ブリガンティンの激進＋＋	双桅船的猛冲＋＋	乘風破浪的劫掠船＋＋	브리건틴의 격진++	Brigantine-Manöver++	Bergantín relámpago++	Blitzkrieg++	Blitzkrieg del veliero++	Brygantynowy blitzkrieg++	Blitz de Bergantim++	Блицкриг бригантины++	Brigantin Yıldırım Harekatı++
+65460	Femme Fatale	ファムファタルの虜	致命红颜的俘虏	真命天女的俘虜	팜 파탈의 포로	Femme Fatale	Femme Fatale	Femme fatale	Femme fatale	Femme fatale	Femme Fatale	Роковая женщина	Ölümcül Kadın
+65462	Femme Fatale+	ファムファタルの虜＋	致命红颜的俘虏＋	真命天女的俘虜＋	팜 파탈의 포로+	Femme Fatale+	Femme Fatale+	Femme fatale+	Femme fatale+	Femme fatale+	Femme Fatale+	Роковая женщина+	Ölümcül Kadın+
+65464	Femme Fatale++	ファムファタルの虜＋＋	致命红颜的俘虏＋＋	真命天女的俘虜＋＋	팜 파탈의 포로++	Femme Fatale++	Femme Fatale++	Femme fatale++	Femme fatale++	Femme fatale++	Femme Fatale++	Роковая женщина++	Ölümcül Kadın++
+65480	Like a Phantom	盗人は幻の如く	犹如幻影的大盗	魅影神偷	괴도는 환상과 같이	Phantome	Ladrón Fantasma	Comme un fantôme	Calco fantasma	Niczym widmo	Como um Fantasma	Будто призрак	Hayalet Gibi
+65482	Like a Phantom+	盗人は幻の如く＋	犹如幻影的大盗＋	魅影神偷＋	괴도는 환상과 같이+	Phantome+	Ladrón Fantasma+	Comme un fantôme+	Calco fantasma+	Niczym widmo+	Como um Fantasma+	Будто призрак+	Hayalet Gibi+
+65484	Like a Phantom++	盗人は幻の如く＋＋	犹如幻影的大盗＋＋	魅影神偷＋＋	괴도는 환상과 같이++	Phantome++	Ladrón Fantasma++	Comme un fantôme++	Calco fantasma++	Niczym widmo++	Como um Fantasma++	Будто призрак++	Hayalet Gibi++
+65500	Full Throttle	フルスロットル	引擎全开	全速前進	풀 스로틀	Vollgas	A toda máquina	Plein gaz	A tutto gas	Na pełnych obrotach	Velocidade Máxima	Полный вперед	Tam Gaz
+65502	Full Throttle+	フルスロットル＋	引擎全开＋	全速前進＋	풀 스로틀+	Vollgas+	A toda máquina+	Plein gaz+	A tutto gas+	Na pełnych obrotach+	Velocidade Máxima+	Полный вперед+	Tam Gaz+
+65504	Full Throttle++	フルスロットル＋＋	引擎全开＋＋	全速前進＋＋	풀 스로틀++	Vollgas++	A toda máquina++	Plein gaz++	A tutto gas++	Na pełnych obrotach++	Velocidade Máxima++	Полный вперед++	Tam Gaz++
+65520	Noble Lady's Invitation	貴婦人の招待状	贵妇的邀请函	貴婦的邀請函	귀부인의 초대장	Einladung der Edeldame	Invitación de la dama	Invitation d'une Dame	Invito della nobildonna	Zaproszenie damy	Convite da Nobre Dama	Приглашение дамы	Soylu Leydinin Daveti
+65522	Noble Lady's Invitation+	貴婦人の招待状＋	贵妇的邀请函＋	貴婦的邀請函＋	귀부인의 초대장+	Einladung der Edeldame+	Invitación de la dama+	Invitation d'une Dame+	Invito della nobildonna+	Zaproszenie damy+	Convite da Nobre Dama+	Приглашение дамы+	Soylu Leydinin Daveti+
+65524	Noble Lady's Invitation++	貴婦人の招待状＋＋	贵妇的邀请函＋＋	貴婦的邀請函＋＋	귀부인의 초대장++	Einladung der Edeldame++	Invitación de la dama++	Invitation d'une Dame++	Invito della nobildonna++	Zaproszenie damy++	Convite da Nobre Dama++	Приглашение дамы++	Soylu Leydinin Daveti++
+65540	Flag of Freedom	革命の旗	革命之旗	革命旗幟	혁명의 깃발	Freiheitsflagge	Bandera de la libertad	Étendard de la Liberté	Bandiera della libertà	Sztandar Wolności	Bandeira da Liberdade	Знамя свободы	Özgürlük Bayrağı
+65542	Flag of Freedom+	革命の旗＋	革命之旗＋	革命旗幟＋	혁명의 깃발+	Freiheitsflagge+	Bandera de la libertad+	Étendard de la Liberté+	Bandiera della libertà+	Sztandar Wolności+	Bandeira da Liberdade+	Знамя свободы+	Özgürlük Bayrağı+
+65544	Flag of Freedom++	革命の旗＋＋	革命之旗＋＋	革命旗幟＋＋	혁명의 깃발++	Freiheitsflagge++	Bandera de la libertad++	Étendard de la Liberté++	Bandiera della libertà++	Sztandar Wolności++	Bandeira da Liberdade++	Знамя свободы++	Özgürlük Bayrağı++
+65550	Emergency Support	応急手当	急救	急救處理	응급 처치	Notfallunterstützung	Refuerzo de emergencia	Soutien d'urgence	Assistenza diretta	Wsparcie kryzysowe	Apoio Emergencial	Скорая помощь	Acil Destek
+65552	Emergency Support+	応急手当＋	急救＋	急救處理＋	응급 처치+	Notfallunterstützung+	Refuerzo de emergencia+	Soutien d'urgence+	Assistenza diretta+	Wsparcie kryzysowe+	Apoio Emergencial+	Скорая помощь+	Acil Destek+
+65580	Pathway to the Ball	舞踏会へ続く道	通往舞会的道路	通往舞會之路	무도회로 가는 길	Pfad zum Ball	Camino al baile	Droit au but	Via del ballo	Droga na bal	Caminho do Baile	Дорога на бал	Top Yolu
+65600	Ray of Truth	真実は一条に至る	抵达唯一的真相	抵達的唯一真相	하나에 이르는 진실	Wahrheitsstrahl	Rayo de la verdad	Rayon de vérité	Raggio di verità	Promień prawdy	Raio da Verdade	Луч истины	Gerçek Işını
+65606	Truth Seeker	やがて真実に至る為	为了终将抵达的真相	終將渴求查明真相	이윽고 다다를 진실	Wahrheitssucher	Buscaverdad	Traqueur de vérité	Cercatore di verità	Poszukiwacz prawdy	Caçador da Verdade	Искатель истины	Gerçeği Arayan
+65700	Ambush	待ち伏せ	伏击	伏擊	매복	Hinterhalt	Emboscada	Embuscade	Agguato	Zasadzka	Emboscada	Засада	Pusu
+65702	Ambush+	待ち伏せ＋	伏击＋	伏擊＋	매복+	Hinterhalt+	Emboscada+	Embuscade+	Agguato+	Zasadzka+	Emboscada+	Засада+	Pusu+
+65800	Loving Devotion	惜しみない愛の献身	为爱献身在所不惜	為愛獻身在所不惜	아낌없는 사랑의 헌신	Liebevolle Hingabe	Devoción del amor	Dévotion aimante	Devozione amorevole	Miłosne oddanie	Devoção Amorosa	Любовь и преданность	İyilik Duası
+65802	Educational Guidance	教育的指導	教育指导	教育指導	교육적 지도	Lernhilfe	Liderazgo educativo	Orientation académique	Orientamento educativo	Poradnictwo edukacyjne	Orientação Pedagógica	Назидание	Eğitim Rehberliği
+66000	Slam	叩きつけ	殴打	毆打	내려치기	Schlag	Golpe	Claquement	Schianto	Uderzenie	Pancada	Хлопок	Fırça Darbesi
+66002	Rush March	突進のマーチ	突进行军曲	急行軍	돌진 행진곡	Geschwindmarsch	Marcha apresurada	Marche accélérée	Marcia frenetica	Prędki marsz	Marcha Apressada	Спешный марш	Hücum Marşı
+66016	Thunderbolt Drum	雷太鼓	雷太鼓	雷太鼓	번개의 북	Blitztrommel	Tambor del trueno	Tambour d'éclair	Tamburo saettante	Bęben błyskawicy	Tambor do Relâmpago	Громовой тамтам	Yıldırım Davulu
+66018	Thunderstorm Drum	雷光太鼓	雷光太鼓	雷光太鼓	뇌광의 북	Gewittertrommel	Tambor de tormenta	Tambour d'orage	Tamburo tempestoso	Bęben burzy	Tambor da Tormenta	Грозовой тамтам	Fırtına Davulu
+66020	Thunder God Drum	雷神太鼓	雷神太鼓	雷神太鼓	뇌신의 북	Donnergotttrommel	Tambor del dios del trueno	Tambour du dieu Tonnerre	Tamburo del Dio del Tuono	Bęben boga piorunów	Tambor do Deus dos Trovões	Тамтам бога грома	Gök Gürültüsü Tanrısının Davulu
+66046	Rhythm of Soothing	癒しの小律動	治愈小律动	治癒的小律動	치유의 작은 율동	Rhythmus der Linderung	Ritmo calmante	Rythme de l'apaisement	Ritmo rilassante	Kojący rytm	Ritmo Reconfortante	Успокаивающий ритм	Yatıştırıcı Ritim
+66048	Rhythm of Healing	癒しの中律動	治愈中律动	治癒的中律動	치유의 중간 율동	Rhythmus der Heilung	Ritmo curativo	Rythme de la guérison	Ritmo curativo	Leczniczy rytm	Ritmo Curativo	Исцеляющий ритм	Şifa Ritmi
+66050	Rhythm of Transformation	癒しの大律動	治愈大律动	治癒的大律動	치유의 큰 율동	Takt der Transformation	Ritmo de la transformación	Rythme de la transformation	Ritmo trasformativo	Transformujący rytm	Ritmo Transformador	Трансформирующий ритм	Dönüşüm Ritmi
+66052	Great Drum of Life	癒しの大太鼓	治愈大太鼓	治癒的大太鼓	치유의 큰북	Große Lebenstrommel	Gran tambor de la vida	Grand tambour de vie	Gran tamburo della vitalità	Wielki bęben życia	Grande Tambor da Vida	Великий тамтам жизни	Büyük Yaşam Davulu
+66056	Drum of Speed	疾駆の節奏	疾驰节奏	疾馳的節奏	질주의 리듬	Schnelle Trommel	Tambor de la velocidad	Tambour de vitesse	Tamburo della rapidità	Bęben szybkości	Tambor da Velocidade	Барабан скорости	Hız Davulu
+66060	Stone Throwing Sumo	投石相撲	投石相扑	投石角力	장사의 투석	Steinwurf-Sumo	Sumo lanzarrocas	Sumo agacé	Sumo lanciapietre	Rzut sumity	Sumô de Arremesso de Pedra	Сумо метания камней	Taş Atan Sumo
+66062	Heave	ぶん投げ	全力投掷	全力投擲	힘껏 던지기	Hieven	Tirón	Sumo furieux	Sollevamento	Dźwignięcie	Lançamento	Бросок	Kabarma
+66064	Shinobi Slash	忍ノ太刀	忍之太刀	忍之太刀	닌자의 검	Shinobi-Hieb	Tajo de shinobi	Taillade de ninja	Fendente shinobi	Cięcie shinobi	Corte de Shinobi	Удар синоби	Shinobi Kesiği
+66066	Secret Art of the Shinobi	奥義・三面六臂	奥义·三头六臂	奧義．三頭六臂	오의 삼면육비	Geheimkunst der Shinobi	El arte secreto de los shinobi	Art secret du ninja	Arte segreta dello shinobi	Sekretna technika shinobi	Arte Secreta dos Shinobis	Тайное искусство синоби	Shinobilerin Gizli Sanatı
+66068	Hack and Slash	切り裂き	劈斩	開膛手	베어 가르기	Hauen und Stechen	Corte en rodajas	Taillades furieuses	Taglia e squarcia	Tnij i siecz	Cortar e Retalhar	Мясорубка	Vur ve Kes
+66070	Ninja Moves	位置転換	互换位置	調換位置	위치 전환	Ninjatechniken	Movimientos de ninja	Techniques de ninja	Mosse ninja	Ruchy ninja	Técnicas de Ninja	Приемы ниндзя	Ninja Hareketleri
+66072	Casting Stones	岩投げ体罰	掷岩体罚	投石體罰	바위 던지기 체벌	Steinwurf	Lanzamiento de piedras	Jet de pierres	Lanciasassi	Rzucanie kamieniami	Atirando Pedras	Метание камней	Büyü Taşları
+66074	Provocation	呼び出しハラスメント	呼唤骚扰	呼叫騷擾	호출 괴롭힘	Provokation	Provocación	Provocation	Provocazione	Prowokacja	Provocação	Провокация	Provokasyon
+66076	Husk Summon	徒人呼び出し	呼唤普通人	呼喚亡者	얼굴 없는 존재 호출	Hülle rufen	Invocación de Receptáculo	Invocation de vide	Evoca Guscio	Przywołanie niebytu	Evocação de Casca	Призыв тени	Kabuk Çağırma
+66078	Hellion Summon	がらんどう呼び出し	呼唤无形者	召喚無形者	공허 호출	Höllenbrut rufen	Invocación de Demonio	Invocation d'agitateur	Evoca Rogna	Przywołanie podżegacza	Evocação de Velhaco	Призыв хулигана	İblis Çağırma
+66080	Vulgar Narcissism	下卑た自己陶酔	粗鄙的自我陶醉	下流的自我陶醉	천박한 자기 심취	Ordinärer Narzissmus	Narcisismo vulgar	Narcissisme vulgaire	Narcisismo volgare	Wulgarny narcyzm	Narcisismo Vulgar	Вульгарный нарциссизм	Kaba Narsisizm
+66082	Vice Principal's Flight	教頭は走ってもいい	教务主任就可以奔跑	教務主任奔跑也無妨	교감은 달려도 돼	Flug des stellvertr. Direktors	Huida del vicedirector	Fuite du vice-principal	Volo del vicepreside	Lot wicedyrektora	Voo do Vice-diretor	Полет замдиректора	Müdür Yardımcısının Kaçışı
+66084	School Takeover Symphony	学園掌握シンフォニー	掌控学园交响曲	掌控學園的交響曲	학교 장악 심포니	Schulübernahme-Symphonie	Vals de la conquista escolar	Valse de contrôle du lycée	Sinfonia del dominio scolare	Symfonia przejęcia szkoły	Sinfonia Tomada da Escola	Симфония захвата школы	Okulu Ele Geçirme Senfonisi
+66086	Confiscation Harmony	金品押収ハーモニー	扣押财物协奏曲	扣押財物的和聲	금품 압수 하모니	Konfiszierungsharmonie	Armonía de la confiscación	Harmonie de confiscation	Armonia di confisca	Harmonia konfiskaty	Harmonia do Confisco	Гармония конфискации	El Koyma Uyumu
+66088	School Takeover Symphony	学園掌握シンフォニー	掌控学园交响曲	掌控學園的交響曲	학교 장악 심포니	Schulübernahme-Symphonie	Vals de la conquista escolar	Valse de contrôle du lycée	Sinfonia del dominio scolare	Symfonia przejęcia szkoły	Sinfonia Tomada da Escola	Симфония захвата школы	Okulu Ele Geçirme Senfonisi
+66100	Great Windmill	大風車	大风车	大風車	대풍차	Große Windmühle	Molino enorme	Grand moulin à vent	Gran mulino	Wielki wiatrak	Grande Moinho	Великая мельница	Büyük Yel Değirmeni
+66102	Wind Scythe	カマイタチ	镰鼬	鐮鼬	족제비 바람	Windsense	Guadaña eólica	Faux de vent	Falce del vento	Kosa wiatru	Foice de Vento	Коса ветра	Rüzgar Tırpanı
+66120	Paint Stomp	ペイントスラム	喷涂贫民窟	噴漆貧民窟	페인트 슬럼	Farbstampfer	Pisotón de pintura	Peinture lourde	Calpestio artistico	Zadeptanie farbą	Pisão de Tinta	Красочный топот	Boyada Yürüme
+66122	Roller Scratch	ローラースクラッチ	滚筒爪击	滾筒爪痕	롤러 스크래치	Walzenkratzer	Toque de rodillo	Vague d'éraflures	Graffi da rullo	Drapnięcie z impetem	Patinação Cortante	Удар роликом	Merdane Çiziği
+66124	CHANGE Starts With U	ＵとＣＨＡＮＧＥ	与Ｕ ＣＨＡＮＧＥ	和Ｕ交換	U와 CHANGE	DU bist die Veränderung	El cambio empieza contigo	Le changement, c'est maintenant	Sei TU il cambiamento	ZMIANA zaczyna się od CIEBIE	A MUDANÇA Começa com VOCÊ!	ПЕРЕМЕНЫ начинаются с ТЕБЯ	DEĞİŞİM Seninle Başlayacak
+66200	Collar of Matrimony	ケッコン首輪	结婚项圈	結婚項圈	결혼반지	Halsband der Ehe	Collar del matrimonio	Collier matrimonial	Collare matrimoniale	Matrymonialna obroża	Colar do Matrimônio	Брачный ошейник	Evlilik Kolyesi
+66202	Deadly Bouquet Toss	アブないブーケトス	危险的抛花束仪式	危險的丟捧花儀式	위험한 부케 토스	Tödlicher Straußwurf	Lanzamiento de ramo mortal	Lancer de bouquet mortel	Lancio mortale del bouquet	Zabójczy rzut bukietem	Arremesso Letal de Buquê	Смертельный бросок букета	Ölümcül Buket Atışı
+66204	Here Comes the Bride	新婦入場準備	新娘准备入场	新娘準備進場	신부 입장 준비	Hier kommt die Braut	¡Ya llega la novia!	Place à la mariée	Arriva la sposa	Nadchodzi panna młoda	Lá Vem a Noiva	Выход невесты	Gelin Hanım Geliyor
+66206	The Bloodstained Aisle	血染めのヴァージンロード	血染的红地毯	染血的紅毯	피로 물든 버진 로드	Der blutige Gang	Pasillo ensangrentado	L'allée ensanglantée	Navata insanguinata	Krwawa nawa	Altar Ensanguentado	Кроваво-красная дорожка	Kana Bulanmış Koridor
+66208	Reception Attire	お色直し	更换衣装	更換衣裝	의상 변경	Empfangsbekleidung	Atuendo de recepción	Tenue de réception	Abiti da ricevimento	Uroczysty ubiór	Traje de Recepção	Праздничное облачение	Resepsiyon Kıyafeti
+66300	Emblem of Love	愛印	心心相印	心心相印	사랑의 표식	Emblem der Liebe	Emblema de amor	Emblème d'amour	Emblema d'amore	Emblemat miłości	Emblema de Amor	Символ любви	Sevgi Sembolü
+66302	Karmic Retribution	ヨシキ・業マイン	由喜·报应	由喜．業魔ＩＮ	요시키 업 마인	Karmische Vergeltung	Retribución del karma	Retour de bâton	Punizione karmica	Karmiczna kara	Retaliação Cármica	Кармическое возмездие	Karma Cezası
+66304	Love at First Sight	ラブ♡照準	爱♡瞄准	Ｌｏｖｅ♡瞄準	러브♡조준	Liebe auf den ersten Blick	Amor a primera vista	Coup de foudre	Amore a prima vista	Miłość od pierwszego wejrzenia	Amor à Primeira Vista	Любовь с первого взгляда	İlk Görüşte Aşk
+66306	Sending You My Love	センジュ・マイ・ハート	千手·吾之心	千手是我心	천수 마이 하트	Meine Liebe zu dir	Mi amor es tuyo	Avec amour	Con tutto il mio amor	Ślę ci moją miłość	Mandando meu Amor	Дар любви	Sana Sevgilerimi Gönderiyorum
+66400	Stalking Shadow	追いすがる影	穷追不舍的影子	窮追不捨的影子	뒤따르는 그림자	Pirschender Schatten	Sombra acechante	Ombre traqueuse	Ombra in agguato	Przyczajony cień	Sombra Sorrateira	Крадущаяся тень	Takipçi Gölge
+66402	Dream-Eating Bandages	願いを喰らう繃帯	吞噬愿望的绷带	吞噬願望的繃帶	소망을 삼키는 붕대	Traumfressende Verbände	Vendas devoradoras de sueños	Bandages dévoreurs de rêve	Bende mangiasogni	Bandaże pożerające sny	Bandagens Devoradoras de Sonhos	Бинты-мечтокрады	Hayalleri Yok Eden Bandajlar
+66404	Barrier of Rejection	拒絶の防壁	拒绝的屏障	拒絕的高牆	거절의 방벽	Barriere der Zurückweisung	Barrera del rechazo	Barrière de rejet	Barriera del rifiuto	Bariera odrzucenia	Barreira de Rejeição	Барьер отторжения	Ret Bariyeri
+66500	Growing Despair	累ねる絶念	累积的绝望	逐年累積的絕望	이어지는 단념	Zunehmende Verzweiflung	Desesperación progresiva	Désespoir grandissant	Disperazione crescente	Wzrastająca rozpacz	Desespero Crescente	Растущее отчаяние	Büyüyen Çaresizlik
+66502	End of the Revolution	革命ノ終ワリ	革命的终结	革命的盡頭	혁명의 끝	Ende der Revolution	Fin de la revolución	Fin de la révolution	Rivoluzione al capolinea	Koniec rewolucji	Fim da Revolução	Конец восстанию	Devrimin Sonu
+66504	Attack Stance	振りかぶり	振臂高挥	振臂高揮	크게 휘두르기	Angriffshaltung	Posición de ataque	Posture d'attaque	Posizione d'attacco	Postawa ofensywna	Postura de Ataque	Боевая стойка	Saldırı Pozisyonu
+66506	Strike of Hatred	憎悪の一撃	憎恶一击	憎惡的一擊	증오의 일격	Schlag des Hasses	Golpe del odio	Frappe de haine	Colpo d'odio	Nienawistny cios	Golpe de Ódio	Удар ненависти	Nefret Darbesi
+66508	Enveloping Sorrow	累ねる絶念	累积的绝望	逐年累積的絕望	이어지는 단념	Verhüllende Trauer	Pena envolvente	Chagrin enveloppant	Dolore stringente	Otaczające cierpienie	Tristeza Envolvente	Окутывающая тоска	Saran Keder
+66510	Collection of Sin	悪果の集結	恶果的集合体	惡果的集合體	악의의 집결	Sündensammlung	Acopio de pecados	Collecte de péchés	Raccolta di peccati	Nagromadzenie grzechów	Acúmulo de Pecado	Коллекция грехов	Günah Koleksiyonu
+66512	Rising Self-Blame	積もる自責	积累的自责	積聚的自責之念	쌓이는 자책	Aufkeimende Selbstvorwürfe	Culpa creciente	Culpabilité grandissante	Autocritica crescente	Rosnące samopotępienie	Autorrepreensão Crescente	Волна самобичевания	Artan Suçluluk Duygusu
+66514	Overflowing Regret	零れ落ちる悔恨	洒落的悔恨	盈溢的悔恨	흘러넘치는 후회	Ausuferndes Bedauern	Arrepentimiento a raudales	Débordement de regret	Rimorsi su rimorsi	Nadmiar żalu	Arrependimento Transbordante	Волна сожаления	Dinmeyen Pişmanlık
+66516	Streaming Tears of Blood	溢れ出す血涙	溢出的血泪	滿溢而出的血淚	흘러나오는 피눈물	Tränen des Blutes	Ríos de lágrimas de sangre	Flot de larmes de sang	Lacrime di sangue	Strumień krwawych łez	Lágrimas Abundantes de Sangue	Кровавые слезы	Akan Kanlı Gözyaşları
+66518	Drowning in Grief	融け合う悲嘆	交融的悲叹	交融的悲嘆	섞여드는 비탄	Von Trauer überflutet	Inundación de culpa	Chagrin insurmontable	Annegare nel rimpianto	Zatonąć w smutku	Afogando-se em Mágoas	Утопление в горе	Boğucu Keder
+66520	Chaotic Grudge	逆上する遺恨	勃然大怒的遗恨	發狂的餘恨	역정하는 원한	Chaotischer Groll	Resentimiento caótico	Rancœur chaotique	Rancore caotico	Chaotyczna uraza	Rancor Caótico	Беспорядочная злоба	Kaotik Garez
+66522	Cradle of Disaster	惨禍の揺籃	惨祸的摇篮	慘劇的搖籃	재난의 요람	Wiege des Desasters	Cuna del desastre	Berceau du désastre	Culla della catastrofe	Kołyska katastrofy	Berço do Desastre	Колыбель бедствия	Felaket Beşiği
+66524	Bindings of the Sinner	罪過の枷	罪过的枷锁	罪孽的枷鎖	과오의 수갑	Bindungen des Sünders	Vínculos del pecador	Liens du pécheur	Catene del peccatore	Ofiarowanie grzesznika	Amarras do Pecador	Оковы грешника	Günahkarın Bağları
+66600	Final Judgement	崇高なる断罪	崇高的制裁	崇高的制裁	숭고한 단죄	Letztes Urteil	Juicio final	Jugement dernier	Giudizio finale	Ostateczny osąd	Julgamento Final	Страшный суд	Nihai Mahkeme
+66602	Serene Edict	安穏なる戒律	安宁的戒律	安寧的戒律	평온한 계율	Ruhiges Edikt	Edicto sereno	Décret serein	Editto di serenità	Idylliczny dekret	Decreto Sereno	Сдержанный приказ	Huzur Fermanı
+66604	Cannon of Divine Will	神意の光砲	神意的光炮	無上意志的光砲	신의의 광포	Kanone des gttl. Willens	Cañón de voluntad divina	Canon de volonté divine	Cannone di volontà divina	Działo boskiej woli	Canhão da Vontade Divina	Пушка божественной воли	İlahi İrade Topu
+66606	Holy Numbers of Salvation	救済の聖数	救赎的圣数	救贖的聖數	구제의 성수	Heilige Zahlen der Erlösung	Números sagrados de la salvación	Nombres sacrés du salut	Numeri sacri della salvezza	Święte liczby zbawienia	Números Sacros da Salvação	Святые числа спасения	Kutsal Kurtuluş Sayıları
+66608	Cogs of Fate: Forward 1	福音・正位の一	福音·正位之一	福音．正位之一	복음·정위 1	Räder d. Schcksl.: Vorwärts 1	Engranajes del destino: Adelante 1	Rouages du destin : Avant 1	Ingranaggi del destino: Avanti 1	Trybiki przeznaczenia: 1 do przodu	Engrenagens do Destino: Avanço 1	Шестерни судьбы: вперед 1	Kader Çarkları: İleri 1
+66610	Cogs of Fate: Forward 2	福音・正位の二	福音·正位之二	福音．正位之二	복음·정위 2	Räder d. Schcksl.: Vorwärts 2	Engranajes del destino: Adelante 2	Rouages du destin : Avant 2	Ingranaggi del destino: Avanti 2	Trybiki przeznaczenia: 2 do przodu	Engrenagens do Destino: Avanço 2	Шестерни судьбы: вперед 2	Kader Çarkları: İleri 2
+66612	Cogs of Fate: Forward 3	福音・正位の三	福音·正位之三	福音．正位之三	복음·정위 3	Räder d. Schcksl.: Vorwärts 3	Engranajes del destino: Adelante 3	Rouages du destin : Avant 3	Ingranaggi del destino: Avanti 3	Trybiki przeznaczenia: 3 do przodu	Engrenagens do Destino: Avanço 3	Шестерни судьбы: вперед 3	Kader Çarkları: İleri 3
+66614	Cogs of Fate: Reverse 1	福音・逆位の一	福音·逆位之一	福音．逆位之一	복음·역위 1	Räder d. Schcksl.: Rückwärts 1	Engranajes del destino: Atrás 1	Rouages du destin : Arrière 1	Ingranaggi del destino: Indietro 1	Trybiki przeznaczenia: 1 do tyłu	Engrenagens do Destino: Reversão 1	Шестерни судьбы: назад 1	Kader Çarkları: Geri 1
+66616	Cogs of Fate: Reverse 2	福音・逆位の二	福音·逆位之二	福音．逆位之二	복음·역위 2	Räder d. Schcksl.: Rückwärts 2	Engranajes del destino: Atrás 2	Rouages du destin : Arrière 2	Ingranaggi del destino: Indietro 2	Trybiki przeznaczenia: 2 do tyłu	Engrenagens do Destino: Reversão 2	Шестерни судьбы: назад 2	Kader Çarkları: Geri 2
+66618	Cogs of Fate: Reverse 3	福音・逆位の三	福音·逆位之三	福音．逆位之三	복음·역위 3	Räder d. Schcksl.: Rückwärts 3	Engranajes del destino: Atrás 3	Rouages du destin : Arrière 3	Ingranaggi del destino: Indietro 3	Trybiki przeznaczenia: 3 do tyłu 	Engrenagens do Destino: Reversão 3	Шестерни судьбы: назад 3	Kader Çarkları: Geri 3
+66620	Eternity Wheel	万理円環	万理圆环	萬理圓環	만리원환	Rad der Ewigkeit	Noria de la eternidad	Roue d'éternité	Ruota dell'eternità	Koło wieczności	Roda da Eternidade	Колесо вечности	Sonsuzluk Çarkı
+66622	Divine Judgement	愚者への神判	对愚者降下的神之审判	對愚者下達的天譴	우매한 자를 향한 심판	Himmlisches Urteil	Juicio divino	Jugement divin	Giudizio celeste	Boski osąd	Julgamento Divino	Суд Божий	İlahi Mahkeme
+66624	Oracle of Doom	破滅の神託	毁灭的神谕	毀滅的神諭	파멸의 신탁	Orakel des Untergangs	Oráculo de la perdición	Oracle tragique	Oracolo della rovina	Wyrocznia zagłady	Oráculo da Perdição	Предвестник рока	Kıyamet Kahini
+66626	Spire of Judgement	裁きの尖塔	裁决的尖塔	審判的尖塔	심판의 첨탑	Spitze des Urteils	Chapitel del juicio	Flèche du jugement	Guglia del giudizio	Sądna iglica	Pináculo do Julgamento	Судный шпиль	Yargı Sarmalı
+66628	Divine Punishment	神罰執行	执行神罚	施以神罰	신벌 집행	Göttliche Bestrafung	Castigo divino	Punition divine	Punizione divina	Kara boska	Punição Divina	Божья кара	İlahi Ceza
+66700	Jumping Paint	ジャンピングペイント	跳跃喷涂	油漆飛舞	점핑 페인트	Springende Farbe	Pintura saltarina	Projections de peinture	Vernice saltante	Skacząca farba	Tinta Saltitante	Скачущая краска	Sıçrayan Boya
+66710	Paint Slam	ペイントスラム	喷涂贫民窟	噴漆貧民窟	페인트 슬럼	Farbschlag	Golpe de pintura	Claque de peinture	Colpo di vernice	Barwne uderzenie	Pancada de Tinta	Красочный удар	Boya Fırçaları
+66720	Mural of Rage	怒りの壁画	愤怒的壁画	憤怒的壁畫	분노의 벽화	Graffiti des Zorns	Mural de la furia	Fresque de rage	Murale d'ira	Mural furii	Mural da Ira	Гневный мурал	Öfkenin Duvar Resmi
+66722	Crew of Fury	憤怒のクルー	愤怒的人群	憤怒的組員	증오의 크루	Wütende Crew	Equipo furioso	Brigade furieuse	Crew furiosa	Gniewna ekipa	Equipe da Fúria	Яростная шайка	Gazap Ekibi
+66724	Fury Around the Mural	怒りのクルーは壁画に集え	聚集于壁画前的愤怒人群	憤怒的組員集結於壁畫之下	분노의 크루 집합	Rage ums Graffiti	Furia en el mural	Fureur autour de la fresque	Furia attorno al murale	Furia wokół muralu	Fúria pelo Mural	Окутанный яростью мурал	Duvar Resminin Etrafındaki Gazap
+66726	Get Lost, Losers	ＳＵＣＫはどいてろ	ＳＵＣＫ给我滚开	渾蛋給我閃邊去	SUCK은 비켜	Verschwindet, Versager!	Perdeos, perdedores	Dégagez, les losers	Fuori dai piedi, falliti	Spadajcie, frajerzy	Caiam Fora, Otários	Сгиньте, неудачники	Defolun Ezikler
+66728	King's Art	ＫＩＮＧ’Ｓ　ＡＲＴ	ＫＩＮＧ’Ｓ ＡＲＴ	王者的藝術	KING'S ART	Kunst des Königs	El arte del rey	Art royal	Arte regale	Królewska sztuka	Arte do Rei	Искусство короля	Kralın Sanatı
+66740	Disorderly Flock	烏合の愚衆	乌合之众	烏合之眾	우매한 오합지졸	Undisziplinierte Herde	Rebaño alterado	Troupeau désordonné	Gregge eversivo	Bezładna trzoda	Revoada Desordenada	Шальная ватага	Başıboş Sürü
+66742	Divine Wind	天つ神風	天神之风	蒼天之風	하늘의 신의 바람	Göttlicher Wind	Viento divino	Vent divin	Vento divino	Boski wiatr	Vento Divino	Божественный ветер	İlahi Rüzgar
+66744	Enveloping Tranquility	遍く世に静謐を	愿静谧遍布世界	賜予靜謐於世	이 세계에 평화를	Umhüllende Ruhe	Tranquilidad envolvente	Tranquillité enveloppante	Tranquillità avvolgente	Obejmujący spokój	Tranquilidade Envolvente	Окутывающее умиротворение	Saran Huzur
+66746	Core of Divine Will	神意の核	神意之核	無上意志的核心	신의의 핵	Kern des göttlichen Willens	Núcleo de la voluntad divina	Noyau de volonté divine	Nucleo della volontà divina	Rdzeń boskiej woli	Essência da Vontade Divina	Ядро божественной воли	İlahi İrade Özü
+66748	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック	死のブロック
+66750	Omen of Calamity	天災の兆し	天灾之兆	天災的徵兆	재앙의 징조	Omen des Unheils	Presagio de la calamidad	Présage de calamité.	Presagio tragico	Omen klęski	Presságio de Calamidade	Предвестие погибели	Facia Alameti
+66900	Ranged Attack	射撃	射击	射擊	사격	Fernkampfangriff	Ataque a distancia	Attaque à distance	Attacco a distanza	Atak dystansowy	Ataque à Distância	Дальнобойная атака	Menzilli Saldırı
+66902	Sound Wave	音波砲	音波炮	音波砲	음파포	Klangwelle	Onda sónica	Vague de sons	Onda sonora	Fala dźwiękowa	Onda Sonora	Звуковая волна	Ses Dalgası
+66904	Peculiar Parasol	仕込み傘	机关伞	機關傘	장치 우산	Sonderbarer Schirm	Parasol peculiar	Parasol étrange	Ombrellino peculiare	Osobliwy parasol	Guarda-sol Peculiar	Необычный зонтик	Tuhaf Şemsiye
+66906	Fling	投擲	投掷	投擲	투척	Schleudern	Lanzamiento	Propulsion	Lancio	Rzut	Lançamento	Швыряние	Kaçamak
+66908	Fling	投擲	投掷	投擲	투척	Schleudern	Lanzamiento	Propulsion	Lancio	Rzut	Lançamento	Швыряние	Kaçamak
+66910	Paint Snipe	ペイントスナイプ	喷涂狙击枪	油漆狙擊	페인트 스나이프	Farbschuss	Disparo de pintura	Tir de peinture	Sparo colorato	Strzał farbą	Disparo Preciso de Tinta	Залп краски	Boya Fırlatma
+66911	Paint Ball	ペイントボール	喷涂球	油漆球	페인트 볼	Farbkugel	Bola de pintura	Paintball	Paintball	Kula farby	Bola de Tinta	Пейнтбол	Boya Topu
+66920	Bride and The Machine Gun	花嫁と機関銃	新娘与机关枪	新娘與機關槍	신부와 기관총	Braut und Maschinengewehr	La novia y la ametralladora	La fiancée et la mitraillette	La sposa e la mitragliatrice	Panna młoda z karabinem	A Noiva e a Metralhadora	Невеста и пулемет	Gelin ve Makineli Tüfek
+66930	White Gem of Light	白毫光線	白毫光线	白毫光線	백호 광선	Weißes Lichtjuwel	Gema blanca de luz	Gemme de lumière blanche	Gemma bianca di luce	Biały klejnot światła	Gema Branca de Luz	Белый камень света	Beyaz Işık Mücevheri
+66950	Malevolent Bullet	怨弾	怨念弹	怨念彈	원탄	Bösartige Kugel	Bala malevolente	Balle maléfique	Proiettile malefico	Złowieszcza kula	Bala Malévola	Коварная пуля	Şeytani Mermi
+66960	Mercy From Heaven	天上からの慈悲	天降慈悲	來自上天的慈悲	천상의 자비	Gnade des Himmels	Piedad celestial	Clémence des cieux	Misericordia celeste	Łaska z niebios	Misericórdia dos Céus	Милость небес	Cennetin Merhameti
+66970	Dirty Shot	ダーティショット	肮脏射击	汙穢散彈	더티 샷	Schmutziger Schuss	Jugada sucia	Tir fourbe	Colpo sporco	Strzał poniżej pasa	Disparo Sórdido	Гнусный выстрел	Kirli Atış
+66975	Arrow of Punishment	断罪の矢	制裁之矢	定罪之箭	단죄의 화살	Pfeil der Bestrafung	Flecha de castigo	Flèche du châtiment	Freccia punitiva	Strzała potępienia	Flecha da Punição	Карающая стрела	Ceza Oku
+67000	Trump Card	逆襲の切り札	反击的王牌	反擊的王牌	역습의 한 수	Trumpf	As	Botte secrète	Asso nella manica	As w rękawie	Trunfo	Козырь	Gizli Koz
+67014	Invisible Cloak	インビジブル・スニーク	隐身潜行	隱身潛行	인비지블 스닉	Unsichtbarer Mantel	Velo invisible	Cape invisible	Mantello dell'invisibilità	Peleryna niewidka	Capa Invisível	Плащ-невидимка	Görünmezlik Pelerini
+67016	Invisible Cloak+	インビジブル・スニーク＋	隐身潜行＋	隱身潛行＋	인비지블 스닉+	Unsichtbarer Mantel+	Velo invisible+	Cape invisible+	Mantello dell'invisibilità+	Peleryna niewidka+	Capa Invisível	Плащ-невидимка+	Görünmezlik Pelerini+
+67020	Lucky Punch	ラッキーパンチ	幸运拳	幸運拳	럭키 펀치	Glücksschlag	Golpe de suerte	Coup de chance	Colpo fortunato	Szczęśliwy cios	Soco da Sorte	Удачный удар	Şanslı Yumruk
+67026	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67034	Fleetfoot	モルウォーク	摩尔步伐	摩爾漫步	몰 워크	Leichtfüßig	Pies rápidos	Vélocité	Piè veloce	Chyżość	Ligeiro	Резвость	Hızlı
+67036	Fleetfoot+	モルウォーク＋	摩尔步伐＋	摩爾漫步＋	몰 워크+	Leichtfüßig+	Pies rápidos+	Vélocité+	Piè veloce+	Chyżość+	Ligeiro+	Резвость+	Hızlı+
+67040	Endure	食いしばり	强忍	強忍	이 악물기	Aushalten	Último aliento	Résilience	Stoicismo	Wytrwałość	Perseverança	Стойкость	Mukavemet
+67046	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67054	Never Say Die	ド根性魂	毅力之魂	超凡毅力	초 근성혼	Niemals aufgeben	Nunca te rindas	Mourir ? Jamais !	Mai dire mai	Nie czas umierać	Desistir Jamais	Крепкий орешек	Ölümden Bahsetme
+67056	Never Say Die+	ド根性魂＋	毅力之魂＋	超凡毅力＋	초 근성혼+	Niemals aufgeben+	Nunca te rindas+	Mourir ? Jamais !+	Mai dire mai+	Nie czas umierać+	Desistir Jamais+	Крепкий орешек+	Ölümden Bahsetme+
+67060	Unstoppable	アンストッパブル	势不可挡	勢不可當	언스토퍼블	Unaufhaltsam	Imparable	Inarrêtable	Inarrestabile	Nie do zatrzymania	Irrefreável	Непобедимый	Durdurulamaz
+67066	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67074	World's End Sorcery	破滅に導く魔性	引向毁灭的魔性	邁向毀滅的魔性	파멸로 이끄는 마성	Weltuntergangszauberei	Hechicería del fin del mundo	Magie apocalyptique	Magia apocalittica	Czar końca świata	Magia Apocalíptica	Магия конца света	Dünyanın Sonu Büyüsü
+67076	World's End Sorcery+	破滅に導く魔性＋	引向毁灭的魔性＋	邁向毀滅的魔性＋	파멸로 이끄는 마성+	Weltuntergangszauberei+	Hechicería del fin del mundo+	Magie apocalyptique+	Magia apocalittica+	Czar końca świata+	Magia Apocalíptica+	Магия конца света+	Dünyanın Sonu Büyüsü+
+67080	Broad Perspective	大所高所	通观全局	遼闊視野	대국적 시야	Weitblick	Visión amplia	Large point de vue	Larghe vedute	Szeroka perspektywa	Perspectiva Ampla	Хороший обзор	Geniş Perspektif
+67086	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67094	Foresight	千里眼	千里眼	千里眼	천리안	Voraussicht	Previsión	Prévoyance	Previsione	Bystry wzrok	Previsão	Прозорливость	Öngörü
+67096	Bird's-Eye View+	鳥瞰視点＋	俯瞰视角＋	鳥瞰視角＋	조감 시점+	Vogelperspektive+	Vista de pájaro+	Vue aérienne+	Visione d'insieme+	Widok z lotu ptaka+	Vista Panorâmica+	Вид с высоты+	Kuş Bakışı+
+67100	Pedal to the Metal	アクセル全開	马力全开	油門全開	액셀 전개	Vollgas	Acelerón	Pied au plancher	A tutta birra	Gaz do dechy	Pé na Tábua	Педаль в пол	Tam Gaz
+67106	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67114	Fist of Justice	鉄拳制裁	铁拳制裁	鐵拳制裁	철권 제재	Faust der Gerechtigkeit	Puño de la justicia	Le poing de la justice	Pugno della giustizia	Pięść sprawiedliwości	Soco Justiceiro	Кулак правосудия	Adalet Yumruğu
+67116	Fist of Justice+	鉄拳制裁＋	铁拳制裁＋	鐵拳制裁＋	철권 제재+	Faust der Gerechtigkeit+	Puño de la justicia+	Le poing de la justice+	Pugno della giustizia+	Pięść sprawiedliwości+	Soco Justiceiro+	Кулак правосудия+	Adalet Yumruğu+
+67120	Elegant Teatime	優雅なティータイム	优雅的下午茶时间	優雅的午茶時間	우아한 티 타임	Elegantes Teekränzchen	Hora del té elegante	Thé élégant	Ora del tè	Elegancki podwieczorek	Chá Elegante	Время чаепития	Zarif Çay Saati
+67126	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67134	Spring Storm	春の嵐	春日暴风	春日暴風	봄의 폭풍	Frühlingssturm	Tormenta de primavera	Tempête printanière	Tempesta primaverile	Wiosenna burza	Tempestade Primaveril	Весенняя буря	Bahar Fırtınası
+67140	Moral Support	モラルサポート	士气支援	士氣支援	모럴 서포트	Moralische Unterstützung	Apoyo moral	Soutien moral	Supporto morale	Wsparcie moralne	Apoio Moral	Моральная поддержка	Moral Desteği
+67142	Moral Boost	モラルブースタ	士气强化	士氣強化	모럴 부스터	Moral-Boost	Potenciación moral	Boost de moral	Potenziamento morale	Wsparcie bojowe	Reforço Moral	Подъем духа	Moral Güçlendirici
+67144	Moral Boost+	モラルブースタ改	士气强化改	士氣強化．改	모럴 부스터 EX	Moral-Boost+	Potenciación moral+	Boost de moral+	Potenziamento morale+	Wsparcie bojowe+	Reforço Moral+	Подъем духа+	Moral Güçlendirici+
+67148	Active Support	アクティブサポート	动态支援	動態支援	액티브 서포트	Aktive Unterstützung	Apoyo activo	Soutien actif	Supporto vitale	Przypływ energii	Apoio Ativo	Активная поддержка	Etkin Destek
+67150	Active Boost	アクティブブースタ	动态强化	動態強化	액티브 부스터	Aktiv-Boost	Potenciación activa	Boost actif	Potenziamento vitale	Wulkan energii	Reforço Ativo	Пора действовать	Etkin Güçlendirici
+67152	Active Boost+	アクティブブースタ改	动态强化改	動態強化．改	액티브 부스터 EX	Aktiv-Boost+	Potenciación activa+	Boost actif+	Potenziamento vitale+	Wulkan energii+	Reforço Ativo+	Пора действовать+	Etkin Güçlendirici+
+67156	Final Guard	ファイナルガード	终极防御	終極防禦	파이널 가드	Letzte Rettung	Defensa definitiva	Dernier rempart	Egida suprema	Ostatnie słowo	Defesa Final	Последний рубеж	Nihai Savunma
+67160	Comandante	コマンダンテ	指挥官	司令官	코만단테	Comandante	Comandante	Comandante	Comandante	Przywódca	Comandante	Команданте	Komutan
+67166	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67176	Unyielding Courage	不撓の勇躍	奋勇不屈	永不屈服的果敢之心	불굴의 용기	Unerschütterlicher Mut	Coraje inquebrantable	Courage indomptable	Coraggio indomito	Nieustępliwa odwaga	Coragem Inflexível	Героизм+	Sarsılmaz Cesaret
+67186	Brilliant Ballet	カラーフープ	彩色环	彩色環圈	컬러 후프	Geniales Ballett	Ballet brillante	Danse exquise	Balletto straordinario	Bajeczny balet	Balé Brilhante	Прекрасный танец	Muhteşem Bale
+67194	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67196	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67200	Reverse the Scales	逆転する天秤	反转的天秤	反轉的天秤	뒤집히는 천칭	Den Spieß umdrehen	Vuelta al marcador	Renversement de situation	Sovvertimento	Zamiana ról	Inversão da Balança	Другой расклад	Tam Tersine
+67206	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67214	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67216	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定	未定
+67218	Artist's Passion	一気呵成の策	一气呵成之策	一氣呵成的策略	일기가성의 계책	Leidenschaft für die Kunst	Pasión de artista	Passion d'artiste	Passione d'artista	Pasja artysty	Paixão do Artista	Страсть творца	Sanatçının Tutkusu
+67300	Follow Up	追い撃ち	追击	追擊	추격타	Folgeangriff	Golpe de gracia	Enchaînement	Riverbero	Atak pomocniczy	Sequência	2-я атака	Sürdürme
+67302	Follow Up+	追い撃ち＋	追击＋	追擊＋	추격타+	Folgeangriff+	Golpe de gracia+	Enchaînement+	Riverbero+	Atak pomocniczy+	Sequência+	2-я атака+	Sürdürme+
+67310	Break & Recovery	ブレイク＆リカバリー	猛攻＆恢复	猛攻＆恢復	브레이크&리커버리	Erholungspause	Descanso y recuperación	Pause et récupération	Timeout	Chwila wytchnienia	Folga	Передышка	Kaçış ve Yenileme
+67312	Break & Recovery+	ブレイク＆リカバリー＋	猛攻＆恢复＋	猛攻＆恢復＋	브레이크&리커버리+	Erholungspause+	Descanso y recuperación+	Pause et récupération+	Timeout+	Chwila wytchnienia+	Folga+	Передышка+	Kaçış ve Yenileme+
+67320	Soul Repose	安息する魂	安息之魂	獲得安息的靈魂	안식하는 영혼	Seelenruhe	Reposo del alma	Repos spirituel	Riposo dell'anima	Spokój ducha	Repouso da Alma	Спокойствие души	Ruh Huzuru
+67322	Soul Repose+	安息する魂＋	安息之魂＋	獲得安息的靈魂＋	안식하는 영혼+	Seelenruhe+	Reposo del alma+	Repos spirituel+	Riposo dell'anima+	Spokój ducha+	Repouso da Alma+	Спокойствие души+	Ruh Huzuru+
+67330	Ironclad Guard	鉄壁の守り	铁壁防守	鐵壁的防守	철벽의 수비	Eiserner Schutz	Guardia de hierro	Protection blindée	Guardia ferrea	Żelazny strażnik	Defesa Férrea	Надежная защита	Zırhlı Koruma
+67332	Stop & Go	ストップ＆ゴー	停止＆前进	Ｓｔｏｐ＆Ｇｏ	스톱&고	Stop & Go	Parada	À-coups	Stop and go	Złap oddech i ruszaj	Pare e Siga	Остановка и рывок	Dur ve Geç
+67334	Lightning Speed	疾風迅雷	疾风迅雷	疾風迅雷	질풍신뢰	Blitzschnell	Velocidad de la luz	Vitesse de l'éclair	Velocità fulminea	Szybkość błyskawicy	Velocidade da Luz	Молниеносность	Şimşek Gibi
+67336	Magical Mastery	魔力掌握	魔力掌控	魔力掌控	마력 장악	Beherrschung der Magie	Dominio mágico	Maîtrise magique	Maestria magica	Magiczne mistrzostwo	Maestria Mágica	Мастерство магии	Büyü Ustalığı
+67338	Indestructible	金剛不壊	金刚不坏	金剛不壞	금강불괴	Unzerstörbar	Indestructible	Indestructible	Indistruttibile	Niezniszczalność	Indestrutível	Неразрушимость	Yıkılmaz
+67360	Life Synergy	バイタルシナジー	生命增强	生命力加成	바이탈 시너지	Lebenssynergie	Sinergia vital	Synergie vitale	Sinergia vitale	Synergia życia	Sinergia Vital	Синергия жизней	Can Sinerjisi
+67362	Life Synergy+	バイタルシナジー＋	生命增强＋	生命力加成＋	바이탈 시너지+	Lebenssynergie+	Sinergia vital+	Synergie vitale+	Sinergia vitale+	Synergia życia+	Sinergia Vital+	Синергия жизней+	Can Sinerjisi+
+67364	Life Synergy++	バイタルシナジー＋＋	生命增强＋＋	生命力加成＋＋	바이탈 시너지++	Lebenssynergie++	Sinergia vital++	Synergie vitale++	Sinergia vitale++	Synergia życia++	Sinergia Vital++	Синергия жизней++	Can Sinerjisi++
+67370	Soul Synergy	ソウルシナジー	灵魂增强	靈魂加成	소울 시너지	Seelensynergie	Sinergia de almas	Synergie spirituelle	Sinergia dell'anima	Synergia duszy	Sinergia da Alma	Синергия душ	Ruh Sinerjisi
+67372	Soul Synergy+	ソウルシナジー＋	灵魂增强＋	靈魂加成＋	소울 시너지+	Seelensynergie+	Sinergia de almas+	Synergie spirituelle+	Sinergia dell'anima+	Synergia duszy+	Sinergia da Alma+	Синергия душ+	Ruh Sinerjisi+
+67374	Soul Synergy++	ソウルシナジー＋＋	灵魂增强＋＋	靈魂加成＋＋	소울 시너지++	Seelensynergie++	Sinergia de almas++	Synergie spirituelle++	Sinergia dell'anima++	Synergia duszy++	Sinergia da Alma++	Синергия душ++	Ruh Sinerjisi++
+67380	Beat Synergy	ビートシナジー	打击增强	打擊加成	비트 시너지	Schlagsynergie	Gran sinergia	Synergie rythmée	Sinergia d'assalto	Synergia ciosów	Sinergia Rítmica	Синергия ударов	Ritim Sinerjisi
+67382	Beat Synergy+	ビートシナジー＋	打击增强＋	打擊加成＋	비트 시너지+	Schlagsynergie+	Gran sinergia+	Synergie rythmée+	Sinergia d'assalto+	Synergia ciosów+	Sinergia Rítmica+	Синергия ударов+	Ritim Sinerjisi+
+67384	Beat Synergy ++	ビートシナジー＋＋	打击增强＋＋	打擊加成＋＋	비트 시너지++	Schlagsynergie++	Gran sinergia++	Synergie rythmée++	Sinergia d'assalto++	Synergia ciosów++	Sinergia Rítmica++	Синергия ударов++	Ritim Sinerjisi++
+67390	Trigger Synergy	トリガーシナジー	扳机增强	射擊加成	트리거 시너지	Abzugssynergie	Sinergia con gatillos	Synergie réactive	Sinergia del piombo	Synergia strzałów	Sinergia do Gatilho	Синергия выстрелов	Tetik Sinerjisi
+67392	Trigger Synergy+	トリガーシナジー＋	扳机增强＋	射擊加成＋	트리거 시너지+	Abzugssynergie+	Sinergia con gatillos+	Synergie réactive+	Sinergia del piombo+	Synergia strzałów+	Sinergia do Gatilho+	Синергия выстрелов+	Tetik Sinerjisi+
+67394	Trigger Synergy++	トリガーシナジー＋＋	扳机增强＋＋	射擊加成＋＋	트리거 시너지++	Abzugssynergie++	Sinergia con gatillos++	Synergie réactive++	Sinergia del piombo++	Synergia strzałów++	Sinergia do Gatilho++	Синергия выстрелов++	Tetik Sinerjisi++
+67400	God-Like Speed	韋駄天走り	飞毛腿	飛毛腿	위타천의 질주	Gottgleiches Tempo	Velocidad celestial	Vitesse divine	Velocità ultraterrena	Boska szybkość	Velocidade Divina	Скорость бога	Yıldırım Kadar Hızlı
+67402	Hawkeye	鷹の目	鹰之眼	鷹眼	매의 눈	Falkenauge	Ojo de halcón	Œil de lynx	Occhio di falco	Sokole oko	Aguçado	Глаз ястреба	Şahin Gözü
+67404	Daredevil	勇猛果敢	勇猛果敢	勇猛果敢	용맹 과감	Draufgänger	Atrevimiento	Casse-cou	Scavezzacollo	Ryzykant	Audácia	Сорвиголова	Gözü Pek
+67406	Bullet Break	ブレイクバレット	子弹爆破	爆發子彈	브레이크 불릿	Schussbruch	Ruptura de balas	Balles assommantes	Alto calibro	Srebrna kula	Bala Potente	Пулевой разнос	Mermi Kaçışı
+67408	Mighty Cleave	鎧袖一触	易如反掌	輕鬆一擊	무쌍의 휩쓸기	Mächtiges Spalten	Despedazamiento poderoso	Entaille puissante	Fendente poderoso	Potężne cięcie	Corte Poderoso	Разрубание	Güçlü Yarma
+67410	Sustaining Relief	卓越した援護	出色的后盾	卓越的支援	탁월한 지원	Nachhaltige Stärkung	Alivio continuado	Soulagement durable	Sollievo duraturo	Długotrwała ulga	Alívio Amparador	Волна облегчения	Kalıcı Rahatlama
+67412	Regenerate 1	小治癒促進	小治愈促进	小治癒促進	치유 촉진 소	Regenerieren 1	Regenerar 1	Régénération 1	Rigenerazione 1	Regeneracja 1	Regeneração 1	Восстановление 1	Tazeleme 1
+67414	Regenerate 2	中治癒促進	中治愈促进	中治癒促進	치유 촉진 중	Regenerieren 2	Regenerar 2	Régénération 2	Rigenerazione 2	Regeneracja 2	Regeneração 2	Восстановление 2	Tazeleme 2
+67416	Invigorate 1	小気功	小气功	小氣功	기공 소	SP regenerieren 1	Vigorizar 1	Revigoration 1	Recupero 1	Pobudzenie 1	Revigoramento 1	Воодушевление 1	Kuvvetlendirme 1
+67418	Invigorate 2	中気功	中气功	中氣功	기공 중	SP regenerieren 2	Vigorizar 2	Revigoration 2	Recupero 2	Pobudzenie 2	Revigoramento 2	Воодушевление 2	Kuvvetlendirme 2
+67420	Warrior's Breath	戦士の呼吸	战士的吐息	戰士之息	전사의 호흡	Atem des Kriegers	Aliento del guerrero	Souffle du guerrier	Respiro guerresco	Tchnienie wojownika	Fôlego do Guerreiro	Дыхание воина	Savaşçının Nefesi
+67422	Champion's Pulse	達人の鼓動	大师的心跳	大師鼓舞	달인의 고동	Puls des Streiters	Pulso del campeón	Pouls de champion	Battito del campione	Puls czempiona	Pulso do Campeão	Пульс чемпиона	Şampiyonun Nabzı
+67424	Energized Spirit	高揚する精神	高昂的斗志	高昂精神	고양되는 정신	Geist und Energie	Espíritu enérgico	Esprit énergique	Spirito ravvivato	Pobudzony duch	Espírito Energizado	Энергичность	Kudretli Ruh
+67426	Invigorated Soul	奮起する智慧	振奋的智慧	振奮智慧	솟구치는 지혜	Kräftige Seele	Alma vigorizada	Âme revigorée	Anima rinvigorita	Wzmocniona dusza	Alma Revigorada	Бодрая душа	Canlanmış Ruh
+67428	Brightening Star	満ちゆく星	逐渐点亮的五芒星	漸亮之星	차오르는 별	Glänzender Stern	Estrella deslumbrante	Étoile lumineuse	Stella brillante	Świetlista gwiazda	Estrela Iluminadora	Разгорающаяся звезда	Parlayan Yıldız
+67430	Minthe's Blessing	メンテーの加護	门塔的庇佑	門塔的庇佑	민테의 가호	Minthes Segen	Bendición de Minthe	Bénédiction de Minthe	Benedizione di Minthe	Błogosławieństwo Minte	Bênção de Minta	Благословение Минфы	Minthe'nin Lütfu
+67432	Attack Master	攻撃の心得	攻击诀窍	攻擊訣竅	공격의 마음가짐	Angriffsmeister	As del ataque	Maître de l'attaque	Asso dell'attacco	Mistrz ataków	Mestre do Ataque	Мастер атаки	Saldırı Ustası
+67434	Auto-Mataru	マハタルカオート	自动玛哈塔尔卡	自動瑪哈塔爾卡	마하타루카 오토	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Auto-Mataru	Авто-Матару	Otomatik Mataru
+67436	Speed Master	素早さの心得	敏捷诀窍	敏捷訣竅	신속의 마음가짐	Tempomeister	As de la velocidad	Maître de la vitesse	Asso della velocità	Mistrz prędkości	Mestre da Rapidez	Мастер скорости	Hız Ustası
+67438	Auto-Masuku	マハスクカオート	自动玛哈斯库卡	自動瑪哈斯庫卡	마하스쿠카 오토	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Auto-Masuku	Авто-Масуку	Otomatik Masuku
+67440	Defense Master	防御の心得	防御诀窍	防禦訣竅	방어의 마음가짐	Abwehrmeister	As de la defensa	Maître de la défense	Asso della difesa	Mistrz obrony	Mestre da Defesa	Мастер защиты	Savunma Ustası
+67442	Auto-Maraku	マハラクカオート	自动玛哈拉库卡	自動瑪哈拉庫卡	마하라쿠카 오토	Auto-Maraku	Auto-Maraku	Auto-Maraku	Auto-Maraku	Auto-Maraku	Auto-Maraku	Авто-Мараку	Otomatik Maraku
+67444	Null Shock	感電無効	触电无效	觸電無效	감전 무효	Schock aufh.	Anular Electrificación	Annulation électrocution	Annulla Folgorazione	Neutralizacja porażenia	Anular Choque	Блок электрошока	Şok Sıfırlayıcı
+67446	Null Dizzy	目眩無効	晕眩无效	暈眩無效	현기증 무효	Benommenheit aufh.	Anular Mareo	Annulation étourdissement	Annulla Vertigini	Neutralizacja oszołomienia	Anular Tontura	Блок головокружения	Sersemlik Sıfırlayıcı
+67448	Null Forget	忘却無効	遗忘无效	遺忘無效	망각 무효	Vergessen aufh.	Anular Amnesia	Annulation amnésie	Annulla Amnesia	Neutralizacja zapomnienia	Anular Esquecimento	Блок потери памяти	Unutma Sıfırlayıcı
+67450	Null Wind	疾風無効	疾风无效	疾風無效	질풍 무효	Wind aufh.	Anular viento	Annulation vent	Annulla vento	Neutralizacja wiatru	Anular Vento	Блок отбрасывания	Rüzgar Sıfırlayıcı
+67452	Null Vortex	核熱無効	核热无效	核熱無效	핵열 무효	Vortex aufheben	Anular Vórtice	Vortex d'annulation	Annulla Vortice	Neutralizacja wiru	Anular Vórtice	Блок воронки	Girdap Sıfırlayıcı
+67454	Null Hypnosis	念動無効	念动无效	念動無效	염동 무효	Hypnose aufheben	Anular Hipnosis	Hypnose d'annulation	Annulla Ipnosi	Neutralizacja hipnozy	Anular Hipnose	Блок гипноза	Hipnoz Sıfırlayıcı
+67456	Null Burn	炎上無効	燃烧无效	燃燒無效	화상 무효	Brennen aufh.	Anular Quemadura	Annulation brûlure	Annulla In fiamme	Neutralizacja podpalenia	Anular Queimadura	Блок ожога	Yanma Sıfırlayıcı
+67458	Null Despair	絶望無効	绝望无效	絕望無效	절망 무효	Verzweiflung aufh.	Anular Desesperación	Annulation désespoir	Annulla Disperazione	Neutralizacja rozpaczy	Anular Desespero	Блок отчаяния	Çaresizlik Sıfırlayıcı
+67460	Null Freeze	凍結無効	冻结无效	凍結無效	동결 무효	Starre aufh.	Anular Congelación	Annulation gel	Annulla Congelamento	Neutralizacja zamrożenia	Anular Congelamento	Блок заморозки	Donma Sıfırlayıcı
+67462	Null Sleep	睡眠無効	睡眠无效	睡眠無效	수면 무효	Schlaf aufh.	Anular Sueño	Annulation sommeil	Annulla Sonno	Neutralizacja uśpienia	Anular Sono	Блок сна	Uyku Sıfırlayıcı
+67464	Immunity	鉄壁の抗体	铁壁的抗体	鐵壁的抗體	철벽의 항체	Immunität	Inmunidad	Immunité	Immunità	Niewrażliwość	Imunidade	Неприкосновенность	Bağışıklık
+67466	Treasure Hunter	トレジャーハント	宝藏猎人	寶藏獵人	트레저 헌터	Schatzjäger	Cazatesoros	Chasseur de trésors	Cacciatesori	Łowca skarbów	Caça-Tesouros	Кладоискатель	Hazine Avcısı
+67468	Efficiency Aficionado	効率学習	高效学习	高效學習	효율 학습	Freund der Effizienz	Amante de la eficiencia	Maîtrise de l'efficacité	Passione efficienza	Miłośnik skuteczności	Entusiasta da Eficiência	Ревнитель качества	Verimlilik Meraklısı
+67470	Keen Eye	審美眼	审美眼光	鑑賞力	심미안	Scharfes Auge	Buen ojo	Œil avisé	Buon occhio	Bystre oko	Perspicácia	Острый глаз	Uyanık
+67472	Eagle Eyes	鷲の双眸	鹫之双眸	鷹鷲的雙眸	독수리의 눈	Adleraugen	Ojo de águila	Œil d'aigle	Occhio d'aquila	Orle oko	Olhos de Águia	Орлиное зрение	Kartal Gözleri
+67474	Unparalleled Strength	剛力無双	力大无穷	力大無窮	강력무쌍	Unvergleichliche Stärke	Fuerza sin igual	Force inégalée	Forza senza eguali	Niezrównana siła	Força Inigualável	Выдающаяся сила	Benzersiz Güç
+67476	Regenerate 3	大治癒促進	大治愈促进	大治癒促進	치유 촉진 대	Regenerieren 3	Regenerar 3	Régénération 3	Rigenerazione 3	Regeneracja 3	Regeneração 3	Восстановление 3	Tazeleme 3
+67478	Invigorate 3	大気功	大气功	大氣功	기공 대	SP regenerieren 3	Vigorizar 3	Revigoration 3	Recupero 3	Pobudzenie 3	Revigoramento 3	Воодушевление 3	Kuvvetlendirme 3
+67480	Angelic Instincts	修羅の本能	修罗的本能	修羅本能	수라의 본능	Engelsinstinkt	Instintos angelicales	Instincts angéliques	Istinti angelici	Anielski instynkt	Instintos Angelicais	Ангельские инстинкты	Melek İçgüdüleri
+67482	Divine Mind	励起する神秘	激发能量的奥秘	神祕激勵	떠오르는 신비	Göttlicher Verstand	Mente divina	Esprit divin	Mente divina	Boski umysł	Mente Divina	Божественный разум	İlahi İrade
+67484	Heavenly Gift	輝ける綺羅星	光彩四溢的闪耀繁星	閃耀繁星	빛나는 기라성	Himmlische Gabe	Regalo celestial	Cadeau céleste	Dono celeste	Niebiański dar	Dádiva Celestial	Небесный дар	Cennetten bir Hediye
+67486	Blessing of Yggdrasil	世界樹の加護	世界树的庇佑	世界樹的庇佑	세계수의 가호	Yggdrasils Segen	Bendición de Yggdrasil	Bénédiction d'Yggdrasil	Benedizione di Yggdrasil	Błogosławieństwo Yggdrasil	Bênção de Yggdrasil	Благословение Иггдрасиля	Yggdrasil'in Kutsaması
+67488	Easy Money	一攫千金	一攫千金	一獲千金	일확천금	Leichtverdientes Geld	Dinero fácil	Argent facile	Soldi facili	Łatwa kasa	Dinheiro Fácil	Легкие деньги	Kolay Para
+67490	Knack for Conflict	闘諍の天稟	斗争的天赋	鬥爭天賦	투쟁의 천성	Talent für Konflikte	Pasión por el conflicto	Goût du conflit	Talento bellico	Smykałka do konfliktu	Aptidão para o Conflito	Жажда конфликта	Çarpışma Ustalığı
+67492	Auto-Riser	ヒートライザオート	自动灼热奋起	自動灼熱奮起	히트라이저 오토	Auto-Riser	Subidón automático	Auto-Embellie	Auto Potenziamento	Automatyczne rozgrzanie	Auto-Altercação	Авто-Экзотермия	Otomatik Yükseltici
+67500	Stalking Hunter	背面の狩人	背后的猎人	背後的獵人	배후의 사냥꾼	Pirschjäger	Caza acechante	Chasseur-traqueur	Bracconiere	Przyczajony łowca	Caça Sorrateira	Засадный охотник	İz Süren Avcı
+67502	Endless Fighting Spirit	果て無き闘志	永无止境的斗志	永無止境的鬥志	끝없는 투지	Unendlicher Kampfgeist	Espíritu de lucha inagotable	Combativité éternelle	Spirito indomabile	Nieskończona wola walki	Espírito de Luta Incansável	Вечный боец	Sonsuz Savaşçı Ruh
+67504	Rising Vigor	沸き立つ血気	沸腾的活力	熱血沸騰的精力	끓어오르는 혈기	Wachsende Kraft	Vigor ascendente	Énergie montante	Vigore crescente	Pełnia wigoru	Vigor Crescente	Кураж	Artan Kuvvet
+67506	Mighty Warrior	快進撃	迅猛攻势	勢如破竹	쾌진격	Mächtiger Krieger	Guerrero poderoso	Guerrier puissant	Guerriero possente	Potężny wojownik	Guerreiro Poderoso	Могучий воин	Güçlü Savaşçı
+67508	One Man Army	一騎当千	一骑当千	萬夫莫敵	일기당천	Ein-Mann-Armee	Ejército de un solo hombre	Armée d'un seul homme	One man army	Jednoosobowa armia	Exército de um Homem Só	Один в поле воин	Tek Kişilik Ordu
+67510	Sharp-Eyed Wildcat	必中の山猫	必中山猫	必中山貓	필중의 살쾡이	Scharfsichtige Wildkatze	Vista felina	Panthère à l'œil affûté	Occhio di lince	Bystrooki kot	Felino Atento	Зоркий тигр	Keskin Gözlü Yaban Kedisi
+67512	Punisher of the Reckless	油断大敵	保持警戒	嚴禁疏忽	방심은 금물	Bestrafer der Fahrlässigen	Castigador de imprudentes	Châtiment des intrépides	Imprudenza castigata	Karciciel lekkomyślnych	Punição dos Imprudentes	Каратель безрассудных	Dikkatsizi Cezalandıran
+67514	Finishing Blow	止めの一撃	最后一击	致命一擊	마무리 일격	Todesstoß	Golpe de gracia	Coup de grâce	Colpo di grazia	Ostateczny cios	Golpe Finalizador	Смертельный удар	Bitirici Darbe
+67516	Salt in the Wound	傷口塩塗	伤口撒盐	傷口撒鹽	쓰라린 상처	Salz in die Wunde	Sal en la herida	Sel sur la plaie	Dito nella piaga	Sól na rany	Sal na Ferida	Соль на рану	Yaraya Tuz
+67518	Warrior's Comradery	士気高揚の陣	士气高昂之阵	氣勢高昂之陣	사기고양의 진	Kameradschaft des Kriegers	Camaradería del guerrero	Camaraderie du guerrier	Cameratismo	Wojownicze koleżeństwo	Camaradagem do Guerreiro	Воинская дружба	Savaşçı Yoldaşlığı
+67520	Berserker	ベルセルク	狂战士	狂戰士	베르세르크	Berserker	Frenesí	Berserker	Berserk	Berserker	Berserker	Берсерк	Vahşi Savaşçı
+67522	Iron Body	錬鉄の体	锻铁之躯	千錘百鍊之軀	연철의 몸	Eiserner Körper	Cuerpo de hierro	Corps de fer	Corpo in ghisa	Żelazne ciało	Corpo de Ferro	Железное тело	Demir Vücut
+67524	Indomitable Perseverance	堅忍不抜	坚韧不拔	堅忍不拔	불굴의 인내심	Unbeugsame Ausdauer	Perseverancia indómita	Persévérance indomptable	Perseveranza indomita	Niezłomna wytrwałość	Perseverança Indômita	Неукротимая стойкость	Bitmez Dirayet
+67526	Staunch Battle Formation	難攻不落の陣	难攻不落之阵	堅不可摧之陣	난공불락의 진	Standhafte Kampfformation	Formación de batalla firme	Formation de combat solide	Formazione salda	Zaciekła formacja bojowa	Formação de Batalha Firme	Неколебимое построение	Sağlam Savaş Düzeni
+67528	Flourish in Hardship	死中に活	死中求生	死裡求生	사중구활	Durch Mühsal erblühen	Crecerse ante la adversidad	Essor dans l'épreuve	Crescere nelle avversità	Siła w cierpieniu	Crescimento na Adversidade	Нет худа без добра	Zorluktaki Bereket
+67530	Deceptive Haze	惑わす陽炎	幻惑的蜃景	迷惑幻影	조소하는 아지랑이	Trügerischer Nebel	Confusión falaz	Brume trompeuse	Nebbia ingannevole	Zwodnicza mgła	Bruma Enganosa	Коварная дымка	Aldatıcı Pus
+67532	Trigger Happy	トリガーハッピー	扫射狂人	槍彈狂熱	트리거 해피	Schießwütig	Gatillo fácil	As de la gâchette	Grilletto facile	Czuły spust	Dedo no Gatilho	Пали почем зря	Tetiği Çekmeye Hazır
+67534	Torrent of Magic	魔力の奔流	魔力的激流	魔力激流	마력의 격류	Sturm der Magie	Torrente de magia	Torrent de magie	Torrente magico	Strumień magii	Torrente de Magia	Магический поток	Büyü Sağanağı
+67536	Unseen Messenger	死角からの使者	来自盲点的使者	來自死角的使者	사각을 노리는 자객	Unsichtbarer Bote	Mensajero desconocido	Messager invisible	Messaggero invisibile	Niewidzialny posłaniec	Mensageiro Oculto	Незримый посланник	Görünmez Elçi
+67538	Magic Bullet	魔弾の射手	魔弹射手	魔彈射手	마탄의 사수	Magiekugel	Bala mágica	Balle magique	Proiettile magico	Magiczna kula	Bala Mágica	Волшебная пуля	Büyülü Mermi
+67540	Fool's Reckoning	愚者の看破	愚者的领悟	愚者領悟	어리석은 자의 간파	Abrechnung des Narren	Verdad de los necios	Jugement des idiots	Condanna dello sciocco	Rozrachunek głupca	Juízo do Louco	Расплата глупца	Aptalın Hesaplaması
+67542	Merciless Deliverance	慈悲なき執行	冷血的裁断	冷血執行	무자비한 집행	Gnadenlose Erlösung	Salvación sin piedad	Délivrance sans merci	Salvezza spietata	Bezlitosne wyzwolenie	Libertação Implacável	Беспощадное спасение	Acımasız Kurtuluş
+67544	Slap to the Face	泣面蜂刺	祸上加祸	禍不單行	가중되는 고통	Schlag ins Gesicht	Bofetada en la cara	Gifle	Schiaffo in faccia	Policzek	Tapa na Cara	Пощечина	Yüze Tokat
+67546	Steel Physique	鋼鉄の体躯	钢铁之躯	鋼鐵之軀	강철의 체구	Stählerne Physis	Físico de acero	Physique d'acier	Fisico d'acciaio	Stalowa budowa	Físico de Aço	Стальные мышцы	Çelik Vücut
+67548	Unyielding Will	百折不撓	百折不挠	百折不撓	백절불요	Unerschütterlicher Wille	Voluntad inquebrantable	Volonté inflexible	Volontà inflessibile	Nieustępliwa wola	Vontade Inflexível	Несгибаемая воля	Sarsılmaz İrade
+67550	Impenetrable Fortress	絶対防衛の陣	完全防护之阵	絕對防衛之陣	절대방어의 진	Uneinnehmbare Festung	Fortaleza impenetrable	Forteresse impénétrable	Fortezza impenetrabile	Forteca nie do sforsowania	Fortaleza Impenetrável	Неприступная крепость	Sırrı Çözülemeyen Kale
+67552	Indominable Spirit	不屈の魂	不屈的灵魂	不屈之魂	불굴의 혼	Unbezwingbarer Kampfgeist	Espíritu indomable	Esprit indomptable	Spirito indomito	Niezwyciężona dusza	Espírito Indomável	Неукротимый дух	Sarsılmaz Ruh
+67554	Hazy Mirage	消えゆく蜃気楼	渐渐消失的海市蜃楼	逐漸消失的海市蜃樓	사라지는 신기루	Verschwommenes Trugbild	Espejismo difuso	Mirage brumeux	Miraggio nebbioso	Mglisty miraż	Miragem Turva	Зыбкий мираж	Puslu Serap
+67556	Goddess's Embrace	女神の抱擁	女神的拥抱	女神擁抱	여신의 포옹	Umarmung der Göttin	Abrazo de la diosa	Étreinte de la déesse	Abbraccio della dea	Objęcie bogini	Abraço da Deusa	Объятия богини	Tanrıçanın Kucağı
+67558	Triumphant Cheer	勝利の凱歌	胜利的凯歌	勝利凱歌	승리의 개가	Triumphaler Jubel	Ánimo triunfante	Encouragement triomphal	Esultanza trionfale	Zwycięski okrzyk	Aclamação Triunfante	Торжествующий возглас	Muzaffer Neşe
+67600	Phantom Step	縮地術	缩地术	遁地術	축지법	Phantomschritt	Paso fantasma	Foulée fantôme	Passo Fantasma	Widmowy krok	Passo Fantasma	Поступь призрака	Hayalet Adımı
+67602	Bullet Break	ブレイクバレット	子弹爆破	爆發子彈	브레이크 불릿	Schussbruch	Ruptura de balas	Balles assommantes	Alto calibro	Srebrna kula	Bala Potente	Пулевой разнос	Mermi Kaçışı
+67604	Ferocious Lion	獅子奮迅	勇猛气势	威猛如獅	사자분신	Wilder Löwe	León feroz	Lion féroce	Leone feroce	Dziki lew	Leão Feroz	Свирепый лев	Acımasız Aslan
+67606	Essence of Sorcery	魔導の真髄	魔导的精髓	魔導的精隨	마도의 진수	Essenz der Zauberei	Esencia de hechicería	Essence de la sorcellerie	Essenza della stregoneria	Esencja czaru	Essência da Feitiçaria	Сущность колдовства	Büyücülük Özü
+67608	Clairvoyance	天眼通	天眼通	天眼通	천안통	Hellsichtigkeit	Clarividencia	Clairvoyance	Chiaroveggenza	Jasnowidztwo	Clarividência	Проницательность	Durugörü
+67610	Over Powered	オーバーフォース	超越之力	猛勁十足	오버 포스	Überstark	Abuso de poder	Surpuissance	Ultra-potenziato	Niekontrolowana siła	Excesso de Potência	Перегрузка	Aşırı Güçlü
+67700	Despair Boost	絶望ブースタ	绝望强化	絕望強化	절망 부스터	Verzweiflung-Boost	Potenciación de Desesperación	Boost Désespoir	Potenzia Disperazione	Premia do rozpaczy	Reforço de Desespero	Рост отчаяния	Çaresizlik Güçlendirici
+67702	Despair Amp	絶望ハイブースタ	高级绝望强化	高級絕望強化	절망 하이 부스터	Verzweiflung-Verstärkung	Amplificación de Desesperación	Amplification Désespoir	Amplifica Disperazione	Wzmocnienie rozpaczy	Ampliar Desespero	Усиление отчаяния	Çaresizlik Arttırıcı
+67704	Despair Mega Booster	絶望メガブースタ	超级绝望强化	超級絕望強化	절망 메가 부스터	Verzweiflung-Megabooster	Megapotenciación de Desesperación	Méga boost Désespoir	Perfeziona Disperazione	Mega wzmocnienie rozpaczy	Megarreforço de Desespero	Мега-отчаяние	Çaresizlik Mega Güçlendirici
+67706	Shock Boost	感電ブースタ	触电强化	觸電強化	감전 부스터	Schock-Boost	Potenciación de Electrificación	Boost Électrocution	Potenzia Folgorazione	Premia do porażenia	Reforço de Choque	Рост электрошока	Şok Güçlendirici
+67708	Shock Amp	感電ハイブースタ	高级触电强化	高級觸電強化	감전 하이 부스터	Schock-Verstärkung	Amplificación de Electrificación	Amplification Électrocution	Amplifica Folgorazione	Wzmocnienie porażenia	Ampliar Choque	Усиление электрошока	Şok Arttırıcı
+67710	Shock Mega Booster	感電メガブースタ	超级触电强化	超級觸電強化	감전 메가 부스터	Schock-Megabooster	Megapotenciación de Electrificación	Méga boost Électrocution	Perfeziona Folgorazione	Mega wzmocnienie porażenia	Megarreforço de Choque	Мега-электрошок	Şok Mega Güçlendirici
+67712	Sweep Boost	疾風ブースタ	疾风强化	疾風強化	질풍 부스터	Wischer-Boost	Potenciación de Barrido	Boost Balayage	Potenzia Spazzata	Premia do zdmuchnięcia	Reforço de Varrição	Рост отбрасывания	Süpürme Güçlendirici
+67714	Sweep Amp	疾風ハイブースタ	高级疾风强化	高級疾風強化	질풍 하이 부스터	Wischer-Verstärkung	Amplificación de Barrido	Amplification Balayage	Amplifica Spazzata	Wzmocnienie zdmuchnięcia	Ampliar Varrição	Усиление отбрасывания	Süpürme Arttırıcı
+67716	Sweep Mega Booster	疾風メガブースタ	超级疾风强化	超級疾風強化	질풍 메가 부스터	Wischer-Megabooster	Megapotenciación de Barrido	Méga boost Balayage	Perfeziona Spazzata	Mega wzmocnienie zdmuchnięcia	Megarreforço de Varrição	Мега-отбрасывание	Süpürme Mega Güçlendirici
+67718	Burn Boost	炎上ブースタ	燃烧强化	燃燒強化	화상 부스터	Brennen-Boost	Potenciación de Quemadura	Boost Brûlure	Potenzia In fiamme	Premia do podpalenia	Reforço de Queimadura	Рост ожога	Yanma Güçlendirici
+67720	Burn Amp	炎上ハイブースタ	高级燃烧强化	高級燃燒強化	화상 하이 부스터	Brennen-Verstärker	Amplificación de Quemadura	Amplification Brûlure	Amplifica In fiamme	Wzmocnienie podpalenia	Ampliar Queimadura	Усиление ожога	Yanma Arttırıcı
+67722	Burn Mega Booster	炎上メガブースタ	超级燃烧强化	超級燃燒強化	화상 메가 부스터	Brennen-Megabooster	Megapotenciación de Quemadura	Méga boost Brûlure	Perfeziona In fiamme	Mega wzmocnienie podpalenia	Megarreforço de Queimadura	Мега-ожог	Yanma Mega Güçlendirici
+67724	Freeze Boost	凍結ブースタ	冻结强化	凍結強化	동결 부스터	Starre-Boost	Potenciación de Congelación	Boost Gel	Potenzia Congelamento	Premia do zamrożenia	Reforço de Congelamento	Рост заморозки	Donma Güçlendirici
+67726	Freeze Amp	凍結ハイブースタ	高级冻结强化	高級凍結強化	동결 하이 부스터	Starre-Verstärkung	Amplificación de Congelación	Amplification Gel	Amplifica Congelamento	Wzmocnienie zamrożenia	Ampliar Congelamento	Усиление заморозки	Donma Arttırıcı
+67728	Freeze Mega Booster	凍結メガブースタ	超级冻结强化	超級凍結強化	동결 메가 부스터	Starre-Megabooster	Megapotenciación de Congelación	Méga boost Gel	Perfeziona Congelamento	Mega wzmocnienie zamrożenia	Megarreforço de Congelamento	Мега-заморозка	Donma Mega Güçlendirici
+67730	Vortex Boost	核熱ブースタ	核热强化	核熱強化	핵열 부스터	Vortex-Boost	Potenciación de Vórtice	Boost Vortex	Potenzia Vortice	Premia do wiru	Reforço de Vórtice	Рост притяжения	Girdap Güçlendirici
+67732	Vortex Amp	核熱ハイブースタ	高级核热强化	高級核熱強化	핵열 하이 부스터	Vortex-Verstärkung	Amplificación de Vórtice	Amplification Vortex	Amplifica Vortice	Wzmocnienie wiru	Ampliar Vórtice	Усиление притяжения	Girdap Arttırıcı
+67734	Vortex Mega Booster	核熱メガブースタ	超级核热强化	超級核熱強化	핵열 메가 부스터	Vortex-Megabooster	Megapotenciación de Vórtice	Méga boost Vortex	Perfeziona Vortice	Mega wzmocnienie wiru	Megarreforço de Vórtice	Мега-притяжение	Girdap Mega Güçlendirici
+67736	Hypno Boost	念動ブースタ	念动强化	念動強化	염동 부스터	Hypno-Boost	Potenciación de Hipnosis	Boost Hypno	Potenzia Ipnosi	Premia do hipnozy	Reforço de Hipnose	Рост гипноза	Hipno Güçlendirici
+67738	Hypno Amp	念動ハイブースタ	高级念动强化	高級念動強化	염동 하이 부스터	Hypno-Verstärkung	Amplificación de Hipnosis	Amplification Hypno	Amplifica Ipnosi	Wzmocnienie hipnozy	Ampliar Hipnose	Усиление гипноза	Hipno Arttırıcı
+67740	Hypno Mega Booster	念動メガブースタ	超级念动强化	超級念動強化	염동 메가 부스터	Hypno-Megabooster	Megapotenciación de Hipnosis	Méga boost Hypno	Perfeziona ipnosi	Mega wzmocnienie hipnozy	Megarreforço de Hipnose	Мега-гипноз	Hipno Mega Güçlendirici
+67742	Almighty Boost	万能ブースタ	万能强化	萬能強化	만능 부스터	Allmacht-Boost	Potenciación de Todopoderoso	Boost absolu	Potenzia divino	Premia do wszechmocnych	Reforço Onipotente	Рост всемогущества	Yücelik Güçlendirici
+67744	Almighty Amp	万能ハイブースタ	高级万能强化	高級萬能強化	만능 하이 부스터	Allmacht-Verstärkung	Amplificación de Todopoderoso	Amplification absolue	Amplifica divino	Wzmocnienie wszechmocnych	Ampliar Onipotente	Усиление всемогущества	Yücelik Arttırıcı
+67746	Almighty Mega Booster	万能メガブースタ	超级万能强化	超級萬能強化	만능 메가 부스터	Allmacht-Megabooster	Megapotenciación de Todopoderoso	Méga boost absolu	Perfeziona divino	Mega wzmocnienie wszechmocnych	Megarreforço Onipotente	Мега-всемогущество	Yücelik Mega Güçlendirici
+67748	Dizzy Boost	目眩ブースタ	晕眩强化	暈眩強化	현기증 부스터	Benommenheit-Boost	Potenciación de Mareo	Boost Étourdissement	Potenzia Vertigini	Premia do oszołomienia	Reforço de Tontura	Рост головокружения	Sersemlik Güçlendirici
+67750	Dizzy Amp	目眩ハイブースタ	高级晕眩强化	高級暈眩強化	현기증 하이 부스터	Benommenheit-Verstärkung	Amplificación de Mareo	Amplification Étourd.	Amplifica Vertigini	Wzmocnienie oszołomienia	Ampliar Tontura	Усиление головокружения	Sersemlik Arttırıcı
+67752	Dizzy Mega Booster	目眩メガブースタ	超级晕眩强化	超級暈眩強化	현기증 메가 부스터	Benmmnht.-Megabooster	Megapotenciación de Mareo	Méga boost Étourdissement	Perfeziona Vertigini	Mega wzmocnienie oszołomienia	Megarreforço de Tontura	Мега-головокружение	Sersemlik Mega Güçlendirici
+67754	Forget Boost	忘却ブースタ	遗忘强化	遺忘強化	망각 부스터	Vergessen-Boost	Potenciación de Amnesia	Boost Amnésie	Potenzia Amnesia	Premia do zapomnienia	Reforço de Esquecimento	Рост забывчивости	Unutma Güçlendirici
+67756	Forget Amp	忘却ハイブースタ	高级遗忘强化	高級遺忘強化	망각 하이 부스터	Vergessen-Verstärkung	Amplificación de Amnesia	Amplification Amnésie	Amplifica Amnesia	Wzmocnienie zapomnienia	Ampliar Esquecimento	Усиление забывчивости	Unutma Arttırıcı
+67758	Forget Mega Booster	忘却メガブースタ	超级遗忘强化	超級遺忘強化	망각 메가 부스터	Vergessen-Megabooster	Megapotenciación de Amnesia	Méga boost Amnésie	Perfeziona Amnesia	Mega wzmocnienie zapomnienia	Megarreforço de Esquecimento	Мега-забывчивость	Unutma Mega Güçlendirici
+67800	Counter	カウンター	反击	反擊	카운터	Konter	Réplica	Contre-attaque	Risposta	Kontra	Revide	Ответный удар	Karşı Koyma
+67802	Heavy Counter	カウンター	反击	反擊	카운터	Schwerer Konter	Contraataque pesado	Contre lourd	Risposta violenta	Ciężka kontra	Revide Pesado	Мощный контрудар	Ağır Karşı Saldırı
+67804	Raging Mind	怒り心頭\n	怒上心头	怒氣攻心	노발대발\n	Zorniger Geist	Mente furiosa	Esprit déchaîné	Rancore	Szalejący umysł	Mente Irada	Буян	Öfkeli Zihin
+67806	Healing Drums	癒しの響太鼓	治愈的响太鼓	治癒的響亮太鼓	치유의 북	Heiltrommeln	Tambores curativos	Tambours de guérison	Tamburi curativi	Bębny uzdrowiciela	Tambor Curativo	Целительный ритм	Şifa Davulları
+67808	Umbrella Shield	鉄傘の盾	铁伞之盾	傘骨之盾	우산 방패	Schirmschild	Paraguas protector	Bouclier parapluie	Ombrello scudo	Frontalna osłona	Escudo-Sombrinha	Щит-зонтик	Şemsiye Kalkan
+67810	Umbrella Gun Shield	傘の盾・銃	伞盾·枪械	傘盾．槍械	우산 방패·총	Schirmschussschild	Paraguas protector a distancia	Parapluie pare-balles	Ombrello blindato	Frontalna osłona dystansowa	Escudo-Sombrinha de Arma	Щит-зонтик от пуль	Şemsiye Silah Kalkanı
+67812	Umbrella Melee Shield	傘の盾・接	伞盾·近战	傘盾．近戰	우산 방패·접	Schirm-Nahkampfschild	Paraguas protector cuerpo a cuerpo	Parapluie de mêlée	Ombrello da mischia	Frontalna osłona w zwarciu	Escudo-Sombrinha Corpo a Corpo	Щит-зонтик от ударов	Şemsiye Yakın Dövüş Kalkanı
+67814	Umbrella Skill Shield	傘の盾・技	伞盾·技能	傘盾．技能	우산 방패·기	Schirm-Skillschild	Paraguas protector contra habilidades	Para-compétence	Ombrello anti-abilità	Frontalna osłona na umiejętności	Escudo-Sombrinha de Habilidade	Щит-зонтик от навыков	Şemsiye Yetenek Kalkanı
+67816	Stonewall	金剛体	铜墙铁壁之身	金剛不壞之身	금강지체	Mauer	Muro de piedra	Mur de pierre	Ostruzionismo	Niewzruszony	Obstrução	Каменная стена	Taş Duvar
+67818	Unrestricted	縦横無尽	无拘无束	橫行無阻	종횡무진	Unbeschränkt	Sin restricciones	Sans limite	Senza vincoli	Nieograniczony	Irrestringível	Без удержу	Sınırsız
+67820	Unrestricted	縦横無尽	无拘无束	橫行無阻	종횡무진	Unbeschränkt	Sin restricciones	Sans limite	Senza vincoli	Nieograniczony	Irrestringível	Без удержу	Sınırsız
+67822	Ghostly Shift	攻防・位置転換	攻守·位置转变	攻守對調	공방·위치 전환	Gespenstischer Wandel	Relevo fantasmal	Transition spectrale	Cambio spettrale	Upiorna przemiana	Troca Fantasmagórica	Призрачный переход	Hayalet Değişimi
+67824	Lady Marie's Grace	マリエ様の恩寵	真理惠大人的恩宠	真理惠女王的恩寵	마리에 님의 은총	Lady Maries Gnade	Gracia de la señora Marie	Grâce de Dame Marie	Grazia di Lady Marie	Łaska lady Marie	Graça da Lady Marie	Милость леди Мари	Leydi Marie'nin Lütfu
+67850	Rebellious Artist	カウンターグラフィティ	反击涂鸦	反擊塗鴉	카운터 그라피티	Rebellischer Künstler	Artista rebelde	Artiste rebelle	Artista ribelle	Buntowniczy artysta	Artista Rebelde	Мятежный творец	Asi Sanatçı
+67852	Agile Light	俊敏ライター	敏捷记者	靈敏騎士	날렵한 라이터	Agiles Licht	Luz ágil	Lumière agile	Luce sinuosa	Zwinność i lekkość	Luz Ágil	Проворный свет	Çevik Işık
+67854	Pain Exchange	ＯＵＣＨでＣＨＡＮＧＥ	通过ＯＵＣＨ进行ＣＨＡＮＧＥ	疼痛大風吹	OUCH로 CHANGE	Austausch der Schmerzen	Un golpe por otro	Échange de souffrances	Scambio di dolore	Wymiana bólu	Troca de Dor	Обмен болью	Acı Takası
+67930	Yoshiki's Special Guard	ヨシキ親衛隊出陣！	由喜亲卫队出击！	由喜親衛隊出動！	요시키 친위대 출진!	Yoshikis Spezialschutz	Guardia especial de Yoshiki	Garde spéciale de Yoshiki	Guardia speciale di Yoshiki	Specjalna straż Yoshikiego	Guarda de Yoshiki	Гвардия Ёсики	Yoshiki'nin Özel Savunması
+67932	We Can See You, Idiots!	丸見えだマヌケども！	一览无遗啊，蠢货们！	都被看光光啦，蠢蛋！	다 보인다 멍청한 것들!	Wir sehen euch, Trottel!	¡Os vemos, idiotas!	On vous voit, abrutis !	Vi si vede, idioti!	Widzimy was, idioci!	Estão Visíveis, Idiotas!	Мы вас видим, идиоты!	Sizi Görebiliyoruz Salaklar!
+67934	Skeleton Shroud	躯を護る骸布	护躯裹尸布	護身的裹屍布	유체를 지키는 수의	Skelettschleier	Velo esquelético	Linceul squelettique	Sudario scheletrico	Kościany całun	Manto Esquelético	Саван	İskelet Perdesi
+67970	Chill Crib	チルホーム	宁静归处	平靜的歸宿	칠 홈	Nice Bude	Cuna gélida	Berceau de froid	Culla gelida	Na własnym podwórku	Berço Tranquilo	Остывшая колыбель	Soğuk Kulübe
+67972	Backtalk	ギャングスタ・カウンター	帮派成员·反击	幫派大反攻	갱스터 카운터	Widerworte	Descaro	Impertinence	Risposta insolente	Riposta	Resposta Malcriada	Возражение	Küstah Karşılık
+67950	Dash Cap	ダッシュ・Ｐ・カウンター	冲刺·Ｐ·反击	衝刺反擊	대시·P·카운터	Sprintkappe	Ni una carrera más	Limite d'accélération	Scatto matto	Nagły zryw	Arranque	На капот	Deparın Zirvesi
+67952	Paint Bomb	スプレーシャワー	喷雾淋浴	噴霧之雨	스프레이 샤워	Farbbombe	Bomba de pintura	Bombe de peinture	Bomba di vernice	Bomba z farbą	Bomba de Tinta	Бомба с краской	Boya Bombası
+67960	Rolling Burner	歩けばＢＵＲＮＥＲ	走起来就是ＢＵＲＮＥＲ	燃燒跑者	워킹 BURNER	Rollender Brenner	Quemadura andante	Brûleur mobile	Bruciatore rotante	Niczym pożar	Queimador Rolante	Раскатный жгун	Dönerli Kazan
+67962	Unknown Artist	アンノウン・アーティスト	未知艺术家	未知的藝術家	언노운 아티스트	Unbekannter Künstler	Artista desconocido	Artiste inconnu	Artista sconosciuto	Nieznana artys

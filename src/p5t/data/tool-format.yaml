@@ -1,0 +1,160 @@
+skillData:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/skilldatabase.tsv
+  outputPath: data/skill-data.json
+  lookupFiles:
+    skillNames:
+      filename: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/lang/database/word_database_skills.tsv
+      key: id
+      language: en
+    skillDescs:
+      filename: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/lang/database/word_database_skill_effects.tsv
+      key: id
+      language: en
+  nullChecks: {}
+  colFormat:
+    ID:
+      rename: id
+      type: integer
+    NameWordKey:
+      rename: name
+      type: lookupFile
+      lookupFile: skillNames
+    Range:
+      rename: range
+      type: integer
+    HitParam:
+      rename: area
+      type: integer
+    PersonaDamageMin:
+      rename: power
+      type: integer
+    BattleMenuIconType:
+      rename: elem
+      type: lookup
+      lookup:
+        special: -1
+        phys: 0
+        gun: 1
+        fire: 2
+        ice: 3
+        wind: 4
+        curse: 5
+        elec: 6
+        nuke: 7
+        psy: 8
+        bless: 9
+        forget: 10
+        recovery: 12
+        support: 13
+        almighty: 20
+    CostType:
+      rename: costType
+      type: integer
+    Cost:
+      rename: cost
+      type: integer
+    DescWordKey:
+      rename: description
+      type: lookupFile
+      lookupFile: skillDescs
+passiveData:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/passive_skill_database.tsv
+  outputPath: data/skill-data.json
+  lookupFiles:
+    skillNames:
+      filename: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/lang/database/word_database_skills.tsv
+      key: id
+      language: en
+    skillDescs:
+      filename: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/lang/database/word_database_skill_effects.tsv
+      key: id
+      language: en
+  nullChecks: {}
+  colFormat:
+    ID:
+      rename: id
+      type: integer
+    NameWordKey:
+      rename: name
+      type: lookupFile
+      lookupFile: skillNames
+    ActivationID: unknown
+    ActivationValue: unknown
+    ActivationValue2: unknown
+    EffectID:
+      rename: effect
+      type: lookup
+      lookup:
+        'special effect': -1
+        'auto effect': 0
+        'counters attack': 1
+        'nullifies front attack and turns toward attacker': 2
+        'movement +$1 when $2': 3
+        '$1 pwr HP restore and next attack x$2 when HP drops <50%': 4
+        'melee also hits $1 adjacent squares': 7
+        'teleports $1 squares away when recovering from Down': 11
+        'swap positions with gun attack once per turn when $2': 12
+        '$1% chance of down when $2': 15
+        'knockback range +$1 when $2': 20
+        '$1% HP restore when $2': 22
+        'chance of $1% HP restore': 23
+        'chance of $1% SP restore and voltage gain +$2': 24
+        'one ally endures mortal blow with 100% HP once per battle': 25
+        'skill costs -$1% when $2': 26
+        '$1% SP restore when $2': 27
+        '$1% HP and SP restore when $2': 29
+        'dmg taken -$1% when attack does not down': 34
+        'endures mortal blow with $1 HP once per battle': 35
+        'auto shoots falling foe when in range, activates $1 times': 38
+        'adds Cover when $2': 40
+        'adds Dash': 41
+        'gun attack range +$1 when $2': 42
+        'skill attack AoE +$1 when $2': 43
+        'gun attack range +1 when $2' : 44
+        'reduces chance of $2 being targeted when Charged': 47
+        'nullifies Down, halves knockback, adds instakill to falling': 49
+        'gun attack will down when $2': 52
+        'prevents $2': 54
+        'dmg dealt +$1% when $2': 55
+        'dmg taken -$1% when $2': 56
+        'begins battle with $2': 57
+        'begins battle with $2 to party': 59
+        'rare persona drop +$1%': 60
+        'money drop +$1%': 61
+        'exp drop +$1%': 62
+        'dmg dealt +$1% with each subsequent melee attack, $2% max': 63
+        'dmg dealt +$1% with each subsequent gun attack $2% max': 64
+        'dmg dealt +$1% with each subsequent skill attack, $2% max': 65
+        'voltage gain +$1': 66
+        'SP costs -$1% when $2': 67
+        '-kaja skills cast +$1 turns': 68
+        'Almighty dmg dealt +$1%': 75
+        '$2 dmg dealt +$1%': 76
+        '$1% HP restore after AoA': 82
+        'dmg taken -$1% when Covered': 83
+        'moves freely on paint': 89
+        'paints current and $1 adjacent squares while moving': 90
+        'movement +$1 when dashing': 92
+        '$1% x number of foes targeted HP and SP restore, $2 max': 94
+        'skill attack range +$1': 97
+        'paints occupied ally squares when turn ends': 98
+        'party HP +$1': 1000
+        'party SP +$1': 1001
+        'party melee dmg +$1': 1002
+        'party gun dmg +$1': 1003
+    EffectValue:
+      rename: chance
+      type: integer
+    EffectValue2:
+      rename: ailment
+      type: integer
+    ScriptID: unknown
+    MoveTypeID: unknown
+    VisibleAnalyze: unknown
+    SkillType: unknown
+    DescWordKey:
+      rename: description
+      type: lookupFile
+      lookupFile: skillDescs
+    DescWordParam: unknown
+    InfoWordKey: unknown

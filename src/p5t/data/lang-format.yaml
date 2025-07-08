@@ -1,0 +1,11 @@
+languageCommon:
+  languages: ["en", "ja", "zh-CN", "zh-TW", "ko", "de", "es-ES", "fr", "it", "pl", "pt-BR", "ru", "tr"]
+  nullValues: []
+  rowLocationNesting: ["MonoBehaviour", "param"]
+  colFormat:
+    Id: id
+    Word: lang
+wordDatabase:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/temp/{}_word_database.asset
+  outputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/lang/database/word_database.tsv
+  baseLanguageConfig: languageCommon

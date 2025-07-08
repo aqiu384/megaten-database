@@ -1,0 +1,747 @@
+id	en
+61001	Automatically shoots target that's fallen from high ground and is in range.\nActivates 1 time.
+61003	Follow-Up can activate twice in one turn.
+61005	Shoots targets that enter area and stops action of any non-unique enemies.\nActivates 1 time.
+61007	Ambush can activate twice in one turn.
+61019	When Charge is active,\nRanged Attack increases by {0} squares.
+61021	When Charge is active,\nincreases Movement by {0} square.
+61023	When Charge is active,\nknocks down targets hit with Ranged Attacks.
+61025	When Charge is active,\nincreases knock back range of melee attacks.
+61027	When Charge is active,\nincreases Attack Skill effect range by {0} square.
+61029	When Charge is active, raises Attack.
+61031	Slightly recovers HP for all allies\nafter an All-Out Attack.
+61033	Moderately recovers HP for all allies\nafter an All-Out Attack.
+61035	Slightly restores SP when user is in Cover.
+61037	Moderately restores SP when user is in Cover.
+61039	Further reduces damage when in Cover.
+61041	Increases Ranged Attack by {0} square.
+61043	Increases knockback distance by {0} squares.
+61045	Increases Movement by {0} square.
+61047	Increases Movement by\n{0} square after dashing.
+61049	When Charge is active,\nincreases Movement by {0} squares.
+61051	Increases Skill range by {0} square.
+61053	Greatly reduces damage when\nin Cover.
+61061	When included as a member of the party, slightly raises Ranged Attack for all allies.
+61063	When included as a member of the party, moderately raises Ranged Attack for all allies.
+61065	When included as a member of the party, greatly raises Ranged Attack for all allies.
+61067	When included as a member of the party,\nslightly raises Attack for all allies.
+61069	When included as a member of the party,\nmoderately raises Attack for all allies.
+61071	When included as a member of the party,\ngreatly raises Attack for all allies.
+61073	When included as a member of the party,\nslightly raises max HP for all allies.
+61075	When included as a member of the party,\nmoderately raises max HP for all allies.
+61077	When included as a member of the party,\ngreatly raises max HP for all allies.
+61079	When included as a member of the party,\nslightly raises max SP for all allies.
+61081	When included as a member of the party,\nmoderately raises max SP for all allies.
+61083	When included as a member of the party,\ngreatly raises max SP for all allies.
+61101	Acquire Eiha.\nDeals light damage in a small area.\nInflicts Despair.
+61103	Upgrade to Eiga.\nDeals medium damage in a small area.\nInflicts Despair.
+61105	Upgrade to Eigaon.\nDeals heavy damage in a small area.\nInflicts Despair.
+61107	Acquire Maeiha.\nDeals light damage in a medium area.\nInflicts Despair.
+61109	Upgrade to Maeiga.\nDeals medium damage in a medium area.\nInflicts Despair.
+61111	Upgrade to Maeigaon.\nDeals heavy damage in a medium area.\nInflicts Despair.
+61113	Slightly increases damage of Eiha skills.
+61115	Moderately increases damage of Eiha skills.
+61117	Greatly increases damage of Eiha skills.
+61119	Acquire Scythes of Eternal Darkness.\nDeals severe damage in a large area.\nInflicts Despair.
+61121	Attacks all targets in range.\nInflicts Down even if they are in Cover.
+61123	Increases power, range, and area of effect of Phantom Judge.
+61125	Further increases power of Phantom Judge.
+61135	If HP falls below 50%, recovers some HP and increases damage of next attack.
+61151	Acquire Zio.\nDeals light damage.\nInflicts Shock.
+61153	Upgrade to Zionga.\nDeals medium damage.\nInflicts Shock.
+61155	Upgrade to Ziodyne.\nDeals heavy damage.\nInflicts Shock.
+61157	Acquire Mazio.\nDeals light damage in a small area.\nInflicts Shock.
+61159	Upgrade to Mazionga.\nDeals medium damage in a small area.\nInflicts Shock.
+61161	Upgrade to Maziodyne.\nDeals heavy damage in a small area.\nInflicts Shock.
+61163	Slightly increases damage of Zio skills.
+61165	Moderately increases damage of Zio skills.
+61167	Greatly increases damage of Zio skills.
+61169	Acquire Almighty Judgement.\nDeals severe damage in a large area.\nInflicts Shock.
+61171	Acquire Tarukaja.\nRaises Attack of target ally.
+61173	Upgrade to Matarukaja.\nRaises Attack of all allies.
+61177	Attacks all units in a straight line.\nInflicts Shock.
+61179	Increases power of Brigantine Blitzkrieg.
+61181	Further increases power of\nBrigantine Blitzkrieg.
+61195	When KO'd, automatically revive with 1HP. Usable once per battle.
+61201	Acquire Garu.\nDeals light damage.\nSweeps away target.
+61203	Upgrade to Garula.\nDeals medium damage.\nSweeps away target.
+61205	Upgrade to Garudyne.\nDeals heavy damage.\nSweeps away target.
+61207	Acquire Magaru.\nDeals light damage in a small area.\nSweeps away targets.
+61209	Upgrade to Magarula.\nDeals medium damage in a small area.\nSweeps away targets.
+61211	Upgrade to Magarudyne.\nDeals heavy damage in a small area.\nSweeps away targets.
+61213	Slightly increases damage of Garu skills.
+61215	Moderately increases damage of Garu skills.
+61217	Greatly increases damage of Garu skills.
+61219	Acquire Wheel of Life.\nDeals severe damage in a medium area.\nSweeps away targets.
+61221	Acquire Dia.\nModerately recovers HP of target ally.
+61223	Upgrade to Diarama.\nGreatly recovers HP of target ally.
+61225	Upgrade to Diarahan.\nFully recovers HP of target ally.
+61227	Blows away targets in range.
+61229	Increases power of Winds of Time and extends range by {0} square.
+61231	Further increases power of\nWinds of Time.
+61245	Chance to knock down target unit when performing a melee attack.
+61251	Acquire Agi.\nDeals light damage in a small area.\nInflicts Burn.
+61253	Upgrade to Agilao.\nDeals medium damage in a small area.\nInflicts Burn.
+61255	Upgrade to Agidyne.\nDeals heavy damage in a small area.\nInflicts Burn.
+61257	Acquire Maragi.\nDeals light damage in a medium area.\nInflicts Burn.
+61259	Upgrade to Maragion.\nDeals medium damage in a medium area.\nInflicts Burn.
+61261	Upgrade to Maragidyne.\nDeals heavy damage in a medium area.\nInflicts Burn.
+61263	Slightly increases damage of Agi skills.
+61265	Moderately increases damage of Agi skills.
+61267	Greatly increases damage of Agi skills.
+61269	Acquire Hellfire.\nDeals severe damage in a large area.\nInflicts Burn.
+61271	Summons a captive that approaches target then explodes. Can take another action.
+61273	Increases power and HP of Femme Fatale, extends range by {0} square.
+61275	Further increases power and HP of\nFemme Fatale.
+61295	Reduces SP cost of attack skills by half upon getting a One More.
+61301	Acquire Bufu.\nDeals light damage in a small area.\nInflicts Freeze.
+61303	Upgrade to Bufula.\nDeals medium damage in a small area.\nInflicts Freeze.
+61305	Upgrade to Bufudyne.\nDeals heavy damage in a small area.\nInflicts Freeze.
+61307	Acquire Mabufu.\nDeals light damage in a medium area.\nInflicts Freeze.
+61309	Upgrade to Mabufula.\nDeals medium damage in a medium area.\nInflicts Freeze.
+61311	Upgrade to Mabufudyne.\nDeals heavy damage in a medium area.\nInflicts Freeze.
+61313	Slightly increases damage of Bufu skills.
+61315	Moderately increases damage of Bufu skills.
+61317	Greatly increases damage of Bufu skills.
+61319	Acquire Crystal Bloom.\nDeals severe damage in a large area.\nInflicts Freeze.
+61321	Summons 2 decoy units.\nAllows additional following action.
+61323	Increases HP of decoys\nwhen using Like a Phantom.
+61325	Further increases HP of decoys\nwhen using Like a Phantom.
+61341	When Charge is active,\nRanged Attack increases by {0} square.
+61345	Chance to knock down target\nwhen shooting from high ground.
+61351	Acquire Frei.\nDeals light damage in a medium area.\nCreates a Vortex.
+61353	Upgrade to Freila.\nDeals medium damage in a medium area.\nCreates a Vortex.
+61355	Upgrade to Freidyne.\nDeals heavy damage in a medium area.\nCreates a Vortex.
+61357	Acquire Mafrei.\nDeals light damage in a large area.\nCreates a Vortex.
+61359	Upgrade to Mafreila.\nDeals medium damage in a large area.\nCreates a Vortex.
+61361	Upgrade to Mafreidyne.\nDeals heavy damage in a large area.\nCreates a Vortex.
+61363	Slightly increases damage of Frei skills.
+61365	Moderately increases damage of Frei skills.
+61367	Greatly increases damage of Frei skills.
+61369	Acquire Atomic Hollow.\nDeals severe damage in a huge area.\nCreates a Vortex.
+61371	Acquire Media.\nModerately recovers HP of all allies.
+61373	Upgrade to Mediarama.\nGreatly recovers HP of all allies.
+61377	Charge with Johanna and knock away all units in a straight line.
+61379	Increases power of Full Throttle and extends range by {0} squares.
+61381	Further increases power of Full Throttle.
+61395	When at max HP, Movement increases by {0} squares.
+61401	Acquire Psi.\nDeals light damage.\nHypnotizes target.
+61403	Upgrade to Psio.\nDeals medium damage.\nHypnotizes target.
+61405	Upgrade to Psiodyne.\nDeals heavy damage.\nHypnotizes target.
+61407	Acquire Mapsi.\nDeals light damage in a small area.\nHypnotizes targets.
+61409	Upgrade to Mapsio.\nDeals medium damage in a small area.\nHypnotizes targets.
+61411	Upgrade to Mapsiodyne.\nDeals heavy damage in a small area.\nHypnotizes targets.
+61413	Slightly increases damage of Psi skills.
+61415	Moderately increases damage of Psi skills.
+61417	Greatly increases damage of Psi skills.
+61419	Acquire Psycho Impact.\nDeals severe damage in a medium area.\nHypnotizes targets.
+61423	Hypnotizes surrounding units\nand draws them towards target.\nDeals light damage in a small area.
+61425	Increases power and range of\nNoble Lady's Invitation.
+61427	Further increases power of\nNoble Lady's Invitation.
+61441	When Charge is active,\nRanged Attack increases by {0} square.
+61445	When attacking multiple targets, HP and SP restores proportionally to the number of targets.
+61453	Chance of recovering HP of all allies\nduring battle.
+61455	Upgrade to Moral Boost.\nIncreases the amount of HP recovered.
+61457	Upgrade to Moral Boost+.\nFurther increases the amount of HP recovered.
+61459	Chance of restoring SP of all allies.\nSlightly raises Voltage.
+61461	Upgrade to Active Boost.\nIncreases restored SP and raises Voltage.
+61463	Upgrade to Active Boost+.\nFurther increases restored SP and raises Voltage.
+61465	Nullifies a fatal attack for an ally\nand fully recovers HP.\nOnly usable once.
+61501	Acquire Megido.\nDeals light damage in a large area.
+61503	Upgrade to Megidola.\nDeals medium damage in a large area.
+61505	Upgrade to Megidolaon.\nDeals heavy damage in a large area.
+61507	Slightly increases damage of Megido skills.
+61509	Moderately increases damage of Megido skills.
+61511	Greatly increases damage of Megido skills.
+61513	Acquire World's End.\nDeals severe damage in a huge area.
+61517	Acquire Truth Seeker.\nAllies gain an action but Voltage pauses.
+61521	Stalls Voltage for 3 turns. Targets unable to take action for 1 turn.
+61523	Stalls Voltage for 2 turns.
+61525	Stalls Voltage for 1 turn.
+61545	If shooting during a One More,\nswap positions with target once per turn.
+61551	Acquire Kouha.\nDeals light damage in a small area.\nInflicts Dizzy.
+61553	Upgrade to Kouga.\nDeals medium damage in a small area.\nInflicts Dizzy.
+61555	Upgrade to Kougaon.\nDeals heavy damage in a small area.\nInflicts Dizzy.
+61557	Acquire Makouha.\nDeals light damage in a medium area.\nInflicts Dizzy.
+61559	Upgrade to Makouga.\nDeals medium damage in a medium area.\nInflicts Dizzy.
+61561	Upgrade to Makougaon.\nDeals heavy damage in a medium area.\nInflicts Dizzy.
+61563	Slightly increases damage of Kouha skills.
+61565	Moderately increases damage of Kouha skills.
+61567	Greatly increases damage of Kouha skills.
+61569	Acquire Judgement of the Heavens.\nDeals severe damage in a large area.\nInflicts Dizzy.
+61573	Acquire Pathway to the Ball.\nGrants unlimited movement until you dash.
+61575	Paints occupied square allies' color\nafter turn ends.
+61601	Acquire Partisan.\nDeals light damage to target.\nInflicts Forget.
+61603	Upgrade to Great Partisan.\nDeals medium damage to target.\nInflicts Forget.
+61605	Upgrade to Ultimate Partisan.\nDeals heavy damage to target.\nInflicts Forget.
+61607	Acquire Shining Partisan.\nDeals light damage in a small area.\nInflicts Forget.
+61609	Upgrade to Great Shining Partisan.\nDeals medium damage in a small area.\nInflicts Forget.
+61611	Upgrade to Ultimate Shining Partisan.\nDeals heavy damage in a small area.\nInflicts Forget.
+61613	Slightly increases damage of Partisan skills.
+61615	Moderately increases damage of Partisan skills.
+61617	Greatly increases damage of Partisan skills.
+61619	Acquire Covenant of the Spear.\nDeals severe damage in a medium area.\nInflicts Forget.
+61621	Acquire Emergency Support. \nModerately recovers HP of target ally.
+61623	Increases HP recovery of Emergency Support.
+61627	Places flag that breaks Cover of nearby enemies and heals nearby allies at end of each turn.
+61629	Gain Cover status when standing within the range of Flag of Freedom.
+61631	Increases area of Flag of Freedom by 1 square.
+61645	Increases Movement by {0} square upon getting a One More.
+61651	Deals shooting damage to 1 target at no SP cost.
+61653	Deals medium damage in a medium area.
+61655	Conjures a crystal that heals surrounding allies. Can be knocked back with a melee attack.
+61657	Acquire Light of a Promise. Deals heavy damage in a large area.
+61659	Upon getting a One More, perform an All-Out Attack if other allies are able.
+61661	Greatly restores SP at end of each turn.
+61663	Toshiro is now capable of dashing, thanks to his Persona.
+61801	Acquire Rakukaja.\nRaises Defense of target ally.
+61803	Upgrade to Marakukaja.\nRaises Defense of all allies.
+61805	Acquire Sukukaja.\nRaises Movement of target ally.
+61807	Upgrade to Masukukaja.\nRaises Movement of all allies.
+61809	Acquire Diamrita.\nModerately recovers HP of\ntarget ally and cures ailments.
+61811	Acquire Attack Master.\nAutomatic Tarukaja at the start of battle.
+61813	Upgrade to Auto-Mataru.\nAutomatic Matarukaja at the start of battle.
+61815	Acquire Heat Riser.\nRaises Attack, Defense, and Movement of target ally.
+61817	Acquire Speed Master.\nAutomatic Sukukaja at the start of battle.
+61819	Upgrade to Auto-Masuku.\nAutomatic Masukukaja at the start of battle.
+61821	Upgrade to Diaramrita.\nGreatly recovers HP of\ntarget ally and cures ailments.
+62501	Shoots targets that enter area and stops action of any non-unique enemies. Activates 1 time.
+62502	Shoots targets that enter area and stops actions of any non-unique enemies. Activates 2 times.
+62503	HP automatically recovers when a nearby ally takes damage. Activates 1 time.
+62504	HP automatically recovers when a nearby ally takes damage. Activates 2 times.
+62505	Deals light damage in a small area.\nInflicts Despair.
+62506	Deals medium damage in a small area.\nInflicts Despair.
+62507	Deals heavy damage in a small area.\nInflicts Despair.
+62508	Deals light damage. Sweeps away target.
+62509	Deals medium damage. Sweeps away target.
+62510	Deals heavy damage. Sweeps away target.
+62511	Deals light damage. Inflicts Shock.
+62512	Deals medium damage. Inflicts Shock.
+62513	Deals heavy damage. Inflicts Shock.
+62514	Deals light damage in a small area.\nInflicts Burn.
+62515	Deals medium damage in a small area.\nInflicts Burn.
+62516	Deals heavy damage in a small area.\nInflicts Burn.
+62517	Deals light damage in a small area.\nInflicts Freeze.
+62518	Deals medium damage in a small area.\nInflicts Freeze.
+62519	Deals heavy damage in a small area.\nInflicts Freeze.
+62520	Deals light damage in a medium area.\nCreates a Vortex.
+62521	Deals medium damage in a medium area.\nCreates a Vortex.
+62522	Deals heavy damage in a medium area.\nCreates a Vortex.
+62523	Deals light damage. Hypnotizes target.
+62524	Deals medium damage. Hypnotizes target.
+62525	Deals heavy damage. Hypnotizes target.
+62526	Deals light damage in a small area.\nInflicts Dizzy.
+62527	Deals medium damage in a small area.\nInflicts Dizzy.
+62528	Deals heavy damage in a small area.\nInflicts Dizzy.
+62529	Deals light damage in a large area.
+62530	Deals medium damage in a large area.
+62531	Deals heavy damage in a large area.
+62532	Moderately recovers HP of target ally.
+62533	Moderately recovers HP of all allies.
+62534	Moderately recovers HP of target ally and\ncures ailments.
+62535	Raises Attack of target ally for 3 turns.
+62536	Raises Attack of all allies for 3 turns.
+62537	Raises Movement of target ally for 3 turns.
+62538	Raises Movement of all allies for 3 turns.
+62539	Raises Defense of target ally for 3 turns.
+62540	Raises Defense of all allies for 3 turns.
+62550	Increases Movement by {0} square.
+62551	Increases Ranged Attack by {0} square.
+62552	Increases knock back distance by {0} squares.
+62553	When Charge is active, knocks down targets with Ranged Attack.
+62554	Melee attacks will also hit units {0} square to the left and right of target.
+62555	Increases duration of support skills cast on allies by {0} turns.
+62556	Slightly recovers HP at end of each turn.
+62557	Moderately recovers HP at end of each turn.
+62558	Slightly restores SP at end of each turn.
+62559	Moderately restores SP at end of each turn.
+62560	User recovers {0}% HP when target is defeated.
+62561	User recovers {0}% HP when target is defeated.
+62562	User restores {0}% SP when target is defeated.
+62563	User restores {0}% SP when target is defeated.
+62564	Increases the amount of Voltage gained.
+62565	Reduces SP cost of One More actions by {0}%.
+62566	Automatic Tarukaja at start of battle.
+62567	Automatic Matarukaja at start of battle.
+62568	Automatic Sukukaja at start of battle.
+62569	Automatic Masukukaja at start of battle.
+62570	Automatic Rakukaja at start of battle.
+62571	Automatic Marakukaja at start of battle.
+62572	Prevents infliction of Shock.
+62573	Prevents infliction of Dizzy.
+62574	Prevents infliction of Forget.
+62575	Prevents infliction of Sweep.
+62576	Prevents infliction of Vortex.
+62577	Prevents infliction of Hypnosis.
+62578	Prevents infliction of Burn.
+62579	Prevents infliction of Despair.
+62580	Prevents infliction of Freeze.
+62581	Prevents infliction of Sleep.
+62582	Prevents infliction of any ailment.
+62583	Increases money gained at end of battle.
+62584	Increases EXP gained in battle.
+62585	Increases drop rate of rare Personas.
+62586	Increases Ranged Attack by {0} squares.
+62587	Increases knock back distance by {0} squares.
+62588	Greatly recovers HP at end of each turn.
+62589	Greatly restores SP at end of each turn.
+62590	User recovers {0}% HP when target is defeated.
+62591	User restores {0}% SP when target is defeated.
+62592	Greatly increases the amount of Voltage gained.
+62593	Reduces SP cost of One More actions by {0}%.
+62594	Greatly increases money gained at \nend of battle.
+62595	Greatly increases EXP gained in battle.
+62596	Automatic Heat Riser at start of battle.
+62597	Greatly restores HP and SP at end of each turn.
+62598	Recovers {0}% of HP/SP after defeating target.
+62600	Increases damage dealt when target is attacked\nfrom behind.
+62601	Increases damage dealt when HP is above {0}%.
+62602	Greatly increases damage dealt when HP is above {0}%.
+62603	Increases Attack when targeting 2 or more enemy units simultaneously.
+62604	Greatly increases Attack when targeting 3 or more enemy units simultaneously.
+62605	Increases damage dealt to targets in Cover.
+62606	Increases damage dealt to targets not in Cover.
+62607	Increases damage dealt to Downed targets.
+62608	Increases damage dealt to targets inflicted with\nan ailment.
+62609	Increases damage dealt when ally is in an\nadjacent square.
+62610	Increases damage dealt with each subsequent\nmelee attack.
+62611	Decreases damage received for rest of turn if attacked twice.
+62612	Decreases damage received when HP is\nless than {0}%.
+62613	Decreases damage received when ally is in an adjacent square.
+62614	Decreases damage received when inflicted with\nan ailment.
+62615	Decreases damage received from targets 4 or more squares away.
+62616	Increases damage dealt with each subsequent Ranged Attack.
+62617	Increases damage dealt with each subsequent\nskill attack.
+62618	Greatly increases damage dealt when target is attacked from behind.
+62619	Greatly increases damage dealt to targets in Cover.
+62620	Greatly increases damage dealt to targets not\nin Cover.
+62621	Greatly increases damage dealt to Downed targets.
+62622	Greatly increases damage dealt to targets inflicted with an ailment.
+62623	Greatly decreases damage received for rest of turn if attacked twice.
+62624	Greatly decreases damage received when HP is less than {0}%.
+62625	Greatly decreases damage received when ally is in an adjacent square.
+62626	Greatly decreases damage received when inflicted with an ailment.
+62627	Greatly decreases damage received from targets 4 or more squares away.
+62700	Automatically cures ailment on adjacent ally.\nActivates 1 time.
+62701	Automatically cures ailment on adjacent ally.\nActivates 2 times.
+62702	Deals light damage in a medium area.\nInflicts Despair.
+62703	Deals medium damage in a medium area.\nInflicts Despair.
+62704	Deals heavy damage in a medium area.\nInflicts Despair.
+62705	Deals light damage in a small area.\nSweeps away targets.
+62706	Deals medium damage in a small area.\nSweeps away targets.
+62707	Deals heavy damage in a small area.\nSweeps away targets.
+62708	Deals light damage in a small area.\nInflicts Shock.
+62709	Deals medium damage in a small area.\nInflicts Shock.
+62710	Deals heavy damage in a small area.\nInflicts Shock.
+62711	Deals light damage in a medium area.\nInflicts Burn.
+62712	Deals medium damage in a medium area.\nInflicts Burn.
+62713	Deals heavy damage in a medium area.\nInflicts Burn.
+62714	Deals light damage in a medium area.\nInflicts Freeze.
+62715	Deals medium damage in a medium area.\nInflicts Freeze.
+62716	Deals heavy damage in a medium area.\nInflicts Freeze.
+62717	Deals light damage in a large area.\nCreates a Vortex.
+62718	Deals medium damage in a large area.\nCreates a Vortex.
+62719	Deals heavy damage in a large area.\nCreates a Vortex.
+62720	Deals light damage in a small area.\nHypnotizes targets.
+62721	Deals medium damage in a small area.\nHypnotizes targets.
+62722	Deals heavy damage in a small area.\nHypnotizes targets.
+62723	Deals light damage in a medium area.\nInflicts Dizzy.
+62724	Deals medium damage in a medium area.\nInflicts Dizzy.
+62725	Deals heavy damage in a medium area.\nInflicts Dizzy.
+62726	Fully recovers HP of 1 ally.
+62727	Increases Attack, Defense, and Movement for 1 ally for 3 turns.
+62728	Fully recovers HP of all allies.
+62729	Greatly recovers HP of target ally and cures ailments.
+62730	Greatly recovers HP of target ally.
+62731	Greatly recovers HP of all allies.
+63001	Burned!
+63003	Frozen!
+63005	Swept away!
+63007	Driven to despair!
+63009	Shocked!
+63011	Pulled in!
+63013	Hypnotized!
+63015	Dizzied!
+63017	Forgot what to do!
+63019	Put to sleep!
+63021	Forgot what to do!
+63035	引き寄せバウンド
+63037	Reeled in!
+63039	Sent flying!
+63041	Sent flying!
+63047	Caught in the crosshairs!
+63051	カバーできない位置に吹き飛ばし
+63053	Put up a wall!
+63055	超爆発用行動不能
+63057	カバー外し
+63059	Became the fixed target!
+63061	Bound!
+63063	Feeling dizzy!
+63065	Endured the attack!
+63067	Caught in the crosshairs!
+65001	Deals light damage in a small area.\nInflicts Despair.
+65003	Deals medium damage in a small area.\nInflicts Despair.
+65005	Deals heavy damage in a small area.\nInflicts Despair.
+65007	Deals light damage in a medium area.\nInflicts Despair.
+65009	Deals medium damage in a medium area.\nInflicts Despair.
+65011	Deals heavy damage in a medium area.\nInflicts Despair.
+65013	Deals severe damage in a large area.\nInflicts Despair.
+65021	Deals light damage. Sweeps away target.
+65023	Deals medium damage. Sweeps away target.
+65025	Deals heavy damage. Sweeps away target.
+65027	Deals light damage in a small area.\nSweeps away targets.
+65029	Deals medium damage in a small area.\nSweeps away targets.
+65031	Deals heavy damage in a small area.\nSweeps away targets.
+65033	Deals severe damage in a medium area.\nSweeps away targets.
+65041	Deals light damage. Inflicts Shock.
+65043	Deals medium damage. Inflicts Shock.
+65045	Deals heavy damage. Inflicts Shock.
+65047	Deals light damage in a small area.\nInflicts Shock.
+65049	Deals medium damage in a small area.\nInflicts Shock.
+65051	Deals heavy damage in a small area.\nInflicts Shock.
+65053	Deals severe damage in a large area.\nInflicts Shock.
+65061	Deals light damage in a small area.\nInflicts Burn.
+65063	Deals medium damage in a small area.\nInflicts Burn.
+65065	Deals heavy damage in a small area.\nInflicts Burn.
+65067	Deals light damage in a medium area.\nInflicts Burn.
+65069	Deals medium damage in a medium area.\nInflicts Burn.
+65071	Deals heavy damage in a medium area.\nInflicts Burn.
+65073	Deals severe damage in a large area.\nInflicts Burn.
+65081	Deals light damage in a small area.\nInflicts Freeze.
+65083	Deals medium damage in a small area.\nInflicts Freeze.
+65085	Deals heavy damage in a small area.\nInflicts Freeze.
+65087	Deals light damage in a medium area.\nInflicts Freeze.
+65089	Deals medium damage in a medium area.\nInflicts Freeze.
+65091	Deals heavy damage in a medium area.\nInflicts Freeze.
+65093	Deals severe damage in a large area.\nInflicts Freeze.
+65101	Deals light damage in a medium area.\nCreates a Vortex.
+65103	Deals medium damage in a medium area.\nCreates a Vortex.
+65105	Deals heavy damage in a medium area.\nCreates a Vortex.
+65107	Deals light damage in a large area.\nCreates a Vortex.
+65109	Deals medium damage in a large area.\nCreates a Vortex.
+65111	Deals heavy damage in a large area.\nCreates a Vortex.
+65113	Deals severe damage in a huge area.\nCreates a Vortex.
+65121	Deals light damage. Hypnotizes target.
+65123	Deals medium damage. Hypnotizes target.
+65125	Deals heavy damage. Hypnotizes target.
+65127	Deals light damage in a small area.\nHypnotizes targets.
+65129	Deals medium damage in a small area.\nHypnotizes targets.
+65131	Deals heavy damage in a small area.\nHypnotizes targets.
+65133	Deals severe damage in a medium area.\nHypnotizes targets.
+65141	Deals light damage to target. Inflicts Forget.
+65143	Deals medium damage to target. Inflicts Forget.
+65145	Deals heavy damage to target. Inflicts Forget.
+65147	Deals light damage in a small area.\nInflicts Forget.
+65149	Deals medium damage in a small area.\nInflicts Forget.
+65151	Deals heavy damage in a small area.\nInflicts Forget.
+65153	Deals severe damage in a medium area.\nInflicts Forget.
+65161	Deals damage to 1 target at no SP cost.
+65163	Deals medium damage in a medium area.
+65165	Conjures a crystal that heals surrounding allies. Can be knocked back with a melee attack.
+65167	Deals heavy damage in a large area.
+65181	Deals light damage in a small area.\nInflicts Dizzy.
+65183	Deals medium damage in a small area.\nInflicts Dizzy.
+65185	Deals heavy damage in a small area.\nInflicts Dizzy.
+65187	Deals light damage in a medium area.\nInflicts Dizzy.
+65189	Deals medium damage in a medium area.\nInflicts Dizzy.
+65191	Deals heavy damage in a medium area.\nInflicts Dizzy.
+65193	Deals severe damage in a large area.\nInflicts Dizzy.
+65201	Deals light damage in a large area.
+65203	Deals medium damage in a large area.
+65205	Deals heavy damage in a large area.
+65207	Deals severe damage in a huge area.
+65301	Moderately recovers HP of target ally.
+65303	Greatly recovers HP of target ally.
+65305	Fully recovers HP of target ally.
+65311	Moderately recovers HP of all allies.
+65313	Greatly recovers HP of all allies.
+65315	Fully recovers HP of all allies.
+65321	Cures all ailments of target ally.
+65323	Moderately recovers HP of target ally and\ncures ailments.
+65325	Raises Attack, Defense, and Movement of target ally for 3 turns.
+65331	Raises Attack of target ally for 3 turns.
+65333	Raises Attack of all allies for 3 turns.
+65341	Raises Movement of target ally for 3 turns.
+65343	Raises Movement of all allies for 3 turns.
+65351	Raises Defense of target ally for 3 turns.
+65353	Raises Defense of all allies for 3 turns.
+65361	HP automatically recovers when a nearby ally takes damage. Activates 1 time.
+65363	HP automatically recovers when a nearby ally takes damage. Activates 2 times.
+65371	Automatically cures ailment on adjacent ally. Activates 1 time.
+65373	Automatically cures ailment on adjacent ally. Activates 2 times.
+65375	Greatly recovers HP of target ally and cures ailments.
+65401	Deals medium damage in a small area.\nDowns targets even if in Cover.
+65403	Deals heavy damage in a medium area.\nDowns targets even if in Cover.
+65405	Deals severe damage in a medium area.\nDowns targets even if in Cover.
+65421	Deals medium damage in a huge area.\nSweeps away targets.
+65423	Deals heavy damage in a massive area.\nSweeps away targets.
+65425	Deals severe damage in a massive area.\nSweeps away targets.
+65441	Deals medium damage in a straight line.\nInflicts Shock.
+65443	Deals heavy damage in a straight line.\nInflicts Shock.
+65445	Deals severe damage in a straight line.\nInflicts Shock.
+65461	Summons a unit to inflict medium damage to target. Allows additional following action.
+65463	Summons a unit to inflict heavy damage to target. Allows additional following action.
+65465	Summons a unit to inflict severe damage to target. Allows additional following action.
+65481	Summons 2 decoy units.\nAllows additional following action.
+65483	Summons 3 decoy units.\nAllows additional following action.
+65485	Summons 3 decoy units.\nAllows additional following action.
+65501	Deals medium damage in a straight line.\nKnocks away all targets.
+65503	Deals heavy damage in a straight line.\nKnocks away all targets.
+65505	Deals severe damage in a straight line.\nKnocks away all targets.
+65521	Hypnotizes surrounding units and draws them towards target. Deals light damage in small area.
+65523	Hypnotizes surrounding units and draws them towards target. Deals medium damage in small area.
+65525	Hypnotizes surrounding units and draws them towards target. Deals heavy damage in small area.
+65541	Places flag that breaks Cover of nearby enemies and heals nearby allies at end of each turn.
+65543	Places flag that breaks Cover of nearby enemies and heals nearby allies at end of each turn.
+65545	Places flag that breaks Cover of nearby enemies and heals nearby allies at end of each turn.
+65551	Moderately recovers HP of target ally.
+65553	Greatly recovers HP of target ally.
+65581	Unlimited range of Movement for current turn until dash is used. Can perform another action after use.
+65601	Stalls Voltage for 3 turns.\nTargets unable to take action for 1 turn.
+65607	Allies can take an additional action.\nAfter use, Voltage will not increase for 3 turns.
+65701	Shoots targets that enter area and stops action of any non-unique enemies. Activates 1 time.
+65703	Shoots targets that enter area and stops actions of any non-unique enemies. Activates 2 times.
+65801	Deals damage in small area when adjacent to target, or after a certain amount of turns have passed.
+66001	Deals damage to surrounding area.\nKnocks back targets.
+66003	Deals damage to target and knocks them back.
+66017	Deals light damage. Inflicts Shock.
+66019	Deals medium damage. Inflicts Shock.
+66021	Deals heavy damage. Inflicts Shock.
+66047	Moderately recovers HP of target.
+66049	Greatly recovers HP of target.
+66051	Massively recovers HP of target.
+66053	Massively recovers HP of target.
+66057	Raises Movement of target for 3 turns.
+66061	Ranged Attack, deals damage.
+66063	Throws nearby units. Deals damage if an ally is thrown.
+66065	Attacks targets nearby, deals damage.
+66067	Generates clones of user.
+66069	Attacks targets nearby, deals damage.
+66071	Swaps the positions of two targets.
+66073	Ranged Attack, deals damage.
+66075	Calls for reinforcements.
+66077	Calls for Hostile Husk
+66079	Calls for Hollow Hellion
+66081	Raises Attack for 3 turns.
+66083	Raises Movement for 3 turns.
+66085	Moderately recovers HP of user.
+66087	Greatly recovers HP of user.
+66089	Massively recovers HP of user.
+66101	Deals medium damage. Sweeps away target.
+66103	Deals heavy damage. Sweeps away target.
+66121	Deals damage to surrounding area.\nKnocks back targets.
+66123	Deals damage to nearby targets.
+66125	Swaps the positions of two targets.
+66701	Deals damage to surrounding area.\nKnocks back targets.
+66711	Deals damage to surrounding area.\nKnocks back targets.
+66721	Creates blocks around the stage that cover the ground in paint when destroyed.
+66723	Summons reinforcements.
+66725	Creates blocks around the stage and summons reinforcements.
+66727	Deals damage to surrounding area.\nKnocks back targets.
+66729	Deals damage to surrounding area.
+66749	カウントダウンの後、ユニットを戦闘不能に\nするブロックを生成する。
+67001	If HP falls below 50%, recovers some HP and increases damage of next attack.
+67015	With Charge active, reduces chance of user being targeted in battle.
+67017	With Charge active, reduces chance of all allies being targeted in battle.
+67021	Chance to knock down target unit when performing a melee attack.
+67027	未定
+67035	When Charge is active, increases Movement by\n{0} squares.
+67037	When Charge is active, increases user and nearby ally Movement by {0} squares.
+67041	When KO'd, automatically revive with 1HP.\nUsable once per battle.
+67047	未定
+67055	When Charge is active, the user has Cover status anywhere.
+67057	When Charge is active, the user and nearby allies have Cover status anywhere.
+67061	Reduces SP cost of attack skills by half upon getting a One More.
+67067	未定
+67075	When Charge is active, increases Persona skill range by {0} squares.
+67077	When Charge is active, greatly increases Persona\nskill range.
+67081	Chance to knock down target when shooting from high ground.
+67087	未定
+67095	When Charge is active, Ranged Attack increases by {0} square.
+67097	When Charge is active, extends user and nearby allies' ranged attack by {0} squares.
+67101	When at max HP, Movement increases by\n{0} squares.
+67107	未定
+67115	When Charge is active, doubles the knockback distance of melee attacks.
+67117	When Charge is active, doubles the knockback distance of all nearby ally melee attacks.
+67121	When attacking multiple targets, HP and SP restores proportionally to the number of targets.
+67127	未定
+67135	When Charge is active, Ranged Attack increases by {0} square.
+67141	Chance of recovering HP of all allies during battle.
+67143	Chance of recovering HP of all allies during battle.
+67145	Chance of recovering HP of all allies during battle.
+67149	Chance of restoring SP of all allies. Also raises Voltage.
+67151	Chance of restoring SP of all allies. Also raises Voltage.
+67153	Chance of restoring SP of all allies. Also raises Voltage.
+67157	Nullifies a fatal attack for an ally and fully recovers HP. Only usable once.
+67161	Increases Movement by {0} square upon getting a One More.
+67167	未定
+67177	Toshiro is now capable of dashing, thanks to his Persona.
+67187	Paints occupied square allies' color after turn ends.
+67195	未定
+67197	未定
+67201	If shooting during a One More, swap positions with target once per turn.
+67207	未定
+67215	未定
+67217	未定
+67219	Upon getting a One More, perform an All-Out Attack if all other allies are able.
+67301	Automatically shoots target that's fallen from high ground and is in range. Activates once.
+67303	Automatically shoots target that's fallen from high ground and is in range. Activates twice.
+67311	Slightly recovers HP for all allies after an All-Out Attack.
+67313	Moderately recovers HP for all allies after an All-Out Attack.
+67321	Slightly restores SP when user is in Cover.
+67323	Moderately restores SP when user is in Cover.
+67331	Further reduces damage when in Cover.
+67333	Increases Movement by {0} square after dashing.
+67335	When Charge is active, increases Movement by\n{0} squares.
+67337	Increases Skill range by {0} square.
+67339	Greatly reduces damage when in Cover.
+67361	When included as a member of the party,\nslightly raises max HP for all allies.
+67363	When included as a member of the party,\nmoderately raises max HP for all allies.
+67365	When included as a member of the party,\ngreatly raises max HP for all allies.
+67371	When included as a member of the party,\nslightly raises max SP for all allies.
+67373	When included as a member of the party,\nmoderately raises max SP for all allies.
+67375	When included as a member of the party,\ngreatly raises max SP for all allies.
+67381	When included as a member of the party,\nslightly raises Attack for all allies.
+67383	When included as a member of the party,\nmoderately raises Attack for all allies.
+67385	When included as a member of the party,\ngreatly raises Attack for all allies.
+67391	When included as a member of the party,\nslightly raises Ranged Attack for all allies.
+67393	When included as a member of the party,\nmoderately raises Ranged Attack for all allies.
+67395	When included as a member of the party,\ngreatly raises Ranged Attack for all allies.
+67401	Increases Movement by {0} square.
+67403	Increases Ranged Attack by {0} square.
+67405	Increases knockback distance by {0} squares.
+67407	When Charge is active, knocks down targets with Ranged Attack.
+67409	Melee attacks will also hit units {0} square \nto the left and right of target.
+67411	Increases duration of support skills cast on allies by {0} turns.
+67413	Slightly recovers HP at end of each turn.
+67415	Moderately recovers HP at end of each turn.
+67417	Slightly restores SP at end of each turn.
+67419	Moderately restores SP at end of each turn.
+67421	User recovers {0}% HP when target is defeated.
+67423	User recovers {0}% HP when target is defeated.
+67425	User restores {0}% SP when target is defeated.
+67427	User restores {0}% SP when target is defeated.
+67429	Increases the amount of\nVoltage gained.
+67431	Reduces SP cost of One More actions by {0}%.
+67433	Automatic Tarukaja at start of battle.
+67435	Automatic Matarukaja at start of battle.
+67437	Automatic Sukukaja at start of battle.
+67439	Automatic Masukukaja at start of battle.
+67441	Automatic Rakukaja at start of battle.
+67443	Automatic Marakukaja at start of battle.
+67445	Prevents infliction of Shock.
+67447	Prevents infliction of Dizzy.
+67449	Prevents infliction of Forget.
+67451	Prevents infliction of Sweep.
+67453	Prevents infliction of Vortex.
+67455	Prevents infliction of Hypnosis.
+67457	Prevents infliction of Burn.
+67459	Prevents infliction of Despair.
+67461	Prevents infliction of Freeze.
+67463	Prevents infliction of Sleep.
+67465	Prevents infliction of any ailment.
+67467	Increases money gained at end of battle.
+67469	Increases EXP gained in battle.
+67471	Increases drop rate of rare Personas.
+67473	Increases Ranged Attack by {0} squares.
+67475	Increases knockback distance by {0} squares.
+67477	Greatly recovers HP at end of each turn.
+67479	Greatly restores SP at end of each turn.
+67481	User recovers {0}% HP when target is defeated.
+67483	User restores {0}% SP when target is defeated.
+67485	Greatly increases the amount of Voltage gained.
+67487	Reduces SP cost of One More actions by {0}%.
+67489	Greatly increases money gained at end of battle.
+67491	Greatly increases EXP gained in battle.
+67493	Automatic Heat Riser at start of battle.
+67501	Increases damage dealt when target is attacked\nfrom behind.
+67503	Increases damage dealt when HP is above {0}%.
+67505	Greatly increases damage dealt when HP is above {0}%.
+67507	Increases Attack when targeting 2 or more enemy units simultaneously.
+67509	Greatly increases Attack when targeting 3 or more enemy units simultaneously.
+67511	Increases damage dealt to targets in Cover.
+67513	Increases damage dealt to targets not in Cover.
+67515	Increases damage dealt to Downed targets.
+67517	Increases damage dealt to targets inflicted with\nan ailment.
+67519	Increases damage dealt when ally is in an\nadjacent square.
+67521	Increases damage dealt with each subsequent\nmelee attack.
+67523	Decreases damage received for rest of turn if attacked twice.
+67525	Decreases damage received when HP is\nless than {0}%.
+67527	Decreases damage received when ally is in an adjacent square.
+67529	Decreases damage received when inflicted with\nan ailment.
+67531	Decreases damage received from targets \n4 or more squares away.
+67533	Increases damage dealt with each subsequent Ranged Attack.
+67535	Increases damage dealt with each subsequent\nskill attack.
+67537	Greatly increases damage dealt when target is attacked from behind.
+67539	Greatly increases damage dealt to targets in Cover.
+67541	Greatly increases damage dealt to targets not\nin Cover.
+67543	Greatly increases damage dealt to Downed targets.
+67545	Greatly increases damage dealt to targets \ninflicted with an ailment.
+67547	Greatly decreases damage received for rest of turn if attacked twice.
+67549	Greatly decreases damage received when HP is less than {0}%.
+67551	Greatly decreases damage received when ally is in an adjacent square.
+67553	Greatly decreases damage received when inflicted with an ailment.
+67555	Greatly decreases damage received from targets 4 or more squares away.
+67557	Greatly restores HP and SP at end of each turn.
+67559	Recovers {0}% of HP/SP after defeating target.
+67601	When Charge is active, increases Movement by\n1 square.
+67603	When Charge is active, knocks down targets with Ranged Attack.
+67605	When Charge is active, increases knock back range of melee attacks.
+67607	When Charge is active, increases Attack Skill effect range by {0} square.
+67609	When Charge is active, Ranged Attack increases by {0} squares.
+67611	When Charge is active, raises Attack.
+67701	Slightly increases damage of Eiha skills.
+67703	Moderately increases damage of Eiha skills.
+67705	Greatly increases damage of Eiha skills.
+67707	Slightly increases damage of Zio skills.
+67709	Moderately increases damage of Zio skills.
+67711	Greatly increases damage of Zio skills.
+67713	Slightly increases damage of Garu skills.
+67715	Moderately increases damage of Garu skills.
+67717	Greatly increases damage of Garu skills.
+67719	Slightly increases damage of Agi skills.
+67721	Moderately increases damage of Agi skills.
+67723	Greatly increases damage of Agi skills.
+67725	Slightly increases damage of Bufu skills.
+67727	Moderately increases damage of Bufu skills.
+67729	Greatly increases damage of Bufu skills.
+67731	Slightly increases damage of Frei skills.
+67733	Moderately increases damage of Frei skills.
+67735	Greatly increases damage of Frei skills.
+67737	Slightly increases damage of Psi skills.
+67739	Moderately increases damage of Psi skills.
+67741	Greatly increases damage of Psi skills.
+67743	Slightly increases damage of Megido skills.
+67745	Moderately increases damage of Megido skills.
+67747	Greatly increases damage of Megido skills.
+67749	Slightly increases damage of Kouha skills.
+67751	Moderately increases damage of Kouha skills.
+67753	Greatly increases damage of Kouha skills.
+67755	Slightly increases damage of Partisan skills.
+67757	Moderately increases damage of Partisan skills.
+67759	Greatly increases damage of Partisan skills.
+67801	Performs counter attack.
+67803	Performs counter attack once per turn.\nInflicts Down if attacked again.
+67805	Raises next Attack when user takes damage.
+67807	Heals targets surrounding user.
+67809	Nullifies knock back and attacks received from the front. Turns towards attacking target.
+67811	Nullifies Ranged Attacks received from the front.
+67813	Nullifies ranged and melee attacks received from\nthe front.
+67815	Nullifies skill attacks received from the front.
+67817	Nullifies Down and halves knock back range,\nbut falling from a height will KO.
+67819	Ignores terrain when moving.
+67821	Ignores terrain when moving.
+67823	Swaps position with attacking target.
+67825	Always has Resist status, and will not go down when attacked.
+67851	Performs counter attack once per turn.\nInflicts Down if attacked again.
+67853	Ignores terrain when moving.
+67855	Swaps position with attacking target.
+67931	Calls for reinforcements when passing through a camera's observation area.
+67933	Deals damage to target when passing through a camera's observation area.
+67935	If Down not inflicted, reduces damage taken.
+67971	Allows free Movement on own team's paint.
+67973	Performs counter attack on targets in range.
+67951	Charges at attacking target and deals damage.
+67953	Paints squares when moving, as well as {0}\nadjacent square.
+67961	Paints squares when moving.
+67963	Warps away from target when recovering from being Downed.
