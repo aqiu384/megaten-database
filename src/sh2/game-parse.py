@@ -93,7 +93,7 @@ if 'baseLanguageConfig' in CONFIG:
     with open(CONFIG['outputPath'], 'w+', encoding='utf8') as tsvfile:
         tsvfile.write(f"{ID_NAME}\t{'\t'.join(CONFIG['languages'])}\n")
         for row_id, row_data in table.items():
-            tsvfile.write(f"{row_id}\t{'\t'.join(x.replace('\n', '\\n').replace('"', "''") for x in row_data)}\n")
+            tsvfile.write(f"{row_id}\t{'\t'.join(str(x).replace('\n', '\\n').replace('"', "''") for x in row_data)}\n")
 else:
     table = load_data_table(CONFIG)
     with open(CONFIG['outputPath'], 'w+', encoding='utf8') as tsvfile:

@@ -1,0 +1,31 @@
+local skill = {
+{% for skill in skills -%}
+["{{ skill['id'] }}"] = {
+	attribute = "{{ skill['attribute'] }}",
+	{% if skill['costtype'] != '-' -%}
+	cost = {{ skill['cost'] }},
+	costtype = "{{ skill['costtype'] }}",
+	target = "{{ skill['target'] }}",
+	{% else -%}
+	cost = "—",
+	{% endif -%}
+	{% if skill['damagetype'] != '-' -%}
+	damagetype = "{{ skill['damagetype'] }}",
+	hit = {{ skill['hit'] }},
+	power = {{ skill['power'] }},
+	acc = {{ skill['acc'] }},
+	{% endif -%}
+	{% if skill['crit'] > 0 -%}
+	crit = {{ skill['crit'] }},
+	{% endif -%}
+	inbattle = "{{ skill['inbattle'] }}",
+	outbattle = "{{ skill['outbattle'] }}",
+	description = "{{ skill['description'] }}",
+	name = "{{ skill['name'] }}",
+},
+{% endfor -%}
+}
+
+return {
+	skill = skill,
+}

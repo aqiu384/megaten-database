@@ -1,0 +1,37 @@
+==={{ '{{' }}Link|Game|SH2}}===
+{{ '{{' }}SH2 Ally Demon Stats
+|race={{ demon.race }}
+|level={{ demon.lvl|int }}
+|cost={{ demon.price }}
+|speech={{ demon.speech }}
+{% for stat in ['str', 'int', 'vit', 'agi', 'luk'] -%}
+|{{ stat }}={{ demon.stats[loop.index0] }}
+{% endfor -%}
+{% for stat in ['str', 'int', 'vit', 'agi', 'luk'] -%}
+|{{ stat }}grow={{ (demon.steps[loop.index0] * 100)|int }}
+{% endfor -%}
+{% for gift_type, gift_weight in demon.drops.items() -%}
+|gifttype{{ loop.index0 + 1 }}={{ gift_type }}
+|giftweight{{ loop.index0 + 1 }}={{ gift_weight }}
+{% endfor -%}
+{% for elem in ['physical', 'gunfire', 'fire', 'ice', 'electricity', 'force', 'ruin'] -%}
+{% set resist_type = demon.resists[loop.index0]|resist_type_format -%}
+{% if resist_type != '-' -%}
+|{{ elem }}={{ resist_type }}
+{% endif -%}
+{% endfor -%}
+{% for elem in ['phys', 'gun', 'fire', 'ice', 'elec', 'force', 'ruin'] -%}
+{% set resist_frac = demon.resists[loop.index0]|resist_frac_format -%}
+{% if resist_frac != 100 -%}
+|{{ elem }}frac={{ resist_frac / 100 }}
+{% endif -%}
+{% endfor -%}
+{% for elem in ['physical', 'gunfire', 'fire', 'ice', 'electricity', 'force', 'ruin', 'almighty', 'recovery', 'tandem'] -%}
+{% if demon.inherits[loop.index0] == '-' -%}
+|inherit{{ elem }}=N
+{% endif -%}
+{% endfor -%}
+|skills={% for skill_name, skill_lvl in demon.skills.items() -%}
+{{ '{{' }}Skill|SH2|{{ skill_name }}|{{ skill_lvl|skill_lvl_format }}}}
+{% endfor -%}
+}}

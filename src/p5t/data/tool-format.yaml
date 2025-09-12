@@ -1,3 +1,62 @@
+demonData:
+  inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/persona_ore_combined.tsv
+  outputPath: data/demon-data.json
+  language: 'EN'
+  lookupFiles:
+    demonNames:
+      filename: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/lang/database/word_database_demons.tsv
+      key: id
+      language: en
+    skillNames:
+      filename: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/lang/database/word_database_skills.tsv
+      key: id
+      language: en
+  nullChecks: {}
+  colFormat:
+    NameWordKey:
+      rename: name
+      type: lookupFile
+      lookupFile: demonNames
+    AttributeWordKey:
+      rename: race
+      type: lookup
+      lookup:
+        Burn: 63000
+        Freeze: 63002
+        Sweep: 63004
+        Despair: 63006
+        Shock: 63008
+        Vortex: 63010
+        Hypno: 63012
+        Dizzy: 63014
+        Sleep: 63018
+        Forget: 63020
+    InitLv:
+      rename: lvl
+      type: integer
+    Worth:
+      rename: priceMod
+      type: integer
+    InitHp:
+      type: integer
+    InitSp:
+      type: integer
+    InitSword:
+      type: integer
+    InitGun:
+      type: integer
+    AddHp:
+      type: float
+    AddSp:
+      type: float
+    AddSword:
+      type: float
+    AddGun:
+      type: float
+    SkillNameWordKey:
+      rename: skill
+      type: lookupFile
+      lookupFile: skillNames
 skillData:
   inputPath: data/_Dev/ResourcesBuild/AllPlatforms/1_0_0/database/skilldatabase.tsv
   outputPath: data/skill-data.json

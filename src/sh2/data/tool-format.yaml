@@ -1,3 +1,123 @@
+demonData:
+  importData: ../../../megaten-fusion-tool/src/app/sh2/data/demon-data.json
+  inputPath: data/table/commontable/tmp/NakamaTable.tsv
+  outputPath: data/demon-data.json
+  lookupFiles:
+    demonNames:
+      filename: data/message/_so/lang/common/NakamaName.tsv
+      key: id
+      language: en
+      remappedUniqueIds: {}
+    raceNames:
+      filename: data/message/_so/lang/common/RaceName.tsv
+      key: id
+      language: en
+    inheritNames:
+      filename: data/table/commontable/tmp/SkillInheritMerged.tsv
+      key: id
+      language: en
+    skillNames:
+      filename: data/message/_so/lang/common/skill/SkillName.tsv
+      key: id
+      language: en
+      remappedUniqueIds:
+        Overlord: Overlord B
+        Overlord B: Overlord
+  nullChecks: {}
+  colFormat:
+    nameLabel:
+      rename: name
+      type: lookupFile
+      lookupFile: demonNames
+    race:
+      type: lookupFile
+      lookupFile: raceNames
+    baseLV:
+      rename: lvl
+      type: integer
+    DevilTone:
+      rename: speech
+      type: lookup
+      lookup:
+        Boy: 1
+        Youth: 2
+        Gentle: 3
+        Great: 4
+        Elder: 5
+        Girl: 6
+        Gyaru: 7
+        Lady: 8
+        Queen: 9
+        Beast: 10
+        Hee-Ho: 11
+        Gain: 12
+        Mad: 13
+        Professional: 14
+        Elder Beast: 15
+        Doppelganger: 16
+        Nemissa: 17
+    m_InheritType:
+      rename: inherits
+      type: lookupFile
+      lookupFile: inheritNames
+    drops:
+      type: skillLookup
+      skillOffset: 0
+      skillLookupFormat: '{}'
+      skillTypeFormat: ManaChangeType{}
+      skillLvlFormat: ManaChangeWeight{}
+      skillElems: ['1', '2', '3', '4']
+      lookup:
+        Fire: 0
+        Fire Rare: 1
+        Ice: 2
+        Ice Rare: 3
+        Elec: 4
+        Elec Rare: 5
+        Force: 6
+        Force Rare: 7
+        Curse: 8
+        Almighty: 10
+        Almighty Rare: 11
+        Recovery: 12
+        Support: 14
+        Item: 16
+        Mana Item: 17
+        Oberon: 18
+        Titania: 19
+        Sandalphon: 20
+        Archangel: 21
+        Koropokkur: 22
+        Baphomet: 23
+        Succubus: 24
+    stats:
+      type: integerList
+      keys: ['baseStr', 'baseInt', 'baseVit', 'baseAgi', 'baseLuk']
+    steps:
+      type: floatList
+      keys: ['growthStr', 'growthInt', 'growthVit', 'growthAgi', 'growthLuk']
+    resists:
+      type: resistList
+      resistTypeFormat: EW_{}_WeakType
+      resistLvlFormat: EW_{}_EndureValue
+      resistElems: ['Physical', 'Gun', 'Fire', 'Ice', 'Thunder', 'Wind', 'Bst', 'All']
+      lookup:
+        '?': 0
+        d: 100
+        r: 1100
+        n: 2000
+        s: 3050
+        '-': 4100
+        w: 5150
+    skills:
+      type: skillLookupFile
+      lookupFile: skillNames
+      skillOffset: -1000
+      skillLookupFormat: SKILLNAME_COM_{:03}
+      skillTypeFormat: Skill{}_Id
+      skillLvlFormat: LearnLv0{}
+      skillElems: ['1', '2', '3', '4', '5', '6']
+      lookupFile: skillNames
 skillData:
   inputPath: data/table/commontable/tmp/SkillTable.tsv
   outputPath: data/skill-data.json
