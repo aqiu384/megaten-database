@@ -553,6 +553,18 @@ Lovers:
     - 1. It had grace. +5
     - Any
     - Any
+  Rank 5.0:
+    Next Rank: 35
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Opportunity for Lovers Hangout Harajuku
+    Choices:
+    - 1. Maybe. +0
+    - 1. You're outmatched. +0
+    - 2. She'd be a great phantom thief. +0
+    - Any
+    - Any
   Rank 6:
     Next Rank: 45
     Choices:
