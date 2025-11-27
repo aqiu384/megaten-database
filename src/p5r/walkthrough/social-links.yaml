@@ -1,0 +1,2200 @@
+Fool:
+  Rank 1 - Auto:
+    Requires:
+    - Available 4/12
+  Rank 2 - Auto:
+    Requires:
+    - Non-scripted Castle Palace infiltration
+  Rank 3 - Auto:
+    Requires:
+    - Available 5/5
+  Rank 4 - Auto:
+    Requires:
+    - Museum Palace cleared
+  Rank 5 - Auto:
+    Requires:
+    - Available 6/11
+  Rank 6 - Auto:
+    Requires:
+    - Bank Palace cleared
+  Rank 7 - Auto:
+    Requires:
+    - Available 8/22
+  Rank 8 - Auto:
+    Requires:
+    - Available 8/31
+  Rank 9 - Auto:
+    Requires:
+    - Available 10/11
+  Rank 10 - Auto:
+    Requires:
+    - Available 12/24
+    - Good End or better
+Magician:
+  Rank 1 - Auto:
+    Requires:
+    - Available 4/15
+  Rank 2 - Auto:
+    Requires:
+    - Castle Palace cleared
+  Rank 3 - Auto:
+    Requires:
+    - Museum Palace cleared
+  Rank 4 - Auto:
+    Requires:
+    - Available 6/20
+  Rank 5 - Auto:
+    Requires:
+    - Bank Palace cleared
+  Rank 6 - Auto:
+    Requires:
+    - Available 7/25
+  Rank 7 - Auto:
+    Requires:
+    - Available 8/29
+  Rank 8 - Auto:
+    Requires:
+    - Available 9/17
+  Rank 9 - Auto:
+    Requires:
+    - Spaceport Palace cleared
+  Rank 10 - Auto:
+    Requires:
+    - Available 12/23
+  Rank 11 - Auto:
+    Requires:
+    - Available 1/10
+Priestess:
+  Rank 1:
+    Requires:
+    - Bank Palace cleared
+    - Knowledge Lv. 3
+  Rank 2:
+    Next Rank: 1
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 1. You're very well informed. +5
+    - 2. That was dangerous. +10
+    - Any
+    - Phone 1. Couldn't agree more. +5
+  Rank 3:
+    Next Rank: 15
+    Choices:
+    - 1. You have the wrong idea. +5
+    - 2. You can change. +10
+    - Phone 1. Sounds like you two get along. +5
+  Rank 4:
+    Next Rank: 20
+    Choices:
+    - 1. That's unlike you. +5
+    - Any
+    - Any
+    - 1. Why do you use it? +10
+    - 3. It's an amazing goal. +10
+  Rank 5:
+    Next Rank: 20
+    Choices:
+    - 3. He sounds suspicious. +10
+    - 1. I got this. +10
+    - Phone 3. Try to reach out to her. +5
+  Rank 6:
+    Next Rank: 20
+    Requires:
+    - Charm Lv. 5
+    Choices:
+    - 3. Love comes in many forms. +10
+    - Any
+    - Any
+    - Phone 1. Tell him you're on a date. +5
+  Rank 7:
+    Next Rank: 30
+    Choices:
+    - Any
+    - Any
+    - Any
+    - 3. He was a noble man. +15
+    - 2. I'm sure he was happy. +15
+    - 2. You can figure that out now. +5
+    - 1. I'm game if you are. +5
+    - Phone 1. Of course. +5
+  Rank 8:
+    Next Rank: 20
+    Choices:
+    - 1. He says that to all his girls. +5
+    - 1. Absolutely. +10
+  Rank 9 - Platonic:
+    Next Rank: 55
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 2. Your fight's with me. +10
+    - 1. We should get out of here. +5
+    - 2. That was the right move. +5
+    - 1. I'm a regular here. +15
+    - 1. You'll find someone someday. +10
+    - Phone 1. No problem at all. +5
+  Rank 9 - Romantic:
+    Next Rank: 55
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 2. Your fight's with me. +10
+    - 1. We should get out of here. +5
+    - 2. That was the right move. +5
+    - 1. I'm a regular here. +15
+    - 2. I'll be your study partner. +0
+    - 1. I do. +15
+    - Phone 1. I'd do anything for you. +5
+  Rank 10:
+  Rank 11:
+    Requires:
+    - Available 1/13
+  Invite Study Daytime 7/12:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. I think I can do it. +5
+  Invite Movies 7/28:
+    Unlocks:
+    - Guts +5
+    Choices:
+    - 1. Not at all. +10
+  Invite Ikebukuro 7/30:
+    Requires:
+    - Pyramid Palace cleared
+    - Emperor Rank 1
+    Unlocks:
+    - Ikebukuro Location
+    Choices:
+    - Any
+    - Any
+    - Any
+    - Any
+    - 1. That helps. (Emperor) +10
+    - 1. Exactly. +10
+  Invite Jinbocho 8/15:
+    Requires:
+    - Pyramid Palace cleared
+    - Star Rank 1
+    Unlocks:
+    - Jinbocho Location
+    Choices:
+    - 1. Let's get cracking. +5
+    - Any
+    - 1. Wow, this is useful information. (Priestess, Star) +10
+  Invite Hawaii 9/10:
+    Requires:
+    - Priestess Rank 5
+  Invite Study Daytime 10/14:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. Good, I think. +5
+  Invite Afterparty 10/26:
+    Requires:
+    - Priestess Rank 9
+  Hangout Suidobashi:
+    Unlocks:
+    - Gi-Nyant Doll Decoration
+    Choices:
+    - 3. Let's go ride something. +15
+  Hangout Chinatown:
+    Requires:
+    - Sunday or Holiday
+    Unlocks:
+    - Shumai Cushion Decoration
+    Choices:
+    - 3. Spring rolls? +15
+    - 2. Let's find some. +10
+Empress:
+  Rank 1:
+  Rank 2:
+    Next Rank: 1
+    Choices:
+    - 3. Are you starting a farm? +15
+    - 3. He sounds suspicious. +5
+    - 1. This is a complex issue. +10
+    - Phone 3. Jewel Melon. +10
+  Rank 3:
+    Next Rank: 14
+    Choices:
+    - 3. It'll be okay, I promise. +10
+    - 1. I don't want to go with you. +5
+    - 2. Not yet. +10
+    - Phone 1. Smart response. +5
+  Rank 4:
+    Next Rank: 28
+    Requires:
+    - Proficiency Lv. 5
+    Choices:
+    - 3. It must be amazing. +10
+    - 3. Cheers. +15
+    - 2. I can taste the elephant. +15
+    - 3. Let's ask him. +5
+    - 3. I'm not really sure. +5
+    - Phone 3. Let's get coffee again sometime. +5
+  Rank 5:
+    Next Rank: 15
+    Choices:
+    - 2. Somebody's telling the truth. +10
+    - 3. There has to be another way. +5
+    - 3. I don't think so. +10
+    - Phone 3. Pinch yourself. +5
+  Rank 6:
+    Next Rank: 20
+    Choices:
+    - 3. Can you make some for me? +10
+    - 1. I had no idea. +5
+    - 3. Black like coffee? +15
+    - Any
+    - 2. Be strong, Haru. +15
+    - Phone 1. You can talk to me anytime. +5
+  Rank 7:
+    Next Rank: 40
+    Choices:
+    - Any
+    - 3. What do you want to do? +10
+    - 3. You should tell him that. +15
+    - 2. You can do it, Haru. +15
+    - Phone 2. I'll always have your back. +5
+  Rank 8:
+    Next Rank: 22
+    Choices:
+    - 1. The soil? +10
+    - 2. He's going to love it. +15
+    - 2. You're amazing, Haru. +15
+    - Phone 3. I want some too. +5
+  Rank 9 - Platonic:
+    Next Rank: 20
+    Choices:
+    - Any
+    - 3. Give it all you've got, Haru. +15
+    - 2. You did amazing. +15
+    - 1. He saw us as good friends. +0
+    - Phone 2. You sound happy. +5
+  Rank 9 - Romantic:
+    Next Rank: 20
+    Choices:
+    - Any
+    - 3. Give it all you've got, Haru. +15
+    - 2. You did amazing. +15
+    - 2. I like you too, Haru. +0
+    - Phone 2. I wanted to hear your voice. +5
+  Rank 10:
+  Rank 11:
+    Requires:
+    - Available 1/13
+  Invite Asakusa 11/6:
+    Requires:
+    - Devil Rank 1
+    Unlocks:
+    - Kumade Decoration
+    Choices:
+    - 2. It was fun. +10
+    - Any
+    - Any
+    - 2. There's nothing to fear. (Devil +2)
+  Invite Movies 11/13:
+    Unlocks:
+    - Guts +5
+    Choices:
+    - 2. I like them a lot. +10
+  Hangout Tsukishima:
+    Unlocks:
+    - Giant Spatula Decoration
+    Choices:
+    - 1. We'll try together. +15
+Emperor:
+  Rank 1:
+  Rank 2:
+    Next Rank: 1
+    Choices:
+    - 2. It's enigmatic. +5
+    - 1. I can't wait. +15
+    - Phone 1. You're already doing enough. +5
+  Rank 3:
+    Next Rank: 25
+    Unlocks:
+    - Ueno Location
+    Choices:
+    - 3. Don't let it bother you. +5
+    - Any
+    - 2. This isn't like you. +15
+    - 2. That's the spirit. +5
+    - Phone 1. That's the spirit. +5
+  Rank 4:
+    Next Rank: 15
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 3. I should bring a girl here. +5
+    - 1. Love comes in all forms. +10
+    - Phone 1. Don't get discouraged. +5
+  Rank 5:
+    Next Rank: 25
+    - 3. Do you want me to strip? +15
+    - 1. I'm sure you will. +10
+    - Phone 3. There's still hope. +5
+  Rank 6:
+    Next Rank: 20
+    Requires:
+    - Proficiency Lv. 4
+    - Cannot be raining
+    Choices:
+    - 1. It feels nostalgic. +5
+    - Any
+    - Any
+    - 3. I couldn't possibly tell you. +15
+    - Phone 1. He had a certain dignity. +5
+  Rank 7:
+    Next Rank: 26
+    Choices:
+    - Any
+    - 2. What do you mean? +5
+    - 1. The truth is within you. +15
+    - Phone 1. Calm down. +5
+  Rank 8:
+    Next Rank: 22
+    - 3. It has to be Ann. +5
+    - 3. You've really grown, Yusuke. +10
+  Rank 9:
+    Next Rank: 35
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 1. Her love for her son. +15
+    - 1. You've really changed, Yusuke. +15
+  Rank 10:
+  Rank 11:
+    Requires:
+    - Available 1/13
+  Invite Leblanc 7/27:
+    Unlocks:
+    - Charm +5
+    Choices:
+    - 3. A bit of everything! +10
+  Invite Leblanc 8/1:
+    Unlocks:
+    - Charm +5
+    Choices:
+    - 3. Just take your clothes off. +10
+  Invite Leblanc 8/4:
+    Unlocks:
+    - Charm +5
+    Choices:
+    - 1. Let's go. +10
+  Invite Movies 8/5:
+    Unlocks:
+    - Kindness +5
+    Choices:
+    - 1. I don't mind. +10
+  Invite Leblanc 8/8:
+    Requires:
+    - DVD Player
+    Unlocks:
+    - Charm +5
+    Choices:
+    - 1. If I can find a good deal. +15
+  Invite Leblanc 8/11:
+    Requires:
+    - DVD Player
+    Unlocks:
+    - Charm +5
+    Choices:
+    - 1. There's no way. +10
+  Invite Study Daytime 10/15:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. Absolutely. +5
+  Hangout Ueno:
+    Unlocks:
+    - Nude Statue Decoration
+    Choices:
+    - 1. Despite all the noise? +15
+  Hangout Ikebukuro:
+    Unlocks:
+    - Star Stickers Decoration
+    Choices:
+    - 2. I'm glad you're better now. +10
+  Hangout Meiji-Shrine:
+    Unlocks:
+    - Hamaya Decoration
+    Choices:
+    - 3. Boatloads of money. +10
+Hierophant:
+  Rank 1:
+  Rank 2:
+    Next Rank: 30
+    Unlocks:
+    - Kindness +3
+    Choices:
+    - 1. Making coffee. +5
+    - 2. That guy seemed suspicious. +5
+    - 1. I want the ladies to love me. +5
+    - Phone 1. Got it. +5
+  Rank 3:
+    Next Rank: 40
+    Requires:
+    - Brewing coffee once
+    Choices:
+    - 1. Medium-fine. +5
+    - 2. Is it trouble? +5
+    - Phone 3. Thank you in advance. +5
+  Rank 4:
+    Next Rank: 43
+    Unlocks:
+    - Kindness +3
+    Choices:
+    - 1. Tell me more. +10
+    - 2. Call Sojiro's phone. +10
+    - Phone 1. Understood. +5
+  Rank 5:
+    Next Rank: 20
+    Requires:
+    - Available 8/22
+    Unlocks:
+    - Kindness +3
+    Choices:
+    - 3. I think I'm addicted! +10
+    - 2. She wasn't normal, huh? +10
+    - 1. It really paid off in the end. +5
+    - Phone 2. She needs a balanced diet. +5
+  Rank 6:
+    Next Rank: 20
+    Unlocks:
+    - Kindness +5
+    Choices:
+    - 3. To each his own. +5
+    - 3. Shut your mouth. +10
+    - 1. Saving Futaba was no mistake. +5
+    - Phone 3. If I can help somehow... +5
+  Rank 7:
+    Next Rank: 14
+    Unlocks:
+    - Kindness +3
+    Requires:
+    - Kindness Lv. 5
+    Choices:
+    - 1. You might be right. +5
+    - Any
+    - Any
+    - Phone 3. Feel like a real dad now? +5
+  Rank 8:
+    Next Rank: 1
+    Choices:
+    - 2. Something with curry. +10
+    - 2. I was just protecting Futaba. +5
+  Rank 8.1:
+    Next Rank: 1
+    Requires:
+    - Hermit Daytime Hangout Slot
+    - Soloing The Money-grubbing Uncle Request
+  Rank 9:
+    Next Rank: 40
+    Requires:
+    - The Money-grubbing Uncle Request cleared
+    Choices:
+    - 1. It's great. +10
+    - 2. You have a great daughter. +15
+    - Phone 2. Futaba did great. +5
+  Rank 10:
+Lovers:
+  Rank 1 - Auto:
+    Requires:
+    - Available 4/15
+  Rank 2:
+    Next Rank: 35
+    Requires:
+    - Available 5/6
+    - Kindness Lv. 2
+    Choices:
+    - 2. She's so strong. +15
+    - 2. You might be right. +10
+    - 2. I couldn't just ignore you. +10
+    - 2. Let's find it together. +15
+    - Phone 2. Leave it to me. +5
+  Rank 3:
+    Next Rank: 25
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Inokashira Location
+    Choices:
+    - Any
+    - Any
+    - Any
+    - Any
+    - 3. Can we stop yet? +10
+    - Any
+    - Any
+    - 2. Has that happened to you? +10
+    - 2. That freedom sounds nice. +5
+    - Phone 1. Could be. +5
+  Rank 4:
+    Next Rank: 20
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 1. I know what you mean. +10
+    - 2. That's hilarious. +15
+    - 1. Tell me. +15
+    - 1. Good idea. +10
+    - 3. Good luck with that. +15
+    - Phone 1. I train everyday. +5
+  Rank 5:
+    Next Rank: 35
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 2. Give it up. +5
+    - 2. She's amazing, huh... +5
+    - 1. It had grace. +5
+    - Any
+    - Any
+  Rank 6:
+    Next Rank: 45
+    Choices:
+    - 1. It seems that way. +10
+    - Any
+    - Any
+    - 3. Show her your own strength. +15
+    - Phone 2. I'll cheer you on. +5
+  Rank 7:
+    Next Rank: 30
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Asakusa Location
+    - Skytree Location
+    Choices:
+    - 2. She admires you. +5
+    - Any
+    - Any
+    - 2. Go get 'em, tiger. +5
+    - Phone 1. You got this. +5
+  Rank 8:
+    Next Rank: 67
+    Choices:
+    - 2. You have some real guts. +10
+    - 1. There's no doubt in my mind. +15
+    - Any
+    - 2. I'm sure she already knows. +15
+    - Phone 3. You can ask her yourself. +5
+  Rank 9 - Platonic:
+    Next Rank: 35
+    Requires:
+    - Cannot be raining
+    Choices:
+    - Any
+    - Any
+    - 2. I believe in you, Ann. +15
+    - 2. You have the others. +0
+  Rank 9 - Romantic:
+    Next Rank: 35
+    Requires:
+    - Cannot be raining
+    Choices:
+    - Any
+    - Any
+    - 2. I believe in you, Ann. +15
+    - 1. You have me. +0
+    - Any
+    - Phone 2. I'm yours forever. +10
+  Rank 10:
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Odaiba Location
+  Rank 11:
+    Requires:
+    - Available 1/13
+  Invite Study Evening 5/9:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. I think so. +5
+  Invite Study Evening 7/11:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. Let's think together. +5
+  Invite Movies 7/17:
+    Requires:
+    - Bank Palace cleared
+    - Lovers Rank 2
+    Unlocks:
+    - Charm +5
+    Choices:
+    - 2. Understandable. +10
+  Invite Meiji-Shrine 8/6:
+    Requires:
+    - Pyramid Palace cleared
+    - Death Rank 1
+    Unlocks:
+    - Meiji-Shrine Location
+    Choices:
+    - Any
+    - Any
+    - 3. You're amazing, doc. (Lovers, Death) +10
+  Invite Hawaii 9/10:
+    Requires:
+    - Lovers Rank 9
+  Invite Study Evening 10/15:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. I knew. +5
+  Invite Afterparty 10/26:
+    Requires:
+    - Lovers Rank 9
+  Hangout Shibuya:
+    Unlocks:
+    - Choco Fountain Decoration
+    Choices:
+    - 1. Sounds like a good plan. +15
+  Hangout Harajuku:
+    Unlocks:
+    - Idol Poster Decoration
+    Choices:
+    - 1. Yeah. +10
+Chariot:
+  Rank 1 - Auto:
+    Requires:
+    - Available 4/12
+  Rank 2:
+    Next Rank: 20
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 1. I'm counting on you. +15
+    - Any
+    - 1. Do you go want to go back? +5
+    - Phone 3. It's never too late, man. +5
+  Rank 3:
+    Next Rank: 30
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 1. Let's not fight. +5
+    - 1. Calm down, Ryuji. +10
+    - Phone 1. I can't exactly blame you. +5
+  Rank 4:
+    Next Rank: 20
+    Unlocks:
+    - Ogikubo Location
+    Choices:
+    - 2. Are you worried about him? +5
+    - 1. But you're doing great. +15
+  Rank 5:
+    Next Rank: 30
+    Requires:
+    - Available 5/6
+    Unlocks:
+    - Gym Location
+    Choices:
+    - 2. Protein powder? +10
+    - 1. You seem conflicted. +5
+    - 2. So he's an asshole? +10
+    - Phone 1. Don't worry. I gotcha. +5
+  Rank 6:
+    Next Rank: 45
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 3. We can train at my place. +10
+    - 1. You guys should trust Nakaoka. +15
+    - 1. Absolutely. +15
+    - Any
+    - Any
+    - Phone 3. So he should've punched back? +5
+  Rank 7:
+    Next Rank: 45
+    Requires:
+    - Wed or Fri Evening invitation
+    Unlocks:
+    - Tsukishima Location
+    Choices:
+    - 2. Let's talk to Takeishi. +10
+    - 1. I think it's cool, Ryuji. +15
+    - Phone 1. Never know until you try. +5
+  Rank 8:
+    Next Rank: 60
+    Requires:
+    - Cannot be raining
+    Choices:
+    - Any
+    - 1. Things turned out for the best. +15
+    - 1. All I did was watch. +10
+    - 2. You weren't cool though. +10
+    - Phone 2. So, case closed? +5
+  Rank 9:
+    Next Rank: 60
+    Choices:
+    - 1. Are you satisfied now? +10
+    - 3. Don't do it. +10
+    - 2. I never realized that. +10
+    - 1. I agree. +5
+    - Phone 1. Congratulations. +5
+  Rank 10:
+  Rank 11:
+    Requires:
+    - Available 1/13
+  Invite Study Evening 5/10:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. Try starting over. +5
+  Invite Harajuku 5/29:
+    Requires:
+    - Museum Palace cleared
+    Unlocks:
+    - Harajuku Location
+    Choices:
+    - Any
+    - 3. Kinda want to try it. (Chariot, Lovers) +15
+  Invite Movies 5/29:
+    Unlocks:
+    - Kindness +5
+    Choices:
+    - 1. They do. +10
+  Invite Ichigaya 7/3:
+    Requires:
+    - Bank Palace cleared
+    - Temperance Rank 1
+    Unlocks:
+    - Ichigaya Location
+    Choices:
+    - 1. This is shady. +15
+    - Any
+    - 2. She's the true master fisher. (Chariot, Temperance) +15
+  Invite Study Evening 7/12:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. Better than usual. +5
+  Invite Leblanc 7/28:
+    Unlocks:
+    - Guts +5
+    Choices:
+    - 2. Definitely the rival. +15
+  Invite Leblanc 8/3:
+    Unlocks:
+    - Charm +5
+    Choices:
+    - 1. Soccer. +10
+  Invite Leblanc 8/13:
+    Requires:
+    - Retro Game Console
+    Unlocks:
+    - Guts +5
+    Choices:
+    - 1. Win or lose. +10
+  Invite Study Evening 10/16:
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 1. I believe you. +5
+  Hangout Ogikubo:
+    Unlocks:
+    - Ramen Bowl Decoration
+    Choices:
+    - 1. I'm in love. +15
+  Hangout Nakano:
+    Unlocks:
+    - Featherman Dolls Decoration
+    Choices:
+    - 2. Let's go to the game center. +10
+    - 1. Let's check it out. +15
+    - Any
+Justice:
+  Rank 1 - Auto:
+    Requires:
+    - Available 6/10
+  Rank 2:
+    Next Rank: 1
+    Choices:
+    - 1. You always seem so busy. +5
+    - Any
+    - 1. Shoot very carefully. +5
+    - Any
+    - 3. I see a lot of things. +10
+    - Phone 3. As rivals? +5
+  Rank 3:
+    Next Rank: 23
+    Requires:
+    - Charm Lv. 3
+    - Knowledge Lv. 3
+    Choices:
+    - Any
+    - 1. Should've figured. +10
+    - Any
+    - Any
+    - Any
+    - Phone 2. Wasn't it fun? +5
+  Rank 4:
+    Next Rank: 40
+    Unlocks:
+    - Jazz Club Location
+    Choices:
+    - Any
+    - 3. Now this is my kind of club. +10
+    - 1. Any recommendations? +10
+    - 1. It's a great place. +5
+    - Any
+    - 2. I can use a microwave. +15
+    - Phone 2. I kinda get it. +5
+  Rank 5:
+    Next Rank: 1
+    - Any
+    - 1. Are you used to gunplay? +5
+    - 1. You wanted to be a hero? +10
+    - Any
+    - Phone 1. You did fine. +5
+  Rank 6:
+    Next Rank: 55
+    Requires:
+    - Available 8/28
+    - Moved to Leblanc
+    Choices:
+    - 3. A while, huh? +10
+    - 2. ...You've been through a lot. +5
+    - 1. This is nothing. +15
+    - 1. Same. +10
+    - 2. Because we're similar. +5
+    - 1. I think you're right. +10
+    - Phone 3. My bad, I guess. +5
+  Rank 7:
+    Next Rank: 1
+    Requires:
+    - Casino Palace calling card attempt
+    - Knowledge Lv. 4
+    Choices:
+    - 2. That's why it's so fun. +10
+    - Any
+    - Any
+    - 2. I couldn't let myself lose. +10
+    - Any
+    - 3. You're my rival. +0
+    - Phone 3. We're rivals, aren't we? +5
+  Rank 8:
+    Next Rank: 1
+    Requires:
+    - Soloing Akechi
+    Choices:
+    - Any
+    - Any
+    - Any
+    - Any
+    - Any
+    - 1. I definitely wouldn't lose. +10
+    - 2. Really hate losing, don't you? +10
+    - 1. I accept. +0
+  Rank 9 - Auto:
+    Requires:
+    - Cruiser Palace encounter
+  Rank 10 - Auto:
+    Requires:
+    - Cruiser Palace encounter
+    - Cruiser Palace cleared
+    Choices:
+    - 1. I want to keep our promise. +0
+  Rank 11 - Auto:
+    Requires:
+    - Available 2/2
+  Invite Shinagawa 7/29:
+    Requires:
+    - Devil Rank 1
+    Unlocks:
+    - Shinagawa Location
+    Choices:
+    - 1. It's a nice place. +10
+    - Any
+    - 1. If you like. (Devil) +10
+    - 2. It's nothing bad. +5
+Hermit:
+  Rank 1 - Auto:
+    Requires:
+    - Available 8/31
+  Rank 2:
+    Next Rank: 1
+    Requires:
+    - Kindness Lv. 4
+    Choices:
+    - 2. That's a great idea. +5
+    - 1. If we work together. +10
+    - 1. Sounds good to me. +0
+    - Phone 1. I bet it will. +5
+  Rank 3:
+    Next Rank: 10
+    Choices:
+    - 3. I was about to come find you. +10
+    - 1. Good to see you again. +15
+    - Phone 3. We'll both do our best. +5
+  Rank 4:
+    Next Rank: 15
+    Choices:
+    - 2. Let's do this together. +15
+    - Any
+    - 3. I think it's cute. +10
+    - Phone 3. I'll help you anytime. +5
+  Rank 5:
+    Next Rank: 26
+    Choices:
+    - Any
+    - 1. I think you're right. +10
+    - 3. He's the protagonist. +10
+    - Phone 1. You did great. +5
+  Rank 6:
+    Next Rank: 21
+    Choices:
+    - 2. That must have been a shock. +10
+    - 1. You didn't know any better. +5
+    - Any
+    - Phone 1. Are you running away again? +5
+  Rank 7:
+    Next Rank: 1
+    Unlocks:
+    - Daughter's Just a Meal Ticket Request
+    Choices:
+    - 2. We have to put a stop to this. +5
+    - 1. I'll do it, for you. +15
+  Rank 8:
+    Next Rank: 30
+    Requires:
+    - Daughter's Just a Meal Ticket Request cleared
+    Choices:
+    - 1. That's incredible. +15
+    - 1. You worked really hard too. +10
+    - Any
+    - Phone 3. Want more pats? +5
+  Rank 9 - Platonic:
+    Next Rank: 35
+    Choices:
+    - 1. You've really matured. +10
+    - 2. Are you okay, Futaba? +10
+    - 2. No way. +5
+    - 1. Because we're teammates. +0
+    - Phone 3. A key item. +5
+  Rank 9 - Romantic:
+    Next Rank: 35
+    Choices:
+    - 1. You've really matured. +10
+    - 2. Are you okay, Futaba? +10
+    - 2. No way. +5
+    - 2. Because I love you. +0
+    - Any
+    - Any
+    - Any
+    - Phone 3. Do I really have to say it? +5
+  Rank 10:
+  Rank 11:
+    Requires:
+    - Available 1/13
+  Invite Leblanc 9/25:
+    Requires:
+    - Retro Game Console
+    Unlocks:
+    - Guts +5
+    Choices:
+    - 1. Win or lose. +10
+  Invite Movies 10/2:
+    Requires:
+    - Who's Muscling in Yongen-Jaya? Request cleared
+    Unlocks:
+    - Knowledge +5
+    Choices:
+    - 2. I think so... +10
+  Invite Nakano 10/9:
+    Requires:
+    - Hanged Rank 1
+    Unlocks:
+    - Nakano Location
+    Choices:
+    - 3. Work a part time job? +15
+    - Any
+    - 2. Basically my sister. (Hanged) +5
+    - 1. He's my boss. (Hanged) +10
+    - Any
+  Invite Leblanc 10/10:
+    Unlocks:
+    - Proficiency +5
+    Choices:
+    - 1. Of course. +15 
+  Hangout Asakusa:
+    Unlocks:
+    - I <3 Tokyo Shirt Decoration
+    Choices:
+    - 3. Hey look, a ninja. +15
+  Hangout Akihabara:
+    Unlocks:
+    - Hero Figurine Decoration
+    Choices:
+    - 3. You feel betrayed... +15
+Fortune:
+  Rank 0.1:
+  Rank 0.2:
+    Requires:
+    - Y100000
+  Rank 0.3:
+    Unlocks:
+    - Ending the Boyfriend's Abuse Request
+  Rank 1:
+    Requires:
+    - Ending the Boyfriend's Abuse Request cleared
+  Rank 2:
+    Next Rank: 1
+    Choices:
+    - 3. Encourage her. +0
+    - 2. Overturn your fate! +0
+    - 2. Open your mind to change. +5
+    - Phone 1. Of course I am. +5
+  Rank 3:
+    Next Rank: 15
+    Choices:
+    - 2. Follow his heart. +0
+    - 1. Thieves may steal her away. +0
+    - Any
+  Rank 4:
+    Next Rank: 15
+    Choices:
+    - Any
+    - 3. Trust in yourself. +10
+    - Any
+    - Any
+    - Any
+    - Phone 2. I didn't do much. +5
+  Rank 5:
+    Next Rank: 15
+    Choices:
+    - 1. You're such a hard worker. +10
+    - Any
+    - Any
+  Rank 6:
+    Next Rank: 30
+    Choices:
+    - Any
+    - Any
+    - Any
+    - 3. You're just Chihaya to me. +15
+    - Phone 2. Be honest with yourself. +5
+  Rank 7:
+    Next Rank: 20
+    Choices:
+    - 3. I don't think so. +15
+    - Phone 1. Are you gonna be okay? +5
+  Rank 7.1:
+    Next Rank: 1
+    Unlocks:
+    - Debunking the Psychihc! Request
+    Choices:
+    - Any
+    - Any
+    - Any
+  Rank 8:
+    Next Rank: 46
+    Requires:
+    - Debunking the Psychihc! Request
+    Choices:
+    - 2. I know. +10
+    - 3. It's because you're strong. +15
+    - 2. Hell yeah I am. +15
+    - Phone 2. It was all your own will. +5
+  Rank 9 - Platonic:
+    Next Rank: 21
+    Unlocks:
+    - Y100000
+    Choices:
+    - Any
+    - 2. Well, fate can be changed. +15
+    - 1. I like having my fortune read. +0
+    - Phone 1. I'm planning on it. +5
+  Rank 9 - Romantic:
+    Next Rank: 21
+    Unlocks:
+    - Y100000
+    Choices:
+    - Any
+    - 2. Well, fate can be changed. +15
+    - 2. So I can be with you. +0
+    - Phone 1. I wanted to hear your voice too. +5
+  Rank 10:
+  Hangout Jibocho:
+    Requires:
+    - Fortune Rank 4
+    Choices:
+    - 2. Books on business. +15
+  Hangout Skytree:
+    Requires:
+    - Fortune Rank 8
+    Unlocks:
+    - Skytree Lamp Decoration
+    Choices:
+    - 2. Such a delicious thrill... +15
+Strength:
+  Hangout Big Bang Burger:
+    Requires:
+    - Available 6/6-12/22
+  Hangout Movie Theater:
+    Requires:
+    - Available 6/7-12/22
+  Hangout Gym:
+    Requires:
+    - Available 6/15-12/22
+  Hangout Church:
+    Requires:
+    - Available 6/21-12/22
+  Hangout Aquarium:
+    Requires:
+    - Available 7/26-12/22
+  Hangout Skytree:
+    Requires:
+    - Available 7/28-12/22
+  Hangout Beach:
+    Requires:
+    - Available 9/2-9/29
+  Hangout Maid Cafe:
+    Requires:
+    - Available 9/3-12/22
+  Hangout Destiny Land:
+    Requires:
+    - Available 10/1-12/22
+  Hangout Art Museum:
+    Requires:
+    - Available 10/2-11/3
+  Hangout Leblanc:
+    Requires:
+    - Available 11/24-12/22
+  Hangout Underground Mall:
+    Requires:
+    - Available 11/24-12/22
+  Hangout Your Room:
+    Requires:
+    - Available: 1/13-2/1
+Hanged:
+  Rank 1:
+    Requires:
+    - Guts Lv. 4
+  Rank 2:
+    Next Rank: 5
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - Any
+    - Any
+    - Any
+    - 3. How's your cold? +5
+  Rank 3:
+    Next Rank: 15
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - Any
+    - 1. I always knew you were a thug. +10
+    - 3. We made a deal, didn't we? +10
+    - Any
+  Rank 4:
+    Next Rank: 25
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - Any
+    - Any
+    - Any
+    - 3. Where's my reward? +10
+    - Phone 1. I agree. +5
+  Rank 5:
+    Next Rank: 40
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - Any
+    - 2. You're pathetic. +10
+    - 3. I'll stick around for the guns. +10
+    - Phone 1. You're right. +5
+  Rank 6:
+    Next Rank: 40
+    Choices:
+    - Any
+    - Any
+    - 2. Girls. +10
+    - 3. You should buy us something. +10
+    - Phone 1. He's my age, so it comes easier. +5
+  Rank 7:
+    Next Rank: 1
+    Choices:
+    - 2. Absolutely. +10
+    - 2. He's clever. +10
+    - Any
+    - Phone 1. Bring it on. +5
+  Rank 7.1:
+    Next Rank: 1
+    Requires:
+    - Guts Lv. 5
+    Unlocks:
+    - Shady Deal in the Shadows Request
+    Choices:
+    - 2. I did it all for Iwai. +10
+    - 1. I will. +5
+    - Any
+  Rank 8:
+    Next Rank: 25
+    Requires:
+    - Shady Deal in the Shadows Request cleared
+    Choices:
+    Unlocks:
+    - Proficiency +5
+    Choices:
+    - 2. I dunno. +5
+    - 2. I guess I could consider it. +10
+    - Phone 1. Understood. +5
+  Rank 9:
+    Next Rank: 40
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Odaiba Location
+    Choices:
+    - 3. Are you sure he's still alive? +10
+    - Any
+    - Any
+    - Any
+    - 2. You need to trust your son. +10
+    - 1. Kaoru is really strong-willed. +15
+    - Phone 1. Like father, like son. +5
+  Rank 10:
+    Unlocks:
+    - Proficiency +3
+  Hangout Inokashira:
+    Requires:
+    - Hanged Rank 3
+    Unlocks:
+    - Swan Boat Decoration
+    Choices:
+    - 3. Planning for a picnic? +15
+Death:
+  Rank 1:
+    Unlocks:
+    - Guts +2
+  Rank 2:
+    Next Rank: 1
+    Requires:
+    - Guts Lv. 2
+    Unlocks:
+    - Guts +2
+    Choices:
+    - 1. I have a bad heart. +5
+    - 1. I agree. +5
+    - Phone 1. I'm totally fine. +5
+  Rank 3:
+    Next Rank: 11
+    Unlocks:
+    - Guts +2
+    Choices:
+    - Any
+    - Any
+    - 1. I don't mind. +5
+    - Phone 1. Of course not. +5
+  Rank 4:
+    Next Rank: 20
+    Unlocks:
+    - Guts +2
+    Choices:
+    - 2. Dr. Takemi will help. +5
+    - 1. You seem happy. +10
+    - Phone 1. I'll reflect on my mistakes. +5
+  Rank 5:
+    Next Rank: 11
+    Unlocks:
+    - Guts +2
+    Choices:
+    - Any
+    - Any
+    - 1. That's good. +10
+    - Phone 1. About Miwa-chan? +5
+  Rank 6:
+    Next Rank: 11
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Guts +2
+    Choices:
+    - Any
+    - Any
+    - 2. It suits you. +10
+    - Phone 1. You can count on me. +5
+  Rank 7:
+    Next Rank: 1
+    Unlocks:
+    - Guts +2
+    Choices:
+    - 2. She's a great doctor. +5
+    - Any
+    - 1. Just rest for today. +5
+    - 3. I'm glad you did. +5
+  Rank 7.1:
+    Next Rank: 1
+    Requires:
+    - Charm Lv. 4
+    Unlocks:
+    - Bad Medicine Request
+    Choices:
+    - Any
+    - 3. I'm your ally. +5
+    - Any
+    - Any
+    - Any
+  Rank 8:
+    Next Rank: 42
+    Requires:
+    - Bad Medicine Request cleared
+    Unlocks:
+    - Guts +2
+    Choices:
+    - Any
+    - 2. Let's get to work, doctor. +15
+    - 1. It's for Miwa-chan. +15
+    - Phone 1. I'll be cheering you on. +5
+  Rank 9 - Platonic:
+    Next Rank: 36
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 3. It was rough. +10
+    - Any
+    - 1. It wanted to see you. +0
+    - 1. I love you. +5
+    - 2. That sounds good. +0
+    - Phone 3. I'm glad we saw it through. +5
+  Rank 9 - Romantic:
+    Next Rank: 36
+    Requires:
+    - Cannot be raining
+    Choices:
+    - 3. It was rough. +10
+    - Any
+    - 1. It wanted to see you. +0
+    - 1. I love you. +5
+    - 1. It isn't a joke. +15
+    - Phone 2. So did you. +5
+  Rank 10 - Platonic:
+  Rank 10 - Romantic:
+    Requires:
+    - Death Evening Hangout Slot
+Temperance:
+  Rank 0.1:
+    Requires:
+    - 2 days after Museum Palace cleared
+    Choices:
+    - Speak to Mishima to initiate Operation Maidwatch. +0
+    - 3. You're a genius, Ryuji! (Chariot) +15
+  Rank 0.2:
+    Choices:
+    - Speak to Kawakami outside the Staff Room.
+    - Does not take time.
+  Rank 1:
+    Requires:
+    - Guts Lv. 3
+    - Y5000
+  Rank 2:
+    Next Rank: 20
+    Requires:
+    - Y5000
+    Choices:
+    - 1. It does. +5
+    - 2. Absolutely not! +5
+    - Any
+    - Any
+    - Phone 2. Uh, what the hell? +5
+  Rank 3:
+    Next Rank: 37
+    Requires:
+    - Y5000
+    Choices:
+    - 1. Yeah, they do. +5
+    - Any
+    - 2. I'll request you more often. +15
+    - Any
+    - Phone 1. Thanks. +5
+  Rank 4:
+    Next Rank: 1
+    Requires:
+    - Y5000
+    Choices:
+    - Any
+    - 1. How rude. +5
+    - 3. You need to love yourself. +15
+    - Any
+  Rank 5:
+    Next Rank: 11
+    Requires:
+    - Y5000
+    Choices:
+    - 1. It's fun. +5
+    - 1. How terrible... +5
+    - Any
+    - Any
+    - Any
+    - Phone 3. You want some? +5
+  Rank 6:
+    Next Rank: 37
+    Requires:
+    - Y5000
+    Choices:
+    - 2. Want to rest a bit? +5
+    - 1. Are you all right? +15
+    - Any
+    - Phone 3. How are you feeling, though? +5
+  Rank 7:
+    Next Rank: 1
+    Choices:
+    - 3. Don't pay them. +10
+    - 3. Think this through more. +15
+    - Any
+  Rank 8:
+    Next Rank: 1
+    Requires:
+    - Y5000
+    Choices:
+    - 3. Is this really what you want? +10
+    - 2. If that's what you decided. +10
+    - Any
+    - Any
+    - 2. That's the right choice. +15
+    - 2. That's reassuring. +15
+    - Phone 3. I'll do anything for you. +5
+  Rank 8.1 - Auto:
+    Next Rank: 1
+    Requires:
+    - School Day
+    Unlocks:
+    - A Teacher Maid to Suffer Request
+    Choices:
+    - Any
+    - Any
+    - Any
+  Rank 9 - Platonic:
+    Next Rank: 1
+    Requires:
+    - A Teacher Maid to Suffer Request cleared
+    - Y5000
+    Choices:
+    - 1. Nonsense. +10
+    - 1. What a bummer. +15
+    - 2. I want to keep seeing you. +5
+    - 1. Got it . +5
+    - Phone 2. You can do it. +5
+  Rank 9 - Romantic:
+    Next Rank: 1
+    Requires:
+    - A Teacher Maid to Suffer Request cleared
+    - Y5000
+    Choices:
+    - 1. Nonsense. +10
+    - 1. What a bummer. +15
+    - 2. I want to keep seeing you. +5
+    - 2. I mean what I say. +0
+    - 2. I'm a man; you're a woman. +0
+  Rank 9.1 - Auto:
+    Next Rank: 1
+    Requires:
+    - School Day
+  Rank 10:
+  Invite Hawaii 9/10:
+    Requires:
+    - Temperance Rank 10
+  Invite Afterparty 10/26:
+    Requires:
+    - Temperance Rank 10
+  Hangout Ueno:
+    Requires:
+    - Temperance Rank 10
+    Choices:
+    - 1. I'm looking forward to this. +15
+  Hangout Odaiba:
+    Requires:
+    - Temperance Rank 10 - Romantic
+    Unlocks:
+    - Night Pennant Decoration
+    Choices:
+    - 1. I love you even more. +15
+Devil:
+  Rank 1:
+    Unlocks:
+    - Charm +3
+  Rank 2:
+    Next Rank: 1
+    Unlocks:
+    - Charm +3
+    Choices:
+    - 3. Mishima might... +5
+    - Any
+    - 2. It's for the article. +5
+  Rank 3:
+    Next Rank: 12
+    Unlocks:
+    - Charm +3
+    Choices:
+    - 3. You shouldn't make assumptions. +5
+    - Any
+    - Any
+    - 3. She was falsely accused? +5
+  Rank 4:
+    Next Rank: 15
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Charm +3
+    Choices:
+    - Any
+    - 1. Of course we are. +5
+    - Any
+    - Phone 1. Leave it to me. +5
+  Rank 5:
+    Next Rank: 25
+    Choices:
+    - Any
+    - Any
+    - Any
+    - 2. That's unforgivable. +10
+    - Phone 1. I don't mind. +5
+  Rank 6:
+    Next Rank: 22
+    Choices:
+    - Any
+    - 1. He must not like you. +5
+    - 2. You should trust in her. +5
+    - 1. That's the spirit +5
+    - Phone 3. I'll dig up some more for you. +5
+  Rank 7:
+    Next Rank: 1
+    Unlocks:
+    - Charm +5
+    Choices:
+    - Any
+    - 2. Don't let him provoke you. +15
+    - 2. You're charming as you are. +15
+    - Phone 1. That's the spirit. +5
+  Rank 7.1:
+    Next Rank: 1
+    Unlocks:
+    - Fighting for Truth of Journalism Request
+    Choices:
+    - 2. You seem tired. +5
+    - Any
+  Rank 8:
+    Next Rank: 21
+    Requires:
+    - Fighting for Truth of Journalism Request cleared
+    Unlocks:
+    - Charm +5
+    Choices:
+    - Any
+    - Any
+    - Any
+    - 3. I'll go with you. +10
+    - Phone 1. Good luck. +5
+  Rank 9 - Platonic:
+    Next Rank: 38
+    Choices:
+    - Any
+    - 2. You're not giving up, are you? +5
+    - 1. I can't leave you. +10
+    - Any
+    - 2. I didn't take it seriously. +0
+  Rank 9 - Romantic:
+    Next Rank: 38
+    Choices:
+    - Any
+    - 2. You're not giving up, are you? +5
+    - 1. I can't leave you. +10
+    - Any
+    - 1. I took it seriously. +0
+    - 1. I love you, Ichiko. +0
+    - Phone 1. I wanted to hear your voice. +5
+  Rank 10:
+    Requires:
+    - Cannot be raining
+  Hangout Ginza:
+    Requires:
+    - Devil Rank 8
+    Unlocks:
+    - Sushi Mug Decoration
+    Choices:
+    - 1. Get pumped! +15
+Tower:
+  Rank 1:
+    Requires:
+    - Winners Don't Use Cheats Request attempt
+    Unlocks:
+    - Kindness +5
+    Choices:
+    - Yongenjaya Backstreets > Ask Futaba to hack site
+    - Report back to Shinya
+  Rank 2:
+    Next Rank: 1
+    Unlocks:
+    - Kindness +5
+    Choices:
+    - 2. Don't compare me to you. +10
+    - 2. What a rude employee. +5
+    - 2. Do you admire them? +5
+    - 3. I'll let them know. +15
+    - Phone 1. I'll work hard. +5
+  Rank 3:
+    Next Rank: 11
+    Unlocks:
+    - Kindness +3
+    Choices:
+    - Any
+    - Any
+    - Any
+    - 1. That's the spirit. +5
+    - Phone 1. Sure. +5
+  Rank 4:
+    Next Rank: 14
+    Unlocks:
+    - Kindness +3
+    Choices:
+    - 3. Yeah, you tell him! +5
+    - 2. Get your revenge. +5
+  Rank 4.0:
+    Next Rank: 14
+    Unlocks:
+    - Kindness +3
+    - Opportunity for Tower Hangout Asakusa
+    Choices:
+    - 3. Yeah, you tell him! +5
+    - 1. Don't get so worked up. +0
+  Rank 5:
+    Next Rank: 20
+    Unlocks:
+    - Kindness +3
+    Choices:
+    - 1. It was pretty weird. +15
+    - 2. I'm sure you can do it. +5
+    - 2. You need a new strategy. +10
+    - Phone 1. I'll be cheering you on. +5
+  Rank 6:
+    Next Rank: 25
+    Unlocks:
+    - Kindness +3
+    Choices:
+    - Any
+    - Any
+    - 2. I believe in you. +10
+    - 2. Not at all. +10
+    - Phone 1. Of course I won't. +5
+  Rank 6.0:
+    Next Rank: 25
+    Unlocks:
+    - Kindness +3
+    - Opportunity for Tower Hangout Maihama
+    Choices:
+    - Any
+    - Any
+    - 2. I believe in you. +10
+    - 3. I'm worried about you. +0
+    - Phone 2. That's up to you. +0
+  Rank 7:
+    Next Rank: 1
+    Requires:
+    - Cannot be raining
+    Choices:
+    - Any
+    - Any
+    - Any
+    - Any
+  Rank 8:
+    Next Rank: 1
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Kindness +5
+    - A Mother's Aggression Request
+    Choices:
+    - 2. No, she's not. +5
+    - 3. Believe in them. +10
+    - Any
+    - 1. Let's save her. +15
+  Rank 9:
+    Next Rank: 30
+    Requires:
+    - Cannot be raining
+    - A Mother's Aggression Request cleared
+    Unlocks:
+    - Kindness +5
+    Choices:
+    - 1. I'm glad to hear that. +10
+    - 3. It means you've matured. +15
+    - 1. He wants to win at all costs. +5
+    - Phone 3. You did a great job too. +5
+  Rank 10:
+    Unlocks:
+    - Kindness +2
+  Hangout Asakusa:
+    Requires:
+    - Tower Rank 4
+    Choices:
+    - 1. Let's walk around and eat. +15
+  Hangout Maihama:
+    Requires:
+    - Tower Rank 5
+    - Sunday or Holiday
+    Unlocks:
+    - Balloons Decoration
+    Choices:
+    - 3. Coming alone isn't bad. +15
+Star:
+  Rank 1:
+    Requires:
+    - 2 days after Bank Palace cleared
+    - Charm Lv. 3
+    Unlocks:
+    - Knowledge +2
+  Rank 2:
+    Next Rank: 1
+    Unlocks:
+    - Knowledge +2
+    Choices:
+    - 1. That's interesting. +5
+    - Any
+    - 3. But you don't want to, right? +5
+  Rank 3:
+    Next Rank: 10
+    Unlocks:
+    - Knowledge +2
+    Choices:
+    - 1. Describes you perfectly. +5
+    - 2. Having a difficult time? +5
+    - Phone 1. Bring it on. +5
+  Rank 4:
+    Next Rank: 14
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Jinbocho Location
+    Choices:
+    - 3. Must've been the katsu curry. +5
+    - 2. They're cool. +5
+    - Phone 1. I'd love to. +5
+  Rank 5:
+    Next Rank: 14
+    Unlocks:
+    - Knowledge +2
+    Choices:
+    - 2. She's scary. +5
+    - 2. You should stop then. +5
+    - Phone 2. You've got a lot to deal with... +5
+  Rank 6:
+    Next Rank: 22
+    Requires:
+    - Cannot be raining
+    Unlocks:
+    - Knowledge +2
+    Choices:
+    - 2. Is that frustrating? +5
+    - 3. Do what you love. +5
+    - Phone 2. You're imagining things. +5
+  Rank 7:
+    Next Rank: 1
+    Unlocks:
+    - Knowledge +2
+    Choices:
+    - 3. It may come down to luck. +10
+    - 2. I believe in you. +10
+  Rank 7.1:
+    Next Rank: 1
+    Requires:
+    - Knowledge Lv. 5
+    Unlocks:
+    - Upstaging the Stage Mother Request
+    Choices:
+    - Any
+    - 1. That won't work. +5
+    - Any
+    - Any
+  Rank 8:
+    Next Rank: 30
+    Requires:
+    - Upstaging the Stage Mother Request cleared
+    Unlocks:
+    - Knowledge +2
+    Choices:
+    - 3. I'm glad her heart changed. +10
+    - Any
+    - Phone 1. I support it. +5
+  Rank 9 - Platonic:
+    Next Rank: 30
+    Choices:
+    - 1. Give it all you got. +5
+    - 3. A very queenly decision. +10
+    - 1. I want to become stronger. +0
+    - Phone 3. Let's win the next one. +5
+  Rank 9 - Romantic:
+    Next Rank: 30
+    Choices:
+    - 1. Give it all you got. +5
+    - 3. A very queenly decision. +10
+    - 2. I want to stay by your side. +0
+    - 1. I want us to date. +0
+    - Phone 3. It was love at first sight. +5
+  Rank 10:
+  Invite Hawaii 9/10:
+    Requires:
+    - Star Rank 5
+  Invite Akihabara 9/22:
+    Requires:
+    - Emperor Rank 1
+    - Fortune Rank 1
+    Choices:
+    - 1. Take your time. +10
+    - 3. Why not just strip? (Emperor) +15
+    - 3. That's good, right? (Emperor) +10
+    - 3. She knows everything. (Fortune) +10
+  Hangout Inokashira:
+    Requires:
+    - Star Rank 3
+    Choices:
+    - 2. It's a good stimulator, huh? +15
+  Hangout Jinbocho:
+    Requires:
+    - Star Rank 7
+    Unlocks:
+    - King Piece Decoration
+    Choices:
+    - 1. Leave it to me. +15
+Moon:
+  Rank 1 - Auto:
+  Rank 2 - Auto:
+  Rank 3:
+    Requires:
+    - 1 request cleared
+    - Cannot be raining
+    Unlocks:
+    - One Who Bullies Bullies Request
+  Rank 4:
+    Requires:
+    - 2 requests cleared
+    Unlocks:
+    - Part-time Job, Full-time Hell Request
+  Rank 5:
+    Requires:
+    - 3 requests cleared
+  Rank 6:
+    Requires:
+    - 4 requests cleared
+    - Cannot be raining
+  Rank 6.1:
+    Requires:
+    - 5 requests cleared
+  Rank 7:
+    Requires:
+    - 5 requests cleared
+    - Cannot be raining
+  Rank 8:
+    Requires:
+    - 7 requests cleared
+    - Cannot be raining
+    Unlocks:
+    - Man of Many Faces and Debts Request
+  Rank 9:
+    Requires:
+    - 8 requests cleared
+  Rank 10:
+    Requires:
+    - 10 requests cleared
+    - Cannot be raining
+  Hangout Suidobashi 11/3:
+    Requires:
+    - Tower Rank 1
+    Choices:
+    - Any
+    - Any
+    - 1. Can he join us? (Tower, Moon) +10
+Sun:
+  Rank 0.1:
+    Requires:
+    - 2 shifts at Beef Bowl Job
+  Rank 1:
+  Rank 2:
+    Unlocks:
+    - Charm +3
+  Rank 3:
+  Rank 4:
+    Unlocks:
+    - Charm +3
+  Rank 5:
+    Unlocks:
+    - Charm +3
+  Rank 6:
+  Rank 7:
+    Unlocks:
+    - Charm +3
+  Rank 8:
+    Unlocks:
+    - Charm +5
+  Rank 9:
+  Rank 10:
+    Unlocks:
+    - Charm +5
+Judgement:
+  Rank 1 - Auto:
+    Requires:
+    - Available 7/9
+  Rank 2 - Auto:
+    Requires:
+    - Available 7/24
+  Rank 3 - Auto:
+    Requires:
+    - Available 8/22
+  Rank 4 - Auto:
+    Requires:
+    - Available 9/13
+  Rank 5 - Auto:
+    Requires:
+    - Available 10/12
+  Rank 6 - Auto:
+    Requires:
+    - Available 10/28
+  Rank 7 - Skipped:
+  Rank 8 - Skipped:
+  Rank 9 - Skipped:
+  Rank 10 - Auto:
+    Unlocks:
+    - Judgement Arcana Burst
+    Requires:
+    - Available 11/20
+    - Normal End or better.
+Faith:
+  Rank 1 - Auto:
+    Requires:
+    - Available 5/30
+  Rank 2:
+    Next Rank: 15
+    Unlocks:
+    - HP +5
+    Choices:
+    - 1. We're just getting started. +5
+    - 1. Next time, then. +5
+    - Any
+    - Any
+    - Any
+    - Phone 1. Impressive. +5
+  Rank 3:
+    Next Rank: 51
+    Unlocks:
+    - HP +5
+    Choices:
+    - 1. Making bento? +10
+    - 2. It looks delicious. +5
+    - 1. Is that all for you? +10
+    - 2. It's definitely unique. +5
+    - Any
+    - Any
+    - Any
+    - 1. You could try again sometime? +15
+    - Any
+  Rank 4:
+    Next Rank: 20
+    Unlocks:
+    - HP +5
+    Choices:
+    - 2. You're looking to buy? +5
+    - 1. A pretty modern look. +10
+    - Any
+    - 1. Of course. +5
+    - Any
+    - 1. Good choice. +5
+    - Any
+    - 1. Everyone deals with that. +5
+    - 2. We'll work at it together. +5
+    - 10. Phone 1. I'm glad to hear that. +5
+  Rank 5:
+    Next Rank: 1
+    - 1. It's a surprise, yeah. +5
+    - Any
+    - 2. Go ahead. I'll watch. +15
+    - Any
+    - 2. I saw! +15
+    - 1. That's important. +15
+    - Any
+    - Phone 3. Gymnastics. +15
+  Rank 6:
+    Next Rank: 1
+    Requires:
+    - Faith Rank 5 cleared before 12/23
+    - Available 1/13
+    Unlocks:
+    - HP +5
+    Choices:
+    - Any
+    - Any
+    - Any
+    - Any
+    - Any
+    - Any
+    - Any
+    - Any
+    - Any
+    - 10. Phone 2. You have to face it. +10
+  Rank 7:
+    Next Rank: 55
+    Unlocks:
+    - HP +5
+    Choices:
+    - Any
+    - Any
+    - 1. You okay? +5
+    - 1. That isn't true. +10
+    - Any
+    - 1. Of course. +15
+    - Phone 3. I love a good challenge. +5
+  Rank 8:
+    Next Rank: 40
+    Choices:
+    - 1. Walk up to Sumire. +15
+    - Any
+    - 2. I'm here for you. +10
+    - Any
+    - Any
+    - 3. I'm in love. +15
+    - Any
+    - 1. I see. +5
+    - 2. Sounds like progress. +10
+    - 10. Phone 3. Online. +5
+  Rank 9 - Platonic:
+    Next Rank: 80
+    Choices:
+    - Any
+    - 1. It's no problem. +5
+    - 1. Definitely. +5
+    - 1. Of course I do. +5
+    - 3. This is a new beginning. +10
+    - 3. Go ahead. +10
+    - Any
+    - 1. Let's stay friends. +0
+    - 3. You can always rely on me. +10
+    - Phone 1. I'm glad to hear that. +5
+  Rank 9 - Romantic:
+    Next Rank: 80
+    Choices:
+    - Any
+    - 1. It's no problem. +5
+    - 1. Definitely. +5
+    - 1. Of course I do. +5
+    - 3. This is a new beginning. +10
+    - 3. Go ahead. +10
+    - Any
+    - 2. I love you too. +0
+    - 1. Calm down. +5
+    - 3. You're so cute. +15
+    - Phone 1. Get used to it. +5
+  Rank 10:
+  Rank 11:
+    Requires:
+    - Available 2/2
+  Hangout Shinagawa:
+    Requires:
+    - Available before 12/22
+    Unlocks:
+    - Sea Slug Doll Decoration
+    Choices:
+    - 1. Yeah. +15
+    - 3. Let's see both. +15
+Councillor:
+  Rank 1 - Auto:
+    Requires:
+    - Available 5/13
+  Rank 2 - Auto:
+    Next Rank: 1
+    Requires:
+    - Available 5/13
+    Unlocks:
+    - SP +5
+    Choices:
+    - 2. We made a deal. +5
+    - Any
+    - 1. But it sounds right. +10
+    - Any
+    - 1. Well, okay. +5
+  Rank 3:
+    Next Rank: 28
+    Unlocks:
+    - SP +5
+    Choices:
+    - 1. So they have, huh? +5
+    - 1. Of course. +5
+    - Any
+    - 3. It's a seed for new love. +5
+    - 1. Did that help? +5
+    - Phone 1. Good work over there. +5
+  Rank 4:
+    Next Rank: 42
+    Unlocks:
+    - SP +5
+    Choices:
+    - Any
+    - 1. I know, right? +10
+    - 3. Is that what you're researching? +10
+    - Any
+    - 1. That's a grand plan. +5
+    - 1. That sounds fun. +10
+    - Phone 1. I feel completely fine. +5
+  Rank 5:
+    Next Rank: 32
+    Unlocks:
+    - SP +5
+    Choices:
+    - 1. This looks great! +10
+    - Any
+    - 3. You know, you're right. +10
+    - 2. Hey, as long as it tastes good. +5
+    - 2. I guess so. +5
+    - Phone 1. I really don't mind. +5
+  Rank 6:
+    Next Rank: 28
+    Requires:
+    - Available 9/20
+    Choices:
+    - 2. Another cup? +5
+    - 1. I can do that. +10
+    - Any
+    - 3. So give up. +5
+    - Any
+    - Any
+    - Phone 1. Calm down. +5
+  Rank 7:
+    Next Rank: 60
+    Unlocks:
+    - SP +5
+    Choices:
+    - 3. Are you a fan? +10
+    - 2. As in, removing them? +15
+    - 1. The change of heart? +15
+    - 3. It's intriguing. +15
+  Rank 8:
+    Next Rank: 30
+    Choices:
+    - 2. What do you mean? +10
+    - 1. Ooh, really? +10
+    - 1. Thanks for the food! +10
+    - 3. We've made a deal. +10
+    - 1. Congratulations. +15
+    - 1. I sure do. +10
+    - Any
+    - Phone 1. He's a good friend. +5
+  Rank 9:
+    Next Rank: 1
+    Unlocks:
+    - SP +5
+    Choices:
+    - Any
+    - 1. Kind of sad... +10
+  Rank 10 - Auto:
+    Requires:
+    - Available 11/18
+    - Councillor Rank 9
