@@ -1,6 +1,7 @@
-Your Desk:
+Your Room:
   Crafting: ["Proficiency +3"]
   Repair Laptop: ["Proficiency +5"]
+  Clean: ["Yoncha Walker 04", "Social Thought", "Potted Plant"]
 Class:
   Crafting: ["Proficiency +2"]
 Leblanc:
@@ -102,3 +103,74 @@ Big Bang Burger:
   - Charm +5
   - Knowledge +5
   - Proficiency +5
+Darts Club:
+  Billiards Lv. 1: ["Expert Billiards unlocked"]
+  Billiards Lv. 2: ["Technical Lv. 2 unlocked"]
+  Billiards Lv. 3: ["Technical Lv. 3 unlocked"]
+  Billiards Lv. 4: ["Technical Lv. Max unlocked"]
+Leblanc TV Shopping:
+  Bio Nutrients Set: ["Y2680"]
+Yongenjaya Secondhand Shop:
+  DVD Player: ["Y2800"]
+  Famidrive: ["Y5000"]
+  Broken Laptop: ["Y5000"]
+Shujin Library:
+  All: ["Y0"]
+Shibuya DVD Shop:
+  DVD Shop Membership: ["Y4800"]
+  All: ["Y0"]
+Shibuya Flower Shop:
+  Bio Nutrients x1: ["Y1200"]
+  Bio Nutrients x2: ["Y2400"]
+Shibuya Underground Mall:
+  Castella: ["Y1500"]
+Shibuya Bookstore:
+  The Art of Charm: ["Y700"]
+  Wise Man's Words: ["Y700"]
+  Medjed Menace: ["Y700"]
+  Ghost Encounters: ["Y700"]
+  Tidying the Heart: ["Y700"]
+  Buchiko's Story: ["Y700"]
+Shibuya Sports Shop:
+  Expert Billiards: ["Y3500"]
+  Jump Cue: ["Y48000"]
+Shinjuku Flower Shop:
+  Mega Fertilizer x1: ["Y3000"]
+  Mega Fertilizer x5: ["Y15000"]
+Shinjuku Bookstore:
+  Craft of Cinema: ["Y2800"]
+  ABCs of Crafting: ["Y2800"]
+  Game Secrets: ["Y2800"]
+  Pro Darts: ["Y2800"]
+  Flowerpedia: ["Y2800"]
+Jinbocho Bookstore:
+  Master Swordsman: ["Y8000"]
+  Reckless Casanova: ["Y8000"]
+  Heroic Revelations: ["Y8000"]
+  Call Me Chief: ["Y8000"]
+  The Art of Automata: ["Y8000"]
+  Knowing the Heart: ["Y12000"]
+Akihabara Hardware Store:
+  PC Tools Set: ["Y5000"]
+  Aluminum Sheet x2: ["Y8000"]
+Chihaya:
+  Money Reading: ["Y5000"]
+  Celestial Reading: ["Y20000"]
+Call Kawakami:
+  Massage: ["Y0"]
+Luck Reading:
+  All: ["Y5000"]
+Affinity Reading:
+  All: ["Y5000"]
+Ichigaya:
+  Fishing: ["Y2500"]
+Hideout:
+  Send calling card: []
+  Attempt to send calling card: []
+Investigate :
+  If Cats Disappeared from the City: ["Ask around Yongenjaya Streets"]
+  An Elderly's Meaning of Life: ["Ask around Kichijoji Bars"]
+  One Who Bullies Bullies: ["Ask around Shujin School Gate"]
+  Winners Don't Use Cheats: ["Ask around Shibuya Arcade"]
+  Fake-Man Show: ["Ask around Kichijoji Streets"]
+  An Idol and a Unicorn: ["Ask around Akihabara Streets"]

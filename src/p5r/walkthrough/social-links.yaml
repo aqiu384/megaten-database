@@ -537,9 +537,10 @@ Hierophant:
     - 2. You have a great daughter. +15
     - Phone 2. Futaba did great. +5
   Rank 10:
-  Hangout Normal:
+  Hangout Gift:
     Choices:
-    - 1. Spent time. +15
+    - 1. Spent time. +5
+    - 1. Gift Castella. +50
 Lovers:
   Rank 1 - Auto:
     Requires:
@@ -1223,7 +1224,7 @@ Fortune:
     - 2. Such a delicious thrill... +15
   Hangout Normal:
     Choices:
-    - 1. Spent time. +15
+    - 1. Spent time. +10
 Strength:
   Hangout Big Bang Burger:
     Requires:
@@ -1597,7 +1598,7 @@ Temperance:
   Invite Afterparty 10/26:
     Requires:
     - Temperance Rank 10
-  Hangout Ueno:
+  Hangout Ueno Romantic:
     Requires:
     - Temperance Rank 10
     Choices:
@@ -1611,7 +1612,7 @@ Temperance:
     - 1. I love you even more. +15
   Hangout Normal:
     Choices:
-    - 1. Spent time. +15
+    - 1. Spent time. +10
 Devil:
   Rank 1:
     Unlocks:

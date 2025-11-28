@@ -1,4 +1,4 @@
-April:
+01-April:
   4/09 Sat:
     Daytime: ["Auto"]
     Evening: ["Auto"]
@@ -25,14 +25,14 @@ April:
     Evening: ["Auto"]
   4/17 Sun:
     Daytime: ["Auto"]
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   4/18 Mon:
     Daytime: ["Death Rank 1"]
-    Evening: ["Clean Your Room"]
+    Evening: ["Your Room > Clean"]
   4/19 Tue:
     Daytime:
-    - Library > Borrow Pirate Legend
-    - Flower Shop > Buy Bio Nutrients
+    - Shujin Library > Pirate Legend
+    - Shibuya Flower Shop > Bio Nutrients x1
     - Chariot Rank 2
     Evening:
     - Potted Plant > Bio Nutrients
@@ -40,23 +40,23 @@ April:
   4/20 Wed:
     Train: ["Books > Pirate Legend 2/2"]
     Daytime: 
-    - Library > Borrow The Alluring Dancer
+    - Shujin Library > The Alluring Dancer
     - Castle Palace
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   4/21 Thu:
     Daytime:
-    - Recyling Shop > Buy DVD Player
-    - DVD Store > Buy Shop Membership
-    - DVD Store > Borrow Guy McVer
-    - Send calling card
+    - Yongenjaya Secondhand Shop > DVD Player
+    - Shibuya DVD Shop > DVD Shop Membership
+    - Shibuya DVD Shop > Guy McVer
+    - Hideout > Send calling card
     Evening: ["DVDs > Guy McVer 1/2"]
   4/22 Fri:
     Daytime: ["Castle Palace"]
     Evening: ["DVDs > Guy McVer 2/2"]
   4/23 Sat:
     Daytime:
-    - DVD Store > Borrow The X Folders
-    - Flower Shop > Buy Bio Nutrients x2
+    - Shibuya DVD Shop > The X Folders
+    - Shibuya Flower Shop > Bio Nutrients x2
     - Chariot Rank 3
     Evening: ["Hierophant Rank 1"]
   4/24 Sun:
@@ -75,8 +75,10 @@ April:
     Daytime: ["Shibuya > Convenience Store Job"]
     Evening: ["Hierophant Rank 3"]
   4/28 Thu:
-    Daytime: ["Death Rank 3"]
-    Evening: ["Hierophant Hangout Normal"]
+    Daytime:
+    - Death Rank 3
+    - Shibuya Underground Mall > Castella
+    Evening: ["Hierophant Hangout Gift"]
   4/29 Fri:
     Daytime: ["Shibuya > Flower Shop Job"]
     Evening: ["Yongenjaya > Bathhouse"]
@@ -84,7 +86,7 @@ April:
     Train: ["Books > The Alluring Dancer 2/2"]
     Daytime: ["Shibuya > Flower Shop Job"]
     Evening: ["Hierophant Rank 4"]
-May:
+02-May:
   5/01 Sun:
     Daytime:
     - Shibuya > Aojiru
@@ -103,19 +105,19 @@ May:
     Daytime: ["Auto"]
     Evening:
     - Potted Plant > Bio Nutrients
-    - Your Desk > Crafting
+    - Your Room > Crafting
   5/06 Fri:
     Daytime:
-    - DVD Store > Borrow Wraith
+    - Shibuya DVD Shop > Wraith
     - Lovers Rank 2
     Evening: ["Shibuya > Beef Bowl Job"]
   5/07 Sat:
     Daytime: ["Auto"]
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   5/08 Sun:
     Daytime: ["Auto"]
     Evening:
-    - TV Shopping > Bio Nutrients Set
+    - Leblanc TV Shopping > Bio Nutrients Set
     - Shibuya > Aojiru
     - Yongenjaya > Bathhouse
   5/09 Mon:
@@ -144,19 +146,19 @@ May:
     Evening: ["Auto"]
   5/17 Tue:
     Daytime: ["Auto"]
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   5/18 Wed:
     Daytime: ["Museum Palace"]
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   5/19 Thu:
     Daytime: ["Museum Palace"]
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   5/20 Fri:
     Class: ["Hallway > Exam Results"]
     Daytime:
-    - Library > Borrow the Gallant Rogue
+    - Shujin Library > the Gallant Rogue
     - Museum Palace
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   5/21 Sat:
     Train: ["Books > The Gallant Rogue 1/2"]
     Daytime: ["Death Rank 6"]
@@ -166,15 +168,15 @@ May:
   5/22 Sun:
     Daytime:
     - Shibuya > Aojiru
-    - Send Calling Card
-    Evening: ["Your Desk > Crafting"]
+    - Hideout > Send calling card
+    Evening: ["Your Room > Crafting"]
   5/23 Mon:
     Daytime: ["Museum Palace"]
-    Evening: ["Your Desk > Crafting"]
+    Evening: ["Your Room > Crafting"]
   5/24 Tue:
     Train: ["Books > The Gallant Rogue 2/2"]
     Daytime:
-    - Investigate > If Cats Disappeared from the City Request
+    - Investigate > If Cats Disappeared from the City
     - Chariot Rank 4
     Evening: ["Shibuya Diner > Surprise Sando"]
   5/25 Wed:
@@ -200,14 +202,14 @@ May:
   5/31 Tue:
     Daytime: ["Lovers Hangout Harajuku"]
     Evening: ["Sun Rank 0.1"]
-June:
+03-June:
   6/01 Wed:
     Daytime: ["Chariot Rank 6"]
     Evening: ["Sun Rank 1"]
   6/02 Thu:
     Daytime: ["Death Rank 7"]
     Evening:
-    - Shibuya Bookstore > Buy The Art of Charm
+    - Shibuya Bookstore > The Art of Charm
     - Shibuya > Beef Bowl Job
   6/03 Fri:
     Train: ["Books > The Art of Charm 1/2"]
@@ -220,7 +222,7 @@ June:
   6/05 Sun:
     Daytime: ["Auto"]
     Evening:
-    - Investigate > An Elderly's Meaning of Life Request
+    - Investigate > An Elderly's Meaning of Life
     - Shibuya > Aojiru
     - Sun Rank 2
   6/06 Mon:
@@ -236,7 +238,7 @@ June:
     Evening: ["Lovers Hangout Darts"]
   6/09 Thu:
     Daytime: ["Auto"]
-    Evening: ["Billiards 1/4"]
+    Evening: ["Darts Club > Billiards Lv. 1"]
   6/10 Fri:
     Daytime: ["Auto"]
     Evening: ["Temperance Rank 5"]
@@ -246,7 +248,7 @@ June:
   6/12 Sun:
     Daytime: ["Lovers Rank 7"]
     Evening:
-    - Sports Shop > Buy Expert Billiards
+    - Shibuya Sports Shop > Expert Billiards
     - Shibuya > Aojiru
     - Sun Rank 3
   6/13 Mon:
@@ -262,13 +264,13 @@ June:
   6/16 Thu:
     Class: ["Class > Crafting"]
     Daytime: ["Auto"]
-    Evening: ["Billards 2/4"]
+    Evening: ["Darts Club > Billiards Lv. 2"]
   6/17 Fri:
     Daytime: ["Auto"]
     Evening: ["Temperance Hangout Normal"]
   6/18 Sat:
     Daytime:
-    - Recyling Shop > Buy Retro Game Console Set
+    - Yongenjaya Secondhand Shop > Famidrive
     - Emperor Rank 1
     Evening: ["Video Games > Star Forneus 1/3"]
   6/19 Sun:
@@ -280,15 +282,15 @@ June:
   6/21 Tue:
     Daytime: ["Magician Hangout Darts"]
     Evening:
-    - Shinjuku Bookstore > Buy Craft of Cinema
-    - Shinjuku Bookstore > Buy ABCs of Crafting
-    - Shinjuku Bookstore > Buy Game Secrets
-    - Shinjuku Flower Shop > Buy Mega Fertilizer
+    - Shinjuku Bookstore > Craft of Cinema
+    - Shinjuku Bookstore > ABCs of Crafting
+    - Shinjuku Bookstore > Game Secrets
+    - Shinjuku Flower Shop > Mega Fertilizer x1
     - Strength Hangout Gym
   6/22 Wed:
     Daytime: ["Lovers Rank 8"]
     Evening:
-    - DVD Store > Borrow The Running Dead
+    - Shibuya DVD Shop > The Running Dead
     - Potted Plant > Mega Fertilizer
     - Chariot Rank 7
   6/23 Thu:
@@ -297,9 +299,9 @@ June:
     Evening: ["DVDs > The Running Dead 1/2"]
   6/24 Fri:
     Daytime:
-    - DVD Store > Return The Running Dead
-    - DVD Store > Borrow Bubbly Hills
-    - Send calling card
+    - Shibuya DVD Shop > Return The Running Dead
+    - Shibuya DVD Shop > Bubbly Hills
+    - Hideout > Send calling card
     Evening: ["DVDs > Bubbly Hills 1/2"]
   6/25 Sat:
     Class: ["Books > ABCs of Crafting 1/1"]
@@ -308,7 +310,7 @@ June:
   6/26 Sun:
     Daytime: ["Emperor Rank 2"]
     Evening:
-    - DVD Store > Borrow The Running Dead
+    - Shibuya DVD Shop > The Running Dead
     - Shibuya > Aojiru
     - Sun Rank 4
   6/27 Mon:
@@ -323,17 +325,17 @@ June:
   6/30 Thu:
     Daytime: ["Emperor Rank 3"]
     Evening: ["Fortune Rank 0.2"]
-July:
+04-July:
   7/01 Fri:
     Train: ["Books > Game Secrets 1/1"]
     Daytime:
-    - Library > Borrow Speed Reader
+    - Shujin Library > Speed Reader
     - Shibuya Movies > Love Possibly
     Evening: ["Temperance Rank 8"]
   7/02 Sat:
     Class: ["Books > Speed Reader 1/1"]
     Daytime:
-    - Library > Borrow Zorro, the Outlaw
+    - Shujin Library > Zorro, the Outlaw
     - Emperor Rank 4
     Evening: ["Justice Rank 3"]
   7/03 Sun:
@@ -344,7 +346,7 @@ July:
   7/04 Mon:
     Train: ["Books > Zorro, the Outlaw 2/2"]
     Daytime:
-    - Library > Borrow The Illusory Popess
+    - Shujin Library > The Illusory Popess
     - Emperor Rank 5
     Evening: ["Fortune Rank 0.3"]
   7/05 Tue:
@@ -353,14 +355,14 @@ July:
   7/06 Wed:
     Class: ["Books > The Illusory Popess 2/2"]
     Daytime:
-    - Shibuya Bookstore > Buy Ghost Encounters
-    - Shinjuku Flower Shop > Buy Mega Fertilizer x5
-    - DVD Store > Borrow Not So Hot Betsy
-    - Sports Shop > Buy Jump Cue
-    - Billiards 3/4
+    - Shibuya Bookstore > Ghost Encounters
+    - Shibuya DVD Shop > Not So Hot Betsy
+    - Shibuya Sports Shop > Jump Cue
+    - Darts Club > Billiards Lv. 3
     Evening:
-    - Temperance Rank 9 Platonic
+    - Shinjuku Flower Shop > Mega Fertilizer x5
     - Temperance Rank 9 Romantic
+    - Temperance Rank 9 Platonic
   7/07 Thu:
     Daytime: ["Faith Rank 4"]
     Evening: ["Fortune Rank 1"]
@@ -417,9 +419,9 @@ July:
   7/19 Tue:
     Class: ["Hallway > Exam Results"]
     Daytime:
-    - DVD Store > Borrow Jail Break
-    - Shibuya Bookstore > Buy Tidying the Heart
-    - Shibuya Bookstore > Buy Buchiko's Story
+    - Shibuya DVD Shop > Jail Break
+    - Shibuya Bookstore > Tidying the Heart
+    - Shibuya Bookstore > Buchiko's Story
     - Chariot Rank 8
     Evening: ["Fortune Rank 2"]
   7/20 Wed:
@@ -443,14 +445,14 @@ July:
   7/26 Tue:
     Daytime: ["Pyramid Palace"]
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Luck Reading > Kindness
     - Potted Plant > Mega Fertilizer
     - Fortune Rank 3
   7/27 Wed:
     Daytime: ["Pyramid Palace"]
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Star Rank 2
   7/28 Thu:
     Daytime: ["Emperor Rank 6"]
@@ -468,7 +470,7 @@ July:
     Evening:
     - Shibuya > Aojiru
     - Sun Rank 6
-August:
+05-August:
   8/01 Mon:
     Daytime: ["Chariot Rank 9"]
     Evening: ["Star Rank 3"]
@@ -498,8 +500,8 @@ August:
     - Sun Rank 7
   8/08 Mon:
     Daytime:
-    - Lovers Rank 9 Platonic
     - Lovers Rank 9 Romantic
+    - Lovers Rank 9 Platonic
     Evening: ["Devil Rank 2"]
   8/09 Tue:
     Daytime: ["Emperor Rank 9"]
@@ -539,7 +541,7 @@ August:
     Evening: ["Devil Rank 3"]
   8/16 Tue:
     Daytime:
-    - Jinbocho Bookstore > Buy Master Swordsman
+    - Jinbocho Bookstore > Master Swordsman
     - Priestess Rank 6
     Evening: ["Star Rank 4"]
   8/17 Wed:
@@ -549,7 +551,7 @@ August:
     Daytime: ["Priestess Rank 7"]
     Evening: ["Devil Rank 4"]
   8/19 Fri:
-    Daytime: ["Billiards 4/4"]
+    Daytime: ["Darts Club > Billiards Lv. 4"]
     Evening: ["Strength Hangout Church"]
   8/20 Sat:
     Daytime: ["Priestess Rank 8"]
@@ -598,16 +600,16 @@ August:
   8/31 Wed:
     Daytime: ["Auto"]
     Evening: ["Books > Master Swordsman 3/3"]
-September:
+06-September:
   9/01 Thu:
     Daytime: ["Auto"]
     Evening: ["Fortune Rank 7.1"]
   9/02 Fri:
     Daytime: ["Strength Hangout Beach"]
     Evening:
-    - Recyling Shop > Buy Broken Laptop
-    - Akihabara > Buy PC Tools Set
-    - Akihabara > Buy Aluminum Sheet x2
+    - Yongenjaya Secondhand Shop > Broken Laptop
+    - Akihabara Hardware Store > PC Tools Set
+    - Akihabara Hardware Store > Aluminum Sheet x2
     - Moon Rank 6
   9/03 Sat:
     Daytime: ["Auto"]
@@ -622,10 +624,10 @@ September:
     Evening: ["Hierophant Rank 5"]
   9/06 Tue:
     Daytime:
-    - Akihabara > Buy Aluminum Sheet x2
-    - Investigate > One Who Bullies Bullies Request
-    - Investigate > Winners Don't Use Cheats Request
-    - Money Reading
+    - Akihabara Hardware Store > Aluminum Sheet x2
+    - Investigate > One Who Bullies Bullies
+    - Investigate > Winners Don't Use Cheats
+    - Chihaya > Money Reading
     - Mementos Palace
     Evening: ["Auto"]
   9/07 Wed:
@@ -663,15 +665,15 @@ September:
     Evening: ["Auto"]
   9/18 Sun:
     Daytime: ["Auto"]
-    Evening: ["Your Desk > Repair Laptop"]
+    Evening: ["Your Room > Repair Laptop"]
   9/19 Mon:
     Daytime:
     - Luck Reading > Kindness
-    - Akihabara > Buy Aluminum Sheet x2
-    - Jinbocho Bookstore > Buy Reckless Casanova
-    - Jinbocho Bookstore > Buy Heroic Revelations
-    - Jinbocho Bookstore > Buy Call Me Chief
-    - Jinbocho Bookstore > Buy The Art of Automata
+    - Akihabara Hardware Store > Aluminum Sheet x2
+    - Jinbocho Bookstore > Reckless Casanova
+    - Jinbocho Bookstore > Heroic Revelations
+    - Jinbocho Bookstore > Call Me Chief
+    - Jinbocho Bookstore > The Art of Automata
     - Tower Rank 1
     Evening:
     - Potted Plant > Mega Fertilizer
@@ -690,30 +692,30 @@ September:
   9/23 Fri:
     Class: ["Books > Reckless Casanova 2/3"]
     Daytime:
-    - Money Reading
-    - Celestial Reading
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Spaceport Palace
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Empress Hangout Darts
   9/24 Sat:
     Train: ["Books > Heroic Revelations 2/3"]
     Daytime:
     - Luck Reading > Knowledge
-    - Send calling card
+    - Hideout > Send calling card
     Evening: ["Books > Heroic Revelations 3/3"]
   9/25 Sun:
     Daytime: ["Spaceport Palace"]
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Priestess Hangout Jazz Club
   9/26 Mon:
     Daytime: ["Tower Rank 2"]
     Evening: ["Star Rank 7"]
   9/27 Tue:
     Daytime:
-    - Priestess Rank 9 Platonic
     - Priestess Rank 9 Romantic
+    - Priestess Rank 9 Platonic
     Evening: ["Devil Rank 5"]
   9/28 Wed:
     Train: ["Books > Call Me Chief 2/3"]
@@ -728,7 +730,7 @@ September:
     Class: ["Books > Call Me Chief 3/3"]
     Daytime: ["Councillor Rank 7"]
     Evening: ["Devil Rank 7"]
-October:
+07-October:
   10/01 Sat:
     Daytime: ["Tower Rank 4.0"]
     Evening: ["Hanged Rank 6"]
@@ -780,9 +782,9 @@ October:
     Evening: ["Lovers Invite Study Evening"]
   10/16 Sun:
     Daytime:
-    - Jinbocho Bookstore > Buy Knowing the Heart
-    - Shinjuku Bookstore > Buy Pro Darts
-    - Shinjuku Bookstore > Buy Flowerpedia
+    - Jinbocho Bookstore > Knowing the Heart
+    - Shinjuku Bookstore > Pro Darts
+    - Shinjuku Bookstore > Flowerpedia
     - Hermit Rank 7
     Evening: ["Chariot Invite Study Evening"]
   10/17 Mon:
@@ -831,24 +833,25 @@ October:
   10/31 Mon:
     Class: ["Books > Knowing the Heart 1/1"]
     Daytime:
-    - Library > Borrow Cry of Cthulhu
-    - Money Reading
-    - Celestial Reading
+    - Shujin Library > Cry of Cthulhu
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Casino Palace
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Star Rank 7.1
-November:
+08-November:
   11/01 Tue:
     Daytime: ["Casino Palace"]
     Evening:
-    - Kawakami Massage
-    - Fortune Rank 9 Platonic
+    - Call Kawakami > Massage
     - Fortune Rank 9 Romantic
+    - Fortune Rank 9 Platonic
   11/02 Wed:
     Train: ["Books > Cry of Cthulhu 2/2"]
     Daytime:
-    - Library > Borrow Woman in the Dark
+    - Hideout > Attempt to send calling card
+    - Shujin Library > Woman in the Dark
     - Empress Rank 1
     Evening: ["Justice Rank 7"]
   11/03 Thu:
@@ -861,7 +864,7 @@ November:
     Train: ["Books > Woman in the Dark 2/2"]
     Class: ["Books > Pro Darts 1/1"]
     Daytime:
-    - Library > Borrow Dressed in Ashes
+    - Shujin Library > Dressed in Ashes
     - Councillor Rank 8
     Evening: ["Hanged Rank 7.1"]
   11/06 Sun:
@@ -872,11 +875,11 @@ November:
     Evening: ["Moon Rank 8"]
   11/08 Tue:
     Daytime:
-    - Money Reading
-    - Celestial Reading
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Mementos Palace
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Justice Rank 8
   11/09 Wed:
     Daytime: ["Hermit Rank 8"]
@@ -884,14 +887,14 @@ November:
   11/10 Thu:
     Train: ["Books > Dressed in Ashes 2/2"]
     Daytime:
-    - Library > Borrow Hero with a Bow
+    - Shujin Library > Hero with a Bow
     - Affinity Reading > Star
     - Tower Rank 9
     Evening: ["Moon Rank 9"]
   11/11 Fri:
     Class: ["Books > Hero with a Bow 2/2"]
     Daytime:
-    - Library > Borrow The Great Thief
+    - Shujin Library > The Great Thief
     - Affinity Reading > Star
     - Empress Rank 2
     Evening:
@@ -899,13 +902,13 @@ November:
   11/12 Sat:
     Daytime: ["Tower Rank 10"]
     Evening:
-    - Star Rank 9 Platonic
     - Star Rank 9 Romantic
+    - Star Rank 9 Platonic
   11/13 Sun:
     Daytime:
     - Affinity Reading > Star
-    - Hermit Rank 9 Platonic
     - Hermit Rank 9 Romantic
+    - Hermit Rank 9 Platonic
     Evening: ["Empress Invite Movies"]
   11/14 Mon:
     Train: ["Books > The Great Thief 2/2"]
@@ -951,47 +954,47 @@ November:
     Evening: ["Hanged Rank 8"]
   11/27 Sun:
     Daytime:
-    - Death Rank 9 Platonic
     - Death Rank 9 Romantic
+    - Death Rank 9 Platonic
     Evening:
     - Affinity Reading > Death
     - Hanged Rank 9
   11/28 Mon:
     Daytime: ["Empress Rank 7"]
     Evening:
-    - Devil Rank 9 Platonic
     - Devil Rank 9 Romantic
+    - Devil Rank 9 Platonic
   11/29 Tue:
     Daytime: ["Empress Rank 8"]
     Evening: ["Devil Hangout Ginza"]
   11/30 Wed:
     Daytime:
     - Death Rank 10 Platonic
-    - Fishing
+    - Ichigaya > Fishing
     Evening:
     - Death Rank 10 Romantic
-    - Fishing
-December:
+    - Ichigaya > Fishing
+09-December:
   12/01 Thu:
     Daytime:
-    - Empress Rank 9 Platonic
     - Empress Rank 9 Romantic
+    - Empress Rank 9 Platonic
     Evening: ["Hanged Rank 10"]
   12/02 Fri:
     Daytime: ["Empress Rank 10"]
     Evening: ["Devil Rank 10"]
   12/03 Sat:
     Daytime:
-    - Money Reading
-    - Celestial Reading
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Cruiser Palace
     Evening:
-    - Kawakami Massage
-    - Temperance Hangout Ueno
+    - Call Kawakami > Massage
+    - Temperance Hangout Ueno Romantic
   12/04 Sun:
     Daytime: ["Cruiser Palace"]
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Hanged Hangout Inokashira
   12/05 Mon:
     Daytime: ["Emperor Hangout Meiji-Shrine"]
@@ -1046,11 +1049,11 @@ December:
     Evening: ["Auto"]
   12/22 Thu:
     Daytime:
-    - Money Reading
-    - Celestial Reading
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Mementos Palace
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Free Time
   12/23 Fri:
     Daytime: ["Auto"]
@@ -1080,7 +1083,7 @@ December:
   12/31 Sat:
     Daytime: ["Auto"]
     Evening: ["Auto"]
-January:
+10-January:
   1/01 Sun:
     Daytime: ["Auto"]
     Evening: ["Auto"]
@@ -1134,8 +1137,8 @@ January:
     Evening: ["Free Time"]
   1/18 Wed:
     Daytime:
-    - Faith Rank 9 Platonic
     - Faith Rank 9 Romantic
+    - Faith Rank 9 Platonic
     Evening: ["Free Time"]
   1/19 Thu:
     Train: ["Books > Essence of Fishing 1/1"]
@@ -1160,33 +1163,33 @@ January:
   1/25 Wed:
     Class: ["Books > Social Thought 2/2"]
     Daytime:
-    - Money Reading
-    - Celestial Reading
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Mementos Palace
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Free Time
   1/26 Thu:
     Train: ["Books > Flowerpedia 1/1"]
     Daytime:
-    - Money Reading
-    - Celestial Reading
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Laboratory Palace
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Free Time
   1/27 Fri:
     Daytime: ["Free Time"]
     Evening: ["Free Time"]
   1/28 Sat:
     Daytime:
-    - Investigate > Fake-Man Show Request
-    - Investigate > An Idol and a Unicorn Request
-    - Money Reading
-    - Celestial Reading
+    - Investigate > Fake-Man Show
+    - Investigate > An Idol and a Unicorn
+    - Chihaya > Money Reading
+    - Chihaya > Celestial Reading
     - Mementos Palace
     Evening:
-    - Kawakami Massage
+    - Call Kawakami > Massage
     - Free Time
   1/29 Sun:
     Daytime: ["Free Time"]
@@ -1197,7 +1200,7 @@ January:
   1/31 Tue:
     Daytime: ["Free Time"]
     Evening: ["Free Time"]
-February:
+11-February:
   2/01 Wed:
     Daytime: ["Free Time"]
     Evening: ["Free Time"]

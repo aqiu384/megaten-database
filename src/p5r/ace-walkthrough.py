@@ -2,6 +2,7 @@
 import yaml
 import math
 import re
+from jinja2 import Environment, FileSystemLoader
 
 class SaveFile:
     def __init__(self, config, calendar):
@@ -44,17 +45,25 @@ class SaveFile:
     def conbini_unlocks(self, date):
         points = 5 if self.countups[2] > 0 and date.endswith('7') else 3
         self.countups[2] += 1
-        return [f"Charm +{points}"]
+        return [f"+Y{7400 if points == 5 else 3500}", f"Charm +{points}"]
 
     def flowershop_unlocks(self, date):
+        bouquets = [
+            'None',
+            'Scarlet Rose > Gold Gerbera > Gecko Orchid',
+            'Justice Jasmine > Fluorescent Freesia > Enamored Orchid'
+        ]
+
         dow = self.calendar[date][0]
+        choices = []
         points = 3
         if self.countups[3] == 0:
             self.countups[3] += 1
         elif self.countups[3] == 1 or dow == 'Wed' or dow == 'Sat':
             points = 5
+            choices = [bouquets[self.countups[3]]]
             self.countups[3] += 1
-        return [f"Kindness +{points}"]
+        return choices + [f"+Y{7800 if points == 5 else 3200}", f"Kindness +{points}"]
 
     def beefbowl_unlocks(self, date):
         points = 3
@@ -63,21 +72,21 @@ class SaveFile:
         elif self.countups[4] == 1 or date.endswith('2'):
             points = 5
         self.countups[4] += 1
-        return [f"Proficiency +{points}"]
+        return [f"+Y{8800 if points == 5 else 3600}", f"Proficiency +{points}"]
 
     def crossroads_unlocks(self, date):
         bonus = ['Guts +3'] if self.countups[5] > 0 and self.calendar[date][0] == 'Sun' else []
         self.countups[5] += 1
-        return ['Kindness +3'] + bonus
+        return [f"+Y{12000 if len(bonus) > 0 else 7200}", 'Kindness +3'] + bonus
 
     def exam_unlocks(self, date):
         points = 0
         if 1 < self.social_stats['Knowledge'][2]:
             points = 3
-            self.exam_coeff = 1.24
+            self.exam_coeff = 1.25
         if 3 < self.social_stats['Knowledge'][2]:
             points = 5
-            self.exam_coeff = 1.49
+            self.exam_coeff = 1.50
         return [f"Charm +{points}"]
 
     def update_unlocks(self, task, unlocks, date):
@@ -92,7 +101,7 @@ class SaveFile:
                 if (stat, date) == self.luck_reading:
                     points = math.floor(points * 1.5)
 
-                new_unlock = f"{stat} +{points}"
+                new_unlocks.append(f"{stat} +{points}")
 
                 total, target, rank = self.social_stats[stat]
                 total += points
@@ -100,14 +109,28 @@ class SaveFile:
                 if rank < 5 and total >= target:
                     rank += 1
                     target = self.config['Social Stats'][stat][rank]
-                    new_unlock = f"{new_unlock} ({stat} Lv. {rank})"
+                    new_unlocks.append(f"{stat} Lv. {rank}")
 
                 self.social_stats[stat] = (total, target, rank)
-                new_unlocks.append(new_unlock)
             else:
-                pass
+                new_unlocks.append(unlock)
 
         return new_unlocks
+
+    def update_choices(self, task, choices, next_rank):
+        if next_rank < 0:
+            return choices
+
+        total = 0
+        new_choices = []
+        for choice in choices:
+            if choice != 'Any':
+                choice, points = choice.split(' +')
+                points = int(points)
+                total += points
+                new_choices.append(f"{choice} +{points}")
+        new_choices.append(f"{total}/{next_rank} points to next rank")
+        return new_choices
 
     def set_luck_reading(self, stat, date):
         _ = self.social_stats[stat]
@@ -134,13 +157,15 @@ def expand_confidant(task, date, savefile, confidants):
     if entry is None:
         entry = {}
 
+    choices = savefile.update_choices(task, entry.get('Choices', []), entry.get('Next Rank', -1))
     unlocks = savefile.update_unlocks(task, entry.get('Unlocks', []), date)
+    # return entry.get('Requires', []) + choices + unlocks
     return unlocks
 
 def expand_activity(task, date, savefile, activities):
     unlocks = []
 
-    if ' > ' in task:
+    if task != 'Auto' and task != 'Free Time' and not task.endswith('Palace'):
         activity, choice = task.split(' > ')
         pages_left = 0
 
@@ -159,14 +184,11 @@ def expand_activity(task, date, savefile, activities):
             pass
         elif activity == 'Books' and pages_left > 0:
             pass
-        elif activity in activities:
-            unlocks = activities[activity][choice]
-        # else:
-        #     print(task)
+        else:
+            options = activities[activity]
+            unlocks = options['All'] if choice not in options else options[choice]
 
         unlocks = savefile.update_unlocks(task, unlocks, date)
-    else:
-        print(task)
 
     return unlocks
 
@@ -207,7 +229,11 @@ def expand_walkthrough(fname):
         for date, day in walkthrough[month].items():
             date = date[:date.find(' ')]
             for timeslot in config['Timeslots']:
+                new_tasks = []
+
                 for task in day.get(timeslot, []):
+                    choices = []
+
                     if 'Question' in task:
                         unlocks = expand_question(task, date, savefile, confidants)
                     elif task[:task.find(' ')] in config['Confidants']:
@@ -215,7 +241,23 @@ def expand_walkthrough(fname):
                     else:
                         unlocks = expand_activity(task, date, savefile, activities)
 
-                    # print(date, timeslot, task, unlocks)
+                    new_entry = { 'Task': task }
+                    if len(unlocks) > 0:
+                        new_entry['Todo'] = unlocks
+                    new_tasks.append(new_entry)
+
+                if len(new_tasks) > 0:
+                    day[timeslot] = new_tasks
+
+    env = Environment(loader=FileSystemLoader('templates'), trim_blocks=True, lstrip_blocks=True)
+    env.filters['resist_type_format'] = lambda x: RESIST_TYPES.get(x, x)
+    env.filters['resist_frac_format'] = lambda x: RESIST_FRACS.get(x, 100)
+    env.filters['skill_lvl_format'] = lambda x: '-' if x < 2 else str(x)
+    template = env.get_template('ace-walkthrough.md')
+    output = template.render(walkthrough=walkthrough, config=config)
+
+    with open('walkthrough.md', 'w+') as mdfile:
+        mdfile.write(output)
 
 if __name__ == '__main__':
     expand_walkthrough('walkthrough/ace-walkthrough.yaml')
