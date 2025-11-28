@@ -1,0 +1,104 @@
+Your Desk:
+  Crafting: ["Proficiency +3"]
+  Repair Laptop: ["Proficiency +5"]
+Class:
+  Crafting: ["Proficiency +2"]
+Leblanc:
+  Brew Coffee: ["Charm +2"]
+  Clean Leblanc: ["Kindness +2"]
+Potted Plant:
+  Garden Energy: ["Kindness +2"]
+  Bio Nutrients: ["Kindness +3"]
+  Mega Fertilizer: ["Kindness +5"]
+Books:
+  The Great Thief: ["Knowledge +5"]
+  Pirate Legend: ["Guts +5"]
+  Zorro, the Outlaw: ["Kindness +5"]
+  The Alluring Dancer: ["Charm +5"]
+  The Gallant Rogue: ["Guts +5"]
+  The Illusory Popess: ["Kindness +5"]
+  Cry of Cthulhu: ["Guts +5"]
+  Woman in the Dark: ["Proficiency +5"]
+  Dressed in Ashes: ["Charm +5"]
+  Hero with a Bow: ["Guts +5"]
+  The Art of Charm: ["Charm +5"]
+  Ghost Encounters: ["Guts +5"]
+  Tidying the Heart: ["Proficiency +5"]
+  Buchiko's Story: ["Kindness +5"]
+  Craft of Cinema: ["Two extra social stat points to DVDs and Movies"]
+  ABCs of Crafting: ["Doubles amount attempts during Crafting"]
+  Game Secrets: ["Enables use of cheats to make Video Games easier"]
+  Batting Science: ["Unlocks Third Eye in Batting Cages"]
+  Pro Darts: ["Unlocks Third Eye during Darts"]
+  Essence of Fishing: ["Unlocks Third Eye during Fishing"]
+  Flowerpedia: ["Shows flower descriptions during Flower Shop Job"]
+  Speed Reader: ["Doubles amount of pages read for Books"]
+  Factorization Guide: ["Two extra Knowledge points while Studying"]
+  Expert Billiards: ["Unlocks Technical Lv. 1"]
+  Billiards Magician: ["Unlocks masse shot"]
+  Master Swordsman: ["Guts +7"]
+  Reckless Casanova: ["Charm +7"]
+  Heroic Revelations: ["Knowledge +7"]
+  Call Me Chief: ["Kindness +7"]
+  The Art of Automata: ["Proficiency +7"]
+  Knowing the Heart: ["Unlocks additional ailment-element Technial combos"]
+  Social Thought: ["Knowledge +5"]
+  Chinese Sweets: ["China Town Location"]
+DVDs:
+  The X Folders: ["Guts +3"]
+  Bubbly Hills: ["Charm +3"]
+  Wraith: ["Kindness +3"]
+  Guy McVer: ["Proficiency +3"]
+  The Running Dead: ["Guts +3"]
+  Not So Hot Betsy: ["Charm +3"]
+  Jail Break: ["Proficiency +3"]
+Video Games:
+  Star Forneus: ["Guts +3"]
+Shibuya Movies:
+  Tanktop Millionaire: ["Guts +5"]
+  The Cake Knight Rises: ["Kindness +5"]
+  Love Possibly: ["Charm +5"]
+  Mes Miserables: ["Kindness +5"]
+  Admission Possible: ["Proficiency +5"]
+  Clean Hard: ["Kindness +5"]
+  Fighting Friends: ["Charm +5"]
+Shinjuku Movies:
+  Like a Dragon: ["Guts +5"]
+  Soraemon: ["Knowledge +5"]
+  The Duhvengers: ["Kindness +5"]
+  Pach Saw: ["Guts +5"]
+  Fighting Kebab: ["Guts +5"]
+Yongenjaya Movies:
+  Like a Showtime Tiger: ["Charm +5"]
+  Back to the Ninja: ["Knowledge +5"]
+  Popo's Nest: ["Kindness +5"]
+  Merry Chirstmess: ["Guts +5"]
+  March of the Sheeple: ["Proficiency +5"]
+  The Good Father: ["Kindness +5"]
+Kichijoji:
+  Ask info booth every question: ["Knowledge +2"]
+  Sit on sofa: ["Guts +2"]
+  Donut shop quiz: ["Guts +2"]
+Shibuya Diner:
+  Surprise Sando: ["Knowledge +2", "Guts +2"]
+  Nostalgic Steak: ["Knowledge +2", "Kindness +2"]
+  Frui-Tea: ["Knowledge +2", "Charm +2"]
+  Totem Pole: ["Knowledge +2", "Proficiency +2"]
+Maid Cafe:
+  Go fix it.: ["Charm +3", "Guts +2"]
+Big Bang Burger:
+  Big Bang Challenge Lv. 1:
+  - Guts +2
+  - Charm +2
+  - Knowledge +2
+  - Proficiency +2
+  Big Bang Challenge Lv. 2:
+  - Guts +3
+  - Charm +3
+  - Knowledge +3
+  - Proficiency +3
+  Big Bang Challenge Lv. 3:
+  - Guts +5
+  - Charm +5
+  - Knowledge +5
+  - Proficiency +5

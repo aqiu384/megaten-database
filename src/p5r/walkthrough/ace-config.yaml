@@ -1,0 +1,50 @@
+Months:
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+- January
+- February
+Timeslots:
+- Train
+- Class
+- Daytime
+- Evening
+Confidants:
+- Fool
+- Magician
+- Priestess
+- Empress
+- Emperor
+- Hierophant
+- Lovers
+- Chariot
+- Justice
+- Hermit
+- Fortune
+- Strength
+- Hanged
+- Death
+- Temperance
+- Devil
+- Tower
+- Star
+- Moon
+- Sun
+- Judgement
+- Faith
+- Councillor
+Social Stats:
+  Knowledge:   [0, 34, 82, 126, 192, 0]
+  Guts:        [0, 11, 38,  68, 113, 0]
+  Proficiency: [0, 12, 34,  60,  87, 0]
+  Kindness:    [0, 14, 47,  94, 136, 0]
+  Charm:       [0,  6, 52,  92, 132, 0]
+  Random:      [0, 999, 0,   0,   0, 0]
+  HP:          [0, 999, 0,   0,   0, 0]
+  SP:          [0, 999, 0,   0,   0, 0]

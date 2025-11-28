@@ -64,13 +64,22 @@ Magician:
   Rank 11 - Auto:
     Requires:
     - Available 1/10
+  Hangout Darts:
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - 1. Let him end on round 4. +0
+    - 3. I'm counting on you. +5
+  Hangout Jazz Club 12/11:
+    Unlocks:
+    - Debilitate
 Priestess:
   Rank 1:
     Requires:
     - Bank Palace cleared
     - Knowledge Lv. 3
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Cannot be raining
     Choices:
@@ -123,7 +132,7 @@ Priestess:
     Choices:
     - 1. He says that to all his girls. +5
     - 1. Absolutely. +10
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 55
     Requires:
     - Cannot be raining
@@ -134,7 +143,7 @@ Priestess:
     - 1. I'm a regular here. +15
     - 1. You'll find someone someday. +10
     - Phone 1. No problem at all. +5
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 55
     Requires:
     - Cannot be raining
@@ -207,10 +216,19 @@ Priestess:
     Choices:
     - 3. Spring rolls? +15
     - 2. Let's find some. +10
+  Hangout Darts:
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - 1. Let her end on round 4. +0
+    - 3. Take a deep breath. +5
+  Hangout Jazz Club 9/25:
+    Unlocks:
+    - Concentrate
 Empress:
   Rank 1:
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Choices:
     - 3. Are you starting a farm? +15
     - 3. He sounds suspicious. +5
@@ -265,7 +283,7 @@ Empress:
     - 2. He's going to love it. +15
     - 2. You're amazing, Haru. +15
     - Phone 3. I want some too. +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 20
     Choices:
     - Any
@@ -273,7 +291,7 @@ Empress:
     - 2. You did amazing. +15
     - 1. He saw us as good friends. +0
     - Phone 2. You sound happy. +5
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 20
     Choices:
     - Any
@@ -285,7 +303,7 @@ Empress:
   Rank 11:
     Requires:
     - Available 1/13
-  Invite Asakusa 11/6:
+  Invite Asakusa 11/06:
     Requires:
     - Devil Rank 1
     Unlocks:
@@ -305,10 +323,16 @@ Empress:
     - Giant Spatula Decoration
     Choices:
     - 1. We'll try together. +15
+  Hangout Darts:
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - 1. Let her end on round 4. +0
+    - 3. Have fun with it. +5
 Emperor:
   Rank 1:
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Choices:
     - 2. It's enigmatic. +5
     - 1. I can't wait. +15
@@ -333,6 +357,7 @@ Emperor:
     - Phone 1. Don't get discouraged. +5
   Rank 5:
     Next Rank: 25
+    Choices:
     - 3. Do you want me to strip? +15
     - 1. I'm sure you will. +10
     - Phone 3. There's still hope. +5
@@ -356,6 +381,7 @@ Emperor:
     - Phone 1. Calm down. +5
   Rank 8:
     Next Rank: 22
+    Choices:
     - 3. It has to be Ann. +5
     - 3. You've really grown, Yusuke. +10
   Rank 9:
@@ -374,22 +400,22 @@ Emperor:
     - Charm +5
     Choices:
     - 3. A bit of everything! +10
-  Invite Leblanc 8/1:
+  Invite Leblanc 8/01:
     Unlocks:
     - Charm +5
     Choices:
     - 3. Just take your clothes off. +10
-  Invite Leblanc 8/4:
+  Invite Leblanc 8/04:
     Unlocks:
     - Charm +5
     Choices:
     - 1. Let's go. +10
-  Invite Movies 8/5:
+  Invite Movies 8/05:
     Unlocks:
     - Kindness +5
     Choices:
     - 1. I don't mind. +10
-  Invite Leblanc 8/8:
+  Invite Leblanc 8/08:
     Requires:
     - DVD Player
     Unlocks:
@@ -423,6 +449,18 @@ Emperor:
     - Hamaya Decoration
     Choices:
     - 3. Boatloads of money. +10
+  Hangout Darts:
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - 1. Let him end on round 4. +0
+    - 1. Pretend like you're painting. +5
+  Hangout Jazz Club 9/04:
+    Unlocks:
+    - Charge
+  Hangout Jazz Club 1/15:
+    Unlocks:
+    - Ali Dance
 Hierophant:
   Rank 1:
   Rank 2:
@@ -482,12 +520,11 @@ Hierophant:
     - Any
     - Phone 3. Feel like a real dad now? +5
   Rank 8:
-    Next Rank: 1
+    Next Rank: 0
     Choices:
     - 2. Something with curry. +10
     - 2. I was just protecting Futaba. +5
   Rank 8.1:
-    Next Rank: 1
     Requires:
     - Hermit Daytime Hangout Slot
     - Soloing The Money-grubbing Uncle Request
@@ -500,6 +537,9 @@ Hierophant:
     - 2. You have a great daughter. +15
     - Phone 2. Futaba did great. +5
   Rank 10:
+  Hangout Normal:
+    Choices:
+    - 1. Spent time. +15
 Lovers:
   Rank 1 - Auto:
     Requires:
@@ -594,7 +634,7 @@ Lovers:
     - Any
     - 2. I'm sure she already knows. +15
     - Phone 3. You can ask her yourself. +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 35
     Requires:
     - Cannot be raining
@@ -603,7 +643,7 @@ Lovers:
     - Any
     - 2. I believe in you, Ann. +15
     - 2. You have the others. +0
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 35
     Requires:
     - Cannot be raining
@@ -622,7 +662,7 @@ Lovers:
   Rank 11:
     Requires:
     - Available 1/13
-  Invite Study Evening 5/9:
+  Invite Study Evening 5/09:
     Unlocks:
     - Knowledge +5
     Choices:
@@ -640,7 +680,7 @@ Lovers:
     - Charm +5
     Choices:
     - 2. Understandable. +10
-  Invite Meiji-Shrine 8/6:
+  Invite Meiji-Shrine 8/06:
     Requires:
     - Pyramid Palace cleared
     - Death Rank 1
@@ -671,6 +711,15 @@ Lovers:
     - Idol Poster Decoration
     Choices:
     - 1. Yeah. +10
+  Hangout Darts:
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - 1. Let her end on round 4. +0
+    - 3. Just play like normal. +5
+  Hangout Jazz Club 1/29:
+    Unlocks:
+    - Spell Master
 Chariot:
   Rank 1 - Auto:
     Requires:
@@ -771,7 +820,7 @@ Chariot:
     - Kindness +5
     Choices:
     - 1. They do. +10
-  Invite Ichigaya 7/3:
+  Invite Ichigaya 7/03:
     Requires:
     - Bank Palace cleared
     - Temperance Rank 1
@@ -791,7 +840,7 @@ Chariot:
     - Guts +5
     Choices:
     - 2. Definitely the rival. +15
-  Invite Leblanc 8/3:
+  Invite Leblanc 8/03:
     Unlocks:
     - Charm +5
     Choices:
@@ -820,12 +869,21 @@ Chariot:
     - 2. Let's go to the game center. +10
     - 1. Let's check it out. +15
     - Any
+  Hangout Darts:
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - 1. Let him end on round 4. +0
+    - 1. You gotta psych yourself up! +5
+  Hangout Jazz Club 1/22:
+    Unlocks:
+    - Arms Master
 Justice:
   Rank 1 - Auto:
     Requires:
     - Available 6/10
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Choices:
     - 1. You always seem so busy. +5
     - Any
@@ -858,7 +916,8 @@ Justice:
     - 2. I can use a microwave. +15
     - Phone 2. I kinda get it. +5
   Rank 5:
-    Next Rank: 1
+    Next Rank: 0
+    Choices:
     - Any
     - 1. Are you used to gunplay? +5
     - 1. You wanted to be a hero? +10
@@ -878,7 +937,7 @@ Justice:
     - 1. I think you're right. +10
     - Phone 3. My bad, I guess. +5
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Casino Palace calling card attempt
     - Knowledge Lv. 4
@@ -891,7 +950,7 @@ Justice:
     - 3. You're my rival. +0
     - Phone 3. We're rivals, aren't we? +5
   Rank 8:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Soloing Akechi
     Choices:
@@ -925,12 +984,19 @@ Justice:
     - Any
     - 1. If you like. (Devil) +10
     - 2. It's nothing bad. +5
+  Invite Jazz Club 11/16:
+  Hangout Darts 1/2:
+    Unlocks:
+    - Proficiency +3
+  Hangout Darts 2/2:
+    Unlocks:
+    - Proficiency +3
 Hermit:
   Rank 1 - Auto:
     Requires:
     - Available 8/31
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Kindness Lv. 4
     Choices:
@@ -966,7 +1032,7 @@ Hermit:
     - Any
     - Phone 1. Are you running away again? +5
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - Daughter's Just a Meal Ticket Request
     Choices:
@@ -981,7 +1047,7 @@ Hermit:
     - 1. You worked really hard too. +10
     - Any
     - Phone 3. Want more pats? +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 35
     Choices:
     - 1. You've really matured. +10
@@ -989,7 +1055,7 @@ Hermit:
     - 2. No way. +5
     - 1. Because we're teammates. +0
     - Phone 3. A key item. +5
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 35
     Choices:
     - 1. You've really matured. +10
@@ -1011,14 +1077,14 @@ Hermit:
     - Guts +5
     Choices:
     - 1. Win or lose. +10
-  Invite Movies 10/2:
+  Invite Movies 10/02:
     Requires:
     - Who's Muscling in Yongen-Jaya? Request cleared
     Unlocks:
     - Knowledge +5
     Choices:
     - 2. I think so... +10
-  Invite Nakano 10/9:
+  Invite Nakano 10/09:
     Requires:
     - Hanged Rank 1
     Unlocks:
@@ -1044,6 +1110,18 @@ Hermit:
     - Hero Figurine Decoration
     Choices:
     - 3. You feel betrayed... +15
+  Hangout Jazz Club 1/4:
+    Unlocks:
+    - Support Plus 1
+  Hangout Jazz Club 2/4:
+    Unlocks:
+    - Support Plus 2
+  Hangout Jazz Club 3/4:
+    Unlocks:
+    - Support Plus 3
+  Hangout Jazz Club 4/4:
+    Unlocks:
+    - Support Rate Up
 Fortune:
   Rank 0.1:
   Rank 0.2:
@@ -1056,7 +1134,7 @@ Fortune:
     Requires:
     - Ending the Boyfriend's Abuse Request cleared
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Choices:
     - 3. Encourage her. +0
     - 2. Overturn your fate! +0
@@ -1097,7 +1175,6 @@ Fortune:
     - 3. I don't think so. +15
     - Phone 1. Are you gonna be okay? +5
   Rank 7.1:
-    Next Rank: 1
     Unlocks:
     - Debunking the Psychihc! Request
     Choices:
@@ -1113,7 +1190,7 @@ Fortune:
     - 3. It's because you're strong. +15
     - 2. Hell yeah I am. +15
     - Phone 2. It was all your own will. +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 21
     Unlocks:
     - Y100000
@@ -1122,7 +1199,7 @@ Fortune:
     - 2. Well, fate can be changed. +15
     - 1. I like having my fortune read. +0
     - Phone 1. I'm planning on it. +5
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 21
     Unlocks:
     - Y100000
@@ -1132,7 +1209,7 @@ Fortune:
     - 2. So I can be with you. +0
     - Phone 1. I wanted to hear your voice too. +5
   Rank 10:
-  Hangout Jibocho:
+  Hangout Jinbocho:
     Requires:
     - Fortune Rank 4
     Choices:
@@ -1144,6 +1221,9 @@ Fortune:
     - Skytree Lamp Decoration
     Choices:
     - 2. Such a delicious thrill... +15
+  Hangout Normal:
+    Choices:
+    - 1. Spent time. +15
 Strength:
   Hangout Big Bang Burger:
     Requires:
@@ -1169,7 +1249,7 @@ Strength:
   Hangout Maid Cafe:
     Requires:
     - Available 9/3-12/22
-  Hangout Destiny Land:
+  Hangout Destinyland:
     Requires:
     - Available 10/1-12/22
   Hangout Art Museum:
@@ -1236,14 +1316,13 @@ Hanged:
     - 3. You should buy us something. +10
     - Phone 1. He's my age, so it comes easier. +5
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Choices:
     - 2. Absolutely. +10
     - 2. He's clever. +10
     - Any
     - Phone 1. Bring it on. +5
   Rank 7.1:
-    Next Rank: 1
     Requires:
     - Guts Lv. 5
     Unlocks:
@@ -1292,7 +1371,7 @@ Death:
     Unlocks:
     - Guts +2
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Guts Lv. 2
     Unlocks:
@@ -1339,7 +1418,7 @@ Death:
     - 2. It suits you. +10
     - Phone 1. You can count on me. +5
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - Guts +2
     Choices:
@@ -1348,7 +1427,6 @@ Death:
     - 1. Just rest for today. +5
     - 3. I'm glad you did. +5
   Rank 7.1:
-    Next Rank: 1
     Requires:
     - Charm Lv. 4
     Unlocks:
@@ -1370,7 +1448,7 @@ Death:
     - 2. Let's get to work, doctor. +15
     - 1. It's for Miwa-chan. +15
     - Phone 1. I'll be cheering you on. +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 36
     Requires:
     - Cannot be raining
@@ -1381,7 +1459,7 @@ Death:
     - 1. I love you. +5
     - 2. That sounds good. +0
     - Phone 3. I'm glad we saw it through. +5
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 36
     Requires:
     - Cannot be raining
@@ -1392,8 +1470,8 @@ Death:
     - 1. I love you. +5
     - 1. It isn't a joke. +15
     - Phone 2. So did you. +5
-  Rank 10 - Platonic:
-  Rank 10 - Romantic:
+  Rank 10 Platonic:
+  Rank 10 Romantic:
     Requires:
     - Death Evening Hangout Slot
 Temperance:
@@ -1432,7 +1510,7 @@ Temperance:
     - Any
     - Phone 1. Thanks. +5
   Rank 4:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Y5000
     Choices:
@@ -1461,13 +1539,13 @@ Temperance:
     - Any
     - Phone 3. How are you feeling, though? +5
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Choices:
     - 3. Don't pay them. +10
     - 3. Think this through more. +15
     - Any
   Rank 8:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Y5000
     Choices:
@@ -1479,7 +1557,6 @@ Temperance:
     - 2. That's reassuring. +15
     - Phone 3. I'll do anything for you. +5
   Rank 8.1 - Auto:
-    Next Rank: 1
     Requires:
     - School Day
     Unlocks:
@@ -1488,8 +1565,8 @@ Temperance:
     - Any
     - Any
     - Any
-  Rank 9 - Platonic:
-    Next Rank: 1
+  Rank 9 Platonic:
+    Next Rank: 0
     Requires:
     - A Teacher Maid to Suffer Request cleared
     - Y5000
@@ -1499,8 +1576,8 @@ Temperance:
     - 2. I want to keep seeing you. +5
     - 1. Got it . +5
     - Phone 2. You can do it. +5
-  Rank 9 - Romantic:
-    Next Rank: 1
+  Rank 9 Romantic:
+    Next Rank: 0
     Requires:
     - A Teacher Maid to Suffer Request cleared
     - Y5000
@@ -1511,7 +1588,6 @@ Temperance:
     - 2. I mean what I say. +0
     - 2. I'm a man; you're a woman. +0
   Rank 9.1 - Auto:
-    Next Rank: 1
     Requires:
     - School Day
   Rank 10:
@@ -1526,19 +1602,22 @@ Temperance:
     - Temperance Rank 10
     Choices:
     - 1. I'm looking forward to this. +15
-  Hangout Odaiba:
+  Hangout Odaiba Romantic:
     Requires:
-    - Temperance Rank 10 - Romantic
+    - Temperance Rank 10
     Unlocks:
     - Night Pennant Decoration
     Choices:
     - 1. I love you even more. +15
+  Hangout Normal:
+    Choices:
+    - 1. Spent time. +15
 Devil:
   Rank 1:
     Unlocks:
     - Charm +3
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - Charm +3
     Choices:
@@ -1582,7 +1661,7 @@ Devil:
     - 1. That's the spirit +5
     - Phone 3. I'll dig up some more for you. +5
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - Charm +5
     Choices:
@@ -1591,7 +1670,6 @@ Devil:
     - 2. You're charming as you are. +15
     - Phone 1. That's the spirit. +5
   Rank 7.1:
-    Next Rank: 1
     Unlocks:
     - Fighting for Truth of Journalism Request
     Choices:
@@ -1609,7 +1687,7 @@ Devil:
     - Any
     - 3. I'll go with you. +10
     - Phone 1. Good luck. +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 38
     Choices:
     - Any
@@ -1617,7 +1695,7 @@ Devil:
     - 1. I can't leave you. +10
     - Any
     - 2. I didn't take it seriously. +0
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 38
     Choices:
     - Any
@@ -1647,7 +1725,7 @@ Tower:
     - Yongenjaya Backstreets > Ask Futaba to hack site
     - Report back to Shinya
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - Kindness +5
     Choices:
@@ -1712,7 +1790,7 @@ Tower:
     - 3. I'm worried about you. +0
     - Phone 2. That's up to you. +0
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Cannot be raining
     Choices:
@@ -1721,7 +1799,7 @@ Tower:
     - Any
     - Any
   Rank 8:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Cannot be raining
     Unlocks:
@@ -1768,7 +1846,7 @@ Star:
     Unlocks:
     - Knowledge +2
   Rank 2:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - Knowledge +2
     Choices:
@@ -1812,14 +1890,13 @@ Star:
     - 3. Do what you love. +5
     - Phone 2. You're imagining things. +5
   Rank 7:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - Knowledge +2
     Choices:
     - 3. It may come down to luck. +10
     - 2. I believe in you. +10
   Rank 7.1:
-    Next Rank: 1
     Requires:
     - Knowledge Lv. 5
     Unlocks:
@@ -1839,14 +1916,14 @@ Star:
     - 3. I'm glad her heart changed. +10
     - Any
     - Phone 1. I support it. +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 30
     Choices:
     - 1. Give it all you got. +5
     - 3. A very queenly decision. +10
     - 1. I want to become stronger. +0
     - Phone 3. Let's win the next one. +5
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 30
     Choices:
     - 1. Give it all you got. +5
@@ -1920,7 +1997,7 @@ Moon:
     Requires:
     - 10 requests cleared
     - Cannot be raining
-  Hangout Suidobashi 11/3:
+  Invite Suidobashi 11/03:
     Requires:
     - Tower Rank 1
     Choices:
@@ -2026,7 +2103,8 @@ Faith:
     - 2. We'll work at it together. +5
     - 10. Phone 1. I'm glad to hear that. +5
   Rank 5:
-    Next Rank: 1
+    Next Rank: 0
+    Choices:
     - 1. It's a surprise, yeah. +5
     - Any
     - 2. Go ahead. I'll watch. +15
@@ -2036,7 +2114,7 @@ Faith:
     - Any
     - Phone 3. Gymnastics. +15
   Rank 6:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Faith Rank 5 cleared before 12/23
     - Available 1/13
@@ -2078,7 +2156,7 @@ Faith:
     - 1. I see. +5
     - 2. Sounds like progress. +10
     - 10. Phone 3. Online. +5
-  Rank 9 - Platonic:
+  Rank 9 Platonic:
     Next Rank: 80
     Choices:
     - Any
@@ -2091,7 +2169,7 @@ Faith:
     - 1. Let's stay friends. +0
     - 3. You can always rely on me. +10
     - Phone 1. I'm glad to hear that. +5
-  Rank 9 - Romantic:
+  Rank 9 Romantic:
     Next Rank: 80
     Choices:
     - Any
@@ -2117,12 +2195,18 @@ Faith:
     Choices:
     - 1. Yeah. +15
     - 3. Let's see both. +15
+  Hangout Darts:
+    Unlocks:
+    - Proficiency +3
+    Choices:
+    - 1. Let her end on round 4. +0
+    - 3. Trust your instincts. +5
 Councillor:
   Rank 1 - Auto:
     Requires:
     - Available 5/13
   Rank 2 - Auto:
-    Next Rank: 1
+    Next Rank: 0
     Requires:
     - Available 5/13
     Unlocks:
@@ -2200,7 +2284,7 @@ Councillor:
     - Any
     - Phone 1. He's a good friend. +5
   Rank 9:
-    Next Rank: 1
+    Next Rank: 0
     Unlocks:
     - SP +5
     Choices:
