@@ -1,15 +1,15 @@
 Months:
-- 01-April
-- 02-May
-- 03-June
-- 04-July
-- 05-August
-- 06-September
-- 07-October
-- 08-November
-- 09-December
-- 10-January
-- 11-February
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+- January
+- February
 Timeslots:
 - Train
 - Class
@@ -39,6 +39,14 @@ Confidants:
 - Judgement
 - Faith
 - Councillor
+Exam Confidants:
+- Priestess
+- Empress
+- Hierophant
+- Lovers
+- Chariot
+- Temperance
+- Faith
 Social Stats:
   Knowledge:   [0, 34, 82, 126, 192, 0]
   Guts:        [0, 11, 38,  68, 113, 0]
@@ -48,3 +56,6 @@ Social Stats:
   Random:      [0, 999, 0,   0,   0, 0]
   HP:          [0, 999, 0,   0,   0, 0]
   SP:          [0, 999, 0,   0,   0, 0]
+  Hierophant:  [0, 999, 0,   0,   0, 0]
+  Lovers:      [0, 999, 0,   0,   0, 0]
+  Party:       [0, 999, 0,   0,   0, 0]

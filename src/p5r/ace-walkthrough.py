@@ -4,16 +4,22 @@ import math
 import re
 from jinja2 import Environment, FileSystemLoader
 
+
 class SaveFile:
     def __init__(self, config, calendar):
         self.config = config
         self.calendar = calendar
-        self.confidants = { x: (0, 0, 0) for x in config['Confidants'] }
+        self.has_personas = { x: False for x in config['Confidants'] }
         self.social_stats = { x: (0, y[1], 1) for x, y in config['Social Stats'].items() }
         self.luck_reading = ('4/01', 'Knowledge')
         self.craft_of_cinema = False
         self.exam_coeff = 1
         self.countups = [0] * 6
+        self.flower_counter = 0
+        self.flower_choices  = [
+            'Scarlet Rose > Gold Gerbera > Gecko Orchid',
+            'Justice Jasmine > Fluorescent Freesia > Enamored Orchid'
+        ]
         self.countup_unlockers = {
             'Bathhouse': self.bathhouse_unlocks,
             'Aojiru': self.aojiru_unlocks,
@@ -45,48 +51,49 @@ class SaveFile:
     def conbini_unlocks(self, date):
         points = 5 if self.countups[2] > 0 and date.endswith('7') else 3
         self.countups[2] += 1
-        return [f"+Y{7400 if points == 5 else 3500}", f"Charm +{points}"]
+        unlocks = [f"+¥{7400 if points == 5 else 3500}", f"Charm +{points}"]
+
+        if self.countups[2] > 2 and int(date.replace('/', '')) > 803:
+            unlocks.append('Calling for Justice for Cats Request')
+        return unlocks
 
     def flowershop_unlocks(self, date):
-        bouquets = [
-            'None',
-            'Scarlet Rose > Gold Gerbera > Gecko Orchid',
-            'Justice Jasmine > Fluorescent Freesia > Enamored Orchid'
-        ]
-
         dow = self.calendar[date][0]
-        choices = []
-        points = 3
-        if self.countups[3] == 0:
-            self.countups[3] += 1
-        elif self.countups[3] == 1 or dow == 'Wed' or dow == 'Sat':
-            points = 5
-            choices = [bouquets[self.countups[3]]]
-            self.countups[3] += 1
-        return choices + [f"+Y{7800 if points == 5 else 3200}", f"Kindness +{points}"]
+        points = 5 if self.countups[3] == 1 or dow == 'Wed' or dow == 'Sat' else 3
+        unlocks = [self.flower_choices[self.flower_counter]] if points == 5 else []
+        self.countups[3] += 1
+        unlocks = unlocks + [f"+¥{7800 if points == 5 else 3200}", f"Kindness +{points}"]
+
+        if points == 5:
+            self.flower_counter += 1
+        if self.countups[3] > 2 and int(date.replace('/', '')) > 802:
+            unlocks.append("Who's Been Assaulting People? Request")
+        return unlocks
 
     def beefbowl_unlocks(self, date):
-        points = 3
-        if self.countups[4] == 0:
-            pass
-        elif self.countups[4] == 1 or date.endswith('2'):
-            points = 5
+        points = 5 if self.countups[4] == 1 or date.endswith('2') else 3
         self.countups[4] += 1
-        return [f"+Y{8800 if points == 5 else 3600}", f"Proficiency +{points}"]
+        return [f"+¥{8800 if points == 5 else 3600}", f"Proficiency +{points}"]
 
     def crossroads_unlocks(self, date):
         bonus = ['Guts +3'] if self.countups[5] > 0 and self.calendar[date][0] == 'Sun' else []
         self.countups[5] += 1
-        return [f"+Y{12000 if len(bonus) > 0 else 7200}", 'Kindness +3'] + bonus
+        unlocks = [f"+¥{12000 if len(bonus) > 0 else 7200}", 'Kindness +3'] + bonus
+
+        if self.countups[5] > 1 and int(date.replace('/', '')) > 801:
+            unlocks.append("We Aren't Just Your Slaves Request")
+        return unlocks
 
     def exam_unlocks(self, date):
         points = 0
-        if 1 < self.social_stats['Knowledge'][2]:
+        knowledge_lvl = self.social_stats['Knowledge'][2]
+        if 1 < knowledge_lvl:
             points = 3
-            self.exam_coeff = 1.25
-        if 3 < self.social_stats['Knowledge'][2]:
+        if 3 < knowledge_lvl:
             points = 5
-            self.exam_coeff = 1.50
+            self.exam_coeff = 1.2
+        if 4 < knowledge_lvl:
+            self.exam_coeff = 1.5
         return [f"Charm +{points}"]
 
     def update_unlocks(self, task, unlocks, date):
@@ -112,25 +119,33 @@ class SaveFile:
                     new_unlocks.append(f"{stat} Lv. {rank}")
 
                 self.social_stats[stat] = (total, target, rank)
-            else:
+            elif unlock[0] == '¥' or unlock[1] == '¥':
                 new_unlocks.append(unlock)
+            else:
+                new_unlocks.append(f"{unlock} unlocked")
 
         return new_unlocks
 
     def update_choices(self, task, choices, next_rank):
-        if next_rank < 0:
-            return choices
-
+        confidant, event = task.split(' ')[:2]
         total = 0
         new_choices = []
+        todo = { 'Choices': new_choices }
+        point_coeff = (1.5 if self.has_personas[confidant] else 1) * (
+            self.exam_coeff if confidant in self.config['Exam Confidants'] else 1
+        )
+
         for choice in choices:
             if choice != 'Any':
                 choice, points = choice.split(' +')
-                points = int(points)
+                points = math.floor(int(points) * point_coeff)
                 total += points
-                new_choices.append(f"{choice} +{points}")
-        new_choices.append(f"{total}/{next_rank} points to next rank")
-        return new_choices
+                new_choices.append(f"{'' if choice.startswith('Phone') else 'Choice '}{choice} +{points}")
+            else:
+                new_choices.append('Any')
+        if next_rank >= 0:
+            todo['Next Rank'] = f"{total}/{next_rank}"
+        return todo
 
     def set_luck_reading(self, stat, date):
         _ = self.social_stats[stat]
@@ -144,7 +159,7 @@ def expand_question(task, date, savefile, confidants):
     if quest_type == 'Exam':
         unlocks = []
     unlocks = savefile.update_unlocks(task, unlocks, date)
-    return unlocks
+    return { 'Unlocks': unlocks }
 
 def expand_confidant(task, date, savefile, confidants):
     parts = task.split(' ')
@@ -157,25 +172,31 @@ def expand_confidant(task, date, savefile, confidants):
     if entry is None:
         entry = {}
 
-    choices = savefile.update_choices(task, entry.get('Choices', []), entry.get('Next Rank', -1))
-    unlocks = savefile.update_unlocks(task, entry.get('Unlocks', []), date)
-    # return entry.get('Requires', []) + choices + unlocks
-    return unlocks
+    todo = savefile.update_choices(task, entry.get('Choices', []), entry.get('Next Rank', -1))
+    todo['Unlocks'] = savefile.update_unlocks(task, entry.get('Unlocks', []), date)
+    todo['Requires'] = entry.get('Requires', [])
+    return todo
 
 def expand_activity(task, date, savefile, activities):
     unlocks = []
 
-    if task != 'Auto' and task != 'Free Time' and not task.endswith('Palace'):
+    if task != 'Auto' and task != 'Free Time':
         activity, choice = task.split(' > ')
         pages_left = 0
 
+        if activity.endswith('Palace'):
+            return { 'Unlocks': unlocks }
         if '/' in choice:
             choice, total, target = re.fullmatch(r"(.*) (\d)/(\d)", choice).groups()
             pages_left = int(target) - int(total)
 
         if activity == 'Luck Reading':
             savefile.set_luck_reading(choice, date)
-        if choice == 'Craft of Cinema':
+        elif activity == 'Obtain Personas':
+            for arcana in choice.split(', '):
+                if not savefile.has_personas[arcana]:
+                    savefile.has_personas[arcana] = True
+        elif choice == 'Craft of Cinema':
             savefile.craft_of_cinema = True
 
         unlocks = savefile.activity_unlocks(choice, date)
@@ -190,7 +211,7 @@ def expand_activity(task, date, savefile, activities):
 
         unlocks = savefile.update_unlocks(task, unlocks, date)
 
-    return unlocks
+    return { 'Unlocks': unlocks }
 
 def expand_walkthrough(fname):
     with open(fname) as yamlfile:
@@ -203,6 +224,13 @@ def expand_walkthrough(fname):
         confidants = yaml.safe_load(yamlfile)
     with open('walkthrough/ace-config.yaml') as yamlfile:
         config = yaml.safe_load(yamlfile)
+    with open('walkthrough/sakaya-trader.tsv') as tsvfile:
+        next(tsvfile)
+        trades = []
+        for line in tsvfile:
+            date, timeslot, action = line.split('\t')
+            action = action.strip()
+            trades.append((date, timeslot, action))
     with open('walkthrough/calendar.tsv') as tsvfile:
         next(tsvfile)
         calendar = {}
@@ -235,19 +263,27 @@ def expand_walkthrough(fname):
                     choices = []
 
                     if 'Question' in task:
-                        unlocks = expand_question(task, date, savefile, confidants)
+                        new_entry = expand_question(task, date, savefile, confidants)
                     elif task[:task.find(' ')] in config['Confidants']:
-                        unlocks = expand_confidant(task, date, savefile, confidants)
+                        new_entry = expand_confidant(task, date, savefile, confidants)
                     else:
-                        unlocks = expand_activity(task, date, savefile, activities)
+                        new_entry = expand_activity(task, date, savefile, activities)
 
-                    new_entry = { 'Task': task }
-                    if len(unlocks) > 0:
-                        new_entry['Todo'] = unlocks
+                    new_entry['Task'] = task
                     new_tasks.append(new_entry)
 
-                if len(new_tasks) > 0:
-                    day[timeslot] = new_tasks
+                if len(new_tasks) > 0 and new_tasks[0]['Task'] != 'Auto':
+                    day[timeslot] = { 'Rainy': False, 'Tasks': new_tasks }
+
+            if date in calendar:
+                dow, day_rain, eve_rain = calendar[date]
+                if day_rain:
+                    day['Daytime']['Rainy'] = True
+                if eve_rain:
+                    day['Evening']['Rainy'] = True
+
+    for date, timeslot, action in trades:
+        date_lookup[date][timeslot]['Tasks'].insert(0, { 'Task': action })
 
     env = Environment(loader=FileSystemLoader('templates'), trim_blocks=True, lstrip_blocks=True)
     env.filters['resist_type_format'] = lambda x: RESIST_TYPES.get(x, x)

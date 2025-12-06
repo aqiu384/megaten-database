@@ -1,69 +1,69 @@
 Fool:
   Rank 1 - Auto:
     Requires:
-    - Available 4/12
+    - 4/12
   Rank 2 - Auto:
     Requires:
     - Non-scripted Castle Palace infiltration
   Rank 3 - Auto:
     Requires:
-    - Available 5/5
+    - 5/05
   Rank 4 - Auto:
     Requires:
-    - Museum Palace cleared
+    - Museum Palace completion
   Rank 5 - Auto:
     Requires:
-    - Available 6/11
+    - 6/11
   Rank 6 - Auto:
     Requires:
-    - Bank Palace cleared
+    - Bank Palace completion
   Rank 7 - Auto:
     Requires:
-    - Available 8/22
+    - 8/22
   Rank 8 - Auto:
     Requires:
-    - Available 8/31
+    - 8/31
   Rank 9 - Auto:
     Requires:
-    - Available 10/11
+    - 10/11
   Rank 10 - Auto:
     Requires:
-    - Available 12/24
+    - 12/24
     - Good End or better
 Magician:
   Rank 1 - Auto:
     Requires:
-    - Available 4/15
+    - 4/15
   Rank 2 - Auto:
     Requires:
-    - Castle Palace cleared
+    - Castle Palace completion
   Rank 3 - Auto:
     Requires:
-    - Museum Palace cleared
+    - Museum Palace completion
   Rank 4 - Auto:
     Requires:
-    - Available 6/20
+    - 6/20
   Rank 5 - Auto:
     Requires:
-    - Bank Palace cleared
+    - Bank Palace completion
   Rank 6 - Auto:
     Requires:
-    - Available 7/25
+    - 7/25
   Rank 7 - Auto:
     Requires:
-    - Available 8/29
+    - 8/29
   Rank 8 - Auto:
     Requires:
-    - Available 9/17
+    - 9/17
   Rank 9 - Auto:
     Requires:
-    - Spaceport Palace cleared
+    - Spaceport Palace completion
   Rank 10 - Auto:
     Requires:
-    - Available 12/23
+    - 12/23
   Rank 11 - Auto:
     Requires:
-    - Available 1/10
+    - 1/10
   Hangout Darts:
     Unlocks:
     - Proficiency +3
@@ -76,12 +76,12 @@ Magician:
 Priestess:
   Rank 1:
     Requires:
-    - Bank Palace cleared
+    - Bank Palace completion
     - Knowledge Lv. 3
   Rank 2:
     Next Rank: 0
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 1. You're very well informed. +5
     - 2. That was dangerous. +10
@@ -135,7 +135,7 @@ Priestess:
   Rank 9 Platonic:
     Next Rank: 55
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 2. Your fight's with me. +10
     - 1. We should get out of here. +5
@@ -146,7 +146,7 @@ Priestess:
   Rank 9 Romantic:
     Next Rank: 55
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 2. Your fight's with me. +10
     - 1. We should get out of here. +5
@@ -158,7 +158,7 @@ Priestess:
   Rank 10:
   Rank 11:
     Requires:
-    - Available 1/13
+    - 1/13+
   Invite Study Daytime 7/12:
     Unlocks:
     - Knowledge +5
@@ -171,7 +171,7 @@ Priestess:
     - 1. Not at all. +10
   Invite Ikebukuro 7/30:
     Requires:
-    - Pyramid Palace cleared
+    - Pyramid Palace completion
     - Emperor Rank 1
     Unlocks:
     - Ikebukuro Location
@@ -184,7 +184,7 @@ Priestess:
     - 1. Exactly. +10
   Invite Jinbocho 8/15:
     Requires:
-    - Pyramid Palace cleared
+    - Pyramid Palace completion
     - Star Rank 1
     Unlocks:
     - Jinbocho Location
@@ -302,7 +302,7 @@ Empress:
   Rank 10:
   Rank 11:
     Requires:
-    - Available 1/13
+    - 1/13+
   Invite Asakusa 11/06:
     Requires:
     - Devil Rank 1
@@ -312,7 +312,7 @@ Empress:
     - 2. It was fun. +10
     - Any
     - Any
-    - 2. There's nothing to fear. (Devil +2)
+    - 2. There's nothing to fear. (Devil) +10
   Invite Movies 11/13:
     Unlocks:
     - Guts +5
@@ -350,7 +350,7 @@ Emperor:
   Rank 4:
     Next Rank: 15
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 3. I should bring a girl here. +5
     - 1. Love comes in all forms. +10
@@ -365,7 +365,7 @@ Emperor:
     Next Rank: 20
     Requires:
     - Proficiency Lv. 4
-    - Cannot be raining
+    - Not raining
     Choices:
     - 1. It feels nostalgic. +5
     - Any
@@ -387,14 +387,14 @@ Emperor:
   Rank 9:
     Next Rank: 35
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 1. Her love for her son. +15
     - 1. You've really changed, Yusuke. +15
   Rank 10:
   Rank 11:
     Requires:
-    - Available 1/13
+    - 1/13+
   Invite Leblanc 7/27:
     Unlocks:
     - Charm +5
@@ -491,7 +491,7 @@ Hierophant:
   Rank 5:
     Next Rank: 20
     Requires:
-    - Available 8/22
+    - 8/22+
     Unlocks:
     - Kindness +3
     Choices:
@@ -526,12 +526,12 @@ Hierophant:
     - 2. I was just protecting Futaba. +5
   Rank 8.1:
     Requires:
-    - Hermit Daytime Hangout Slot
-    - Soloing The Money-grubbing Uncle Request
+    - Futaba Availability
+    - The Money-grubbing Uncle Request solo completion
   Rank 9:
     Next Rank: 40
     Requires:
-    - The Money-grubbing Uncle Request cleared
+    - The Money-grubbing Uncle Request completion
     Choices:
     - 1. It's great. +10
     - 2. You have a great daughter. +15
@@ -539,16 +539,16 @@ Hierophant:
   Rank 10:
   Hangout Gift:
     Choices:
-    - 1. Spent time. +5
+    - 1. Spend time. +5
     - 1. Gift Castella. +50
 Lovers:
   Rank 1 - Auto:
     Requires:
-    - Available 4/15
+    - 4/15
   Rank 2:
     Next Rank: 35
     Requires:
-    - Available 5/6
+    - 5/06+
     - Kindness Lv. 2
     Choices:
     - 2. She's so strong. +15
@@ -559,7 +559,7 @@ Lovers:
   Rank 3:
     Next Rank: 25
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Inokashira Location
     Choices:
@@ -576,7 +576,7 @@ Lovers:
   Rank 4:
     Next Rank: 20
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 1. I know what you mean. +10
     - 2. That's hilarious. +15
@@ -587,7 +587,7 @@ Lovers:
   Rank 5:
     Next Rank: 35
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 2. Give it up. +5
     - 2. She's amazing, huh... +5
@@ -597,9 +597,9 @@ Lovers:
   Rank 5.0:
     Next Rank: 35
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
-    - Opportunity for Lovers Hangout Harajuku
+    - Lovers Hangout Harajuku Availability
     Choices:
     - 1. Maybe. +0
     - 1. You're outmatched. +0
@@ -617,7 +617,7 @@ Lovers:
   Rank 7:
     Next Rank: 30
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Asakusa Location
     - Skytree Location
@@ -638,7 +638,7 @@ Lovers:
   Rank 9 Platonic:
     Next Rank: 35
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - Any
     - Any
@@ -647,7 +647,7 @@ Lovers:
   Rank 9 Romantic:
     Next Rank: 35
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - Any
     - Any
@@ -657,12 +657,12 @@ Lovers:
     - Phone 2. I'm yours forever. +10
   Rank 10:
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Odaiba Location
   Rank 11:
     Requires:
-    - Available 1/13
+    - 1/13+
   Invite Study Evening 5/09:
     Unlocks:
     - Knowledge +5
@@ -675,7 +675,7 @@ Lovers:
     - 1. Let's think together. +5
   Invite Movies 7/17:
     Requires:
-    - Bank Palace cleared
+    - Bank Palace completion
     - Lovers Rank 2
     Unlocks:
     - Charm +5
@@ -683,7 +683,7 @@ Lovers:
     - 2. Understandable. +10
   Invite Meiji-Shrine 8/06:
     Requires:
-    - Pyramid Palace cleared
+    - Pyramid Palace completion
     - Death Rank 1
     Unlocks:
     - Meiji-Shrine Location
@@ -724,11 +724,11 @@ Lovers:
 Chariot:
   Rank 1 - Auto:
     Requires:
-    - Available 4/12
+    - 4/12
   Rank 2:
     Next Rank: 20
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 1. I'm counting on you. +15
     - Any
@@ -737,7 +737,7 @@ Chariot:
   Rank 3:
     Next Rank: 30
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 1. Let's not fight. +5
     - 1. Calm down, Ryuji. +10
@@ -752,7 +752,7 @@ Chariot:
   Rank 5:
     Next Rank: 30
     Requires:
-    - Available 5/6
+    - 5/06+
     Unlocks:
     - Gym Location
     Choices:
@@ -763,7 +763,7 @@ Chariot:
   Rank 6:
     Next Rank: 45
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 3. We can train at my place. +10
     - 1. You guys should trust Nakaoka. +15
@@ -784,7 +784,7 @@ Chariot:
   Rank 8:
     Next Rank: 60
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - Any
     - 1. Things turned out for the best. +15
@@ -802,7 +802,7 @@ Chariot:
   Rank 10:
   Rank 11:
     Requires:
-    - Available 1/13
+    - 1/13+
   Invite Study Evening 5/10:
     Unlocks:
     - Knowledge +5
@@ -810,7 +810,7 @@ Chariot:
     - 1. Try starting over. +5
   Invite Harajuku 5/29:
     Requires:
-    - Museum Palace cleared
+    - Museum Palace completion
     Unlocks:
     - Harajuku Location
     Choices:
@@ -823,7 +823,7 @@ Chariot:
     - 1. They do. +10
   Invite Ichigaya 7/03:
     Requires:
-    - Bank Palace cleared
+    - Bank Palace completion
     - Temperance Rank 1
     Unlocks:
     - Ichigaya Location
@@ -882,7 +882,7 @@ Chariot:
 Justice:
   Rank 1 - Auto:
     Requires:
-    - Available 6/10
+    - 6/10
   Rank 2:
     Next Rank: 0
     Choices:
@@ -927,8 +927,8 @@ Justice:
   Rank 6:
     Next Rank: 55
     Requires:
-    - Available 8/28
-    - Moved to Leblanc
+    - 8/28+
+    - Leblanc Availability
     Choices:
     - 3. A while, huh? +10
     - 2. ...You've been through a lot. +5
@@ -953,7 +953,7 @@ Justice:
   Rank 8:
     Next Rank: 0
     Requires:
-    - Soloing Akechi
+    - Solo duel completion
     Choices:
     - Any
     - Any
@@ -969,12 +969,12 @@ Justice:
   Rank 10 - Auto:
     Requires:
     - Cruiser Palace encounter
-    - Cruiser Palace cleared
+    - Cruiser Palace completion
     Choices:
     - 1. I want to keep our promise. +0
   Rank 11 - Auto:
     Requires:
-    - Available 2/2
+    - 2/02
   Invite Shinagawa 7/29:
     Requires:
     - Devil Rank 1
@@ -995,7 +995,7 @@ Justice:
 Hermit:
   Rank 1 - Auto:
     Requires:
-    - Available 8/31
+    - 8/31
   Rank 2:
     Next Rank: 0
     Requires:
@@ -1042,7 +1042,7 @@ Hermit:
   Rank 8:
     Next Rank: 30
     Requires:
-    - Daughter's Just a Meal Ticket Request cleared
+    - Daughter's Just a Meal Ticket Request completion
     Choices:
     - 1. That's incredible. +15
     - 1. You worked really hard too. +10
@@ -1070,7 +1070,7 @@ Hermit:
   Rank 10:
   Rank 11:
     Requires:
-    - Available 1/13
+    - 1/13+
   Invite Leblanc 9/25:
     Requires:
     - Retro Game Console
@@ -1080,7 +1080,7 @@ Hermit:
     - 1. Win or lose. +10
   Invite Movies 10/02:
     Requires:
-    - Who's Muscling in Yongen-Jaya? Request cleared
+    - Who's Muscling in Yongen-Jaya? Request completion
     Unlocks:
     - Knowledge +5
     Choices:
@@ -1126,14 +1126,14 @@ Hermit:
 Fortune:
   Rank 0.1:
   Rank 0.2:
-    Requires:
-    - Y100000
+    Unlocks:
+    - ¥100000
   Rank 0.3:
     Unlocks:
     - Ending the Boyfriend's Abuse Request
   Rank 1:
     Requires:
-    - Ending the Boyfriend's Abuse Request cleared
+    - Ending the Boyfriend's Abuse Request completion
   Rank 2:
     Next Rank: 0
     Choices:
@@ -1177,7 +1177,7 @@ Fortune:
     - Phone 1. Are you gonna be okay? +5
   Rank 7.1:
     Unlocks:
-    - Debunking the Psychihc! Request
+    - Debunking the Psychic! Request
     Choices:
     - Any
     - Any
@@ -1185,7 +1185,7 @@ Fortune:
   Rank 8:
     Next Rank: 46
     Requires:
-    - Debunking the Psychihc! Request
+    - Debunking the Psychic! Request completion
     Choices:
     - 2. I know. +10
     - 3. It's because you're strong. +15
@@ -1194,7 +1194,7 @@ Fortune:
   Rank 9 Platonic:
     Next Rank: 21
     Unlocks:
-    - Y100000
+    - +¥100000
     Choices:
     - Any
     - 2. Well, fate can be changed. +15
@@ -1203,7 +1203,7 @@ Fortune:
   Rank 9 Romantic:
     Next Rank: 21
     Unlocks:
-    - Y100000
+    - +¥100000
     Choices:
     - Any
     - 2. Well, fate can be changed. +15
@@ -1224,47 +1224,47 @@ Fortune:
     - 2. Such a delicious thrill... +15
   Hangout Normal:
     Choices:
-    - 1. Spent time. +10
+    - 1. Spend time. +10
 Strength:
   Hangout Big Bang Burger:
     Requires:
-    - Available 6/6-12/22
+    - 6/06-12/22
   Hangout Movie Theater:
     Requires:
-    - Available 6/7-12/22
+    - 6/07-12/22
   Hangout Gym:
     Requires:
-    - Available 6/15-12/22
+    - 6/15-12/22
   Hangout Church:
     Requires:
-    - Available 6/21-12/22
+    - 6/21-12/22
   Hangout Aquarium:
     Requires:
-    - Available 7/26-12/22
+    - 7/26-12/22
   Hangout Skytree:
     Requires:
-    - Available 7/28-12/22
+    - 7/28-12/22
   Hangout Beach:
     Requires:
-    - Available 9/2-9/29
+    - 9/02-9/29
   Hangout Maid Cafe:
     Requires:
-    - Available 9/3-12/22
+    - 9/03-12/22
   Hangout Destinyland:
     Requires:
-    - Available 10/1-12/22
+    - 10/01-12/22
   Hangout Art Museum:
     Requires:
-    - Available 10/2-11/3
+    - 10/02-11/03
   Hangout Leblanc:
     Requires:
-    - Available 11/24-12/22
+    - 11/24-12/22
   Hangout Underground Mall:
     Requires:
-    - Available 11/24-12/22
+    - 11/24-12/22
   Hangout Your Room:
     Requires:
-    - Available: 1/13-2/1
+    - 1/13+
 Hanged:
   Rank 1:
     Requires:
@@ -1290,7 +1290,7 @@ Hanged:
   Rank 4:
     Next Rank: 25
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Proficiency +3
     Choices:
@@ -1335,7 +1335,7 @@ Hanged:
   Rank 8:
     Next Rank: 25
     Requires:
-    - Shady Deal in the Shadows Request cleared
+    - Shady Deal in the Shadows Request completion
     Choices:
     Unlocks:
     - Proficiency +5
@@ -1346,7 +1346,7 @@ Hanged:
   Rank 9:
     Next Rank: 40
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Odaiba Location
     Choices:
@@ -1410,7 +1410,7 @@ Death:
   Rank 6:
     Next Rank: 11
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Guts +2
     Choices:
@@ -1441,7 +1441,7 @@ Death:
   Rank 8:
     Next Rank: 42
     Requires:
-    - Bad Medicine Request cleared
+    - Bad Medicine Request completion
     Unlocks:
     - Guts +2
     Choices:
@@ -1452,7 +1452,7 @@ Death:
   Rank 9 Platonic:
     Next Rank: 36
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 3. It was rough. +10
     - Any
@@ -1463,7 +1463,7 @@ Death:
   Rank 9 Romantic:
     Next Rank: 36
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - 3. It was rough. +10
     - Any
@@ -1474,11 +1474,11 @@ Death:
   Rank 10 Platonic:
   Rank 10 Romantic:
     Requires:
-    - Death Evening Hangout Slot
+    - Leblanc Availability
 Temperance:
   Rank 0.1:
     Requires:
-    - 2 days after Museum Palace cleared
+    - 2 days after Museum Palace completion
     Choices:
     - Speak to Mishima to initiate Operation Maidwatch. +0
     - 3. You're a genius, Ryuji! (Chariot) +15
@@ -1489,11 +1489,12 @@ Temperance:
   Rank 1:
     Requires:
     - Guts Lv. 3
-    - Y5000
+    Unlocks:
+    - ¥5000
   Rank 2:
     Next Rank: 20
-    Requires:
-    - Y5000
+    Unlocks:
+    - ¥5000
     Choices:
     - 1. It does. +5
     - 2. Absolutely not! +5
@@ -1502,8 +1503,8 @@ Temperance:
     - Phone 2. Uh, what the hell? +5
   Rank 3:
     Next Rank: 37
-    Requires:
-    - Y5000
+    Unlocks:
+    - ¥5000
     Choices:
     - 1. Yeah, they do. +5
     - Any
@@ -1512,8 +1513,8 @@ Temperance:
     - Phone 1. Thanks. +5
   Rank 4:
     Next Rank: 0
-    Requires:
-    - Y5000
+    Unlocks:
+    - ¥5000
     Choices:
     - Any
     - 1. How rude. +5
@@ -1521,8 +1522,8 @@ Temperance:
     - Any
   Rank 5:
     Next Rank: 11
-    Requires:
-    - Y5000
+    Unlocks:
+    - ¥5000
     Choices:
     - 1. It's fun. +5
     - 1. How terrible... +5
@@ -1532,8 +1533,8 @@ Temperance:
     - Phone 3. You want some? +5
   Rank 6:
     Next Rank: 37
-    Requires:
-    - Y5000
+    Unlocks:
+    - ¥5000
     Choices:
     - 2. Want to rest a bit? +5
     - 1. Are you all right? +15
@@ -1547,8 +1548,8 @@ Temperance:
     - Any
   Rank 8:
     Next Rank: 0
-    Requires:
-    - Y5000
+    Unlocks:
+    - ¥5000
     Choices:
     - 3. Is this really what you want? +10
     - 2. If that's what you decided. +10
@@ -1569,8 +1570,9 @@ Temperance:
   Rank 9 Platonic:
     Next Rank: 0
     Requires:
-    - A Teacher Maid to Suffer Request cleared
-    - Y5000
+    - A Teacher Maid to Suffer Request completion
+    Unlocks:
+    - ¥5000
     Choices:
     - 1. Nonsense. +10
     - 1. What a bummer. +15
@@ -1580,8 +1582,9 @@ Temperance:
   Rank 9 Romantic:
     Next Rank: 0
     Requires:
-    - A Teacher Maid to Suffer Request cleared
-    - Y5000
+    - A Teacher Maid to Suffer Request completion
+    Unlocks:
+    - ¥5000
     Choices:
     - 1. Nonsense. +10
     - 1. What a bummer. +15
@@ -1611,8 +1614,10 @@ Temperance:
     Choices:
     - 1. I love you even more. +15
   Hangout Normal:
+    Unlocks:
+    - ¥5000
     Choices:
-    - 1. Spent time. +10
+    - 1. Spend time. +10
 Devil:
   Rank 1:
     Unlocks:
@@ -1637,7 +1642,7 @@ Devil:
   Rank 4:
     Next Rank: 15
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Charm +3
     Choices:
@@ -1679,7 +1684,7 @@ Devil:
   Rank 8:
     Next Rank: 21
     Requires:
-    - Fighting for Truth of Journalism Request cleared
+    - Fighting for Truth of Journalism Request completion
     Unlocks:
     - Charm +5
     Choices:
@@ -1708,7 +1713,7 @@ Devil:
     - Phone 1. I wanted to hear your voice. +5
   Rank 10:
     Requires:
-    - Cannot be raining
+    - Not raining
   Hangout Ginza:
     Requires:
     - Devil Rank 8
@@ -1720,11 +1725,9 @@ Tower:
   Rank 1:
     Requires:
     - Winners Don't Use Cheats Request attempt
+    - Futaba Availability
     Unlocks:
     - Kindness +5
-    Choices:
-    - Yongenjaya Backstreets > Ask Futaba to hack site
-    - Report back to Shinya
   Rank 2:
     Next Rank: 0
     Unlocks:
@@ -1756,7 +1759,7 @@ Tower:
     Next Rank: 14
     Unlocks:
     - Kindness +3
-    - Opportunity for Tower Hangout Asakusa
+    - Tower Hangout Asakusa Availability
     Choices:
     - 3. Yeah, you tell him! +5
     - 1. Don't get so worked up. +0
@@ -1783,7 +1786,7 @@ Tower:
     Next Rank: 25
     Unlocks:
     - Kindness +3
-    - Opportunity for Tower Hangout Maihama
+    - Tower Hangout Maihama Availability
     Choices:
     - Any
     - Any
@@ -1793,7 +1796,7 @@ Tower:
   Rank 7:
     Next Rank: 0
     Requires:
-    - Cannot be raining
+    - Not raining
     Choices:
     - Any
     - Any
@@ -1802,7 +1805,7 @@ Tower:
   Rank 8:
     Next Rank: 0
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Kindness +5
     - A Mother's Aggression Request
@@ -1814,8 +1817,8 @@ Tower:
   Rank 9:
     Next Rank: 30
     Requires:
-    - Cannot be raining
-    - A Mother's Aggression Request cleared
+    - Not raining
+    - A Mother's Aggression Request completion
     Unlocks:
     - Kindness +5
     Choices:
@@ -1842,7 +1845,7 @@ Tower:
 Star:
   Rank 1:
     Requires:
-    - 2 days after Bank Palace cleared
+    - 2 days after Bank Palace completion
     - Charm Lv. 3
     Unlocks:
     - Knowledge +2
@@ -1865,7 +1868,7 @@ Star:
   Rank 4:
     Next Rank: 14
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Jinbocho Location
     Choices:
@@ -1883,7 +1886,7 @@ Star:
   Rank 6:
     Next Rank: 22
     Requires:
-    - Cannot be raining
+    - Not raining
     Unlocks:
     - Knowledge +2
     Choices:
@@ -1910,7 +1913,7 @@ Star:
   Rank 8:
     Next Rank: 30
     Requires:
-    - Upstaging the Stage Mother Request cleared
+    - Upstaging the Stage Mother Request completion
     Unlocks:
     - Knowledge +2
     Choices:
@@ -1962,42 +1965,42 @@ Moon:
   Rank 2 - Auto:
   Rank 3:
     Requires:
-    - 1 request cleared
-    - Cannot be raining
+    - 1 request completion
+    - Not raining
     Unlocks:
-    - One Who Bullies Bullies Request
+    - One Who Bullies Bullies Availability
   Rank 4:
     Requires:
-    - 2 requests cleared
+    - 2 requests completion
     Unlocks:
     - Part-time Job, Full-time Hell Request
   Rank 5:
     Requires:
-    - 3 requests cleared
+    - 3 requests completion
   Rank 6:
     Requires:
-    - 4 requests cleared
-    - Cannot be raining
+    - 4 requests completion
+    - Not raining
   Rank 6.1:
     Requires:
-    - 5 requests cleared
+    - 5 requests completion
   Rank 7:
     Requires:
-    - 5 requests cleared
-    - Cannot be raining
+    - 5 requests completion
+    - Not raining
   Rank 8:
     Requires:
-    - 7 requests cleared
-    - Cannot be raining
+    - 7 requests completion
+    - Not raining
     Unlocks:
     - Man of Many Faces and Debts Request
   Rank 9:
     Requires:
-    - 8 requests cleared
+    - 8 requests completion
   Rank 10:
     Requires:
-    - 10 requests cleared
-    - Cannot be raining
+    - 10 requests completion
+    - Not raining
   Invite Suidobashi 11/03:
     Requires:
     - Tower Rank 1
@@ -2034,22 +2037,22 @@ Sun:
 Judgement:
   Rank 1 - Auto:
     Requires:
-    - Available 7/9
+    - 7/09
   Rank 2 - Auto:
     Requires:
-    - Available 7/24
+    - 7/24
   Rank 3 - Auto:
     Requires:
-    - Available 8/22
+    - 8/22
   Rank 4 - Auto:
     Requires:
-    - Available 9/13
+    - 9/13
   Rank 5 - Auto:
     Requires:
-    - Available 10/12
+    - 10/12
   Rank 6 - Auto:
     Requires:
-    - Available 10/28
+    - 10/28
   Rank 7 - Skipped:
   Rank 8 - Skipped:
   Rank 9 - Skipped:
@@ -2057,12 +2060,12 @@ Judgement:
     Unlocks:
     - Judgement Arcana Burst
     Requires:
-    - Available 11/20
+    - 11/20
     - Normal End or better.
 Faith:
   Rank 1 - Auto:
     Requires:
-    - Available 5/30
+    - 5/30
   Rank 2:
     Next Rank: 15
     Unlocks:
@@ -2117,8 +2120,8 @@ Faith:
   Rank 6:
     Next Rank: 0
     Requires:
-    - Faith Rank 5 cleared before 12/23
-    - Available 1/13
+    - Faith Rank 5 completion before 12/23
+    - 1/13+
     Unlocks:
     - HP +5
     Choices:
@@ -2187,10 +2190,10 @@ Faith:
   Rank 10:
   Rank 11:
     Requires:
-    - Available 2/2
+    - 2/02
   Hangout Shinagawa:
     Requires:
-    - Available before 12/22
+    - 5/30-12/22
     Unlocks:
     - Sea Slug Doll Decoration
     Choices:
@@ -2205,11 +2208,11 @@ Faith:
 Councillor:
   Rank 1 - Auto:
     Requires:
-    - Available 5/13
+    - 5/13
   Rank 2 - Auto:
     Next Rank: 0
     Requires:
-    - Available 5/13
+    - 5/13
     Unlocks:
     - SP +5
     Choices:
@@ -2255,7 +2258,7 @@ Councillor:
   Rank 6:
     Next Rank: 28
     Requires:
-    - Available 9/20
+    - 9/20+
     Choices:
     - 2. Another cup? +5
     - 1. I can do that. +10
@@ -2293,5 +2296,5 @@ Councillor:
     - 1. Kind of sad... +10
   Rank 10 - Auto:
     Requires:
-    - Available 11/18
+    - 11/18
     - Councillor Rank 9
