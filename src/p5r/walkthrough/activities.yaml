@@ -108,6 +108,7 @@ Big Bang Burger:
   - Knowledge +5
   - Proficiency +5
 Darts Club:
+  Darts with any two remaining teammates: ["Proficiency +3"]
   Billiards Lv. 1: ["Party +7", "Random +3", "Expert Billiards"]
   Billiards Lv. 2: ["Party +7", "Random +3", "Technical Lv. 2"]
   Billiards Lv. 3: ["Party +7", "Random +3", "Technical Lv. 3"]

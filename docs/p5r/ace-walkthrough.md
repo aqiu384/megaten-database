@@ -597,12 +597,15 @@
     1. Any
     1. Phone 1. Impressive. +5 ♪
 ##### Evening
-* Lovers Hangout Darts
-    1. Let her end on round 4. +0
-    1. Choice 3. Just play like normal. +7 ♪♪
-* Emperor Hangout Darts (Proficiency +3 ♪♪)
-    1. Let him end on round 4. +0
-    1. Choice 1. Pretend like you're painting. +5 ♪
+* Lovers Hangout Darts (Proficiency +3 ♪♪)
+    1. Play with Lovers, then one other teammate. +0
+    1. Set up partner to end on round 4, then pick right response. +0
+    1. Choice 3. I'm counting on you. (Magician) +7 ♪♪
+    1. Choice 3. Take a deep breath. (Priestess) +7 ♪♪
+    1. Choice 3. Have fun with it. (Empress) +7 ♪♪
+    1. Choice 1. Pretend like you're painting. (Emperor) +7 ♪♪
+    1. Choice 3. Just play like normal. (Lovers) +7 ♪♪
+    1. Choice 1. You gotta psych yourself up! (Chariot) +7 ♪♪
 ---
 #### 6/09 Thu
 ##### Evening
@@ -704,12 +707,7 @@
 ---
 #### 6/21 Tue
 ##### Daytime
-* Magician Hangout Darts
-    1. Let him end on round 4. +0
-    1. Choice 3. I'm counting on you. +5 ♪
-* Chariot Hangout Darts (Proficiency +3 ♪♪)
-    1. Let him end on round 4. +0
-    1. Choice 1. You gotta psych yourself up! +7 ♪♪
+* Darts Club > Darts with any two remaining teammates (Proficiency +3 ♪♪)
 ##### Evening (Rain)
 * Shinjuku Bookstore > Craft of Cinema (¥2800)
 * Shinjuku Bookstore > ABCs of Crafting (¥2800)
@@ -1729,12 +1727,7 @@
 * Obtain Personas > Empress, Tower
 ##### Evening
 * Call Kawakami > Massage (¥0)
-* Empress Hangout Darts (Proficiency +3 ♪♪)
-    1. Let her end on round 4. +0
-    1. Choice 3. Have fun with it. +9 ♪♪
-* Priestess Hangout Darts
-    1. Let her end on round 4. +0
-    1. Choice 3. Take a deep breath. +9 ♪♪
+* Darts Club > Darts with any two remaining teammates (Proficiency +3 ♪♪)
 ---
 #### 9/24 Sat
 ##### Train
@@ -2888,7 +2881,7 @@
 * Books > Batting Science 1/1 (Third Eye in Batting Cages unlocked)
 ##### Daytime (Rain)
 * Faith Hangout Darts (Proficiency +3 ♪♪)
-    1. Let her end on round 4. +0
+    1. Set up partner to end on round 4, then pick right response. +0
     1. Choice 3. Trust your instincts. +11 ♪♪
 ##### Evening
 * Free Time

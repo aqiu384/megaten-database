@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 import struct
 import json
+from math import floor
 from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
 
-GAME_PREFIX = 'p3p'
+GAME_PREFIX = 'p3a'
 GAME_TYPE = GAME_PREFIX[:2]
 COMP_CONFIG = load_comp_config(f"configs/{GAME_PREFIX}-comp-config.json")
 DATA_DIR = '../../../megaten-fusion-tool/src/app/{}'
@@ -20,11 +21,17 @@ datasets = []
 
 with open(f"{GAME_TYPE}-data/{COMP_CONFIG['enemyIds']}") as tsvfile:
     DEMON_IDS = ['BLANK\t0'] + [x.strip() for x in tsvfile]
-for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv', COMP_CONFIG['itemEffects']]:
+for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv']:
     with open(f"{GAME_TYPE}-data/{fname}") as tsvfile:
         datasets.append(['BLANK'] + [x.strip().split('\t')[0] for x in tsvfile])
 
-SKILL_IDS, RACE_IDS, ITEM_IDS = datasets
+ITEM_IDS = {}
+for i, fname in enumerate(COMP_CONFIG['itemEffects']):
+    offset = i * COMP_CONFIG['itemOffset'] + 1
+    with open(f"{GAME_TYPE}-data/{fname}") as tsvfile:
+        ITEM_IDS.update({ j + offset: x.split('\t')[0] for j, x in enumerate(tsvfile) })
+
+SKILL_IDS, RACE_IDS = datasets
 SEEN_DEMONS = { x: False for x in TOOL_DEMONS }
 
 stat_config = COMP_CONFIG['enemyStats']
@@ -70,24 +77,28 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
     printif_notequal(dname, 'exp', demon['exp'], exp)
     printif_notequal(dname, 'yen', demon.get('price', 0), yen)
 
-    old_drops = demon.get('gem', '-').split(', ')
-    if 'material' in demon:
-        old_drops.append(demon['material'])
+    old_drops = demon['drops']
+    new_drops = {}
+
     for i in range(0, len(drops), 2):
         i_id, i_chance = drops[i:i + 2]
 
         if i_id == 0:
             continue
 
-        i_id -= COMP_CONFIG['itemsBegin']
         i_chance *= 0.5
-        if i_id < 0 or len(ITEM_IDS) < i_id:
+        if i_id not in ITEM_IDS:
             print(dname, 'unk_drop', i_id, i_chance)
             continue
 
         iname = ITEM_IDS[i_id]
         if iname not in old_drops:
             print(dname, 'drop', iname, i_chance, old_drops)
+            # new_drops[iname] = floor(i_chance)
+        else:
+            new_drops[iname] = floor(i_chance)
+
+    demon['drops'] = new_drops
 
     if ' P' in demon['race']:
         continue

@@ -65,10 +65,6 @@ Magician:
   Rank 11 - Auto:
     Requires:
     - 1/10
-  Hangout Darts:
-    Choices:
-    - Let him end on round 4. +0
-    - 3. I'm counting on you. +5
   Hangout Jazz Club 12/11:
     Unlocks:
     - Debilitate
@@ -213,10 +209,6 @@ Priestess:
     Choices:
     - 3. Spring rolls? +15
     - 2. Let's find some. +10
-  Hangout Darts:
-    Choices:
-    - Let her end on round 4. +0
-    - 3. Take a deep breath. +5
   Hangout Jazz Club 9/25:
     Unlocks:
     - Concentrate
@@ -318,12 +310,6 @@ Empress:
     - Giant Spatula Decoration
     Choices:
     - 1. We'll try together. +15
-  Hangout Darts:
-    Unlocks:
-    - Proficiency +3
-    Choices:
-    - Let her end on round 4. +0
-    - 3. Have fun with it. +5
 Emperor:
   Rank 1:
   Rank 2:
@@ -444,12 +430,6 @@ Emperor:
     - Hamaya Decoration
     Choices:
     - 3. Boatloads of money. +10
-  Hangout Darts:
-    Unlocks:
-    - Proficiency +3
-    Choices:
-    - Let him end on round 4. +0
-    - 1. Pretend like you're painting. +5
   Hangout Jazz Club 9/04:
     Unlocks:
     - Charge
@@ -708,9 +688,17 @@ Lovers:
     Choices:
     - 1. Yeah. +10
   Hangout Darts:
+    Unlocks:
+    - Proficiency +3
     Choices:
-    - Let her end on round 4. +0
-    - 3. Just play like normal. +5
+    - Play with Lovers, then one other teammate. +0
+    - Set up partner to end on round 4, then pick right response. +0
+    - 3. I'm counting on you. (Magician) +5
+    - 3. Take a deep breath. (Priestess) +5
+    - 3. Have fun with it. (Empress) +5
+    - 1. Pretend like you're painting. (Emperor) +5
+    - 3. Just play like normal. (Lovers) +5
+    - 1. You gotta psych yourself up! (Chariot) +5
   Hangout Jazz Club 1/29:
     Unlocks:
     - Spell Master
@@ -863,12 +851,6 @@ Chariot:
     - 2. Let's go to the game center. +10
     - 1. Let's check it out. +15
     - Any
-  Hangout Darts:
-    Unlocks:
-    - Proficiency +3
-    Choices:
-    - Let him end on round 4. +0
-    - 1. You gotta psych yourself up! +5
   Hangout Jazz Club 1/22:
     Unlocks:
     - Arms Master
@@ -2233,7 +2215,7 @@ Faith:
     Unlocks:
     - Proficiency +3
     Choices:
-    - Let her end on round 4. +0
+    - Set up partner to end on round 4, then pick right response. +0
     - 3. Trust your instincts. +5
 Councillor:
   Rank 1 - Auto:

@@ -27,8 +27,16 @@
   "enemyIds": "p3-enemy-ids.tsv",
   "skillIds": "skill-ids.tsv",
   "skillEffects": "skill-effects.tsv",
-  "itemEffects": "item-effects.tsv",
-  "itemsBegin": "0x500",
+  "itemOffset": "0x100",
+  "itemEffects": [
+    "000-weapon.tsv",
+    "001-armor.tsv",
+    "002-boots.tsv",
+    "003-accessory.tsv",
+    "004-skillcard.tsv",
+    "005-item.tsv",
+    "006-eventitem.tsv"
+  ],
   "resistLvls": {
     "0": "-",
     "1": "n",

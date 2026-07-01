@@ -27,8 +27,19 @@
   "enemyIds": "p4g-enemy-ids.tsv",
   "skillIds": "p4g-skill-ids.tsv",
   "skillEffects": "p4g-skill-ids.tsv",
-  "itemEffects": "../p4-item-effects.tsv",
-  "itemsBegin": "-1",
+  "itemOffset": "0x100",
+  "itemEffects": [
+    "000-weapon.tsv",
+    "001-armor.tsv",
+    "002-accessory.tsv",
+    "003-item.tsv",
+    "004-eventitem.tsv",
+    "005-material.tsv",
+    "006-skillcard.tsv",
+    "007-costume.tsv",
+    "008-item.tsv",
+    "009-weapon.tsv"
+  ],
   "resistLvls": {
     "0": "-",
     "1": "n",

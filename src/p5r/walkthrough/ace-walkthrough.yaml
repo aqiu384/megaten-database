@@ -244,9 +244,7 @@ June:
     Evening: ["Strength Hangout Movie Theater"]
   6/08 Wed:
     Daytime: ["Faith Rank 2"]
-    Evening:
-    - Lovers Hangout Darts
-    - Emperor Hangout Darts
+    Evening: ["Lovers Hangout Darts"]
   6/09 Thu:
     Daytime: ["Auto"]
     Evening: ["Darts Club > Billiards Lv. 1"]
@@ -291,9 +289,7 @@ June:
     Daytime: ["Auto"]
     Evening: ["Video Games > Star Forneus 3/3"]
   6/21 Tue:
-    Daytime:
-    - Magician Hangout Darts
-    - Chariot Hangout Darts
+    Daytime: ["Darts Club > Darts with any two remaining teammates"]
     Evening:
     - Shinjuku Bookstore > Craft of Cinema
     - Shinjuku Bookstore > ABCs of Crafting
@@ -725,8 +721,7 @@ September:
     - Obtain Personas > Empress, Tower
     Evening:
     - Call Kawakami > Massage
-    - Empress Hangout Darts
-    - Priestess Hangout Darts
+    - Darts Club > Darts with any two remaining teammates
   9/24 Sat:
     Train: ["Books > Heroic Revelations 2/3"]
     Daytime:

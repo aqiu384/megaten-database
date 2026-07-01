@@ -1,0 +1,255 @@
+Plain Shirt	A simple shirt.
+Knit Cardigan	A cardigan made of wool.
+Ruffled Blouse	A frilly blouse.
+Dress Shirt	A formal shirt worn with a suit.
+Red Vest	A buttoned sweater vest.
+Zip Hoodie	A zip-up hooded sweatshirt.
+Long Pea Coat	A long, thick coat.
+All-Purpose Apron	Women's clothing for cooking or battle.
+Emergency Vest	Protects from all natural disasters.
+Rash Guard	A highly elastic shirt.
+Camo Shirt	Great for field combat.
+Bulletproof Shirt	Firearm-resistant vest.
+Metal Protector	A set of protective pads.
+Amenity Suit	A very comfortable suit.
+0x20F	0x100F
+0x210	0x1010
+0x211	0x1011
+0x212	0x1012
+Master's Garment	Only masters may wear this.
+Amigo Poncho	Cape-like outfit that covers the body.
+Bulletproof Vest	Firearm-resistant vest.
+Tetra Jammer	Armor with a talisman attached to it.
+Robe of Salvation	Robe inscribed with holy scriptures.
+Mantle of Wind	A mantle that's as light as the wind.
+Robe of Warding	A robe that radiates an invisible shield.
+Defender Cloak	A cloak that covers the entire body.
+Gigantic Armor	Very heavy, but durable armor.
+Kukai's Vestment	The vestment of the famous monk, Kukai.
+Kaiser Armor	Armor with beautiful decorations.
+Final Armor	Armor made from OOPArts.
+Demon's Mail	Armor made from demon's hide.
+Rangda Robe	Women's clothes that ward off disasters.
+Papal Robe	A robe blessed by a Pope.
+Armor of Light	Armor engraved with a pentacle symbol.
+0x223	0x1023
+Silver Plate	Armor with silver decorations.
+Carbon Jacket	Hard leather jacket for men.
+Shirt of Chivalry	A traditional Japanese shirt for men.
+Sid's Jacket	A black studded leather jacket for men.
+0x228	0x1028
+0x229	0x1029
+Tigerhide Belt	Men's belt made from tiger hide.
+Hero's Knickers	Knickers worn by manly heroes of the past.
+0x22C	0x102C
+Stealth Shirt	Men's shirt that cloaks the wearer.
+Powered Suit	Men's suit that amplifies one's strength.
+0x22F	0x102F
+0x230	0x1030
+0x231	0x1031
+Hallowed Plate	Savior's armor, worn only by men.
+Phantom Robe	Robe made from translucent cloth.
+0x234	0x1034
+0x235	0x1035
+Battle Panties	Armor that looks like a bikini.
+0x237	0x1037
+0x238	0x1038
+Battle Leotard	Light battle armor for females.
+Spiked Bra	Bra with spikes attached.
+0x23B	0x103B
+Eternal Plate	Women's armor that lasts forever.
+Dog Suit	Normal dog clothes.
+Cross Dog Suit	Dog suit with a cross drawn on it.
+Titanium Dog Suit	A dog suit made of titanium.
+Light Dog Suit	A very light dog suit.
+Leather Dog Suit	A dog suit made from leather.
+Metal Dog Suit	A dog suit made of metal.
+Dark Dog Suit	A dog suit that's been dyed black.
+Powered Dog Suit	Mechanical body armor for dogs.
+Lunar Dog Suit	Dog suit with a moon embroidered on it.
+Aura Dog Suit	Dog suit that emits a mysterious light.
+Aramid Vest	Armored vest for Aigis.
+Aramid Harness	Bulletproof steel vest for Aigis.
+Aramid Semi-Shell	Armor that protects Aigis' torso.
+Aramid Full-Shell	Armor that protects Aigis' entire body.
+Aramid Plate	Steel plate armor for Aigis.
+Aramid Compound	Steel plate armor for Aigis' front and back.
+Ergo Scale	Scaled armor for Aigis.
+Ergo Armor	Armor made from special steel for Aigis.
+Fifth Number	Flanked equipment for Aigis.
+Papillon Method	Colorful armor for Aigis.
+Blue Shorts	A bathing suit for Makoto.
+Pink Bikini	A bathing suit for Yukari.
+Blue Swimwear	A bathing suit for Akihiko.
+Elegant Bikini	A bathing suit for Mitsuru.
+Sky Sundress	A one-piece dress for Aigis.
+Baseball Jersey	Summer clothes for Ken.
+Turtleneck	A shirt to keep your neck warm.
+Red Shorts	A bathing suit for Junpei.
+0x259	1059
+Enamel Torso	Shiny torso for Metis.
+Velour Torso	Torso for Metis made from processed leather.
+Nacre Torso	Torso for Metis made from mother-of-pearl.
+Bisque Torso	Torso for Metis made from ceramic.
+Bulletproof Torso	Torso for Metis made from synthetic fibers.
+Chevalier Torso	Torso for Metis made from metal plating.
+Zircon Torso	Torso for Metis made from diamond.
+Jacquedrose	Torso for Metis made by a skilled craftsman.
+Vermelies	Torso for Metis made by a master craftsman.
+Oceanus Scale	Torso for Metis made from divine scales.
+Soul of Athena	Goddess' chestplate for Aigis.
+Joruri Tengu	A legendary warrior's torso for Metis.
+Aigis Armor v.100	The ultimate prototype armor for Aigis.
+Meseauzer	A divine torso for Metis.
+0x268	???
+Hard Dog Suit	Dog suit with slightly increased hardness.
+Raglan T-Shirt	Summer outfit for Makoto.
+Dark Jacket	Winter outfit for Makoto.
+S.Outfit Junpei	Summer outfit for Junpei.
+W.Outfit Junpei	Winter outfit for Junpei.
+S.Outfit Akihiko	Summer outfit for Akihiko.
+W.Outfit Akihiko	Winter outfit for Akihiko.
+S.Outfit Yukari	Summer outfit for Yukari.
+W.Outfit Yukari	Winter outfit for Yukari.
+S.Outfit Mitsuru	Summer outfit for Mitsuru.
+W.Outfit Mitsuru	Winter outfit for Mitsuru.
+W.Outfit Ken	Winter outfit for Ken.
+Maid Outfit (Y)	Maid outfit for Yukari.
+Maid Outfit (M)	Maid outfit for Mitsuru.
+S.Uniform Main	Summer uniform for Makoto.
+S.Uniform Junpei	Summer uniform for Junpei.
+S.Uniform Akihiko	Summer uniform for Akihiko.
+S.Uniform Yukari	Summer uniform for Yukari.
+S.Uniform Mitsuru	Summer uniform for Mitsuru.
+W.Uniform Aigis	Winter uniform for Aigis.
+S.Uniform Ken	Summer uniform for Ken.
+Maid Outfit (A)	Maid outfit for Aigis.
+Rock Dog Suit	Dog suit with a punk rock design.
+Santa Suit (Y)	Santa outfit for Yukari.
+Santa Suit (A)	Santa outfit for Aigis.
+Santa Suit (M)	Santa outfit for Mitsuru.
+Junpei Tuxedo	Butler outfit for Junpei.
+Akihiko Tuxedo	Butler outfit for Akihiko.
+Ken Tuxedo	Butler outfit for Ken.
+Shinjiro Tuxedo	Butler outfit for Shinjiro.
+Koromaru Tuxedo	Butler outfit for Koromaru...?
+Classical Blouse	A simple, yet refined blouse.
+Orange Cutsew	Summer clothes for the female main character.
+Angora Sweater	Winter clothes for the female main character.
+Knee-High Maid	Maid outfit for the female main character.
+Ribbon Bikini	Swimsuit for the female main character.
+0x28D	0x08D
+0x28E	0x08E
+0x28F	0x08F
+0x290	0x090
+0x291	0x091
+0x292	0x092
+0x293	0x093
+0x294	0x094
+0x295	0x095
+0x296	0x096
+0x297	0x097
+0x298	0x098
+0x299	0x099
+0x29A	0x09A
+0x29B	0x09B
+0x29C	0x09C
+0x29D	0x09D
+0x29E	0x09E
+0x29F	0x09F
+0x2A0	0x0A0
+0x2A1	0x0A1
+0x2A2	0x0A2
+0x2A3	0x0A3
+0x2A4	0x0A4
+0x2A5	0x0A5
+0x2A6	0x0A6
+0x2A7	0x0A7
+0x2A8	0x0A8
+0x2A9	0x0A9
+0x2AA	0x0AA
+0x2AB	0x0AB
+0x2AC	0x0AC
+0x2AD	0x0AD
+0x2AE	0x0AE
+0x2AF	0x0AF
+0x2B0	0x0B0
+0x2B1	0x0B1
+0x2B2	0x0B2
+0x2B3	0x0B3
+0x2B4	0x0B4
+0x2B5	0x0B5
+0x2B6	0x0B6
+0x2B7	0x0B7
+0x2B8	0x0B8
+0x2B9	0x0B9
+0x2BA	0x0BA
+0x2BB	0x0BB
+0x2BC	0x0BC
+0x2BD	0x0BD
+0x2BE	0x0BE
+0x2BF	0x0BF
+0x2C0	0x0C0
+0x2C1	0x0C1
+0x2C2	0x0C2
+0x2C3	0x0C3
+0x2C4	0x0C4
+0x2C5	0x0C5
+0x2C6	0x0C6
+0x2C7	0x0C7
+0x2C8	0x0C8
+0x2C9	0x0C9
+0x2CA	0x0CA
+0x2CB	0x0CB
+0x2CC	0x0CC
+0x2CD	0x0CD
+0x2CE	0x0CE
+0x2CF	0x0CF
+0x2D0	0x0D0
+0x2D1	0x0D1
+0x2D2	0x0D2
+0x2D3	0x0D3
+0x2D4	0x0D4
+0x2D5	0x0D5
+0x2D6	0x0D6
+0x2D7	0x0D7
+0x2D8	0x0D8
+0x2D9	0x0D9
+0x2DA	0x0DA
+0x2DB	0x0DB
+0x2DC	0x0DC
+0x2DD	0x0DD
+0x2DE	0x0DE
+0x2DF	0x0DF
+0x2E0	0x0E0
+0x2E1	0x0E1
+0x2E2	0x0E2
+0x2E3	0x0E3
+0x2E4	0x0E4
+0x2E5	0x0E5
+0x2E6	0x0E6
+0x2E7	0x0E7
+0x2E8	0x0E8
+0x2E9	0x0E9
+0x2EA	0x0EA
+0x2EB	0x0EB
+0x2EC	0x0EC
+0x2ED	0x0ED
+0x2EE	0x0EE
+0x2EF	0x0EF
+0x2F0	0x0F0
+0x2F1	0x0F1
+0x2F2	0x0F2
+0x2F3	0x0F3
+0x2F4	0x0F4
+0x2F5	0x0F5
+0x2F6	0x0F6
+0x2F7	0x0F7
+0x2F8	0x0F8
+0x2F9	0x0F9
+0x2FA	0x0FA
+0x2FB	0x0FB
+0x2FC	0x0FC
+0x2FD	0x0FD
+0x2FE	0x0FE
+0x2FF	0x0FF 

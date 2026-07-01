@@ -1,0 +1,255 @@
+Power Band	Strength increases by 1.
+Mega Power Band	Strength increases by 5.
+Giga Power Band	Strength increases by 10.
+Tera Power Band	Strength increases by 4.
+Magic Band	Magic increases by 1.
+Mega Magic Band	Magic increases by 5.
+Giga Magic Band	Magic increases by 10.
+Tera Magic Band	Magic increases by 4.
+Guard Band	Endurance increases by 1.
+Mega Guard Band	Endurance increases by 5.
+Giga Guard Band	Endurance increases by 10.
+Tera Guard Band	Endurance increases by 4.
+Speed Band	Agility increases by 1.
+Mega Speed Band	Agility increases by 5.
+Giga Speed Band	Agility increases by 10.
+Tera Speed Band	Agility increases by 4.
+Luck Band	Luck increases by 1.
+Mega Luck Band	Luck increases by 5.
+Giga Luck Band	Luck increases by 10.
+Tera Luck Band	Luck increases by 4.
+0x415	???
+Black God's Rock	Nullifies Slash damage.
+0x417	???
+0x418	???
+0x419	???
+Kohryuu's Scale	Nullifies Strike damage.
+0x41B	???
+0x41C	???
+0x41D	???
+Mystic Rock	Nullifies Pierce damage.
+0x41F	???
+0x420	???
+0x421	???
+Blazing Flame	Nullifies Fire damage.
+0x423	???
+0x424	???
+0x425	???
+Frozen Stone	Nullifies Ice damage.
+0x427	???
+0x428	???
+0x429	???
+Lightning Gloves	Nullifies Electricity damage.
+0x42B	???
+0x42C	???
+0x3AD	???
+Storm Ring	Nullifies Wind damage.
+0x42F	???
+0x430	???
+White Feather	Resistance against Light.
+Radiant Halo	Nullifies Light.
+0x433	???
+Black Feather	Resistance against Darkness.
+Ring of Darkness	Nullifies Darkness.
+0x436	???
+Narcissus Flower	Prevents you from becoming Charmed.
+Staunch Anklets	Prevents you from becoming Distressed.
+Unbreakable Cage	Prevents you from becoming Panicked.
+Serpent's Eye	Prevents you from becoming Frightened.
+Ring of Serenity	Prevents you from becoming Enraged.
+Frost Cap	Prevents you from being Frozen.
+Lightning Armlet	Prevents you from being Shocked.
+Alicorn	Prevents you from being Poisoned.
+Tome of the Void	Protects you from ailments.
+Omnipotent Orb	Nullifies all attacks except Almighty.
+Slash Ward	Increases dodge against Slash attacks.
+Slash Repeller	Higher chance of dodge against Slash attacks.
+Strike Ward	Increases chance of dodge against Strikes.
+Strike Repeller	Higher chance of dodge against Strikes.
+Pierce Ward	Increases chance of dodge against Piercing.
+Pierce Repeller	Higher chance of dodge against Piercing.
+Flame Charm	Increases dodge against Fire attacks.
+Eye of Flame	Higher chance of dodge against Fire attacks.
+Ice Charm	Increases dodge against Ice attacks.
+Eye of Ice	Higher chance of dodge against Ice attacks.
+Wind Charm	Increases dodge against Wind attacks.
+Eye of Wind	Higher chance of dodge against Wind attacks.
+Thunder Charm	Increases dodge against Electricity.
+Eye of Thunder	Higher chance of dodge against Electricity.
+Masakado's Hair	Increases Evade against Physical attacks.
+Book of Enoch	Increases Evade vs Magic attacks (except almighty).
+Fire Bracers	Increases Fire damage.
+Agni Bracers	Increases Fire damage by a large amount.
+Ice Bracers	Increases Ice damage.
+Varuna Bracers	Increases Ice damage by a large amount.
+Thunder Bracers	Increases Electricity damage.
+Indra Bracers	Increases Electricity dmg by a large amount.
+Wind Bracers	Increases Wind damage.
+Vayu Bracers	Increases Wind damage by a large amount.
+Indigo Cape	Increases chance of escape.
+Rosary	Low revival chance for Light-induced death.
+Prayer Beads	Low revival chance for death from Darkness.
+0x45C	accessory_305C
+0x45D	accessory_05D
+0x45E	accessory_05E
+Frenzy Beads	Increases damage of normal attacks during Rage.
+Warrior's Seal	Low chance to counter physical attacks.
+War God's Seal	Medium chance to counter attacks.
+Berserker's Seal	High chance to counter physical attacks.
+Land Badge	Restores a tiny bit of HP every turn.
+Earth Badge	Restores a little bit of HP every turn.
+Space Badge	Restores a bit of HP every turn.
+Mage's Mark	Restores a tiny bit of SP every turn.
+Sorcerer's Mark	Restores a little bit of SP every turn.
+Wizard's Mark	Restores a bit of SP every turn.
+0x469	accessory_069
+0x46A	accessory_06A
+0x46B	accessory_06B
+0x46C	accessory_06C
+Power Enhancer	Gain Tarukaja at beginning of battle.
+Guard Enhancer	Gain Rakukaja at beginning of battle.
+Speed Enhancer	Gain Sukukaja at beginning of battle.
+Shadow Sensor	Lowers enemy's rate of surprise attack.
+Sigma Drive	Lowers chance of sustaining crit hit.
+Omega Drive	Increases chance of dealing critical hits.
+Barbaric Bracers	Increases chance of dodging by a lot.
+Divine Pillar	Lowers damage received but cannot dodge.
+Chakra Ring	Halves cost of SP when using magical skills.
+Rudra Ring	Halves cost of HP when using physical skills.
+0x477	accessory_077
+0x478	accessory_078
+0x479	???
+Draupnir	Increases healing by a large amount.
+Spirit Bracers	Grants 1 HP when HP reaches 0. 1 time.
+Sacrificial Idol	Grants full HP when HP reaches 0. 1 time.
+0x47D	???
+0x47E	???
+0x47F	accessory_07F
+Portable Player	Portable music player.
+Silver Necklace	Simple necklace.
+Heart Choker	Heart-shaped choker.
+Leather Gloves	Thin leather gloves.
+Red Ribbon	Big red ribbon.
+Koromaru Wings	Made from angel wings.
+Fancy Nails	Jewel-encrusted nails.
+Wristband	Athletic wristband.
+Beanie	Simple knit cap.
+Silver Ring	Simply designed silver ring.
+0x48A	???
+Platinum Watch	Made out of very expensive materials.
+0x48C	accessory_08C
+0x48D	accessory_08D
+0x48E	accessory_08E
+Bead Necklace	???
+Life Ring	Increases max HP by 10%.
+Energy Ring	Increases max HP by 20%.
+Vitality Ring	Increases max HP by 30%.
+Spirit Ring	Increase max SP by 10%.
+Spell Ring	Increase max SP by 20%.
+Magic Ring	Increase max SP by 30%.
+Portable Player	A hip, red-colored music player.
+Alarm Watch	Prevents Dizziness.
+Felt Doll	Restores SP each turn in battle.
+Good-Luck Charm	Endurance increases by 1.
+Wooden Sword	Strength increases by 1.
+Kinkakuji Keychain	Luck increases by 1.
+0x49C	0x09C
+0x49D	0x09D
+0x49E	0x09E
+0x49F	0x09F
+0x4A0	0x0A0
+0x4A1	0x0A1
+0x4A2	0x0A2
+0x4A3	0x0A3
+0x4A4	0x0A4
+0x4A5	0x0A5
+0x4A6	0x0A6
+0x4A7	0x0A7
+0x4A8	0x0A8
+0x4A9	0x0A9
+0x4AA	0x0AA
+0x4AB	0x0AB
+0x4AC	0x0AC
+0x4AD	0x0AD
+0x4BE	0x0AE
+0x4BF	0x0AF
+0x4B0	0x0B0
+0x4B1	0x0B1
+0x4B2	0x0B2
+0x4B3	0x0B3
+0x4B4	0x0B4
+0x4B5	0x0B5
+0x4B6	0x0B6
+0x4B7	0x0B7
+0x4B8	0x0B8
+0x4B9	0x0B9
+0x4BA	0x0BA
+0x4BB	0x0BB
+0x4BC	0x0BC
+0x4BD	0x0BD
+0x4BE	0x0BE
+0x4BF	0x0BF
+0x4C0	0x0C0
+0x4C1	0x0C1
+0x4C2	0x0C2
+0x4C3	0x0C3
+0x4C4	0x0C4
+0x4C5	0x0C5
+0x4C6	0x0C6
+0x4C7	0x0C7
+0x4C8	0x0C8
+0x4C9	0x0C9
+0x4CA	0x0CA
+0x4CB	0x0CB
+0x4CC	0x0CC
+0x4CD	0x0CD
+0x4CE	0x0CE
+0x4CF	0x0CF
+0x4D0	0x0D0
+0x4D1	0x0D1
+0x4D2	0x0D2
+0x4D3	0x0D3
+0x4D4	0x0D4
+0x4D5	0x0D5
+0x4D6	0x0D6
+0x4D7	0x0D7
+0x4D8	0x0D8
+0x4D9	0x0D9
+0x4DA	0x0DA
+0x4DB	0x0DB
+0x4DC	0x0DC
+0x4DD	0x0DD
+0x4DE	0x0DE
+0x4DF	0x0DF
+0x4E0	0x0E0
+0x4E1	0x0E1
+0x4E2	0x0E2
+0x4E3	0x0E3
+0x4E4	0x0E4
+0x4E5	0x0E5
+0x4E6	0x0E6
+0x4E7	0x0E7
+0x4E8	0x0E8
+0x4E9	0x0E9
+0x4EA	0x0EA
+0x4EB	0x0EB
+0x4EC	0x0EC
+0x4ED	0x0ED
+0x4EE	0x0EE
+0x4EF	0x0EF
+0x4F0	0x0F0
+0x4F1	0x0F1
+0x4F2	0x0F2
+0x4F3	0x0F3
+0x4F4	0x0F4
+0x4F5	0x0F5
+0x4F6	0x0F6
+0x4F7	0x0F7
+0x4F8	0x0F8
+0x4F9	0x0F9
+0x4FA	0x0FA
+0x4FB	0x0FB
+0x4FC	0x0FC
+0x4FD	0x0FD
+0x4FE	0x0FE
+0x4FF	0x0FF 

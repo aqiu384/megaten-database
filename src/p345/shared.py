@@ -22,6 +22,11 @@ def save_ordered_demons(demons, fname):
                     entry[stat_set] = '[]'
                 else:
                     entry[stat_set] = '[|' + '|, |'.join(x for x in entry[stat_set]) + '|]'
+        if 'drops' in entry and not isinstance(entry['drops'], list):
+            if len(entry['drops']) == 0:
+                entry['drops'] = '{}'
+            else:
+                entry['drops'] = '{' + ', '.join(f'|{x}|: {y}' for x, y in entry['drops'].items()) + '}'
         if 'skills' in entry and not isinstance(entry['skills'], str):
             nskills = sorted(entry['skills'].items(), key=lambda x: x[1])
             nskills = '{||      ' + ',||      '.join(f'|{x[0]}|: {x[1]}' for x in nskills) + '||    }'
@@ -38,7 +43,7 @@ def load_comp_config(fname):
     with open(fname) as jsonfile:
         comp_config = json.load(jsonfile)
 
-    for hex_valued in ['itemsBegin']:
+    for hex_valued in ['itemOffset']:
         v = comp_config[hex_valued]
         comp_config[hex_valued] = int(v, 16) if '0x' in v else int(v)
 

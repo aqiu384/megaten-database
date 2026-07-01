@@ -1,0 +1,255 @@
+Medicine	Slightly restores an ally's HP.
+Medical Powder	Moderately restores an ally's HP.
+Bead	Fully restores an ally's HP.
+Snuff Soul	Slightly restores an ally's SP.
+Chewing Soul	Moderately restores an ally's SP.
+Precious Egg	Fully restores an ally's SP.
+Soma	Fully restores party's HP and SP.
+Dis-Poison	Neutralizes Poison (1 ally).
+Revival Bead	Revives an ally, restoring 50% of HP.
+Balm of Life	Revives an ally, fully restoring HP.
+Me Patra Gem	Dispels Panic, Fear, and Distress (party).
+Muscle Drink	Battle: restores ally's HP (Med). Side effect.
+Odd Morsel	Battle: restores ally's HP (Med). Side effect.
+Rancid Gravy	Battle: restores ally's HP (Med). Side effect.
+Powerful Drug	Drink at your own risk!
+Umugi Water	Moderately restores party's HP.
+Amrita Soda	Cures all ailments except Down and Dizzy.
+Nihil Longsword	Used to fuse a Persona into a 2h sword.
+Dis-Rage	Dispels Rage (1 ally).
+Dis-Charm	Dispels Charm (1 ally).
+Treasure Box Cash	ID_015 ID_015
+Purifying Rice	Casts Hamaon on 1 enemy.
+Curse Paper	Casts Mudoon on 1 enemy.
+Fierce Sutra	Briefly raises entire party's strength.
+Agility Sutra	Briefly raises entire party's agility.
+Protection Sutra	Briefly raises entire party's defense.
+Flame Magatama	Massive Fire damage to 1 enemy.
+Gale Magatama	Massive Wind damage to 1 enemy.
+Frigid Magatama	Massive Ice damage to 1 enemy.
+Shock Magatama	Massive Elec damage to 1 enemy.
+0x51F	ID_01F ID_01F
+Patra Gem	Dispels Panic, Fear, and Distress (1 ally).
+Traesto Gem	Enables escape from a dungeon.
+Bead Chain	Fully restores party's HP.
+Magic Mirror	Barrier that reflects magic 1x (party).
+Attack Mirror	Barrier that reflects phys atk 1x (party).
+Dekaja Gem	Nullifies stat bonuses (all foes).
+Dekunda Gem	Nullifies stat penalties (party).
+Homunculus	Protects self from a Hama/Mudo skill.
+Plume of Dusk	Miraculously restores party upon your death.
+Agilao Gem	Deals medium Fire damage to 1 foe.
+Maragi Gem	Deals light Fire damage to all foes.
+Bufula Gem	Deals medium Ice damage/Freezes 1 foe.
+Mabufu Gem	Deals light Ice damage /Freezes all foes.
+Garula Gem	Deals medium Wind damage to 1 foe.
+Magaru Gem	Deals light Wind damage to all foes.
+Zionga Gem	Deals medium Elec damage/Shocks 1 foe.
+Mazio Gem	Deals light Elec dmg/ Shocks all foes.
+Megido Gem	Deals medium Almighty damage to all foes.
+Trafuri Gem	Guaranteed escape from most battles.
+0x533	???
+Page of Swords	Persona: Luck +1, Strength +1.
+Knight of Swords	Persona: Luck +1, Strength +2.
+Queen of Swords	Persona: Luck +2, Strength +3.
+King of Swords	Persona: Luck +2, Strength +4.
+Page of Cups	Persona: Luck +1, Endurance +1.
+Knight of Cups	Persona: Luck +1, Endurance +2.
+Queen of Cups	Persona: Luck +2, Endurance +3.
+King of Cups	Persona: Luck +2, Endurance +4.
+Page of Wands	Persona: Luck +1, Magic +1.
+Knight of Wands	Persona: Luck +1, Magic +2.
+Queen of Wands	Persona: Luck +2, Magic +3.
+King of Wands	Persona: Luck +2, Magic +4.
+Page of Coins	Persona: Luck +1, Agility +1.
+Knight of Coins	Persona: Luck +1, Agility +2.
+Queen of Coins	Persona: Luck +2, Agility +3.
+King of Coins	Persona: Luck +2, Agility +4.
+0x544	???
+Nihil Sword	Used to fuse a Persona into a sword.
+Nihil Gloves	Used to fuse a Persona into a fist weapon.
+Nihil Spear	Used to fuse a Persona into a spear.
+Nihil Bow	Used to fuse a Persona into a bow.
+Nihil Axe	Used to fuse a Persona into an axe.
+Nihil Knife	Used to fuse a Persona into a knife.
+Nihil Gun	Used to fuse a Persona into a gun.
+Void Naginata	Used to fuse a Persona into a naginata.
+Void Sword	Used to fuse a Persona into a 1h sword.
+0x54E	ID_04E ID_04E
+0x54F	ID_04F ID_04F
+Rose Bouquet	Beautiful rose bundle. Might please someone.
+Red Pine Bonsai	Graceful potted tree. Might please someone.
+Mini Cactus	Little care required. Might please someone.
+Glass Vase	Elegant vase. Might please someone.
+Perfume	Expensive perfume. Might please someone.
+Brand Wallet	Designer wallet. Might please someone.
+Brand Watch	Designer watch. Might please someone.
+Brand Purse	Designer handbag. Might please someone.
+Teddy Bear	Cute stuffed animal. Might please someone.
+Japanese Doll	Her hair really grows! Might please someone.
+Kaleidoscope	See a colorful world! Might please someone.
+Goggle-eyed Idol	Almost looks real! Might please someone.
+Jack Frost Doll	Adorable character. Might please someone.
+Book Cover	Fancy leather sheath. Might please someone.
+Lucky Charm	Came with your fortune. Might please someone.
+Ganesha Bank	Piggy bank of a deity. Might please someone.
+Amethyst	A shiny, purple gemstone.
+Aquamarine	A transparent, turquoise gemstone.
+Emerald	A sparkling, green gemstone.
+Onyx	Black gemstone. It's Greek for "claw."
+Opal	White gemstone that reflects many colors.
+Garnet	Deep violet gemstone.
+Sapphire	Deep blue gemstone.
+Diamond	
+Turquoise	A bluish-green, opaque gemstone.
+Topaz	Pale brown gemstone.
+Pearl	Shiny, white gemstone.
+Ruby	Deep red gemstone.
+Weird Takoyaki	Something other than octopus is inside.
+Wild Burger	Made of mystery meat.
+Instant Ramen	Expensive, but tastes just like Hagakure's.
+Side Dish	Homestyle dish at an affordable price.
+Dr. Salt	Salty soda. Popular, but an acquired taste.
+Mad Bull	The most caffeinated drink available.
+SoBay	Popular tea often auctioned online.
+Moonkist	Soda whose slogan is "Kist my full moon!"
+Cielo Mist	Beverage imported from Jamaica.
+Nastea	Tea that tastes great, despite its name.
+BauerBar	Keeps you going for 24 hours straight.
+Cylon Tea	Comes in 12 different varieties.
+1UP	Soft drink coveted by old-school gamers.
+Starvicks	Famous coffee, mixed with cough syrup.
+Aguafeena	Extensively purified tap water.
+Durian Soda	Soda that simply reeks.
+Fountain Dew	A disturbingly yellow soft drink.
+Jumbo Juice	Blended fruit juice. It's huge!
+V6	Vegetable juice that will rev your engine.
+Special Drink	Sports drink with tons of supplements added.
+Beetle Shell	Hard shell obtained from a Grave Beetle.
+Old Lantern	Lantern obtained from a Phantom Mage.
+Yakisoba Bread	The sauce smells delicious.
+Apple Strudel	German pastry with apple inside.
+Cutlet Sandwich	A filling sandwich. Perfect for lunch!
+Melon Bread	Bread with a faint melon fragrance.
+Crab Bread	It's only shaped like a crab.
+Fried Bread	Deep-fried bread.
+Coffee Jelly	Delicious coffee-flavored jelly.
+Chocolate Cake	Rich and moist.
+Fuuka's Cookie	Supposedly, it's edible.
+Champagne	Authentic non-alcoholic champagne.
+Medicated Patch	Yuko's homemade remedy.
+Cute Keychain	A cute keychain that Chihiro made.
+0x58E	???
+0x58F	???
+Wealth Coin	Dusty old coin. It might be valuable.
+Treasure Coin	Dusty old coin. It might be valuable.
+Supreme Coin	Dusty old coin. It might be valuable.
+Opulent Coin	Dusty old coin. It might be valuable.
+Luxury Coin	Dusty old coin. It might be valuable.
+Glorious Coin	Dusty old coin. It might be valuable.
+Megidolaon Gem	Deals high Almighty damage to all foes.
+Oden Juice	Juice filled with tiny chunks of fish cakes.
+Super Cat Food	Hoity-toity cat food for fine felines.
+Red Quillion	Shiny and red. It might be valuable.
+White Quillion	Shiny and white. It might be valuable.
+Black Quillion	Shiny and black. It might be valuable.
+0x59C	???
+0x59D	???
+Lead Medal	Dropped by the Wealth Hand.
+Steel Medal	Dropped by the Treasure Hand.
+Bronze Medal	Dropped by the Supreme Hand.
+Silver Medal	Dropped by the Opulent Hand.
+Gold Medal	Dropped by the Luxury Hand.
+Anatomical Model	Creepy plastic model of the human body.
+Gekkoukan Boogie	Recording of some really funky music.
+Queen Elizabeth	Non-alcoholic, but sophisticated.
+Mahjong Tile	Game piece you got at the mahjong place.
+Inari Sushi	Sushi that the old lady gave you.
+Platinum Medal	Dropped by the Glorious Hand.
+Bronze Figurine	Figurine dropped by the Bronze Dice.
+Snake Scale	A Lustful Snake's black scale.
+Relic Fragment	Fragment from a Creation Relic.
+Greasy Gear	Gear obtained from a Wild Drive.
+Tiara's Hair	Strand of silver hair from a Shouting Tiara.
+Knight's Reins	A Champion Knight's black reins.
+Empress's Mirror	Hand mirror dropped by an Elegant Mother.
+Gold Handguard	Handguard dropped by a Hakurou Musha.
+Gold Ring	Golden ring dropped by a Wondrous Magus.
+Red Armor Plate	Armor plate dropped by a Scarlet Turret.
+Pink Feather	Pink feather of a Devoted Cupid.
+Moon Tablet	Stone tablet dropped by a Ruinous Idol.
+Sand of Time	Grains from inside Perpetual Sand.
+Rainbow Hair	A Daring Gigas's multicolored hair.
+Bloody Button	Old button obtained from The Reaper.
+Shadow Shard	Black stone fragment. It might be valuable.
+Shadow Crystal	Shiny black crystal. It might be valuable.
+Empress's Mask	Golden mask. It might be valuable.
+Vibrant Cloth	Colorful cloth. It might be valuable.
+Beetle Horn	Large insect horn. It might be valuable.
+Golden Beard	Odd-shaped beard. It might be valuable.
+Massive Wheel	Big tank wheel. It might be valuable.
+Dense Rock	Abnormally hard rock. It might be valuable.
+Broken Heart	A cracked heart. It might be valuable.
+Fine Statuette	Very small sculpture. It might be valuable.
+Namayatsuhashi	Japanese treat with red bean paste inside.
+Pickled Turnip	Thinly sliced turnip that's been pickled.
+Konpeito	Spiky candies.
+Mibu Cracker	Rice cracker associated with Shinsen-gumi.
+Diet Food	Smells so bad, your appetite disappears.
+Super Diet Food	Tastes so good, you may overindulge.
+Veggie Supplement	100% veggies.
+Health Supplement	Keeps your skin young, but may cause acne.
+Mega Protein	Warning: don't consume before a competition.
+Sappy Jelly	Jelly made from tree sap.
+Mind Supplement	Clears your mind and enhances your memory.
+Copper Doorknob	Works as a disinfectant. It might be valuable.
+Silver Glasses	Prescription lenses. It might be valuable.
+Golden Pacifier	Shiny baby's toy. It might be valuable.
+Platinum Noseplug	For rich allergy victims. It might be valuable.
+Diamond Pickler	Beautiful yet weightless. It might be valuable.
+Steel Right Arm	Mighty steel right arm. It might be valuable.
+Broken Wheel	A wheel that came off. It might be valuable.
+Shining Beard	Beautiful facial hair. It might be valuable.
+Ebon Heart	Oversized onyx organ. It might be valuable.
+Fire Element	Mysterious burning lump. It might be valuable.
+Thunder Element	Mysterious sparking lump. It might be valuable.
+Ice Element	Mysterious freezing lump. It might be valuable.
+Throne of Ruin	A floating throne. It might be valuable.
+Burning Grail	Cup with eternal flame. It might be valuable.
+Scarlet Choker	Large, solid red choker. It might be valuable.
+Infernal Armor	Armor with flaming inlay. It might be valuable.
+Bloody Horse	Creepy child's ride. It might be valuable.
+All-Seeing Eye	An omniscient eye. It might be valuable.
+Jack Brothers	Knocks down all foes (med odds).
+Ardhanari	Deals massive Fire damage to all foes.
+Trickster	Inflicts random ailments on all foes.
+Infinity	Invulnerability for 1 turn (party).
+Valhalla	Invulnerability for 1 turn (1 ally), but...
+Summer Dream	Unpredictable effect.
+Armageddon	Deals ultimate damage to all foes.
+Cadenza	Restores 50% HP/ Agility up (party).
+Scarlet Havoc	Deals heavy Slashing damage to all foes.
+Frolic	Restores party's HP, but sometimes...
+Dreamfest	Charms all foes (high odds).
+King and I	Deals medium Ice dmg/ Freezes all foes.
+Best Friends	Combines all -kaja skills on 1 ally.
+Shadow Hound	Deals heavy Strike damage to all foes.
+Thunder Call	Deals heavy Elec dmg/ Shocks all foes.
+Last Judge	Deals severe Almighty damage to all foes.
+Raktapaksha	Knocks down all foes +Dekaja (med odds).
+Justice	Halves all foes' HP via Light magic.
+Malachite	A deep green gem, said to bring harmony.
+Yawn-B-Gone	Cures an ally's fatigue.
+0x5F3	0x0F3
+0x5F4	0x0F4
+Music Box	Slightly restores SP. Infinite use.
+Coffee Cup	Moderately restores HP. Infinite use.
+Chocolate Truffle	Made at cooking club. Might make a good gift.
+Sweet Fries	Made at cooking club. Might make a good gift.
+Sugar Cookie	Made at cooking club. Might make a good gift.
+Banana Cupcake	Made at cooking club. Might make a good gift.
+Japanese Strap	Made at fashion club. Might make a good gift.
+Knit Rabbit	Knit with fluffy yarn. Might make a good gift.
+Felt Bag	A pastel-colored bag. Might make a good gift.
+Hand-knit Scarf	Knit with hard work. Might make a good gift.
+0x5FF	0x0FF

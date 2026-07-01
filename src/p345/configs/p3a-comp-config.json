@@ -19,8 +19,15 @@
   "demonIds": "p3a-demon-ids.tsv",
   "enemyIds": "p3a-enemy-ids.tsv",
   "skillEffects": "skill-effects.tsv",
-  "itemEffects": "item-effects.tsv",
-  "itemsBegin": "0xFA0",
+  "itemOffset": "1000",
+  "itemEffects": [
+    "000-weapon.tsv",
+    "001-armor.tsv",
+    "002-boots.tsv",
+    "003-accessory.tsv",
+    "005-item.tsv",
+    "006-eventitem.tsv"
+  ],
   "resistLvls": {
     "0": "-",
     "1": "n",
