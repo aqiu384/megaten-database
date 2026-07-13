@@ -63,8 +63,17 @@ def load_comp_config(fname):
     comp_config['resistOrder'] = [comp_config['gameResists'].index(x) for x in comp_config['toolResists']]
     comp_config['ailmentOrder'] = [comp_config['gameAilments'].index(x) for x in comp_config['toolAilments']]
     comp_config['resistLvls'] = { int(x): y for x, y in comp_config['resistLvls'].items() }
+    comp_config['gameType'] = fname.split('/')[-1][:2]
 
     return comp_config
+
+def load_item_ids(comp_config):
+    item_ids = {}
+    for i, fname in enumerate(comp_config['itemEffects']):
+        offset = i * comp_config['itemOffset'] + 1
+        with open(f"{comp_config['gameType']}-data/{fname}") as tsvfile:
+            item_ids.update({ j + offset: x.split('\t')[0] for j, x in enumerate(tsvfile) })
+    return item_ids
 
 def check_resists(game_data, tool_data, demon_ids, stat_config, comp_config, big_endian=False):
     resists_len = len(comp_config['gameResists'])

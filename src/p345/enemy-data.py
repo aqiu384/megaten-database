@@ -2,7 +2,7 @@
 import struct
 import json
 from math import floor
-from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
+from shared import printif_notequal, save_ordered_demons, load_comp_config, load_item_ids, check_resists
 
 GAME_PREFIX = 'p3a'
 GAME_TYPE = GAME_PREFIX[:2]
@@ -25,13 +25,8 @@ for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv']:
     with open(f"{GAME_TYPE}-data/{fname}") as tsvfile:
         datasets.append(['BLANK'] + [x.strip().split('\t')[0] for x in tsvfile])
 
-ITEM_IDS = {}
-for i, fname in enumerate(COMP_CONFIG['itemEffects']):
-    offset = i * COMP_CONFIG['itemOffset'] + 1
-    with open(f"{GAME_TYPE}-data/{fname}") as tsvfile:
-        ITEM_IDS.update({ j + offset: x.split('\t')[0] for j, x in enumerate(tsvfile) })
-
 SKILL_IDS, RACE_IDS = datasets
+ITEM_IDS = load_item_ids(COMP_CONFIG)
 SEEN_DEMONS = { x: False for x in TOOL_DEMONS }
 
 stat_config = COMP_CONFIG['enemyStats']

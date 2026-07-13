@@ -1,6 +1,7 @@
 {
-  "demonData": ["p4/data/demon-data.json", "p4/data/golden-demon-data.json"],
+  "demonData": ["p4/data/demon-data.json", "p4/data/golden-demon-data.json", "p4/data/golden-party-data.json"],
   "enemyData": ["p4/data/golden-enemy-data.json"],
+  "partyData": ["p4/data/golden-party-data.json"],
   "gameAilments": ["Panic", "Poison", "Fear", "Rage", "Dizzy", "Exhaustion", "Enervation", "Mute"],
   "toolAilments": ["Panic", "Poison", "Fear", "Rage", "Dizzy", "Exhaustion", "Enervation", "Mute"],
   "gameResists": ["phy", "fir", "ice", "ele", "win", "alm", "lig", "dar"],

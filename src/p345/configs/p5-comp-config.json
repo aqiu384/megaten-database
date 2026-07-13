@@ -1,7 +1,8 @@
 {
-  "demonData": ["p5/data/demon-data.json"],
+  "demonData": ["p5/data/demon-data.json", "p5/data/party-data.json"],
   "enemyData": ["p5/data/enemy-data.json"],
   "skillData": ["p5/data/skill-data.json"],
+  "partyData": ["p5/data/party-data.json"],
   "gameAilments": ["Dizzy", "Panic", "Fear", "Forget", "Hunger", "Sleep", "Rage", "Despair", "Brainwash"],
   "toolAilments": ["Dizzy", "Panic", "Fear", "Forget", "Hunger", "Sleep", "Rage", "Despair", "Brainwash"],
   "gameResists": ["phy", "gun", "fir", "ice", "ele", "win", "psy", "nuk", "ble", "cur", "alm"],

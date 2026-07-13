@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import struct
 import json
-from shared import printif_notequal, save_ordered_demons, load_comp_config, check_resists
+from shared import printif_notequal, save_ordered_demons, load_comp_config, load_item_ids, check_resists
 
 GAME = 'p5r'
 GAME_TYPE = GAME[:2]
@@ -23,11 +23,12 @@ datasets = []
 
 with open(f"{GAME_TYPE}-data/{COMP_CONFIG['demonIds']}") as tsvfile:
     DEMON_IDS = ['BLANK\t0'] + [x.strip() for x in tsvfile]
-for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv', 'inherit-ids.tsv', 'skillcard-effects.tsv']:
+for fname in [COMP_CONFIG['skillEffects'], 'race-ids.tsv', 'inherit-ids.tsv']:
     with open(f"{GAME_TYPE}-data/{fname}") as tsvfile:
         datasets.append(['BLANK'] + [x.strip().split('\t')[0] for x in tsvfile])
 
-SKILL_IDS, RACE_IDS, INHERIT_IDS, SKILLCARD_IDS = datasets
+SKILL_IDS, RACE_IDS, INHERIT_IDS = datasets
+ITEM_IDS = load_item_ids(COMP_CONFIG)
 SEEN_DEMONS = { x: False for x in TOOL_DEMONS }
 
 if GAME == 'p3a':
@@ -59,6 +60,7 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
 
     demon = TOOL_DEMONS[dname]
     SEEN_DEMONS[dname] = True
+    not_party = demon.get('fusion', '') != 'party'
 
     race_id, dlvl = struct.unpack('<2B', line[0x02:0x04])
     stats = struct.unpack('<5B', line[0x04:0x09])
@@ -67,7 +69,9 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
     printif_notequal(dname, 'race', demon['race'].replace(' P', ''), RACE_IDS[race_id])
     printif_notequal(dname, 'lvl', demon['lvl'], dlvl)
     printif_notequal(dname, 'stats', demon['stats'], list(stats))
-    printif_notequal(dname, 'inherits', demon['inherits'], INHERIT_IDS[inherits])
+
+    if not_party:
+        printif_notequal(dname, 'inherits', demon['inherits'], INHERIT_IDS[inherits])
 
 stat_config = COMP_CONFIG['demonSkills']
 for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end'], stat_config['length'])):
@@ -82,6 +86,7 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
 
     growths = struct.unpack('<5B', line[0x00:0x05])
     demon['steps'] = growths
+    not_party = demon.get('fusion', '') != 'party'
 
     if GAME == 'p5r':
         trait, = struct.unpack('<1B', line[0x08:0x09])
@@ -99,8 +104,8 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
         if s_id == 0:
             continue
         if s_id > 1679:
-            s_id -= 1679
-            sname = SKILLCARD_IDS[s_id]
+            s_id -= 0x28F
+            sname = ITEM_IDS[s_id]
             slvl -= 1280 - demon['lvl']
 
             if sname not in demon['skills']:
@@ -115,15 +120,16 @@ for d_id, line_start in enumerate(range(stat_config['begin'], stat_config['end']
 
         seen_skills.append(sname)
 
-        if sname not in skills or skills[sname] != slvl:
+        if (sname not in skills or skills[sname] != slvl) and not_party:
             print(dname, sname, slvl, skills)
         else:
             skills[sname] = slvl
 
-    printif_notequal(dname, 'skills', sorted(x for x, y in skills.items() if y < 1000), sorted(seen_skills))
+    if not_party:
+        printif_notequal(dname, 'skills', sorted(x for x, y in skills.items() if y < 1000), sorted(seen_skills))
 
 for dname, seen in SEEN_DEMONS.items():
     if not seen:
-        print(dname)
+        print('Not seen:', dname)
 
 save_ordered_demons(TOOL_DEMONS, f"{GAME}-demon-data.json")
