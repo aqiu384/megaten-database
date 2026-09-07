@@ -9,35 +9,36 @@
 
 #### Status Ailments
 * Burn: Takes damage every turn
-* Freeze: Unable to take action
+* Freeze: Unable to take action, always can be attacked with Phys or Gun, recovers after being hit
 * Shock: Unable to take action, melee attacks against a shocked enemy may transfer Shock
 * Sleep: Unable to take action, HP and SP restores gradually, recovers after being hit
-* Rage: All stats reduced, attack buffed, will automatically use melee attacks
+* Rage: Defence and accuracy reduced, attack buffed, will automatically use melee attacks
 * Fear: May ignore commands or run away from battle
 * Brainwash: May heal or support the enemy, or attack ally
 * Hunger: Reduces attack
 * Forget: Unable to use skills, recovers after being hit **(Royal)**
-* Confuse: May throw away money or items, use an item, or do nothing, lasts for 1 turn **(Royal)**
+* Confuse: May throw away money or items, use an item, or do nothing, lasts for 1 turn, recovers after being hit **(Royal)**
 * Dizzy: Accuracy greatly reduced, recovers after being hit **(Royal)**
 * Despair: Unable to take action, dies after 3 turns, Reaper cannot succumb **(Royal)**
 
 #### Technical Damage
 * When a combatant is afflicted with an ailment certain elemental attacks against them deal Technical damage
     * Burn: Wind and Nuke
-    * Freeze and Shock: Phys and Nuke
-    * Dizzy and Sleep: All attacks
-    * Dizzy, Sleep, and all other ailments: Psy
+    * Freeze and Shock: Phys, Gun and Nuke
+    * Dizzy and Sleep: All attacks (except Life/Spirit Drain)
+    * Forget, Confuse, Fear, Despair, Rage and Brainwash: Psy
 * Deals additional damage as if weakness struck
-* Starts off with only a low chance of knockdown **(Royal)**
-* Can raise entire party's Technical Rank through billiards **(Royal)**
+* Starts off with only a medium chance of knockdown **(Royal)**
+* Can unlock and raise entire party's Technical Rank through billiards **(Royal)**
+    * Rank 1: Technical damage and chance of causing down remain unchanged
     * Rank 2: Technical damage light boost
-    * Rank 3: Technical damage medium boost
-    * Rank 4: Technical damage heavy boost and medium chance of causing down
-    * Rank 5: Technical damage severe boost and guaranteed chance of causing down
+    * Rank 3: Technical damage medium boost and high chance of causing down
+    * Rank 4: Technical damage severe boost and guaranteed chance of causing down
 * Reading "Knowing the Heart" unlocks additional combos for party **(Royal)**
     * Forget: Elec
     * Confusion: Gun and Wind
     * Fear: Ice
+    * Despair: Curse
     * Rage: Fire
     * Brainwash: Bless
 
