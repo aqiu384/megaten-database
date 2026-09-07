@@ -9,15 +9,15 @@
 
 #### Status Ailments
 * Burn: Takes damage every turn
-* Freeze: Unable to take action
+* Freeze: Unable to take action, always can be attacked with Phys or Gun, recovers after being hit
 * Shock: Unable to take action, melee attacks against a shocked enemy may transfer Shock
 * Sleep: Unable to take action, HP and SP restores gradually, recovers after being hit
-* Rage: All stats reduced, attack buffed, will automatically use melee attacks
+* Rage: Defence and accuracy reduced, attack buffed, will automatically use melee attacks
 * Fear: May ignore commands or run away from battle
 * Brainwash: May heal or support the enemy, or attack ally
 * Hunger: Reduces attack
 * Forget: Unable to use skills, recovers after being hit **(Royal)**
-* Confuse: May throw away money or items, use an item, or do nothing, lasts for 1 turn **(Royal)**
+* Confuse: May throw away money or items, use an item, or do nothing, lasts for 1 turn, recovers after being hit **(Royal)**
 * Dizzy: Accuracy greatly reduced, recovers after being hit **(Royal)**
 * Despair: Unable to take action, dies after 3 turns, Reaper cannot succumb **(Royal)**
 
@@ -28,7 +28,7 @@
     * Dizzy and Sleep: All attacks (except Life/Spirit Drain)
     * Forget, Confuse, Fear, Despair, Rage and Brainwash: Psy
 * Deals additional damage as if weakness struck
-* Starts off with only a low chance of knockdown **(Royal)**
+* Starts off with only a medium chance of knockdown **(Royal)**
 * Can unlock and raise entire party's Technical Rank through billiards **(Royal)**
     * Rank 1: Technical damage and chance of causing down remain unchanged
     * Rank 2: Technical damage light boost
