@@ -97,7 +97,7 @@ class SaveFile:
         unlocks = ['Hierophant exam reward', f"School-related Confidant Bonus x{self.exam_coeff}"] if self.exam_coeff > 1 else []
         return unlocks + [f"Charm +{points}"]
 
-    def update_unlocks(self, task, unlocks, date):
+    def update_unlocks(self, task, unlocks, date, add2total):
         new_unlocks = []
         cinema_bonus = 2 if self.craft_of_cinema and ('Movie' in task or 'DVDs' in task) else 0
 
@@ -119,8 +119,8 @@ class SaveFile:
                     rank += 1
                     target = self.config['Social Stats'][stat][rank]
                     new_unlocks.append(f"{stat} Lv. {rank}")
-
-                self.social_stats[stat] = (total, target, rank)
+                if add2total:
+                    self.social_stats[stat] = (total, target, rank)
             elif unlock[0] == '¥' or unlock[1] == '¥':
                 new_unlocks.append(unlock)
             else:
@@ -161,11 +161,12 @@ def expand_question(task, date, savefile, confidants):
         unlocks = ['Charm +2']
     if quest_type == 'Exam':
         unlocks = []
-    unlocks = savefile.update_unlocks(task, unlocks, date)
+    unlocks = savefile.update_unlocks(task, unlocks, date, True)
     return { 'Unlocks': unlocks }
 
 def expand_confidant(task, date, savefile, confidants):
-    parts = task.split(' ')
+    is_optional = 'Optional' in task
+    parts = task.split(' - Optional')[0].split(' ')
     arcana, event_type = parts[:2]
     event = ' '.join(parts[1:])
 
@@ -176,7 +177,7 @@ def expand_confidant(task, date, savefile, confidants):
         entry = {}
 
     todo = savefile.update_choices(task, entry.get('Choices', []), entry.get('Next Rank', -1))
-    todo['Unlocks'] = savefile.update_unlocks(task, entry.get('Unlocks', []), date)
+    todo['Unlocks'] = savefile.update_unlocks(task, entry.get('Unlocks', []), date, not is_optional)
     todo['Requires'] = entry.get('Requires', [])
     return todo
 
@@ -212,7 +213,7 @@ def expand_activity(task, date, savefile, activities):
             options = activities[activity]
             unlocks = options['All'] if choice not in options else options[choice]
 
-        unlocks = savefile.update_unlocks(task, unlocks, date)
+        unlocks = savefile.update_unlocks(task, unlocks, date, True)
 
     return { 'Unlocks': unlocks }
 
@@ -271,8 +272,6 @@ def expand_walkthrough(fname):
                 new_tasks = []
 
                 for task in day.get(timeslot, []):
-                    choices = []
-
                     if 'Question' in task:
                         new_entry = expand_question(task, date, savefile, confidants)
                     elif task[:task.find(' ')] in config['Confidants']:

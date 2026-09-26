@@ -3,6 +3,10 @@
 * [Normal and Battle Route Walkthroughs v1.1.3](./walkthrough-v113)
 * [All Confidant Events Walkthrough v1.1.3](./ace-walkthrough-v113)
 
+### Notes
+* Optional Event: Will not affect progression. Event can be viewed or treated as free time without reloading.
+* Optional Save/Reload Event: Will affect progression. Must reload last save after viewing, or the current day if not one designated.
+
 ### April
 ---
 #### 4/09 Sat
@@ -1092,6 +1096,7 @@
 ---
 #### 7/26 Tue
 ##### Daytime
+* Save for Optional Save/Reload Event > Skip 1 day to see Emperor and Chariot Invite Leblanc then reload
 * Pyramid Palace > Reach treasure
 * Obtain Personas > Hermit, Fortune, Hanged, Devil, Star
 ##### Evening
@@ -1107,6 +1112,8 @@
 ---
 #### 7/27 Wed
 ##### Daytime (Rain)
+* Emperor Invite Leblanc - Optional Save/Reload (Charm +5 ♪♪♪)
+    1. Choice 3. A bit of everything! +15 ♪♪♪
 * Pyramid Palace > Take treasure
 ##### Evening (Rain)
 * Crossword Question: Fireworks (Knowledge +2 ♪)
@@ -1118,6 +1125,8 @@
 ---
 #### 7/28 Thu
 ##### Daytime
+* Chariot Invite Leblanc - Optional Save/Reload (Guts +5 ♪♪♪)
+    1. Choice 2. Definitely the rival. +26 ♪♪♪
 * Emperor Rank 6 (36/20 to rank up)
     1. Proficiency Lv. 4 required
     1. Not raining required
@@ -1172,6 +1181,8 @@
 ---
 #### 8/01 Mon
 ##### Daytime (Rain)
+* Emperor Invite Leblanc - Optional Save/Reload (Charm +5 ♪♪♪)
+    1. Choice 3. Just take your clothes off. +15 ♪♪♪
 * Chariot Rank 9 (72/60 to rank up)
     1. Choice 1. Are you satisfied now? +18 ♪♪♪
     1. Choice 3. Don't do it. +18 ♪♪♪
@@ -1199,6 +1210,8 @@
 ---
 #### 8/03 Wed
 ##### Daytime (Rain)
+* Chariot Invite Leblanc - Optional Save/Reload (Charm +5 ♪♪♪)
+    1. Choice 1. Soccer. +18 ♪♪♪
 * Who's Been Assaulting People? Availability unlocked
 * Emperor Rank 8 (22/22 to rank up)
     1. Choice 3. It has to be Ann. +7 ♪♪
@@ -1213,6 +1226,8 @@
 ---
 #### 8/04 Thu
 ##### Daytime
+* Emperor Invite Leblanc - Optional Save/Reload (Charm +5 ♪♪♪)
+    1. Choice 1. Let's go. +15 ♪♪♪
 * Calling for Justice for Cats Availability unlocked
 * Faith Rank 5 (113/0 to rank up)
     1. Choice 1. It's a surprise, yeah. +9 ♪♪
@@ -1271,6 +1286,9 @@
 ---
 #### 8/08 Mon
 ##### Daytime
+* Emperor Invite Leblanc - Optional Save/Reload (Charm +5 ♪♪♪)
+    1. DVD Player required
+    1. Choice 1. If I can find a good deal. +22 ♪♪♪
 * Lovers Rank 9 Romantic (44/35 to rank up)
     1. Not raining required
     1. Any
@@ -1314,6 +1332,9 @@
 ---
 #### 8/11 Thu
 ##### Daytime (Rain)
+* Emperor Invite Leblanc - Optional Save/Reload (Charm +5 ♪♪♪) (Charm Lv. 5)
+    1. DVD Player required
+    1. Choice 1. There's no way. +15 ♪♪♪
 * Priestess Rank 4 (45/20 to rank up)
     1. Choice 1. That's unlike you. +9 ♪♪
     1. Any
@@ -1335,6 +1356,9 @@
 ---
 #### 8/13 Sat
 ##### Daytime
+* Chariot Invite Leblanc - Optional Save/Reload (Guts +5 ♪♪♪)
+    1. Retro Game Console required
+    1. Choice 1. Win or lose. +18 ♪♪♪
 * Priestess Rank 5 (45/20 to rank up)
     1. Choice 3. He sounds suspicious. +18 ♪♪♪
     1. Choice 1. I got this. +18 ♪♪♪
@@ -1721,6 +1745,7 @@
 ##### Class
 * Books > Reckless Casanova 2/3
 ##### Daytime
+* Save for Optional Save/Reload Event > Skip 2 days to see Hermit Invite Leblanc then reload
 * Chihaya > Money Reading (¥5000)
 * Chihaya > Celestial Reading (¥20000)
 * Spaceport Palace > Reach treasure
@@ -1742,6 +1767,9 @@
 ---
 #### 9/25 Sun
 ##### Daytime
+* Hermit Invite Leblanc - Optional Save/Reload (Guts +5 ♪♪♪) (Guts Lv. 5)
+    1. Retro Game Console required
+    1. Choice 1. Win or lose. +15 ♪♪♪
 * Spaceport Palace > Take treasure
 ##### Evening
 * Call Kawakami > Massage (¥0)
@@ -1951,6 +1979,8 @@
 ---
 #### 10/10 Mon
 ##### Daytime
+* Hermit Invite Leblanc - Optional Save/Reload (Proficiency +5 ♪♪♪)
+    1. Choice 1. Of course. +22 ♪♪♪
 * Tower Rank 6.0 (15/25 to rank up) (Kindness +3 ♪♪) (Tower Hangout Maihama Availability unlocked)
     1. Any
     1. Any

@@ -463,6 +463,7 @@ July:
     Evening: ["Books > Billiards Magician 1/1"]
   7/26 Tue:
     Daytime:
+    - Save for Optional Save/Reload Event > Skip 1 day to see Emperor and Chariot Invite Leblanc then reload
     - Pyramid Palace > Reach treasure
     - Obtain Personas > Hermit, Fortune, Hanged, Devil, Star
     Evening:
@@ -471,12 +472,16 @@ July:
     - Potted Plant > Mega Fertilizer
     - Fortune Rank 3
   7/27 Wed:
-    Daytime: ["Pyramid Palace > Take treasure"]
+    Daytime:
+    - Emperor Invite Leblanc - Optional Save/Reload
+    - Pyramid Palace > Take treasure
     Evening:
     - Call Kawakami > Massage
     - Star Rank 2
   7/28 Thu:
-    Daytime: ["Emperor Rank 6"]
+    Daytime:
+    - Chariot Invite Leblanc - Optional Save/Reload
+    - Emperor Rank 6
     Evening:
     - Luck Reading > Guts
     - Priestess Invite Movies
@@ -493,16 +498,22 @@ July:
     - Sun Rank 6
 August:
   8/01 Mon:
-    Daytime: ["Chariot Rank 9"]
+    Daytime:
+    - Emperor Invite Leblanc - Optional Save/Reload
+    - Chariot Rank 9
     Evening: ["Star Rank 3"]
   8/02 Tue:
     Daytime: ["Chariot Rank 10"]
     Evening: ["Fortune Rank 4"]
   8/03 Wed:
-    Daytime: ["Emperor Rank 8"]
+    Daytime:
+    - Chariot Invite Leblanc - Optional Save/Reload
+    - Emperor Rank 8
     Evening: ["Hanged Rank 2"]
   8/04 Thu:
-    Daytime: ["Faith Rank 5"]
+    Daytime:
+    - Emperor Invite Leblanc - Optional Save/Reload
+    - Faith Rank 5
     Evening: ["Fortune Rank 5"]
   8/05 Fri:
     Daytime: ["Priestess Rank 3"]
@@ -521,6 +532,7 @@ August:
     - Sun Rank 7
   8/08 Mon:
     Daytime:
+    - Emperor Invite Leblanc - Optional Save/Reload
     - Lovers Rank 9 Romantic
     - Lovers Rank 9 Platonic
     Evening: ["Devil Rank 2"]
@@ -536,7 +548,9 @@ August:
     - Shibuya > Flower Shop Job
     Evening: ["Shinjuku > Bar Crossroads Job"]
   8/11 Thu:
-    Daytime: ["Priestess Rank 4"]
+    Daytime:
+    - Emperor Invite Leblanc - Optional Save/Reload
+    - Priestess Rank 4
     Evening:
     - Luck Reading > Charm
     - Sun Rank 8
@@ -547,7 +561,9 @@ August:
     - Potted Plant > Mega Fertilizer
     - Moon Rank 4
   8/13 Sat:
-    Daytime: ["Priestess Rank 5"]
+    Daytime:
+    - Chariot Invite Leblanc - Optional Save/Reload
+    - Priestess Rank 5
     Evening:
     - Luck Reading > Proficiency
     - Hanged Rank 3
@@ -715,6 +731,7 @@ September:
   9/23 Fri:
     Class: ["Books > Reckless Casanova 2/3"]
     Daytime:
+    - Save for Optional Save/Reload Event > Skip 2 days to see Hermit Invite Leblanc then reload
     - Chihaya > Money Reading
     - Chihaya > Celestial Reading
     - Spaceport Palace > Reach treasure
@@ -729,7 +746,9 @@ September:
     - Hideout > Send calling card
     Evening: ["Books > Heroic Revelations 3/3"]
   9/25 Sun:
-    Daytime: ["Spaceport Palace > Take treasure"]
+    Daytime:
+    - Hermit Invite Leblanc - Optional Save/Reload
+    - Spaceport Palace > Take treasure
     Evening:
     - Call Kawakami > Massage
     - Priestess Hangout Jazz Club
@@ -788,7 +807,9 @@ October:
     Daytime: ["Hermit Invite Nakano"]
     Evening: ["Hermit Hangout Jazz Club 1/4"]
   10/10 Mon:
-    Daytime: ["Tower Rank 6.0"]
+    Daytime:
+    - Hermit Invite Leblanc - Optional Save/Reload
+    - Tower Rank 6.0
     Evening: ["Hierophant Rank 9"]
   10/11 Tue:
     Daytime: ["Auto"]
@@ -1200,8 +1221,6 @@ January:
   1/26 Thu:
     Train: ["Books > Flowerpedia 1/1"]
     Daytime:
-    - Chihaya > Money Reading
-    - Chihaya > Celestial Reading
     - Laboratory Palace > Reach treasure
     Evening:
     - Call Kawakami > Massage

@@ -3,6 +3,10 @@
 * [Normal and Battle Route Walkthroughs v1.1.3](./walkthrough-v113)
 * [All Confidant Events Walkthrough v1.1.3](./ace-walkthrough-v113)
 
+### Notes
+* Optional Event: Will not affect progression. Event can be viewed or treated as free time without reloading.
+* Optional Save/Reload Event: Will affect progression. Must reload last save after viewing, or the current day if not one designated.
+
 {% for month, days in walkthrough.items() %}
 ### {{ month }}
 {% for date, timeslots in days.items() %}
