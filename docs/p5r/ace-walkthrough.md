@@ -2936,8 +2936,6 @@
 ##### Train
 * Books > Flowerpedia 1/1 (Extended Flower Shop Job descriptions unlocked)
 ##### Daytime
-* Chihaya > Money Reading (¥5000)
-* Chihaya > Celestial Reading (¥20000)
 * Laboratory Palace > Reach treasure
 ##### Evening
 * Call Kawakami > Massage (¥0)
